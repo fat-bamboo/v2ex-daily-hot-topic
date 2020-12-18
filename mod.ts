@@ -2,7 +2,7 @@
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 
-import { HOT_TOPICS_DATA_URL } from "./consts.ts";
+import { HOT_TOPICS_DATA_URL, V2EX_TIME_DIFFER } from "./consts.ts";
 import { Topic } from "./types.ts";
 import { genArchiveText, genNewReadmeText } from "./utils.ts";
 
@@ -15,8 +15,11 @@ if (!response.ok) {
 
 const topics: Topic[] = await response.json();
 
-const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
-const rawFilefullPath = join("raw", `${yyyyMMdd}.json`);
+const todayTimeStr = format(
+  new Date(Date.now() - V2EX_TIME_DIFFER),
+  "yyyy-MM-dd",
+);
+const rawFilefullPath = join("raw", `${todayTimeStr}.json`);
 
 // 保存原始数据
 await Deno.writeTextFile(rawFilefullPath, JSON.stringify(topics));
@@ -26,6 +29,6 @@ const readme = await genNewReadmeText(topics);
 await Deno.writeTextFile("./README.md", readme);
 
 // 更新 ./archives/
-const archiveText = genArchiveText(topics, yyyyMMdd);
-const archivePath = join("archives", `${yyyyMMdd}.md`);
+const archiveText = genArchiveText(topics, todayTimeStr);
+const archivePath = join("archives", `${todayTimeStr}.md`);
 await Deno.writeTextFile(archivePath, archiveText);
