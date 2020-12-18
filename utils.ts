@@ -1,13 +1,21 @@
 /**
  * Define the util functions.
  */
+import { format } from "std/datetime/mod.ts";
+
 import type { Topic } from "./types.ts";
 
 function genListString(data: Topic[]): string {
-  return `<!-- BEGIN -->
-${data.map((x) => `1. [${x.title}](${x.url})`).join("\n")}
+  const formatedNowTime = format(new Date(), "yyyy-MM-dd HH:mm:ss");
 
-Last updated at ${Date().toString()}
+  return `<!-- BEGIN -->
+${
+    data.map((t) =>
+      `1. [${t.title}](${t.url}) ( ${t.replies}条评论, [![icon](${t.node.avatar_mini}) ${t.node.title}](${t.node.url}) )`
+    ).join("\n")
+  }
+
+Last updated at ${formatedNowTime}
 <!-- END -->`;
 }
 
