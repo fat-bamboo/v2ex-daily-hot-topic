@@ -1,5 +1,5 @@
 /**
- * 
+ * Define the result data structure.
  */
 
 export type Topic = {
@@ -9,7 +9,7 @@ export type Topic = {
   url: string;
   replies: number;
 
-  // NOTE: 源数据提供，但不太需要
+  // NOTE: 源数据提供，但不需要
   content?: string;
   content_rendered?: string;
 };

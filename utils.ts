@@ -1,3 +1,6 @@
+/**
+ * Define the util functions.
+ */
 import type { Topic } from "./types.ts";
 
 function genListString(data: Topic[]): string {

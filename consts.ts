@@ -1,5 +1,5 @@
 /**
- * NOTE: Use for set some of const varible
+ * Use for set some of const varible.
  */
 
 export const HOT_TOPICS_DATA_URL: string =
