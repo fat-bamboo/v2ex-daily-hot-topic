@@ -5,9 +5,9 @@ import type { Topic } from "./types.ts";
 
 function genListString(data: Topic[]): string {
   return `<!-- BEGIN -->
-Last updated at ${Date().toString()}
-
 ${data.map((x) => `1. [${x.title}](${x.url})`).join("\n")}
+
+Last updated at ${Date().toString()}
 <!-- END -->`;
 }
 
