@@ -11,7 +11,7 @@ function genListString(data: Topic[]): string {
   return `<!-- BEGIN -->
 ${
     data.map((t) =>
-      `1. [${t.title}](${t.url}) ( ${t.replies}条评论, [![icon](${t.node.avatar_mini}) ${t.node.title}](${t.node.url}) )`
+      `1. [${t.title}](${t.url}) \`\`${t.replies} replies\`\` \`\`${t.node.title}\`\``
     ).join("\n")
   }
 
