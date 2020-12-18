@@ -17,7 +17,7 @@
 1. [mba m1 竟然发烫了。。。](https://www.v2ex.com/t/736773) ``66 replies`` ``macOS``
 1. [大家注册 tg 是用自己的真实号码嘛 ？](https://www.v2ex.com/t/736605) ``65 replies`` ``Telegram``
 
-Last updated at 2020-12-19 04:09:55
+Last updated at 2020-12-19 05:08:42
 <!-- END -->
 
 历史数据归档于 [./archives](./archives)
