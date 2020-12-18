@@ -4,8 +4,6 @@
 
 [V2EX](https://www.v2ex.com/) 热议话题榜，记录从 2020-12-18 日开始的 V2EX 热议话题榜单。每小时抓取一次数据，按天归档。
 
-💡Idea comes from [justjavac 迷渡](https://github.com/justjavac/)
-
 ## 今日热议话题
 
 <!-- BEGIN -->
@@ -24,8 +22,6 @@
 
 历史数据归档于 [./archives](./archives)
 
-## 其余项目
+---
 
-- [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
-- [知乎热门视频](https://github.com/justjavac/zhihu-trending-hot-video)
-- [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
+**💡 Idea comes from [justjavac 迷渡](https://github.com/justjavac/)**
