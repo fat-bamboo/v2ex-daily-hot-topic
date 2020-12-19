@@ -24,8 +24,8 @@ async function fetchData(): Promise<Topic[]> {
 
   /** 去重 */
   topics = Array.from(new Set(topics));
-  /** 数据筛选: 创建时间是在"今天" */
-  topics = topics.filter((t) => t.created * 1000 > todayTimestamp);
+  /** 数据筛选: 创建时间是在"今天" && 去除【推广】主题 */
+  topics = topics.filter((t) => t.created * 1000 > todayTimestamp && t.node.name !== "promotions");
   /** 按回复数筛选 */
   topics = utils.filterTopicsByRepliesCount(topics);
   /** 按回复数排序 */
