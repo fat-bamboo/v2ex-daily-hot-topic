@@ -52,13 +52,13 @@ ${genDataListString(yesterdayData) || "空空如也"}
 }
 
 /**
- * 根据最新源数据生成 achive，返回最新的文件文本字符串
+ * 根据最新源数据生成 archive，返回最新的文件文本字符串
  * @param data 源数据
  */
 export function genArchiveText(data: Topic[]): string {
-  const formatedNowTime = format(new Date(), "yyyy-MM-dd HH:mm:ss");
+  const formatedNowTime = format(new Date(), "yyyy-MM-dd");
 
-  return `# 数据更新于 ${formatedNowTime}\n
+  return `# ${formatedNowTime}\n
 ${genDataListString(data)}
 `;
 }
