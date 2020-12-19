@@ -24,10 +24,20 @@ async function fetchData(): Promise<Topic[]> {
 
   /** 去重 */
   topics = Array.from(new Set(topics));
-  /** 数据筛选: 回复数大于 3， 创建时间是在"今天" */
-  topics = topics.filter((t) =>
-    t.replies >= 3 && t.created * 1000 > todayTimestamp
-  );
+  /** 数据筛选: 创建时间是在"今天" */
+  topics = topics.filter((t) => t.created * 1000 > todayTimestamp);
+
+  /** 对回复数字段进行动态筛选数据 */
+  let minAppliesCount: number = 3;
+  while (
+    minAppliesCount < 10 &&
+    topics.filter((t) => t.replies >= minAppliesCount).length > 10
+  ) {
+    minAppliesCount++;
+  }
+
+  topics = topics.filter((t) => t.replies >= minAppliesCount)
+
   /** 按回复数排序 */
   topics = topics.sort((a, b) => b.replies - a.replies);
 
@@ -48,8 +58,8 @@ async function main() {
   await Deno.writeTextFile(rawFilePath, JSON.stringify(topics));
 
   // 更新 README.md
-  const readme = await utils.genNewReadmeText(topics);
-  await Deno.writeTextFile("./README.md", readme);
+  const readmeText = await utils.genNewReadmeText(topics);
+  await Deno.writeTextFile("./README.md", readmeText);
 
   // 更新 ./archives/
   const archiveFilePath = join("archives", `${todayTimeStr}.md`);

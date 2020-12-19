@@ -23,7 +23,6 @@ export async function genNewReadmeText(data: Topic[]): Promise<string> {
     new Date(Date.now() - 32 * 1000 * 3600),
     "yyyy-MM-dd",
   );
-
   const yesterDayRawFilePath = join("raw", `${yesterdayTimeStr}.json`);
   const yesterdayData = JSON.parse(
     await Deno.readTextFile(yesterDayRawFilePath),
@@ -35,7 +34,7 @@ export async function genNewReadmeText(data: Topic[]): Promise<string> {
   readmeTextStr = readmeTextStr.replace(
     /<!-- TODAY BEGIN -->[\W\w]*<!-- TODAY END -->/,
     `<!-- TODAY BEGIN -->
-${genDataListString(data)}
+${genDataListString(data) || "空空如也"}
 
 数据更新于 ${formatedNowTime}
 <!-- TODAY END -->`,
@@ -45,7 +44,7 @@ ${genDataListString(data)}
   readmeTextStr = readmeTextStr.replace(
     /<!-- YESTERDAY BEGIN -->[\W\w]*<!-- YESTERDAY END -->/,
     `<!-- YESTERDAY BEGIN -->
-${genDataListString(yesterdayData)}
+${genDataListString(yesterdayData) || "空空如也"}
 <!-- YESTERDAY END -->`,
   );
 

@@ -1,11 +1,11 @@
 /**
  * Use for test
  */
-import { getTodayTimeStamp } from "./utils.ts";
+import { getTodayTimeStamp } from "../utils.ts";
 import { join } from "std/path/mod.ts";
 import { format } from "std/datetime/mod.ts";
 
-import { Topic } from "./types.ts";
+import { Topic } from "../types.ts";
 
 const testJSONFilePath = join("raw", "2020-12-18.json");
 
