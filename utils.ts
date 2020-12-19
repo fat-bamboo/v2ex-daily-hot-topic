@@ -13,6 +13,24 @@ function genDataListString(data: Topic[]): string {
   ).join("\n");
 }
 
+/** 对数据的回复数量字段进行动态筛选 */
+export function filterTopicsByRepliesCount(data: Topic[]): Topic[] {
+  let minAppliesCount: number = 3;
+  while (
+    minAppliesCount < 10 &&
+    data.filter((t) => t.replies >= minAppliesCount).length > 10
+  ) {
+    minAppliesCount++;
+  }
+
+  // NOTE: 如果最后数据条数较小
+  if (data.filter((t) => t.replies >= minAppliesCount).length < 10) {
+    minAppliesCount--;
+  }
+
+  return data.filter((t) => t.replies >= minAppliesCount);
+}
+
 /**
  * 根据最新源数据更新 README，返回更新后的文件文本字符串
  * @param data 源数据

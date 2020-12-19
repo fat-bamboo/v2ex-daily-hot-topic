@@ -26,18 +26,8 @@ async function fetchData(): Promise<Topic[]> {
   topics = Array.from(new Set(topics));
   /** 数据筛选: 创建时间是在"今天" */
   topics = topics.filter((t) => t.created * 1000 > todayTimestamp);
-
-  /** 对回复数字段进行动态筛选数据 */
-  let minAppliesCount: number = 3;
-  while (
-    minAppliesCount < 10 &&
-    topics.filter((t) => t.replies >= minAppliesCount).length > 10
-  ) {
-    minAppliesCount++;
-  }
-
-  topics = topics.filter((t) => t.replies >= minAppliesCount)
-
+  /** 按回复数筛选 */
+  topics = utils.filterTopicsByRepliesCount(topics);
   /** 按回复数排序 */
   topics = topics.sort((a, b) => b.replies - a.replies);
 
