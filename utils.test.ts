@@ -1,6 +1,7 @@
 /**
  * Use for test
  */
+import { getTodayTimeStamp } from "./utils.ts";
 import { join } from "std/path/mod.ts";
 import { format } from "std/datetime/mod.ts";
 
@@ -25,4 +26,4 @@ Last updated at ${formatedNowTime}
 <!-- END -->`;
 }
 
-console.log(genListString(topics));
+console.log(getTodayTimeStamp());

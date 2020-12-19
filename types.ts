@@ -13,6 +13,8 @@ export type Topic = {
   replies: number;
   /** 所属节点 */
   node: Node;
+  /** 创建时间戳 */
+  created: number;
 
   // NOTE: 暂时还用不到
   /** 内容 */
