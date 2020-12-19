@@ -85,7 +85,9 @@ ${genDataListString(data)}
  * 返回今日时间戳，毫秒为单位
  */
 export function getTodayTimeStamp(): number {
-  const formatedTodayTime = new Date(format(new Date(), "yyyy-MM-dd"));
+  const formatedTodayTime = new Date(
+    format(new Date(Date.now() - 8 * 3600 * 1000), "yyyy-MM-dd"),
+  );
 
   return formatedTodayTime.getTime();
 }
