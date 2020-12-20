@@ -66,7 +66,7 @@ ${genDataListString(data)}
 /** 返回今日起始时间时间戳，以毫秒为单位 */
 export function getTodayEarlyTimeStamp(): number {
   const todayEarlyDate = new Date(
-    format(new Date(Date.now() - getTimezoneMsOffset()), "yyyy-MM-dd"),
+    format(new Date(Date.now() + getTimezoneMsOffset()), "yyyy-MM-dd"),
   );
 
   return todayEarlyDate.getTime();
@@ -74,7 +74,7 @@ export function getTodayEarlyTimeStamp(): number {
 
 /** 返回此时时间戳，以毫秒为单位 */
 export function getCurrentTimeStamp(): number {
-  const currentDate = new Date(Date.now() - getTimezoneMsOffset());
+  const currentDate = new Date(Date.now() + getTimezoneMsOffset());
 
   return currentDate.getTime();
 }
