@@ -1,6 +1,6 @@
 # v2ex-daily-hot-topic
 
-[V2EX](https://www.v2ex.com/) 热议话题榜，记录从 2020-12-18 日开始的 V2EX 热议话题榜单。每 15 分钟更新一次数据，按天归档。
+[V2EX](https://www.v2ex.com/) 热议话题榜，记录从 2020-12-18 日开始的 V2EX 热议话题榜单。
 
 ## 今日热议话题
 
@@ -44,7 +44,7 @@
 1. [Snap Inc. 内推 -- 想成为顶级互联网公司北京 office 的首批工程师吗？](https://www.v2ex.com/t/737108) ``11条评论`` ``酷工作``
 <!-- YESTERDAY END -->
 
-历史数据归档于 [./archives](./archives)
+更多历史数据归档于 [./archives](./archives)
 
 ---
 
