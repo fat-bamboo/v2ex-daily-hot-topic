@@ -25,30 +25,15 @@ async function fetchData(): Promise<Topic[]> {
   return hotTopics.concat(lastestTopics);
 }
 
-/** 对数据的回复数量字段进行动态筛选 */
-function filterTopicsByRepliesCount(topics: Topic[]): Topic[] {
-  // 主题里最短评论数
-  let minAppliesCount: number = 5;
-
-  while (
-    topics.filter((t) => t.replies >= minAppliesCount).length >
-      TOPICS_MAX_AMOUNT
-  ) {
-    minAppliesCount++;
-  }
-
-  return topics.filter((t) => t.replies >= minAppliesCount);
-}
-
 /**
- * 数据筛选
+ * 对源数据进行处理，包括：筛选、排序、切割
  * @param rawTopics 源数据
  */
 function filterRawData(rawTopics: Topic[]): Topic[] {
-  /** id 去重 */
   const topicIdSet: Set<number> = new Set();
-  let topics: Topic[] = [];
+  const topics: Topic[] = [];
 
+  /** id 去重 */
   rawTopics.sort((a, b) => b.replies - a.replies).forEach((t) => {
     if (!topicIdSet.has(t.id)) {
       topicIdSet.add(t.id);
@@ -56,27 +41,30 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
     }
   });
 
-  const todayEarlyTimestamp = utils.getTodayEarlyTimeStamp();
-  /** 数据筛选: 创建时间是在"今天" && 去除【推广】主题 */
-  topics = topics.filter((t) =>
-    t.created * 1000 > todayEarlyTimestamp && t.node.name !== "promotions"
-  );
-  /** 按回复数筛选 */
-  topics = filterTopicsByRepliesCount(topics);
-  /** 按回复数从多到少排序 */
-  topics = topics.sort((a, b) => b.replies - a.replies);
-
-  return topics;
+  /** 
+   * 数据处理: 
+   * 筛选，创建时间是在"今天" && 去除【推广】主题 
+   * 排序，按回复数从多到少排序
+   * 切割，只选取 TOPICS_MAX_AMOUNT 条数据
+   */
+  return topics.filter((t) =>
+    t.created * 1000 > utils.getTodayEarlyTimeStamp() &&
+    t.node.name !== "promotions"
+  )
+    .sort((a, b) => b.replies - a.replies)
+    .slice(0, 0 + TOPICS_MAX_AMOUNT);
 }
 
 async function main() {
-  const rawTopics = await fetchData();
   const currentDateStr = format(
     new Date(utils.getCurrentTimeStamp()),
     "yyyy-MM-dd",
   );
   const rawFilePath = join("raw", `${currentDateStr}.json`);
+
+  const rawTopics = await fetchData();
   let todayRawData: Topic[] = [];
+
   try {
     todayRawData = JSON.parse(await Deno.readTextFile(rawFilePath));
   } catch (error) {
