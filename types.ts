@@ -17,8 +17,8 @@ export type Topic = {
   created: number;
 
   // NOTE: 暂时还用不到
-  /** 内容 */
-  content: string;
+  /** 内容相关 */
+  content?: string;
   content_rendered?: string;
 };
 

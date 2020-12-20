@@ -1,7 +1,11 @@
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 
-import { HOT_TOPICS_DATA_URL, LASTEST_TOPICS_DATA_URL } from "./consts.ts";
+import {
+  HOT_TOPICS_DATA_URL,
+  LASTEST_TOPICS_DATA_URL,
+  TOPICS_MAX_AMOUNT,
+} from "./consts.ts";
 import { Topic } from "./types.ts";
 import * as utils from "./utils.ts";
 
@@ -23,27 +27,21 @@ async function fetchData(): Promise<Topic[]> {
 
 /** 对数据的回复数量字段进行动态筛选 */
 function filterTopicsByRepliesCount(topics: Topic[]): Topic[] {
-  let minAppliesCount: number = 3;
+  // 主题里最短评论数
+  let minAppliesCount: number = 5;
 
   while (
-    minAppliesCount < 10 &&
-    topics.filter((t) => t.replies >= minAppliesCount).length > 10
+    topics.filter((t) => t.replies >= minAppliesCount).length >
+      TOPICS_MAX_AMOUNT
   ) {
     minAppliesCount++;
-  }
-
-  if (
-    minAppliesCount > 3 &&
-    topics.filter((t) => t.replies >= minAppliesCount).length < 10
-  ) {
-    minAppliesCount--;
   }
 
   return topics.filter((t) => t.replies >= minAppliesCount);
 }
 
 /**
- * 
+ * 数据筛选
  * @param rawTopics 源数据
  */
 function filterRawData(rawTopics: Topic[]): Topic[] {
@@ -51,7 +49,7 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
   const topicIdSet: Set<number> = new Set();
   let topics: Topic[] = [];
 
-  rawTopics.forEach((t) => {
+  rawTopics.sort((a, b) => b.replies - a.replies).forEach((t) => {
     if (!topicIdSet.has(t.id)) {
       topicIdSet.add(t.id);
       topics.push(t);
@@ -78,9 +76,12 @@ async function main() {
     "yyyy-MM-dd",
   );
   const rawFilePath = join("raw", `${currentDateStr}.json`);
-  const todayRawData: Topic[] = JSON.parse(
-    await Deno.readTextFile(rawFilePath),
-  );
+  let todayRawData: Topic[] = [];
+  try {
+    todayRawData = JSON.parse(await Deno.readTextFile(rawFilePath));
+  } catch (error) {
+    console.error("Cannot find today .json file, maybe it's a new day~");
+  }
   const topics = filterRawData(rawTopics.concat(todayRawData));
 
   // 保存原始 JSON 数据
