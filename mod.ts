@@ -1,11 +1,7 @@
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 
-import {
-  HOT_TOPICS_DATA_URL,
-  LASTEST_TOPICS_DATA_URL,
-  TOPICS_MAX_AMOUNT,
-} from "./consts.ts";
+import { HOT_TOPICS_DATA_URL, LASTEST_TOPICS_DATA_URL } from "./consts.ts";
 import { Topic } from "./types.ts";
 import * as utils from "./utils.ts";
 
@@ -52,7 +48,7 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
     t.node.name !== "promotions"
   )
     .sort((a, b) => b.replies - a.replies)
-    .slice(0, 0 + TOPICS_MAX_AMOUNT);
+    .slice(0, 0 + utils.getMaxDisplayCount());
 }
 
 async function main() {

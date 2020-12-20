@@ -2,9 +2,6 @@
  * Use for set some of const varible.
  */
 
-/** 最合适的展示主题数 */
-export const TOPICS_MAX_AMOUNT: number = 16;
-
 /** 最热主题数据 api: 相当于首页右侧的 10 大每天的内容 */
 export const HOT_TOPICS_DATA_URL: string =
   "https://www.v2ex.com/api/topics/hot.json";

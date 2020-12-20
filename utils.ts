@@ -83,3 +83,13 @@ export function getCurrentTimeStamp(): number {
 export function getTimezoneMsOffset(): number {
   return (new Date()).getTimezoneOffset() * 60 * 1000;
 }
+
+/**
+ * 根据今天到某个特殊日期的差值，获取最大数据展示条数 :)
+ */
+export function getMaxDisplayCount(): number {
+  const someDay = format(new Date("1998/7/26"), "yyyy");
+  const currentDay = format(new Date(), "yyyy");
+
+  return parseInt(currentDay) - parseInt(someDay);
+}
