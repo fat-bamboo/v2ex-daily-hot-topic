@@ -1,4 +1,3 @@
-#!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 
@@ -18,8 +17,36 @@ async function fetchData(): Promise<Topic[]> {
 
   const hotTopics: Topic[] = await hotTopicsRes.json();
   const lastestTopics: Topic[] = await lastestTopicsRes.json();
-  const rawTopics = hotTopics.concat(lastestTopics);
 
+  return hotTopics.concat(lastestTopics);
+}
+
+/** 对数据的回复数量字段进行动态筛选 */
+function filterTopicsByRepliesCount(topics: Topic[]): Topic[] {
+  let minAppliesCount: number = 3;
+
+  while (
+    minAppliesCount < 10 &&
+    topics.filter((t) => t.replies >= minAppliesCount).length > 10
+  ) {
+    minAppliesCount++;
+  }
+
+  if (
+    minAppliesCount > 3 &&
+    topics.filter((t) => t.replies >= minAppliesCount).length < 10
+  ) {
+    minAppliesCount--;
+  }
+
+  return topics.filter((t) => t.replies >= minAppliesCount);
+}
+
+/**
+ * 
+ * @param rawTopics 源数据
+ */
+function filterRawData(rawTopics: Topic[]): Topic[] {
   /** id 去重 */
   const topicIdSet: Set<number> = new Set();
   let topics: Topic[] = [];
@@ -31,30 +58,32 @@ async function fetchData(): Promise<Topic[]> {
     }
   });
 
-  const todayTimestamp = utils.getTodayTimeStamp();
+  const todayEarlyTimestamp = utils.getTodayEarlyTimeStamp();
   /** 数据筛选: 创建时间是在"今天" && 去除【推广】主题 */
   topics = topics.filter((t) =>
-    t.created * 1000 > todayTimestamp && t.node.name !== "promotions"
+    t.created * 1000 > todayEarlyTimestamp && t.node.name !== "promotions"
   );
   /** 按回复数筛选 */
-  topics = utils.filterTopicsByRepliesCount(topics);
-  /** 按回复数排序 */
+  topics = filterTopicsByRepliesCount(topics);
+  /** 按回复数从多到少排序 */
   topics = topics.sort((a, b) => b.replies - a.replies);
 
   return topics;
 }
 
 async function main() {
-  const topics = await fetchData();
-
-  const todayTimeStr = format(
-    /** 8小时的毫秒数：因为 v2ex 在每日8点重置数据，所以需要向前减去8小时 */
-    new Date(Date.now() - 8 * 3600 * 1000),
+  const rawTopics = await fetchData();
+  const currentDateStr = format(
+    new Date(utils.getCurrentTimeStamp()),
     "yyyy-MM-dd",
   );
+  const rawFilePath = join("raw", `${currentDateStr}.json`);
+  const todayRawData: Topic[] = JSON.parse(
+    await Deno.readTextFile(rawFilePath),
+  );
+  const topics = filterRawData(rawTopics.concat(todayRawData));
 
   // 保存原始 JSON 数据
-  const rawFilePath = join("raw", `${todayTimeStr}.json`);
   await Deno.writeTextFile(rawFilePath, JSON.stringify(topics));
 
   // 更新 README.md
@@ -62,7 +91,7 @@ async function main() {
   await Deno.writeTextFile("./README.md", readmeText);
 
   // 更新 ./archives/
-  const archiveFilePath = join("archives", `${todayTimeStr}.md`);
+  const archiveFilePath = join("archives", `${currentDateStr}.md`);
   const archiveText = utils.genArchiveText(topics);
   await Deno.writeTextFile(archiveFilePath, archiveText);
 }

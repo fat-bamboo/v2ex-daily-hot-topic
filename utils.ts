@@ -13,32 +13,14 @@ function genDataListString(data: Topic[]): string {
   ).join("\n");
 }
 
-/** 对数据的回复数量字段进行动态筛选 */
-export function filterTopicsByRepliesCount(data: Topic[]): Topic[] {
-  let minAppliesCount: number = 3;
-  while (
-    minAppliesCount < 10 &&
-    data.filter((t) => t.replies >= minAppliesCount).length > 10
-  ) {
-    minAppliesCount++;
-  }
-
-  // NOTE: 如果最后数据条数较小
-  if (data.filter((t) => t.replies >= minAppliesCount).length < 10) {
-    minAppliesCount--;
-  }
-
-  return data.filter((t) => t.replies >= minAppliesCount);
-}
-
 /**
  * 根据最新源数据更新 README，返回更新后的文件文本字符串
  * @param data 源数据
  */
 export async function genNewReadmeText(data: Topic[]): Promise<string> {
-  const formatedNowTime = format(new Date(), "yyyy-MM-dd HH:mm:ss");
+  const formatedNowTimeStr = format(new Date(), "yyyy-MM-dd HH:mm:ss");
   const yesterdayTimeStr = format(
-    new Date(Date.now() - 32 * 1000 * 3600),
+    new Date(getCurrentTimeStamp() - 24 * 1000 * 3600),
     "yyyy-MM-dd",
   );
   const yesterDayRawFilePath = join("raw", `${yesterdayTimeStr}.json`);
@@ -54,7 +36,7 @@ export async function genNewReadmeText(data: Topic[]): Promise<string> {
     `<!-- TODAY BEGIN -->
 ${genDataListString(data) || "空空如也"}
 
-数据更新于 ${formatedNowTime}
+数据更新于 ${formatedNowTimeStr}
 <!-- TODAY END -->`,
   );
 
@@ -74,20 +56,30 @@ ${genDataListString(yesterdayData) || "空空如也"}
  * @param data 源数据
  */
 export function genArchiveText(data: Topic[]): string {
-  const formatedNowTime = format(new Date(), "yyyy-MM-dd");
+  const formatedNowTimeStr = format(new Date(), "yyyy-MM-dd");
 
-  return `# ${formatedNowTime}\n
+  return `# ${formatedNowTimeStr}\n
 ${genDataListString(data)}
 `;
 }
 
-/**
- * 返回今日时间戳，毫秒为单位
- */
-export function getTodayTimeStamp(): number {
-  const formatedTodayTime = new Date(
-    format(new Date(Date.now() - 8 * 3600 * 1000), "yyyy-MM-dd"),
+/** 返回今日起始时间时间戳，以毫秒为单位 */
+export function getTodayEarlyTimeStamp(): number {
+  const todayEarlyDate = new Date(
+    format(new Date(Date.now() - getTimezoneMsOffset()), "yyyy-MM-dd"),
   );
 
-  return formatedTodayTime.getTime();
+  return todayEarlyDate.getTime();
+}
+
+/** 返回此时时间戳，以毫秒为单位 */
+export function getCurrentTimeStamp(): number {
+  const currentDate = new Date(Date.now() - getTimezoneMsOffset());
+
+  return currentDate.getTime();
+}
+
+/** 返回时区差值，以毫秒为单位 */
+export function getTimezoneMsOffset(): number {
+  return (new Date()).getTimezoneOffset() * 60 * 1000;
 }
