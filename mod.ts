@@ -39,12 +39,13 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
 
   /** 
    * 数据处理: 
-   * 筛选，创建时间是在"今天" && 去除【推广】主题 
+   * 筛选，创建时间是在"今天" && 评论数大于 0 && 去除【推广】主题 
    * 排序，按回复数从多到少排序
    * 切割，只选取 TOPICS_MAX_AMOUNT 条数据
    */
   return topics.filter((t) =>
     t.created * 1000 > utils.getTodayEarlyTimeStamp() &&
+    t.replies > 0 &&
     t.node.name !== "promotions"
   )
     .sort((a, b) => b.replies - a.replies)
