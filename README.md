@@ -14,8 +14,8 @@
 1. [优酷这是来搞笑的吗？](https://www.v2ex.com/t/739352) ``35条评论`` ``全球工单系统``
 1. [安卓手机是否可以作为一台 Linux 主机使用？](https://www.v2ex.com/t/739415) ``32条评论`` ``Android``
 1. [iPhone12 的屏幕是真黄](https://www.v2ex.com/t/739318) ``30条评论`` ``iPhone``
+1. [瞎说八道，关于 M1 对未来对影响之我见](https://www.v2ex.com/t/739421) ``28条评论`` ``Apple``
 1. [mbp2020 的充电器竟然不能插在竖直的墙面上](https://www.v2ex.com/t/739361) ``23条评论`` ``MacBook Pro``
-1. [瞎说八道，关于 M1 对未来对影响之我见](https://www.v2ex.com/t/739421) ``21条评论`` ``Apple``
 1. [关于联通升级 49 元/月的 5G 套餐](https://www.v2ex.com/t/739410) ``20条评论`` ``问与答``
 1. [离职一年多了，前公司突然找我要兼职运维](https://www.v2ex.com/t/739341) ``19条评论`` ``远程工作``
 1. [m1 macmini 不能设置成 4k 60hz 吗](https://www.v2ex.com/t/739433) ``15条评论`` ``Apple``
@@ -28,7 +28,7 @@
 1. [求 6 盘 NAS 存储方案](https://www.v2ex.com/t/739449) ``11条评论`` ``NAS``
 1. [每天 Bug Sur 系统都会通过 syncdefaultsd 进程上传大量数据](https://www.v2ex.com/t/739393) ``11条评论`` ``macOS``
 
-数据更新于 2020-12-28 05:25:32
+数据更新于 2020-12-28 05:47:50
 <!-- TODAY END -->
 
 ### 昨日热议话题
