@@ -36,6 +36,8 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
     .forEach((t) => {
       if (!topicIdSet.has(t.id)) {
         topicIdSet.add(t.id);
+        // 删除掉标题里不正常的符号
+        t.title = t.title.replace(/[\n\r]/g, "");
         topics.push(t);
       }
     });
