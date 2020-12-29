@@ -2,7 +2,7 @@
 
 [V2EX](https://www.v2ex.com/) 热议话题榜，记录从 2020-12-18 日开始的 V2EX 热议话题榜单。
 
-V2EX 每日热门话题：**[V2EX daily hot topic web](https://realleonardo.github.io/v2ex-daily-hot-topic-web/)**
+**网站版：[V2EX daily hot topic web](https://realleonardo.github.io/v2ex-daily-hot-topic-web/)**
 
 ## 今日热议话题
 
