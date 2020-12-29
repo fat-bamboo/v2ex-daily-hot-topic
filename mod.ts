@@ -1,5 +1,6 @@
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
+import { exists } from "std/fs/mod.ts";
 
 import { HOT_TOPICS_DATA_URL, LASTEST_TOPICS_DATA_URL } from "./consts.ts";
 import { Topic } from "./types.ts";
@@ -30,24 +31,26 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
   const topics: Topic[] = [];
 
   /** id 去重 */
-  rawTopics.sort((a, b) => b.replies - a.replies).forEach((t) => {
-    if (!topicIdSet.has(t.id)) {
-      topicIdSet.add(t.id);
-      topics.push(t);
-    }
-  });
+  rawTopics
+    .sort((a, b) => b.replies - a.replies)
+    .forEach((t) => {
+      if (!topicIdSet.has(t.id)) {
+        topicIdSet.add(t.id);
+        topics.push(t);
+      }
+    });
 
-  /** 
-   * 数据处理: 
+  /**
+   * 数据处理:
    * 筛选，创建时间是在"今天" && 评论数大于 5
    * 排序，按回复数从多到少排序
    * 切割，只选取 TOPICS_MAX_AMOUNT 条数据
    * 暂时不去除【推广】主题: t.node.name !== "promotions"
    */
-  return topics.filter((t) =>
-    t.created * 1000 > utils.getTodayEarlyTimeStamp() &&
-    t.replies > 5
-  )
+  return topics
+    .filter(
+      (t) => t.created * 1000 > utils.getTodayEarlyTimeStamp() && t.replies > 5
+    )
     .sort((a, b) => b.replies - a.replies)
     .slice(0, 0 + utils.getMaxDisplayCount());
 }
@@ -55,17 +58,15 @@ function filterRawData(rawTopics: Topic[]): Topic[] {
 async function main() {
   const currentDateStr = format(
     new Date(utils.getCurrentTimeStamp()),
-    "yyyy-MM-dd",
+    "yyyy-MM-dd"
   );
   const rawFilePath = join("raw", `${currentDateStr}.json`);
 
   const rawTopics = await fetchData();
   let todayRawData: Topic[] = [];
 
-  try {
+  if (await exists(rawFilePath)) {
     todayRawData = JSON.parse(await Deno.readTextFile(rawFilePath));
-  } catch (error) {
-    console.error("Cannot find today .json file, maybe it's a new day~");
   }
   const topics = filterRawData(rawTopics.concat(todayRawData));
 
