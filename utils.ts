@@ -95,8 +95,10 @@ export function getTimezoneMsOffset(): number {
  * 根据今天到某个特殊日期的差值，获取最大数据展示条数 :)
  */
 export function getMaxDisplayCount(): number {
-  const someDay = format(new Date("1998/7/26"), "yyyy");
-  const currentDay = format(new Date(), "yyyy");
+  const someDayTimestamp = new Date("1998/7/26").getTime();
+  const currentTimestamp = Date.now();
 
-  return parseInt(currentDay) - parseInt(someDay);
+  return parseInt(
+    ((currentTimestamp - someDayTimestamp) / 1000 / 3600 / 24 / 365).toFixed(0)
+  );
 }
