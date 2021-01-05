@@ -9,9 +9,8 @@ import type { Topic } from "./types.ts";
  */
 function genDataListString(data: Topic[]): string {
   return data
-    .map(
-      (t) =>
-        `1. [${t.title}](${t.url}) \`${t.replies}条评论\` \`${t.node.title}\``
+    .map((t) =>
+      `1. [${t.title}](${t.url}) \`${t.replies}条评论\` \`${t.node.title}\``
     )
     .join("\n");
 }
@@ -24,11 +23,11 @@ export async function genNewReadmeText(data: Topic[]): Promise<string> {
   const formatedNowTimeStr = format(new Date(), "yyyy-MM-dd HH:mm:ss");
   const yesterdayTimeStr = format(
     new Date(getCurrentTimeStamp() - 24 * 1000 * 3600),
-    "yyyy-MM-dd"
+    "yyyy-MM-dd",
   );
   const yesterDayRawFilePath = join("raw", `${yesterdayTimeStr}.json`);
   const yesterdayData = JSON.parse(
-    await Deno.readTextFile(yesterDayRawFilePath)
+    await Deno.readTextFile(yesterDayRawFilePath),
   );
 
   let readmeTextStr = await Deno.readTextFile("./README.md");
@@ -42,7 +41,7 @@ ${genDataListString(data) || "空空如也"}
 
 数据更新于 ${formatedNowTimeStr}
 
-<!-- TODAY END -->`
+<!-- TODAY END -->`,
   );
 
   // 更新昨日数据
@@ -52,7 +51,7 @@ ${genDataListString(data) || "空空如也"}
 
 ${genDataListString(yesterdayData) || "空空如也"}
 
-<!-- YESTERDAY END -->`
+<!-- YESTERDAY END -->`,
   );
 
   return readmeTextStr;
@@ -73,7 +72,7 @@ ${genDataListString(data)}
 /** 返回今日起始时间时间戳，以毫秒为单位 */
 export function getTodayEarlyTimeStamp(): number {
   const todayEarlyDate = new Date(
-    format(new Date(Date.now() + getTimezoneMsOffset()), "yyyy-MM-dd")
+    format(new Date(Date.now() + getTimezoneMsOffset()), "yyyy-MM-dd"),
   );
 
   return todayEarlyDate.getTime();
@@ -99,6 +98,6 @@ export function getMaxDisplayCount(): number {
   const currentTimestamp = Date.now();
 
   return parseInt(
-    ((currentTimestamp - someDayTimestamp) / 1000 / 3600 / 24 / 365).toFixed(0)
+    ((currentTimestamp - someDayTimestamp) / 1000 / 3600 / 24 / 365).toFixed(0),
   );
 }
