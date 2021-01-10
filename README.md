@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [如何看待小米 MIUI 的这种流氓行为？](https://www.v2ex.com/t/743466) `69条评论` `问与答`
-1. [360 浏览器开始不停弹广告了](https://www.v2ex.com/t/743487) `44条评论` `浏览器`
+1. [如何看待小米 MIUI 的这种流氓行为？](https://www.v2ex.com/t/743466) `76条评论` `问与答`
+1. [360 浏览器开始不停弹广告了](https://www.v2ex.com/t/743487) `48条评论` `浏览器`
 1. [我这个内存使用情况，换成 8G 的 M1 够不够？（现在 16G 的 Intel mbp，平时一般 65-70%内存使用率）](https://www.v2ex.com/t/743470) `33条评论` `Apple`
 1. [新年开始写作，希望得到大家鼓励！](https://www.v2ex.com/t/743484) `33条评论` `生活`
+1. [怎么才能学会去爱别人?](https://www.v2ex.com/t/743517) `24条评论` `知乎`
 1. [M1 到手了，感觉非常惊喜](https://www.v2ex.com/t/743507) `24条评论` `MacBook Pro`
 1. [老爸 iPhone6 淘汰了 现在想换 iPhone8 咋样](https://www.v2ex.com/t/743490) `23条评论` `Apple`
-1. [怎么才能学会去爱别人?](https://www.v2ex.com/t/743517) `20条评论` `问与答`
-1. [PHP 程序员们, 团结起来, 我们去学点新东西吧](https://www.v2ex.com/t/743513) `17条评论` `PHP`
-1. [家里联网设备有点多 ，峰值时能达到 13 个左右，求推荐路由](https://www.v2ex.com/t/743514) `16条评论` `路由器`
+1. [家里联网设备有点多 ，峰值时能达到 13 个左右，求推荐路由](https://www.v2ex.com/t/743514) `20条评论` `路由器`
+1. [PHP 程序员们, 团结起来, 我们去学点新东西吧](https://www.v2ex.com/t/743513) `18条评论` `PHP`
 1. [拆迁纠纷求助](https://www.v2ex.com/t/743500) `16条评论` `问与答`
 1. [有人把小牛电动车骑上北京天桥吗？](https://www.v2ex.com/t/743471) `13条评论` `问与答`
 1. [看看 CSDN 的骚操作](https://www.v2ex.com/t/743494) `12条评论` `程序员`
@@ -26,12 +26,12 @@
 1. [怎么用 bash 的正则表达式从一大堆超链接中筛选中指定的链接？](https://www.v2ex.com/t/743522) `9条评论` `问与答`
 1. [LeetCode 中使用 StringBuilder 连接字符串为什么会比用+号连接快？](https://www.v2ex.com/t/743492) `9条评论` `LeetCode`
 1. [有玩我的世界的 v 友吗？ Java 正版服欢迎大家！](https://www.v2ex.com/t/743463) `9条评论` `游戏`
+1. [M1 Mac mini + LG UltraFine 4K 还缺音频输入和视频输入，配什么配件比较好？](https://www.v2ex.com/t/743528) `8条评论` `Apple`
 1. [有没有办法在 windows 桌面下运行 U 盘系统](https://www.v2ex.com/t/743465) `8条评论` `问与答`
 1. [windows 下 navicat，当一个表有很多字段时，怎么快速横向滚动？](https://www.v2ex.com/t/743546) `6条评论` `问与答`
-1. [M1 mbp 双显示器解决方案 displaylink 转换器](https://www.v2ex.com/t/743516) `6条评论` `Apple`
-1. [刷题很痛苦 需要自己找方法刺激过程 别放弃](https://www.v2ex.com/t/743485) `6条评论` `LeetCode`
+1. [[武汉/深圳] 试着找一份工作](https://www.v2ex.com/t/743543) `6条评论` `求职`
 
-数据更新于 2021-01-10 15:53:33
+数据更新于 2021-01-10 16:23:06
 
 <!-- TODAY END -->
 
