@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [如何看待小米 MIUI 的这种流氓行为？](https://www.v2ex.com/t/743466) `81条评论` `问与答`
-1. [360 浏览器开始不停弹广告了](https://www.v2ex.com/t/743487) `58条评论` `浏览器`
+1. [如何看待小米 MIUI 的这种流氓行为？](https://www.v2ex.com/t/743466) `84条评论` `问与答`
+1. [360 浏览器开始不停弹广告了](https://www.v2ex.com/t/743487) `61条评论` `浏览器`
 1. [我这个内存使用情况，换成 8G 的 M1 够不够？（现在 16G 的 Intel mbp，平时一般 65-70%内存使用率）](https://www.v2ex.com/t/743470) `35条评论` `Apple`
+1. [新年开始写作，希望得到大家鼓励！](https://www.v2ex.com/t/743484) `35条评论` `生活`
 1. [老爸 iPhone6 淘汰了 现在想换 iPhone8 咋样](https://www.v2ex.com/t/743490) `35条评论` `Apple`
-1. [新年开始写作，希望得到大家鼓励！](https://www.v2ex.com/t/743484) `34条评论` `生活`
 1. [怎么才能学会去爱别人?](https://www.v2ex.com/t/743517) `24条评论` `知乎`
 1. [M1 到手了，感觉非常惊喜](https://www.v2ex.com/t/743507) `24条评论` `MacBook Pro`
 1. [家里联网设备有点多 ，峰值时能达到 13 个左右，求推荐路由](https://www.v2ex.com/t/743514) `20条评论` `路由器`
+1. [为什么大部分人看不起去银行开发？](https://www.v2ex.com/t/743567) `18条评论` `职场话题`
 1. [PHP 程序员们, 团结起来, 我们去学点新东西吧](https://www.v2ex.com/t/743513) `18条评论` `PHP`
-1. [为什么大部分人看不起去银行开发？](https://www.v2ex.com/t/743567) `17条评论` `职场话题`
 1. [拆迁纠纷求助](https://www.v2ex.com/t/743500) `16条评论` `问与答`
+1. [感觉自己代码写得烂不好意思公开怎么办？](https://www.v2ex.com/t/743576) `13条评论` `问与答`
 1. [有人把小牛电动车骑上北京天桥吗？](https://www.v2ex.com/t/743471) `13条评论` `问与答`
 1. [看看 CSDN 的骚操作](https://www.v2ex.com/t/743494) `12条评论` `程序员`
 1. [easyswoole,swoft,hyperf 选型？](https://www.v2ex.com/t/743468) `12条评论` `PHP`
+1. [六行代码实现 Python 管道](https://www.v2ex.com/t/743574) `10条评论` `Python`
+1. [为什么主流的国内的即使通讯工具都抛弃 Web 端了](https://www.v2ex.com/t/743569) `10条评论` `问与答`
 1. [租房子的宽带网络问题,大佬们有没有什么办法](https://www.v2ex.com/t/743562) `10条评论` `问与答`
 1. [QQ macOS Catalyst 何时支持 Apple Silicon M1 ？](https://www.v2ex.com/t/743520) `10条评论` `macOS`
 1. [JingOS - 全球首个 iPad 风格 Linux](https://www.v2ex.com/t/743482) `10条评论` `Linux`
 1. [怎么用 bash 的正则表达式从一大堆超链接中筛选中指定的链接？](https://www.v2ex.com/t/743522) `9条评论` `问与答`
 1. [LeetCode 中使用 StringBuilder 连接字符串为什么会比用+号连接快？](https://www.v2ex.com/t/743492) `9条评论` `LeetCode`
-1. [有玩我的世界的 v 友吗？ Java 正版服欢迎大家！](https://www.v2ex.com/t/743463) `9条评论` `游戏`
-1. [感觉自己代码写得烂不好意思公开怎么办？](https://www.v2ex.com/t/743576) `8条评论` `问与答`
-1. [六行代码实现 Python 管道](https://www.v2ex.com/t/743574) `8条评论` `Python`
 
-数据更新于 2021-01-10 18:17:19
+数据更新于 2021-01-10 18:58:19
 
 <!-- TODAY END -->
 
