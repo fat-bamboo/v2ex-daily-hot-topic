@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2021 你还回家过年吗？](https://www.v2ex.com/t/744401) `98条评论` `生活`
-1. [Notion 中文版本要来啦！](https://www.v2ex.com/t/744395) `86条评论` `Notion`
-1. [辣鸡到处都是微信健康码](https://www.v2ex.com/t/744459) `47条评论` `随想`
+1. [2021 你还回家过年吗？](https://www.v2ex.com/t/744401) `110条评论` `生活`
+1. [Notion 中文版本要来啦！](https://www.v2ex.com/t/744395) `100条评论` `Notion`
+1. [辣鸡到处都是微信健康码](https://www.v2ex.com/t/744459) `79条评论` `随想`
+1. [有轻量一点的 win10 吗？现在 8G 的机器 20H2 开机内存占用 2.5G](https://www.v2ex.com/t/744420) `47条评论` `Windows`
+1. [你们公司是业务说得算，还是技术说得算](https://www.v2ex.com/t/744478) `37条评论` `程序员`
 1. [JavaScript 判断条件如果是 false 怎么让他什么都不做呢？](https://www.v2ex.com/t/744452) `22条评论` `问与答`
-1. [有轻量一点的 win10 吗？现在 8G 的机器 20H2 开机内存占用 2.5G](https://www.v2ex.com/t/744420) `21条评论` `Windows`
 1. [看到最近大家在热切讨论笔记软件，我问下大家平时用什么文本格式？](https://www.v2ex.com/t/744414) `19条评论` `程序员`
+1. [微信支付回调问题](https://www.v2ex.com/t/744479) `17条评论` `问与答`
 1. [大家有发现今天 FlashHelperService.exe 突然报毒吗？](https://www.v2ex.com/t/744416) `17条评论` `问与答`
-1. [你们公司是业务说得算，还是技术说得算](https://www.v2ex.com/t/744478) `16条评论` `程序员`
+1. [欧盟计划建立欧版防火墙](https://www.v2ex.com/t/744499) `16条评论` `分享发现`
+1. [关于罗技鼠标和 Mac 的兼容性问题](https://www.v2ex.com/t/744497) `15条评论` `Apple`
 1. [冬笋烧肉好好吃啊](https://www.v2ex.com/t/744428) `15条评论` `美酒与美食`
+1. [昨天去 Apple 浦东把 AirPods Pro 换新了，降噪、通透的效果提升很明显，大家可以参考一下](https://www.v2ex.com/t/744468) `14条评论` `Apple`
 1. [我到底该年后就离职还是合同到期后再离职？](https://www.v2ex.com/t/744400) `14条评论` `程序员`
 1. [美国反对美国（America against America）](https://www.v2ex.com/t/744455) `13条评论` `分享发现`
-1. [昨天去 Apple 浦东把 AirPods Pro 换新了，降噪、通透的效果提升很明显，大家可以参考一下](https://www.v2ex.com/t/744468) `11条评论` `Apple`
 1. [两年多的 xs max，电池健康度 90%，什么水平？](https://www.v2ex.com/t/744434) `11条评论` `iPhone`
+1. [对 .NET5 有兴趣，可有入门路线图？](https://www.v2ex.com/t/744473) `9条评论` `.NET`
 1. [闲聊—— 一个其他业务方对接的问题。](https://www.v2ex.com/t/744454) `9条评论` `程序员`
 1. [求远程连接在家 mac 命令行的方法](https://www.v2ex.com/t/744405) `9条评论` `Apple`
 1. [怎么让自己的英语达到一般人的水平，只是想通过四级考试](https://www.v2ex.com/t/744475) `8条评论` `问与答`
-1. [对 .NET5 有兴趣，可有入门路线图？](https://www.v2ex.com/t/744473) `8条评论` `.NET`
 1. [关于婚假的疑问](https://www.v2ex.com/t/744433) `8条评论` `职场话题`
 1. [MacBook M1 上 EasyConnect 貌似没有支持计划](https://www.v2ex.com/t/744398) `8条评论` `Apple`
-1. [在零售行业中实现"农村包围城市"](https://www.v2ex.com/t/744397) `8条评论` `奇思妙想`
-1. [16g 的 M1 的 MacBook pro 用 ARM 版的 idea 很卡，尤其是上下拖动，有人有这种情况么，对比同事的 15 款的老 MacBookpro，根本没他的顺滑，我用的还是 zulu 的 arm 版 jdk。](https://www.v2ex.com/t/744423) `7条评论` `MacBook Pro`
-1. [笔记本后盖拆了不装回去会不好吗？](https://www.v2ex.com/t/744406) `7条评论` `问与答`
 
-数据更新于 2021-01-13 11:42:31
+数据更新于 2021-01-13 12:22:40
 
 <!-- TODAY END -->
 
