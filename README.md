@@ -8,13 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
+1. [重疾险买终身还是保到 70 划算？](https://www.v2ex.com/t/746164) `55条评论` `问与答`
+1. [想送人 switch ，但是看到有说要出新版了。大佬们有什么意见么](https://www.v2ex.com/t/746187) `18条评论` `问与答`
 1. [Signal 好像火了？有什么使用建议吗](https://www.v2ex.com/t/746147) `16条评论` `问与答`
 1. [复制粘贴的粘到底读是 zhān 还是 nián](https://www.v2ex.com/t/746150) `13条评论` `发音`
 1. [# [翻译]Azure 网关迁移至 .NET Core 3.1 性能提升一倍](https://www.v2ex.com/t/746138) `13条评论` `程序员`
-1. [重疾险买终身还是保到 70 划算？](https://www.v2ex.com/t/746164) `7条评论` `问与答`
+1. [正常的 while true 为什么不加 sleep 也不会耗尽 cpu？](https://www.v2ex.com/t/746183) `10条评论` `程序员`
+1. [如何快速高质量申请 Google 广告？](https://www.v2ex.com/t/746191) `9条评论` `Google`
+1. [QQ 浏览器为啥能直接读取我手机所有东西](https://www.v2ex.com/t/746188) `8条评论` `问与答`
 1. [win 下如何让硬盘定时停转(HotSwap!除外)](https://www.v2ex.com/t/746145) `6条评论` `问与答`
 
-数据更新于 2021-01-19 10:03:17
+数据更新于 2021-01-19 11:25:06
 
 <!-- TODAY END -->
 
