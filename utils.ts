@@ -8,11 +8,9 @@ import type { Topic } from "./types.ts";
  * @param data
  */
 function genDataListString(data: Topic[]): string {
-  return data
-    .map((t) =>
-      `1. [${t.title}](${t.url}) \`${t.replies}条评论\` \`${t.node.title}\``
-    )
-    .join("\n");
+  return data.map((t) =>
+    `1. [${t.title}](${t.url}) \`${t.replies}条评论\` \`${t.node.title}\``
+  ).join("\n");
 }
 
 /**
@@ -97,7 +95,7 @@ export function getMaxDisplayCount(): number {
   const someDayTimestamp = new Date("1998/7/26").getTime();
   const currentTimestamp = Date.now();
 
-  return parseInt(
-    ((currentTimestamp - someDayTimestamp) / 1000 / 3600 / 24 / 365).toFixed(0),
+  return Math.floor(
+    (currentTimestamp - someDayTimestamp) / 1000 / 3600 / 24 / 365,
   );
 }
