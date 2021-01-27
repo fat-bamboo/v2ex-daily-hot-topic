@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [要有生活](https://www.v2ex.com/t/748746) `98条评论` `程序员`
+1. [要有生活](https://www.v2ex.com/t/748746) `100条评论` `程序员`
 1. [2020 你看过的最值得推荐的电影，电视剧或者动漫？](https://www.v2ex.com/t/748770) `75条评论` `分享发现`
-1. [iOS14.4 谨慎升级](https://www.v2ex.com/t/748810) `34条评论` `iOS`
+1. [iOS14.4 谨慎升级](https://www.v2ex.com/t/748810) `47条评论` `iOS`
 1. [服务端用 Kotlin 开发的多不多？](https://www.v2ex.com/t/748773) `20条评论` `程序员`
 1. [要面大厂了，特别焦虑](https://www.v2ex.com/t/748756) `18条评论` `程序员`
 1. [刚入职两周多，就辞职会有影响吗](https://www.v2ex.com/t/748804) `15条评论` `职场话题`
 1. [年底涨薪或发年终奖了吗？](https://www.v2ex.com/t/748760) `15条评论` `职场话题`
+1. [迫于微信读书的背景对比度太高，想寻找一个科学的解决方案](https://www.v2ex.com/t/748876) `13条评论` `程序员`
 1. [私人照片备份的选择](https://www.v2ex.com/t/748801) `13条评论` `云计算`
 1. [春运机票可以免费退了，接下来的机票价格是会涨还是跌呢](https://www.v2ex.com/t/748797) `13条评论` `问与答`
 1. [2020 年你做过的最让你开心的事？](https://www.v2ex.com/t/748781) `13条评论` `分享创造`
 1. [如何防止知识和记忆碎片化](https://www.v2ex.com/t/748747) `13条评论` `奇思妙想`
+1. [吓死人， Google Voice 号码的广告怎么会知道我的真名？？](https://www.v2ex.com/t/748864) `11条评论` `问与答`
+1. [Google 将禁止第三方基于 Chromium 的浏览器同步 Chrome 数据](https://www.v2ex.com/t/748860) `11条评论` `Chrome`
 1. [不懂就问，公司计划做一个游戏加速器，在没有经验的情况下，如何选择开发技术栈](https://www.v2ex.com/t/748779) `11条评论` `Flutter`
 1. [日经贴，此时此刻（2021.1.27），如何才能办理 HK 银行卡？](https://www.v2ex.com/t/748774) `11条评论` `问与答`
+1. [突然有一个想法，新冠疫情好像末日孤舰的剧情](https://www.v2ex.com/t/748836) `10条评论` `奇思妙想`
 1. [M1 MBP 外接双显示器, 只能通过 DisplayLink 解决吗?](https://www.v2ex.com/t/748813) `10条评论` `Apple`
 1. [外省过年回山东需要隔离 14 天了？](https://www.v2ex.com/t/748748) `10条评论` `问与答`
-1. [吓死人， Google Voice 号码的广告怎么会知道我的真名？？](https://www.v2ex.com/t/748864) `9条评论` `问与答`
 1. [iOS 14.4 依旧没解决绿屏问题](https://www.v2ex.com/t/748845) `9条评论` `iOS`
 1. [求解答，关于 C 使用 strcpy 问题](https://www.v2ex.com/t/748830) `9条评论` `C`
 1. [你听过“伤害性不高，侮辱性极强”的一句话是啥](https://www.v2ex.com/t/748814) `9条评论` `奇思妙想`
-1. [iphone11 电池问题](https://www.v2ex.com/t/748759) `9条评论` `Apple`
-1. [Vue.js 的 JSX 中的 class attribute 为什么用 class，而不像 React 那样用 className](https://www.v2ex.com/t/748744) `8条评论` `问与答`
-1. [问一个 windows10 的显示问题](https://www.v2ex.com/t/748822) `7条评论` `Windows`
 
-数据更新于 2021-01-27 13:02:11
+数据更新于 2021-01-27 13:30:57
 
 <!-- TODAY END -->
 
