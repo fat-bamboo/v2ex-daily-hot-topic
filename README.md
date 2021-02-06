@@ -25,12 +25,12 @@
 1. [DTK 现在退换以后给 500 刀了](https://www.v2ex.com/t/751792) `8条评论` `Apple`
 1. [请问戴尔显示器官翻机可信吗？便宜一大截，想剁手~](https://www.v2ex.com/t/751790) `8条评论` `Dell`
 1. [16 寸 macbook 有什么散热或者保持性能的好方法么](https://www.v2ex.com/t/751771) `8条评论` `Apple`
+1. [TestFlight 也「分区」了](https://www.v2ex.com/t/751803) `7条评论` `Apple`
 1. [开始学习线代](https://www.v2ex.com/t/751744) `7条评论` `数学`
-1. [TestFlight 也「分区」了](https://www.v2ex.com/t/751803) `6条评论` `Apple`
 1. [DTK 返现 $500 已经到账， 11.2 以后设备停止更新](https://www.v2ex.com/t/751798) `6条评论` `Apple`
 1. [类似 r9000x 的笔记本还有哪些推荐](https://www.v2ex.com/t/751737) `6条评论` `问与答`
 
-数据更新于 2021-02-06 13:52:14
+数据更新于 2021-02-06 14:02:08
 
 <!-- TODAY END -->
 
