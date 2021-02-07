@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [管不住别人信中药 好累](https://www.v2ex.com/t/751935) `186条评论` `问与答`
-1. [让我来看看今天还有谁在上班](https://www.v2ex.com/t/751953) `133条评论` `成都`
+1. [管不住别人信中药 好累](https://www.v2ex.com/t/751935) `189条评论` `问与答`
+1. [让我来看看今天还有谁在上班](https://www.v2ex.com/t/751953) `141条评论` `成都`
 1. [打工人为公司奋斗的意义是什么？](https://www.v2ex.com/t/751957) `38条评论` `问与答`
 1. [给父母选台手机](https://www.v2ex.com/t/751938) `26条评论` `问与答`
+1. [要怎么理解 update 和 upgrade 这两个词的区别](https://www.v2ex.com/t/751983) `21条评论` `程序员`
 1. [什么时候觉得对方是你想和他/她结婚，想过一辈子的人？](https://www.v2ex.com/t/751940) `20条评论` `问与答`
-1. [要怎么理解 update 和 upgrade 这两个词的区别](https://www.v2ex.com/t/751983) `19条评论` `程序员`
 1. [想拍短视频，但是又不知道拍点啥，有什么好点子吗？](https://www.v2ex.com/t/751948) `19条评论` `问与答`
 1. [“骑驴找马”如何避免“弃驴失马”](https://www.v2ex.com/t/751934) `19条评论` `问与答`
 1. [迫于过年不回家，有啥可以屯着吃的，求推荐](https://www.v2ex.com/t/751968) `18条评论` `问与答`
-1. [如何更好的制止别人插队？](https://www.v2ex.com/t/751992) `14条评论` `问与答`
+1. [如何更好的制止别人插队？](https://www.v2ex.com/t/751992) `16条评论` `问与答`
 1. [除了微信支付宝，还有哪里能使用北京健康码呢？感觉把这种东西限定在社交和支付平台里面就很离谱](https://www.v2ex.com/t/751996) `10条评论` `问与答`
 1. [Apple stroe 外国区账号如何下载付费应用？](https://www.v2ex.com/t/751969) `10条评论` `Apple`
 1. [Vue 构建的项目中，重定向得到的图片无法正常加载，可能是什么原因造成的？](https://www.v2ex.com/t/751937) `10条评论` `问与答`
+1. [为什么 Java lib 源码中总是习惯用 var 加数字命名变量](https://www.v2ex.com/t/752013) `9条评论` `Java`
 1. [iPhone 的全屏手势，对老年人操作没 home 键友好](https://www.v2ex.com/t/751966) `9条评论` `iPhone`
 1. [我应不应该辞职](https://www.v2ex.com/t/751964) `9条评论` `问与答`
 1. [北京地区，京东搜 数字人民币](https://www.v2ex.com/t/751959) `9条评论` `京东`
 1. [做了个弹幕视频网站](https://www.v2ex.com/t/751944) `9条评论` `分享创造`
+1. [windows 平台下面的包管理工具好么？比如 Chocolatey, scoop？](https://www.v2ex.com/t/751984) `8条评论` `Windows`
 1. [Chrome 报了个新 0day，用 Chrome 的都升级一下吧。](https://www.v2ex.com/t/751962) `8条评论` `Chrome`
 1. [工作地过年，求推荐一款果酒](https://www.v2ex.com/t/751958) `8条评论` `问与答`
 1. [iPhone 有啥改定位的软件么？不需要越狱的那种](https://www.v2ex.com/t/751943) `8条评论` `iPhone`
-1. [Google Chrome 迷惑语言同步问题](https://www.v2ex.com/t/751942) `8条评论` `问与答`
-1. [如何在 XCode 里使用 Vim](https://www.v2ex.com/t/751936) `8条评论` `Apple`
 
-数据更新于 2021-02-07 11:52:25
+数据更新于 2021-02-07 12:02:18
 
 <!-- TODAY END -->
 
