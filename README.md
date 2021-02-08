@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [双方父母不能支持买房的打工人该何去何从](https://www.v2ex.com/t/752259) `105条评论` `生活`
+1. [双方父母不能支持买房的打工人该何去何从](https://www.v2ex.com/t/752259) `107条评论` `生活`
 1. [上班炒股的人让人挺难受的](https://www.v2ex.com/t/752241) `41条评论` `职场话题`
 1. [老爸被证券公司的人劝的买了好多基金,大家看看哪些能抛出去](https://www.v2ex.com/t/752265) `36条评论` `问与答`
 1. [再划水一天就解放了，今天无心工作](https://www.v2ex.com/t/752252) `32条评论` `问与答`
 1. [问问有 Apple Watch 的朋友们，🍎️手表拿来看微信通知 看 app 通知有延迟吗 效果如何？](https://www.v2ex.com/t/752268) `29条评论` `Apple`
-1. [过年了，你们公司发福利了吗](https://www.v2ex.com/t/752287) `27条评论` `程序员`
+1. [过年了，你们公司发福利了吗](https://www.v2ex.com/t/752287) `28条评论` `程序员`
 1. [请问，同一个项目组， win 和 osx 都有的情况下如何解决版本控制问题](https://www.v2ex.com/t/752250) `24条评论` `Apple`
 1. [图片处理（海报生成 and 二维码生成）,由前端处理还是后端处理好？](https://www.v2ex.com/t/752267) `23条评论` `程序员`
+1. [Windows 系统，键盘上的 ctrl 和 shift，大家什么情况下使用右边的 ctrl 和 shift](https://www.v2ex.com/t/752294) `22条评论` `Java`
 1. [年前最后几天上班时间划下水，年会中了 switch，真香](https://www.v2ex.com/t/752243) `22条评论` `Nintendo Switch`
-1. [Windows 系统，键盘上的 ctrl 和 shift，大家什么情况下使用右边的 ctrl 和 shift](https://www.v2ex.com/t/752294) `21条评论` `Java`
 1. [吐槽华为荣耀的所谓售后工程师！](https://www.v2ex.com/t/752278) `19条评论` `全球工单系统`
 1. [问一下在 LA 的 IT 实际情况](https://www.v2ex.com/t/752255) `17条评论` `Los Angeles`
 1. [套路云轻量 singapore 区的搭鸡场容易被封吗](https://www.v2ex.com/t/752249) `17条评论` `问与答`
@@ -31,7 +31,7 @@
 1. [aws 扣了 9.43 美元](https://www.v2ex.com/t/752256) `8条评论` `问与答`
 1. [clubhouse 房间预报频道 clubhouseRooms](https://www.v2ex.com/t/752248) `8条评论` `iPhone`
 
-数据更新于 2021-02-08 12:48:58
+数据更新于 2021-02-08 12:57:36
 
 <!-- TODAY END -->
 
