@@ -8,17 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [打工人还在上班么？](https://www.v2ex.com/t/752514) `43条评论` `职场话题`
-1. [作为一个男人，你们是如何平衡老婆和自己老妈之间的关系？](https://www.v2ex.com/t/752516) `29条评论` `问与答`
-1. [有么有不用 PC 端就能 root 的 APP](https://www.v2ex.com/t/752517) `17条评论` `Android`
-1. [请教一下 ios 上面通知的问题](https://www.v2ex.com/t/752527) `12条评论` `Apple`
-1. [叽喳 - 一个简洁的"博客"应用 [送码]](https://www.v2ex.com/t/752521) `12条评论` `分享创造`
-1. [刚出掉台式机，现在又想买了](https://www.v2ex.com/t/752510) `12条评论` `虚拟现实`
-1. [11 月住希尔顿，酒店管道漏水把我 switch 泡了，纠结现在要不要吗买？](https://www.v2ex.com/t/752520) `9条评论` `问与答`
-1. [大家的 Mac book 都插着电用吗，会不会对电池伤害很大？](https://www.v2ex.com/t/752528) `7条评论` `MacBook`
-1. [K8S 在多个 pod 中需要共享数据的时候，会使用 Persistant Volume 么？](https://www.v2ex.com/t/752530) `6条评论` `Kubernetes`
+1. [打工人还在上班么？](https://www.v2ex.com/t/752514) `47条评论` `职场话题`
+1. [作为一个男人，你们是如何平衡老婆和自己老妈之间的关系？](https://www.v2ex.com/t/752516) `30条评论` `问与答`
+1. [叽喳 - 一个简洁的"博客"应用 [送码]](https://www.v2ex.com/t/752521) `21条评论` `分享创造`
+1. [有么有不用 PC 端就能 root 的 APP](https://www.v2ex.com/t/752517) `18条评论` `Android`
+1. [刚出掉台式机，现在又想买了](https://www.v2ex.com/t/752510) `15条评论` `虚拟现实`
+1. [大家的 Mac book 都插着电用吗，会不会对电池伤害很大？](https://www.v2ex.com/t/752528) `14条评论` `MacBook`
+1. [请教一下 ios 上面通知的问题](https://www.v2ex.com/t/752527) `14条评论` `Apple`
+1. [11 月住希尔顿，酒店管道漏水把我 switch 泡了，纠结现在要不要吗买？](https://www.v2ex.com/t/752520) `11条评论` `问与答`
+1. [深圳，咨询学习编程的机构和建议](https://www.v2ex.com/t/752537) `7条评论` `程序员`
+1. [K8S 在多个 pod 中需要共享数据的时候，会使用 Persistant Volume 么？](https://www.v2ex.com/t/752530) `7条评论` `Kubernetes`
+1. [请教一个关于 springboot async 的用法](https://www.v2ex.com/t/752539) `6条评论` `Java`
 
-数据更新于 2021-02-09 10:34:40
+数据更新于 2021-02-09 10:48:17
 
 <!-- TODAY END -->
 
