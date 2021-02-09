@@ -8,27 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
-1. [打工人还在上班么？](https://www.v2ex.com/t/752514) `61条评论` `职场话题`
-1. [作为一个男人，你们是如何平衡老婆和自己老妈之间的关系？](https://www.v2ex.com/t/752516) `46条评论` `问与答`
+1. [打工人还在上班么？](https://www.v2ex.com/t/752514) `66条评论` `职场话题`
+1. [作为一个男人，你们是如何平衡老婆和自己老妈之间的关系？](https://www.v2ex.com/t/752516) `47条评论` `问与答`
+1. [大家的 Mac book 都插着电用吗，会不会对电池伤害很大？](https://www.v2ex.com/t/752528) `32条评论` `MacBook`
 1. [叽喳 - 一个简洁的"博客"应用 [送码]](https://www.v2ex.com/t/752521) `32条评论` `分享创造`
-1. [大家的 Mac book 都插着电用吗，会不会对电池伤害很大？](https://www.v2ex.com/t/752528) `29条评论` `MacBook`
 1. [有么有不用 PC 端就能 root 的 APP](https://www.v2ex.com/t/752517) `20条评论` `Android`
 1. [请教一下 ios 上面通知的问题](https://www.v2ex.com/t/752527) `19条评论` `Apple`
 1. [刚出掉台式机，现在又想买了](https://www.v2ex.com/t/752510) `15条评论` `虚拟现实`
+1. [装个 go+vscode 开发环境，烦得要死了，大佬有解决方案吗？网上的统统都试过了](https://www.v2ex.com/t/752555) `13条评论` `Go`
 1. [11 月住希尔顿，酒店管道漏水把我 switch 泡了，纠结现在要不要吗买？](https://www.v2ex.com/t/752520) `13条评论` `问与答`
+1. [深圳，咨询学习编程的机构和建议](https://www.v2ex.com/t/752537) `12条评论` `程序员`
 1. [golang 目前有什么比较好用且还在维护的 sql query builder 么](https://www.v2ex.com/t/752526) `11条评论` `Go`
-1. [装个 go+vscode 开发环境，烦得要死了，大佬有解决方案吗？网上的统统都试过了](https://www.v2ex.com/t/752555) `10条评论` `Go`
-1. [深圳，咨询学习编程的机构和建议](https://www.v2ex.com/t/752537) `10条评论` `程序员`
-1. [能播放雨声的窗户有没有搞头？](https://www.v2ex.com/t/752536) `9条评论` `奇思妙想`
-1. [vue+elementUI 表格里每一行的 checkbox 如何按照点击顺序赋值](https://www.v2ex.com/t/752547) `8条评论` `问与答`
-1. [面试官问我 有阅读过哪些源码？](https://www.v2ex.com/t/752543) `8条评论` `程序员`
+1. [能播放雨声的窗户有没有搞头？](https://www.v2ex.com/t/752536) `10条评论` `奇思妙想`
+1. [有没有办法自动切换地址栏的默认引擎](https://www.v2ex.com/t/752522) `10条评论` `问与答`
+1. [vue+elementUI 表格里每一行的 checkbox 如何按照点击顺序赋值](https://www.v2ex.com/t/752547) `9条评论` `问与答`
+1. [面试官问我 有阅读过哪些源码？](https://www.v2ex.com/t/752543) `9条评论` `程序员`
+1. [M1 MBP 上使用微信读书，设置字体后， macOS 字体也一并给改了](https://www.v2ex.com/t/752523) `9条评论` `macOS`
+1. [IoT 设备指令下发接口设计成同步的还是异步的？](https://www.v2ex.com/t/752548) `7条评论` `程序员`
+1. [请教一个关于 springboot async 的用法](https://www.v2ex.com/t/752539) `7条评论` `Java`
 1. [K8S 在多个 pod 中需要共享数据的时候，会使用 Persistant Volume 么？](https://www.v2ex.com/t/752530) `7条评论` `Kubernetes`
-1. [M1 MBP 上使用微信读书，设置字体后， macOS 字体也一并给改了](https://www.v2ex.com/t/752523) `7条评论` `macOS`
-1. [有没有办法自动切换地址栏的默认引擎](https://www.v2ex.com/t/752522) `7条评论` `问与答`
+1. [想实时采集约 2000 台服务器的系统运行时快照，当中间件或应用出问题的时候能翻采集记录排查，大家有啥思路吗？](https://www.v2ex.com/t/752561) `6条评论` `程序员`
 1. [佛罗里达一个水厂被黑客入侵，将供应水中的氢氧化钠含量临时调高了 100 倍以上。](https://www.v2ex.com/t/752549) `6条评论` `分享发现`
-1. [请教一个关于 springboot async 的用法](https://www.v2ex.com/t/752539) `6条评论` `Java`
 
-数据更新于 2021-02-09 11:39:34
+数据更新于 2021-02-09 11:51:53
 
 <!-- TODAY END -->
 
