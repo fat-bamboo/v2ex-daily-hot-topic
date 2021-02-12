@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [快进到春晚不许无聊了](https://www.v2ex.com/t/753020) `45条评论` `问与答`
-1. [大家买了马里奥 3D 世界吗](https://www.v2ex.com/t/753010) `21条评论` `Nintendo Switch`
-1. [请推荐迷你路由器，需要能刷 openwrt](https://www.v2ex.com/t/753015) `12条评论` `问与答`
+1. [快进到春晚不许无聊了](https://www.v2ex.com/t/753020) `47条评论` `问与答`
+1. [大家买了马里奥 3D 世界吗](https://www.v2ex.com/t/753010) `23条评论` `Nintendo Switch`
+1. [请推荐迷你路由器，需要能刷 openwrt](https://www.v2ex.com/t/753015) `13条评论` `问与答`
 1. [vercel 服务器是宕机了吗，托管在上面的网站打不开。](https://www.v2ex.com/t/753009) `11条评论` `互联网`
 1. [应该没有这么早上班的吧](https://www.v2ex.com/t/753014) `10条评论` `生活`
 1. [不小心创建了个套娃文件夹，现在清空不了回收站怎么办？](https://www.v2ex.com/t/753021) `9条评论` `macOS`
@@ -18,7 +18,7 @@
 1. [出 Clubhouse 邀请码。](https://www.v2ex.com/t/753016) `8条评论` `Apple`
 1. [能让光猫 600M 带宽跑满大概需要什么样的路由器？](https://www.v2ex.com/t/753030) `7条评论` `宽带症候群`
 
-数据更新于 2021-02-12 13:36:59
+数据更新于 2021-02-12 13:46:28
 
 <!-- TODAY END -->
 
