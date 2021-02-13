@@ -16,6 +16,9 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v2
 
+      - name: Setup Deno environment
+        uses: denolib/setup-deno@v2.3.0
+
       - name: Install deno
         uses: denolib/setup-deno@master
 
