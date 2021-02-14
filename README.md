@@ -9,8 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [m1 MacBook Air 手动添加散热硅片会不会对电池有什么影响？](https://www.v2ex.com/t/753247) `7条评论` `Apple`
+1. [你们的 edge 可以 QQ 快速登录吗？](https://www.v2ex.com/t/753246) `7条评论` `Windows`
 
-数据更新于 2021-02-14 02:48:54
+数据更新于 2021-02-14 02:57:12
 
 <!-- TODAY END -->
 
