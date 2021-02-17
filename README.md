@@ -8,10 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员税后工资](https://www.v2ex.com/t/753635) `18条评论` `问与答`
+1. [程序员税后工资](https://www.v2ex.com/t/753635) `21条评论` `问与答`
+1. [Lastpass 开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651) `8条评论` `程序员`
 1. [CPU monkey 上已有 Apple M1X 参数](https://www.v2ex.com/t/753633) `7条评论` `Apple`
 
-数据更新于 2021-02-17 02:58:09
+数据更新于 2021-02-17 03:25:04
 
 <!-- TODAY END -->
 
