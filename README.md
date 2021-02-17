@@ -12,7 +12,7 @@
 1. [替表妹求助各位大佬， Excel 文件貌似损坏打不开，一个月的工作白费了，咋办？](https://www.v2ex.com/t/753658) `71条评论` `程序员`
 1. [程序员税后工资](https://www.v2ex.com/t/753635) `53条评论` `问与答`
 1. [初六，诈骗公司也开工了](https://www.v2ex.com/t/753693) `45条评论` `分享发现`
-1. [春节假期后就要上班了， 浑身难受。 才毕业两年就不想努力嘞](https://www.v2ex.com/t/753706) `41条评论` `程序员`
+1. [春节假期后就要上班了， 浑身难受。 才毕业两年就不想努力嘞](https://www.v2ex.com/t/753706) `42条评论` `程序员`
 1. [口粮酒大家怎么选？](https://www.v2ex.com/t/753723) `29条评论` `问与答`
 1. [正月初六老一辈人留下的传统习俗你们都能接受吗](https://www.v2ex.com/t/753740) `27条评论` `问与答`
 1. [Macbook Pro 2013 late 今天出掉了，回收给了 3200，挺给力了](https://www.v2ex.com/t/753716) `24条评论` `MacBook Pro`
@@ -24,14 +24,14 @@
 1. [求推荐家庭相册 App（墙内）](https://www.v2ex.com/t/753736) `13条评论` `问与答`
 1. [媳妇非说公鸡也能生蛋，怎么教育她？](https://www.v2ex.com/t/753644) `13条评论` `问与答`
 1. [某些安卓手机的启动广告，关闭按钮貌似采用了延时设计？](https://www.v2ex.com/t/753680) `12条评论` `Android`
+1. [一个软件工程专业大三学生的迷茫](https://www.v2ex.com/t/753732) `11条评论` `程序员`
 1. [今天上高速走的 etc，下高速走的人工，请问会不会下次多扣费？](https://www.v2ex.com/t/753695) `11条评论` `汽车`
 1. [Apple Store 换电池发生离奇事情](https://www.v2ex.com/t/753694) `11条评论` `Apple`
-1. [一个软件工程专业大三学生的迷茫](https://www.v2ex.com/t/753732) `10条评论` `程序员`
 1. [使用 gevent 作为 Websocket 服务端，浏览器上用 setInterval 定时重复建立 Websocket，结果导致 gevent 不会自动释放之前废弃的连接，内存快要溢出了。怎么自动回收废弃连接呢](https://www.v2ex.com/t/753756) `9条评论` `WebSocket`
 1. [parallels desktop 大礼包来了 ~~~ https://www.parallels.cn/promo-mac-app-bundle/](https://www.v2ex.com/t/753712) `9条评论` `优惠信息`
 1. [CPU 动态调频是否会显著降低性能？](https://www.v2ex.com/t/753654) `9条评论` `问与答`
 
-数据更新于 2021-02-17 19:59:07
+数据更新于 2021-02-17 20:24:58
 
 <!-- TODAY END -->
 
