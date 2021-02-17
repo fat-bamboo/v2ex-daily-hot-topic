@@ -8,12 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员税后工资](https://www.v2ex.com/t/753635) `22条评论` `问与答`
-1. [Lastpass 开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651) `12条评论` `程序员`
-1. [M1 Mac 使用未上架 MAS 的 iOS 应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655) `8条评论` `Apple`
+1. [程序员税后工资](https://www.v2ex.com/t/753635) `24条评论` `问与答`
+1. [Lastpass 开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651) `13条评论` `程序员`
+1. [M1 Mac 使用未上架 MAS 的 iOS 应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655) `10条评论` `Apple`
+1. [无法关闭文件夹的共享](https://www.v2ex.com/t/753646) `7条评论` `问与答`
 1. [CPU monkey 上已有 Apple M1X 参数](https://www.v2ex.com/t/753633) `7条评论` `Apple`
 
-数据更新于 2021-02-17 03:42:24
+数据更新于 2021-02-17 03:53:09
 
 <!-- TODAY END -->
 
