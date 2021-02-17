@@ -31,7 +31,7 @@
 1. [使用 gevent 作为 Websocket 服务端，浏览器上用 setInterval 定时重复建立 Websocket，结果导致 gevent 不会自动释放之前废弃的连接，内存快要溢出了。怎么自动回收废弃连接呢](https://www.v2ex.com/t/753756) `9条评论` `WebSocket`
 1. [parallels desktop 大礼包来了 ~~~ https://www.parallels.cn/promo-mac-app-bundle/](https://www.v2ex.com/t/753712) `9条评论` `优惠信息`
 
-数据更新于 2021-02-17 22:50:58
+数据更新于 2021-02-17 22:59:32
 
 <!-- TODAY END -->
 
