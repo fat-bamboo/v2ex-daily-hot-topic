@@ -9,23 +9,24 @@
 <!-- TODAY BEGIN -->
 
 1. [替表妹求助各位大佬， Excel 文件貌似损坏打不开，一个月的工作白费了，咋办？](https://www.v2ex.com/t/753658) `54条评论` `程序员`
-1. [Lastpass 开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651) `45条评论` `程序员`
+1. [Lastpass 开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651) `47条评论` `程序员`
 1. [程序员税后工资](https://www.v2ex.com/t/753635) `37条评论` `问与答`
-1. [M1 Mac 使用未上架 MAS 的 iOS 应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655) `20条评论` `Apple`
+1. [M1 Mac 使用未上架 MAS 的 iOS 应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655) `21条评论` `Apple`
 1. [初六，诈骗公司也开工了](https://www.v2ex.com/t/753693) `15条评论` `分享发现`
 1. [媳妇非说公鸡也能生蛋，怎么教育她？](https://www.v2ex.com/t/753644) `13条评论` `问与答`
 1. [CPU 动态调频是否会显著降低性能？](https://www.v2ex.com/t/753654) `9条评论` `问与答`
+1. [IM 软件的想法](https://www.v2ex.com/t/753682) `8条评论` `奇思妙想`
 1. [无法关闭文件夹的共享](https://www.v2ex.com/t/753646) `8条评论` `问与答`
 1. [CPU monkey 上已有 Apple M1X 参数](https://www.v2ex.com/t/753633) `8条评论` `Apple`
-1. [IM 软件的想法](https://www.v2ex.com/t/753682) `7条评论` `奇思妙想`
 1. [google bing 都收录了，百度一直不收，求帮看看](https://www.v2ex.com/t/753640) `7条评论` `搜索引擎优化`
 1. [一般外包公司/外包项目会保留源码吗？](https://www.v2ex.com/t/753634) `7条评论` `问与答`
+1. [Switch 连小米电视这画质不能忍啊](https://www.v2ex.com/t/753700) `6条评论` `问与答`
 1. [今天上高速走的 etc，下高速走的人工，请问会不会下次多扣费？](https://www.v2ex.com/t/753695) `6条评论` `汽车`
 1. [求分享你的 Playlist 管理经验，如何起名分类，普通人有必要用 playlist 吗，还是都丢 library 里？](https://www.v2ex.com/t/753667) `6条评论` `音乐`
 1. [充电限制应用 AlDente 已经支持 M1](https://www.v2ex.com/t/753666) `6条评论` `macOS`
 1. [升级到 big sur 后提示您没有权限来打开应用程序](https://www.v2ex.com/t/753664) `6条评论` `Apple`
 
-数据更新于 2021-02-17 08:48:45
+数据更新于 2021-02-17 08:57:06
 
 <!-- TODAY END -->
 
