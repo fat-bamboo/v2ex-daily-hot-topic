@@ -26,12 +26,12 @@
 1. [某些安卓手机的启动广告，关闭按钮貌似采用了延时设计？](https://www.v2ex.com/t/753680) `12条评论` `Android`
 1. [今天上高速走的 etc，下高速走的人工，请问会不会下次多扣费？](https://www.v2ex.com/t/753695) `11条评论` `汽车`
 1. [Apple Store 换电池发生离奇事情](https://www.v2ex.com/t/753694) `11条评论` `Apple`
+1. [一个软件工程专业大三学生的迷茫](https://www.v2ex.com/t/753732) `10条评论` `程序员`
 1. [使用 gevent 作为 Websocket 服务端，浏览器上用 setInterval 定时重复建立 Websocket，结果导致 gevent 不会自动释放之前废弃的连接，内存快要溢出了。怎么自动回收废弃连接呢](https://www.v2ex.com/t/753756) `9条评论` `WebSocket`
-1. [一个软件工程专业大三学生的迷茫](https://www.v2ex.com/t/753732) `9条评论` `程序员`
 1. [parallels desktop 大礼包来了 ~~~ https://www.parallels.cn/promo-mac-app-bundle/](https://www.v2ex.com/t/753712) `9条评论` `优惠信息`
 1. [CPU 动态调频是否会显著降低性能？](https://www.v2ex.com/t/753654) `9条评论` `问与答`
 
-数据更新于 2021-02-17 19:14:35
+数据更新于 2021-02-17 19:23:55
 
 <!-- TODAY END -->
 
