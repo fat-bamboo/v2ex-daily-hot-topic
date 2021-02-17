@@ -10,28 +10,28 @@
 
 1. [Lastpass 开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651) `72条评论` `程序员`
 1. [替表妹求助各位大佬， Excel 文件貌似损坏打不开，一个月的工作白费了，咋办？](https://www.v2ex.com/t/753658) `67条评论` `程序员`
-1. [程序员税后工资](https://www.v2ex.com/t/753635) `50条评论` `问与答`
+1. [程序员税后工资](https://www.v2ex.com/t/753635) `51条评论` `问与答`
 1. [初六，诈骗公司也开工了](https://www.v2ex.com/t/753693) `43条评论` `分享发现`
 1. [春节假期后就要上班了， 浑身难受。 才毕业两年就不想努力嘞](https://www.v2ex.com/t/753706) `32条评论` `程序员`
-1. [Macbook Pro 2013 late 今天出掉了，回收给了 3200，挺给力了](https://www.v2ex.com/t/753716) `21条评论` `MacBook Pro`
+1. [Macbook Pro 2013 late 今天出掉了，回收给了 3200，挺给力了](https://www.v2ex.com/t/753716) `22条评论` `MacBook Pro`
 1. [M1 Mac 使用未上架 MAS 的 iOS 应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655) `21条评论` `Apple`
 1. [正月初六老一辈人留下的传统习俗你们都能接受吗](https://www.v2ex.com/t/753740) `18条评论` `问与答`
 1. [口粮酒大家怎么选？](https://www.v2ex.com/t/753723) `17条评论` `问与答`
 1. [IM 软件的想法](https://www.v2ex.com/t/753682) `17条评论` `奇思妙想`
+1. [在家办公很难进入状态怎么破？](https://www.v2ex.com/t/753719) `15条评论` `程序员`
 1. [Switch 连小米电视这画质不能忍啊](https://www.v2ex.com/t/753700) `15条评论` `问与答`
-1. [在家办公很难进入状态怎么破？](https://www.v2ex.com/t/753719) `14条评论` `程序员`
 1. [媳妇非说公鸡也能生蛋，怎么教育她？](https://www.v2ex.com/t/753644) `13条评论` `问与答`
 1. [某些安卓手机的启动广告，关闭按钮貌似采用了延时设计？](https://www.v2ex.com/t/753680) `12条评论` `Android`
 1. [今天上高速走的 etc，下高速走的人工，请问会不会下次多扣费？](https://www.v2ex.com/t/753695) `11条评论` `汽车`
 1. [Apple Store 换电池发生离奇事情](https://www.v2ex.com/t/753694) `11条评论` `Apple`
+1. [支持扩展 HDMI2.0 (4K@60HZ) 的 M1 平价扩展坞推荐？](https://www.v2ex.com/t/753725) `10条评论` `Apple`
 1. [求推荐家庭相册 App（墙内）](https://www.v2ex.com/t/753736) `9条评论` `问与答`
-1. [支持扩展 HDMI2.0 (4K@60HZ) 的 M1 平价扩展坞推荐？](https://www.v2ex.com/t/753725) `9条评论` `Apple`
+1. [parallels desktop 大礼包来了 ~~~ https://www.parallels.cn/promo-mac-app-bundle/](https://www.v2ex.com/t/753712) `9条评论` `优惠信息`
 1. [CPU 动态调频是否会显著降低性能？](https://www.v2ex.com/t/753654) `9条评论` `问与答`
 1. [水平太差 特来求助 [docker-compose LNMP 数据库连不上]](https://www.v2ex.com/t/753727) `8条评论` `Docker`
 1. [iPhone12pro 跳电](https://www.v2ex.com/t/753720) `8条评论` `Apple`
-1. [无法关闭文件夹的共享](https://www.v2ex.com/t/753646) `8条评论` `问与答`
 
-数据更新于 2021-02-17 14:55:35
+数据更新于 2021-02-17 15:18:56
 
 <!-- TODAY END -->
 
