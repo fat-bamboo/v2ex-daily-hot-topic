@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2345 好压好像被 Windows10 针对了！](https://www.v2ex.com/t/754794) `62条评论` `Windows`
+1. [2345 好压好像被 Windows10 针对了！](https://www.v2ex.com/t/754794) `63条评论` `Windows`
 1. [细思恐极，大数据面前我们真有隐私吗？](https://www.v2ex.com/t/754778) `31条评论` `问与答`
 1. [有没有这样的一款 android 机](https://www.v2ex.com/t/754790) `22条评论` `问与答`
 1. [IOS 杀后台太严重了吧](https://www.v2ex.com/t/754786) `18条评论` `iPhone`
 1. [请问苹果设备的保修截止日那一天可以维修吗？](https://www.v2ex.com/t/754793) `13条评论` `Apple`
 1. [家庭组网的一些个人见解](https://www.v2ex.com/t/754783) `13条评论` `宽带症候群`
-1. [Python 条件判断问题](https://www.v2ex.com/t/754810) `11条评论` `Python`
+1. [Python 条件判断问题](https://www.v2ex.com/t/754810) `12条评论` `Python`
 1. [V2 正式被 CONNECT_RESET？](https://www.v2ex.com/t/754807) `10条评论` `分享发现`
 1. [带了 2 个大包 2 个小包，将近 60 斤的行李上了西部航空的飞机](https://www.v2ex.com/t/754813) `8条评论` `随想`
 1. [Java 如何解决内存泄露问题，有哪些手段](https://www.v2ex.com/t/754770) `7条评论` `程序员`
 1. [大家好，我们做了一个「稍后阅读」iOS app，可以把网页永久保存在你的 iOS 设备（和 iCloud）上，现在邀请大家来内测～](https://www.v2ex.com/t/754808) `6条评论` `分享创造`
 
-数据更新于 2021-02-21 05:38:16
+数据更新于 2021-02-21 05:47:01
 
 <!-- TODAY END -->
 
