@@ -9,14 +9,14 @@
 <!-- TODAY BEGIN -->
 
 1. [王妈说：“伟宝，你去哪啊？”](https://www.v2ex.com/t/759427) `77条评论` `随想`
-1. [早晨看到件让人气愤的事](https://www.v2ex.com/t/759433) `68条评论` `生活`
-1. [求问下大家关于码农租房的问题](https://www.v2ex.com/t/759510) `62条评论` `程序员`
+1. [早晨看到件让人气愤的事](https://www.v2ex.com/t/759433) `70条评论` `生活`
+1. [求问下大家关于码农租房的问题](https://www.v2ex.com/t/759510) `69条评论` `程序员`
+1. [intel 和 amd 的 u 虚拟化哪个更好一些？](https://www.v2ex.com/t/759526) `31条评论` `程序员`
+1. [短视频对老年人影响真的挺大的](https://www.v2ex.com/t/759529) `25条评论` `随想`
 1. [美区账号如何搞](https://www.v2ex.com/t/759477) `24条评论` `Apple`
-1. [intel 和 amd 的 u 虚拟化哪个更好一些？](https://www.v2ex.com/t/759526) `23条评论` `程序员`
-1. [短视频对老年人影响真的挺大的](https://www.v2ex.com/t/759529) `21条评论` `随想`
 1. [合租舍友不想交电费，群里收款假装看不见，怎么办](https://www.v2ex.com/t/759451) `17条评论` `问与答`
 1. [[求助]没做过高并发真的进不了 BAT 么](https://www.v2ex.com/t/759491) `16条评论` `Java`
-1. [Docker 虚拟机的开销高，还是 wsl2 虚拟机的开销高？](https://www.v2ex.com/t/759530) `13条评论` `问与答`
+1. [Docker 虚拟机的开销高，还是 wsl2 虚拟机的开销高？](https://www.v2ex.com/t/759530) `14条评论` `问与答`
 1. [刚买了几个月的 iPhone 12 Pro Max 后屏摔碎了](https://www.v2ex.com/t/759506) `12条评论` `iPhone`
 1. [Microsoft Edge 的竖直标签有点鸡肋](https://www.v2ex.com/t/759516) `10条评论` `Edge`
 1. [还是 Python requests 的字符编码问题，明明已经正确析出真 html 文本内容， str 对象依然含有 gbk 环境不能处理的特殊字符...](https://www.v2ex.com/t/759499) `10条评论` `Python`
@@ -26,12 +26,12 @@
 1. [可以租云服务做科学计算么？长期满载会不会被打](https://www.v2ex.com/t/759527) `9条评论` `问与答`
 1. [C 语言开发后的软件如何分发？](https://www.v2ex.com/t/759493) `9条评论` `C`
 1. [前端大佬帮忙看看这是啥问题](https://www.v2ex.com/t/759441) `9条评论` `程序员`
+1. [Apple 为什么不能通过 apple id 来解锁设备？](https://www.v2ex.com/t/759525) `8条评论` `Apple`
 1. [Java 集群服务不一致怎么处理](https://www.v2ex.com/t/759521) `8条评论` `程序员`
+1. [说说墨案 InkPad X 墨水屏阅读器、微信读书与多看读书](https://www.v2ex.com/t/759512) `8条评论` `分享创造`
 1. [百度网盘限速](https://www.v2ex.com/t/759481) `7条评论` `问与答`
-1. [分享一个汽车机械类科普 youtuber： 11 磅小老虎](https://www.v2ex.com/t/759448) `7条评论` `分享发现`
-1. [携号转网又有新花样](https://www.v2ex.com/t/759430) `7条评论` `问与答`
 
-数据更新于 2021-03-08 04:16:34
+数据更新于 2021-03-08 04:43:27
 
 <!-- TODAY END -->
 
