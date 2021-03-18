@@ -8,28 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [调查一下：现在开发用 windows 的多吗？看好多都 mac 了？](https://www.v2ex.com/t/762674) `74条评论` `问与答`
-1. [长沙小公司面到 9k，去深圳能拿多少？](https://www.v2ex.com/t/762681) `56条评论` `程序员`
-1. [要不要等 m2 芯片，好焦虑~~~](https://www.v2ex.com/t/762693) `50条评论` `MacBook Pro`
+1. [调查一下：现在开发用 windows 的多吗？看好多都 mac 了？](https://www.v2ex.com/t/762674) `90条评论` `问与答`
+1. [长沙小公司面到 9k，去深圳能拿多少？](https://www.v2ex.com/t/762681) `68条评论` `程序员`
+1. [要不要等 m2 芯片，好焦虑~~~](https://www.v2ex.com/t/762693) `59条评论` `MacBook Pro`
 1. [医生说：“你是谁？”](https://www.v2ex.com/t/762659) `31条评论` `随想`
 1. [密码管理器时代，你的密码如何安全备份？](https://www.v2ex.com/t/762689) `27条评论` `问与答`
+1. [老哥们推荐一个机械硬盘](https://www.v2ex.com/t/762714) `23条评论` `程序员`
 1. [七万英国 Uber 司机将成为正式员工](https://www.v2ex.com/t/762671) `22条评论` `分享发现`
 1. [有没有法子删掉 win10 自带的输入法?](https://www.v2ex.com/t/762662) `22条评论` `Windows`
 1. [还有比 deskmini 好玩的小主机吗](https://www.v2ex.com/t/762666) `21条评论` `问与答`
 1. [大佬们，如果判断应届生面试者的学习能力？](https://www.v2ex.com/t/762661) `17条评论` `问与答`
-1. [老哥们推荐一个机械硬盘](https://www.v2ex.com/t/762714) `16条评论` `程序员`
+1. [离开北京 讲讲我和北京的故事 恋情篇](https://www.v2ex.com/t/762733) `14条评论` `北京`
 1. [如何跳出舒适圈?](https://www.v2ex.com/t/762692) `11条评论` `程序员`
 1. [微信小程序登录时的 code 和 encryptedData 是怎么生成的？](https://www.v2ex.com/t/762685) `11条评论` `程序员`
 1. [GitHub 疯传！北大学霸的 LeetCode 刷题笔记火了](https://www.v2ex.com/t/762677) `11条评论` `推广`
-1. [移动网络可以用 zerotier 么？？成功过么？](https://www.v2ex.com/t/762709) `8条评论` `宽带症候群`
+1. [带薪拉屎赚到 20 快了,好开心](https://www.v2ex.com/t/762700) `10条评论` `职场话题`
+1. [移动网络可以用 zerotier 么？？成功过么？](https://www.v2ex.com/t/762709) `9条评论` `宽带症候群`
+1. [尝试新的风格写技术博客](https://www.v2ex.com/t/762732) `8条评论` `程序员`
+1. [关于汉字排序，是否有办法区分同音字，长春，长沙都被分到 Z 了](https://www.v2ex.com/t/762731) `8条评论` `程序员`
 1. [水深火热节点木得了？](https://www.v2ex.com/t/762708) `7条评论` `问与答`
 1. [大家觉得 react create app 这个好用么？或者，有没有比较好用的 boilerplate 推荐？](https://www.v2ex.com/t/762694) `7条评论` `React`
 1. [v 友们，有推荐的 markdown 简历生成器吗？离线或者在线的都可以。](https://www.v2ex.com/t/762663) `7条评论` `问与答`
 1. [两年 Java 小菜鸡，大佬们帮忙看下简历给点意见。](https://www.v2ex.com/t/762701) `6条评论` `酷工作`
-1. [5 个你还不知道的 Git 用法！](https://www.v2ex.com/t/762683) `6条评论` `git`
-1. [为什么我的 2020 款的 inter 版本 MBP 一晚上能掉电 14%？](https://www.v2ex.com/t/762673) `6条评论` `MacBook Pro`
 
-数据更新于 2021-03-18 03:25:40
+数据更新于 2021-03-18 03:46:30
 
 <!-- TODAY END -->
 
