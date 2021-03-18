@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [调查一下：现在开发用 windows 的多吗？看好多都 mac 了？](https://www.v2ex.com/t/762674) `102条评论` `问与答`
-1. [长沙小公司面到 9k，去深圳能拿多少？](https://www.v2ex.com/t/762681) `72条评论` `程序员`
+1. [调查一下：现在开发用 windows 的多吗？看好多都 mac 了？](https://www.v2ex.com/t/762674) `106条评论` `问与答`
+1. [长沙小公司面到 9k，去深圳能拿多少？](https://www.v2ex.com/t/762681) `74条评论` `程序员`
 1. [要不要等 m2 芯片，好焦虑~~~](https://www.v2ex.com/t/762693) `71条评论` `MacBook Pro`
 1. [医生说：“你是谁？”](https://www.v2ex.com/t/762659) `31条评论` `随想`
 1. [密码管理器时代，你的密码如何安全备份？](https://www.v2ex.com/t/762689) `27条评论` `问与答`
 1. [老哥们推荐一个机械硬盘](https://www.v2ex.com/t/762714) `24条评论` `程序员`
 1. [七万英国 Uber 司机将成为正式员工](https://www.v2ex.com/t/762671) `22条评论` `分享发现`
 1. [有没有法子删掉 win10 自带的输入法?](https://www.v2ex.com/t/762662) `22条评论` `Windows`
+1. [尝试新的风格写技术博客](https://www.v2ex.com/t/762732) `21条评论` `程序员`
 1. [还有比 deskmini 好玩的小主机吗](https://www.v2ex.com/t/762666) `21条评论` `问与答`
-1. [尝试新的风格写技术博客](https://www.v2ex.com/t/762732) `19条评论` `程序员`
+1. [离开北京 讲讲我和北京的故事 恋情篇](https://www.v2ex.com/t/762733) `18条评论` `北京`
 1. [大佬们，如果判断应届生面试者的学习能力？](https://www.v2ex.com/t/762661) `17条评论` `问与答`
-1. [离开北京 讲讲我和北京的故事 恋情篇](https://www.v2ex.com/t/762733) `16条评论` `北京`
+1. [GitHub 手工耿](https://www.v2ex.com/t/762730) `13条评论` `程序员`
 1. [不知各位有备份 Windows 系统的习惯吗？用什么办法备份呢？](https://www.v2ex.com/t/762742) `12条评论` `Windows`
 1. [如何跳出舒适圈?](https://www.v2ex.com/t/762692) `11条评论` `程序员`
 1. [微信小程序登录时的 code 和 encryptedData 是怎么生成的？](https://www.v2ex.com/t/762685) `11条评论` `程序员`
 1. [GitHub 疯传！北大学霸的 LeetCode 刷题笔记火了](https://www.v2ex.com/t/762677) `11条评论` `推广`
-1. [GitHub 手工耿](https://www.v2ex.com/t/762730) `10条评论` `程序员`
 1. [带薪拉屎赚到 20 快了,好开心](https://www.v2ex.com/t/762700) `10条评论` `职场话题`
 1. [关于汉字排序，是否有办法区分同音字，长春，长沙都被分到 Z 了](https://www.v2ex.com/t/762731) `9条评论` `程序员`
+1. [2019 款 16 寸 Mac 上 macOS 有必要升级到 macOS Big Sur 吗？](https://www.v2ex.com/t/762722) `9条评论` `macOS`
 1. [移动网络可以用 zerotier 么？？成功过么？](https://www.v2ex.com/t/762709) `9条评论` `宽带症候群`
-1. [水深火热节点木得了？](https://www.v2ex.com/t/762708) `7条评论` `问与答`
-1. [大家觉得 react create app 这个好用么？或者，有没有比较好用的 boilerplate 推荐？](https://www.v2ex.com/t/762694) `7条评论` `React`
+1. [查域名是否能注册真不能在阿里云搞，阿里云太可耻了，吃相太难看了，](https://www.v2ex.com/t/762761) `8条评论` `程序员`
 
-数据更新于 2021-03-18 04:28:06
+数据更新于 2021-03-18 04:53:27
 
 <!-- TODAY END -->
 
