@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新来的外包同事，这代码，我？？?](https://www.v2ex.com/t/763063) `108条评论` `程序员`
-1. [大家会用工作和生活两个微信号吗？](https://www.v2ex.com/t/763052) `65条评论` `程序员`
+1. [新来的外包同事，这代码，我？？?](https://www.v2ex.com/t/763063) `116条评论` `程序员`
+1. [大家会用工作和生活两个微信号吗？](https://www.v2ex.com/t/763052) `70条评论` `程序员`
+1. [要换国产安卓手机了，要装哪些防国产流氓 app 的 app](https://www.v2ex.com/t/763097) `49条评论` `Android`
 1. [2 万翻 10 倍变成了 20 万，我该继续持有吗？](https://www.v2ex.com/t/763109) `45条评论` `问与答`
 1. [上海电信十全十美套餐额外送的一路宽带被盗用了，要怎么处理？](https://www.v2ex.com/t/763086) `34条评论` `宽带症候群`
-1. [要换国产安卓手机了，要装哪些防国产流氓 app 的 app](https://www.v2ex.com/t/763097) `32条评论` `Android`
+1. [公司征集一段代码印制在 T 恤上，过来取经了, 送键盘](https://www.v2ex.com/t/763130) `23条评论` `问与答`
 1. [老款 MacBook Pro 如何发挥余热](https://www.v2ex.com/t/763053) `21条评论` `MacBook Pro`
 1. [你是谁？我是▇▇](https://www.v2ex.com/t/763034) `20条评论` `随想`
-1. [公司征集一段代码印制在 T 恤上，过来取经了, 送键盘](https://www.v2ex.com/t/763130) `19条评论` `问与答`
 1. [质押挖矿是骗人的吧](https://www.v2ex.com/t/763093) `17条评论` `问与答`
 1. [Rust 它凭啥这么难？学习路线这么陡峭。。。。](https://www.v2ex.com/t/763062) `14条评论` `程序员`
 1. [从希卡文翻译谈谈 OCR 的简单实现](https://www.v2ex.com/t/763083) `13条评论` `程序员`
@@ -24,14 +24,14 @@
 1. [Linux 不支持递归监听文件夹， webpack 是怎么做的呢？](https://www.v2ex.com/t/763121) `11条评论` `程序员`
 1. [选择 Firefox 还是 Chrome？](https://www.v2ex.com/t/763037) `10条评论` `iPhone`
 1. [M1 MacBook 玩 steam 上的游戏体验如何？](https://www.v2ex.com/t/763035) `10条评论` `MacBook Pro`
+1. [apple store 有无纯本地添加水印的 app](https://www.v2ex.com/t/763139) `9条评论` `Apple`
 1. [Angular Vue 和 Svelte 一点感触](https://www.v2ex.com/t/763070) `9条评论` `问与答`
 1. [如何将 Binance 上的数字币提现？](https://www.v2ex.com/t/763058) `9条评论` `问与答`
 1. [为什么 K8S 要求 Pod 中的 Container 启动时至少有一个进程是前台运行的？](https://www.v2ex.com/t/763043) `9条评论` `Kubernetes`
 1. [公司的私有化部署的聊天软件，在后台可以查看聊天记录吗？](https://www.v2ex.com/t/763131) `8条评论` `职场话题`
 1. [迫于没有备案，用 Vercel 给国内云服务器当前端，速度不错](https://www.v2ex.com/t/763047) `8条评论` `程序员`
-1. [以前觉得骑驴找马好，现在觉得还是先提离职再去找工作比较好](https://www.v2ex.com/t/763096) `7条评论` `程序员`
 
-数据更新于 2021-03-19 03:59:18
+数据更新于 2021-03-19 04:32:32
 
 <!-- TODAY END -->
 
