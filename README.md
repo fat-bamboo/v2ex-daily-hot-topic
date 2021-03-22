@@ -31,7 +31,7 @@
 1. [USB3.1 对 2.4g 干扰太严重了，有没有办法屏蔽 mac 的 USB3.1 协议，降到 USB2.0](https://www.v2ex.com/t/764007) `21条评论` `Apple`
 1. [家里有 ps4，有必要买 switch 吗](https://www.v2ex.com/t/763864) `21条评论` `Nintendo Switch`
 
-数据更新于 2021-03-22 22:52:45
+数据更新于 2021-03-22 23:04:22
 
 <!-- TODAY END -->
 
