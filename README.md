@@ -8,11 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Android APP 提示“是否允许访问您设备上的照片、媒体内容和文件”？](https://www.v2ex.com/t/764119) `8条评论` `Android`
-1. [请问有什么数据库中间件，可以将两个物理数据库统合成一个逻辑数据库吗？](https://www.v2ex.com/t/764112) `6条评论` `问与答`
-1. [Goolge Play 出于安全考虑卸载了酷安](https://www.v2ex.com/t/764109) `6条评论` `Android`
+1. [科技媒体的评测真的有人信？](https://www.v2ex.com/t/764120) `38条评论` `分享发现`
+1. [Android APP 提示“是否允许访问您设备上的照片、媒体内容和文件”？](https://www.v2ex.com/t/764119) `35条评论` `Android`
+1. [15， 25 万左右档次分别有什么车推荐？](https://www.v2ex.com/t/764121) `29条评论` `汽车`
+1. [2021 3/22 - 3/28 腾讯充值 App Store 充值 9 折优惠](https://www.v2ex.com/t/764122) `22条评论` `优惠信息`
+1. [NAS 观影设备推荐](https://www.v2ex.com/t/764124) `19条评论` `NAS`
+1. [好像很多人的 Apple Pencil 都闲置了，这个二手市场是否具有潜在的商机？](https://www.v2ex.com/t/764131) `11条评论` `Apple`
+1. [请问有什么数据库中间件，可以将两个物理数据库统合成一个逻辑数据库吗？](https://www.v2ex.com/t/764112) `10条评论` `问与答`
+1. [关于 django 的分组查询 annotation, 似乎只能按照具体数值来分组？](https://www.v2ex.com/t/764125) `9条评论` `Python`
+1. [心理咨询了好几次，每次感觉好点，回到家，又是一堆鸡毛](https://www.v2ex.com/t/764134) `8条评论` `生活`
+1. [Goolge Play 出于安全考虑卸载了酷安](https://www.v2ex.com/t/764109) `8条评论` `Android`
+1. [请问 iPhone battery health 如果是 0，我一直插着电可以用吗？](https://www.v2ex.com/t/764136) `7条评论` `iPhone`
+1. [三年 DS 提涨薪反被 layoff，老工具人还不如应届生…](https://www.v2ex.com/t/764133) `6条评论` `推广`
 
-数据更新于 2021-03-23 01:04:50
+数据更新于 2021-03-23 02:06:18
 
 <!-- TODAY END -->
 
