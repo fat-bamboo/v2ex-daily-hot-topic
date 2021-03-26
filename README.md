@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办](https://www.v2ex.com/t/765249) `95条评论` `问与答`
-1. [各位码农前辈，租房贵重设备如何防偷？](https://www.v2ex.com/t/765254) `83条评论` `程序员`
+1. [之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办](https://www.v2ex.com/t/765249) `98条评论` `问与答`
+1. [各位码农前辈，租房贵重设备如何防偷？](https://www.v2ex.com/t/765254) `87条评论` `程序员`
 1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250) `21条评论` `生活`
 1. [Flash 保存计划，保存那些老的 Flash](https://www.v2ex.com/t/765236) `19条评论` `分享创造`
 1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262) `17条评论` `问与答`
+1. [不知不觉，一加氧系统 https://www.oneplus.com/oxygenos 已经撤了，新手机也搭载 ColorOS , 结了。](https://www.v2ex.com/t/765322) `16条评论` `Android`
 1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288) `16条评论` `程序员`
 1. [买车推荐：沃尔沃 XC60 怎么样？](https://www.v2ex.com/t/765252) `16条评论` `汽车`
 1. [Python web 求教](https://www.v2ex.com/t/765246) `16条评论` `Python`
-1. [不知不觉，一加氧系统 https://www.oneplus.com/oxygenos 已经撤了，新手机也搭载 ColorOS , 结了。](https://www.v2ex.com/t/765322) `14条评论` `Android`
+1. [iOS14，删个 APP 需要点三次，苹果公司是怎么想的？](https://www.v2ex.com/t/765353) `14条评论` `iOS`
 1. [工资延后 5 天发](https://www.v2ex.com/t/765266) `14条评论` `职场话题`
 1. [写代码也快 6 年了，想学别人做外包接单，应该如何开始？](https://www.v2ex.com/t/765251) `14条评论` `程序员`
 1. [联通 5G 的信号问题](https://www.v2ex.com/t/765238) `13条评论` `问与答`
 1. [你们的城市禁摩，电了吗 ？](https://www.v2ex.com/t/765253) `13条评论` `问与答`
 1. [举报 server 酱私自调用 api 发广告行为](https://www.v2ex.com/t/765309) `12条评论` `程序员`
-1. [iOS14，删个 APP 需要点三次，苹果公司是怎么想的？](https://www.v2ex.com/t/765353) `11条评论` `iOS`
 1. [Crystal 1.0.0 发布了](https://www.v2ex.com/t/765241) `11条评论` `程序员`
 1. [这句话怎么翻译？](https://www.v2ex.com/t/765256) `10条评论` `翻译`
 1. [感觉 MagSafe 充电比想象中快](https://www.v2ex.com/t/765242) `10条评论` `iPhone`
@@ -31,7 +31,7 @@
 1. [房子准备装修了，老哥们有什么好建议吗？](https://www.v2ex.com/t/765267) `9条评论` `装修`
 1. [阿里云服务器克隆 git 仓库太慢咋整](https://www.v2ex.com/t/765299) `8条评论` `问与答`
 
-数据更新于 2021-03-26 04:38:44
+数据更新于 2021-03-26 04:55:44
 
 <!-- TODAY END -->
 
