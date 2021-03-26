@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办](https://www.v2ex.com/t/765249) `133条评论` `问与答`
+1. [之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办](https://www.v2ex.com/t/765249) `137条评论` `问与答`
 1. [各位码农前辈，租房贵重设备如何防偷？](https://www.v2ex.com/t/765254) `117条评论` `知乎`
-1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262) `89条评论` `问与答`
-1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250) `66条评论` `生活`
-1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288) `66条评论` `程序员`
+1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262) `90条评论` `问与答`
+1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288) `69条评论` `程序员`
+1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250) `68条评论` `生活`
 1. [感觉 MagSafe 充电比想象中快](https://www.v2ex.com/t/765242) `42条评论` `iPhone`
-1. [Flash 保存计划，保存那些老的 Flash](https://www.v2ex.com/t/765236) `39条评论` `分享创造`
+1. [Flash 保存计划，保存那些老的 Flash](https://www.v2ex.com/t/765236) `41条评论` `分享创造`
+1. [业余时间做了个 Bilibili for tvOS，不知道多少人有这个需求](https://www.v2ex.com/t/765455) `40条评论` `Apple TV`
 1. [买车推荐：沃尔沃 XC60 怎么样？](https://www.v2ex.com/t/765252) `38条评论` `汽车`
-1. [业余时间做了个 Bilibili for tvOS，不知道多少人有这个需求](https://www.v2ex.com/t/765455) `29条评论` `Apple TV`
 1. [记一次三星的售后](https://www.v2ex.com/t/765409) `23条评论` `Samsung`
 1. [iOS14，删个 APP 需要点三次，苹果公司是怎么想的？](https://www.v2ex.com/t/765353) `22条评论` `iOS`
 1. [不知不觉，一加氧系统 https://www.oneplus.com/oxygenos 已经撤了，新手机也搭载 ColorOS , 结了。](https://www.v2ex.com/t/765322) `19条评论` `Android`
@@ -31,7 +31,7 @@
 1. [联通 5G 的信号问题](https://www.v2ex.com/t/765238) `13条评论` `问与答`
 1. [你们的城市禁摩，电了吗 ？](https://www.v2ex.com/t/765253) `13条评论` `问与答`
 
-数据更新于 2021-03-26 09:08:11
+数据更新于 2021-03-26 09:23:12
 
 <!-- TODAY END -->
 
