@@ -10,17 +10,17 @@
 
 1. [之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办](https://www.v2ex.com/t/765249) `141条评论` `问与答`
 1. [各位码农前辈，租房贵重设备如何防偷？](https://www.v2ex.com/t/765254) `119条评论` `知乎`
-1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262) `93条评论` `问与答`
+1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262) `94条评论` `问与答`
 1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288) `79条评论` `程序员`
 1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250) `77条评论` `生活`
-1. [业余时间做了个 Bilibili for tvOS，不知道多少人有这个需求](https://www.v2ex.com/t/765455) `73条评论` `Apple TV`
+1. [业余时间做了个 Bilibili for tvOS，不知道多少人有这个需求](https://www.v2ex.com/t/765455) `75条评论` `Apple TV`
 1. [自己最近独立开发的一个可以一起听歌的聊天室开源项目](https://www.v2ex.com/t/765354) `53条评论` `分享创造`
 1. [Flash 保存计划，保存那些老的 Flash](https://www.v2ex.com/t/765236) `51条评论` `分享创造`
 1. [感觉 MagSafe 充电比想象中快](https://www.v2ex.com/t/765242) `44条评论` `iPhone`
-1. [是因为年纪越来越大，开始对游戏逐渐失去兴趣了吗](https://www.v2ex.com/t/765480) `41条评论` `分享发现`
+1. [是因为年纪越来越大，开始对游戏逐渐失去兴趣了吗](https://www.v2ex.com/t/765480) `43条评论` `分享发现`
 1. [买车推荐：沃尔沃 XC60 怎么样？](https://www.v2ex.com/t/765252) `38条评论` `汽车`
+1. [这个世界有可能不存在真随机](https://www.v2ex.com/t/765504) `23条评论` `奇思妙想`
 1. [记一次三星的售后](https://www.v2ex.com/t/765409) `23条评论` `Samsung`
-1. [这个世界有可能不存在真随机](https://www.v2ex.com/t/765504) `22条评论` `奇思妙想`
 1. [iOS14，删个 APP 需要点三次，苹果公司是怎么想的？](https://www.v2ex.com/t/765353) `22条评论` `iOS`
 1. [不知不觉，一加氧系统 https://www.oneplus.com/oxygenos 已经撤了，新手机也搭载 ColorOS , 结了。](https://www.v2ex.com/t/765322) `19条评论` `Android`
 1. [iPhone 11 or se2](https://www.v2ex.com/t/765367) `16条评论` `iPhone`
@@ -31,7 +31,7 @@
 1. [MacOS 上有没有类似 MobaXterm 的软件？](https://www.v2ex.com/t/765361) `13条评论` `程序员`
 1. [[北京][哇唧唧哇]哇唧唧哇招聘后端开发工程师（ Python ）](https://www.v2ex.com/t/765355) `13条评论` `酷工作`
 
-数据更新于 2021-03-26 10:55:05
+数据更新于 2021-03-26 11:04:49
 
 <!-- TODAY END -->
 
