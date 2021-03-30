@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `95条评论` `程序员`
-1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `78条评论` `分享发现`
-1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `72条评论` `iPhone`
+1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `101条评论` `Java`
+1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `79条评论` `分享发现`
+1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `73条评论` `iPhone`
 1. [怎么拒绝需求](https://www.v2ex.com/t/766382) `29条评论` `程序员`
 1. [请问谷歌商店下载 app 永远等待中什么原因啊](https://www.v2ex.com/t/766425) `21条评论` `Android`
 1. [新冠疫苗第一针五天了，状态良好。](https://www.v2ex.com/t/766410) `17条评论` `生活`
@@ -24,14 +24,14 @@
 1. [Rails 现在国内是不是有点凉了？](https://www.v2ex.com/t/766398) `10条评论` `Ruby on Rails`
 1. [编辑 markdown 文件实时预览问题（双屏下能否实现 A 屏幕编辑 B 屏幕预览）](https://www.v2ex.com/t/766374) `9条评论` `Markdown`
 1. [《黄昏的街灯》](https://www.v2ex.com/t/766353) `9条评论` `画画`
+1. [你们有没有发现， Google 翻译很多时候意思都是反的😱😱😱](https://www.v2ex.com/t/766448) `8条评论` `分享发现`
 1. [python3 多进程求助 OSError: [Errno 24] Too many open files](https://www.v2ex.com/t/766409) `8条评论` `程序员`
 1. [求 windows 下轻量级可持久化的沙盒环境](https://www.v2ex.com/t/766401) `8条评论` `问与答`
 1. [google 的一个小众工具 keep 有替换品，竞品，或者增强版么？](https://www.v2ex.com/t/766397) `8条评论` `Google`
 1. [网站受众主要是国外（东南亚），除了服务器放在那边，域名解析啥的要注意啥吗？](https://www.v2ex.com/t/766379) `8条评论` `问与答`
 1. [小米空气净化器篡改室内的 污染值？](https://www.v2ex.com/t/766359) `8条评论` `小米`
-1. [你们有没有发现， Google 翻译很多时候意思都是反的😱😱😱](https://www.v2ex.com/t/766448) `7条评论` `分享发现`
 
-数据更新于 2021-03-30 05:00:45
+数据更新于 2021-03-30 05:13:38
 
 <!-- TODAY END -->
 
