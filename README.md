@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `139条评论` `Java`
-1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `113条评论` `iPhone`
+1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `142条评论` `Java`
+1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `114条评论` `iPhone`
 1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `108条评论` `分享发现`
 1. [在拼多多 被店家人身威胁了](https://www.v2ex.com/t/766489) `60条评论` `全球工单系统`
-1. [苏伊士运河模拟器](https://www.v2ex.com/t/766518) `52条评论` `分享发现`
+1. [苏伊士运河模拟器](https://www.v2ex.com/t/766518) `53条评论` `分享发现`
 1. [google 的一个小众工具 keep 有替换品，竞品，或者增强版么？](https://www.v2ex.com/t/766397) `48条评论` `Google`
-1. [大家开车使用的是什么导航？ carplay？ carlife?](https://www.v2ex.com/t/766561) `46条评论` `汽车`
+1. [大家开车使用的是什么导航？ carplay？ carlife?](https://www.v2ex.com/t/766561) `47条评论` `汽车`
 1. [常年投诉垃圾短信后，很多验证码收不到了](https://www.v2ex.com/t/766399) `45条评论` `生活`
 1. [阿里云现在的工单处理好慢，要快的话只能买极速工单包吗？收费好贵](https://www.v2ex.com/t/766527) `42条评论` `云计算`
 1. [怎么拒绝需求](https://www.v2ex.com/t/766382) `29条评论` `程序员`
@@ -22,16 +22,16 @@
 1. [盐是什么？](https://www.v2ex.com/t/766572) `27条评论` `问与答`
 1. [为什么有人需要戴口罩后还能正常使用 Face ID？而不认为这是个 bug？](https://www.v2ex.com/t/766486) `26条评论` `Apple`
 1. [请问谷歌商店下载 app 永远等待中什么原因啊](https://www.v2ex.com/t/766425) `21条评论` `Android`
+1. [别，别在咸鱼上卖贵重物品](https://www.v2ex.com/t/766619) `19条评论` `问与答`
 1. [求教一个 HTML 样式问题，如果让 input 显示出所有的 value 值](https://www.v2ex.com/t/766570) `19条评论` `程序员`
 1. [新冠疫苗第一针五天了，状态良好。](https://www.v2ex.com/t/766410) `17条评论` `生活`
-1. [别，别在咸鱼上卖贵重物品](https://www.v2ex.com/t/766619) `16条评论` `问与答`
 1. [Python docker 镜像 有必要用 centos 吗， Debian 不行吗](https://www.v2ex.com/t/766598) `16条评论` `Python`
 1. [上次谁说魔都不需要关心沙子的问题？](https://www.v2ex.com/t/766581) `16条评论` `生活`
 1. [西数蓝盘批量写入, 主键 uuid, 无限掉速](https://www.v2ex.com/t/766549) `15条评论` `MySQL`
 1. [开发人员工具箱 - 要你命 3000](https://www.v2ex.com/t/766507) `13条评论` `分享创造`
 1. [从 996 跳槽到远程 965 办公，我只能说真 tmd 的爽。](https://www.v2ex.com/t/766497) `13条评论` `远程工作`
 
-数据更新于 2021-03-30 12:58:29
+数据更新于 2021-03-30 13:14:28
 
 <!-- TODAY END -->
 
