@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `119条评论` `Java`
-1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `88条评论` `分享发现`
-1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `88条评论` `iPhone`
+1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `120条评论` `Java`
+1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `91条评论` `iPhone`
+1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `89条评论` `分享发现`
 1. [怎么拒绝需求](https://www.v2ex.com/t/766382) `29条评论` `程序员`
 1. [请问谷歌商店下载 app 永远等待中什么原因啊](https://www.v2ex.com/t/766425) `21条评论` `Android`
+1. [为什么有人需要戴口罩后还能正常使用 Face ID？而不认为这是个 bug？](https://www.v2ex.com/t/766486) `18条评论` `程序员`
 1. [新冠疫苗第一针五天了，状态良好。](https://www.v2ex.com/t/766410) `17条评论` `生活`
-1. [为什么有人需要戴口罩后还能正常使用 Face ID？而不认为这是个 bug？](https://www.v2ex.com/t/766486) `16条评论` `程序员`
 1. [常年投诉垃圾短信后，很多验证码收不到了](https://www.v2ex.com/t/766399) `16条评论` `生活`
 1. [DSF - 极简文件服务（Golang），简单的软件解决简单的需求](https://www.v2ex.com/t/766471) `13条评论` `分享创造`
 1. [iwatch 开蜂窝数据 有没有必要?](https://www.v2ex.com/t/766437) `13条评论` ` WATCH`
@@ -31,7 +31,7 @@
 1. [Rails 现在国内是不是有点凉了？](https://www.v2ex.com/t/766398) `10条评论` `Ruby on Rails`
 1. [编辑 markdown 文件实时预览问题（双屏下能否实现 A 屏幕编辑 B 屏幕预览）](https://www.v2ex.com/t/766374) `9条评论` `Markdown`
 
-数据更新于 2021-03-30 06:36:06
+数据更新于 2021-03-30 06:49:58
 
 <!-- TODAY END -->
 
