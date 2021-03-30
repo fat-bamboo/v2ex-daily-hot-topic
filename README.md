@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `82条评论` `程序员`
-1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `69条评论` `分享发现`
-1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `61条评论` `iPhone`
+1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378) `84条评论` `程序员`
+1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369) `74条评论` `分享发现`
+1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389) `66条评论` `iPhone`
 1. [怎么拒绝需求](https://www.v2ex.com/t/766382) `29条评论` `程序员`
 1. [新冠疫苗第一针五天了，状态良好。](https://www.v2ex.com/t/766410) `17条评论` `生活`
 1. [常年投诉垃圾短信后，很多验证码收不到了](https://www.v2ex.com/t/766399) `16条评论` `生活`
+1. [请问谷歌商店下载 app 永远等待中什么原因啊](https://www.v2ex.com/t/766425) `13条评论` `Android`
 1. [在读生接了一个小外包，要签实训协议正常吗。](https://www.v2ex.com/t/766364) `13条评论` `问与答`
 1. [[杭州] 青团社 🦄️ 急召研发🔥(前端、后端、测试都要) 🔥 [程序猿内推]](https://www.v2ex.com/t/766362) `13条评论` `酷工作`
 1. [任天堂账号区服问题](https://www.v2ex.com/t/766358) `12条评论` `Nintendo Switch`
 1. [AirPods 2 自动切换问题](https://www.v2ex.com/t/766354) `12条评论` `Apple`
 1. [NFT Creator 能否对已售出作品再次发行？](https://www.v2ex.com/t/766355) `11条评论` `区块链`
 1. [Rails 现在国内是不是有点凉了？](https://www.v2ex.com/t/766398) `10条评论` `Ruby on Rails`
-1. [请问谷歌商店下载 app 永远等待中什么原因啊](https://www.v2ex.com/t/766425) `9条评论` `Android`
 1. [编辑 markdown 文件实时预览问题（双屏下能否实现 A 屏幕编辑 B 屏幕预览）](https://www.v2ex.com/t/766374) `9条评论` `Markdown`
 1. [《黄昏的街灯》](https://www.v2ex.com/t/766353) `9条评论` `画画`
 1. [python3 多进程求助 OSError: [Errno 24] Too many open files](https://www.v2ex.com/t/766409) `8条评论` `程序员`
@@ -31,7 +31,7 @@
 1. [大疆有没有入门级的无人机？](https://www.v2ex.com/t/766391) `6条评论` `DJI`
 1. [浏览器频繁输密码好烦，比如 chrome 的 cookie 你们都怎么设置的？](https://www.v2ex.com/t/766390) `6条评论` `Chrome`
 
-数据更新于 2021-03-30 03:48:52
+数据更新于 2021-03-30 03:59:54
 
 <!-- TODAY END -->
 
