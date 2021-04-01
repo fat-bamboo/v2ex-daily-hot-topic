@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [今天是裸辞的第一天](https://www.v2ex.com/t/767059) `88条评论` `生活`
+1. [今天是裸辞的第一天](https://www.v2ex.com/t/767059) `89条评论` `生活`
 1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111) `70条评论` `程序员`
-1. [我有一批牛肉干，家里工厂的，想在网上卖，大家有什么建议吗](https://www.v2ex.com/t/767086) `62条评论` `买买买`
+1. [我有一批牛肉干，家里工厂的，想在网上卖，大家有什么建议吗](https://www.v2ex.com/t/767086) `69条评论` `买买买`
 1. [程序员日常工作中都用什么鼠标。有推荐吗？](https://www.v2ex.com/t/767106) `56条评论` `问与答`
-1. [兄弟们你们的 nas 都什么配置，垃圾佬 nas 方案求建议](https://www.v2ex.com/t/767176) `50条评论` `NAS`
+1. [兄弟们你们的 nas 都什么配置，垃圾佬 nas 方案求建议](https://www.v2ex.com/t/767176) `54条评论` `NAS`
 1. [Sublime Text 4](https://www.v2ex.com/t/767077) `49条评论` `程序员`
 1. [老哥们有跟对象是异地的吗，求点建议](https://www.v2ex.com/t/767090) `40条评论` `生活`
 1. [有没有好看的 cmd？](https://www.v2ex.com/t/767167) `24条评论` `Windows`
@@ -28,10 +28,10 @@
 1. [为什么这个 try-catch-finally 没有没有执行 finally 部分？](https://www.v2ex.com/t/767110) `14条评论` `Node.js`
 1. [v2ex 有没有安卓客户端](https://www.v2ex.com/t/767051) `13条评论` `V2EX`
 1. [如何在 USB 连接的硬盘上安装 Win10？](https://www.v2ex.com/t/767122) `12条评论` `Windows`
+1. [盖楼抽奖｜愚人节给干饭人送礼物](https://www.v2ex.com/t/767227) `11条评论` `推广`
 1. [iOS 14.5 登出/更换 AppleID 后 Apple Music Library 不会清空](https://www.v2ex.com/t/767053) `11条评论` `Apple`
-1. [Stack Overflow 的愚人节玩笑，嘲讽力 Max](https://www.v2ex.com/t/767079) `9条评论` `分享发现`
 
-数据更新于 2021-04-01 07:18:56
+数据更新于 2021-04-01 07:32:24
 
 <!-- TODAY END -->
 
