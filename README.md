@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [兄弟们你们的 nas 都什么配置，垃圾佬 nas 方案求建议](https://www.v2ex.com/t/767176) `141条评论` `NAS`
+1. [兄弟们你们的 nas 都什么配置，垃圾佬 nas 方案求建议](https://www.v2ex.com/t/767176) `142条评论` `NAS`
 1. [盖楼抽奖｜愚人节给干饭人送礼物](https://www.v2ex.com/t/767227) `137条评论` `推广`
 1. [今天是裸辞的第一天](https://www.v2ex.com/t/767059) `124条评论` `生活`
 1. [我有一批牛肉干，家里工厂的，想在网上卖，大家有什么建议吗](https://www.v2ex.com/t/767086) `96条评论` `买买买`
 1. [摇到了指标，预算 13W 左右买什么车](https://www.v2ex.com/t/767138) `94条评论` `汽车`
 1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111) `91条评论` `程序员`
-1. [Sublime Text 4](https://www.v2ex.com/t/767077) `88条评论` `程序员`
+1. [Sublime Text 4](https://www.v2ex.com/t/767077) `89条评论` `程序员`
 1. [你的 4 月挑战是什么？](https://www.v2ex.com/t/767128) `85条评论` ` WATCH`
 1. [大型犬儒狂欢现场](https://www.v2ex.com/t/767297) `62条评论` `随想`
 1. [程序员日常工作中都用什么鼠标。有推荐吗？](https://www.v2ex.com/t/767106) `56条评论` `问与答`
@@ -31,7 +31,7 @@
 1. [又一家云厂商，停止做公有云了](https://www.v2ex.com/t/767375) `21条评论` `云计算`
 1. [在 MacBook M1 上使用 Android Studio 开发的体验怎么样？](https://www.v2ex.com/t/767183) `21条评论` `MacBook Pro`
 
-数据更新于 2021-04-01 22:57:41
+数据更新于 2021-04-01 23:16:55
 
 <!-- TODAY END -->
 
