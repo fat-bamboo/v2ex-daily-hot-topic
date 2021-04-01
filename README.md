@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [今天是裸辞的第一天](https://www.v2ex.com/t/767059) `74条评论` `生活`
-1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111) `49条评论` `程序员`
+1. [今天是裸辞的第一天](https://www.v2ex.com/t/767059) `75条评论` `生活`
+1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111) `54条评论` `程序员`
+1. [我有一批牛肉干，家里工厂的，想在网上卖，大家有什么建议吗](https://www.v2ex.com/t/767086) `45条评论` `买买买`
 1. [Sublime Text 4](https://www.v2ex.com/t/767077) `43条评论` `程序员`
 1. [老哥们有跟对象是异地的吗，求点建议](https://www.v2ex.com/t/767090) `40条评论` `生活`
-1. [兄弟们你们的 nas 都什么配置，垃圾佬 nas 方案求建议](https://www.v2ex.com/t/767176) `24条评论` `NAS`
+1. [兄弟们你们的 nas 都什么配置，垃圾佬 nas 方案求建议](https://www.v2ex.com/t/767176) `26条评论` `NAS`
+1. [有没有好看的 cmd？](https://www.v2ex.com/t/767167) `23条评论` `Windows`
 1. [程序员日常工作中都用什么鼠标。有推荐吗？](https://www.v2ex.com/t/767106) `23条评论` `问与答`
-1. [有没有好看的 cmd？](https://www.v2ex.com/t/767167) `22条评论` `Windows`
 1. [你的 4 月挑战是什么？](https://www.v2ex.com/t/767128) `21条评论` ` WATCH`
 1. [iPhone X 刷机后，需要激活锁，不记得 ID 账户和密码是不是没办法了？](https://www.v2ex.com/t/767143) `20条评论` `iPhone`
 1. [薪资要怎么谈呀](https://www.v2ex.com/t/767072) `20条评论` `职场话题`
-1. [我有一批牛肉干，家里工厂的，想在网上卖，大家有什么建议吗](https://www.v2ex.com/t/767086) `17条评论` `买买买`
 1. [各位开发者平时炒股吗，收益如何](https://www.v2ex.com/t/767060) `17条评论` `投资`
 1. [摇到了指标，预算 13W 左右买什么车](https://www.v2ex.com/t/767138) `16条评论` `问与答`
 1. [离“大厂”最近的一次了，但是感觉又要翻车了](https://www.v2ex.com/t/767082) `15条评论` `职场话题`
 1. [入住 airbnb 前房东要求提供所有入住人的身份证照片属于正常情况吗](https://www.v2ex.com/t/767149) `14条评论` `Airbnb`
 1. [为什么这个 try-catch-finally 没有没有执行 finally 部分？](https://www.v2ex.com/t/767110) `14条评论` `Node.js`
+1. [超过 30s 找我领 10 个铜币](https://www.v2ex.com/t/767178) `13条评论` `推广`
 1. [v2ex 有没有安卓客户端](https://www.v2ex.com/t/767051) `13条评论` `V2EX`
 1. [如何在 USB 连接的硬盘上安装 Win10？](https://www.v2ex.com/t/767122) `12条评论` `Windows`
+1. [在 MacBook M1 上使用 Android Studio 开发的体验怎么样？](https://www.v2ex.com/t/767183) `11条评论` `MacBook Pro`
 1. [iOS 14.5 登出/更换 AppleID 后 Apple Music Library 不会清空](https://www.v2ex.com/t/767053) `11条评论` `Apple`
 1. [Stack Overflow 的愚人节玩笑，嘲讽力 Max](https://www.v2ex.com/t/767079) `9条评论` `分享发现`
-1. [6 年 Java 后端，简历求提意见](https://www.v2ex.com/t/767064) `9条评论` `求职`
-1. [有试过在上海异地换驾驶证的朋友吗？请教下流程](https://www.v2ex.com/t/767162) `8条评论` `上海`
 
-数据更新于 2021-04-01 05:46:29
+数据更新于 2021-04-01 05:56:16
 
 <!-- TODAY END -->
 
