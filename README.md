@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `53条评论` `Linux`
-1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) `47条评论` `宽带症候群`
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `54条评论` `Linux`
+1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) `48条评论` `宽带症候群`
 1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `43条评论` `macOS`
 1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750) `41条评论` `iPhone`
 1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `41条评论` `分享发现`
@@ -31,7 +31,7 @@
 1. [求助一个 <table> 内容插入问题](https://www.v2ex.com/t/767758) `13条评论` `问与答`
 1. [AWS 很奇怪啊](https://www.v2ex.com/t/767824) `12条评论` `Amazon Web Services`
 
-数据更新于 2021-04-03 18:59:42
+数据更新于 2021-04-03 19:10:42
 
 <!-- TODAY END -->
 
