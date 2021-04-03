@@ -9,10 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [当小组长的一些记录](https://www.v2ex.com/t/767732) `16条评论` `职场话题`
-1. [iPhone SE2020 耗电续航情况如何？](https://www.v2ex.com/t/767729) `13条评论` `iPhone`
+1. [iPhone SE2020 耗电续航情况如何？](https://www.v2ex.com/t/767729) `14条评论` `iPhone`
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `11条评论` `Linux`
+1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `6条评论` `macOS`
 1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `6条评论` `分享发现`
 
-数据更新于 2021-04-03 02:54:45
+数据更新于 2021-04-03 03:09:17
 
 <!-- TODAY END -->
 
