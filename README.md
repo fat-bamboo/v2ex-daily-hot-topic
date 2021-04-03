@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `49条评论` `Linux`
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `51条评论` `Linux`
 1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `41条评论` `分享发现`
 1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750) `39条评论` `iPhone`
+1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) `38条评论` `宽带症候群`
 1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `37条评论` `macOS`
-1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) `37条评论` `宽带症候群`
 1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780) `30条评论` `分享发现`
-1. [相见时难别亦难](https://www.v2ex.com/t/767759) `25条评论` `随想`
+1. [相见时难别亦难](https://www.v2ex.com/t/767759) `26条评论` `随想`
 1. [2021 年推荐一张划算的美国实体手机卡吧](https://www.v2ex.com/t/767793) `21条评论` `Apple`
 1. [[时鸟·Timebird] 王婆卖瓜又送码系列 Apple Watch 软件](https://www.v2ex.com/t/767788) `21条评论` `分享创造`
 1. [当小组长的一些记录](https://www.v2ex.com/t/767732) `21条评论` `职场话题`
@@ -22,7 +22,7 @@
 1. [iPhone SE2020 耗电续航情况如何？](https://www.v2ex.com/t/767729) `19条评论` `iPhone`
 1. [小城市有门店，做什么生意好](https://www.v2ex.com/t/767767) `17条评论` `问与答`
 1. [父母迷信江湖中药/祖传秘方，该怎么办？谢谢各位🙏🙏](https://www.v2ex.com/t/767770) `17条评论` `问与答`
-1. [刚学多线程，请问下面这段程序为什么停不下来啊？](https://www.v2ex.com/t/767839) `15条评论` `Java`
+1. [刚学多线程，请问下面这段程序为什么停不下来啊？](https://www.v2ex.com/t/767839) `16条评论` `Java`
 1. [看网上说好像 iphone12 价格跌了](https://www.v2ex.com/t/767751) `14条评论` `Apple`
 1. [求助一个 <table> 内容插入问题](https://www.v2ex.com/t/767758) `13条评论` `问与答`
 1. [求救！ vscode 到底怎么格式化 vue 代码？](https://www.v2ex.com/t/767822) `12条评论` `Visual Studio Code`
@@ -31,7 +31,7 @@
 1. [现在爬虫对付脚本构造的网页还有什么方法，除了 selenium](https://www.v2ex.com/t/767807) `11条评论` `Python`
 1. [请教 Apple Store 上卖的那个支持 HomeKit 的 Linksys Velop 路由器具体是什么型号，支持 Wi-Fi 6 吗？](https://www.v2ex.com/t/767768) `11条评论` `HomeKit`
 
-数据更新于 2021-04-03 15:06:57
+数据更新于 2021-04-03 15:21:18
 
 <!-- TODAY END -->
 
