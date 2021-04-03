@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `33条评论` `Linux`
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `35条评论` `Linux`
 1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `31条评论` `分享发现`
 1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750) `24条评论` `iPhone`
 1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `21条评论` `macOS`
 1. [当小组长的一些记录](https://www.v2ex.com/t/767732) `21条评论` `职场话题`
 1. [iPhone SE2020 耗电续航情况如何？](https://www.v2ex.com/t/767729) `19条评论` `iPhone`
 1. [父母迷信江湖中药/祖传秘方，该怎么办？谢谢各位🙏🙏](https://www.v2ex.com/t/767770) `17条评论` `问与答`
-1. [小城市有门店，做什么生意好](https://www.v2ex.com/t/767767) `15条评论` `问与答`
-1. [[时鸟·Timebird] 王婆卖瓜又送码系列 Apple Watch 软件](https://www.v2ex.com/t/767788) `13条评论` `分享创造`
+1. [小城市有门店，做什么生意好](https://www.v2ex.com/t/767767) `16条评论` `问与答`
+1. [[时鸟·Timebird] 王婆卖瓜又送码系列 Apple Watch 软件](https://www.v2ex.com/t/767788) `15条评论` `分享创造`
 1. [求助一个 <table> 内容插入问题](https://www.v2ex.com/t/767758) `13条评论` `问与答`
-1. [看网上说好像 iphone12 价格跌了](https://www.v2ex.com/t/767751) `12条评论` `Apple`
+1. [看网上说好像 iphone12 价格跌了](https://www.v2ex.com/t/767751) `13条评论` `Apple`
+1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780) `11条评论` `分享发现`
 1. [二本 Java 一枚，求北京 Offer， 2 年+ 经验](https://www.v2ex.com/t/767735) `11条评论` `职场话题`
+1. [请教 Apple Store 上卖的那个支持 HomeKit 的 Linksys Velop 路由器具体是什么型号，支持 Wi-Fi 6 吗？](https://www.v2ex.com/t/767768) `10条评论` `HomeKit`
 1. [有哪些让你重新唤起对编程的学习激情的博客或者开源项目？](https://www.v2ex.com/t/767763) `10条评论` `程序员`
-1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780) `8条评论` `分享发现`
-1. [像 pixiv 那种根据标签搜索图片的功能，后端是怎么做得？](https://www.v2ex.com/t/767754) `8条评论` `程序员`
+1. [像 pixiv 那种根据标签搜索图片的功能，后端是怎么做得？](https://www.v2ex.com/t/767754) `9条评论` `程序员`
+1. [2021 年推荐一张划算的美国实体手机卡吧](https://www.v2ex.com/t/767793) `8条评论` `Apple`
 1. [macbook 13 寸（M1 芯片）外接两台 dell 的 27 寸 4k 显示器 u2720QM](https://www.v2ex.com/t/767784) `7条评论` `Apple`
 1. [win to go 怎么安装？有没有使用过的，对硬件有啥要求？](https://www.v2ex.com/t/767773) `7条评论` `Windows`
-1. [请教 Apple Store 上卖的那个支持 HomeKit 的 Linksys Velop 路由器具体是什么型号，支持 Wi-Fi 6 吗？](https://www.v2ex.com/t/767768) `7条评论` `HomeKit`
 1. [如何快速的将三星 S20 的照片导出到 Mac](https://www.v2ex.com/t/767779) `6条评论` `问与答`
 1. [迫于最近 Nas 话题火爆，欢迎入群。](https://www.v2ex.com/t/767760) `6条评论` `NAS`
 1. [相见时难别亦难](https://www.v2ex.com/t/767759) `6条评论` `随想`
-1. [有闲鱼的童鞋们，你们这事业部怎么这么智 障](https://www.v2ex.com/t/767749) `6条评论` `全球工单系统`
 
-数据更新于 2021-04-03 08:10:32
+数据更新于 2021-04-03 08:26:28
 
 <!-- TODAY END -->
 
