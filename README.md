@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `41条评论` `分享发现`
-1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `39条评论` `Linux`
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `40条评论` `Linux`
 1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `31条评论` `macOS`
-1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750) `25条评论` `iPhone`
+1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750) `26条评论` `iPhone`
 1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780) `22条评论` `分享发现`
 1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) `21条评论` `宽带症候群`
 1. [[时鸟·Timebird] 王婆卖瓜又送码系列 Apple Watch 软件](https://www.v2ex.com/t/767788) `21条评论` `分享创造`
@@ -31,7 +31,7 @@
 1. [像 pixiv 那种根据标签搜索图片的功能，后端是怎么做得？](https://www.v2ex.com/t/767754) `10条评论` `程序员`
 1. [请教各位老哥，国管公积金提取问题。](https://www.v2ex.com/t/767812) `9条评论` `问与答`
 
-数据更新于 2021-04-03 11:23:35
+数据更新于 2021-04-03 11:35:40
 
 <!-- TODAY END -->
 
