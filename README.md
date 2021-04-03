@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `37条评论` `Linux`
-1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `35条评论` `分享发现`
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746) `38条评论` `Linux`
+1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741) `38条评论` `分享发现`
+1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `24条评论` `macOS`
 1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750) `24条评论` `iPhone`
-1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745) `21条评论` `macOS`
 1. [当小组长的一些记录](https://www.v2ex.com/t/767732) `21条评论` `职场话题`
+1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780) `20条评论` `分享发现`
 1. [iPhone SE2020 耗电续航情况如何？](https://www.v2ex.com/t/767729) `19条评论` `iPhone`
-1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780) `18条评论` `分享发现`
 1. [父母迷信江湖中药/祖传秘方，该怎么办？谢谢各位🙏🙏](https://www.v2ex.com/t/767770) `17条评论` `问与答`
 1. [2021 年推荐一张划算的美国实体手机卡吧](https://www.v2ex.com/t/767793) `16条评论` `Apple`
 1. [[时鸟·Timebird] 王婆卖瓜又送码系列 Apple Watch 软件](https://www.v2ex.com/t/767788) `16条评论` `分享创造`
@@ -27,11 +27,11 @@
 1. [像 pixiv 那种根据标签搜索图片的功能，后端是怎么做得？](https://www.v2ex.com/t/767754) `10条评论` `程序员`
 1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) `9条评论` `宽带症候群`
 1. [macbook 13 寸（M1 芯片）外接两台 dell 的 27 寸 4k 显示器 u2720QM](https://www.v2ex.com/t/767784) `9条评论` `Apple`
-1. [win to go 怎么安装？有没有使用过的，对硬件有啥要求？](https://www.v2ex.com/t/767773) `8条评论` `Windows`
+1. [win to go 怎么安装？有没有使用过的，对硬件有啥要求？](https://www.v2ex.com/t/767773) `9条评论` `Windows`
 1. [1password 和 Bitwarden 官方版哪个安全？](https://www.v2ex.com/t/767790) `7条评论` `问与答`
 1. [如何快速的将三星 S20 的照片导出到 Mac](https://www.v2ex.com/t/767779) `6条评论` `问与答`
 
-数据更新于 2021-04-03 09:16:55
+数据更新于 2021-04-03 09:31:52
 
 <!-- TODAY END -->
 
