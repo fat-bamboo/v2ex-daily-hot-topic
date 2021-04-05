@@ -9,8 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [寻一个有分词符的输入法， xi'an 人表示很难受](https://www.v2ex.com/t/768050) `23条评论` `Apple`
+1. [想给妈妈买一台 iPad Mini 看电视剧，这个月会更新 iPad Mini 吗](https://www.v2ex.com/t/768052) `6条评论` `Apple`
 
-数据更新于 2021-04-05 02:57:35
+数据更新于 2021-04-05 03:13:01
 
 <!-- TODAY END -->
 
