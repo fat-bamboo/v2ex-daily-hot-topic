@@ -13,8 +13,8 @@
 1. [寻一个有分词符的输入法， xi'an 人表示很难受](https://www.v2ex.com/t/768050) `53条评论` `Apple`
 1. [大家有过想要染头的想法吗](https://www.v2ex.com/t/768055) `41条评论` `生活`
 1. [请问 iPhone8 变得卡顿是怎么回事？](https://www.v2ex.com/t/768087) `37条评论` `Apple`
+1. [感觉 Windows Hello 人脸识别率好差啊](https://www.v2ex.com/t/768127) `36条评论` `Windows`
 1. [给我推荐一些监控摄像头和方案吧，遇到人渣找茬了](https://www.v2ex.com/t/768062) `35条评论` `问与答`
-1. [感觉 Windows Hello 人脸识别率好差啊](https://www.v2ex.com/t/768127) `35条评论` `Windows`
 1. [Apple Pay 公交卡无法快速连刷有没有什么技巧可以改善😂](https://www.v2ex.com/t/768097) `33条评论` `iPhone`
 1. [为什么国外互联网巨头都没有发生过被脱裤？](https://www.v2ex.com/t/768132) `33条评论` `程序员`
 1. [数组里有百万个值，如何加快速度？](https://www.v2ex.com/t/768144) `28条评论` `编程`
@@ -31,7 +31,7 @@
 1. [FreeBSD 现在通常在什么场景下使用？](https://www.v2ex.com/t/768092) `15条评论` `FreeBSD`
 1. [(开源的 Nintendo Switch 模拟器)每当看到这样的项目就很羡慕](https://www.v2ex.com/t/768192) `14条评论` `程序员`
 
-数据更新于 2021-04-05 23:23:59
+数据更新于 2021-04-05 23:39:25
 
 <!-- TODAY END -->
 
