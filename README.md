@@ -21,9 +21,9 @@
 1. [Windows 上有 zsh 的替代品吗](https://www.v2ex.com/t/769061) `22条评论` `程序员`
 1. [为什么你们要把 sql 当 nosql 用？](https://www.v2ex.com/t/769160) `21条评论` `程序员`
 1. [想开个计算机读书会的群（一些经典➕实践](https://www.v2ex.com/t/769031) `21条评论` `问与答`
+1. [发现做 IOS 实在是太有前途了](https://www.v2ex.com/t/769201) `19条评论` `职场话题`
 1. [老哥们, 开源了, 最省心的博客, 不用服务器, 不用本地编译,直接在 issue 上写博客.](https://www.v2ex.com/t/769037) `19条评论` `问与答`
 1. [Python lambda：纯正的 λ 演算味儿](https://www.v2ex.com/t/768990) `19条评论` `Python`
-1. [发现做 IOS 实在是太有前途了](https://www.v2ex.com/t/769201) `18条评论` `职场话题`
 1. [入职一星期离职了](https://www.v2ex.com/t/769053) `18条评论` `职场话题`
 1. [现在面试都是要讲 hashMap put 过程， concurrentHashMap put 过程吗？](https://www.v2ex.com/t/769027) `17条评论` `程序员`
 1. [Python 怎么多机器执行任务？求推荐框架](https://www.v2ex.com/t/768952) `17条评论` `Python`
@@ -31,7 +31,7 @@
 1. [有没有发现最新版知乎很容易误触](https://www.v2ex.com/t/768929) `15条评论` `知乎`
 1. [V2 有用 iMessage 的人吗，准备拉个群，有报名的吗](https://www.v2ex.com/t/768923) `15条评论` `Apple`
 
-数据更新于 2021-04-08 14:51:52
+数据更新于 2021-04-08 15:00:17
 
 <!-- TODAY END -->
 
