@@ -9,29 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [可怕的苹果验证机制](https://www.v2ex.com/t/769272) `57条评论` `Apple`
-1. [身边有多少人每天都听罗辑思维？](https://www.v2ex.com/t/769271) `44条评论` `问与答`
+1. [身边有多少人每天都听罗辑思维？](https://www.v2ex.com/t/769271) `47条评论` `问与答`
 1. [为什么要鼓吹双扬声器，不知道外放很讨厌吗？](https://www.v2ex.com/t/769288) `36条评论` `问与答`
 1. [[进击的巨人]原来谏山创说的 “伤害读者” 是这个意思](https://www.v2ex.com/t/769276) `28条评论` `剧集`
 1. [这个月公司给大家普调了薪水，但是。。。](https://www.v2ex.com/t/769281) `26条评论` `程序员`
 1. [什么样的公司才是大家心目中的好公司？](https://www.v2ex.com/t/769274) `25条评论` `职场话题`
+1. [进击的巨人真的好看？](https://www.v2ex.com/t/769313) `21条评论` `ACG`
 1. [现在从零开始学习 C/C++最合适的 IDE 是什么？](https://www.v2ex.com/t/769286) `19条评论` `问与答`
-1. [进击的巨人真的好看？](https://www.v2ex.com/t/769313) `16条评论` `ACG`
 1. [入手 homepod mini，使用了几天发现两个问题](https://www.v2ex.com/t/769285) `15条评论` `Apple`
 1. [云主机的核数是物理的还是逻辑的？](https://www.v2ex.com/t/769297) `14条评论` `问与答`
 1. [极限竞速：地平线 4 降价了，想问一下适合手残党休闲玩么？](https://www.v2ex.com/t/769292) `14条评论` `游戏`
+1. [分享一个一直更新 IDE 激活码， pycharm， Golang 激活码， phpstorm 激活码](https://www.v2ex.com/t/769305) `12条评论` `推广`
 1. [一个函数方法里如何调用两个 c 文件里的相同标识符的函数？](https://www.v2ex.com/t/769277) `12条评论` `C`
-1. [分享一个一直更新 IDE 激活码， pycharm， Golang 激活码， phpstorm 激活码](https://www.v2ex.com/t/769305) `11条评论` `推广`
+1. [关于 hooks 的问题，也不知道是不是我脑子短路了，想不出来](https://www.v2ex.com/t/769330) `10条评论` `React`
 1. [有 macOS 和 win 平台 多平台的 RSS 工具推荐](https://www.v2ex.com/t/769270) `10条评论` `问与答`
-1. [关于 hooks 的问题，也不知道是不是我脑子短路了，想不出来](https://www.v2ex.com/t/769330) `8条评论` `React`
-1. [在 iPhone 上体验 One UI](https://www.v2ex.com/t/769307) `8条评论` `分享发现`
+1. [在 iPhone 上体验 One UI](https://www.v2ex.com/t/769307) `9条评论` `分享发现`
+1. [mac 无法访问 windows 共享文件夹](https://www.v2ex.com/t/769327) `8条评论` `macOS`
+1. [Linux 怎么获得为什么 Java 进程退出的原因？](https://www.v2ex.com/t/769302) `8条评论` `程序员`
 1. [有没有适合 Windows 的本地轻量 DNS 服务（支持 [泛解析] 以替代 Hosts）？](https://www.v2ex.com/t/769291) `8条评论` `DNS`
 1. [关于显示器悬臂支架的夹边安装](https://www.v2ex.com/t/769278) `8条评论` `问与答`
 1. [自从同事溜了以后,我....](https://www.v2ex.com/t/769275) `8条评论` `职场话题`
-1. [Linux 怎么获得为什么 Java 进程退出的原因？](https://www.v2ex.com/t/769302) `7条评论` `程序员`
 1. [有没有什么好用的 magisk 的模块？](https://www.v2ex.com/t/769290) `7条评论` `Android`
-1. [mac 无法访问 windows 共享文件夹](https://www.v2ex.com/t/769327) `6条评论` `macOS`
 
-数据更新于 2021-04-09 02:54:24
+数据更新于 2021-04-09 03:04:04
 
 <!-- TODAY END -->
 
