@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2021-04-12 00:24:54
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [剧慌，求推荐〔男女主开始互相讨厌，最后走到一起〕这类国产剧](https://www.v2ex.com/t/769868) `67条评论` `剧集`
 1. [求推荐一款烧水壶](https://www.v2ex.com/t/769861) `51条评论` `生活`
 1. [APKPure v3.17.18 被植入木马](https://www.v2ex.com/t/769879) `39条评论` `Android`
@@ -30,37 +40,6 @@
 1. [tb 上的世纪互联靠谱么？ onenote 用](https://www.v2ex.com/t/769918) `10条评论` `问与答`
 1. [如何提高智商？（能够讲通逻辑或者说能玩一些解密游戏）](https://www.v2ex.com/t/769858) `9条评论` `问与答`
 1. [微信软磨硬泡要求存储空间权限，但是不给貌似也不影响啥，那它要来干嘛呢，有木有办法不给？](https://www.v2ex.com/t/769950) `8条评论` `Android`
-
-数据更新于 2021-04-11 23:59:50
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [你们最近都学啥好玩有意思的技术了吗，想学点新东西玩玩](https://www.v2ex.com/t/769636) `62条评论` `问与答`
-1. [自建 NAS 的存储方案的技术选择，求建议](https://www.v2ex.com/t/769653) `32条评论` `NAS`
-1. [公司出差问题，询问大佬](https://www.v2ex.com/t/769691) `31条评论` `职场话题`
-1. [升级 ios14.4.2 之后 App Store 无法跳转不同国家商店](https://www.v2ex.com/t/769676) `30条评论` `Apple`
-1. [7z vs rar](https://www.v2ex.com/t/769735) `29条评论` `分享发现`
-1. [idea 你们都是用的正版的还是破解的啊](https://www.v2ex.com/t/769644) `27条评论` `问与答`
-1. [没人谈谈阿里巴巴？](https://www.v2ex.com/t/769641) `27条评论` `问与答`
-1. [感觉苹果要发 AR 眼镜了](https://www.v2ex.com/t/769664) `25条评论` `Apple`
-1. [现在从 SE2 换到 12mini 是否合适](https://www.v2ex.com/t/769638) `24条评论` `iPhone`
-1. [请教诸位一个 redis 统计访问量增速的问题](https://www.v2ex.com/t/769758) `22条评论` `程序员`
-1. [多台 iPhone 之间如何快速传输文本？](https://www.v2ex.com/t/769652) `22条评论` `iPhone`
-1. [为什么有的帖子，我点开就跳回首页了](https://www.v2ex.com/t/769753) `20条评论` `反馈`
-1. [备份照片还是得用 Google Photos](https://www.v2ex.com/t/769794) `17条评论` `分享发现`
-1. [Java 泛型 接口返回类 如何面对 空？](https://www.v2ex.com/t/769692) `16条评论` `Java`
-1. [有点闲钱，有没有哪里的房子还有投资价值](https://www.v2ex.com/t/769731) `15条评论` `问与答`
-1. [大家有没有推荐的播客栏目？](https://www.v2ex.com/t/769755) `14条评论` `分享发现`
-1. [话说 ios 通信行程卡 app 提示使用代理会导致信息泄露 建议关闭](https://www.v2ex.com/t/769662) `14条评论` `宽带症候群`
-1. [问个 Linux 问题，纠结一下午了，关于 user 和 group, /etc/passwd 和 /etc/group](https://www.v2ex.com/t/769788) `13条评论` `Linux`
-1. [求问一下各位，自如的租房可以帮忙办居住证吗？](https://www.v2ex.com/t/769655) `13条评论` `北京`
-1. [夸夸 gitea](https://www.v2ex.com/t/769675) `12条评论` `git`
-1. [怎么看阿里巴巴因垄断被罚款?](https://www.v2ex.com/t/769642) `12条评论` `问与答`
-1. [类似 vultr.com godaddy.com 这样的国外网站是如何拥有支付宝和微信支付的](https://www.v2ex.com/t/769819) `11条评论` `程序员`
 
 <!-- YESTERDAY END -->
 
