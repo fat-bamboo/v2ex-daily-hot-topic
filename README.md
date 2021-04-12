@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于 offer 选择问题](https://www.v2ex.com/t/769976) `50条评论` `职场话题`
-1. [有没有 IT 行业的小说推荐](https://www.v2ex.com/t/770002) `50条评论` `程序员`
-1. [请教个 docker 或是 iptables 防火墙问题：容器内能 ping 通 ip 但 ping 不通域名，提示“bad address”](https://www.v2ex.com/t/769968) `45条评论` `Linux`
+1. [关于 offer 选择问题](https://www.v2ex.com/t/769976) `52条评论` `职场话题`
+1. [有没有 IT 行业的小说推荐](https://www.v2ex.com/t/770002) `52条评论` `程序员`
+1. [请教个 docker 或是 iptables 防火墙问题：容器内能 ping 通 ip 但 ping 不通域名，提示“bad address”](https://www.v2ex.com/t/769968) `46条评论` `Linux`
 1. [有没有人有和我一样的"特殊爱好"？](https://www.v2ex.com/t/769965) `42条评论` `问与答`
 1. [关于二战考研被导员催促威胁找工作](https://www.v2ex.com/t/770037) `37条评论` `问与答`
 1. [关于了解了整理收纳师这个职业后的感想](https://www.v2ex.com/t/770067) `25条评论` `生活`
@@ -26,12 +26,12 @@
 1. [Homepod mini 能触发米家的捷径吗](https://www.v2ex.com/t/770060) `11条评论` `HomePod`
 1. [宣传一下自己的二次元图片 API](https://www.v2ex.com/t/770055) `11条评论` `分享创造`
 1. [锦秋家园三室两厅两卫，次卧转租，可撸猫！](https://www.v2ex.com/t/769985) `11条评论` `问与答`
+1. [web 页面转换为实时图片](https://www.v2ex.com/t/770091) `10条评论` `Java`
 1. [APP 顶部推送问题](https://www.v2ex.com/t/770070) `10条评论` `iOS`
 1. [安卓微信原来的储存目录可以删除了吗](https://www.v2ex.com/t/770032) `10条评论` `问与答`
 1. [Google 环聊无法发送短信](https://www.v2ex.com/t/769973) `10条评论` `Google`
-1. [实在用不惯 OrginOS 想回 MIUI 去](https://www.v2ex.com/t/770113) `9条评论` `Android`
 
-数据更新于 2021-04-12 09:16:58
+数据更新于 2021-04-12 09:32:22
 
 <!-- TODAY END -->
 
