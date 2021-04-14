@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [VioEye: 查看某个 app 的请求的域名和 IP [发放兑换码]](https://www.v2ex.com/t/770502) `67条评论` `分享创造`
-1. [谈离职却被领导 PUA](https://www.v2ex.com/t/770492) `66条评论` `职场话题`
-1. [RX580 咸鱼挂 3000 被秒了。](https://www.v2ex.com/t/770488) `48条评论` `硬件`
+1. [VioEye: 查看某个 app 的请求的域名和 IP [发放兑换码]](https://www.v2ex.com/t/770502) `69条评论` `分享创造`
+1. [谈离职却被领导 PUA](https://www.v2ex.com/t/770492) `68条评论` `职场话题`
+1. [RX580 咸鱼挂 3000 被秒了。](https://www.v2ex.com/t/770488) `52条评论` `硬件`
 1. [v2ex 被 q 有没有折中方案](https://www.v2ex.com/t/770571) `39条评论` `问与答`
 1. [今天三月三，你们放假了吗？](https://www.v2ex.com/t/770481) `29条评论` `问与答`
 1. [暗恋一个女孩很多年](https://www.v2ex.com/t/770478) `24条评论` `生活`
 1. [大数据量模糊匹配有快速响应的优化方案吗？](https://www.v2ex.com/t/770500) `22条评论` `数据库`
 1. [有时候觉得网上吵架就像一场没有血条的回合制战斗](https://www.v2ex.com/t/770553) `21条评论` `生活`
-1. [一种基于 HTTP 的伪双工通信](https://www.v2ex.com/t/770572) `18条评论` `程序员`
+1. [一种基于 HTTP 的伪双工通信](https://www.v2ex.com/t/770572) `19条评论` `程序员`
 1. [求 V 友推荐手机，手机自动关机没发用了。](https://www.v2ex.com/t/770551) `18条评论` `问与答`
 1. [骚操作:我在京东买东西,卖家直接去淘宝帮我下了一单寄给我了](https://www.v2ex.com/t/770532) `18条评论` `京东`
+1. [面试官说对我非常满意，却不发 offer](https://www.v2ex.com/t/770567) `17条评论` `职场话题`
+1. [大家有没有搞过有状态应用上 K8S](https://www.v2ex.com/t/770562) `16条评论` `Kubernetes`
 1. [买广州还是武汉？](https://www.v2ex.com/t/770523) `16条评论` `广州`
-1. [面试官说对我非常满意，却不发 offer](https://www.v2ex.com/t/770567) `15条评论` `职场话题`
-1. [大家有没有搞过有状态应用上 K8S](https://www.v2ex.com/t/770562) `15条评论` `Kubernetes`
 1. [最近已经出现硬盘挖矿的虚拟币了？](https://www.v2ex.com/t/770543) `15条评论` `问与答`
 1. [请问 13 年的 MacBook Pro 建议升级 Big Sur 么？](https://www.v2ex.com/t/770494) `14条评论` `MacBook Pro`
 1. [老哥们，请教个网络问题。](https://www.v2ex.com/t/770549) `13条评论` `程序员`
 1. [工作六年，依然不能手写 Block，什么水平？](https://www.v2ex.com/t/770541) `13条评论` `iDev`
 1. [股市何时进入风险较小？](https://www.v2ex.com/t/770497) `13条评论` `投资`
-1. [Docker 端口映射后外部无法访问](https://www.v2ex.com/t/770560) `9条评论` `问与答`
+1. [Docker 端口映射后外部无法访问](https://www.v2ex.com/t/770560) `10条评论` `问与答`
 1. [搭一个图片相册展示为主的网站用什么框架比较好](https://www.v2ex.com/t/770527) `9条评论` `Node.js`
-1. [Mac app store 更新软件总是出问题，这么不稳定么](https://www.v2ex.com/t/770499) `8条评论` `Apple`
+1. [请教用 uWSGI 启动 Django 项目遇到的问题](https://www.v2ex.com/t/770590) `8条评论` `Python`
 
-数据更新于 2021-04-14 07:07:42
+数据更新于 2021-04-14 07:22:17
 
 <!-- TODAY END -->
 
