@@ -25,13 +25,13 @@
 1. [有时候觉得网上吵架就像一场没有血条的回合制战斗](https://www.v2ex.com/t/770553) `21条评论` `生活`
 1. [一种基于 HTTP 的伪双工通信](https://www.v2ex.com/t/770572) `19条评论` `程序员`
 1. [求 V 友推荐手机，手机自动关机没发用了。](https://www.v2ex.com/t/770551) `18条评论` `问与答`
+1. [数据库表设计是否需要在字段前标注字段的所属对象，比如用户表的名字是 user_name,学校表的名字字段是 school_name](https://www.v2ex.com/t/770704) `17条评论` `程序员`
 1. [面试官说对我非常满意，却不发 offer](https://www.v2ex.com/t/770567) `17条评论` `职场话题`
-1. [数据库表设计是否需要在字段前标注字段的所属对象，比如用户表的名字是 user_name,学校表的名字字段是 school_name](https://www.v2ex.com/t/770704) `16条评论` `程序员`
+1. [Sony 新机 Xperia 1 III 能否在 Android 阵营站起来？](https://www.v2ex.com/t/770697) `16条评论` `Android`
 1. [大家有没有搞过有状态应用上 K8S](https://www.v2ex.com/t/770562) `16条评论` `Kubernetes`
-1. [Sony 新机 Xperia 1 III 能否在 Android 阵营站起来？](https://www.v2ex.com/t/770697) `15条评论` `Android`
 1. [如何让 Edge for Mac 不依赖 Microsoft AutoUpdate 更新？](https://www.v2ex.com/t/770649) `15条评论` `macOS`
 
-数据更新于 2021-04-14 17:50:23
+数据更新于 2021-04-14 18:06:04
 
 <!-- TODAY END -->
 
