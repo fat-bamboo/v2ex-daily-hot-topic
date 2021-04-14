@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [RX580 咸鱼挂 3000 被秒了。](https://www.v2ex.com/t/770488) `98条评论` `硬件`
+1. [RX580 咸鱼挂 3000 被秒了。](https://www.v2ex.com/t/770488) `99条评论` `硬件`
 1. [谈离职却被领导 PUA](https://www.v2ex.com/t/770492) `83条评论` `职场话题`
 1. [VioEye: 查看某个 app 的请求的域名和 IP [发放兑换码]](https://www.v2ex.com/t/770502) `72条评论` `分享创造`
 1. [骚操作:我在京东买东西,卖家直接去淘宝帮我下了一单寄给我了](https://www.v2ex.com/t/770532) `44条评论` `京东`
@@ -27,11 +27,11 @@
 1. [如何让 Edge for Mac 不依赖 Microsoft AutoUpdate 更新？](https://www.v2ex.com/t/770649) `15条评论` `macOS`
 1. [最近已经出现硬盘挖矿的虚拟币了？](https://www.v2ex.com/t/770543) `15条评论` `问与答`
 1. [请问 13 年的 MacBook Pro 建议升级 Big Sur 么？](https://www.v2ex.com/t/770494) `14条评论` `MacBook Pro`
+1. [最近很多认识的大佬都在炒币，自己也想试一试，求 V 友给些建议](https://www.v2ex.com/t/770683) `13条评论` `问与答`
+1. [为什么 nginx 连请求到达时间这个基本信息都不能记录](https://www.v2ex.com/t/770665) `13条评论` `NGINX`
 1. [有没人用 iPad 办公，和 MacBook 差远吗？？有没有场景可以拉进使用距离](https://www.v2ex.com/t/770634) `13条评论` `iPad`
-1. [老哥们，请教个网络问题。](https://www.v2ex.com/t/770549) `13条评论` `程序员`
-1. [工作六年，依然不能手写 Block，什么水平？](https://www.v2ex.com/t/770541) `13条评论` `iDev`
 
-数据更新于 2021-04-14 13:24:05
+数据更新于 2021-04-14 13:38:47
 
 <!-- TODAY END -->
 
