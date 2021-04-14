@@ -31,7 +31,7 @@
 1. [大家有没有搞过有状态应用上 K8S](https://www.v2ex.com/t/770562) `16条评论` `Kubernetes`
 1. [如何让 Edge for Mac 不依赖 Microsoft AutoUpdate 更新？](https://www.v2ex.com/t/770649) `15条评论` `macOS`
 
-数据更新于 2021-04-14 19:07:33
+数据更新于 2021-04-14 19:21:50
 
 <!-- TODAY END -->
 
