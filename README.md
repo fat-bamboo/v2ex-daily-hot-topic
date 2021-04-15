@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [终于下定决心买了正版 jetbrains 全家桶一年授权](https://www.v2ex.com/t/770756) `117条评论` `JetBrains`
-1. [移动端的未来是什么](https://www.v2ex.com/t/770773) `47条评论` `程序员`
-1. [写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791) `44条评论` `生活`
+1. [终于下定决心买了正版 jetbrains 全家桶一年授权](https://www.v2ex.com/t/770756) `119条评论` `JetBrains`
+1. [写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791) `50条评论` `生活`
+1. [移动端的未来是什么](https://www.v2ex.com/t/770773) `49条评论` `程序员`
 1. [坐标上海，想买 20w-25w 左右的车，怎么选择？](https://www.v2ex.com/t/770780) `40条评论` `汽车`
 1. [这些读取剪切板的国产 app 是真的烦](https://www.v2ex.com/t/770796) `28条评论` `iOS`
 1. [3080 现在能卖多少钱？](https://www.v2ex.com/t/770746) `24条评论` `问与答`
@@ -27,11 +27,11 @@
 1. [Google 搜索这是发生甚么事了?](https://www.v2ex.com/t/770742) `15条评论` `Google`
 1. [分享自己的倒霉事。](https://www.v2ex.com/t/770760) `14条评论` `分享发现`
 1. [飞书文档和飞书里的内容是否会被字节看到？是否有加密机制？](https://www.v2ex.com/t/770779) `13条评论` `问与答`
+1. [你的 Apple ID 有没有设为 iCloud.com 或者 me.com 的邮箱？有啥优缺点？](https://www.v2ex.com/t/770856) `12条评论` `Apple`
 1. [想入手 DS220+ and 硬盘咨询](https://www.v2ex.com/t/770748) `12条评论` `问与答`
-1. [你的 Apple ID 有没有设为 iCloud.com 或者 me.com 的邮箱？有啥优缺点？](https://www.v2ex.com/t/770856) `11条评论` `Apple`
-1. [iOS 反剪切板滥用小技巧分享](https://www.v2ex.com/t/770820) `11条评论` `iPhone`
+1. [如果有个 CRUD 工具会不会有兴趣用？](https://www.v2ex.com/t/770847) `11条评论` `Java`
 
-数据更新于 2021-04-15 08:08:13
+数据更新于 2021-04-15 08:23:19
 
 <!-- TODAY END -->
 
