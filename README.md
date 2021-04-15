@@ -9,28 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [终于下定决心买了正版 jetbrains 全家桶一年授权](https://www.v2ex.com/t/770756) `69条评论` `程序员`
+1. [移动端的未来是什么](https://www.v2ex.com/t/770773) `28条评论` `程序员`
 1. [坐标上海，想买 20w-25w 左右的车，怎么选择？](https://www.v2ex.com/t/770780) `26条评论` `问与答`
-1. [移动端的未来是什么](https://www.v2ex.com/t/770773) `25条评论` `程序员`
 1. [3080 现在能卖多少钱？](https://www.v2ex.com/t/770746) `24条评论` `问与答`
+1. [这些读取剪切板的国产 app 是真的烦](https://www.v2ex.com/t/770796) `21条评论` `iOS`
+1. [写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791) `18条评论` `生活`
 1. [公司 app 又被腾讯报毒了，有没人见过这情况，](https://www.v2ex.com/t/770759) `18条评论` `程序员`
 1. [12 mini 的屏幕是真的瞎眼](https://www.v2ex.com/t/770743) `17条评论` `iPhone`
-1. [这些读取剪切板的国产 app 是真的烦](https://www.v2ex.com/t/770796) `16条评论` `iOS`
-1. [写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791) `16条评论` `生活`
 1. [对应届生来说客户端开发真的是劝退吗](https://www.v2ex.com/t/770757) `15条评论` `程序员`
 1. [Google 搜索这是发生甚么事了?](https://www.v2ex.com/t/770742) `15条评论` `Google`
+1. [M1 上微信 Mac 版本内存占用要上天了](https://www.v2ex.com/t/770790) `14条评论` `Apple`
 1. [分享自己的倒霉事。](https://www.v2ex.com/t/770760) `14条评论` `分享发现`
 1. [想入手 DS220+ and 硬盘咨询](https://www.v2ex.com/t/770748) `12条评论` `问与答`
-1. [M1 上微信 Mac 版本内存占用要上天了](https://www.v2ex.com/t/770790) `11条评论` `Apple`
+1. [魅族做了一个违背祖宗的决定](https://www.v2ex.com/t/770801) `11条评论` `分享发现`
 1. [宁芝 NIZ 静电容键盘 66 还是 68 键？](https://www.v2ex.com/t/770753) `11条评论` `问与答`
 1. [不懂就问：如何正确设计一个订单号？](https://www.v2ex.com/t/770751) `11条评论` `程序员`
-1. [Hangouts 环聊不能用了吗？发不出消息](https://www.v2ex.com/t/770784) `9条评论` `Google`
+1. [Hangouts 环聊不能用了吗？发不出消息](https://www.v2ex.com/t/770784) `10条评论` `Google`
 1. [Docker 容器已启动就崩溃，如何进入调试？](https://www.v2ex.com/t/770795) `7条评论` `Docker`
 1. [Google 放出 Chrome 90 版本了](https://www.v2ex.com/t/770755) `7条评论` `Chrome`
+1. [云盘代下服务能做吗?](https://www.v2ex.com/t/770789) `6条评论` `奇思妙想`
+1. [飞书文档和飞书里的内容是否会被字节看到？是否有加密机制？](https://www.v2ex.com/t/770779) `6条评论` `问与答`
 1. [有严格遵守 RESTful 范式的朋友吗？](https://www.v2ex.com/t/770775) `6条评论` `问与答`
-1. [jboss， JavaEE 这套东西还有人用吗，值得投入太多精力下去吗](https://www.v2ex.com/t/770763) `6条评论` `Java`
-1. [几年前涉及 dubo 游戏,2020 年被 jc 调查,我该怎么办?](https://www.v2ex.com/t/770782) `6条评论` `问与答`
 
-数据更新于 2021-04-15 04:09:57
+数据更新于 2021-04-15 04:25:47
 
 <!-- TODAY END -->
 
