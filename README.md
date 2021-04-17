@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [发现自己的五笔打字水平越来越菜了，经常忘字要用临时拼音救场](https://www.v2ex.com/t/771228) `49条评论` `五笔字型输入法`
+1. [发现自己的五笔打字水平越来越菜了，经常忘字要用临时拼音救场](https://www.v2ex.com/t/771228) `50条评论` `五笔字型输入法`
 1. [脑洞一下，房子除出租外，如何创造收入？](https://www.v2ex.com/t/771230) `34条评论` `程序员`
 1. [尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236) `32条评论` `程序员`
 1. [上课屏蔽老师声音，选 Airpods Pro 还是 Sony WF-1000mx3？](https://www.v2ex.com/t/771262) `31条评论` `耳机`
 1. [新手求问， swiftui 的文档应该怎么去阅读理解？救命啊。。](https://www.v2ex.com/t/771241) `28条评论` `iDev`
-1. [想再买个手机玩玩，魅族还是一加](https://www.v2ex.com/t/771270) `21条评论` `Android`
+1. [想再买个手机玩玩，魅族还是一加](https://www.v2ex.com/t/771270) `22条评论` `Android`
 1. [如何解决接朋友时「在马路左 / 右边等你」，等我到了发现还是错了](https://www.v2ex.com/t/771298) `14条评论` `知乎`
 1. [各位哥哥们，请教一个 offer 的问题，麻烦给点意见呀](https://www.v2ex.com/t/771222) `14条评论` `职场话题`
 1. [@Transactional VS @Transactional(rollbackFor = Exception.class)](https://www.v2ex.com/t/771273) `12条评论` `Java`
@@ -28,7 +28,7 @@
 1. [伪装 User-Agent 后 respnse 302](https://www.v2ex.com/t/771251) `6条评论` `Python`
 1. [mac mini 键盘识别错位](https://www.v2ex.com/t/771244) `6条评论` `问与答`
 
-数据更新于 2021-04-17 09:51:02
+数据更新于 2021-04-17 09:59:22
 
 <!-- TODAY END -->
 
