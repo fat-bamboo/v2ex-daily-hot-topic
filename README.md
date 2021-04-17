@@ -23,7 +23,7 @@
 1. [是不是很多知名外企的总部 ip 地址都是白名单里的？](https://www.v2ex.com/t/771354) `13条评论` `宽带症候群`
 1. [电影荒了，朋友们有什么电影推荐](https://www.v2ex.com/t/771317) `13条评论` `电影`
 1. [卖了显卡的主机还能用来做啥？](https://www.v2ex.com/t/771316) `13条评论` `问与答`
-1. [Twitter 宕机了？](https://www.v2ex.com/t/771344) `12条评论` `问与答`
+1. [Twitter 宕机了？](https://www.v2ex.com/t/771344) `12条评论` `全球工单系统`
 1. [@Transactional VS @Transactional(rollbackFor = Exception.class)](https://www.v2ex.com/t/771273) `12条评论` `Java`
 1. [真就一入外包深似海吗？](https://www.v2ex.com/t/771246) `12条评论` `问与答`
 1. [闲鱼上面的诈骗越来越多了，而且总是变着花样](https://www.v2ex.com/t/771226) `12条评论` `淘宝`
@@ -31,7 +31,7 @@
 1. [go 语言实现一个微信机器人](https://www.v2ex.com/t/771307) `11条评论` `分享创造`
 1. [V2 是不是被墙了？](https://www.v2ex.com/t/771224) `11条评论` `问与答`
 
-数据更新于 2021-04-17 19:17:27
+数据更新于 2021-04-17 19:29:33
 
 <!-- TODAY END -->
 
