@@ -12,9 +12,9 @@
 1. [脑洞一下，房子除出租外，如何创造收入？](https://www.v2ex.com/t/771230) `35条评论` `程序员`
 1. [尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236) `33条评论` `程序员`
 1. [上课屏蔽老师声音，选 Airpods Pro 还是 Sony WF-1000mx3？](https://www.v2ex.com/t/771262) `33条评论` `耳机`
-1. [新手求问， swiftui 的文档应该怎么去阅读理解？救命啊。。](https://www.v2ex.com/t/771241) `30条评论` `iDev`
+1. [新手求问， swiftui 的文档应该怎么去阅读理解？救命啊。。](https://www.v2ex.com/t/771241) `32条评论` `iDev`
 1. [想再买个手机玩玩，魅族还是一加](https://www.v2ex.com/t/771270) `22条评论` `Android`
-1. [很想吐槽一下目前的前端同事](https://www.v2ex.com/t/771320) `16条评论` `程序员`
+1. [很想吐槽一下目前的前端同事](https://www.v2ex.com/t/771320) `17条评论` `程序员`
 1. [如何解决接朋友时「在马路左 / 右边等你」，等我到了发现还是错了](https://www.v2ex.com/t/771298) `14条评论` `知乎`
 1. [各位哥哥们，请教一个 offer 的问题，麻烦给点意见呀](https://www.v2ex.com/t/771222) `14条评论` `职场话题`
 1. [@Transactional VS @Transactional(rollbackFor = Exception.class)](https://www.v2ex.com/t/771273) `12条评论` `Java`
@@ -24,14 +24,14 @@
 1. [V2 是不是被墙了？](https://www.v2ex.com/t/771224) `11条评论` `问与答`
 1. [支 F 宝领了 10 块钱 AppStore 消费券，不知道买啥 [附带领取方法]](https://www.v2ex.com/t/771227) `10条评论` `Apple`
 1. [Windows 推送基于 Chromium 的 Edge 版本了](https://www.v2ex.com/t/771232) `10条评论` `程序员`
+1. [电影荒了，朋友们有什么电影推荐](https://www.v2ex.com/t/771317) `9条评论` `电影`
 1. [我有 30 万个 Flash 小游戏，能用来干嘛？](https://www.v2ex.com/t/771293) `9条评论` `怀旧游戏`
-1. [电影荒了，朋友们有什么电影推荐](https://www.v2ex.com/t/771317) `8条评论` `电影`
 1. [卖了显卡的主机还能用来做啥？](https://www.v2ex.com/t/771316) `8条评论` `问与答`
 1. [索尼发布旗舰智能手机 Xperia 1 III 等](https://www.v2ex.com/t/771242) `8条评论` `SONY`
 1. [一个使用 React+Tailwind CSS 模拟的网页版 Ubuntu2004](https://www.v2ex.com/t/771297) `7条评论` `分享发现`
 1. [杭州海康 IT 部门开发 offer，去吗？](https://www.v2ex.com/t/771288) `7条评论` `职场话题`
 
-数据更新于 2021-04-17 11:11:37
+数据更新于 2021-04-17 11:24:52
 
 <!-- TODAY END -->
 
