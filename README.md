@@ -9,29 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) `40条评论` `程序员`
-1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576) `31条评论` `分享创造`
-1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) `26条评论` `分享发现`
+1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576) `34条评论` `分享创造`
+1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) `27条评论` `分享发现`
 1. [大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) `25条评论` `问与答`
-1. [如何应对孤独感？](https://www.v2ex.com/t/771599) `18条评论` `问与答`
-1. [记一次 github 泄漏 accessKey](https://www.v2ex.com/t/771582) `14条评论` `程序员`
+1. [如何应对孤独感？](https://www.v2ex.com/t/771599) `19条评论` `问与答`
+1. [记一次 github 泄漏 accessKey](https://www.v2ex.com/t/771582) `15条评论` `程序员`
 1. [请教一个后端开发问题，可能是多线程相关。](https://www.v2ex.com/t/771558) `13条评论` `程序员`
 1. [五一想自驾新安江，有没有去过的说说怎么样？](https://www.v2ex.com/t/771553) `12条评论` `旅行`
+1. [Tele 酱：基于 Telegram 和 Vercel 的开源 Server 酱实现 https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) `10条评论` `分享创造`
+1. [为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597) `10条评论` `问与答`
 1. [2021 年了 有什么推荐的 [安卓] 平台无线蓝牙耳机吗](https://www.v2ex.com/t/771567) `10条评论` `硬件`
-1. [Tele 酱：基于 Telegram 和 Vercel 的开源 Server 酱实现 https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) `9条评论` `分享创造`
+1. [[踢楼送码] 一个 DES 加密的云日记](https://www.v2ex.com/t/771619) `9条评论` `分享创造`
+1. [入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) `9条评论` `程序员`
+1. [一代 AirPods 换完电池一个月了，来谈谈体验](https://www.v2ex.com/t/771591) `9条评论` `Apple`
 1. [docker 内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574) `9条评论` `Docker`
 1. [问问大家，新购领势 MX4200 适合做主路由还是老的 AC68U 做主路由并且领势桥接模式呢](https://www.v2ex.com/t/771566) `9条评论` `宽带症候群`
 1. [求助： redhat7.8 在虚拟机和物理机上安装有什么不同？](https://www.v2ex.com/t/771538) `9条评论` `Linux`
-1. [[踢楼送码] 一个 DES 加密的云日记](https://www.v2ex.com/t/771619) `8条评论` `分享创造`
-1. [为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597) `8条评论` `问与答`
-1. [入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) `8条评论` `程序员`
-1. [一代 AirPods 换完电池一个月了，来谈谈体验](https://www.v2ex.com/t/771591) `8条评论` `Apple`
 1. [问问大家关于 k8s 的 deployment 创建过程](https://www.v2ex.com/t/771559) `8条评论` `Kubernetes`
+1. [Windows Terminal 可以通过界面配置了！](https://www.v2ex.com/t/771615) `7条评论` `Terminal`
 1. [Jquery Datatable 前端分页 Checkbox 跨页全选的问题](https://www.v2ex.com/t/771556) `7条评论` `jQuery`
-1. [Windows Terminal 可以通过界面配置了！](https://www.v2ex.com/t/771615) `6条评论` `Terminal`
+1. [没有达到实习合同上对实习时长的要求，可以提前离职吗？](https://www.v2ex.com/t/771590) `6条评论` `问与答`
 1. [刚入门，翻译了几篇 Golang 和 Rust 相关的文章对比一下～](https://www.v2ex.com/t/771587) `6条评论` `Go`
-1. [没有 root 的安卓机怎么开启 google feed？](https://www.v2ex.com/t/771584) `6条评论` `问与答`
 
-数据更新于 2021-04-19 05:11:20
+数据更新于 2021-04-19 05:27:13
 
 <!-- TODAY END -->
 
