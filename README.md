@@ -8,24 +8,26 @@
 
 <!-- TODAY BEGIN -->
 
-1. [闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) `38条评论` `程序员`
-1. [大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) `18条评论` `问与答`
-1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576) `15条评论` `分享创造`
-1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) `13条评论` `分享发现`
+1. [闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) `39条评论` `程序员`
+1. [大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) `21条评论` `问与答`
+1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576) `18条评论` `分享创造`
+1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) `17条评论` `分享发现`
+1. [如何应对孤独感？](https://www.v2ex.com/t/771599) `13条评论` `问与答`
 1. [请教一个后端开发问题，可能是多线程相关。](https://www.v2ex.com/t/771558) `13条评论` `程序员`
 1. [五一想自驾新安江，有没有去过的说说怎么样？](https://www.v2ex.com/t/771553) `12条评论` `旅行`
-1. [2021 年了 有什么推荐的 [安卓] 平台无线蓝牙耳机吗](https://www.v2ex.com/t/771567) `9条评论` `硬件`
+1. [记一次 github 泄漏 accessKey](https://www.v2ex.com/t/771582) `11条评论` `程序员`
+1. [2021 年了 有什么推荐的 [安卓] 平台无线蓝牙耳机吗](https://www.v2ex.com/t/771567) `10条评论` `硬件`
 1. [问问大家，新购领势 MX4200 适合做主路由还是老的 AC68U 做主路由并且领势桥接模式呢](https://www.v2ex.com/t/771566) `9条评论` `宽带症候群`
 1. [求助： redhat7.8 在虚拟机和物理机上安装有什么不同？](https://www.v2ex.com/t/771538) `9条评论` `Linux`
-1. [如何应对孤独感？](https://www.v2ex.com/t/771599) `8条评论` `问与答`
-1. [记一次 github 泄漏 accessKey](https://www.v2ex.com/t/771582) `8条评论` `程序员`
 1. [问问大家关于 k8s 的 deployment 创建过程](https://www.v2ex.com/t/771559) `8条评论` `Kubernetes`
+1. [Tele 酱：基于 Telegram 和 Vercel 的开源 Server 酱实现 https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) `7条评论` `分享创造`
+1. [为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597) `7条评论` `问与答`
+1. [入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) `7条评论` `程序员`
+1. [docker 内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574) `7条评论` `Docker`
 1. [Jquery Datatable 前端分页 Checkbox 跨页全选的问题](https://www.v2ex.com/t/771556) `7条评论` `jQuery`
-1. [Tele 酱：基于 Telegram 和 Vercel 的开源 Server 酱实现 https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) `6条评论` `分享创造`
-1. [入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) `6条评论` `程序员`
 1. [求助!mysql5.7 触发器内无法使用存储过程?](https://www.v2ex.com/t/771575) `6条评论` `MySQL`
 
-数据更新于 2021-04-19 03:30:11
+数据更新于 2021-04-19 03:46:01
 
 <!-- TODAY END -->
 
