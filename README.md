@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `70条评论` `Apple`
-1. [翻自己的发帖,看到自己一个 16 年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) `60条评论` `生活`
-1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `56条评论` `Android`
-1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819) `52条评论` `职场话题`
-1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `34条评论` `Apple`
+1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `71条评论` `Apple`
+1. [翻自己的发帖,看到自己一个 16 年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) `63条评论` `生活`
+1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `57条评论` `Android`
+1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819) `54条评论` `职场话题`
+1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `35条评论` `Apple`
 1. [求教! 网页接入微信支付流程?](https://www.v2ex.com/t/771800) `32条评论` `程序员`
 1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833) `24条评论` `程序员`
-1. [有个问题我不明白](https://www.v2ex.com/t/771879) `18条评论` `Java`
+1. [有个问题我不明白](https://www.v2ex.com/t/771879) `22条评论` `Java`
 1. [这两种表设计, 用哪种好?](https://www.v2ex.com/t/771862) `18条评论` `MySQL`
 1. [一线城市无脑买房就爆赚？深圳业主笑了](https://www.v2ex.com/t/771847) `18条评论` `深圳`
 1. [讲件有意思的事情](https://www.v2ex.com/t/771801) `18条评论` `分享发现`
 1. [国内正常上不了 V 站，请问有什么便捷方法？](https://www.v2ex.com/t/771811) `17条评论` `问与答`
+1. [大家来聊聊 自己犯过最严重的故障](https://www.v2ex.com/t/771899) `15条评论` `程序员`
 1. [offer 对比，杭州、北京 Java 后端方向](https://www.v2ex.com/t/771805) `15条评论` `职场话题`
+1. [关于 Java 垃圾回收的问题](https://www.v2ex.com/t/771890) `14条评论` `Java`
 1. [马上而立之年，大家觉得三十岁之前一定要做或者说对以后益处良多的事情是什么？](https://www.v2ex.com/t/771878) `14条评论` `问与答`
 1. [分享一下“低温水浴”这个做菜方法](https://www.v2ex.com/t/771868) `14条评论` `美酒与美食`
 1. [纠结 YOGA 14S 锐龙版和 Intel 版 。](https://www.v2ex.com/t/771810) `14条评论` `问与答`
-1. [关于 Java 垃圾回收的问题](https://www.v2ex.com/t/771890) `13条评论` `Java`
+1. [今晚的苹果春季发布会，不想熬夜，打算明天早上起来直接看视频，怎么防止被剧透？](https://www.v2ex.com/t/771898) `13条评论` `Apple`
 1. [[求助] 这段代码错在哪里了？](https://www.v2ex.com/t/771872) `13条评论` `JavaScript`
 1. [如果通过一条网线知道服务器的 IP 地址](https://www.v2ex.com/t/771855) `13条评论` `问与答`
 1. [django uwsgi nginx websocket 搭建后台管理,本地没问题,上传服务器 websocket 报 502 错误,其他接口能正常访问](https://www.v2ex.com/t/771852) `13条评论` `Python`
-1. [我突然想到一个问题，除了人类以外还有什么物种是雄性对雌性比较挑剔的吗？](https://www.v2ex.com/t/771829) `13条评论` `问与答`
-1. [苹果今天 9 点的邮件, 里面主题词变了, 原‘踏春而来’现‘一点开眼’, 疑似 Apple Glasses??](https://www.v2ex.com/t/771817) `13条评论` `Apple`
 
-数据更新于 2021-04-20 07:00:17
+数据更新于 2021-04-20 07:12:21
 
 <!-- TODAY END -->
 
