@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [翻自己的发帖,看到自己一个 16 年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) `49条评论` `生活`
-1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `48条评论` `Apple`
-1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `36条评论` `Android`
+1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `49条评论` `Apple`
+1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `39条评论` `Android`
 1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819) `31条评论` `职场话题`
-1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `27条评论` `Apple`
+1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `28条评论` `Apple`
 1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833) `23条评论` `程序员`
 1. [求教! 网页接入微信支付流程?](https://www.v2ex.com/t/771800) `22条评论` `程序员`
 1. [一线城市无脑买房就爆赚？深圳业主笑了](https://www.v2ex.com/t/771847) `18条评论` `深圳`
@@ -26,12 +26,12 @@
 1. [请有 m1 芯片苹果电脑的朋友，测试软件，大概花 2 分钟。 给红包](https://www.v2ex.com/t/771828) `12条评论` `Node.js`
 1. [Apple Pencil 电池：卒](https://www.v2ex.com/t/771795) `12条评论` `Apple`
 1. [个人项目有没有方法避免写很多无谓的 api 接口和前后端分离](https://www.v2ex.com/t/771838) `10条评论` `问与答`
+1. [这两种表设计, 用哪种好?](https://www.v2ex.com/t/771862) `9条评论` `MySQL`
 1. [[悬赏] 会写抢购软件的进](https://www.v2ex.com/t/771809) `9条评论` `程序员`
+1. [刚入职想离职了，准备去外企](https://www.v2ex.com/t/771859) `8条评论` `职场话题`
 1. [django uwsgi nginx websocket 搭建后台管理,本地没问题,上传服务器 websocket 报 502 错误,其他接口能正常访问](https://www.v2ex.com/t/771852) `8条评论` `Python`
-1. [外包歧视的都是哪种外包](https://www.v2ex.com/t/771827) `8条评论` `问与答`
-1. [关于 M1 芯片 MacOS 下 C++编译的问题](https://www.v2ex.com/t/771793) `8条评论` `macOS`
 
-数据更新于 2021-04-20 04:36:48
+数据更新于 2021-04-20 04:51:55
 
 <!-- TODAY END -->
 
