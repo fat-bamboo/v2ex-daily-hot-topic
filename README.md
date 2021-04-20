@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我来说说异步框架的最大缺点](https://www.v2ex.com/t/771935) `93条评论` `程序员`
-1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `91条评论` `Apple`
+1. [我来说说异步框架的最大缺点](https://www.v2ex.com/t/771935) `94条评论` `程序员`
+1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `92条评论` `Apple`
 1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819) `87条评论` `职场话题`
 1. [翻自己的发帖,看到自己一个 16 年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) `78条评论` `生活`
 1. [今晚的苹果春季发布会，不想熬夜，打算明天早上起来直接看视频，怎么防止被剧透？](https://www.v2ex.com/t/771898) `69条评论` `Apple`
 1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `68条评论` `Android`
 1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `56条评论` `Apple`
-1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833) `51条评论` `程序员`
+1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833) `52条评论` `程序员`
 1. [求教! 网页接入微信支付流程?](https://www.v2ex.com/t/771800) `37条评论` `程序员`
 1. [大家来聊聊 自己犯过最严重的故障](https://www.v2ex.com/t/771899) `37条评论` `程序员`
+1. [M1 in iPad Pro 这操作。](https://www.v2ex.com/t/772038) `30条评论` `Apple`
 1. [8 瓶水 2 瓶有毒 6 个耗子 要求单次检验出结果](https://www.v2ex.com/t/771969) `29条评论` `问与答`
-1. [M1 in iPad Pro 这操作。](https://www.v2ex.com/t/772038) `27条评论` `Apple`
 1. [有个问题我不明白](https://www.v2ex.com/t/771879) `22条评论` `Java`
 1. [我好像被骗了](https://www.v2ex.com/t/771977) `21条评论` `职场话题`
 1. [关于 Java 垃圾回收的问题](https://www.v2ex.com/t/771890) `18条评论` `Java`
@@ -31,7 +31,7 @@
 1. [被前同事 PUA 了~~](https://www.v2ex.com/t/771972) `16条评论` `职场话题`
 1. [AirTags 大家会买不](https://www.v2ex.com/t/771942) `16条评论` `Apple`
 
-数据更新于 2021-04-20 18:42:13
+数据更新于 2021-04-20 18:59:05
 
 <!-- TODAY END -->
 
