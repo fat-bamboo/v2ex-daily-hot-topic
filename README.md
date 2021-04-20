@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [翻自己的发帖,看到自己一个 16 年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) `48条评论` `生活`
-1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `46条评论` `Apple`
-1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `33条评论` `Android`
+1. [翻自己的发帖,看到自己一个 16 年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) `49条评论` `生活`
+1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `48条评论` `Apple`
+1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) `36条评论` `Android`
 1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819) `31条评论` `职场话题`
-1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `25条评论` `Apple`
+1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832) `27条评论` `Apple`
+1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833) `23条评论` `程序员`
 1. [求教! 网页接入微信支付流程?](https://www.v2ex.com/t/771800) `22条评论` `程序员`
-1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833) `21条评论` `程序员`
 1. [一线城市无脑买房就爆赚？深圳业主笑了](https://www.v2ex.com/t/771847) `18条评论` `深圳`
 1. [讲件有意思的事情](https://www.v2ex.com/t/771801) `18条评论` `分享发现`
 1. [国内正常上不了 V 站，请问有什么便捷方法？](https://www.v2ex.com/t/771811) `17条评论` `问与答`
@@ -31,7 +31,7 @@
 1. [外包歧视的都是哪种外包](https://www.v2ex.com/t/771827) `8条评论` `问与答`
 1. [关于 M1 芯片 MacOS 下 C++编译的问题](https://www.v2ex.com/t/771793) `8条评论` `macOS`
 
-数据更新于 2021-04-20 04:19:46
+数据更新于 2021-04-20 04:36:48
 
 <!-- TODAY END -->
 
