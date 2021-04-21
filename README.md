@@ -17,7 +17,7 @@
 1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171) `40条评论` `全球工单系统`
 1. [可以把 AirTag 功能植入体内么？](https://www.v2ex.com/t/772127) `38条评论` `Apple`
 1. [有没有和我一样的错觉：哪怕是两年前的 iPhone 觉得性能过剩，而刚发布的最新 Android 却觉性能不够？](https://www.v2ex.com/t/772242) `37条评论` `随想`
-1. [为了写论文向 Linux 内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319) `33条评论` `Linux`
+1. [为了写论文向 Linux 内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319) `34条评论` `Linux`
 1. [一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) `28条评论` `问与答`
 1. [成家后的你，跟父母多久联络一次？](https://www.v2ex.com/t/772080) `25条评论` `问与答`
 1. [M1 都入了 iPad 了，会不会进入 iPhone ？](https://www.v2ex.com/t/772223) `23条评论` `Apple`
@@ -27,11 +27,11 @@
 1. [[广州] 九毛九集团招聘后端开发工程师 again😅](https://www.v2ex.com/t/772189) `17条评论` `酷工作`
 1. [Mini + 怎样的显示器 >= iMac](https://www.v2ex.com/t/772176) `17条评论` `Apple`
 1. [MAS Office 更新 UI 了](https://www.v2ex.com/t/772072) `17条评论` `macOS`
+1. [只能运行 iPadOS 的话， M1,16G,2TB 就是个笑话](https://www.v2ex.com/t/772320) `16条评论` `Apple`
 1. [老人在某音直播里买了个 8+256 手机，用 adb 查看了一下，结果发现有 fake 字段。](https://www.v2ex.com/t/772267) `16条评论` `问与答`
 1. [有多少非浙江人能够接受蟹酱蟹糊这种美食？](https://www.v2ex.com/t/772174) `16条评论` `美酒与美食`
-1. [只能运行 iPadOS 的话， M1,16G,2TB 就是个笑话](https://www.v2ex.com/t/772320) `15条评论` `Apple`
 
-数据更新于 2021-04-21 20:03:11
+数据更新于 2021-04-21 20:16:08
 
 <!-- TODAY END -->
 
