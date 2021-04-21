@@ -8,6 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
+1. [大家买 Airtag 是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) `56条评论` `Apple`
+1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090) `30条评论` `Apple`
+1. [iMac 做的那么轻薄，是想让用户带去 Starbucks 吗？](https://www.v2ex.com/t/772065) `21条评论` `iMac`
+1. [成家后的你，跟父母多久联络一次？](https://www.v2ex.com/t/772080) `18条评论` `问与答`
+1. [MAS Office 更新 UI 了](https://www.v2ex.com/t/772072) `17条评论` `macOS`
+1. [一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) `15条评论` `问与答`
+1. [Android 项目多个 Jar 包有命名空间冲突，有办法解决吗？](https://www.v2ex.com/t/772085) `15条评论` `Android`
+1. [请问,自己独立的使用 Springboot+Mybatis+vue 写个博客网站,能找到 Java 开发的工作不. 害怕被面试官乱杀](https://www.v2ex.com/t/772084) `11条评论` `程序员`
+1. [M1 iPad Pro 离终极形态只差一步](https://www.v2ex.com/t/772067) `11条评论` `问与答`
+1. [日企薪资是不是都比较低？](https://www.v2ex.com/t/772076) `9条评论` `职场话题`
+1. [现在小米路由器有好的科学上网插件吗？](https://www.v2ex.com/t/772095) `6条评论` `问与答`
+1. [怎么定义外包公司](https://www.v2ex.com/t/772093) `6条评论` `问与答`
+1. [蜂窝版 iPad 信号比 iPhone 怎么样？](https://www.v2ex.com/t/772083) `6条评论` `Apple`
+1. [请教一个关于 ip 的网络问题](https://www.v2ex.com/t/772066) `6条评论` `宽带症候群`
+
+数据更新于 2021-04-21 02:37:09
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [我来说说异步框架的最大缺点](https://www.v2ex.com/t/771935) `95条评论` `程序员`
 1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830) `93条评论` `Apple`
 1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819) `88条评论` `职场话题`
@@ -30,37 +53,6 @@
 1. [现在 1000 元左右能买到全新非国产安卓机吗？](https://www.v2ex.com/t/771909) `17条评论` `Android`
 1. [国内正常上不了 V 站，请问有什么便捷方法？](https://www.v2ex.com/t/771811) `17条评论` `问与答`
 1. [被前同事 PUA 了~~](https://www.v2ex.com/t/771972) `16条评论` `职场话题`
-
-数据更新于 2021-04-20 23:45:21
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [为什么中国大学很少使用邮件进行通信？](https://www.v2ex.com/t/771662) `91条评论` `知乎`
-1. [30 岁的低欲期](https://www.v2ex.com/t/771627) `63条评论` `生活`
-1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576) `59条评论` `分享创造`
-1. [收到 offer，要不要跳槽？](https://www.v2ex.com/t/771628) `56条评论` `职场话题`
-1. [闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) `53条评论` `职场话题`
-1. [如何应对孤独感？](https://www.v2ex.com/t/771599) `51条评论` `知乎`
-1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) `49条评论` `分享发现`
-1. [为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597) `46条评论` `推广`
-1. [大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) `41条评论` `问与答`
-1. [提了离职要走吗？](https://www.v2ex.com/t/771707) `36条评论` `职场话题`
-1. [乳胶枕好用吗。](https://www.v2ex.com/t/771637) `34条评论` `生活`
-1. [30 岁的人都有哪些欲望](https://www.v2ex.com/t/771632) `31条评论` `知乎`
-1. [手持 iphone11 有必要换个 12 么](https://www.v2ex.com/t/771743) `29条评论` `iPhone`
-1. [感觉火车票这两年越来越难抢了？](https://www.v2ex.com/t/771710) `23条评论` `问与答`
-1. [公司强制安装 全民反诈 app 了](https://www.v2ex.com/t/771669) `22条评论` `问与答`
-1. [安卓手机 3GB 电影文件如何传到 iPad ？](https://www.v2ex.com/t/771763) `18条评论` `iPad`
-1. [不好， PCS 打电话来问了](https://www.v2ex.com/t/771654) `18条评论` `Telegram`
-1. [为什么面试不能 Google](https://www.v2ex.com/t/771712) `16条评论` `职场话题`
-1. [[踢楼送码] 一个 DES 加密的云日记](https://www.v2ex.com/t/771619) `15条评论` `分享创造`
-1. [记一次 github 泄漏 accessKey](https://www.v2ex.com/t/771582) `15条评论` `程序员`
-1. [一个关于 react 函数组件重新渲染的问题](https://www.v2ex.com/t/771755) `13条评论` `React`
-1. [非科班想转客户端开发，下半年秋招，目前实习 0 Offer，还有可能转吗，应如何准备](https://www.v2ex.com/t/771726) `13条评论` `问与答`
 
 <!-- YESTERDAY END -->
 
