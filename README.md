@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [大家买 Airtag 是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) `61条评论` `Apple`
-1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090) `49条评论` `Apple`
-1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120) `29条评论` `问与答`
+1. [大家买 Airtag 是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) `63条评论` `Apple`
+1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090) `57条评论` `Apple`
+1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120) `33条评论` `问与答`
 1. [一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) `28条评论` `问与答`
 1. [成家后的你，跟父母多久联络一次？](https://www.v2ex.com/t/772080) `25条评论` `问与答`
 1. [iMac 做的那么轻薄，是想让用户带去 Starbucks 吗？](https://www.v2ex.com/t/772065) `21条评论` `iMac`
@@ -23,12 +23,13 @@
 1. [请问卖旧电脑，原来的数据如何完全去除不可恢复](https://www.v2ex.com/t/772117) `8条评论` `问与答`
 1. [github 上 android 项目，有 CI 工具可以自动编译 apk 并上传到 release 里面么](https://www.v2ex.com/t/772104) `8条评论` `Android`
 1. [现在小米路由器有好的科学上网插件吗？](https://www.v2ex.com/t/772095) `8条评论` `问与答`
+1. [有威海本地的朋友推荐有啥好吃好玩的吗](https://www.v2ex.com/t/772100) `7条评论` `旅行`
 1. [蜂窝版 iPad 信号比 iPhone 怎么样？](https://www.v2ex.com/t/772083) `7条评论` `Apple`
-1. [有威海本地的朋友推荐有啥好吃好玩的吗](https://www.v2ex.com/t/772100) `6条评论` `旅行`
+1. [写了一个 Figma 插件 - Better Export Tools，可以帮助产品和设计师提高导出效率](https://www.v2ex.com/t/772106) `6条评论` `分享创造`
 1. [怎么定义外包公司](https://www.v2ex.com/t/772093) `6条评论` `问与答`
 1. [请教一个关于 ip 的网络问题](https://www.v2ex.com/t/772066) `6条评论` `宽带症候群`
 
-数据更新于 2021-04-21 03:26:43
+数据更新于 2021-04-21 03:43:03
 
 <!-- TODAY END -->
 
