@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [大家买 Airtag 是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) `96条评论` `Apple`
+1. [大家买 Airtag 是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) `98条评论` `Apple`
 1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090) `65条评论` `Apple`
-1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120) `47条评论` `问与答`
+1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120) `49条评论` `问与答`
+1. [感觉 macbook air m1 线马上要被砍掉了](https://www.v2ex.com/t/772057) `43条评论` `Apple`
 1. [可以把 AirTag 功能植入体内么？](https://www.v2ex.com/t/772127) `28条评论` `Apple`
 1. [一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) `28条评论` `问与答`
 1. [成家后的你，跟父母多久联络一次？](https://www.v2ex.com/t/772080) `25条评论` `问与答`
@@ -19,19 +20,18 @@
 1. [Android 项目多个 Jar 包有命名空间冲突，有办法解决吗？](https://www.v2ex.com/t/772085) `18条评论` `Android`
 1. [MAS Office 更新 UI 了](https://www.v2ex.com/t/772072) `17条评论` `macOS`
 1. [m1 的 pro 和 air 区别在哪](https://www.v2ex.com/t/772153) `13条评论` `Apple`
+1. [联通 10016 每周都要打三五个电话过来](https://www.v2ex.com/t/772148) `12条评论` `全球工单系统`
+1. [如果 M1 进入了 iPad Pro，那么有没有可能给 iPad Pro 装入 macOS 呢？](https://www.v2ex.com/t/772140) `12条评论` `Apple`
 1. [请问,自己独立的使用 Springboot+Mybatis+vue 写个博客网站,能找到 Java 开发的工作不. 害怕被面试官乱杀](https://www.v2ex.com/t/772084) `12条评论` `程序员`
+1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171) `11条评论` `程序员`
 1. [M1 iPad Pro 离终极形态只差一步](https://www.v2ex.com/t/772067) `11条评论` `问与答`
-1. [联通 10016 每周都要打三五个电话过来](https://www.v2ex.com/t/772148) `10条评论` `全球工单系统`
+1. [统计: 开启或关闭“查找”网络的人的比例.](https://www.v2ex.com/t/772161) `10条评论` `Apple`
 1. [请问卖旧电脑，原来的数据如何完全去除不可恢复](https://www.v2ex.com/t/772117) `10条评论` `问与答`
 1. [关于之前那个 6 只耗子找 8 瓶水中的 2 瓶毒药的问题的解法](https://www.v2ex.com/t/772154) `9条评论` `问与答`
-1. [如果 M1 进入了 iPad Pro，那么有没有可能给 iPad Pro 装入 macOS 呢？](https://www.v2ex.com/t/772140) `9条评论` `Apple`
 1. [日企薪资是不是都比较低？](https://www.v2ex.com/t/772076) `9条评论` `职场话题`
 1. [github 上 android 项目，有 CI 工具可以自动编译 apk 并上传到 release 里面么](https://www.v2ex.com/t/772104) `8条评论` `Android`
-1. [现在小米路由器有好的科学上网插件吗？](https://www.v2ex.com/t/772095) `8条评论` `问与答`
-1. [@Livid 无法上传图片了](https://www.v2ex.com/t/772163) `7条评论` `反馈`
-1. [有大佬玩挖矿的吗？ XMR 感觉用 CPU 挖，门槛要低一些啊](https://www.v2ex.com/t/772129) `7条评论` `问与答`
 
-数据更新于 2021-04-21 06:12:19
+数据更新于 2021-04-21 06:28:44
 
 <!-- TODAY END -->
 
