@@ -11,7 +11,7 @@
 1. [大家买 Airtag 是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) `147条评论` `Apple`
 1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120) `93条评论` `问与答`
 1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090) `90条评论` `Apple`
-1. [iMac 做的那么轻薄，是想让用户带去 Starbucks 吗？](https://www.v2ex.com/t/772065) `55条评论` `iMac`
+1. [iMac 做的那么轻薄，是想让用户带去 Starbucks 吗？](https://www.v2ex.com/t/772065) `56条评论` `iMac`
 1. [AirTag 可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152) `51条评论` `Apple`
 1. [感觉 macbook air m1 线马上要被砍掉了](https://www.v2ex.com/t/772057) `47条评论` `Apple`
 1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171) `29条评论` `全球工单系统`
@@ -31,7 +31,7 @@
 1. [联通 10016 每周都要打三五个电话过来](https://www.v2ex.com/t/772148) `13条评论` `全球工单系统`
 1. [如果 M1 进入了 iPad Pro，那么有没有可能给 iPad Pro 装入 macOS 呢？](https://www.v2ex.com/t/772140) `13条评论` `Apple`
 
-数据更新于 2021-04-21 12:50:43
+数据更新于 2021-04-21 13:06:45
 
 <!-- TODAY END -->
 
