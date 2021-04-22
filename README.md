@@ -9,21 +9,23 @@
 <!-- TODAY BEGIN -->
 
 1. [抛开背刺自己的用户，抛开刹车失灵事情，埃隆·马斯克 是否有什么值得国内企业学习的地方](https://www.v2ex.com/t/772346) `36条评论` `问与答`
-1. [烤鱼有 V 友知道怎么做吗?](https://www.v2ex.com/t/772343) `21条评论` `美酒与美食`
+1. [烤鱼有 V 友知道怎么做吗?](https://www.v2ex.com/t/772343) `22条评论` `美酒与美食`
 1. [一直有个疑惑，像 lnmp 这种环境大家是怎么安装的，有没有最佳实践？](https://www.v2ex.com/t/772341) `20条评论` `问与答`
-1. [我发现 okex(欧易) 透露了我的联系方式](https://www.v2ex.com/t/772352) `15条评论` `分享发现`
+1. [工作选择-内部晋升 or 字节](https://www.v2ex.com/t/772369) `18条评论` `职场话题`
+1. [watch6 女生带 40 还是 44 好？](https://www.v2ex.com/t/772358) `17条评论` ` WATCH`
+1. [我发现 okex(欧易) 透露了我的联系方式](https://www.v2ex.com/t/772352) `17条评论` `分享发现`
 1. [现在的直播间带货，不就是十年前的电视卖货吗？](https://www.v2ex.com/t/772344) `14条评论` `问与答`
-1. [工作选择-内部晋升 or 字节](https://www.v2ex.com/t/772369) `13条评论` `职场话题`
-1. [watch6 女生带 40 还是 44 好？](https://www.v2ex.com/t/772358) `12条评论` ` WATCH`
-1. [WSLg： WSL GUI 进入 Insider Preview](https://www.v2ex.com/t/772350) `9条评论` `Windows`
+1. [有点入单反的念头顺便报个班，拍物品， 90d、80d、850d，有大腿可以指导下？](https://www.v2ex.com/t/772355) `12条评论` `问与答`
+1. [WSLg： WSL GUI 进入 Insider Preview](https://www.v2ex.com/t/772350) `12条评论` `Windows`
+1. [哎，大厂面试被 HR 刷了，真不甘心](https://www.v2ex.com/t/772345) `12条评论` `职场话题`
+1. [AirTag 刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364) `9条评论` `Apple`
+1. [15 款 mbp lq2](https://www.v2ex.com/t/772348) `9条评论` `MacBook Pro`
 1. [Java 的 jfinal 框架现在是怎么回事？官网不能登录注册，开源中国也屏蔽了 Jfinal。](https://www.v2ex.com/t/772353) `8条评论` `Java`
-1. [15 款 mbp lq2](https://www.v2ex.com/t/772348) `8条评论` `MacBook Pro`
-1. [哎，大厂面试被 HR 刷了，真不甘心](https://www.v2ex.com/t/772345) `8条评论` `职场话题`
-1. [AirTag 刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364) `6条评论` `Apple`
+1. [JetBrains 全家桶，是每种语言分别安装一个 IDE 好，还是只用 Idea 好](https://www.v2ex.com/t/772380) `6条评论` `程序员`
+1. [准备做个前端学习的公众号，起个什么名字好呢](https://www.v2ex.com/t/772377) `6条评论` `程序员`
 1. [工作经历比较零碎怎么写简历比较好](https://www.v2ex.com/t/772363) `6条评论` `问与答`
-1. [有点入单反的念头顺便报个班，拍物品， 90d、80d、850d，有大腿可以指导下？](https://www.v2ex.com/t/772355) `6条评论` `问与答`
 
-数据更新于 2021-04-22 02:38:31
+数据更新于 2021-04-22 02:56:09
 
 <!-- TODAY END -->
 
