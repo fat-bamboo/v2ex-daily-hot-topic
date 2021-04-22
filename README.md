@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
+1. [工作选择-内部晋升 or 字节](https://www.v2ex.com/t/772369) `39条评论` `职场话题`
 1. [有点入单反的念头顺便报个班，拍物品， 90d、80d、850d，有大腿可以指导下？](https://www.v2ex.com/t/772355) `38条评论` `问与答`
 1. [抛开背刺自己的用户，抛开刹车失灵事情，埃隆·马斯克 是否有什么值得国内企业学习的地方](https://www.v2ex.com/t/772346) `36条评论` `问与答`
-1. [工作选择-内部晋升 or 字节](https://www.v2ex.com/t/772369) `35条评论` `职场话题`
 1. [烤鱼有 V 友知道怎么做吗?](https://www.v2ex.com/t/772343) `26条评论` `美酒与美食`
 1. [JetBrains 全家桶，是每种语言分别安装一个 IDE 好，还是只用 Idea 好](https://www.v2ex.com/t/772380) `23条评论` `程序员`
 1. [watch6 女生带 40 还是 44 好？](https://www.v2ex.com/t/772358) `22条评论` ` WATCH`
@@ -20,18 +20,18 @@
 1. [微信还卖人手机号码？](https://www.v2ex.com/t/772392) `17条评论` `全球工单系统`
 1. [AirTag 刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364) `16条评论` `Apple`
 1. [WSLg： WSL GUI 进入 Insider Preview](https://www.v2ex.com/t/772350) `14条评论` `Windows`
+1. [面试了一家初创公司](https://www.v2ex.com/t/772415) `13条评论` `职场话题`
 1. [准备做个前端学习的公众号，起个什么名字好呢](https://www.v2ex.com/t/772377) `13条评论` `问与答`
 1. [哎，大厂面试被 HR 刷了，真不甘心](https://www.v2ex.com/t/772345) `12条评论` `职场话题`
-1. [面试了一家初创公司](https://www.v2ex.com/t/772415) `11条评论` `职场话题`
+1. [今天打开 notion，访问速度质的飞跃，呜呜呜~~~](https://www.v2ex.com/t/772407) `10条评论` `Notion`
+1. [一直好奇各大云服务商对虚拟化服务器的支撑技术到底用的是什么？自研， VMware 还是 VirtualBox？](https://www.v2ex.com/t/772384) `10条评论` `云计算`
 1. [GCP 香港废了么,绕荷兰](https://www.v2ex.com/t/772370) `10条评论` `云计算`
-1. [一直好奇各大云服务商对虚拟化服务器的支撑技术到底用的是什么？自研， VMware 还是 VirtualBox？](https://www.v2ex.com/t/772384) `9条评论` `云计算`
+1. [聊聊远程办公的工作效率](https://www.v2ex.com/t/772412) `9条评论` `远程工作`
 1. [15 款 mbp lq2](https://www.v2ex.com/t/772348) `9条评论` `MacBook Pro`
-1. [聊聊远程办公的工作效率](https://www.v2ex.com/t/772412) `8条评论` `远程工作`
-1. [今天打开 notion，访问速度质的飞跃，呜呜呜~~~](https://www.v2ex.com/t/772407) `8条评论` `Notion`
+1. [试用期，刚入职一周提离职，公司不给退上一家公司离职证明原件怎么办？](https://www.v2ex.com/t/772385) `8条评论` `职场话题`
 1. [Java 的 jfinal 框架现在是怎么回事？官网不能登录注册，开源中国也屏蔽了 Jfinal。](https://www.v2ex.com/t/772353) `8条评论` `Java`
-1. [又双叒一个导航站上线 shadiao.app 欢迎交换友链](https://www.v2ex.com/t/772397) `7条评论` `分享创造`
 
-数据更新于 2021-04-22 05:11:03
+数据更新于 2021-04-22 05:27:07
 
 <!-- TODAY END -->
 
