@@ -12,7 +12,7 @@
 1. [苹果 marketing chief 表示不打算整合 iPad 和 MacBook](https://www.v2ex.com/t/772612) `73条评论` `Apple`
 1. [数据库设计太拉跨被喷了。](https://www.v2ex.com/t/772712) `63条评论` `程序员`
 1. [官宣，国行来了！](https://www.v2ex.com/t/772651) `52条评论` `PlayStation 5`
-1. [怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652) `51条评论` `程序员`
+1. [怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652) `52条评论` `程序员`
 1. [Fower: 一个可在 Vue 和 React 方便使用的 CSS in JS 库](https://www.v2ex.com/t/772656) `50条评论` `程序员`
 1. [请问这个直线的方程怎么求](https://www.v2ex.com/t/772618) `45条评论` `问与答`
 1. [异步中 await 和 then 的区别，哪个更好](https://www.v2ex.com/t/772610) `44条评论` `Flutter`
@@ -31,7 +31,7 @@
 1. [不懂就问，一些银行 APP 可以添加他行卡可以干什么事？](https://www.v2ex.com/t/772730) `15条评论` `问与答`
 1. [为什么 dell 显示器涨价了](https://www.v2ex.com/t/772660) `15条评论` `Dell`
 
-数据更新于 2021-04-23 20:55:41
+数据更新于 2021-04-23 21:06:00
 
 <!-- TODAY END -->
 
