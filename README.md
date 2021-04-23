@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621) `58条评论` `程序员`
-1. [苹果 marketing chief 表示不打算整合 iPad 和 MacBook](https://www.v2ex.com/t/772612) `41条评论` `Apple`
+1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621) `61条评论` `程序员`
+1. [苹果 marketing chief 表示不打算整合 iPad 和 MacBook](https://www.v2ex.com/t/772612) `42条评论` `Apple`
 1. [请问这个直线的方程怎么求](https://www.v2ex.com/t/772618) `29条评论` `问与答`
 1. [面试需要这些资料吗？总感觉给了这些资料怕怕的。](https://www.v2ex.com/t/772632) `24条评论` `职场话题`
 1. [异步中 await 和 then 的区别，哪个更好](https://www.v2ex.com/t/772610) `22条评论` `Flutter`
-1. [怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652) `19条评论` `程序员`
+1. [怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652) `21条评论` `程序员`
 1. [坐标合肥，五一准备和爱人出去游玩一圈，请给我的规划一些建议，顺便问一下有没有什么轨迹记录的软件，导航只能单次驾驶记录。](https://www.v2ex.com/t/772638) `19条评论` `旅行`
+1. [官宣，国行来了！](https://www.v2ex.com/t/772651) `15条评论` `PlayStation 5`
 1. [唉 体检中度脂肪肝+甲状腺结节+脊椎僵硬](https://www.v2ex.com/t/772614) `15条评论` `健康`
-1. [官宣，国行来了！](https://www.v2ex.com/t/772651) `14条评论` `PlayStation 5`
 1. [为什么 dell 显示器涨价了](https://www.v2ex.com/t/772660) `13条评论` `Dell`
 1. [这么多年了，为什么 macOS 还不支持扩展显示器双 dock？](https://www.v2ex.com/t/772636) `11条评论` `macOS`
 1. [苹果并没有合并 Mac 和 iPad 的打算](https://www.v2ex.com/t/772624) `11条评论` `Apple`
@@ -31,7 +31,7 @@
 1. [请教各位大佬如何学习微信小程序](https://www.v2ex.com/t/772628) `7条评论` `微信`
 1. [iPad Pro 2021 5G 版本，用的什么芯片啊？](https://www.v2ex.com/t/772615) `7条评论` `Apple`
 
-数据更新于 2021-04-23 04:47:55
+数据更新于 2021-04-23 05:02:14
 
 <!-- TODAY END -->
 
