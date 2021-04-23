@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621) `85条评论` `English`
+1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621) `91条评论` `English`
 1. [苹果 marketing chief 表示不打算整合 iPad 和 MacBook](https://www.v2ex.com/t/772612) `53条评论` `Apple`
-1. [官宣，国行来了！](https://www.v2ex.com/t/772651) `47条评论` `PlayStation 5`
+1. [官宣，国行来了！](https://www.v2ex.com/t/772651) `48条评论` `PlayStation 5`
 1. [怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652) `43条评论` `程序员`
 1. [请问这个直线的方程怎么求](https://www.v2ex.com/t/772618) `39条评论` `问与答`
-1. [数据库设计太拉跨被喷了。](https://www.v2ex.com/t/772712) `38条评论` `程序员`
+1. [数据库设计太拉跨被喷了。](https://www.v2ex.com/t/772712) `39条评论` `程序员`
 1. [异步中 await 和 then 的区别，哪个更好](https://www.v2ex.com/t/772610) `36条评论` `Flutter`
 1. [面试需要这些资料吗？总感觉给了这些资料怕怕的。](https://www.v2ex.com/t/772632) `24条评论` `职场话题`
 1. [坐标合肥，五一准备和爱人出去游玩一圈，请给我的规划一些建议，顺便问一下有没有什么轨迹记录的软件，导航只能单次驾驶记录。](https://www.v2ex.com/t/772638) `19条评论` `旅行`
+1. [家用灭蚊灯效果怎么样？想要一个透气又防蚊的方案。](https://www.v2ex.com/t/772702) `17条评论` `问与答`
 1. [Mac 邮件客户端 opt(s)?](https://www.v2ex.com/t/772700) `17条评论` `macOS`
 1. [分享一下自己利用 Notion 搭建个人主页|博客的过程](https://www.v2ex.com/t/772693) `17条评论` `Notion`
 1. [才买一周的 iPhone12 在看车展丢了](https://www.v2ex.com/t/772692) `17条评论` `问与答`
-1. [知乎利用播放音频保活？](https://www.v2ex.com/t/772704) `15条评论` `iOS`
-1. [家用灭蚊灯效果怎么样？想要一个透气又防蚊的方案。](https://www.v2ex.com/t/772702) `15条评论` `问与答`
+1. [知乎利用播放音频保活？](https://www.v2ex.com/t/772704) `16条评论` `iOS`
 1. [为什么 dell 显示器涨价了](https://www.v2ex.com/t/772660) `15条评论` `Dell`
 1. [唉 体检中度脂肪肝+甲状腺结节+脊椎僵硬](https://www.v2ex.com/t/772614) `15条评论` `健康`
 1. [如何实现像这个网站一样的反调试效果](https://www.v2ex.com/t/772689) `14条评论` `JavaScript`
 1. [[ 上海] 世界第一大加密货币交易大所。 [前端]](https://www.v2ex.com/t/772672) `14条评论` `酷工作`
 1. [50 寸电视有推荐吗](https://www.v2ex.com/t/772705) `12条评论` `问与答`
+1. [不懂就问，一些银行 APP 可以添加他行卡可以干什么事？](https://www.v2ex.com/t/772730) `11条评论` `问与答`
 1. [如何反广告拦截？](https://www.v2ex.com/t/772685) `11条评论` `问与答`
 1. [这么多年了，为什么 macOS 还不支持扩展显示器双 dock？](https://www.v2ex.com/t/772636) `11条评论` `macOS`
-1. [苹果并没有合并 Mac 和 iPad 的打算](https://www.v2ex.com/t/772624) `11条评论` `Apple`
 
-数据更新于 2021-04-23 08:16:12
+数据更新于 2021-04-23 08:34:13
 
 <!-- TODAY END -->
 
