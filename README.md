@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621) `117条评论` `English`
+1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621) `118条评论` `English`
 1. [苹果 marketing chief 表示不打算整合 iPad 和 MacBook](https://www.v2ex.com/t/772612) `68条评论` `Apple`
 1. [数据库设计太拉跨被喷了。](https://www.v2ex.com/t/772712) `61条评论` `程序员`
 1. [官宣，国行来了！](https://www.v2ex.com/t/772651) `52条评论` `PlayStation 5`
@@ -31,7 +31,7 @@
 1. [为什么 dell 显示器涨价了](https://www.v2ex.com/t/772660) `15条评论` `Dell`
 1. [唉 体检中度脂肪肝+甲状腺结节+脊椎僵硬](https://www.v2ex.com/t/772614) `15条评论` `健康`
 
-数据更新于 2021-04-23 17:37:04
+数据更新于 2021-04-23 17:59:53
 
 <!-- TODAY END -->
 
