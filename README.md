@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新 iMac 拉低了 Mac 的外观下限](https://www.v2ex.com/t/772987) `49条评论` `Apple`
+1. [新 iMac 拉低了 Mac 的外观下限](https://www.v2ex.com/t/772987) `50条评论` `Apple`
 1. [用安卓的你现在用啥 app 听歌？](https://www.v2ex.com/t/772935) `46条评论` `问与答`
+1. [苹果把 A14X 改名 M1 的营销效果还真不错](https://www.v2ex.com/t/772919) `39条评论` `Apple`
 1. [娱乐时间和自我提升时间比例](https://www.v2ex.com/t/772866) `38条评论` `程序员`
-1. [苹果把 A14X 改名 M1 的营销效果还真不错](https://www.v2ex.com/t/772919) `38条评论` `Apple`
 1. [为什么不聚集群众力量做好有价值的开源项目？](https://www.v2ex.com/t/772865) `36条评论` `随想`
 1. [iOS 14.5 进一步恶心了 Home 键 iPhone 用户](https://www.v2ex.com/t/772926) `34条评论` `iPhone`
 1. [朋友的全新 16 寸 mbp 该收吗？](https://www.v2ex.com/t/772961) `27条评论` `MacBook Pro`
@@ -31,7 +31,7 @@
 1. [[求科普] 什么是挖矿？各种币又是什么？](https://www.v2ex.com/t/772869) `10条评论` `程序员`
 1. [关于远程工作的几个问题想咨询](https://www.v2ex.com/t/772906) `9条评论` `远程工作`
 
-数据更新于 2021-04-24 18:48:51
+数据更新于 2021-04-24 19:03:49
 
 <!-- TODAY END -->
 
