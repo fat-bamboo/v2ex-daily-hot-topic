@@ -16,22 +16,22 @@
 1. [马上要广漂了，咨询点生活方面的](https://www.v2ex.com/t/773048) `41条评论` `广州`
 1. [能不能应用密码学，解决订单操纵，实现收益分摊？](https://www.v2ex.com/t/773063) `35条评论` `奇思妙想`
 1. [人为什么会越老越自私？](https://www.v2ex.com/t/773150) `31条评论` `随想`
+1. [笑死，下单了 iPad air4](https://www.v2ex.com/t/773146) `31条评论` `Apple`
 1. [我现在用的 ShieldTV pro 2019 有必要再买个 Apple TV 吗，看着发布会挺想买的](https://www.v2ex.com/t/773057) `31条评论` `Apple TV`
 1. [美团要脸？你给吗？](https://www.v2ex.com/t/773020) `30条评论` `程序员`
-1. [笑死，下单了 iPad air4](https://www.v2ex.com/t/773146) `29条评论` `Apple`
 1. [惊呆了，看到公司内部系统的生成数据库主键 ID 的代码以后，我的三观毁了。内附 Python 代码](https://www.v2ex.com/t/773177) `22条评论` `程序员`
+1. [千兆宽带光猫桥接模式只能跑 600 兆左右](https://www.v2ex.com/t/773168) `20条评论` `宽带症候群`
 1. [有人试过在 M1 版 mac mini 上使用 koios 那个 23 寸 4k 显示器吗？](https://www.v2ex.com/t/773129) `20条评论` `Apple`
 1. [不懂就问,关于 Python web 项目发布](https://www.v2ex.com/t/773126) `19条评论` `Python`
 1. [Android 为什么不和 iOS 一样需要用户动态确认联网权限](https://www.v2ex.com/t/773089) `18条评论` `Android`
 1. [五一会一直调休么。。。没机会改了么](https://www.v2ex.com/t/773047) `18条评论` `北京`
 1. [出差回来报销太麻烦了](https://www.v2ex.com/t/773134) `17条评论` `随想`
 1. [mbp 上输入法切换大小写的困扰](https://www.v2ex.com/t/773030) `16条评论` `Apple`
-1. [千兆宽带光猫桥接模式只能跑 600 兆左右](https://www.v2ex.com/t/773168) `15条评论` `宽带症候群`
 1. [摸鱼日，你们现在的工作（写代码，技术），是兴趣爱好还是只是为了赚钱？](https://www.v2ex.com/t/773137) `15条评论` `问与答`
 1. [问几个有关 NIO 的问题](https://www.v2ex.com/t/773105) `15条评论` `Java`
 1. [各位的 iPhone 12 在震动时候有没有爆音？](https://www.v2ex.com/t/773065) `15条评论` `iPhone`
 
-数据更新于 2021-04-25 11:56:22
+数据更新于 2021-04-25 12:08:53
 
 <!-- TODAY END -->
 
