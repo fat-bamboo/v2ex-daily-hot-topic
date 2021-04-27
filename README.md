@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有个大胆的想法](https://www.v2ex.com/t/773516) `56条评论` `奇思妙想`
+1. [有个大胆的想法](https://www.v2ex.com/t/773516) `57条评论` `奇思妙想`
 1. [快来帮忙！只有 YYYY-MM 年月的时间怎么比较大小？](https://www.v2ex.com/t/773526) `23条评论` `程序员`
 1. [吐槽 iOS 14.5 的音乐](https://www.v2ex.com/t/773507) `21条评论` `iOS`
 1. [mysql 数据库字符集选择，是用 utf8 还是 utf8mb4？](https://www.v2ex.com/t/773509) `20条评论` `MySQL`
 1. [请问现在换新手机怎么迁移数据最快](https://www.v2ex.com/t/773538) `17条评论` `iPhone`
 1. [京东蓝鲸 VIP 年卡，直接领！](https://www.v2ex.com/t/773513) `17条评论` `京东`
 1. [Apple watch 更新原理？](https://www.v2ex.com/t/773514) `16条评论` ` WATCH`
+1. [您的 Google Voice 号码 (xxx) xxx-xxxx 将在 30 天后过期](https://www.v2ex.com/t/773523) `15条评论` `Google`
 1. [如何在内网实现域名解析](https://www.v2ex.com/t/773549) `14条评论` `程序员`
-1. [您的 Google Voice 号码 (xxx) xxx-xxxx 将在 30 天后过期](https://www.v2ex.com/t/773523) `14条评论` `Google`
 1. [kindle 时不时卡索引，除了 kindle 之外还有什么电子阅读器去比较好？](https://www.v2ex.com/t/773522) `13条评论` `Kindle`
 1. [即使 macOS 11.3 支持以立体声 HomePod 输出声音了，体验还是很糟糕](https://www.v2ex.com/t/773508) `13条评论` `Apple`
 1. [有没有人成功杠电信退订 5G SA 业务的？](https://www.v2ex.com/t/773546) `12条评论` `宽带症候群`
@@ -26,10 +26,10 @@
 1. [有没有什么工具可以输入自己的尺寸就可以搜索到合适自己的衣服?](https://www.v2ex.com/t/773517) `11条评论` `问与答`
 1. [v 站现在是被墙了么...](https://www.v2ex.com/t/773548) `11条评论` `问与答`
 1. [浏览器插件开发有没有跨平台的技术框架？](https://www.v2ex.com/t/773512) `9条评论` `问与答`
-1. [关于 mysql 数据读取不一致的问题](https://www.v2ex.com/t/773557) `7条评论` `程序员`
+1. [关于 mysql 数据读取不一致的问题](https://www.v2ex.com/t/773557) `8条评论` `程序员`
 1. [对 Framer 真是相见恨晚，发一些感概。请进来聊聊对原型工具的理解吧。](https://www.v2ex.com/t/773541) `7条评论` `设计`
 
-数据更新于 2021-04-27 03:55:09
+数据更新于 2021-04-27 04:06:11
 
 <!-- TODAY END -->
 
