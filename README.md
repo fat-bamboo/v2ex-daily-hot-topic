@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有个大胆的想法](https://www.v2ex.com/t/773516) `81条评论` `奇思妙想`
+1. [有个大胆的想法](https://www.v2ex.com/t/773516) `83条评论` `奇思妙想`
 1. [在家创业，结果老是陷入打游戏的境地，怎么分析下这种状态？怎么破？](https://www.v2ex.com/t/773579) `43条评论` `问与答`
-1. [吐槽 iOS 14.5 的音乐](https://www.v2ex.com/t/773507) `40条评论` `iOS`
+1. [吐槽 iOS 14.5 的音乐](https://www.v2ex.com/t/773507) `41条评论` `iOS`
 1. [如何在内网实现域名解析](https://www.v2ex.com/t/773549) `31条评论` `程序员`
-1. [更换使用多年的手机号，怎么平滑迁移？](https://www.v2ex.com/t/773574) `28条评论` `问与答`
+1. [更换使用多年的手机号，怎么平滑迁移？](https://www.v2ex.com/t/773574) `29条评论` `问与答`
 1. [快来帮忙！只有 YYYY-MM 年月的时间怎么比较大小？](https://www.v2ex.com/t/773526) `23条评论` `程序员`
 1. [有没有人成功杠电信退订 5G SA 业务的？](https://www.v2ex.com/t/773546) `21条评论` `宽带症候群`
 1. [mysql 数据库字符集选择，是用 utf8 还是 utf8mb4？](https://www.v2ex.com/t/773509) `20条评论` `MySQL`
@@ -21,17 +21,17 @@
 1. [更新很火🔥，还是老实来个生活中很实用功能吧：观看视频关闭方向锁定，退出视频开启方向锁定](https://www.v2ex.com/t/773561) `16条评论` `iPhone`
 1. [Apple watch 更新原理？](https://www.v2ex.com/t/773514) `16条评论` ` WATCH`
 1. [您的 Google Voice 号码 (xxx) xxx-xxxx 将在 30 天后过期](https://www.v2ex.com/t/773523) `15条评论` `Google`
+1. [一个使用 Next.js + Notion 实现的静态博客系统](https://www.v2ex.com/t/773594) `14条评论` `分享创造`
 1. [物联网相关，怎么选数据库？](https://www.v2ex.com/t/773582) `14条评论` `数据库`
 1. [请教一个问题，如何创建一个在指定时间执行的一次性任务。](https://www.v2ex.com/t/773564) `14条评论` `Python`
-1. [一个使用 Next.js + Notion 实现的静态博客系统](https://www.v2ex.com/t/773594) `13条评论` `分享创造`
+1. [前端为什么不加个#define 语句呢？](https://www.v2ex.com/t/773590) `13条评论` `前端开发`
 1. [没人提到 14.5 的电池校准计划吗](https://www.v2ex.com/t/773578) `13条评论` `Apple`
 1. [一般大厂应该怎样做 code review，如何组织 Git](https://www.v2ex.com/t/773568) `13条评论` `问与答`
 1. [kindle 时不时卡索引，除了 kindle 之外还有什么电子阅读器去比较好？](https://www.v2ex.com/t/773522) `13条评论` `Kindle`
 1. [即使 macOS 11.3 支持以立体声 HomePod 输出声音了，体验还是很糟糕](https://www.v2ex.com/t/773508) `13条评论` `Apple`
-1. [前端为什么不加个#define 语句呢？](https://www.v2ex.com/t/773590) `12条评论` `前端开发`
-1. [社畜 offer 比较](https://www.v2ex.com/t/773565) `12条评论` `职场话题`
+1. [关于财务自由的分析](https://www.v2ex.com/t/773614) `12条评论` `分享发现`
 
-数据更新于 2021-04-27 07:38:11
+数据更新于 2021-04-27 07:48:49
 
 <!-- TODAY END -->
 
