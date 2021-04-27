@@ -13,7 +13,7 @@
 1. [吐槽 iOS 14.5 的音乐](https://www.v2ex.com/t/773507) `66条评论` `iOS`
 1. [关于财务自由的分析](https://www.v2ex.com/t/773614) `55条评论` `分享发现`
 1. [小火箭 URL 重定向在 iOS14.5 正式版下不工作](https://www.v2ex.com/t/773536) `54条评论` `iOS`
-1. [Oracle 相比 mysql 的优势在哪里](https://www.v2ex.com/t/773654) `51条评论` `数据库`
+1. [Oracle 相比 mysql 的优势在哪里](https://www.v2ex.com/t/773654) `52条评论` `数据库`
 1. [更换使用多年的手机号，怎么平滑迁移？](https://www.v2ex.com/t/773574) `42条评论` `问与答`
 1. [一般大厂应该怎样做 code review，如何组织 Git](https://www.v2ex.com/t/773568) `40条评论` `问与答`
 1. [滴滴 iOS 客户端计价详细页面奇怪地含有一 32 字符的字符串](https://www.v2ex.com/t/773673) `31条评论` `程序员`
@@ -31,7 +31,7 @@
 1. [请问现在换新手机怎么迁移数据最快](https://www.v2ex.com/t/773538) `19条评论` `iPhone`
 1. [听说最近 MIUI 的 bug 很多？](https://www.v2ex.com/t/773645) `18条评论` `MIUI`
 
-数据更新于 2021-04-27 22:08:08
+数据更新于 2021-04-27 22:23:14
 
 <!-- TODAY END -->
 
