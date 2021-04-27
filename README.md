@@ -8,21 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有个大胆的想法](https://www.v2ex.com/t/773516) `34条评论` `奇思妙想`
-1. [mysql 数据库字符集选择，是用 utf8 还是 utf8mb4？](https://www.v2ex.com/t/773509) `15条评论` `MySQL`
+1. [有个大胆的想法](https://www.v2ex.com/t/773516) `41条评论` `奇思妙想`
+1. [mysql 数据库字符集选择，是用 utf8 还是 utf8mb4？](https://www.v2ex.com/t/773509) `19条评论` `MySQL`
+1. [吐槽 iOS 14.5 的音乐](https://www.v2ex.com/t/773507) `18条评论` `iOS`
 1. [快来帮忙！只有 YYYY-MM 年月的时间怎么比较大小？](https://www.v2ex.com/t/773526) `14条评论` `程序员`
 1. [京东蓝鲸 VIP 年卡，直接领！](https://www.v2ex.com/t/773513) `14条评论` `京东`
-1. [吐槽 iOS 14.5 的音乐](https://www.v2ex.com/t/773507) `14条评论` `iOS`
 1. [Apple watch 更新原理？](https://www.v2ex.com/t/773514) `12条评论` ` WATCH`
-1. [即使 macOS 11.3 支持以立体声 HomePod 输出声音了，体验还是很糟糕](https://www.v2ex.com/t/773508) `10条评论` `Apple`
+1. [即使 macOS 11.3 支持以立体声 HomePod 输出声音了，体验还是很糟糕](https://www.v2ex.com/t/773508) `11条评论` `Apple`
 1. [您的 Google Voice 号码 (xxx) xxx-xxxx 将在 30 天后过期](https://www.v2ex.com/t/773523) `9条评论` `Google`
+1. [kindle 时不时卡索引，除了 kindle 之外还有什么电子阅读器去比较好？](https://www.v2ex.com/t/773522) `9条评论` `Kindle`
 1. [升级 macOS 11.3 后无法安装 ipa 文件了，有解决方案吗？](https://www.v2ex.com/t/773528) `8条评论` `macOS`
-1. [kindle 时不时卡索引，除了 kindle 之外还有什么电子阅读器去比较好？](https://www.v2ex.com/t/773522) `8条评论` `Kindle`
+1. [因 itellyou.cn 需要登录才能下载最新镜像，求一个其他可下载镜像的网站。](https://www.v2ex.com/t/773515) `8条评论` `微软`
 1. [浏览器插件开发有没有跨平台的技术框架？](https://www.v2ex.com/t/773512) `8条评论` `问与答`
-1. [因 itellyou.cn 需要登录才能下载最新镜像，求一个其他可下载镜像的网站。](https://www.v2ex.com/t/773515) `7条评论` `微软`
+1. [请问现在换新手机怎么迁移数据最快](https://www.v2ex.com/t/773538) `7条评论` `iPhone`
 1. [小火箭 URL 重定向在 iOS14.5 正式版下不工作](https://www.v2ex.com/t/773536) `6条评论` `iOS`
 
-数据更新于 2021-04-27 02:38:56
+数据更新于 2021-04-27 02:55:36
 
 <!-- TODAY END -->
 
