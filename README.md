@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 12 因为存储空间不足升级 14.5 正式版无法开机，求助](https://www.v2ex.com/t/773744) `7条评论` `Apple`
+1. [iPhone 12 因为存储空间不足升级 14.5 正式版无法开机，求助](https://www.v2ex.com/t/773744) `12条评论` `Apple`
+1. [iPhone 无法用 watch 解锁](https://www.v2ex.com/t/773745) `10条评论` `Apple`
 
-数据更新于 2021-04-28 00:45:25
+数据更新于 2021-04-28 01:17:31
 
 <!-- TODAY END -->
 
