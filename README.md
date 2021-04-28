@@ -8,14 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 12 因为存储空间不足升级 14.5 正式版无法开机，求助](https://www.v2ex.com/t/773744) `19条评论` `Apple`
-1. [2021 年了，苹果更新了手表解锁，这和安卓几年前的技术有什么区别吗？](https://www.v2ex.com/t/773753) `13条评论` `Apple`
+1. [iPhone 12 因为存储空间不足升级 14.5 正式版无法开机，求助](https://www.v2ex.com/t/773744) `29条评论` `Apple`
+1. [关于农村](https://www.v2ex.com/t/773757) `16条评论` `问与答`
+1. [2021 年了，苹果更新了手表解锁，这和安卓几年前的技术有什么区别吗？](https://www.v2ex.com/t/773753) `16条评论` `Apple`
+1. [纠结要不要入手 M1 的 Mac 电脑，目前使用 MBP 2018](https://www.v2ex.com/t/773748) `12条评论` `Apple`
 1. [iPhone 无法用 watch 解锁](https://www.v2ex.com/t/773745) `12条评论` `Apple`
-1. [纠结要不要入手 M1 的 Mac 电脑，目前使用 MBP 2018](https://www.v2ex.com/t/773748) `11条评论` `Apple`
-1. [关于农村](https://www.v2ex.com/t/773757) `6条评论` `问与答`
+1. [求教一个 js 的问题,入门菜鸡](https://www.v2ex.com/t/773759) `8条评论` `JavaScript`
+1. [VWebServer/6.0.0 是什么 Web 服务器](https://www.v2ex.com/t/773754) `6条评论` `问与答`
+1. [IOS14.5，隐私里 [跟踪] 的选项是灰的呢，这个到底是开了还是没开。](https://www.v2ex.com/t/773751) `6条评论` `Apple`
 1. [现在这网站怎么打开？](https://www.v2ex.com/t/773746) `6条评论` `宽带症候群`
 
-数据更新于 2021-04-28 01:48:37
+数据更新于 2021-04-28 02:18:30
 
 <!-- TODAY END -->
 
