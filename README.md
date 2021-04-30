@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [前两天看见有人用 react 写了个网页版 Ubuntu，迫于不会用 react，我用 vue 写了个网页版 Deepin](https://www.v2ex.com/t/774285) `56条评论` `分享创造`
-1. [素质极差的面试官](https://www.v2ex.com/t/774254) `43条评论` `职场话题`
+1. [前两天看见有人用 react 写了个网页版 Ubuntu，迫于不会用 react，我用 vue 写了个网页版 Deepin](https://www.v2ex.com/t/774285) `61条评论` `分享创造`
+1. [素质极差的面试官](https://www.v2ex.com/t/774254) `45条评论` `职场话题`
 1. [我做了一个区块链领域的 V2EX](https://www.v2ex.com/t/774318) `39条评论` `区块链`
 1. [有幸抢到一台教育优惠+官翻 M1 MBP16+512，纠结要不要留下](https://www.v2ex.com/t/774323) `28条评论` `MacBook Pro`
 1. [自动订阅 app 被拒了 理由太沙雕了](https://www.v2ex.com/t/774335) `27条评论` `iDev`
@@ -25,13 +25,13 @@
 1. [macbook air m1 16g 和 pro 13 m1 16g 的哪个香啊](https://www.v2ex.com/t/774261) `16条评论` `Apple`
 1. [明天就放假了，大家来摸鱼呀](https://www.v2ex.com/t/774281) `15条评论` `程序员`
 1. [苹果上架了几台 m1 的官翻机，有需要的上， air 和 pro](https://www.v2ex.com/t/774326) `13条评论` `优惠信息`
+1. [sim 卡语音通话端对端加密有没有搞头呢](https://www.v2ex.com/t/774350) `12条评论` `奇思妙想`
 1. [applemusic 为什么要把随机播放的按钮和循环的分开啊](https://www.v2ex.com/t/774345) `12条评论` `Apple`
 1. [面试到底在考察什么](https://www.v2ex.com/t/774284) `12条评论` `职场话题`
 1. [offer 比较，大厂和小厂如何抉择](https://www.v2ex.com/t/774252) `12条评论` `职场话题`
 1. [请问一下，百度各类文库，“打不开”不能复制内容，怎么整？](https://www.v2ex.com/t/774310) `11条评论` `问与答`
-1. [sim 卡语音通话端对端加密有没有搞头呢](https://www.v2ex.com/t/774350) `10条评论` `奇思妙想`
 
-数据更新于 2021-04-30 07:41:17
+数据更新于 2021-04-30 07:51:05
 
 <!-- TODAY END -->
 
