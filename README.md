@@ -8,14 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [北京的朋友们，你们坐公交地铁用什么方式支付？](https://www.v2ex.com/t/774819) `18条评论` `北京`
-1. [请不要把 Flask 和 FastAPI 放到一起比较](https://www.v2ex.com/t/774831) `16条评论` `Python`
-1. [美团 APP 用的什么技术？](https://www.v2ex.com/t/774833) `15条评论` `问与答`
+1. [请不要把 Flask 和 FastAPI 放到一起比较](https://www.v2ex.com/t/774831) `22条评论` `Python`
+1. [北京的朋友们，你们坐公交地铁用什么方式支付？](https://www.v2ex.com/t/774819) `20条评论` `北京`
+1. [美团 APP 用的什么技术？](https://www.v2ex.com/t/774833) `18条评论` `问与答`
+1. [感觉北京 Python 方向的不太行了，唉，不是做企业内部系统，就是做 toB，想学习高并发经验都找不到相关工作。](https://www.v2ex.com/t/774840) `8条评论` `Python`
+1. [IOS 14.5.1 发布了。。然后升级不了。。。这种诡异的 bug。。。](https://www.v2ex.com/t/774827) `7条评论` `Apple`
 1. [深圳公积金里存放 4 万元是最合理的吗？](https://www.v2ex.com/t/774824) `7条评论` `深圳`
 1. [VS Code 代码自动折叠和展开有什么好用的方案吗？](https://www.v2ex.com/t/774813) `7条评论` `Visual Studio Code`
-1. [IOS 14.5.1 发布了。。然后升级不了。。。这种诡异的 bug。。。](https://www.v2ex.com/t/774827) `6条评论` `Apple`
+1. [加密货币「强制」定存的最佳方案是什么？](https://www.v2ex.com/t/774835) `6条评论` `区块链`
 
-数据更新于 2021-05-04 06:05:02
+数据更新于 2021-05-04 06:34:34
 
 <!-- TODAY END -->
 
