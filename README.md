@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958) `58条评论` `职场话题`
-1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949) `35条评论` `问与答`
+1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958) `61条评论` `职场话题`
+1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949) `36条评论` `问与答`
 1. [记一次火车补票](https://www.v2ex.com/t/774934) `34条评论` `问与答`
 1. [想听听 AirPods Max 的真实体验](https://www.v2ex.com/t/774955) `33条评论` `Apple`
-1. [绿联的拓展坞到底如何？为什么在 v 站饱受恶评？](https://www.v2ex.com/t/774996) `31条评论` `macOS`
+1. [绿联的拓展坞到底如何？为什么在 v 站饱受恶评？](https://www.v2ex.com/t/774996) `32条评论` `macOS`
 1. [旧安卓手机帮助全家去广告](https://www.v2ex.com/t/774960) `27条评论` `Android`
 1. [神奇的 Javascript，谁能告诉我为什么](https://www.v2ex.com/t/774968) `27条评论` `JavaScript`
 1. [公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适](https://www.v2ex.com/t/774961) `26条评论` `硬件`
@@ -21,17 +21,17 @@
 1. [百度网盘的单日 / 单次会员入口在哪？](https://www.v2ex.com/t/774980) `15条评论` `问与答`
 1. [为什么我 git reset HEAD 就是无法把一个被 add 的文件给赶出去？](https://www.v2ex.com/t/774950) `15条评论` `问与答`
 1. [挑战：获取文件夹中 Python 文件并使用其文件名生成数组字面量字符串](https://www.v2ex.com/t/774944) `15条评论` `Python`
+1. [opera 现在是国产浏览器了吗？](https://www.v2ex.com/t/775017) `14条评论` `浏览器`
+1. [研二女慢性肾炎，前辈们能帮忙分析下我现在怎么做比较好吗。。未来想从事写代码的工作， 6 月毕设中期检查](https://www.v2ex.com/t/775003) `14条评论` `问与答`
+1. [Office 真的辣鸡](https://www.v2ex.com/t/775004) `13条评论` `Microsoft Office`
 1. [数据库 - 什么情况下应该使用 HDD，什么情况下应该使用 SSD？](https://www.v2ex.com/t/774966) `13条评论` `数据库`
 1. [Merlot](https://www.v2ex.com/t/774957) `13条评论` `Markdown`
 1. [新 iPad 拉垮了么，还没有媒体评测出来。](https://www.v2ex.com/t/774945) `13条评论` `Apple`
 1. [localtags 一个开源的本地文件备份工具](https://www.v2ex.com/t/774938) `13条评论` `分享创造`
 1. [杭州有什么物美价廉的近视眼镜店](https://www.v2ex.com/t/774935) `13条评论` `杭州`
-1. [opera 现在是国产浏览器了吗？](https://www.v2ex.com/t/775017) `12条评论` `浏览器`
-1. [Office 真的辣鸡](https://www.v2ex.com/t/775004) `12条评论` `Microsoft Office`
 1. [在 IDEA 中如何通过目录名快速定位到具体文件？](https://www.v2ex.com/t/774954) `12条评论` `JetBrains`
-1. [iOS 微信朋友圈的引导性广告怎么去掉？](https://www.v2ex.com/t/774948) `12条评论` `iOS`
 
-数据更新于 2021-05-05 13:11:43
+数据更新于 2021-05-05 13:41:23
 
 <!-- TODAY END -->
 
