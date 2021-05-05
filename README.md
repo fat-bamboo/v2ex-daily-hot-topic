@@ -9,27 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [记一次火车补票](https://www.v2ex.com/t/774934) `34条评论` `问与答`
-1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949) `28条评论` `问与答`
-1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958) `24条评论` `职场话题`
+1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949) `30条评论` `问与答`
+1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958) `26条评论` `职场话题`
 1. [想听听 AirPods Max 的真实体验](https://www.v2ex.com/t/774955) `19条评论` `Apple`
 1. [系统好像出毛病了,但是不知道什么毛病](https://www.v2ex.com/t/774942) `19条评论` `Windows`
-1. [公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适](https://www.v2ex.com/t/774961) `16条评论` `硬件`
+1. [公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适](https://www.v2ex.com/t/774961) `17条评论` `硬件`
+1. [神奇的 Javascript，谁能告诉我为什么](https://www.v2ex.com/t/774968) `15条评论` `程序员`
 1. [为什么我 git reset HEAD 就是无法把一个被 add 的文件给赶出去？](https://www.v2ex.com/t/774950) `15条评论` `问与答`
 1. [挑战：获取文件夹中 Python 文件并使用其文件名生成数组字面量字符串](https://www.v2ex.com/t/774944) `15条评论` `Python`
 1. [新 iPad 拉垮了么，还没有媒体评测出来。](https://www.v2ex.com/t/774945) `13条评论` `Apple`
 1. [localtags 一个开源的本地文件备份工具](https://www.v2ex.com/t/774938) `12条评论` `分享创造`
-1. [神奇的 Javascript，谁能告诉我为什么](https://www.v2ex.com/t/774968) `11条评论` `程序员`
+1. [请问下适配 M1 的 Eclipse 多久能出来呢？](https://www.v2ex.com/t/774937) `11条评论` `macOS`
 1. [杭州有什么物美价廉的近视眼镜店](https://www.v2ex.com/t/774935) `11条评论` `杭州`
 1. [罗技 G 系列鼠标在 macOS 上踩坑记录](https://www.v2ex.com/t/774964) `10条评论` `macOS`
 1. [airTag 附加功能](https://www.v2ex.com/t/774952) `10条评论` `Apple`
 1. [iOS 微信朋友圈的引导性广告怎么去掉？](https://www.v2ex.com/t/774948) `10条评论` `iOS`
 1. [Apple Watch「查找」网络如何打开？](https://www.v2ex.com/t/774939) `10条评论` `Apple`
-1. [请问下适配 M1 的 Eclipse 多久能出来呢？](https://www.v2ex.com/t/774937) `10条评论` `macOS`
 1. [在 IDEA 中如何通过目录名快速定位到具体文件？](https://www.v2ex.com/t/774954) `9条评论` `JetBrains`
+1. [百度网盘的单日 / 单次会员入口在哪？](https://www.v2ex.com/t/774980) `7条评论` `问与答`
 1. [PWA 适合开发音乐播放器吗？](https://www.v2ex.com/t/774953) `7条评论` `JavaScript`
 1. [旧安卓手机帮助全家去广告](https://www.v2ex.com/t/774960) `6条评论` `Android`
+1. [Merlot](https://www.v2ex.com/t/774957) `6条评论` `Markdown`
 
-数据更新于 2021-05-05 06:59:23
+数据更新于 2021-05-05 07:25:35
 
 <!-- TODAY END -->
 
