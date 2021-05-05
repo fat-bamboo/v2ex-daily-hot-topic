@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958) `51条评论` `职场话题`
+1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958) `52条评论` `职场话题`
 1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949) `35条评论` `问与答`
 1. [记一次火车补票](https://www.v2ex.com/t/774934) `34条评论` `问与答`
-1. [想听听 AirPods Max 的真实体验](https://www.v2ex.com/t/774955) `30条评论` `Apple`
+1. [想听听 AirPods Max 的真实体验](https://www.v2ex.com/t/774955) `31条评论` `Apple`
 1. [公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适](https://www.v2ex.com/t/774961) `26条评论` `硬件`
 1. [神奇的 Javascript，谁能告诉我为什么](https://www.v2ex.com/t/774968) `26条评论` `JavaScript`
 1. [旧安卓手机帮助全家去广告](https://www.v2ex.com/t/774960) `25条评论` `Android`
@@ -31,7 +31,7 @@
 1. [罗技 G 系列鼠标在 macOS 上踩坑记录](https://www.v2ex.com/t/774964) `11条评论` `macOS`
 1. [airTag 附加功能](https://www.v2ex.com/t/774952) `11条评论` `Apple`
 
-数据更新于 2021-05-05 11:25:45
+数据更新于 2021-05-05 11:37:55
 
 <!-- TODAY END -->
 
