@@ -8,22 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员又要上电视了](https://www.v2ex.com/t/777581) `39条评论` `剧集`
+1. [程序员又要上电视了](https://www.v2ex.com/t/777581) `40条评论` `剧集`
 1. [美团外卖的程序员都不验证服务器时间吗？](https://www.v2ex.com/t/777611) `26条评论` `程序员`
-1. [消息称苹果全新 MacBook Pro 14/16 英寸将推迟发布](https://www.v2ex.com/t/777633) `21条评论` `Apple`
+1. [消息称苹果全新 MacBook Pro 14/16 英寸将推迟发布](https://www.v2ex.com/t/777633) `22条评论` `Apple`
 1. [apple watch+深圳通 时不时故障真的是烦死人了](https://www.v2ex.com/t/777575) `18条评论` `Apple`
-1. [github 上面的项目， star 后，可以打标签/tag 么？否则，大家怎么找到自己关注的项目？](https://www.v2ex.com/t/777636) `14条评论` `程序员`
+1. [github 上面的项目， star 后，可以打标签/tag 么？否则，大家怎么找到自己关注的项目？](https://www.v2ex.com/t/777636) `17条评论` `程序员`
 1. [TieJS: 一个基于 TypeScript 的个人级 Node.js 框架](https://www.v2ex.com/t/777644) `12条评论` `程序员`
 1. [腾讯的看图软件，一打开风扇就呜呜跑。但是确实用起来比较顺手。大家有啥替代软件吗，或者解决一打开就发热严重的招](https://www.v2ex.com/t/777600) `12条评论` `macOS`
 1. [如何为游戏排行榜设计对应的数据库](https://www.v2ex.com/t/777626) `11条评论` `数据库`
+1. [Arthas 3.5.1 发布：神级特性！内存搜索对象](https://www.v2ex.com/t/777640) `9条评论` `程序员`
 1. [微信 iOS 更新后无法从相册分享照片](https://www.v2ex.com/t/777609) `8条评论` `问与答`
 1. [支付宝又双叒出消费券了](https://www.v2ex.com/t/777574) `8条评论` `优惠信息`
-1. [Arthas 3.5.1 发布：神级特性！内存搜索对象](https://www.v2ex.com/t/777640) `7条评论` `程序员`
+1. [寻找失散的西安老乡群友](https://www.v2ex.com/t/777659) `7条评论` `西安`
+1. [远程执行命令](https://www.v2ex.com/t/777625) `6条评论` `开源软件`
 1. [macOS 下的 Excel 迅捷程度与 Windows 相比简直不是一个数量级](https://www.v2ex.com/t/777595) `6条评论` `macOS`
 1. [安卓”阅读“的 iOS 版”源阅读“](https://www.v2ex.com/t/777592) `6条评论` `分享创造`
 1. [Magisk 的作者去安卓了？](https://www.v2ex.com/t/777573) `6条评论` `问与答`
 
-数据更新于 2021-05-18 05:15:53
+数据更新于 2021-05-18 05:45:14
 
 <!-- TODAY END -->
 
