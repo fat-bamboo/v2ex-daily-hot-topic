@@ -10,12 +10,12 @@
 
 1. [2021 年拿到暑期实习 offer 后，继续出国考研 or 开始准备工作？](https://www.v2ex.com/t/778644) `37条评论` `职场话题`
 1. [Vivo 手机某系统进程开放 55555 端口疑似用作 mCDN](https://www.v2ex.com/t/778678) `34条评论` `Android`
-1. [不要问在不在（Don't Say Zai Ma）](https://www.v2ex.com/t/778681) `33条评论` `分享创造`
+1. [不要问在不在（Don't Say Zai Ma）](https://www.v2ex.com/t/778681) `34条评论` `分享创造`
+1. [迫于买公路车（scultura king, 斯特拉 king, 斯特拉大王），请问 v 友意见，这两个配色/涂装你更喜欢哪个？](https://www.v2ex.com/t/778633) `29条评论` `骑行`
 1. [iPad pro 2021 有没有可能可以刷 Mac OS？](https://www.v2ex.com/t/778642) `29条评论` `Apple`
-1. [迫于买公路车（scultura king, 斯特拉 king, 斯特拉大王），请问 v 友意见，这两个配色/涂装你更喜欢哪个？](https://www.v2ex.com/t/778633) `28条评论` `骑行`
 1. [大家怎么看待程序员脱单这件事？](https://www.v2ex.com/t/778639) `22条评论` `推广`
+1. [我想维护一个大型字典，有没有什么省内存的方法](https://www.v2ex.com/t/778691) `22条评论` `Python`
 1. [求推荐 60%的键盘。题主程序员。](https://www.v2ex.com/t/778654) `21条评论` `机械键盘`
-1. [我想维护一个大型字典，有没有什么省内存的方法](https://www.v2ex.com/t/778691) `21条评论` `Python`
 1. [Google Photos 也太难用了吧](https://www.v2ex.com/t/778695) `17条评论` `Google`
 1. [有没有精简安装包的技术](https://www.v2ex.com/t/778632) `16条评论` `程序员`
 1. [mac mini m1 有点绿啊。。。](https://www.v2ex.com/t/778692) `14条评论` `macOS`
@@ -31,7 +31,7 @@
 1. [usdt 负溢价了 能入吗](https://www.v2ex.com/t/778650) `7条评论` `投资`
 1. [最近老是跳闸，如何保护电器?](https://www.v2ex.com/t/778685) `6条评论` `问与答`
 
-数据更新于 2021-05-23 13:46:39
+数据更新于 2021-05-23 13:58:16
 
 <!-- TODAY END -->
 
