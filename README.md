@@ -8,22 +8,28 @@
 
 <!-- TODAY BEGIN -->
 
+1. [lowcode 是不是在断后人的路？](https://www.v2ex.com/t/779797) `62条评论` `程序员`
+1. [马上要去实习了，和 mentor 相处有哪些需要注意的呢？](https://www.v2ex.com/t/779707) `41条评论` `职场话题`
 1. [借钱凑首付，一个个都是穷人](https://www.v2ex.com/t/779723) `38条评论` `问与答`
-1. [马上要去实习了，和 mentor 相处有哪些需要注意的呢？](https://www.v2ex.com/t/779707) `36条评论` `问与答`
-1. [lowcode 是不是在断后人的路？](https://www.v2ex.com/t/779797) `25条评论` `程序员`
+1. [请问一下「朴朴超市」的朴朴，怎么发音？](https://www.v2ex.com/t/779730) `35条评论` `发音`
+1. [4K 显示器的选择](https://www.v2ex.com/t/779716) `33条评论` `问与答`
+1. [奇葩保险，几年前买的恋爱保险居然理赔成功了](https://www.v2ex.com/t/779805) `32条评论` `分享发现`
 1. [快手移动端效能后端招人](https://www.v2ex.com/t/779777) `20条评论` `Go`
 1. [记一次手机卡顿又恢复流畅的经历](https://www.v2ex.com/t/779766) `18条评论` `Android`
-1. [请问一下「朴朴超市」的朴朴，怎么发音？](https://www.v2ex.com/t/779730) `18条评论` `发音`
 1. [求推荐 mbp 外接无线机械键盘](https://www.v2ex.com/t/779720) `16条评论` `macOS`
 1. [纯粹好奇，为什么有人说话的时候，会自己接上“对”“嗯”](https://www.v2ex.com/t/779733) `14条评论` `随想`
-1. [4K 显示器的选择](https://www.v2ex.com/t/779716) `14条评论` `问与答`
+1. [新装的 k8s 网络 pod 无法 ping 通 svc](https://www.v2ex.com/t/779800) `11条评论` `Kubernetes`
 1. [求推荐侧边按键静音的蓝牙鼠标](https://www.v2ex.com/t/779762) `11条评论` `配件`
+1. [你们上线夜里通宵，第二天是否要上班？](https://www.v2ex.com/t/779820) `9条评论` `职场话题`
+1. [我的这个简历出去找实习能找到吗？求大佬们指导 简历修改](https://www.v2ex.com/t/779801) `9条评论` `求职`
+1. [macos 批量重命名 Automator](https://www.v2ex.com/t/779791) `9条评论` `macOS`
 1. [特别喜欢工业区的环境，有人一样的嘛？](https://www.v2ex.com/t/779727) `9条评论` `深圳`
 1. [分享 WPF 开发 在 Github 的开源地址。](https://www.v2ex.com/t/779747) `8条评论` `C#`
-1. [macos 批量重命名 Automator](https://www.v2ex.com/t/779791) `7条评论` `macOS`
 1. [Mac.匹配大鼠标推荐，最近小鼠标搞的我手痛，最好蓝牙 5.0，预算<=500](https://www.v2ex.com/t/779781) `7条评论` `macOS`
+1. [有没有 Windows 主机实时同步内网 Linux 服务器指定目录数据的工具？](https://www.v2ex.com/t/779802) `6条评论` `Linux`
+1. [Repository 层的代码如何封装才比较合适？](https://www.v2ex.com/t/779785) `6条评论` `程序员`
 
-数据更新于 2021-05-28 06:01:59
+数据更新于 2021-05-28 07:17:23
 
 <!-- TODAY END -->
 
