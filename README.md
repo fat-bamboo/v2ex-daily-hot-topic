@@ -14,7 +14,7 @@
 1. [想转行前端，面临 3 个选择，向大佬请教](https://www.v2ex.com/t/779994) `33条评论` `职场话题`
 1. [之前一直想买 HomePod，谁知就停产了！](https://www.v2ex.com/t/779973) `31条评论` `Apple`
 1. [广州联通不给公网 IP](https://www.v2ex.com/t/779995) `31条评论` `宽带症候群`
-1. [2021 年中求推荐一款方便 root 的安卓手机](https://www.v2ex.com/t/780027) `28条评论` `Android`
+1. [2021 年中求推荐一款方便 root 的安卓手机](https://www.v2ex.com/t/780027) `29条评论` `Android`
 1. [懂行的老哥们推荐个笔记本呗](https://www.v2ex.com/t/780043) `27条评论` `硬件`
 1. [Apple TV 4K 2021 真香啊](https://www.v2ex.com/t/780078) `25条评论` `Apple TV`
 1. [对于 ios 老手来说，漂亮的界面是用 storyboard 做吗？还是直接 coding？](https://www.v2ex.com/t/780009) `25条评论` `iDev`
@@ -31,7 +31,7 @@
 1. [i9 10900KF + RTX 2080 Ti 经常黑屏，是电源问题吗？](https://www.v2ex.com/t/780081) `8条评论` `云修电脑`
 1. [虚拟出来的 freenas 可以支持虚拟化吗？](https://www.v2ex.com/t/780049) `8条评论` `NAS`
 
-数据更新于 2021-05-29 21:45:18
+数据更新于 2021-05-29 22:12:56
 
 <!-- TODAY END -->
 
