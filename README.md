@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你是如何写自己的博客的，使用的什么博客框架？](https://www.v2ex.com/t/781517) `71条评论` `问与答`
+1. [你是如何写自己的博客的，使用的什么博客框架？](https://www.v2ex.com/t/781517) `76条评论` `问与答`
 1. [TypeScript 可不可以被叫做小 Java ？](https://www.v2ex.com/t/781504) `48条评论` `程序员`
 1. [受不了后端同事把查询用 post 把操作用 get 怎么办](https://www.v2ex.com/t/781539) `36条评论` `前端开发`
 1. [第一次用 MBP， macOS 上的图标都这么怪的吗？](https://www.v2ex.com/t/781525) `35条评论` `macOS`
@@ -31,7 +31,7 @@
 1. [@Transactional 注解里的 rollbackFor=Exception.class 是否真的有意义？！](https://www.v2ex.com/t/781561) `12条评论` `Java`
 1. [无法拒绝 996 躺平，找外包跳槽可行么？](https://www.v2ex.com/t/781549) `12条评论` `职场话题`
 
-数据更新于 2021-06-05 14:56:16
+数据更新于 2021-06-05 15:18:06
 
 <!-- TODAY END -->
 
