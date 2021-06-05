@@ -12,7 +12,7 @@
 1. [TypeScript 可不可以被叫做小 Java ？](https://www.v2ex.com/t/781504) `52条评论` `程序员`
 1. [HarmonyOS 的原子化理念是不是也导致应用开发的概念也需要做个转变？](https://www.v2ex.com/t/781535) `42条评论` `程序员`
 1. [弱电箱到客厅两根网线，难道只能 vlan 复用吗？](https://www.v2ex.com/t/781590) `37条评论` `宽带症候群`
-1. [第一次用 MBP， macOS 上的图标都这么怪的吗？](https://www.v2ex.com/t/781525) `36条评论` `macOS`
+1. [第一次用 MBP， macOS 上的图标都这么怪的吗？](https://www.v2ex.com/t/781525) `37条评论` `macOS`
 1. [受不了后端同事把查询用 post 把操作用 get 怎么办](https://www.v2ex.com/t/781539) `36条评论` `前端开发`
 1. [你们公司都提供了哪些正版软件授权？](https://www.v2ex.com/t/781505) `25条评论` `职场话题`
 1. [[送码] 简记单词 - 艾宾浩斯记忆法 新版上线，新增复习计划 PDF 文档导出功能，内购限时优惠中](https://www.v2ex.com/t/781521) `25条评论` `推广`
@@ -31,7 +31,7 @@
 1. [微信电脑版新版可以查看 PYQ 了，问下有没有自动点赞的程序的](https://www.v2ex.com/t/781523) `13条评论` `微信`
 1. [@Transactional 注解里的 rollbackFor=Exception.class 是否真的有意义？！](https://www.v2ex.com/t/781561) `12条评论` `Java`
 
-数据更新于 2021-06-05 21:07:54
+数据更新于 2021-06-05 21:38:59
 
 <!-- TODAY END -->
 
