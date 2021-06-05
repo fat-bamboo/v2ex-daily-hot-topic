@@ -31,7 +31,7 @@
 1. [微信电脑版新版可以查看 PYQ 了，问下有没有自动点赞的程序的](https://www.v2ex.com/t/781523) `13条评论` `微信`
 1. [@Transactional 注解里的 rollbackFor=Exception.class 是否真的有意义？！](https://www.v2ex.com/t/781561) `12条评论` `Java`
 
-数据更新于 2021-06-05 19:30:36
+数据更新于 2021-06-05 20:08:35
 
 <!-- TODAY END -->
 
