@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有些东西细思极恐](https://www.v2ex.com/t/781794) `101条评论` `随想`
-1. [儿童医院竟然给 6 个月不到的小孩开中成药？](https://www.v2ex.com/t/781819) `96条评论` `请不要再发这样的文章`
-1. [WWDC2021](https://www.v2ex.com/t/781790) `56条评论` `WWDC`
-1. [为什么很少听说有人用 kotlin 开发后端](https://www.v2ex.com/t/781828) `40条评论` `程序员`
-1. [苹果调整国行 AppleCare+ 服务政策](https://www.v2ex.com/t/781791) `33条评论` `Apple`
-1. [求教各位 v 友，要如何向上管理领导？](https://www.v2ex.com/t/781782) `27条评论` `程序员`
-1. [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app](https://www.v2ex.com/t/781843) `25条评论` `Apple`
+1. [儿童医院竟然给 6 个月不到的小孩开中成药？](https://www.v2ex.com/t/781819) `135条评论` `请不要再发这样的文章`
+1. [有些东西细思极恐](https://www.v2ex.com/t/781794) `119条评论` `随想`
+1. [WWDC2021](https://www.v2ex.com/t/781790) `61条评论` `WWDC`
+1. [为什么很少听说有人用 kotlin 开发后端](https://www.v2ex.com/t/781828) `56条评论` `程序员`
+1. [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app](https://www.v2ex.com/t/781843) `40条评论` `Apple`
+1. [苹果调整国行 AppleCare+ 服务政策](https://www.v2ex.com/t/781791) `37条评论` `Apple`
+1. [求教各位 v 友，要如何向上管理领导？](https://www.v2ex.com/t/781782) `36条评论` `程序员`
+1. [分享一下北大学生在体制内工作五年的迷思](https://www.v2ex.com/t/781821) `28条评论` `职场话题`
 1. [[字节] [广州] 北上深的薪资，广州的生活，它不香吗😻，简历丢过来](https://www.v2ex.com/t/781818) `19条评论` `酷工作`
+1. [究竟什么东西能划伤一个从不出门的 iPad 的屏幕啊？](https://www.v2ex.com/t/781899) `17条评论` `Apple`
+1. [limit mysql 取最后_分页场景（limit,offset）特别慢，有什么办法可以优化？](https://www.v2ex.com/t/781896) `17条评论` `问与答`
 1. [纳秒级的高精度时间 精度真的准确吗？一般用在何处？](https://www.v2ex.com/t/781779) `17条评论` `Linux`
+1. [迫于安卓的推送功能太烂，什么统一推送，小米推送、华为推送、魅族推送甚至第三方推送，苹果 5s 后决定 13 重返](https://www.v2ex.com/t/781911) `16条评论` `Android`
 1. [NAS 和 EXSI 的取舍](https://www.v2ex.com/t/781862) `15条评论` `NAS`
 1. [推荐一个房贷还款提醒的 app](https://www.v2ex.com/t/781863) `12条评论` `分享创造`
 1. [想换 OLED 电视机玩 PS5，但不知道怎么挂墙，请教大神指导](https://www.v2ex.com/t/781825) `12条评论` `游戏`
-1. [分享一下北大学生在体制内工作五年的迷思](https://www.v2ex.com/t/781821) `11条评论` `问与答`
+1. [微信 Windows 版本为什么迟迟不支持黑暗模式？](https://www.v2ex.com/t/781870) `10条评论` `微信`
 1. [出手机耳机净化器](https://www.v2ex.com/t/781857) `10条评论` `问与答`
 1. [越怕出错越出错，大家有这种焦虑吗？](https://www.v2ex.com/t/781822) `10条评论` `问与答`
 1. [有自己办理过混合贷款的吗？](https://www.v2ex.com/t/781859) `7条评论` `北京`
 1. [方便面推荐](https://www.v2ex.com/t/781838) `7条评论` `分享发现`
 1. [nodejs 哪个请求库能支持下载限速？](https://www.v2ex.com/t/781823) `7条评论` `JavaScript`
-1. [iPhone 13 啥时候出呀](https://www.v2ex.com/t/781786) `7条评论` `Apple`
-1. [NAS 主机可以享受虚拟机里 OpenWrt 的网络吗](https://www.v2ex.com/t/781785) `7条评论` `NAS`
-1. [docker 或者 Linux 上有什么好用的相册同步软件吗？类似 Monents 的](https://www.v2ex.com/t/781777) `7条评论` `程序员`
-1. [求推荐靠谱某宝眼镜店](https://www.v2ex.com/t/781864) `6条评论` `问与答`
 
-数据更新于 2021-06-07 06:20:08
+数据更新于 2021-06-07 08:09:53
 
 <!-- TODAY END -->
 
