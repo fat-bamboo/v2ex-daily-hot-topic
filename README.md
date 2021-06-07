@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [儿童医院竟然给 6 个月不到的小孩开中成药？](https://www.v2ex.com/t/781819) `281条评论` `请不要再发这样的文章`
-1. [有些东西细思极恐](https://www.v2ex.com/t/781794) `143条评论` `随想`
-1. [安卓苹果双持 8 个月了，实在想不出 iPhone 还有什么可留恋的了](https://www.v2ex.com/t/781943) `129条评论` `Android`
-1. [分享一下北大学生在体制内工作五年的迷思](https://www.v2ex.com/t/781821) `82条评论` `职场话题`
-1. [为什么很少听说有人用 kotlin 开发后端](https://www.v2ex.com/t/781828) `77条评论` `程序员`
+1. [儿童医院竟然给 6 个月不到的小孩开中成药？](https://www.v2ex.com/t/781819) `284条评论` `请不要再发这样的文章`
+1. [有些东西细思极恐](https://www.v2ex.com/t/781794) `144条评论` `随想`
+1. [安卓苹果双持 8 个月了，实在想不出 iPhone 还有什么可留恋的了](https://www.v2ex.com/t/781943) `133条评论` `Android`
+1. [分享一下北大学生在体制内工作五年的迷思](https://www.v2ex.com/t/781821) `89条评论` `职场话题`
+1. [为什么很少听说有人用 kotlin 开发后端](https://www.v2ex.com/t/781828) `78条评论` `程序员`
+1. [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app](https://www.v2ex.com/t/781843) `74条评论` `Apple`
 1. [WWDC2021](https://www.v2ex.com/t/781790) `73条评论` `WWDC`
-1. [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app](https://www.v2ex.com/t/781843) `72条评论` `Apple`
 1. [求教各位 v 友，要如何向上管理领导？](https://www.v2ex.com/t/781782) `52条评论` `职场话题`
 1. [苹果调整国行 AppleCare+ 服务政策](https://www.v2ex.com/t/781791) `41条评论` `Apple`
-1. [由细思极恐帖子引发的感想，来说说我见过的和一些猜想](https://www.v2ex.com/t/781831) `37条评论` `随想`
+1. [由细思极恐帖子引发的感想，来说说我见过的和一些猜想](https://www.v2ex.com/t/781831) `39条评论` `随想`
 1. [javascript 的数字，内部表示可以是标准的 32 位整型，而不是浮点数吗？](https://www.v2ex.com/t/781924) `29条评论` `JavaScript`
 1. [迫于安卓的推送功能太烂，什么统一推送，小米推送、华为推送、魅族推送甚至第三方推送，苹果 5s 后决定 13 重返](https://www.v2ex.com/t/781911) `28条评论` `Android`
 1. [你知道「去背」不](https://www.v2ex.com/t/781921) `26条评论` `分享发现`
 1. [limit mysql 取最后_分页场景（limit,offset）特别慢，有什么办法可以优化？](https://www.v2ex.com/t/781896) `25条评论` `问与答`
 1. [究竟什么东西能划伤一个从不出门的 iPad 的屏幕啊？](https://www.v2ex.com/t/781899) `22条评论` `Apple`
 1. [[字节] [广州] 北上深的薪资，广州的生活，它不香吗😻，简历丢过来](https://www.v2ex.com/t/781818) `19条评论` `酷工作`
+1. [RSS3：我们仍未知道那天所看见的花的名字](https://www.v2ex.com/t/781981) `18条评论` `分享创造`
 1. [月入过万是真的吗?](https://www.v2ex.com/t/781923) `17条评论` `问与答`
 1. [纳秒级的高精度时间 精度真的准确吗？一般用在何处？](https://www.v2ex.com/t/781779) `17条评论` `Linux`
 1. [notepad_PP 发布 8.0](https://www.v2ex.com/t/781942) `16条评论` `分享发现`
-1. [NAS 和 EXSI 的取舍](https://www.v2ex.com/t/781862) `15条评论` `NAS`
-1. [RSS3：我们仍未知道那天所看见的花的名字](https://www.v2ex.com/t/781981) `14条评论` `分享创造`
-1. [求大神进来看下！ Windows10 企业版域管理问题](https://www.v2ex.com/t/781920) `14条评论` `Windows`
+1. [k40 拍照到底怎么样？](https://www.v2ex.com/t/781971) `15条评论` `小米`
+1. [用过 Electron/CEF 这些，感觉不太行](https://www.v2ex.com/t/781963) `15条评论` `程序员`
 
-数据更新于 2021-06-07 15:18:16
+数据更新于 2021-06-07 16:17:05
 
 <!-- TODAY END -->
 
