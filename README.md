@@ -8,18 +8,28 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有些东西细思极恐](https://www.v2ex.com/t/781794) `42条评论` `随想`
-1. [WWDC2021](https://www.v2ex.com/t/781790) `19条评论` `Apple`
+1. [有些东西细思极恐](https://www.v2ex.com/t/781794) `75条评论` `随想`
+1. [儿童医院竟然给 6 个月不到的小孩开中成药？](https://www.v2ex.com/t/781819) `58条评论` `问与答`
+1. [WWDC2021](https://www.v2ex.com/t/781790) `45条评论` `Apple`
+1. [苹果调整国行 AppleCare+ 服务政策](https://www.v2ex.com/t/781791) `27条评论` `Apple`
+1. [[字节] [广州] 北上深的薪资，广州的生活，它不香吗😻，简历丢过来](https://www.v2ex.com/t/781818) `19条评论` `酷工作`
 1. [纳秒级的高精度时间 精度真的准确吗？一般用在何处？](https://www.v2ex.com/t/781779) `17条评论` `Linux`
-1. [苹果调整国行 AppleCare+ 服务政策](https://www.v2ex.com/t/781791) `16条评论` `Apple`
+1. [为什么很少听说有人用 kotlin 开发后端](https://www.v2ex.com/t/781828) `15条评论` `程序员`
+1. [想换 OLED 电视机玩 PS5，但不知道怎么挂墙，请教大神指导](https://www.v2ex.com/t/781825) `12条评论` `游戏`
 1. [求教各位 v 友，要如何向上管理领导？](https://www.v2ex.com/t/781782) `12条评论` `程序员`
+1. [分享一下北大学生在体制内工作五年的迷思](https://www.v2ex.com/t/781821) `11条评论` `问与答`
+1. [越怕出错越出错，大家有这种焦虑吗？](https://www.v2ex.com/t/781822) `10条评论` `问与答`
+1. [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app](https://www.v2ex.com/t/781843) `8条评论` `Apple`
+1. [方便面推荐](https://www.v2ex.com/t/781838) `7条评论` `分享发现`
+1. [nodejs 哪个请求库能支持下载限速？](https://www.v2ex.com/t/781823) `7条评论` `JavaScript`
 1. [iPhone 13 啥时候出呀](https://www.v2ex.com/t/781786) `7条评论` `Apple`
 1. [NAS 主机可以享受虚拟机里 OpenWrt 的网络吗](https://www.v2ex.com/t/781785) `7条评论` `NAS`
 1. [docker 或者 Linux 上有什么好用的相册同步软件吗？类似 Monents 的](https://www.v2ex.com/t/781777) `7条评论` `程序员`
+1. [14.6 掉电贼快](https://www.v2ex.com/t/781824) `6条评论` `iPhone`
 1. [大家 iPad Pro 12.9 寸 2021 款 B 站看视频续航怎么样？](https://www.v2ex.com/t/781796) `6条评论` `Apple`
 1. [如何自动同步相册到 nas，除了用群晖](https://www.v2ex.com/t/781780) `6条评论` `NAS`
 
-数据更新于 2021-06-07 02:31:08
+数据更新于 2021-06-07 04:11:58
 
 <!-- TODAY END -->
 
