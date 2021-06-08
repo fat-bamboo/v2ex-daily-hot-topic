@@ -8,9 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
+1. [爷爷八十岁了想带他去天安门（他也想去），家里人都因为年龄太大了不同意，有没有两全其美的方法](https://www.v2ex.com/t/782045) `35条评论` `生活`
+1. [ios 版微信为什么不做 消息通知点进去直接是对应的聊天?](https://www.v2ex.com/t/782047) `25条评论` `微信`
+1. [现在是 2021 年 6 月， 2019 款 i5 丐版 MBP 想换成 M1 air 是否值得？](https://www.v2ex.com/t/782053) `16条评论` `Apple`
+1. [[WWDC] 噢厚，昨天还看到 V 友讨论 iPhone 投屏到 Macbook，今天就来了](https://www.v2ex.com/t/782049) `15条评论` `WWDC`
+1. [为什么长久以来没有一个组队创业的平台在国内出现？](https://www.v2ex.com/t/782051) `10条评论` `奇思妙想`
+1. [乡镇新装宽带被告知无法安装 1000m](https://www.v2ex.com/t/782087) `8条评论` `宽带症候群`
+1. [发现 macbook 输入法一个很好玩的东西](https://www.v2ex.com/t/782059) `8条评论` `分享创造`
+1. [热泪盈眶， iPhone SE 1st 依然支持 iOS 15](https://www.v2ex.com/t/782055) `8条评论` `Apple`
+1. [iOS 15 Dev Beta 版升级 Bug 收集贴](https://www.v2ex.com/t/782073) `7条评论` `iOS`
 1. [TypeScript 教程，第二次分享教程](https://www.v2ex.com/t/782035) `6条评论` `分享创造`
 
-数据更新于 2021-06-08 01:19:57
+数据更新于 2021-06-08 03:00:37
 
 <!-- TODAY END -->
 
