@@ -15,7 +15,7 @@
 1. [不等了，准备冲 M1 了，请教两个问题](https://www.v2ex.com/t/782143) `67条评论` `macOS`
 1. [iOS 15 Dev Beta 版升级 Bug 收集贴](https://www.v2ex.com/t/782073) `48条评论` `iOS`
 1. [ios 版微信为什么不做 消息通知点进去直接是对应的聊天?](https://www.v2ex.com/t/782047) `42条评论` `微信`
-1. [日经贴： 11 寸平板拿来看论文和看文档怎么样？](https://www.v2ex.com/t/782165) `41条评论` `Apple`
+1. [日经贴： 11 寸平板拿来看论文和看文档怎么样？](https://www.v2ex.com/t/782165) `41条评论` `iPad`
 1. [MacOS 12 beta 微信客户端 bug](https://www.v2ex.com/t/782124) `40条评论` `Apple`
 1. [坐标上海 stackoverflow 503 了](https://www.v2ex.com/t/782219) `26条评论` `程序员`
 1. [朋友们有没有推荐一些硬汉电影,最近把杰森斯坦森的电影基本上看得差不多了ε=(´ο｀*)))](https://www.v2ex.com/t/782201) `25条评论` `电影`
@@ -31,7 +31,7 @@
 1. [[WWDC] 噢厚，昨天还看到 V 友讨论 iPhone 投屏到 Macbook，今天就来了](https://www.v2ex.com/t/782049) `15条评论` `WWDC`
 1. [web 图片压缩比例有没有最佳实践](https://www.v2ex.com/t/782257) `14条评论` `Web Dev`
 
-数据更新于 2021-06-08 21:26:52
+数据更新于 2021-06-08 21:44:41
 
 <!-- TODAY END -->
 
