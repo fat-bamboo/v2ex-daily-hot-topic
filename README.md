@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [Apple music 无损和全景声已经开放](https://www.v2ex.com/t/782099) `111条评论` `Apple`
-1. [贫穷是有人故意而为之的吗？](https://www.v2ex.com/t/782210) `100条评论` `问与答`
+1. [贫穷是有人故意而为之的吗？](https://www.v2ex.com/t/782210) `102条评论` `问与答`
 1. [现在的人都喜欢看视频。大胆的预测一下，随着 IT 技术的发展，书籍可能成为历史的尘埃？](https://www.v2ex.com/t/782116) `99条评论` `奇思妙想`
 1. [爷爷八十岁了想带他去天安门（他也想去），家里人都因为年龄太大了不同意，有没有两全其美的方法](https://www.v2ex.com/t/782045) `82条评论` `生活`
-1. [不等了，准备冲 M1 了，请教两个问题](https://www.v2ex.com/t/782143) `63条评论` `macOS`
+1. [不等了，准备冲 M1 了，请教两个问题](https://www.v2ex.com/t/782143) `64条评论` `macOS`
 1. [iOS 15 Dev Beta 版升级 Bug 收集贴](https://www.v2ex.com/t/782073) `44条评论` `iOS`
 1. [坐标上海 stackoverflow 503 了](https://www.v2ex.com/t/782219) `26条评论` `程序员`
 1. [朋友们有没有推荐一些硬汉电影,最近把杰森斯坦森的电影基本上看得差不多了ε=(´ο｀*)))](https://www.v2ex.com/t/782201) `25条评论` `电影`
@@ -28,10 +28,10 @@
 1. [现在是 2021 年 6 月， 2019 款 i5 丐版 MBP 想换成 M1 air 是否值得？](https://www.v2ex.com/t/782053) `16条评论` `Apple`
 1. [Apple 发布了 tensorflow-macos](https://www.v2ex.com/t/782228) `15条评论` `Apple`
 1. [[WWDC] 噢厚，昨天还看到 V 友讨论 iPhone 投屏到 Macbook，今天就来了](https://www.v2ex.com/t/782049) `15条评论` `WWDC`
+1. [web 图片压缩比例有没有最佳实践](https://www.v2ex.com/t/782257) `14条评论` `Web Dev`
 1. [Xcode 13 adds Vim mode](https://www.v2ex.com/t/782176) `14条评论` `Xcode`
-1. [下个月要外出，求可行的内网 SSH 方案](https://www.v2ex.com/t/782139) `14条评论` `SSH`
 
-数据更新于 2021-06-08 15:48:44
+数据更新于 2021-06-08 16:11:38
 
 <!-- TODAY END -->
 
