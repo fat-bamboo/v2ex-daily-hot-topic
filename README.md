@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [贫穷是有人故意而为之的吗？](https://www.v2ex.com/t/782210) `116条评论` `问与答`
-1. [Apple music 无损和全景声已经开放](https://www.v2ex.com/t/782099) `113条评论` `Apple`
+1. [贫穷是有人故意而为之的吗？](https://www.v2ex.com/t/782210) `119条评论` `问与答`
+1. [Apple music 无损和全景声已经开放](https://www.v2ex.com/t/782099) `115条评论` `Apple`
 1. [现在的人都喜欢看视频。大胆的预测一下，随着 IT 技术的发展，书籍可能成为历史的尘埃？](https://www.v2ex.com/t/782116) `100条评论` `奇思妙想`
 1. [爷爷八十岁了想带他去天安门（他也想去），家里人都因为年龄太大了不同意，有没有两全其美的方法](https://www.v2ex.com/t/782045) `84条评论` `生活`
 1. [不等了，准备冲 M1 了，请教两个问题](https://www.v2ex.com/t/782143) `67条评论` `macOS`
 1. [iOS 15 Dev Beta 版升级 Bug 收集贴](https://www.v2ex.com/t/782073) `48条评论` `iOS`
 1. [ios 版微信为什么不做 消息通知点进去直接是对应的聊天?](https://www.v2ex.com/t/782047) `42条评论` `微信`
+1. [MacOS 12 beta 微信客户端 bug](https://www.v2ex.com/t/782124) `40条评论` `Apple`
 1. [坐标上海 stackoverflow 503 了](https://www.v2ex.com/t/782219) `26条评论` `程序员`
 1. [朋友们有没有推荐一些硬汉电影,最近把杰森斯坦森的电影基本上看得差不多了ε=(´ο｀*)))](https://www.v2ex.com/t/782201) `25条评论` `电影`
 1. [模拟一个社会财富分配实验](https://www.v2ex.com/t/782114) `24条评论` `分享创造`
 1. [日经贴： 11 寸平板拿来看论文和看文档怎么样？](https://www.v2ex.com/t/782165) `23条评论` `Apple`
-1. [MacOS 12 beta 微信客户端 bug](https://www.v2ex.com/t/782124) `23条评论` `Apple`
 1. [感觉 Swift 像一潭死水，发布会上 Swift 只讲了一个并发功能，全程大概 2 分钟。](https://www.v2ex.com/t/782121) `23条评论` `Swift`
 1. [这是 PUA 吗…看完这段话觉得有点难过。](https://www.v2ex.com/t/782256) `22条评论` `职场话题`
 1. [来，大伙推荐一款路由器， AX3600](https://www.v2ex.com/t/782187) `19条评论` `宽带症候群`
@@ -31,7 +31,7 @@
 1. [[WWDC] 噢厚，昨天还看到 V 友讨论 iPhone 投屏到 Macbook，今天就来了](https://www.v2ex.com/t/782049) `15条评论` `WWDC`
 1. [web 图片压缩比例有没有最佳实践](https://www.v2ex.com/t/782257) `14条评论` `Web Dev`
 
-数据更新于 2021-06-08 18:13:13
+数据更新于 2021-06-08 19:08:56
 
 <!-- TODAY END -->
 
