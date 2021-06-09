@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [别再折腾各种快充头了](https://www.v2ex.com/t/782291) `74条评论` `Apple`
-1. [[求职]Web 全栈开发](https://www.v2ex.com/t/782290) `64条评论` `求职`
+1. [别再折腾各种快充头了](https://www.v2ex.com/t/782291) `82条评论` `Apple`
+1. [[求职]Web 全栈开发](https://www.v2ex.com/t/782290) `68条评论` `求职`
 1. [为什么感觉国外的数码讨论戾气会少很多？](https://www.v2ex.com/t/782317) `61条评论` `Apple`
-1. [美好的一天，从摔 MBP 开始...](https://www.v2ex.com/t/782320) `40条评论` `MacBook Pro`
+1. [美好的一天，从摔 MBP 开始...](https://www.v2ex.com/t/782320) `44条评论` `MacBook Pro`
 1. [请教前辈们，换城市除了裸辞，还有更好的操作方法吗？](https://www.v2ex.com/t/782313) `29条评论` `职场话题`
 1. [现在 21 年 6 月， airpods pro 可以冲吗，或者推荐下其他降噪](https://www.v2ex.com/t/782310) `28条评论` `Apple`
 1. [MBP 16 (2019) 能不能凉快点](https://www.v2ex.com/t/782299) `23条评论` `MacBook Pro`
@@ -21,17 +21,17 @@
 1. [iOS 15 一个蠢到姥姥家的设计](https://www.v2ex.com/t/782300) `17条评论` `iOS`
 1. [官网翻新的 iPad pro10.5 和 iPad （第六代）如何选择？](https://www.v2ex.com/t/782323) `16条评论` `iPad`
 1. [迫于有人跳车，等一位国区 iCloud](https://www.v2ex.com/t/782293) `16条评论` `iCloud`
+1. [怎么开启 Apple Music 杜比全景声？](https://www.v2ex.com/t/782338) `13条评论` `问与答`
 1. [在家翻出来一个小东西，但是不知道是干啥用的](https://www.v2ex.com/t/782337) `13条评论` `问与答`
 1. [iOS15 中 iCloud+的专用代理能无障碍访问外网吗？](https://www.v2ex.com/t/782305) `12条评论` `iCloud`
-1. [请教各位，字节 NLP 和蚂蚁 LBS 的 offer 怎么选？](https://www.v2ex.com/t/782374) `10条评论` `程序员`
-1. [墙里超 5 类网线 8 芯都是通的，网络协商速度还是 100m](https://www.v2ex.com/t/782352) `10条评论` `宽带症候群`
+1. [请教各位，字节 NLP 和蚂蚁 LBS 的 offer 怎么选？](https://www.v2ex.com/t/782374) `11条评论` `程序员`
+1. [墙里超 5 类网线 8 芯都是通的，网络协商速度还是 100m](https://www.v2ex.com/t/782352) `11条评论` `宽带症候群`
 1. [如何监听 JS 动态添加的 DOM 对象？](https://www.v2ex.com/t/782350) `10条评论` `JavaScript`
-1. [怎么开启 Apple Music 杜比全景声？](https://www.v2ex.com/t/782338) `10条评论` `问与答`
 1. [求教这个 DockerFile 如何优化下镜像大小](https://www.v2ex.com/t/782347) `9条评论` `Docker`
 1. [M1 Mac 装哪个 JDK 好？](https://www.v2ex.com/t/782363) `8条评论` `macOS`
-1. [不升级可以直接体验新版 Safari 吗？毕竟新系统稳定性太差](https://www.v2ex.com/t/782342) `7条评论` `macOS`
+1. [闲鱼支持 Callkit 了，微信也在灰度测试，好起来了](https://www.v2ex.com/t/782382) `7条评论` `分享发现`
 
-数据更新于 2021-06-09 05:15:07
+数据更新于 2021-06-09 05:54:58
 
 <!-- TODAY END -->
 
