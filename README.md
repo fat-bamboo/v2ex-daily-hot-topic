@@ -8,9 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [别再折腾各种快充头了](https://www.v2ex.com/t/782291) `12条评论` `Apple`
+1. [别再折腾各种快充头了](https://www.v2ex.com/t/782291) `46条评论` `Apple`
+1. [[求职]Web 全栈开发](https://www.v2ex.com/t/782290) `37条评论` `求职`
+1. [现在 21 年 6 月， airpods pro 可以冲吗，或者推荐下其他降噪](https://www.v2ex.com/t/782310) `22条评论` `Apple`
+1. [为什么感觉国外的数码讨论戾气会少很多？](https://www.v2ex.com/t/782317) `19条评论` `Apple`
+1. [iOS 15 一个蠢到姥姥家的设计](https://www.v2ex.com/t/782300) `14条评论` `iOS`
+1. [MBP 16 (2019) 能不能凉快点](https://www.v2ex.com/t/782299) `14条评论` `MacBook Pro`
+1. [迫于有人跳车，等一位国区 iCloud](https://www.v2ex.com/t/782293) `13条评论` `iCloud`
+1. [能不能查看自己已经被多少账户拉黑](https://www.v2ex.com/t/782294) `12条评论` `反馈`
+1. [企业认证的微信服务号在淘宝卖 650，算贵吗](https://www.v2ex.com/t/782321) `8条评论` `程序员`
+1. [美好的一天，从摔 MBP 开始...](https://www.v2ex.com/t/782320) `8条评论` `MacBook Pro`
+1. [iOS15 中 iCloud+的专用代理能无障碍访问外网吗？](https://www.v2ex.com/t/782305) `8条评论` `iCloud`
+1. [请教前辈们，换城市除了裸辞，还有更好的操作方法吗？](https://www.v2ex.com/t/782313) `7条评论` `职场话题`
+1. [新装 Monterey 后 iCloud 设置索要 macOS 登陆密码和 iPhone 解锁密码... 这正常吗?](https://www.v2ex.com/t/782297) `7条评论` `macOS`
 
-数据更新于 2021-06-09 00:55:56
+数据更新于 2021-06-09 02:14:17
 
 <!-- TODAY END -->
 
