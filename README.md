@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [别再折腾各种快充头了](https://www.v2ex.com/t/782291) `138条评论` `Apple`
-1. [[求职]Web 全栈开发](https://www.v2ex.com/t/782290) `120条评论` `求职`
+1. [[求职]Web 全栈开发](https://www.v2ex.com/t/782290) `121条评论` `求职`
 1. [闲鱼支持 Callkit 了，微信也在灰度测试，好起来了](https://www.v2ex.com/t/782382) `83条评论` `Apple`
 1. [美好的一天，从摔 MBP 开始...](https://www.v2ex.com/t/782320) `80条评论` `MacBook Pro`
 1. [为什么感觉国外的数码讨论戾气会少很多？](https://www.v2ex.com/t/782317) `61条评论` `Apple`
@@ -31,7 +31,7 @@
 1. [iOS 15 一个蠢到姥姥家的设计](https://www.v2ex.com/t/782300) `17条评论` `iOS`
 1. [手欠升级了 ios15，删了描述文件也回不来了](https://www.v2ex.com/t/782490) `16条评论` `Apple`
 
-数据更新于 2021-06-09 23:05:16
+数据更新于 2021-06-09 23:28:09
 
 <!-- TODAY END -->
 
