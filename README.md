@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [再过三个月从厦门去深圳，各位热心的大佬有什么建议吗？](https://www.v2ex.com/t/782548) `51条评论` `问与答`
+1. [再过三个月从厦门去深圳，各位热心的大佬有什么建议吗？](https://www.v2ex.com/t/782548) `56条评论` `问与答`
 1. [现在的机械硬盘这么贵的吗？ 8t 要 1999？](https://www.v2ex.com/t/782557) `24条评论` `问与答`
 1. [比特币为什么不设计成匿名的用来保护隐私?](https://www.v2ex.com/t/782546) `24条评论` `程序员`
-1. [找工作迷惑，怎么谈薪资？](https://www.v2ex.com/t/782592) `21条评论` `程序员`
-1. [Apple Music 的杜比 Atmos 和无损 大家听出区别了吗](https://www.v2ex.com/t/782591) `20条评论` `Apple`
+1. [找工作迷惑，怎么谈薪资？](https://www.v2ex.com/t/782592) `23条评论` `程序员`
+1. [Apple Music 的杜比 Atmos 和无损 大家听出区别了吗](https://www.v2ex.com/t/782591) `23条评论` `Apple`
 1. [2200g 升级到 5600x， centos7 开机就挂了，请问这种情况如何处理](https://www.v2ex.com/t/782583) `19条评论` `问与答`
 1. [迫于专科学历，想问问那种学历提升方式靠谱](https://www.v2ex.com/t/782568) `17条评论` `问与答`
+1. [V 站上用空气炸锅的小伙伴们，你们怎么清洗机器里面上方出风的那个地方的呀](https://www.v2ex.com/t/782597) `16条评论` `美酒与美食`
+1. [Apple Music 怎么 BUG 这么多，要被气晕了😓](https://www.v2ex.com/t/782596) `16条评论` `Apple`
 1. [mysql 表设计规范讨论](https://www.v2ex.com/t/782576) `16条评论` `MySQL`
 1. [成年人的快乐](https://www.v2ex.com/t/782572) `16条评论` `美酒与美食`
 1. [各位 V 友，马上要上大学，预算 5K 左右有什么笔记本推荐的，可能选计算机相关专业~](https://www.v2ex.com/t/782549) `15条评论` `硬件`
-1. [Apple Music 怎么 BUG 这么多，要被气晕了😓](https://www.v2ex.com/t/782596) `14条评论` `Apple`
 1. [印象笔记的广告推送是真的恶心](https://www.v2ex.com/t/782566) `13条评论` `全球工单系统`
 1. [苹果的 private relay 功能是通过 ip 还是通过 id 来进行限制](https://www.v2ex.com/t/782547) `13条评论` `Apple`
 1. [[腾讯云一折起]1 核 2G 三年仅 200 多 2 核 4G 三年仅 500 多[腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/782544) `13条评论` `优惠信息`
 1. [不懂就问，如何改善一下代码](https://www.v2ex.com/t/782537) `13条评论` `问与答`
 1. [手里的 K20 在 MIUI 的加持下感觉越来越卡](https://www.v2ex.com/t/782599) `12条评论` `Android`
 1. [求大佬们推荐一下 无线吸尘器！](https://www.v2ex.com/t/782590) `12条评论` `问与答`
+1. [京准达和京准取有存在的必要吗？](https://www.v2ex.com/t/782582) `12条评论` `京东`
 1. [吐槽一下 iOS 15 的 Safari](https://www.v2ex.com/t/782534) `12条评论` `iOS`
 1. [6s 升级到 iOS 15 丝般顺滑](https://www.v2ex.com/t/782545) `11条评论` `Apple`
 1. [Monterey 的 AirPlay to mac 支持把 Mac 做为外置显示器了](https://www.v2ex.com/t/782561) `10条评论` `macOS`
-1. [找一部电影，有没有牛人知道的](https://www.v2ex.com/t/782536) `9条评论` `电影`
-1. [Netflix，土区，季付 30](https://www.v2ex.com/t/782608) `8条评论` `Netflix`
 
-数据更新于 2021-06-10 04:46:15
+数据更新于 2021-06-10 05:20:31
 
 <!-- TODAY END -->
 
