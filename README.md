@@ -31,7 +31,7 @@
 1. [Epic 平台 6 月 10 日免费送出的游戏《控制》（Control）](https://www.v2ex.com/t/782791) `16条评论` `游戏`
 1. [尴尬了😓 rm: No space left on device](https://www.v2ex.com/t/782999) `15条评论` `macOS`
 
-数据更新于 2021-06-11 20:24:48
+数据更新于 2021-06-11 20:37:16
 
 <!-- TODAY END -->
 
