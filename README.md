@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183) `48条评论` `分享发现`
+1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183) `52条评论` `分享发现`
 1. [OnePlus 9 Pro 还是 Mi 11 pro？](https://www.v2ex.com/t/783185) `30条评论` `问与答`
 1. [火绒的杀毒，比 win10 自带的要好么？可是，我只想要火绒的网络进程监控和控制，怎么办？](https://www.v2ex.com/t/783173) `22条评论` `信息安全`
 1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175) `21条评论` `问与答`
@@ -20,16 +20,17 @@
 1. [go 有什么日志库，可以让日志文件按小时/天滚动？](https://www.v2ex.com/t/783180) `10条评论` `Go`
 1. [久坐引起的慢性劳损是否算工伤？](https://www.v2ex.com/t/783209) `9条评论` `问与答`
 1. [大佬您会下载吗？菜鸟本人开发的一款针对 iPhone / iPad 的 V2EX 客户端： [V2EX Pro] ，近日即将上线！](https://www.v2ex.com/t/783154) `9条评论` `推广`
+1. [为什么 3600MHz 的内存不叫 3.6GHz ， 而 CPU 却恰恰相反？](https://www.v2ex.com/t/783212) `8条评论` `计算机`
 1. [因领导节后视察工作，端午被叫回去加班](https://www.v2ex.com/t/783172) `8条评论` `职场话题`
+1. [教育网 ipv6 与普通 ipv6 互相访问](https://www.v2ex.com/t/783205) `7条评论` `宽带症候群`
 1. [又来求 V 友推荐了](https://www.v2ex.com/t/783167) `7条评论` `问与答`
 1. [一次非常不愉快的闲鱼购买贝壳云 P1 的交易分享](https://www.v2ex.com/t/783218) `6条评论` `分享发现`
-1. [为什么 3600MHz 的内存不叫 3.6GHz ， 而 CPU 却恰恰相反？](https://www.v2ex.com/t/783212) `6条评论` `计算机`
 1. [杀毒软件突然提示“the network‘s traffic has been hijacked”](https://www.v2ex.com/t/783208) `6条评论` `问与答`
-1. [教育网 ipv6 与普通 ipv6 互相访问](https://www.v2ex.com/t/783205) `6条评论` `宽带症候群`
 1. [锐龙黑苹果能不能用 parallels desktop？ Adobe 全家桶呢？](https://www.v2ex.com/t/783196) `6条评论` `macOS`
+1. [CentOS 7.9 root 账号被提示"Operation not permitted"，没弄明白怎么回事请教真大佬指点](https://www.v2ex.com/t/783186) `6条评论` `Linux`
 1. [appcode 为什么这么卡](https://www.v2ex.com/t/783162) `6条评论` `macOS`
 
-数据更新于 2021-06-13 09:27:30
+数据更新于 2021-06-13 09:44:43
 
 <!-- TODAY END -->
 
