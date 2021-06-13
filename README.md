@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183) `83条评论` `分享发现`
+1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183) `92条评论` `分享发现`
+1. [走路能减肥吗](https://www.v2ex.com/t/783227) `36条评论` `生活`
 1. [火绒的杀毒，比 win10 自带的要好么？可是，我只想要火绒的网络进程监控和控制，怎么办？](https://www.v2ex.com/t/783173) `35条评论` `信息安全`
 1. [OnePlus 9 Pro 还是 Mi 11 pro？](https://www.v2ex.com/t/783185) `35条评论` `问与答`
-1. [走路能减肥吗](https://www.v2ex.com/t/783227) `34条评论` `生活`
-1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175) `25条评论` `问与答`
+1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175) `27条评论` `问与答`
 1. [iPad Pro 的妙控键盘（带触摸板的那款）实际的使用体验如何 ？](https://www.v2ex.com/t/783170) `24条评论` `iPad`
 1. [Mac 下有支持 Dolby Vision 的本地播放器么？](https://www.v2ex.com/t/783200) `22条评论` `Apple`
-1. [为什么 mysql 要搞出 having where on 三个关键字？](https://www.v2ex.com/t/783215) `20条评论` `程序员`
+1. [为什么 mysql 要搞出 having where on 三个关键字？](https://www.v2ex.com/t/783215) `21条评论` `程序员`
 1. [君子曰：学不可以已。 建了一个计算机基础知识交流群，欢迎大家](https://www.v2ex.com/t/783152) `20条评论` `微信`
-1. [有什么好用的安卓清理软件吗？](https://www.v2ex.com/t/783231) `13条评论` `问与答`
+1. [有什么好用的安卓清理软件吗？](https://www.v2ex.com/t/783231) `14条评论` `问与答`
+1. [如何远程帮助爸妈设置一个新的路由器](https://www.v2ex.com/t/783237) `13条评论` `问与答`
+1. [pip install 怎么都用不了](https://www.v2ex.com/t/783219) `13条评论` `Python`
+1. [现在还有纯 PC 版本的通讯（聊天）工具吗？](https://www.v2ex.com/t/783242) `12条评论` `问与答`
+1. [请问各位麦粉怎样才能录制含内置音源的在线视频？](https://www.v2ex.com/t/783233) `12条评论` `macOS`
 1. [在 V 站经常看到有人说 Total commander 好用，但新上手看着界面非常迷惘，具体如何好用，如何上手？](https://www.v2ex.com/t/783181) `12条评论` `问与答`
 1. [厨房的垃圾桶里有很多小飞虫，怎么解决？](https://www.v2ex.com/t/783161) `12条评论` `知乎`
-1. [如何远程帮助爸妈设置一个新的路由器](https://www.v2ex.com/t/783237) `11条评论` `问与答`
-1. [pip install 怎么都用不了](https://www.v2ex.com/t/783219) `10条评论` `Python`
+1. [Windows 10 家庭版和专业版将在 2025 年 10 月 14 日结束支持](https://www.v2ex.com/t/783228) `10条评论` `分享发现`
 1. [在校大学生如何学习大数据、云原生、微服务、分布式和 DevOps 等技术？](https://www.v2ex.com/t/783217) `10条评论` `问与答`
 1. [为什么 3600MHz 的内存不叫 3.6GHz ， 而 CPU 却恰恰相反？](https://www.v2ex.com/t/783212) `10条评论` `计算机`
 1. [教育网 ipv6 与普通 ipv6 互相访问](https://www.v2ex.com/t/783205) `10条评论` `宽带症候群`
 1. [锐龙黑苹果能不能用 parallels desktop？ Adobe 全家桶呢？](https://www.v2ex.com/t/783196) `10条评论` `macOS`
 1. [go 有什么日志库，可以让日志文件按小时/天滚动？](https://www.v2ex.com/t/783180) `10条评论` `Go`
-1. [请问各位麦粉怎样才能录制含内置音源的在线视频？](https://www.v2ex.com/t/783233) `9条评论` `macOS`
-1. [久坐引起的慢性劳损是否算工伤？](https://www.v2ex.com/t/783209) `9条评论` `问与答`
-1. [CentOS 7.9 root 账号被提示"Operation not permitted"，没弄明白怎么回事请教真大佬指点](https://www.v2ex.com/t/783186) `9条评论` `Linux`
 
-数据更新于 2021-06-13 13:12:04
+数据更新于 2021-06-13 13:41:04
 
 <!-- TODAY END -->
 
