@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183) `93条评论` `分享发现`
-1. [走路能减肥吗](https://www.v2ex.com/t/783227) `38条评论` `生活`
+1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183) `94条评论` `分享发现`
+1. [走路能减肥吗](https://www.v2ex.com/t/783227) `39条评论` `生活`
 1. [火绒的杀毒，比 win10 自带的要好么？可是，我只想要火绒的网络进程监控和控制，怎么办？](https://www.v2ex.com/t/783173) `35条评论` `信息安全`
 1. [OnePlus 9 Pro 还是 Mi 11 pro？](https://www.v2ex.com/t/783185) `35条评论` `问与答`
-1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175) `27条评论` `问与答`
+1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175) `28条评论` `问与答`
 1. [iPad Pro 的妙控键盘（带触摸板的那款）实际的使用体验如何 ？](https://www.v2ex.com/t/783170) `24条评论` `iPad`
-1. [Mac 下有支持 Dolby Vision 的本地播放器么？](https://www.v2ex.com/t/783200) `23条评论` `Apple`
+1. [Mac 下有支持 Dolby Vision 的本地播放器么？](https://www.v2ex.com/t/783200) `24条评论` `Apple`
 1. [为什么 mysql 要搞出 having where on 三个关键字？](https://www.v2ex.com/t/783215) `21条评论` `程序员`
+1. [pip install 怎么都用不了](https://www.v2ex.com/t/783219) `20条评论` `Python`
 1. [君子曰：学不可以已。 建了一个计算机基础知识交流群，欢迎大家](https://www.v2ex.com/t/783152) `20条评论` `微信`
-1. [pip install 怎么都用不了](https://www.v2ex.com/t/783219) `19条评论` `Python`
-1. [现在还有纯 PC 版本的通讯（聊天）工具吗？](https://www.v2ex.com/t/783242) `15条评论` `问与答`
+1. [现在还有纯 PC 版本的通讯（聊天）工具吗？](https://www.v2ex.com/t/783242) `16条评论` `问与答`
 1. [有什么好用的安卓清理软件吗？](https://www.v2ex.com/t/783231) `14条评论` `问与答`
 1. [如何远程帮助爸妈设置一个新的路由器](https://www.v2ex.com/t/783237) `13条评论` `问与答`
 1. [请问各位麦粉怎样才能录制含内置音源的在线视频？](https://www.v2ex.com/t/783233) `12条评论` `macOS`
@@ -31,7 +31,7 @@
 1. [锐龙黑苹果能不能用 parallels desktop？ Adobe 全家桶呢？](https://www.v2ex.com/t/783196) `10条评论` `macOS`
 1. [go 有什么日志库，可以让日志文件按小时/天滚动？](https://www.v2ex.com/t/783180) `10条评论` `Go`
 
-数据更新于 2021-06-13 13:53:47
+数据更新于 2021-06-13 14:03:49
 
 <!-- TODAY END -->
 
