@@ -8,25 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [不给权限不让用是不是属于开发者的权利？](https://www.v2ex.com/t/783290) `108条评论` `问与答`
-1. [网站被攻击几天时间收到谷歌云 3 万美金的流量账单，怎么办？](https://www.v2ex.com/t/783287) `55条评论` `云计算`
+1. [不给权限不让用是不是属于开发者的权利？](https://www.v2ex.com/t/783290) `109条评论` `问与答`
+1. [网站被攻击几天时间收到谷歌云 3 万美金的流量账单，怎么办？](https://www.v2ex.com/t/783287) `58条评论` `云计算`
 1. [苹果 M1 mba 自带的 USB-C 充电线是没有数据传输视频信号能力的， Only 充电。](https://www.v2ex.com/t/783293) `40条评论` `Apple`
-1. [彦祖们，写 CRUD 的时候会使用设计模式吗？](https://www.v2ex.com/t/783300) `22条评论` `程序员`
+1. [彦祖们，写 CRUD 的时候会使用设计模式吗？](https://www.v2ex.com/t/783300) `23条评论` `程序员`
 1. [继运营商屏蔽后 Cloudflare Warp+ 被教育网也屏蔽了？](https://www.v2ex.com/t/783276) `18条评论` `宽带症候群`
+1. [2018 iPad Pro 12.9 键盘的选择](https://www.v2ex.com/t/783288) `18条评论` `iPad`
 1. [monyhar 浏览器](https://www.v2ex.com/t/783294) `17条评论` `分享发现`
-1. [2018 iPad Pro 12.9 键盘的选择](https://www.v2ex.com/t/783288) `17条评论` `iPad`
+1. [量化交易 是不是 皇帝的新衣？ 回测是不是自我陶醉？](https://www.v2ex.com/t/783325) `12条评论` `问与答`
 1. [求个 IPadOS 终端推荐](https://www.v2ex.com/t/783299) `12条评论` `iPad`
 1. [分享一下我们用代码来管理多个 AWS 账号的实践](https://www.v2ex.com/t/783289) `12条评论` `Amazon Web Services`
-1. [量化交易 是不是 皇帝的新衣？ 回测是不是自我陶醉？](https://www.v2ex.com/t/783325) `11条评论` `问与答`
+1. [后端接口如何做版本控制？](https://www.v2ex.com/t/783333) `11条评论` `程序员`
+1. [有无使用 M1 macbook pro 的前端开发彦祖，你们用 webstorm 会很卡吗？](https://www.v2ex.com/t/783313) `11条评论` `MacBook Pro`
 1. [有没有这样的一款无线 wifi 产品](https://www.v2ex.com/t/783306) `11条评论` `问与答`
 1. [萌新前端怎么进阶](https://www.v2ex.com/t/783314) `10条评论` `前端开发`
-1. [有无使用 M1 macbook pro 的前端开发彦祖，你们用 webstorm 会很卡吗？](https://www.v2ex.com/t/783313) `10条评论` `MacBook Pro`
 1. [程序员对任天堂新出的编程游戏怎么看《附带导航！一做就上手 第一次的游戏程式设计》](https://www.v2ex.com/t/783279) `9条评论` `Nintendo Switch`
 1. [电信融合套餐里的全屋 wifi 和天翼看家能不能不装？](https://www.v2ex.com/t/783292) `8条评论` `宽带症候群`
 1. [大家觉得考取微软认证证书，能否对跳槽起到一些帮助？](https://www.v2ex.com/t/783304) `7条评论` `职场话题`
-1. [后端接口如何做版本控制？](https://www.v2ex.com/t/783333) `6条评论` `程序员`
 
-数据更新于 2021-06-14 12:07:24
+数据更新于 2021-06-14 12:46:07
 
 <!-- TODAY END -->
 
