@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想换小米 11pro，有用过的进来说说优缺点](https://www.v2ex.com/t/783663) `50条评论` `Android`
-1. [618 电信的宽带费用是真坚挺啊。续费 2 年居然是 1578](https://www.v2ex.com/t/783680) `31条评论` `宽带症候群`
+1. [想换小米 11pro，有用过的进来说说优缺点](https://www.v2ex.com/t/783663) `59条评论` `Android`
+1. [618 电信的宽带费用是真坚挺啊。续费 2 年居然是 1578](https://www.v2ex.com/t/783680) `41条评论` `宽带症候群`
 1. [M1 扩展坞推荐](https://www.v2ex.com/t/783638) `21条评论` `MacBook Pro`
+1. [老铁们， M1 出现黑屏问题，但售后找不出问题，怎么才能让苹果换新呢？](https://www.v2ex.com/t/783702) `20条评论` `程序员`
 1. [家里一台 nuc 24 小时不关机的那种有必要买个 UPS 吗?](https://www.v2ex.com/t/783637) `19条评论` `问与答`
 1. [[抽码] Android 上一键管理维护 Linux 的 App](https://www.v2ex.com/t/783655) `18条评论` `分享创造`
+1. [网传 win11 辟谣(?)](https://www.v2ex.com/t/783699) `17条评论` `Windows`
 1. [用 XMind 整理了 Linux 操作系统，网络， C++， Golang 以及数据库的一些设计，希望大家喜欢。](https://www.v2ex.com/t/783649) `17条评论` `程序员`
+1. [求助！ MacOs 访问不同域名用不同的网络接口](https://www.v2ex.com/t/783718) `16条评论` `程序员`
+1. [2021 年了， Windows 的高 DPI 缩放还是个笑话](https://www.v2ex.com/t/783713) `16条评论` `Windows`
 1. [mysql delete 操作速度慢！](https://www.v2ex.com/t/783664) `16条评论` `MySQL`
-1. [网传 win11 辟谣(?)](https://www.v2ex.com/t/783699) `15条评论` `Windows`
 1. [被低代码坑得不行，领导坚持要用咋办？](https://www.v2ex.com/t/783675) `15条评论` `程序员`
-1. [2021 年了， Windows 的高 DPI 缩放还是个笑话](https://www.v2ex.com/t/783713) `14条评论` `Windows`
 1. [M1 iPad 理论上是不是可以刷入 macos 了？](https://www.v2ex.com/t/783673) `14条评论` `iPad`
 1. [现在个人信息被滥用,身份证上加水印合法吗?](https://www.v2ex.com/t/783639) `14条评论` `问与答`
 1. [海外安卓开发就是舒服](https://www.v2ex.com/t/783635) `14条评论` `Android`
+1. [offer 怎么选择，还是说离职了继续面，垃圾学历有希望进好公司吗](https://www.v2ex.com/t/783721) `13条评论` `职场话题`
+1. [迫于 apple music 无损， MBP 16 适用的 type c 解码线/设备，请推荐一下，谢谢](https://www.v2ex.com/t/783712) `12条评论` `MacBook Pro`
+1. [[讨论] 私有化交付如何做到规模化](https://www.v2ex.com/t/783696) `12条评论` `程序员`
+1. [你们有习惯写 API 接口测试用例吗？](https://www.v2ex.com/t/783692) `12条评论` `程序员`
 1. [迫于索尼大法的电视遥控器不太好用，看看广大 V 友都有什么解决方案？](https://www.v2ex.com/t/783658) `12条评论` `问与答`
 1. [[SOS] Apple Music 有没有办法重装](https://www.v2ex.com/t/783630) `12条评论` `Apple`
 1. [讨论向，你认为组队学习和连麦学习是否是伪需求](https://www.v2ex.com/t/783686) `11条评论` `问与答`
-1. [迫于 apple music 无损， MBP 16 适用的 type c 解码线/设备，请推荐一下，谢谢](https://www.v2ex.com/t/783712) `10条评论` `MacBook Pro`
-1. [老铁们， M1 出现黑屏问题，但售后找不出问题，怎么才能让苹果换新呢？](https://www.v2ex.com/t/783702) `10条评论` `程序员`
-1. [你们有习惯写 API 接口测试用例吗？](https://www.v2ex.com/t/783692) `10条评论` `程序员`
-1. [offer 选择，坐标厦门](https://www.v2ex.com/t/783631) `10条评论` `职场话题`
-1. [小程序开发外包， CMS 资讯类](https://www.v2ex.com/t/783636) `9条评论` `程序员`
-1. [迫于键盘回车键失灵，求大家推荐一个键盘](https://www.v2ex.com/t/783689) `8条评论` `机械键盘`
 
-数据更新于 2021-06-16 06:06:12
+数据更新于 2021-06-16 06:35:33
 
 <!-- TODAY END -->
 
