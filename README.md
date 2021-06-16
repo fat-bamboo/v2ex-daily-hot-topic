@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想换小米 11pro，有用过的进来说说优缺点](https://www.v2ex.com/t/783663) `41条评论` `Android`
+1. [想换小米 11pro，有用过的进来说说优缺点](https://www.v2ex.com/t/783663) `42条评论` `Android`
 1. [618 电信的宽带费用是真坚挺啊。续费 2 年居然是 1578](https://www.v2ex.com/t/783680) `26条评论` `宽带症候群`
 1. [M1 扩展坞推荐](https://www.v2ex.com/t/783638) `21条评论` `MacBook Pro`
 1. [家里一台 nuc 24 小时不关机的那种有必要买个 UPS 吗?](https://www.v2ex.com/t/783637) `19条评论` `问与答`
@@ -22,16 +22,16 @@
 1. [迫于索尼大法的电视遥控器不太好用，看看广大 V 友都有什么解决方案？](https://www.v2ex.com/t/783658) `12条评论` `问与答`
 1. [[SOS] Apple Music 有没有办法重装](https://www.v2ex.com/t/783630) `12条评论` `Apple`
 1. [offer 选择，坐标厦门](https://www.v2ex.com/t/783631) `10条评论` `职场话题`
+1. [讨论向，你认为组队学习和连麦学习是否是伪需求](https://www.v2ex.com/t/783686) `9条评论` `问与答`
 1. [小程序开发外包， CMS 资讯类](https://www.v2ex.com/t/783636) `9条评论` `程序员`
 1. [网传 win11 辟谣(?)](https://www.v2ex.com/t/783699) `8条评论` `Windows`
 1. [Makefile 教程（译）](https://www.v2ex.com/t/783648) `8条评论` `程序员`
-1. [讨论向，你认为组队学习和连麦学习是否是伪需求](https://www.v2ex.com/t/783686) `7条评论` `问与答`
 1. [iWatch 4 微信问题](https://www.v2ex.com/t/783660) `7条评论` `Apple`
 1. [创业公司招聘一名熟悉 Web 端 3D 的人员](https://www.v2ex.com/t/783632) `7条评论` `酷工作`
 1. [耍猴家手机 nfc 1-15 扇区只能他家自己的钱包可以写入???](https://www.v2ex.com/t/783679) `6条评论` `分享发现`
 1. [有关 Go 语言中 Rand 函数的一行代码](https://www.v2ex.com/t/783657) `6条评论` `问与答`
 
-数据更新于 2021-06-16 04:41:00
+数据更新于 2021-06-16 05:03:16
 
 <!-- TODAY END -->
 
