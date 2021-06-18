@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [随想，直播购物，昨晚看了下维亚的直播间，这么购物效率不是很低吗？](https://www.v2ex.com/t/784119) `61条评论` `随想`
-1. [国外就没有类似 115 的给力离线下载神器吗？](https://www.v2ex.com/t/784123) `39条评论` `问与答`
-1. [现在买 airpods pro 是不是 49 年入国军](https://www.v2ex.com/t/784150) `34条评论` `Apple`
+1. [国外就没有类似 115 的给力离线下载神器吗？](https://www.v2ex.com/t/784123) `40条评论` `问与答`
+1. [现在买 airpods pro 是不是 49 年入国军](https://www.v2ex.com/t/784150) `38条评论` `Apple`
 1. [为了研究房屋买卖，验证想法，我转行做了房产中介](https://www.v2ex.com/t/784160) `29条评论` `奇思妙想`
 1. [怎么拒绝使用菜鸟驿站](https://www.v2ex.com/t/784157) `28条评论` `问与答`
 1. [分享一下，卷烟转电子 2 周的体验](https://www.v2ex.com/t/784143) `27条评论` `分享发现`
@@ -19,19 +19,19 @@
 1. [继 5 月份发帖求助如何快速降低 iPhone 电池健康度后（82%），一个月过去了，竟然又回到了 91%](https://www.v2ex.com/t/784130) `16条评论` `iPhone`
 1. [会 golang， Java ， node 同时想赚点外快的朋友可以联系我](https://www.v2ex.com/t/784136) `14条评论` `酷工作`
 1. [吃了几天氢溴酸西酞普兰片](https://www.v2ex.com/t/784135) `13条评论` `随想`
+1. [一大早 deepin 崩溃，准备把开发环境切换回 win10 了。](https://www.v2ex.com/t/784199) `12条评论` `Linux`
 1. [前端如何获取当前用户名和其他用户信息 需要一个 单独的 api 吗](https://www.v2ex.com/t/784138) `12条评论` `程序员`
 1. [请问有没有那种自适应的表带呀？](https://www.v2ex.com/t/784178) `11条评论` ` WATCH`
 1. [美版 MBA M1 跟国行有什么区别吗？](https://www.v2ex.com/t/784148) `11条评论` `Apple`
 1. [Epic 免费送分手厨房 2《Overcooked!2》](https://www.v2ex.com/t/784156) `10条评论` `游戏`
+1. [vscode 快捷键请教。](https://www.v2ex.com/t/784187) `9条评论` `Visual Studio Code`
 1. [受消费主义迫害，想买 iPhone 12 mini，转身把那点钱在支付宝里买了 5000 的理财产品，竟有一种购物的快感。](https://www.v2ex.com/t/784145) `9条评论` `随想`
 1. [昨天引发了一场有关 MVP（最小可行性产品）大战，到底哪种是对的？](https://www.v2ex.com/t/784144) `9条评论` `程序员`
 1. [印象笔记是不是快 Over 了？](https://www.v2ex.com/t/784177) `8条评论` `Evernote`
 1. [win10 切换桌面时副屏不切换的功能？](https://www.v2ex.com/t/784137) `8条评论` `问与答`
 1. [请教一个问题，做中间件的意义是什么？](https://www.v2ex.com/t/784162) `7条评论` `Node.js`
-1. [使用 thinkphp6.0 时遇到一个报错，请问怎么解决？](https://www.v2ex.com/t/784152) `7条评论` `PHP`
-1. [Watch 和 iPhone 都升级到了 Dev beta，单独降级手机回到 iOS14.7 的话，还能配对吗？](https://www.v2ex.com/t/784129) `7条评论` `Apple`
 
-数据更新于 2021-06-18 05:30:07
+数据更新于 2021-06-18 05:41:32
 
 <!-- TODAY END -->
 
