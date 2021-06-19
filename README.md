@@ -19,19 +19,19 @@
 1. [测试工程师的薪资天花板能到多少？](https://www.v2ex.com/t/784430) `13条评论` `职场话题`
 1. [这算是变相“杀熟”吗？](https://www.v2ex.com/t/784420) `11条评论` `问与答`
 1. [问下大家目前用的是哪款笔记本支架](https://www.v2ex.com/t/784406) `11条评论` `macOS`
+1. [话说 airpods 一旦配对上 windows 或者安卓之后跟 iPhone 的连接就会有问题。。。](https://www.v2ex.com/t/784478) `9条评论` `Apple`
 1. [qnap 的 nas 怎么用？](https://www.v2ex.com/t/784456) `9条评论` `硬件`
 1. [请教个 mesh 问题，家里只拉进一根网线](https://www.v2ex.com/t/784446) `9条评论` `宽带症候群`
 1. [苹果 MacBoo Pro 换个键盘需要多久？](https://www.v2ex.com/t/784440) `9条评论` `Apple`
 1. [从游戏作弊延申出来的关于软件保护的奇怪的想法](https://www.v2ex.com/t/784434) `8条评论` `奇思妙想`
 1. [准研究生(nlp 方向)，适合入手 M1 的 mba 吗？](https://www.v2ex.com/t/784403) `8条评论` `Apple`
 1. [请教一个 MySQL 排序问题](https://www.v2ex.com/t/784469) `7条评论` `MySQL`
+1. [妙控板 2 深空灰官网已下架](https://www.v2ex.com/t/784465) `7条评论` `Apple`
 1. [请问一下这是什么加密呀，看半天没看懂](https://www.v2ex.com/t/784423) `7条评论` `程序员`
 1. [手机里相册图片的保存方式](https://www.v2ex.com/t/784402) `7条评论` `iPhone`
-1. [妙控板 2 深空灰官网已下架](https://www.v2ex.com/t/784465) `6条评论` `Apple`
 1. [Mac 大量不同的端口请求 imap.gmail.com](https://www.v2ex.com/t/784453) `6条评论` `macOS`
-1. [git rebase 与 merge 到底有什么区别](https://www.v2ex.com/t/784433) `6条评论` `问与答`
 
-数据更新于 2021-06-19 09:27:58
+数据更新于 2021-06-19 09:45:54
 
 <!-- TODAY END -->
 
