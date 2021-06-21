@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [原来 Linux 内核贡献第二是这么来的](https://www.v2ex.com/t/784789) `221条评论` `程序员`
+1. [原来 Linux 内核贡献第二是这么来的](https://www.v2ex.com/t/784789) `223条评论` `程序员`
 1. [感觉手表除了跑步没别的用了。](https://www.v2ex.com/t/784736) `130条评论` ` WATCH`
 1. [求助：帮我女儿取个名字，姓伍，名字文艺、好听就好](https://www.v2ex.com/t/784893) `82条评论` `问与答`
 1. [想落户太难了！](https://www.v2ex.com/t/784802) `63条评论` `上海`
+1. [求 v 友推荐一个价值在硬件上而不是软件上的 nas 机器](https://www.v2ex.com/t/784746) `51条评论` `NAS`
 1. [同一个 WIFI，如何让别人看视频不影响我玩儿游戏](https://www.v2ex.com/t/784747) `50条评论` `宽带症候群`
-1. [求 v 友推荐一个价值在硬件上而不是软件上的 nas 机器](https://www.v2ex.com/t/784746) `49条评论` `NAS`
 1. [大龄程序员，未来在哪里？该往什么方向发展呢？](https://www.v2ex.com/t/784754) `49条评论` `程序员`
 1. [“上火”应该怎么翻译比较好呢？](https://www.v2ex.com/t/784881) `48条评论` `翻译`
 1. [各位猿哥，敢问坐久了，屁股愈来愈大怎么办](https://www.v2ex.com/t/784727) `48条评论` `程序员`
@@ -27,11 +27,11 @@
 1. [采用 CI/CD 方式部署的服务，如何私有化部署到客户内网](https://www.v2ex.com/t/784729) `21条评论` `程序员`
 1. [前端人员，现在想学一门后端，请大伙指教指教](https://www.v2ex.com/t/784813) `19条评论` `问与答`
 1. [影响你使用 Android/iOS 作为主力机的最大阻碍是？](https://www.v2ex.com/t/784866) `18条评论` `分享发现`
+1. [M1 连上 wifi6，速度还不如 macbook pro 2018 的 wifi5](https://www.v2ex.com/t/784916) `17条评论` `MacBook Air`
 1. [初级后端的疑惑，如何估算接口 qps，以及 redis 占用多少容量， nginx 能抗多少并发](https://www.v2ex.com/t/784806) `17条评论` `程序员`
 1. [刚起步的 Web 项目（后端 Go），打算用 React 替换 jQuery，要不要上 TypeScript](https://www.v2ex.com/t/784774) `17条评论` `Go`
-1. [M1 连上 wifi6，速度还不如 macbook pro 2018 的 wifi5](https://www.v2ex.com/t/784916) `16条评论` `MacBook Air`
 
-数据更新于 2021-06-21 15:04:45
+数据更新于 2021-06-21 15:31:11
 
 <!-- TODAY END -->
 
