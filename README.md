@@ -8,10 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Apple Watch 上面的喜马拉雅是个什么鬼玩意儿](https://www.v2ex.com/t/785444) `7条评论` `Apple`
-1. [有关 Python 的一个问题。](https://www.v2ex.com/t/785441) `6条评论` `Python`
+1. [服务器系统选择，都在说 Debian 好，到底好在哪？](https://www.v2ex.com/t/785459) `13条评论` `程序员`
+1. [MBP2018 连接有限网络，上传速度慢，只有 7M/s 左右](https://www.v2ex.com/t/785451) `9条评论` `Apple`
+1. [有关 Python 的一个问题。](https://www.v2ex.com/t/785441) `9条评论` `Python`
+1. [有没有 windows 和 iPhone /pad 剪切板和文件同步的方案](https://www.v2ex.com/t/785447) `8条评论` `Apple`
+1. [Apple Watch 上面的喜马拉雅是个什么鬼玩意儿](https://www.v2ex.com/t/785444) `8条评论` `Apple`
+1. [通过官网选择 (个人/学校免费使用) XShell 算不算破解和盗版?](https://www.v2ex.com/t/785449) `6条评论` `问与答`
 
-数据更新于 2021-06-24 01:28:51
+数据更新于 2021-06-24 02:05:46
 
 <!-- TODAY END -->
 
