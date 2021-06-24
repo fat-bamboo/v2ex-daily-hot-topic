@@ -8,16 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [服务器系统选择，都在说 Debian 好，到底好在哪？](https://www.v2ex.com/t/785459) `23条评论` `程序员`
+1. [服务器系统选择，都在说 Debian 好，到底好在哪？](https://www.v2ex.com/t/785459) `24条评论` `程序员`
 1. [通过官网选择 (个人/学校免费使用) XShell 算不算破解和盗版?](https://www.v2ex.com/t/785449) `13条评论` `问与答`
 1. [Apple Watch 上面的喜马拉雅是个什么鬼玩意儿](https://www.v2ex.com/t/785444) `13条评论` `Apple`
 1. [MBP2018 连接有限网络，上传速度慢，只有 7M/s 左右](https://www.v2ex.com/t/785451) `12条评论` `Apple`
-1. [有关 Python 的一个问题。](https://www.v2ex.com/t/785441) `10条评论` `Python`
+1. [有关 Python 的一个问题。](https://www.v2ex.com/t/785441) `11条评论` `Python`
+1. [好些 Win 软件的字体大小都特别小，他们的产品经理眼神都这么好的吗](https://www.v2ex.com/t/785478) `9条评论` `问与答`
 1. [有没有 windows 和 iPhone /pad 剪切板和文件同步的方案](https://www.v2ex.com/t/785447) `9条评论` `Apple`
-1. [好些 Win 软件的字体大小都特别小，他们的产品经理眼神都这么好的吗](https://www.v2ex.com/t/785478) `6条评论` `问与答`
+1. [面试经典题目--公交路线](https://www.v2ex.com/t/785455) `6条评论` `程序员`
 1. [[不懂就问] 为什么 Shopify 这个站的统计可以忽略来自 Postman 的请求](https://www.v2ex.com/t/785452) `6条评论` `问与答`
 
-数据更新于 2021-06-24 02:53:17
+数据更新于 2021-06-24 03:05:38
 
 <!-- TODAY END -->
 
