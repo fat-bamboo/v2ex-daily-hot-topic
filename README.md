@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901) `56条评论` `Windows`
-1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907) `54条评论` `教育`
-1. [抖音电脑版的设计越来越像 Youtube](https://www.v2ex.com/t/785875) `38条评论` `分享发现`
-1. [这些 211 的计算机和杭电计算机选哪个](https://www.v2ex.com/t/785919) `28条评论` `教育`
+1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901) `58条评论` `Windows`
+1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907) `56条评论` `教育`
+1. [抖音电脑版的设计越来越像 Youtube](https://www.v2ex.com/t/785875) `39条评论` `分享发现`
+1. [这些 211 的计算机和杭电计算机选哪个](https://www.v2ex.com/t/785919) `29条评论` `教育`
 1. [我的需求是否需要买一个 apple watch](https://www.v2ex.com/t/785929) `15条评论` ` WATCH`
 1. [网易云音乐网页端登录只能扫码登录了！](https://www.v2ex.com/t/785880) `15条评论` `分享发现`
 1. [迫于学历压力，数学不太好，想问下如何捡起来。](https://www.v2ex.com/t/785874) `15条评论` `问与答`
@@ -20,17 +20,18 @@
 1. [iPhone6s，升级最新的 iOS14.6，体验如何？](https://www.v2ex.com/t/785898) `10条评论` `iPhone`
 1. [有什么学习维修（电工）的视频？](https://www.v2ex.com/t/785921) `9条评论` `问与答`
 1. [工作了读个计算机的在职研究生怎么样？](https://www.v2ex.com/t/785917) `9条评论` `计算机`
+1. [为什么导入浏览器的敏感数据不需要密码？](https://www.v2ex.com/t/785944) `8条评论` `浏览器`
 1. [2021 年 6 月 M1 Mackbook Big Sur 11.4：最新版的 Firefox、Edge 浏览器都比 Safair 快得多](https://www.v2ex.com/t/785915) `8条评论` `macOS`
 1. [m1 macbook 用户，我发现一个 bug](https://www.v2ex.com/t/785888) `8条评论` `macOS`
 1. [ROS 是根据 IP 分流好还是根据域名分流好](https://www.v2ex.com/t/785878) `8条评论` `宽带症候群`
 1. [国内的诸多 app 只能手机号登陆 这就是耍流氓](https://www.v2ex.com/t/785946) `7条评论` `Apple`
-1. [为什么导入浏览器的敏感数据不需要密码？](https://www.v2ex.com/t/785944) `7条评论` `浏览器`
 1. [国内二进制程序分发的问题](https://www.v2ex.com/t/785887) `7条评论` `问与答`
 1. [“Android 系统 Webview”更新困惑](https://www.v2ex.com/t/785879) `7条评论` `Android`
+1. [App Store 充值 9 折优惠又来了 (6/26-7/2)](https://www.v2ex.com/t/785955) `6条评论` `优惠信息`
 1. [遇到个麻烦事，求助 V 友， mac 用过移动硬盘之后，在 win10 上没有写入权限，只能只读](https://www.v2ex.com/t/785925) `6条评论` `问与答`
 1. [关于如何更好的抓包？](https://www.v2ex.com/t/785899) `6条评论` `前端开发`
 
-数据更新于 2021-06-26 09:25:40
+数据更新于 2021-06-26 09:38:55
 
 <!-- TODAY END -->
 
