@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901) `66条评论` `Windows`
-1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907) `63条评论` `教育`
+1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901) `68条评论` `Windows`
+1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907) `65条评论` `教育`
 1. [抖音电脑版的设计越来越像 Youtube](https://www.v2ex.com/t/785875) `43条评论` `分享发现`
-1. [这些 211 的计算机和杭电计算机选哪个](https://www.v2ex.com/t/785919) `37条评论` `教育`
-1. [我的需求是否需要买一个 apple watch](https://www.v2ex.com/t/785929) `18条评论` ` WATCH`
+1. [这些 211 的计算机和杭电计算机选哪个](https://www.v2ex.com/t/785919) `39条评论` `教育`
+1. [我的需求是否需要买一个 apple watch](https://www.v2ex.com/t/785929) `19条评论` ` WATCH`
 1. [迫于学历压力，数学不太好，想问下如何捡起来。](https://www.v2ex.com/t/785874) `18条评论` `问与答`
+1. [App Store 充值 9 折优惠又来了 (6/26-7/2)](https://www.v2ex.com/t/785955) `15条评论` `优惠信息`
 1. [网易云音乐网页端登录只能扫码登录了！](https://www.v2ex.com/t/785880) `15条评论` `分享发现`
-1. [App Store 充值 9 折优惠又来了 (6/26-7/2)](https://www.v2ex.com/t/785955) `14条评论` `优惠信息`
 1. [[普天同庆] 国行 Apple Watch 准备原生支持 ECG 功能了！](https://www.v2ex.com/t/785931) `12条评论` ` WATCH`
 1. [有什么学习维修（电工）的视频？](https://www.v2ex.com/t/785921) `11条评论` `问与答`
 1. [撸了个检测 ssl 证书过期, 并在过期前提醒的工具](https://www.v2ex.com/t/785904) `11条评论` `分享创造`
@@ -31,7 +31,7 @@
 1. [国内二进制程序分发的问题](https://www.v2ex.com/t/785887) `7条评论` `问与答`
 1. [“Android 系统 Webview”更新困惑](https://www.v2ex.com/t/785879) `7条评论` `Android`
 
-数据更新于 2021-06-26 10:52:30
+数据更新于 2021-06-26 11:03:30
 
 <!-- TODAY END -->
 
