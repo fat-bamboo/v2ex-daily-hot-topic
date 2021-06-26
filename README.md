@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901) `84条评论` `Windows`
+1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901) `85条评论` `Windows`
 1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907) `79条评论` `教育`
 1. [这些 211 的计算机和杭电计算机选哪个](https://www.v2ex.com/t/785919) `51条评论` `教育`
 1. [抖音电脑版的设计越来越像 Youtube](https://www.v2ex.com/t/785875) `48条评论` `分享发现`
@@ -16,22 +16,22 @@
 1. [网易云音乐网页端登录只能扫码登录了！](https://www.v2ex.com/t/785880) `22条评论` `分享发现`
 1. [迫于学历压力，数学不太好，想问下如何捡起来。](https://www.v2ex.com/t/785874) `21条评论` `问与答`
 1. [App Store 充值 9 折优惠又来了 (6/26-7/2)](https://www.v2ex.com/t/785955) `18条评论` `优惠信息`
+1. [2021 年 6 月 M1 Mackbook Big Sur 11.4：最新版的 Firefox、Edge 浏览器都比 Safair 快得多](https://www.v2ex.com/t/785915) `17条评论` `macOS`
 1. [实际工作中数据库表设计会遵循范式吗？](https://www.v2ex.com/t/785947) `14条评论` `程序员`
 1. [已经毕业离开成都了不会再回，但走时没注销校园卡套餐里的学生宽带，现在打 10000 号说必须本人身份证营业厅。工信部投诉能管用不？](https://www.v2ex.com/t/785968) `12条评论` `全球工单系统`
 1. [[普天同庆] 国行 Apple Watch 准备原生支持 ECG 功能了！](https://www.v2ex.com/t/785931) `12条评论` ` WATCH`
+1. [用 apple tv 看了一下午的 netflix，体验真心好](https://www.v2ex.com/t/785984) `11条评论` `Apple TV`
 1. [探讨一下微信海量 openid 的存储方法](https://www.v2ex.com/t/785963) `11条评论` `编程`
 1. [为什么导入浏览器的敏感数据不需要密码？](https://www.v2ex.com/t/785944) `11条评论` `浏览器`
 1. [有什么学习维修（电工）的视频？](https://www.v2ex.com/t/785921) `11条评论` `问与答`
 1. [撸了个检测 ssl 证书过期, 并在过期前提醒的工具](https://www.v2ex.com/t/785904) `11条评论` `分享创造`
-1. [用 apple tv 看了一下午的 netflix，体验真心好](https://www.v2ex.com/t/785984) `10条评论` `Apple TV`
 1. [iPhone6s，升级最新的 iOS14.6，体验如何？](https://www.v2ex.com/t/785898) `10条评论` `iPhone`
 1. [工作了读个计算机的在职研究生怎么样？](https://www.v2ex.com/t/785917) `9条评论` `计算机`
 1. [国内的诸多 app 只能手机号登陆 这就是耍流氓](https://www.v2ex.com/t/785946) `9条评论` `Apple`
-1. [2021 年 6 月 M1 Mackbook Big Sur 11.4：最新版的 Firefox、Edge 浏览器都比 Safair 快得多](https://www.v2ex.com/t/785915) `8条评论` `macOS`
 1. [m1 macbook 用户，我发现一个 bug](https://www.v2ex.com/t/785888) `8条评论` `macOS`
 1. [ROS 是根据 IP 分流好还是根据域名分流好](https://www.v2ex.com/t/785878) `8条评论` `宽带症候群`
 
-数据更新于 2021-06-26 14:28:45
+数据更新于 2021-06-26 14:35:15
 
 <!-- TODAY END -->
 
