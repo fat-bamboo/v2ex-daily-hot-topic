@@ -16,15 +16,15 @@
 1. [结婚和爱情有关系吗](https://www.v2ex.com/t/786038) `14条评论` `知乎`
 1. [知名电商搜无人机都被屏蔽了，要搜什么才有？](https://www.v2ex.com/t/786069) `12条评论` `问与答`
 1. [想在网上放一个我自己的变量，能在 C++中快速访问，有好的实现办法吗](https://www.v2ex.com/t/786052) `10条评论` `API`
-1. [我醉了 在北京买房，父母就觉得我不管他们了，不要他们了](https://www.v2ex.com/t/786073) `8条评论` `程序员`
+1. [我醉了 在北京买房，父母就觉得我不管他们了，不要他们了](https://www.v2ex.com/t/786073) `9条评论` `程序员`
 1. [javascript 这么写有什么意义？](https://www.v2ex.com/t/786051) `7条评论` `问与答`
+1. [Magisk 给 boot.img 打过补丁之后，现在 SafetyNet 的 basicIntegrity 无论如何都过不了了吗？](https://www.v2ex.com/t/786029) `7条评论` `Android`
 1. [升级 beta2，但是手机开心电图还是显示区域不支持，怎么搞？](https://www.v2ex.com/t/786012) `7条评论` ` WATCH`
 1. [大家觉得公务员怎么样？](https://www.v2ex.com/t/786066) `6条评论` `问与答`
 1. [Mac 上如何锁定文件类型的默认打开 app？很多应用会去修改](https://www.v2ex.com/t/786031) `6条评论` `macOS`
-1. [Magisk 给 boot.img 打过补丁之后，现在 SafetyNet 的 basicIntegrity 无论如何都过不了了吗？](https://www.v2ex.com/t/786029) `6条评论` `Android`
 1. [这是 javascript 的什么语法](https://www.v2ex.com/t/786022) `6条评论` `问与答`
 
-数据更新于 2021-06-27 09:47:29
+数据更新于 2021-06-27 09:53:48
 
 <!-- TODAY END -->
 
