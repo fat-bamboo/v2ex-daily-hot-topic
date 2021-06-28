@@ -8,16 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [要跑路了，不放心把项目交给别人， xdm 也会有这样的想法吗？](https://www.v2ex.com/t/786146) `37条评论` `程序员`
-1. [下雨天，打工人们怎么才能不迟到？](https://www.v2ex.com/t/786152) `22条评论` `程序员`
-1. [你们钉钉正常吗？](https://www.v2ex.com/t/786159) `17条评论` `问与答`
-1. [这是支 fBao 绕过了通讯录权限还是另外一回事？？](https://www.v2ex.com/t/786137) `13条评论` `Android`
+1. [要跑路了，不放心把项目交给别人， xdm 也会有这样的想法吗？](https://www.v2ex.com/t/786146) `51条评论` `程序员`
+1. [下雨天，打工人们怎么才能不迟到？](https://www.v2ex.com/t/786152) `34条评论` `程序员`
+1. [你们钉钉正常吗？](https://www.v2ex.com/t/786159) `22条评论` `问与答`
+1. [钉钉大面积扑街？](https://www.v2ex.com/t/786171) `17条评论` `程序员`
+1. [这是支 fBao 绕过了通讯录权限还是另外一回事？？](https://www.v2ex.com/t/786137) `17条评论` `Android`
+1. [大家可以关注下钉钉部门的招聘了，这次多的不说， HC 管够](https://www.v2ex.com/t/786167) `12条评论` `问与答`
+1. [shadowrocket url rewrite 如何让 safari 网址栏 Google 搜索从 google.cn 改写为 google.com？](https://www.v2ex.com/t/786157) `12条评论` `Apple`
 1. [cron 表达式中，有办法表达每月最后两天吗？](https://www.v2ex.com/t/786138) `10条评论` `Linux`
-1. [shadowrocket url rewrite 如何让 safari 网址栏 Google 搜索从 google.cn 改写为 google.com？](https://www.v2ex.com/t/786157) `7条评论` `Apple`
+1. [每次打开 Apple Music for Mac 听无损歌 会在第一次出现刺耳的电流声 大家注意⚠️](https://www.v2ex.com/t/786161) `9条评论` `Apple`
+1. [腾讯文档和谷歌文档，孰强孰弱？](https://www.v2ex.com/t/786162) `8条评论` `问与答`
+1. [抛砖引玉，大学的价值在于低成本试错](https://www.v2ex.com/t/786148) `7条评论` `教育`
+1. [没打游戏后，感觉舒服了好多](https://www.v2ex.com/t/786173) `6条评论` `分享发现`
 1. [迫于 Office 365 有两位乘客失联, 寻找两位新乘客(稳定发车第 3 年)](https://www.v2ex.com/t/786145) `6条评论` `优惠信息`
 1. [在 M1 的 Macbook Pro13 是否可以开始体验 win11？](https://www.v2ex.com/t/786143) `6条评论` `MacBook Pro`
 
-数据更新于 2021-06-28 02:16:31
+数据更新于 2021-06-28 02:43:24
 
 <!-- TODAY END -->
 
