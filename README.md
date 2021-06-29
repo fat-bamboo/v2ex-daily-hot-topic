@@ -23,15 +23,15 @@
 1. [注册 ID 或者用户名遇到重复时，你们优先怎么做？](https://www.v2ex.com/t/786534) `21条评论` `问与答`
 1. [自己在微信上搞了个免 App 免广告一键聚合资讯的小程序 [新增订阅功能]](https://www.v2ex.com/t/786387) `21条评论` `分享创造`
 1. [Dota2 出幽鬼至宝了,购买的时候却犹豫了.](https://www.v2ex.com/t/786372) `20条评论` `DotA`
+1. [Google Maps API 被 Google 停用，理由是中国在 Prohibited Territories 清单上](https://www.v2ex.com/t/786548) `19条评论` `Google`
 1. [Windows 11 首个预览版已经可以下载](https://www.v2ex.com/t/786369) `19条评论` `Windows`
-1. [Google Maps API 被 Google 停用，理由是中国在 Prohibited Territories 清单上](https://www.v2ex.com/t/786548) `18条评论` `Google`
 1. [为啥现在有些帖子进不去了](https://www.v2ex.com/t/786562) `18条评论` `程序员`
 1. [Windows 下，怎么设置 cmd、git bash 走代理。。](https://www.v2ex.com/t/786515) `17条评论` `Windows`
 1. [研发用笔记本推荐，价位 8k-1w](https://www.v2ex.com/t/786500) `17条评论` `硬件`
 1. [反正在澳门都能收到珠海的手机信号，如果有人隔海在澳门架设一个大功率的 wifi 锅（淘宝我看到有 100w 的），然后这样子就能在珠海收到信号然后就能上网？](https://www.v2ex.com/t/786563) `16条评论` `宽带症候群`
 1. [买了二手精装房，装了衣柜买了新床，需要晾晒多久才可以住](https://www.v2ex.com/t/786493) `16条评论` `装修`
 
-数据更新于 2021-06-29 23:34:44
+数据更新于 2021-06-29 23:42:40
 
 <!-- TODAY END -->
 
