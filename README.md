@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [换了城市,200%的工资使我的生活水平明显下降了](https://www.v2ex.com/t/786814) `109条评论` `生活`
-1. [我该不该换工作呢?](https://www.v2ex.com/t/786826) `106条评论` `问与答`
-1. [半年开发了一个 Vuejs+serverless 的伪进销存系统，三天跑了 7 个付费客户](https://www.v2ex.com/t/786829) `49条评论` `分享创造`
-1. [现在很多人看源码似乎都是为了面试，纯粹的程序员应该在思考啥？](https://www.v2ex.com/t/786840) `49条评论` `程序员`
+1. [换了城市,200%的工资使我的生活水平明显下降了](https://www.v2ex.com/t/786814) `111条评论` `生活`
+1. [我该不该换工作呢?](https://www.v2ex.com/t/786826) `108条评论` `问与答`
+1. [现在很多人看源码似乎都是为了面试，纯粹的程序员应该在思考啥？](https://www.v2ex.com/t/786840) `52条评论` `程序员`
+1. [半年开发了一个 Vuejs+serverless 的伪进销存系统，三天跑了 7 个付费客户](https://www.v2ex.com/t/786829) `51条评论` `分享创造`
 1. [孩子转学考试， 40 个孩子只收了 2 个](https://www.v2ex.com/t/786845) `47条评论` `问与答`
-1. [你们办公室吵吗？ 怎么解决这个问题？](https://www.v2ex.com/t/786833) `41条评论` `职场话题`
+1. [你们办公室吵吗？ 怎么解决这个问题？](https://www.v2ex.com/t/786833) `42条评论` `职场话题`
+1. [macOS 11.4 出现了无法复制的情况](https://www.v2ex.com/t/786915) `20条评论` `macOS`
 1. [79 年小姑娘征婚帖火了，网友纷纷表示征得到我去吃 SHI！](https://www.v2ex.com/t/786863) `20条评论` `分享发现`
 1. [应届生期望的程序员工作 V.S. 实际的程序员工作](https://www.v2ex.com/t/786821) `20条评论` `程序员`
 1. [Google 推安卓应用的 AAB 格式对国内应用会有什么影响？](https://www.v2ex.com/t/786839) `17条评论` `Android`
+1. [有什么办法让 adb 命令能从电脑给国产手机装 apk 吗？](https://www.v2ex.com/t/786924) `16条评论` `Android`
 1. [C 语言有没有比较方便简单的 http server 库](https://www.v2ex.com/t/786894) `16条评论` `问与答`
-1. [macOS 11.4 出现了无法复制的情况](https://www.v2ex.com/t/786915) `15条评论` `macOS`
+1. [分享一下你的 7 月挑战吧](https://www.v2ex.com/t/786935) `15条评论` ` WATCH`
 1. [老大们集体跑路，我应不应该跑路？](https://www.v2ex.com/t/786847) `15条评论` `职场话题`
 1. [为什么安卓手机不能像 iOS 那样轻松备份？](https://www.v2ex.com/t/786820) `14条评论` `问与答`
 1. [貌似 MAC 系列不支持 win10.](https://www.v2ex.com/t/786897) `13条评论` `iMac`
 1. [VSCode 首個通用串口通信擴展 Serial Port Helper](https://www.v2ex.com/t/786849) `13条评论` `Visual Studio Code`
 1. [关于 App Store 下架软件更新](https://www.v2ex.com/t/786869) `12条评论` `iPhone`
 1. [程序员如何利用下班时间搞钱？](https://www.v2ex.com/t/786843) `12条评论` `问与答`
-1. [有什么办法让 adb 命令能从电脑给国产手机装 apk 吗？](https://www.v2ex.com/t/786924) `11条评论` `Android`
 1. [用码云当博客的图库一段时间后，有些图片会无法访问，果然码云也不靠谱](https://www.v2ex.com/t/786892) `11条评论` `全球工单系统`
 1. [请教下, 用 Python 调用 goroutine 实现的线程池, 做一些 http 请求可行吗](https://www.v2ex.com/t/786883) `11条评论` `Python`
 1. [大家用的什么卡，多少月租？多少通用流量？哪个运营商？目前还可以买到？](https://www.v2ex.com/t/786899) `11条评论` `问与答`
-1. [请教下关于 AirPods Pro 的问题](https://www.v2ex.com/t/786854) `11条评论` `Apple`
 
-数据更新于 2021-07-01 08:05:55
+数据更新于 2021-07-01 08:26:36
 
 <!-- TODAY END -->
 
