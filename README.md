@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [换了城市,200%的工资使我的生活水平明显下降了](https://www.v2ex.com/t/786814) `81条评论` `生活`
-1. [我该不该换工作呢?](https://www.v2ex.com/t/786826) `79条评论` `问与答`
-1. [孩子转学考试， 40 个孩子只收了 2 个](https://www.v2ex.com/t/786845) `44条评论` `问与答`
+1. [我该不该换工作呢?](https://www.v2ex.com/t/786826) `80条评论` `问与答`
+1. [孩子转学考试， 40 个孩子只收了 2 个](https://www.v2ex.com/t/786845) `46条评论` `问与答`
 1. [你们办公室吵吗？ 怎么解决这个问题？](https://www.v2ex.com/t/786833) `28条评论` `程序员`
 1. [79 年小姑娘征婚帖火了，网友纷纷表示征得到我去吃 SHI！](https://www.v2ex.com/t/786863) `20条评论` `分享发现`
 1. [现在很多人看源码似乎都是为了面试，纯粹的程序员应该在思考啥？](https://www.v2ex.com/t/786840) `20条评论` `程序员`
@@ -19,19 +19,19 @@
 1. [Google 推安卓应用的 AAB 格式对国内应用会有什么影响？](https://www.v2ex.com/t/786839) `17条评论` `Android`
 1. [老大们集体跑路，我应不应该跑路？](https://www.v2ex.com/t/786847) `15条评论` `职场话题`
 1. [为什么安卓手机不能像 iOS 那样轻松备份？](https://www.v2ex.com/t/786820) `14条评论` `问与答`
+1. [VSCode 首個通用串口通信擴展 Serial Port Helper](https://www.v2ex.com/t/786849) `12条评论` `程序员`
 1. [程序员如何利用下班时间搞钱？](https://www.v2ex.com/t/786843) `12条评论` `问与答`
 1. [用 Magic Mouse 的各位，你们都用什么鼠标垫？](https://www.v2ex.com/t/786859) `11条评论` `Apple`
-1. [VSCode 首個通用串口通信擴展 Serial Port Helper](https://www.v2ex.com/t/786849) `11条评论` `程序员`
 1. [关于微软陆奇开掉测试这件事儿](https://www.v2ex.com/t/786818) `10条评论` `问与答`
+1. [发现某软件违反了开源协议，是否应该出警](https://www.v2ex.com/t/786846) `9条评论` `分享发现`
 1. [MBP 右侧 typec 口没法输出了](https://www.v2ex.com/t/786836) `9条评论` `Apple`
 1. [Win10 21h1 远程 RDP 10bit 花屏问题](https://www.v2ex.com/t/786858) `8条评论` `Windows`
 1. [请教下关于 AirPods Pro 的问题](https://www.v2ex.com/t/786854) `8条评论` `Apple`
-1. [发现某软件违反了开源协议，是否应该出警](https://www.v2ex.com/t/786846) `8条评论` `分享发现`
 1. [求助，公司路由器已配置 v2ray， iPhone 可以正常访问 google，小米无法访问](https://www.v2ex.com/t/786832) `7条评论` `程序员`
 1. [关于 App Store 下架软件更新](https://www.v2ex.com/t/786869) `6条评论` `iPhone`
 1. [新工作工资比现在的低，值得跳槽吗？](https://www.v2ex.com/t/786852) `6条评论` `问与答`
 
-数据更新于 2021-07-01 04:53:39
+数据更新于 2021-07-01 05:04:05
 
 <!-- TODAY END -->
 
