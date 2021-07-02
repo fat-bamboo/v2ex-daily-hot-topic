@@ -8,10 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [8g 内存 mbp 卡到炸起来](https://www.v2ex.com/t/787036) `12条评论` `MacBook Pro`
-1. [屏幕裂了，我也幵了](https://www.v2ex.com/t/787042) `8条评论` `MacBook Air`
+1. [8g 内存 mbp 卡到炸起来](https://www.v2ex.com/t/787036) `39条评论` `MacBook Pro`
+1. [App Store 京东充值 8.5 折](https://www.v2ex.com/t/787048) `23条评论` `优惠信息`
+1. [[请教] 微服务模式下，如何校验用户是否为新用户？](https://www.v2ex.com/t/787054) `14条评论` `问与答`
+1. [屏幕裂了，我也幵了](https://www.v2ex.com/t/787042) `14条评论` `MacBook Air`
+1. [除了 IIS， windows 上还有什么能用于生产环境的 web 服务器？](https://www.v2ex.com/t/787041) `8条评论` `问与答`
+1. [有用 Royal TSX 的么请教个问题](https://www.v2ex.com/t/787040) `6条评论` `macOS`
 
-数据更新于 2021-07-02 01:31:35
+数据更新于 2021-07-02 02:13:14
 
 <!-- TODAY END -->
 
