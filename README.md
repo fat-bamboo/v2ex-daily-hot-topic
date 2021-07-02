@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-空空如也
+1. [8g 内存 mbp 卡到炸起来](https://www.v2ex.com/t/787036) `12条评论` `MacBook Pro`
+1. [屏幕裂了，我也幵了](https://www.v2ex.com/t/787042) `8条评论` `MacBook Air`
 
-数据更新于 2021-07-02 00:17:25
+数据更新于 2021-07-02 01:31:35
 
 <!-- TODAY END -->
 
