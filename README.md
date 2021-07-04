@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [用现有冰箱做以旧换新更换冰箱， 618 下单至今未收到货](https://www.v2ex.com/t/787399) `43条评论` `问与答`
+1. [用现有冰箱做以旧换新更换冰箱， 618 下单至今未收到货](https://www.v2ex.com/t/787399) `44条评论` `问与答`
 1. [Win10 下最好用的看图软件是？](https://www.v2ex.com/t/787453) `43条评论` `Windows`
 1. [来欣赏下知乎盐选付费内容的推广标题，不能再恶心了](https://www.v2ex.com/t/787416) `32条评论` `知乎`
 1. [求推荐声音比较清脆的机械键盘](https://www.v2ex.com/t/787400) `26条评论` `机械键盘`
 1. [该不该离职？](https://www.v2ex.com/t/787457) `24条评论` `职场话题`
 1. [一直都比较浮躁，感觉生活很单调、无聊，大家进来聊聊吧](https://www.v2ex.com/t/787428) `23条评论` `生活`
+1. [突然发现淘宝开 app 广告没了](https://www.v2ex.com/t/787460) `22条评论` `淘宝`
 1. [2020 intel mbp 还是回到 catalina 舒适](https://www.v2ex.com/t/787412) `22条评论` `macOS`
-1. [突然发现淘宝开 app 广告没了](https://www.v2ex.com/t/787460) `21条评论` `淘宝`
 1. [js 都有 worker 线程，什么时候 Python 也能增强一下线程？](https://www.v2ex.com/t/787433) `19条评论` `Python`
 1. [看新闻说 IOS15 新的隐私功能在中国不可用](https://www.v2ex.com/t/787429) `19条评论` `Apple`
 1. [M1 MacBook Air Clash X 与 AdGuard 无法共存](https://www.v2ex.com/t/787455) `18条评论` `macOS`
@@ -31,7 +31,7 @@
 1. [程序员与料理包](https://www.v2ex.com/t/787491) `10条评论` `随想`
 1. [为什么滴滴每次启动都要获取 root 权限？](https://www.v2ex.com/t/787475) `10条评论` `软件`
 
-数据更新于 2021-07-04 17:51:36
+数据更新于 2021-07-04 18:05:54
 
 <!-- TODAY END -->
 
