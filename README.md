@@ -14,8 +14,8 @@
 1. [求推荐声音比较清脆的机械键盘](https://www.v2ex.com/t/787400) `26条评论` `机械键盘`
 1. [该不该离职？](https://www.v2ex.com/t/787457) `25条评论` `职场话题`
 1. [一直都比较浮躁，感觉生活很单调、无聊，大家进来聊聊吧](https://www.v2ex.com/t/787428) `24条评论` `生活`
+1. [2020 intel mbp 还是回到 catalina 舒适](https://www.v2ex.com/t/787412) `23条评论` `macOS`
 1. [突然发现淘宝开 app 广告没了](https://www.v2ex.com/t/787460) `22条评论` `淘宝`
-1. [2020 intel mbp 还是回到 catalina 舒适](https://www.v2ex.com/t/787412) `22条评论` `macOS`
 1. [js 都有 worker 线程，什么时候 Python 也能增强一下线程？](https://www.v2ex.com/t/787433) `19条评论` `Python`
 1. [看新闻说 IOS15 新的隐私功能在中国不可用](https://www.v2ex.com/t/787429) `19条评论` `Apple`
 1. [M1 MacBook Air Clash X 与 AdGuard 无法共存](https://www.v2ex.com/t/787455) `18条评论` `macOS`
@@ -31,7 +31,7 @@
 1. [深圳有没有养龟的呀](https://www.v2ex.com/t/787468) `11条评论` `问与答`
 1. [100 元找个人优化单页网站代码](https://www.v2ex.com/t/787431) `11条评论` `前端优化`
 
-数据更新于 2021-07-04 21:22:32
+数据更新于 2021-07-04 21:35:29
 
 <!-- TODAY END -->
 
