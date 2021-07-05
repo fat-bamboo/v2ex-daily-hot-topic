@@ -16,7 +16,7 @@
 1. [有没有人觉得电脑端的输入法都很难用?](https://www.v2ex.com/t/787592) `76条评论` `分享发现`
 1. [这 postman 启动速度比 IDE 还慢](https://www.v2ex.com/t/787560) `63条评论` `程序员`
 1. [求推荐一个城市独居工作生活（国内国外都行）](https://www.v2ex.com/t/787601) `57条评论` `问与答`
-1. [Windows Terminal 的性能有多烂](https://www.v2ex.com/t/787595) `47条评论` `Windows`
+1. [Windows Terminal 的性能有多烂](https://www.v2ex.com/t/787595) `48条评论` `Windows`
 1. [知乎大家觉得多久死？现在感觉已经彻底烂透了。](https://www.v2ex.com/t/787570) `46条评论` `知乎`
 1. [同事口臭、自言自语，有时候还手足舞蹈，各位支支招](https://www.v2ex.com/t/787532) `44条评论` `职场话题`
 1. [996 真的是福报](https://www.v2ex.com/t/787576) `29条评论` `职场话题`
@@ -31,7 +31,7 @@
 1. [Apple Store 是怎样清洁 Mac 的？](https://www.v2ex.com/t/787718) `18条评论` `MacBook Pro`
 1. [准备买个千元机给我妈用，有没推荐机型](https://www.v2ex.com/t/787534) `18条评论` `问与答`
 
-数据更新于 2021-07-05 21:22:58
+数据更新于 2021-07-05 21:35:51
 
 <!-- TODAY END -->
 
