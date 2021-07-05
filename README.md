@@ -8,28 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [吐槽罗技售后，所有产品过保一律不保修](https://www.v2ex.com/t/787561) `44条评论` `硬件`
-1. [突然非常厌烦开发，极度不想上班，怎么办](https://www.v2ex.com/t/787520) `42条评论` `职场话题`
-1. [同事口臭、自言自语，有时候还手足舞蹈，各位支支招](https://www.v2ex.com/t/787532) `28条评论` `职场话题`
-1. [招行莫名其妙给我寄了两张信用卡](https://www.v2ex.com/t/787551) `28条评论` `生活`
-1. [小菜鸡开发的实时公交位置小程序，各位大佬请欣赏。](https://www.v2ex.com/t/787522) `25条评论` `分享创造`
+1. [吐槽罗技售后，所有产品过保一律不保修](https://www.v2ex.com/t/787561) `52条评论` `硬件`
+1. [突然非常厌烦开发，极度不想上班，怎么办](https://www.v2ex.com/t/787520) `43条评论` `职场话题`
+1. [小菜鸡开发的实时公交位置小程序，各位大佬请欣赏。](https://www.v2ex.com/t/787522) `35条评论` `分享创造`
+1. [招行莫名其妙给我寄了两张信用卡](https://www.v2ex.com/t/787551) `33条评论` `生活`
+1. [同事口臭、自言自语，有时候还手足舞蹈，各位支支招](https://www.v2ex.com/t/787532) `30条评论` `职场话题`
 1. [关于北京地铁，只通过 Apple Pay 就有很多方式过闸](https://www.v2ex.com/t/787525) `21条评论` `Apple`
+1. [这 postman 启动速度比 IDE 还慢](https://www.v2ex.com/t/787560) `19条评论` `程序员`
 1. [pc 端微信要双开有什么好的解决方案](https://www.v2ex.com/t/787526) `18条评论` `微信`
-1. [这 postman 启动速度比 IDE 还慢](https://www.v2ex.com/t/787560) `16条评论` `程序员`
 1. [想入手 iPad 了](https://www.v2ex.com/t/787518) `15条评论` `iPad`
+1. [在国内环境下，用 iPhone 好还是安卓好，是不是可以盖棺了？](https://www.v2ex.com/t/787565) `13条评论` `iPhone`
 1. [准备买个千元机给我妈用，有没推荐机型](https://www.v2ex.com/t/787534) `12条评论` `问与答`
 1. [今年会出 se3 吗](https://www.v2ex.com/t/787545) `11条评论` `iPhone`
 1. [职业困惑。](https://www.v2ex.com/t/787530) `11条评论` `职场话题`
 1. [乘着周一人多再来问一遍](https://www.v2ex.com/t/787536) `10条评论` `程序员`
-1. [在国内环境下，用 iPhone 好还是安卓好，是不是可以盖棺了？](https://www.v2ex.com/t/787565) `8条评论` `iPhone`
 1. [美团的反爬虫太厉害了，各种下毒😭](https://www.v2ex.com/t/787555) `8条评论` `Python`
+1. [windows11 内存占用问题](https://www.v2ex.com/t/787548) `8条评论` `Windows`
 1. [波兰蠢驴诚不欺我](https://www.v2ex.com/t/787533) `8条评论` `程序员`
 1. [iPhone 的 AirDrop 可以被发现，但接收不到（没有弹出接收确认）是什么情况？](https://www.v2ex.com/t/787529) `8条评论` `问与答`
-1. [windows11 内存占用问题](https://www.v2ex.com/t/787548) `7条评论` `Windows`
-1. [MBP2020 能卖多少钱？](https://www.v2ex.com/t/787538) `6条评论` `Apple`
+1. [知乎大家觉得多久死？现在感觉已经彻底烂透了。](https://www.v2ex.com/t/787570) `7条评论` `知乎`
+1. [问问大家关于 PING 的小白问题](https://www.v2ex.com/t/787558) `7条评论` `Linux`
+1. [MBP2020 能卖多少钱？](https://www.v2ex.com/t/787538) `7条评论` `Apple`
 1. [Windows 下 permission denied 的问题](https://www.v2ex.com/t/787535) `6条评论` `程序员`
 
-数据更新于 2021-07-05 03:27:06
+数据更新于 2021-07-05 03:40:27
 
 <!-- TODAY END -->
 
