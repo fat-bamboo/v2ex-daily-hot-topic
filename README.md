@@ -16,7 +16,7 @@
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
 1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `40条评论` `Java`
 1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `39条评论` `程序员`
-1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `38条评论` `Windows`
+1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `39条评论` `Windows`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `37条评论` `问与答`
 1. [标识符应该读 biāo zhì fú 还是 biāo shí fú？](https://www.v2ex.com/t/788557) `22条评论` `问与答`
 1. [求推荐前端开发用轻薄笔记本](https://www.v2ex.com/t/788536) `21条评论` `硬件`
@@ -24,14 +24,14 @@
 1. [58 同城员工办理香港卡](https://www.v2ex.com/t/788510) `19条评论` `香港`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
 1. [求推荐一些香港老电影，恐怖类型的](https://www.v2ex.com/t/788539) `18条评论` `电影`
+1. [计算机经历几十年 CURD，难道没有一个大而全的解决方案吗？](https://www.v2ex.com/t/788561) `16条评论` `程序员`
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
-1. [计算机经历几十年 CURD，难道没有一个大而全的解决方案吗？](https://www.v2ex.com/t/788561) `15条评论` `程序员`
 1. [给表弟在深圳找个暑假工作，物联网专业，培训班学了点 Java 。对工资没要求。](https://www.v2ex.com/t/788514) `15条评论` `深圳`
 1. [面试面得怀疑自己的智商感觉不适合干开发，工作中也经常会这么觉得](https://www.v2ex.com/t/788506) `15条评论` `职场话题`
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
 
-数据更新于 2021-07-09 11:51:51
+数据更新于 2021-07-09 12:07:18
 
 <!-- TODAY END -->
 
