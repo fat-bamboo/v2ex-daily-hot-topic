@@ -9,29 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `154条评论` `Microsoft Office`
-1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `105条评论` `Apple`
+1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `106条评论` `Apple`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `69条评论` `分享创造`
-1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `60条评论` `信息安全`
-1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `58条评论` `问与答`
+1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `66条评论` `问与答`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `65条评论` `信息安全`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
 1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `33条评论` `程序员`
 1. [Mysql 从 5.6 换成了 8.0.25， jdbc 连接失败了。](https://www.v2ex.com/t/788505) `21条评论` `问与答`
+1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `19条评论` `Java`
 1. [58 同城员工办理香港卡](https://www.v2ex.com/t/788510) `19条评论` `香港`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `19条评论` `问与答`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
+1. [求推荐前端开发用轻薄笔记本](https://www.v2ex.com/t/788536) `17条评论` `程序员`
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
+1. [给表弟在深圳找个暑假工作，物联网专业，培训班学了点 Java 。对工资没要求。](https://www.v2ex.com/t/788514) `15条评论` `深圳`
 1. [面试面得怀疑自己的智商感觉不适合干开发，工作中也经常会这么觉得](https://www.v2ex.com/t/788506) `15条评论` `职场话题`
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
-1. [求推荐前端开发用轻薄笔记本](https://www.v2ex.com/t/788536) `14条评论` `程序员`
-1. [给表弟在深圳找个暑假工作，物联网专业，培训班学了点 Java 。对工资没要求。](https://www.v2ex.com/t/788514) `14条评论` `深圳`
 1. [请教各位 v 友，在 Mac 上的 nPlayer 能否达到与手机以及平板上相同的体验？](https://www.v2ex.com/t/788474) `14条评论` `macOS`
 1. [HEIF 格式的前景怎么样？未来会有更多手机或相机采用 HEIF 代替 JPG 吗？](https://www.v2ex.com/t/788456) `14条评论` `问与答`
 1. [刚入的 airpods 灯一直闪烁黄色，连不上手机，是什么问题啊？](https://www.v2ex.com/t/788461) `13条评论` `Apple`
-1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `12条评论` `程序员`
-1. [早上有个奇葩需求，通过网页监测左右脑活动，判断哪个节点对左右脑的刺激比较大，从而去优化课程内容。。。](https://www.v2ex.com/t/788473) `12条评论` `分享发现`
+1. [求推荐一些香港老电影，恐怖类型的](https://www.v2ex.com/t/788539) `12条评论` `电影`
 
-数据更新于 2021-07-09 08:05:53
+数据更新于 2021-07-09 08:26:45
 
 <!-- TODAY END -->
 
