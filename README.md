@@ -8,30 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `89条评论` `Apple`
-1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `53条评论` `分享创造`
-1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `35条评论` `分享发现`
-1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `33条评论` `问与答`
+1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `91条评论` `Apple`
+1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `55条评论` `分享创造`
+1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `36条评论` `分享发现`
+1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `34条评论` `问与答`
 1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `19条评论` `程序员`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
-1. [HEIF 格式的前景怎么样？未来会有更多手机或相机采用 HEIF 代替 JPG 吗？](https://www.v2ex.com/t/788456) `13条评论` `问与答`
-1. [刚入的 airpods 灯一直闪烁黄色，连不上手机，是什么问题啊？](https://www.v2ex.com/t/788461) `12条评论` `Apple`
+1. [HEIF 格式的前景怎么样？未来会有更多手机或相机采用 HEIF 代替 JPG 吗？](https://www.v2ex.com/t/788456) `14条评论` `问与答`
+1. [刚入的 airpods 灯一直闪烁黄色，连不上手机，是什么问题啊？](https://www.v2ex.com/t/788461) `13条评论` `Apple`
+1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `12条评论` `MySQL`
+1. [请教各位 v 友，在 Mac 上的 nPlayer 能否达到与手机以及平板上相同的体验？](https://www.v2ex.com/t/788474) `12条评论` `macOS`
 1. [今年的教育优惠什么时候开始？](https://www.v2ex.com/t/788437) `12条评论` `Apple`
-1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `11条评论` `MySQL`
-1. [请教各位 v 友，在 Mac 上的 nPlayer 能否达到与手机以及平板上相同的体验？](https://www.v2ex.com/t/788474) `11条评论` `macOS`
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `11条评论` `Windows`
 1. [有没有那种针对 vue/react 建的站的 webshell？](https://www.v2ex.com/t/788425) `11条评论` `信息安全`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `10条评论` `信息安全`
+1. [早上有个奇葩需求，通过网页监测左右脑活动，判断哪个节点对左右脑的刺激比较大，从而去优化课程内容。。。](https://www.v2ex.com/t/788473) `9条评论` `分享发现`
+1. [最近把 nas(群晖)暴露在公网上了，想请教下有什么安全性或者被封的问题。](https://www.v2ex.com/t/788457) `9条评论` `NAS`
 1. [广州天河/海珠附近学车有推荐的吗？](https://www.v2ex.com/t/788429) `9条评论` `广州`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `8条评论` `问与答`
-1. [早上有个奇葩需求，通过网页监测左右脑活动，判断哪个节点对左右脑的刺激比较大，从而去优化课程内容。。。](https://www.v2ex.com/t/788473) `8条评论` `分享发现`
-1. [最近把 nas(群晖)暴露在公网上了，想请教下有什么安全性或者被封的问题。](https://www.v2ex.com/t/788457) `8条评论` `NAS`
 1. [单程 3km 代步工具？](https://www.v2ex.com/t/788447) `8条评论` `生活`
 1. [求助帖，大家是如何解决公司认证为问题？](https://www.v2ex.com/t/788426) `8条评论` `程序员`
-1. [页面 mp4 可以做到先加载，再延迟播放吗](https://www.v2ex.com/t/788460) `6条评论` `问与答`
 
-数据更新于 2021-07-09 04:32:03
+数据更新于 2021-07-09 04:53:17
 
 <!-- TODAY END -->
 
