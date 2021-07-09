@@ -15,8 +15,8 @@
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `70条评论` `分享创造`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `44条评论` `Windows`
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `42条评论` `程序员`
 1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `41条评论` `Java`
-1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `41条评论` `程序员`
 1. [大家乘电梯的时候会想电梯的程序怎么写吗](https://www.v2ex.com/t/788522) `38条评论` `程序员`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `37条评论` `问与答`
 1. [字节取消大小周了](https://www.v2ex.com/t/788594) `27条评论` `分享发现`
@@ -31,7 +31,7 @@
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
 1. [给表弟在深圳找个暑假工作，物联网专业，培训班学了点 Java 。对工资没要求。](https://www.v2ex.com/t/788514) `15条评论` `深圳`
 
-数据更新于 2021-07-09 17:52:47
+数据更新于 2021-07-09 18:05:22
 
 <!-- TODAY END -->
 
