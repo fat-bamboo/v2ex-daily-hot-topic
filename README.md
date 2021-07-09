@@ -10,12 +10,12 @@
 
 1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `154条评论` `Microsoft Office`
 1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `122条评论` `Apple`
-1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `96条评论` `信息安全`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `97条评论` `信息安全`
 1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `78条评论` `问与答`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `70条评论` `分享创造`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
+1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `42条评论` `Windows`
 1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `41条评论` `Java`
-1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `41条评论` `Windows`
 1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `39条评论` `程序员`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `37条评论` `问与答`
 1. [标识符应该读 biāo zhì fú 还是 biāo shí fú？](https://www.v2ex.com/t/788557) `22条评论` `问与答`
@@ -31,7 +31,7 @@
 1. [面试面得怀疑自己的智商感觉不适合干开发，工作中也经常会这么觉得](https://www.v2ex.com/t/788506) `15条评论` `职场话题`
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 
-数据更新于 2021-07-09 13:25:56
+数据更新于 2021-07-09 13:35:17
 
 <!-- TODAY END -->
 
