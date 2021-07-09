@@ -14,11 +14,11 @@
 1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `75条评论` `问与答`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `70条评论` `分享创造`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
-1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `39条评论` `Java`
+1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `40条评论` `Java`
 1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `38条评论` `程序员`
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `38条评论` `Windows`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `37条评论` `问与答`
-1. [标识符应该读 biāo zhì fú 还是 biāo shí fú？](https://www.v2ex.com/t/788557) `21条评论` `问与答`
+1. [标识符应该读 biāo zhì fú 还是 biāo shí fú？](https://www.v2ex.com/t/788557) `22条评论` `问与答`
 1. [求推荐前端开发用轻薄笔记本](https://www.v2ex.com/t/788536) `21条评论` `硬件`
 1. [Mysql 从 5.6 换成了 8.0.25， jdbc 连接失败了。](https://www.v2ex.com/t/788505) `21条评论` `问与答`
 1. [58 同城员工办理香港卡](https://www.v2ex.com/t/788510) `19条评论` `香港`
@@ -31,7 +31,7 @@
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
 
-数据更新于 2021-07-09 11:03:50
+数据更新于 2021-07-09 11:19:21
 
 <!-- TODAY END -->
 
