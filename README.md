@@ -10,15 +10,15 @@
 
 1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `154条评论` `Microsoft Office`
 1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `107条评论` `Apple`
-1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `79条评论` `信息安全`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `80条评论` `信息安全`
 1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `73条评论` `问与答`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `70条评论` `分享创造`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
-1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `36条评论` `程序员`
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `37条评论` `程序员`
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `34条评论` `Windows`
 1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523) `25条评论` `Java`
 1. [Mysql 从 5.6 换成了 8.0.25， jdbc 连接失败了。](https://www.v2ex.com/t/788505) `21条评论` `问与答`
-1. [求推荐前端开发用轻薄笔记本](https://www.v2ex.com/t/788536) `19条评论` `硬件`
+1. [求推荐前端开发用轻薄笔记本](https://www.v2ex.com/t/788536) `20条评论` `硬件`
 1. [58 同城员工办理香港卡](https://www.v2ex.com/t/788510) `19条评论` `香港`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `19条评论` `问与答`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
@@ -31,7 +31,7 @@
 1. [大家乘电梯的时候会想电梯的程序怎么写吗](https://www.v2ex.com/t/788522) `14条评论` `程序员`
 1. [请教各位 v 友，在 Mac 上的 nPlayer 能否达到与手机以及平板上相同的体验？](https://www.v2ex.com/t/788474) `14条评论` `macOS`
 
-数据更新于 2021-07-09 09:38:41
+数据更新于 2021-07-09 09:47:10
 
 <!-- TODAY END -->
 
