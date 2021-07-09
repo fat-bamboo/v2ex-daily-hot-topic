@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `150条评论` `Microsoft Office`
+1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `154条评论` `Microsoft Office`
 1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `102条评论` `Apple`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `67条评论` `分享创造`
-1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `54条评论` `问与答`
-1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `52条评论` `信息安全`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `55条评论` `信息安全`
+1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `55条评论` `问与答`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
-1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `32条评论` `程序员`
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `33条评论` `程序员`
 1. [Mysql 从 5.6 换成了 8.0.25， jdbc 连接失败了。](https://www.v2ex.com/t/788505) `21条评论` `问与答`
+1. [58 同城员工办理香港卡](https://www.v2ex.com/t/788510) `19条评论` `香港`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `19条评论` `问与答`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
-1. [58 同城员工办理香港卡](https://www.v2ex.com/t/788510) `18条评论` `香港`
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
@@ -31,7 +31,7 @@
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `12条评论` `Windows`
 1. [今年的教育优惠什么时候开始？](https://www.v2ex.com/t/788437) `12条评论` `Apple`
 
-数据更新于 2021-07-09 07:32:50
+数据更新于 2021-07-09 07:41:41
 
 <!-- TODAY END -->
 
