@@ -11,7 +11,7 @@
 1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `154条评论` `Microsoft Office`
 1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `136条评论` `Apple`
 1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `106条评论` `信息安全`
-1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `92条评论` `问与答`
+1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `93条评论` `问与答`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `70条评论` `分享创造`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455) `44条评论` `Windows`
@@ -31,7 +31,7 @@
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
 1. [挖坟： TrueCrypt 当年在用户手册里特意说明自己拒绝支持 TPM，以及 RMS 对“可信计算”的声讨](https://www.v2ex.com/t/788634) `15条评论` `信息安全`
 
-数据更新于 2021-07-09 18:32:30
+数据更新于 2021-07-09 18:53:22
 
 <!-- TODAY END -->
 
