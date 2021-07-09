@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `101条评论` `Apple`
-1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `72条评论` `Microsoft Office`
-1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `58条评论` `分享创造`
-1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `49条评论` `问与答`
+1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `103条评论` `Microsoft Office`
+1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `102条评论` `Apple`
+1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `60条评论` `分享创造`
+1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `50条评论` `问与答`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `41条评论` `分享发现`
-1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `32条评论` `信息安全`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `38条评论` `信息安全`
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `30条评论` `程序员`
 1. [工作离家比较远路费比较贵时，你会每月回一次家看望父母吗](https://www.v2ex.com/t/788476) `19条评论` `问与答`
-1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `19条评论` `程序员`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
+1. [Mysql 从 5.6 换成了 8.0.25， jdbc 连接失败了。](https://www.v2ex.com/t/788505) `16条评论` `问与答`
 1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
-1. [Mysql 从 5.6 换成了 8.0.25， jdbc 连接失败了。](https://www.v2ex.com/t/788505) `15条评论` `问与答`
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
 1. [请教各位 v 友，在 Mac 上的 nPlayer 能否达到与手机以及平板上相同的体验？](https://www.v2ex.com/t/788474) `14条评论` `macOS`
@@ -31,7 +31,7 @@
 1. [今年的教育优惠什么时候开始？](https://www.v2ex.com/t/788437) `12条评论` `Apple`
 1. [有没有那种针对 vue/react 建的站的 webshell？](https://www.v2ex.com/t/788425) `11条评论` `信息安全`
 
-数据更新于 2021-07-09 06:31:11
+数据更新于 2021-07-09 06:53:40
 
 <!-- TODAY END -->
 
