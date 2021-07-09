@@ -10,7 +10,7 @@
 
 1. [微軟夾帶私貨真是惡心透了](https://www.v2ex.com/t/788507) `154条评论` `Microsoft Office`
 1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `114条评论` `Apple`
-1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `88条评论` `信息安全`
+1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495) `89条评论` `信息安全`
 1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `75条评论` `问与答`
 1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `70条评论` `分享创造`
 1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `47条评论` `分享发现`
@@ -31,7 +31,7 @@
 1. [大佬们， sql 如何 update 所有字段的值=NULL where 所有字段='NULL'的时候](https://www.v2ex.com/t/788477) `15条评论` `MySQL`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `15条评论` `问与答`
 
-数据更新于 2021-07-09 11:27:34
+数据更新于 2021-07-09 11:33:55
 
 <!-- TODAY END -->
 
