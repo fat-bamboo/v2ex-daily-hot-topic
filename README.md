@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `67条评论` `Apple`
-1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `41条评论` `分享创造`
+1. [最近 2 到 5 年年苹果的 ARM mac 产品系列定价太高大概率会走 Nokia Lumia 的老路](https://www.v2ex.com/t/788428) `68条评论` `Apple`
+1. [京东抢购茅台脚本，让自己和黄牛站在同一起跑线上。](https://www.v2ex.com/t/788420) `44条评论` `分享创造`
+1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `20条评论` `分享发现`
 1. [在哪儿能接触到计算机基础科学方面的讯息呢？](https://www.v2ex.com/t/788418) `19条评论` `程序员`
-1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `17条评论` `问与答`
-1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `17条评论` `程序员`
-1. [现在抖音上真的好多徒步西藏的](https://www.v2ex.com/t/788442) `15条评论` `分享发现`
-1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `15条评论` `Android`
+1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435) `18条评论` `问与答`
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434) `18条评论` `程序员`
+1. [求助安卓车机 adb 问题](https://www.v2ex.com/t/788431) `16条评论` `Android`
 1. [mac 上莫名其妙安装了两个不知道干啥的软件，还不能删](https://www.v2ex.com/t/788432) `14条评论` `问与答`
 1. [有没有那种针对 vue/react 建的站的 webshell？](https://www.v2ex.com/t/788425) `11条评论` `信息安全`
-1. [今年的教育优惠什么时候开始？](https://www.v2ex.com/t/788437) `9条评论` `Apple`
+1. [今年的教育优惠什么时候开始？](https://www.v2ex.com/t/788437) `10条评论` `Apple`
 1. [求助帖，大家是如何解决公司认证为问题？](https://www.v2ex.com/t/788426) `8条评论` `程序员`
 1. [广州天河/海珠附近学车有推荐的吗？](https://www.v2ex.com/t/788429) `7条评论` `广州`
+1. [单程 3km 代步工具？](https://www.v2ex.com/t/788447) `6条评论` `生活`
 
-数据更新于 2021-07-09 02:55:27
+数据更新于 2021-07-09 03:05:39
 
 <!-- TODAY END -->
 
