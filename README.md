@@ -13,7 +13,7 @@
 1. [大家看到 TencentOS Server 了吗？](https://www.v2ex.com/t/789822) `70条评论` `程序员`
 1. [币安还能去吗](https://www.v2ex.com/t/789851) `59条评论` `职场话题`
 1. [你们都有自己的 utils 吗？](https://www.v2ex.com/t/789875) `47条评论` `程序员`
-1. [性价比高的 CPU 推荐下，目前看中 AMD 3600 散装](https://www.v2ex.com/t/789825) `45条评论` `硬件`
+1. [性价比高的 CPU 推荐下，目前看中 AMD 3600 散装](https://www.v2ex.com/t/789825) `46条评论` `硬件`
 1. [有没有办法让 YouTube 的登入和 Google 的登入分离？](https://www.v2ex.com/t/789857) `43条评论` `Google`
 1. [请问占用资源比较小的 Web 框架有哪些](https://www.v2ex.com/t/789883) `43条评论` `Web Dev`
 1. [大家觉得恋爱是门课程吗?](https://www.v2ex.com/t/789821) `42条评论` `问与答`
@@ -31,7 +31,7 @@
 1. [15 届敏捷状态报告出来了， 75%的受访者表示 DevOps 的转型必须，你们公司都实施 devops 了？](https://www.v2ex.com/t/789832) `16条评论` `程序员`
 1. [Windows 11 更新完 22000.71，感觉整体变流畅了](https://www.v2ex.com/t/789826) `16条评论` `Windows`
 
-数据更新于 2021-07-16 22:23:03
+数据更新于 2021-07-16 22:35:51
 
 <!-- TODAY END -->
 
