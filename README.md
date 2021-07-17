@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028) `72条评论` `macOS`
-1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050) `30条评论` `MacBook Pro`
+1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028) `73条评论` `macOS`
+1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050) `31条评论` `MacBook Pro`
 1. [家用视频监控，大家用的什么方案？](https://www.v2ex.com/t/790029) `25条评论` `开源软件`
 1. [请问目前 iOS15 DB3 可以日常使用了吗？](https://www.v2ex.com/t/790053) `18条评论` `iOS`
 1. [深圳 or 厦门](https://www.v2ex.com/t/790076) `14条评论` `程序员`
@@ -24,7 +24,7 @@
 1. [支付宝-爱奇艺 免密协议支付自动扣款会员的奇葩事儿](https://www.v2ex.com/t/790036) `6条评论` `全球工单系统`
 1. [群晖 dsm7 的问题](https://www.v2ex.com/t/790035) `6条评论` `NAS`
 
-数据更新于 2021-07-17 08:38:49
+数据更新于 2021-07-17 08:45:13
 
 <!-- TODAY END -->
 
