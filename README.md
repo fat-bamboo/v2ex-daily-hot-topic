@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028) `83条评论` `macOS`
+1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028) `84条评论` `macOS`
 1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050) `50条评论` `MacBook Pro`
 1. [家用视频监控，大家用的什么方案？](https://www.v2ex.com/t/790029) `44条评论` `开源软件`
 1. [深圳 or 厦门](https://www.v2ex.com/t/790076) `37条评论` `职场话题`
@@ -31,7 +31,7 @@
 1. [求推荐安卓手机：与 iPhone 12 Pro 大小、重量差不多，续航比它稍长点的，骁龙，能 root，国行在售的](https://www.v2ex.com/t/790085) `9条评论` `问与答`
 1. [M1 mac mini 尝试 4k@120 的心路历程](https://www.v2ex.com/t/790052) `9条评论` `Apple`
 
-数据更新于 2021-07-17 20:33:16
+数据更新于 2021-07-17 20:41:35
 
 <!-- TODAY END -->
 
