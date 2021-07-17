@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028) `82条评论` `macOS`
-1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050) `45条评论` `MacBook Pro`
+1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050) `46条评论` `MacBook Pro`
 1. [家用视频监控，大家用的什么方案？](https://www.v2ex.com/t/790029) `41条评论` `开源软件`
 1. [深圳 or 厦门](https://www.v2ex.com/t/790076) `37条评论` `职场话题`
 1. [请问目前 iOS15 DB3 可以日常使用了吗？](https://www.v2ex.com/t/790053) `23条评论` `iOS`
@@ -31,7 +31,7 @@
 1. [你们被 Magic Mouse 划破过手嘛👀](https://www.v2ex.com/t/790092) `8条评论` `Apple`
 1. [求推荐笔记本和工作站，预算分别为 1.5W 以内和 5W 以内](https://www.v2ex.com/t/790025) `8条评论` `硬件`
 
-数据更新于 2021-07-17 15:43:18
+数据更新于 2021-07-17 15:53:45
 
 <!-- TODAY END -->
 
