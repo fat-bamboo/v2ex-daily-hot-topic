@@ -16,10 +16,10 @@
 1. [后悔三十几刀时没购入 infuse！](https://www.v2ex.com/t/790220) `27条评论` `iPhone`
 1. [苹果审核 ipv6 的问题](https://www.v2ex.com/t/790224) `26条评论` `iDev`
 1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199) `25条评论` `问与答`
+1. [大家在开发环境配置上一般会花多长时间？](https://www.v2ex.com/t/790257) `20条评论` `程序员`
 1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153) `19条评论` `Python`
-1. [微信最新的多设备登录依然无法支持 ios 和安卓手机同时登录啊，双机党很痛苦](https://www.v2ex.com/t/790170) `19条评论` `微信`
 1. [刚买 4 个月的 MacBook，电池健康度到了 97%属于正常吗？](https://www.v2ex.com/t/790264) `19条评论` `MacBook Air`
-1. [大家在开发环境配置上一般会花多长时间？](https://www.v2ex.com/t/790257) `19条评论` `程序员`
+1. [微信最新的多设备登录依然无法支持 ios 和安卓手机同时登录啊，双机党很痛苦](https://www.v2ex.com/t/790170) `19条评论` `微信`
 1. [Ubuntu 上面 Nginx 配置了 https，死活无法访问，不知道啥问题](https://www.v2ex.com/t/790169) `18条评论` `Linux`
 1. [[广州/佛山] 4 年多前端找 965 的工作](https://www.v2ex.com/t/790175) `18条评论` `求职`
 1. [搞 Java 开发 macmini 8g 真的不够吗](https://www.v2ex.com/t/790243) `13条评论` `Apple`
@@ -31,7 +31,7 @@
 1. [厦门对比福州](https://www.v2ex.com/t/790174) `10条评论` `生活`
 1. [Apple TV 在不通地区下载的 APP 内购是互通的吗？](https://www.v2ex.com/t/790167) `10条评论` `Apple`
 
-数据更新于 2021-07-18 23:33:45
+数据更新于 2021-07-18 23:41:52
 
 <!-- TODAY END -->
 
