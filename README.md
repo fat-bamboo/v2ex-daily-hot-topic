@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [游戏台式机有必要升级 Windows 11 吗？](https://www.v2ex.com/t/790184) `32条评论` `Windows`
+1. [游戏台式机有必要升级 Windows 11 吗？](https://www.v2ex.com/t/790184) `33条评论` `Windows`
 1. [115 是故意限速的吧](https://www.v2ex.com/t/790160) `28条评论` `全球工单系统`
 1. [求推荐一个好点的鼠标，适配 macBook，感觉 Apple 的鼠标太难用了](https://www.v2ex.com/t/790186) `22条评论` `硬件`
 1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199) `21条评论` `问与答`
@@ -26,7 +26,7 @@
 1. [后悔三十几刀时没购入 infuse！](https://www.v2ex.com/t/790220) `6条评论` `iPhone`
 1. [有什么推荐的手机卡套餐？](https://www.v2ex.com/t/790201) `6条评论` `问与答`
 
-数据更新于 2021-07-18 10:45:05
+数据更新于 2021-07-18 10:51:35
 
 <!-- TODAY END -->
 
