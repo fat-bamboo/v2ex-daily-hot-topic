@@ -19,9 +19,9 @@
 1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153) `19条评论` `Python`
 1. [微信最新的多设备登录依然无法支持 ios 和安卓手机同时登录啊，双机党很痛苦](https://www.v2ex.com/t/790170) `19条评论` `微信`
 1. [刚买 4 个月的 MacBook，电池健康度到了 97%属于正常吗？](https://www.v2ex.com/t/790264) `18条评论` `MacBook Air`
+1. [大家在开发环境配置上一般会花多长时间？](https://www.v2ex.com/t/790257) `18条评论` `程序员`
 1. [Ubuntu 上面 Nginx 配置了 https，死活无法访问，不知道啥问题](https://www.v2ex.com/t/790169) `18条评论` `Linux`
 1. [[广州/佛山] 4 年多前端找 965 的工作](https://www.v2ex.com/t/790175) `18条评论` `求职`
-1. [大家在开发环境配置上一般会花多长时间？](https://www.v2ex.com/t/790257) `17条评论` `程序员`
 1. [搞 Java 开发 macmini 8g 真的不够吗](https://www.v2ex.com/t/790243) `12条评论` `Apple`
 1. [忘记旧手机锁屏密码，想要找回照片怎么办](https://www.v2ex.com/t/790189) `12条评论` `Apple`
 1. [13 年 mbp 清灰换硅脂，感觉还能用几年！](https://www.v2ex.com/t/790166) `11条评论` `MacBook Pro`
@@ -31,7 +31,7 @@
 1. [厦门对比福州](https://www.v2ex.com/t/790174) `10条评论` `生活`
 1. [Apple TV 在不通地区下载的 APP 内购是互通的吗？](https://www.v2ex.com/t/790167) `10条评论` `Apple`
 
-数据更新于 2021-07-18 22:04:47
+数据更新于 2021-07-18 22:22:54
 
 <!-- TODAY END -->
 
