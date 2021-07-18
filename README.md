@@ -12,9 +12,9 @@
 1. [115 是故意限速的吧](https://www.v2ex.com/t/790160) `40条评论` `全球工单系统`
 1. [求推荐一个好点的鼠标，适配 macBook，感觉 Apple 的鼠标太难用了](https://www.v2ex.com/t/790186) `30条评论` `硬件`
 1. [有没有格力空调智能远程控制开关方案](https://www.v2ex.com/t/790154) `29条评论` `问与答`
+1. [Nodejs 之后， Python 在 Web 开发领域还有啥优势么？](https://www.v2ex.com/t/790207) `26条评论` `Python`
 1. [苹果审核 ipv6 的问题](https://www.v2ex.com/t/790224) `26条评论` `iDev`
 1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199) `25条评论` `问与答`
-1. [Nodejs 之后， Python 在 Web 开发领域还有啥优势么？](https://www.v2ex.com/t/790207) `25条评论` `Python`
 1. [后悔三十几刀时没购入 infuse！](https://www.v2ex.com/t/790220) `25条评论` `iPhone`
 1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153) `19条评论` `Python`
 1. [微信最新的多设备登录依然无法支持 ios 和安卓手机同时登录啊，双机党很痛苦](https://www.v2ex.com/t/790170) `19条评论` `微信`
@@ -31,7 +31,7 @@
 1. [厦门对比福州](https://www.v2ex.com/t/790174) `10条评论` `生活`
 1. [Apple TV 在不通地区下载的 APP 内购是互通的吗？](https://www.v2ex.com/t/790167) `10条评论` `Apple`
 
-数据更新于 2021-07-18 19:03:29
+数据更新于 2021-07-18 19:17:11
 
 <!-- TODAY END -->
 
