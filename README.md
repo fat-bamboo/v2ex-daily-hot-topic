@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [国区 app store 唯一的一个优点今天也没了。](https://www.v2ex.com/t/790738) `45条评论` `App Store`
-1. [适合写长文的键盘有什么推荐的？](https://www.v2ex.com/t/790741) `42条评论` `问与答`
+1. [国区 app store 唯一的一个优点今天也没了。](https://www.v2ex.com/t/790738) `46条评论` `App Store`
+1. [适合写长文的键盘有什么推荐的？](https://www.v2ex.com/t/790741) `44条评论` `问与答`
 1. [国内的 iOS 会接入紧急通知系统吗？](https://www.v2ex.com/t/790747) `32条评论` `iOS`
 1. [信号满格，但是上不了网，是运营商的问题还是苹果的问题？](https://www.v2ex.com/t/790750) `28条评论` `Apple`
 1. [请教：行车记录仪举报的车辆路面违法，合法吗？](https://www.v2ex.com/t/790746) `17条评论` `汽车`
@@ -26,12 +26,13 @@
 1. [如今（2021.7）的手机大流量套餐是否有什么好的解决方案？](https://www.v2ex.com/t/790736) `10条评论` `问与答`
 1. [V 友们，你们有没有伸个懒腰后突然心脏有力的震动，像是要跳出来](https://www.v2ex.com/t/790757) `9条评论` `问与答`
 1. [[深圳央企]金融国企 it 放开招聘，开发/产品/运维/测试，标准国企 965，有编制有饭堂不裁人不加班， 15-30w，欢迎大神来落地过度养老](https://www.v2ex.com/t/790789) `8条评论` `酷工作`
+1. [有一个疑问，在 JS 中 Array.forEach()与 Array.map()这些方法的第三个可选参数 array 的作用](https://www.v2ex.com/t/790771) `8条评论` `程序员`
 1. [现在的 DBA 都去哪里交流？多年前的 itpub 好像不行了](https://www.v2ex.com/t/790769) `8条评论` `MySQL`
 1. [《Mathematics For Machine Learning》中文翻译已在 github 上开始了，希望各位有志之士积极参与……](https://www.v2ex.com/t/790762) `8条评论` `机器学习`
 1. [关于超薄手机](https://www.v2ex.com/t/790751) `8条评论` `Android`
-1. [有一个疑问，在 JS 中 Array.forEach()与 Array.map()这些方法的第三个可选参数 array 的作用](https://www.v2ex.com/t/790771) `7条评论` `程序员`
+1. [iPhone 11(iOS 14.6) 莫名发热发烫，大家有遇到过吗？](https://www.v2ex.com/t/790775) `6条评论` `Apple`
 
-数据更新于 2021-07-21 03:51:37
+数据更新于 2021-07-21 04:06:28
 
 <!-- TODAY END -->
 
