@@ -32,7 +32,7 @@
 1. [升级 ios15 beta3 之后， google authenticator 里面的所有东西都没了](https://www.v2ex.com/t/791260) `12条评论` `Apple`
 1. [JetBrains 系列开发工具新用户 6.8 折优惠](https://www.v2ex.com/t/791206) `12条评论` `优惠信息`
 
-数据更新于 2021-07-23 19:41:44
+数据更新于 2021-07-23 19:52:00
 
 <!-- TODAY END -->
 
