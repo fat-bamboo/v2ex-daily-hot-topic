@@ -10,12 +10,12 @@
 
 1. [想问一下大家，夏天的 T 恤为什么老是在肚子周边有洞？](https://www.v2ex.com/t/791197) `90条评论` `生活`
 1. [等下，在苹果平台上，比如 MacOS 上发布应用需要支付 100 美金才能给你应用加入白名单，不然默认不给跑，我没理解错吧？？](https://www.v2ex.com/t/791227) `33条评论` `程序员`
-1. [如何看待彩云天气 Pro 限免后，其 CEO 发表的解释说明？订阅制到底改变了什么？](https://www.v2ex.com/t/791275) `27条评论` `iOS`
+1. [如何看待彩云天气 Pro 限免后，其 CEO 发表的解释说明？订阅制到底改变了什么？](https://www.v2ex.com/t/791275) `29条评论` `iOS`
 1. [护牙心切， V 友们，求推荐电动牙刷，谢谢](https://www.v2ex.com/t/791259) `27条评论` `问与答`
 1. [如何通过跳板机无缝连接需要跳转的服务器？](https://www.v2ex.com/t/791209) `22条评论` `程序员`
 1. [Jetbrain 家 ide 打 6.8 折](https://www.v2ex.com/t/791203) `21条评论` `优惠信息`
 1. [闲置的 NUC 拿来做科*上*网关了](https://www.v2ex.com/t/791221) `20条评论` `路由器`
-1. [A 股 21 年中回顾](https://www.v2ex.com/t/791271) `18条评论` `投资`
+1. [A 股 21 年中回顾](https://www.v2ex.com/t/791271) `19条评论` `投资`
 1. [家人们都在 AppleTV 上装了什么软件？](https://www.v2ex.com/t/791269) `18条评论` `问与答`
 1. [今天 Google 首页的像素游戏挺有意思的](https://www.v2ex.com/t/791225) `18条评论` `Google`
 1. [今天 google 首页的小游戏挺好玩的](https://www.v2ex.com/t/791268) `14条评论` `Google`
@@ -27,12 +27,12 @@
 1. [JetBrains 系列开发工具新用户 6.8 折优惠](https://www.v2ex.com/t/791206) `12条评论` `优惠信息`
 1. [咨询一个 nPlayer 的问题，如何将外接的字幕 airplay 到 apple tv 上](https://www.v2ex.com/t/791223) `11条评论` `Apple`
 1. [touch bar 版本的 mbp 应该如何使用 idea 进行 debug？](https://www.v2ex.com/t/791247) `10条评论` `MacBook Pro`
+1. [有没有简易的 nas 方案，读移动硬盘，就局域网内使用](https://www.v2ex.com/t/791311) `9条评论` `NAS`
 1. [有没有这样一款利用推送来定时温习知识的软件？](https://www.v2ex.com/t/791272) `9条评论` `奇思妙想`
 1. [Windows 11 22000.100 更新了](https://www.v2ex.com/t/791231) `9条评论` `Windows`
 1. [IPv6 导致 xbox 无法正常走旁路由，导致只能关闭 IPv6，有无其他解法](https://www.v2ex.com/t/791295) `8条评论` `宽带症候群`
-1. [想问下这种是一种设计风格吗，该如何着手？](https://www.v2ex.com/t/791281) `8条评论` `问与答`
 
-数据更新于 2021-07-23 06:54:19
+数据更新于 2021-07-23 07:04:24
 
 <!-- TODAY END -->
 
