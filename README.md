@@ -12,7 +12,7 @@
 1. [护牙心切， V 友们，求推荐电动牙刷，谢谢](https://www.v2ex.com/t/791259) `78条评论` `问与答`
 1. [如何看待彩云天气 Pro 限免后，其 CEO 发表的解释说明？订阅制到底改变了什么？](https://www.v2ex.com/t/791275) `78条评论` `iOS`
 1. [A 股 21 年中回顾](https://www.v2ex.com/t/791271) `55条评论` `投资`
-1. [今天 Google 首页的像素游戏挺有意思的](https://www.v2ex.com/t/791225) `52条评论` `Google`
+1. [今天 Google 首页的像素游戏挺有意思的](https://www.v2ex.com/t/791225) `53条评论` `Google`
 1. [如何通过跳板机无缝连接需要跳转的服务器？](https://www.v2ex.com/t/791209) `47条评论` `程序员`
 1. [闲置的 NUC 拿来做科*上*网关了](https://www.v2ex.com/t/791221) `36条评论` `路由器`
 1. [Jetbrain 家 ide 打 6.8 折](https://www.v2ex.com/t/791203) `34条评论` `优惠信息`
@@ -32,7 +32,7 @@
 1. [升级 ios15 beta3 之后， google authenticator 里面的所有东西都没了](https://www.v2ex.com/t/791260) `12条评论` `Apple`
 1. [JetBrains 系列开发工具新用户 6.8 折优惠](https://www.v2ex.com/t/791206) `12条评论` `优惠信息`
 
-数据更新于 2021-07-23 17:46:21
+数据更新于 2021-07-23 17:52:42
 
 <!-- TODAY END -->
 
