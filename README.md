@@ -15,14 +15,14 @@
 1. [今天 Google 首页的像素游戏挺有意思的](https://www.v2ex.com/t/791225) `52条评论` `Google`
 1. [如何通过跳板机无缝连接需要跳转的服务器？](https://www.v2ex.com/t/791209) `47条评论` `程序员`
 1. [闲置的 NUC 拿来做科*上*网关了](https://www.v2ex.com/t/791221) `36条评论` `路由器`
+1. [Jetbrain 家 ide 打 6.8 折](https://www.v2ex.com/t/791203) `34条评论` `优惠信息`
 1. [等下，在苹果平台上，比如 MacOS 上发布应用需要支付 100 美金才能给你应用加入白名单，不然默认不给跑，我没理解错吧？？](https://www.v2ex.com/t/791227) `34条评论` `程序员`
 1. [[搞个副业]临期商品百亿风口，就差一个程序员了](https://www.v2ex.com/t/791325) `33条评论` `奇思妙想`
-1. [Jetbrain 家 ide 打 6.8 折](https://www.v2ex.com/t/791203) `33条评论` `优惠信息`
 1. [V 友们,绷不住了,分享下我们学校暑假请的培训机构老师写的珍贵代码,这就是占用我 20 天老师的代码水平,](https://www.v2ex.com/t/791348) `28条评论` `程序员`
 1. [有没有简易的 nas 方案，读移动硬盘，就局域网内使用](https://www.v2ex.com/t/791311) `22条评论` `NAS`
 1. [群晖 7.0 推送了，漂亮的不行，华丽的不行](https://www.v2ex.com/t/791375) `18条评论` `NAS`
 1. [家人们都在 AppleTV 上装了什么软件？](https://www.v2ex.com/t/791269) `18条评论` `问与答`
-1. [这两天在用 vue3+typescript 重构一个 vue2 项目,但是 props 的类型检查真的好弱...](https://www.v2ex.com/t/791413) `15条评论` `程序员`
+1. [这两天在用 vue3+typescript 重构一个 vue2 项目,但是 props 的类型检查真的好弱...](https://www.v2ex.com/t/791413) `17条评论` `程序员`
 1. [[求名] 制作并开发了挖矿相关的 APP， ballball 大家取个名字嘿嘿](https://www.v2ex.com/t/791321) `14条评论` `奇思妙想`
 1. [今天 google 首页的小游戏挺好玩的](https://www.v2ex.com/t/791268) `14条评论` `Google`
 1. [迫于奥运会，求推荐好用的直播 app 或 iptv 直播源](https://www.v2ex.com/t/791246) `14条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [升级 ios15 beta3 之后， google authenticator 里面的所有东西都没了](https://www.v2ex.com/t/791260) `12条评论` `Apple`
 1. [JetBrains 系列开发工具新用户 6.8 折优惠](https://www.v2ex.com/t/791206) `12条评论` `优惠信息`
 
-数据更新于 2021-07-23 17:08:25
+数据更新于 2021-07-23 17:30:50
 
 <!-- TODAY END -->
 
