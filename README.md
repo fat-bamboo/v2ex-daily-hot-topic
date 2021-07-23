@@ -32,7 +32,7 @@
 1. [在中国 iCloud 有被玩坏的风险](https://www.v2ex.com/t/791440) `12条评论` `iCloud`
 1. [升级 ios15 beta3 之后， google authenticator 里面的所有东西都没了](https://www.v2ex.com/t/791260) `12条评论` `Apple`
 
-数据更新于 2021-07-23 22:35:43
+数据更新于 2021-07-23 22:42:40
 
 <!-- TODAY END -->
 
