@@ -32,7 +32,7 @@
 1. [谷歌书签服务要关闭了](https://www.v2ex.com/t/791286) `13条评论` `Google`
 1. [升级 ios15 beta3 之后， google authenticator 里面的所有东西都没了](https://www.v2ex.com/t/791260) `12条评论` `Apple`
 
-数据更新于 2021-07-23 23:33:32
+数据更新于 2021-07-23 23:42:07
 
 <!-- TODAY END -->
 
