@@ -27,12 +27,12 @@
 1. [我的 iMac 24 是不是内存太小啦？](https://www.v2ex.com/t/791473) `10条评论` `iMac`
 1. [搞不懂 springboot 版本发布频率那么快有什么好处，大家会跟着它升级自己的服务版本吗？](https://www.v2ex.com/t/791514) `9条评论` `问与答`
 1. [本社区好像对郑州的洪灾根本不关心的样子](https://www.v2ex.com/t/791474) `9条评论` `郑州`
-1. [面试带 iPad +pencil，有什么优劣？](https://www.v2ex.com/t/791535) `7条评论` `职场话题`
+1. [面试带 iPad +pencil，有什么优劣？](https://www.v2ex.com/t/791535) `8条评论` `职场话题`
 1. [迫于不想绑 wx，阿里企业邮箱是不是没免费的了？](https://www.v2ex.com/t/791525) `7条评论` `问与答`
 1. [一个属于京吹的 Discord 群](https://www.v2ex.com/t/791509) `7条评论` `ACG`
 1. [iOS 系统 App 无故卡死](https://www.v2ex.com/t/791490) `7条评论` `Apple`
 
-数据更新于 2021-07-24 15:53:54
+数据更新于 2021-07-24 16:06:36
 
 <!-- TODAY END -->
 
