@@ -11,12 +11,12 @@
 1. [请教一下大家现在（2021.7.24）应该买 iPad Pro 2021 还是 2018 呢](https://www.v2ex.com/t/791522) `49条评论` `Apple`
 1. [没忍住，把主力机的系统升到了 Win 11（附图）](https://www.v2ex.com/t/791479) `42条评论` `Windows`
 1. [分享下这个月想到的手机号更换后也要换绑的重要 app 有哪些 也麻烦 V 友看看还有没有缺漏](https://www.v2ex.com/t/791465) `40条评论` `程序员`
-1. [AC86U 路由器，这是被热死了还是寿终正寝了](https://www.v2ex.com/t/791460) `32条评论` `路由器`
+1. [AC86U 路由器，这是被热死了还是寿终正寝了](https://www.v2ex.com/t/791460) `33条评论` `路由器`
 1. [2T 的 iCloud 家庭共享满了怎么办](https://www.v2ex.com/t/791462) `29条评论` `iCloud`
 1. [腾讯云 cross the great wall 自用节点被封了](https://www.v2ex.com/t/791468) `21条评论` `宽带症候群`
 1. [夏天了有没有设备可以 3 秒直能出冰块、冰水的直饮机？](https://www.v2ex.com/t/791510) `18条评论` `生活`
+1. [普通办公用电脑， mac air 够吗？](https://www.v2ex.com/t/791536) `17条评论` `macOS`
 1. [QQ8.0 开始不适配 SiriKit](https://www.v2ex.com/t/791484) `17条评论` `iOS`
-1. [普通办公用电脑， mac air 够吗？](https://www.v2ex.com/t/791536) `16条评论` `macOS`
 1. [AdGuard 的过滤规则请教](https://www.v2ex.com/t/791501) `15条评论` `问与答`
 1. [谷歌计算器的结果和微软计算器的结果不一致](https://www.v2ex.com/t/791461) `15条评论` `问与答`
 1. [大家是如何保护眼睛视力的？](https://www.v2ex.com/t/791544) `13条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [一个属于京吹的 Discord 群](https://www.v2ex.com/t/791509) `7条评论` `ACG`
 1. [iOS 系统 App 无故卡死](https://www.v2ex.com/t/791490) `7条评论` `Apple`
 
-数据更新于 2021-07-24 15:43:41
+数据更新于 2021-07-24 15:53:54
 
 <!-- TODAY END -->
 
