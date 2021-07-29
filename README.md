@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [小老弟相亲记](https://www.v2ex.com/t/792382) `103条评论` `随想`
+1. [小老弟相亲记](https://www.v2ex.com/t/792382) `104条评论` `随想`
 1. [了解了其他语言的和生态 开发工具的支持，我才知道 Java 生态 天下第一 YYDS](https://www.v2ex.com/t/792390) `58条评论` `程序员`
-1. [真的有公司搞 devops 吗？成功了吗？](https://www.v2ex.com/t/792410) `54条评论` `程序员`
+1. [真的有公司搞 devops 吗？成功了吗？](https://www.v2ex.com/t/792410) `55条评论` `程序员`
 1. [三七互娱昨天有员工猝死了](https://www.v2ex.com/t/792395) `26条评论` `程序员`
 1. [macOS Monterey Developer Beta 4 如何保留数据降级 Beta 3？](https://www.v2ex.com/t/792411) `21条评论` `macOS`
 1. [迫于这次水患，请大家推荐一款防水手机套/袋](https://www.v2ex.com/t/792456) `20条评论` `问与答`
@@ -24,15 +24,15 @@
 1. [见多了机翻英文论坛的中文站点，第一次见机翻中文论坛的英文站点](https://www.v2ex.com/t/792454) `11条评论` `程序员`
 1. [请问一下各位大佬，想用 Windows XP X64 的系统，但是就是找不到网卡驱动程序，有没有解决方案？](https://www.v2ex.com/t/792446) `11条评论` `微软`
 1. [服务器（windows）部署 go 源码后，不能用记事本编辑文件吗？](https://www.v2ex.com/t/792438) `11条评论` `Go`
+1. [请问各位老铁：颈椎疼怎么办？](https://www.v2ex.com/t/792481) `10条评论` `程序员`
 1. [python3 项目不改代码前提下，有什么办法可以把引用的 mysqlclient 直接替换为 PyMySQL？](https://www.v2ex.com/t/792453) `10条评论` `Python`
 1. [多服务项目如何接入 ci？](https://www.v2ex.com/t/792449) `10条评论` `程序员`
 1. [位于奇怪位置的应用，无法删除，但 spotlight 还能搜出来](https://www.v2ex.com/t/792415) `10条评论` `macOS`
 1. [一直理不清楚 网关,nginx,代理,在项目中的怎么串联起来的..](https://www.v2ex.com/t/792465) `9条评论` `程序员`
 1. [低调的问下，除了 Taobao 国外的电话卡外，还有别的方法收到 Clubhouse 的短信验证码吗](https://www.v2ex.com/t/792383) `9条评论` `问与答`
-1. [请问各位老铁：颈椎疼怎么办？](https://www.v2ex.com/t/792481) `8条评论` `程序员`
-1. [Git Bash for Windows 不小心 rm 了一些文件，看了一下回收站并没有这些文件，还能找回文件吗？](https://www.v2ex.com/t/792451) `8条评论` `问与答`
+1. [求助，行李寄存问题](https://www.v2ex.com/t/792460) `8条评论` `杭州`
 
-数据更新于 2021-07-29 07:31:45
+数据更新于 2021-07-29 07:41:41
 
 <!-- TODAY END -->
 
