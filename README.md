@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [小老弟相亲记](https://www.v2ex.com/t/792382) `97条评论` `随想`
-1. [真的有公司搞 devops 吗？成功了吗？](https://www.v2ex.com/t/792410) `48条评论` `程序员`
-1. [了解了其他语言的和生态 开发工具的支持，我才知道 Java 生态 天下第一 YYDS](https://www.v2ex.com/t/792390) `47条评论` `程序员`
+1. [小老弟相亲记](https://www.v2ex.com/t/792382) `101条评论` `随想`
+1. [了解了其他语言的和生态 开发工具的支持，我才知道 Java 生态 天下第一 YYDS](https://www.v2ex.com/t/792390) `53条评论` `程序员`
+1. [真的有公司搞 devops 吗？成功了吗？](https://www.v2ex.com/t/792410) `50条评论` `程序员`
 1. [三七互娱昨天有员工猝死了](https://www.v2ex.com/t/792395) `26条评论` `程序员`
 1. [macOS Monterey Developer Beta 4 如何保留数据降级 Beta 3？](https://www.v2ex.com/t/792411) `21条评论` `macOS`
+1. [迫于这次水患，请大家推荐一款防水手机套/袋](https://www.v2ex.com/t/792456) `19条评论` `问与答`
 1. [建了一个永劫无间的开黑群，老哥们快来玩啊](https://www.v2ex.com/t/792391) `18条评论` `游戏`
 1. [要设计组织权限管理模块，请问有哪些组织权限关系的管理模型？](https://www.v2ex.com/t/792394) `16条评论` `程序员`
 1. [修废了的 xr 尸体要怎么处理](https://www.v2ex.com/t/792427) `15条评论` `Apple`
-1. [迫于这次水患，请大家推荐一款防水手机套/袋](https://www.v2ex.com/t/792456) `14条评论` `问与答`
 1. [广东电信宽带流量异常，被停网一天](https://www.v2ex.com/t/792417) `13条评论` `宽带症候群`
 1. [关于国有企业体制内工作的感悟和抉择](https://www.v2ex.com/t/792445) `12条评论` `职场话题`
 1. [做了一个开源低代码后端，有被别人使用的可能吗？](https://www.v2ex.com/t/792404) `12条评论` `分享创造`
 1. [最近用几行 SVG 重构了一个之前用 Canvas 写了很多的动画，这里是一篇 SVG 的小分享~](https://www.v2ex.com/t/792457) `11条评论` `分享创造`
 1. [见多了机翻英文论坛的中文站点，第一次见机翻中文论坛的英文站点](https://www.v2ex.com/t/792454) `10条评论` `程序员`
 1. [多服务项目如何接入 ci？](https://www.v2ex.com/t/792449) `10条评论` `程序员`
+1. [请问一下各位大佬，想用 Windows XP X64 的系统，但是就是找不到网卡驱动程序，有没有解决方案？](https://www.v2ex.com/t/792446) `10条评论` `微软`
 1. [服务器（windows）部署 go 源码后，不能用记事本编辑文件吗？](https://www.v2ex.com/t/792438) `10条评论` `Go`
 1. [位于奇怪位置的应用，无法删除，但 spotlight 还能搜出来](https://www.v2ex.com/t/792415) `10条评论` `macOS`
+1. [一直理不清楚 网关,nginx,代理,在项目中的怎么串联起来的..](https://www.v2ex.com/t/792465) `9条评论` `程序员`
 1. [低调的问下，除了 Taobao 国外的电话卡外，还有别的方法收到 Clubhouse 的短信验证码吗](https://www.v2ex.com/t/792383) `9条评论` `问与答`
-1. [请问一下各位大佬，想用 Windows XP X64 的系统，但是就是找不到网卡驱动程序，有没有解决方案？](https://www.v2ex.com/t/792446) `8条评论` `微软`
+1. [python3 项目不改代码前提下，有什么办法可以把引用的 mysqlclient 直接替换为 PyMySQL？](https://www.v2ex.com/t/792453) `8条评论` `Python`
 1. [华为 Mate40 Pro 跟 Mate30 Pro 哪一个续航更好一些？](https://www.v2ex.com/t/792419) `8条评论` `Android`
-1. [python3 项目不改代码前提下，有什么办法可以把引用的 mysqlclient 直接替换为 PyMySQL？](https://www.v2ex.com/t/792453) `7条评论` `Python`
 1. [Git Bash for Windows 不小心 rm 了一些文件，看了一下回收站并没有这些文件，还能找回文件吗？](https://www.v2ex.com/t/792451) `7条评论` `问与答`
-1. [话说下一代 iPhone 会有指纹吗？](https://www.v2ex.com/t/792450) `7条评论` `iPhone`
 
-数据更新于 2021-07-29 06:31:38
+数据更新于 2021-07-29 06:54:15
 
 <!-- TODAY END -->
 
