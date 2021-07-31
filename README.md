@@ -8,9 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `12条评论` `Java`
+1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `15条评论` `Java`
+1. [求推荐一款舒适度 ≈ Airpods 的无线耳机](https://www.v2ex.com/t/792828) `7条评论` `Apple`
+1. [MIUI 换成繁体中文，默认搜索引擎就没有谷歌了](https://www.v2ex.com/t/792825) `7条评论` `Google`
 
-数据更新于 2021-07-31 02:39:30
+数据更新于 2021-07-31 02:50:28
 
 <!-- TODAY END -->
 
