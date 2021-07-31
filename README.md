@@ -8,16 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `26条评论` `Java`
+1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `28条评论` `Java`
+1. [MIUI 换成繁体中文，默认搜索引擎就没有谷歌了](https://www.v2ex.com/t/792825) `14条评论` `Google`
 1. [求推荐一款舒适度 ≈ Airpods 的无线耳机](https://www.v2ex.com/t/792828) `13条评论` `Apple`
-1. [MIUI 换成繁体中文，默认搜索引擎就没有谷歌了](https://www.v2ex.com/t/792825) `12条评论` `Google`
+1. [百度贴吧是怎么做到让 iOS 卡死的](https://www.v2ex.com/t/792836) `10条评论` `Apple`
+1. [租的房子有个这样的窗台，怎么折腾一下可以看起来好点呢？](https://www.v2ex.com/t/792843) `8条评论` `问与答`
 1. [怎么才能在 Mac 上看电视？](https://www.v2ex.com/t/792831) `8条评论` `macOS`
-1. [租的房子有个这样的窗台，怎么折腾一下可以看起来好点呢？](https://www.v2ex.com/t/792843) `7条评论` `问与答`
 1. [从程序员的角度看灰度发布，是不是真的很难实现和落地？](https://www.v2ex.com/t/792838) `7条评论` `程序员`
-1. [百度贴吧是怎么做到让 iOS 卡死的](https://www.v2ex.com/t/792836) `7条评论` `Apple`
-1. [v 友们跑步都穿的哪款跑鞋呢？可以推荐一款质量好，轻，能穿得久一点的么？](https://www.v2ex.com/t/792833) `6条评论` `跑步`
+1. [v 友们跑步都穿的哪款跑鞋呢？可以推荐一款质量好，轻，能穿得久一点的么？](https://www.v2ex.com/t/792833) `7条评论` `跑步`
+1. [1k 价位 ssd 求推荐](https://www.v2ex.com/t/792851) `6条评论` `SSD`
 
-数据更新于 2021-07-31 04:32:36
+数据更新于 2021-07-31 04:53:34
 
 <!-- TODAY END -->
 
