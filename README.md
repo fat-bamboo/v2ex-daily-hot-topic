@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `56条评论` `Java`
+1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `57条评论` `Java`
 1. [百度贴吧是怎么做到让 iOS 卡死的](https://www.v2ex.com/t/792836) `49条评论` `Apple`
 1. [租的房子有个这样的窗台，怎么折腾一下可以看起来好点呢？](https://www.v2ex.com/t/792843) `45条评论` `问与答`
 1. [v 友们跑步都穿的哪款跑鞋呢？可以推荐一款质量好，轻，能穿得久一点的么？](https://www.v2ex.com/t/792833) `36条评论` `跑步`
@@ -21,6 +21,7 @@
 1. [接上回 去杭州检车 出结果了 老哥们这车能买吗？](https://www.v2ex.com/t/792906) `17条评论` `汽车`
 1. [MIUI 换成繁体中文，默认搜索引擎就没有谷歌了](https://www.v2ex.com/t/792825) `16条评论` `Google`
 1. [华硕路由器 AC86U 又给抢救回来了！](https://www.v2ex.com/t/792880) `15条评论` `路由器`
+1. [想买一台 macbook pro，有三种想法，求分析一下](https://www.v2ex.com/t/792925) `14条评论` `程序员`
 1. [现在日常办公场景下 WPS 能替代 MS Office 吗？](https://www.v2ex.com/t/792879) `13条评论` `Microsoft Office`
 1. [LiDAR 是否可以用于给视障群体提供机器视觉能力？](https://www.v2ex.com/t/792864) `12条评论` `奇思妙想`
 1. [需要用到 IPTV 的联通网络，怎么桥接？？](https://www.v2ex.com/t/792871) `11条评论` `问与答`
@@ -30,9 +31,8 @@
 1. [阿里云上 K8S 读写 NFS 好慢](https://www.v2ex.com/t/792835) `10条评论` `Kubernetes`
 1. [1k 价位 ssd 求推荐](https://www.v2ex.com/t/792851) `9条评论` `SSD`
 1. [M1 MacBook Air 求助](https://www.v2ex.com/t/792875) `8条评论` `Apple`
-1. [家用 pfsense 防火墙硬件推荐？](https://www.v2ex.com/t/792842) `8条评论` `路由器`
 
-数据更新于 2021-07-31 15:53:14
+数据更新于 2021-07-31 16:06:53
 
 <!-- TODAY END -->
 
