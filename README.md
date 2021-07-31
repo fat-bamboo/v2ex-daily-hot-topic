@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `55条评论` `Java`
-1. [百度贴吧是怎么做到让 iOS 卡死的](https://www.v2ex.com/t/792836) `47条评论` `Apple`
+1. [Java 都这么多年过去了，生产级别数据库操作库除了 JPA 和 Mybatis 还有什么？ JPA 和 mybatis-plus 比优势在什么地方？](https://www.v2ex.com/t/792830) `56条评论` `Java`
+1. [百度贴吧是怎么做到让 iOS 卡死的](https://www.v2ex.com/t/792836) `48条评论` `Apple`
 1. [租的房子有个这样的窗台，怎么折腾一下可以看起来好点呢？](https://www.v2ex.com/t/792843) `43条评论` `问与答`
 1. [v 友们跑步都穿的哪款跑鞋呢？可以推荐一款质量好，轻，能穿得久一点的么？](https://www.v2ex.com/t/792833) `35条评论` `跑步`
 1. [买房了，首套资格没了，说说买房折扣事](https://www.v2ex.com/t/792874) `25条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [M1 MacBook Air 求助](https://www.v2ex.com/t/792875) `8条评论` `Apple`
 1. [家用 pfsense 防火墙硬件推荐？](https://www.v2ex.com/t/792842) `8条评论` `路由器`
 
-数据更新于 2021-07-31 15:04:32
+数据更新于 2021-07-31 15:27:05
 
 <!-- TODAY END -->
 
