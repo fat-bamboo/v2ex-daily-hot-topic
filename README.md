@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
+1. [gitlab 不显示当天提交的记录、但是的确有提交](https://www.v2ex.com/t/792966) `17条评论` `问与答`
 1. [都说 JD 上的薪水只看左区间端点就好了，各位的经历也是如此吗？](https://www.v2ex.com/t/792951) `16条评论` `职场话题`
-1. [gitlab 不显示当天提交的记录、但是的确有提交](https://www.v2ex.com/t/792966) `16条评论` `问与答`
 1. [工作原因必须连接公司 wifi，要求安装根证书](https://www.v2ex.com/t/792969) `16条评论` `iPhone`
 1. [拿了 Offer 又不去入职是不是不太好啊,问问大家怎么处理的](https://www.v2ex.com/t/792975) `15条评论` `职场话题`
-1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958) `13条评论` `程序员`
+1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958) `14条评论` `程序员`
 1. [Full Stack (偏 Front-end React)](https://www.v2ex.com/t/792957) `11条评论` `求职`
 1. [vscode 求助， js new 一个构造函数时，如何让这个构造函数自动补全括号？](https://www.v2ex.com/t/792955) `10条评论` `问与答`
 1. [如何在 excel 的数据透视图中，统计在某个范围内的数据的出现次数？](https://www.v2ex.com/t/792941) `9条评论` `问与答`
@@ -22,7 +22,7 @@
 1. [求助，安装 Docker 失败](https://www.v2ex.com/t/792953) `6条评论` `Docker`
 1. [macOS 信息程序收去短信不再提醒（已开启通知权限）](https://www.v2ex.com/t/792944) `6条评论` `macOS`
 
-数据更新于 2021-08-01 08:37:21
+数据更新于 2021-08-01 08:44:40
 
 <!-- TODAY END -->
 
