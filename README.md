@@ -12,15 +12,15 @@
 1. [工作原因必须连接公司 wifi，要求安装根证书](https://www.v2ex.com/t/792969) `11条评论` `iPhone`
 1. [gitlab 不显示当天提交的记录、但是的确有提交](https://www.v2ex.com/t/792966) `11条评论` `问与答`
 1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958) `9条评论` `程序员`
+1. [vscode 求助， js new 一个构造函数时，如何让这个构造函数自动补全括号？](https://www.v2ex.com/t/792955) `8条评论` `问与答`
 1. [[Windows11] 上周一直看不到的蓝牙开关，今天一上班就看到了](https://www.v2ex.com/t/792942) `8条评论` `Windows`
 1. [如何在 excel 的数据透视图中，统计在某个范围内的数据的出现次数？](https://www.v2ex.com/t/792941) `8条评论` `问与答`
-1. [vscode 求助， js new 一个构造函数时，如何让这个构造函数自动补全括号？](https://www.v2ex.com/t/792955) `7条评论` `问与答`
 1. [将任务分配给其他线程处理，使用哪种方式更优](https://www.v2ex.com/t/792974) `6条评论` `Java`
 1. [Full Stack (偏 Front-end React)](https://www.v2ex.com/t/792957) `6条评论` `求职`
 1. [求助，安装 Docker 失败](https://www.v2ex.com/t/792953) `6条评论` `Docker`
 1. [macOS 信息程序收去短信不再提醒（已开启通知权限）](https://www.v2ex.com/t/792944) `6条评论` `macOS`
 
-数据更新于 2021-08-01 05:41:36
+数据更新于 2021-08-01 05:51:50
 
 <!-- TODAY END -->
 
