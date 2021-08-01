@@ -9,11 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [都说 JD 上的薪水只看左区间端点就好了，各位的经历也是如此吗？](https://www.v2ex.com/t/792951) `14条评论` `职场话题`
-1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958) `8条评论` `程序员`
+1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958) `9条评论` `程序员`
+1. [gitlab 不显示当天提交的记录、但是的确有提交](https://www.v2ex.com/t/792966) `7条评论` `问与答`
+1. [[Windows11] 上周一直看不到的蓝牙开关，今天一上班就看到了](https://www.v2ex.com/t/792942) `7条评论` `Windows`
 1. [如何在 excel 的数据透视图中，统计在某个范围内的数据的出现次数？](https://www.v2ex.com/t/792941) `7条评论` `问与答`
 1. [求助，安装 Docker 失败](https://www.v2ex.com/t/792953) `6条评论` `Docker`
 
-数据更新于 2021-08-01 04:32:12
+数据更新于 2021-08-01 04:53:02
 
 <!-- TODAY END -->
 
