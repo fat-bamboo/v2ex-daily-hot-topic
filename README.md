@@ -16,8 +16,8 @@
 1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004) `64条评论` `程序员`
 1. [未来会有什么格式会淘汰 json 吗？](https://www.v2ex.com/t/794059) `59条评论` `问与答`
 1. [win11 更新 22000.120 了](https://www.v2ex.com/t/793988) `46条评论` `Windows`
+1. [万恶的 Lightening 什么时候被取缔，或者换成 TypeC](https://www.v2ex.com/t/794050) `43条评论` `iPhone`
 1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193) `42条评论` `Linux`
-1. [万恶的 Lightening 什么时候被取缔，或者换成 TypeC](https://www.v2ex.com/t/794050) `42条评论` `iPhone`
 1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！](https://www.v2ex.com/t/794185) `41条评论` `Apple`
 1. [苹果的硬件真的拉垮](https://www.v2ex.com/t/794200) `36条评论` `iPhone`
 1. [大家都把自己的秘密日记写在哪里？](https://www.v2ex.com/t/794056) `35条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [不想戴手机壳，但手机放不平很难受](https://www.v2ex.com/t/794043) `18条评论` `iPhone`
 1. [为什么每次发朋友圈后都感觉有点难受？](https://www.v2ex.com/t/794055) `17条评论` `微信`
 
-数据更新于 2021-08-06 21:51:54
+数据更新于 2021-08-06 22:04:27
 
 <!-- TODAY END -->
 
