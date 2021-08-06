@@ -8,28 +8,28 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果的新 iOS 系统会主动扫描 iPhone 用户的手机相册里有无儿童色情图片](https://www.v2ex.com/t/793972) `74条评论` `Apple`
-1. [如果中文圈每个人都能重视中文排版的格式，我们的网页浏览体验一定会变得更好](https://www.v2ex.com/t/793989) `27条评论` `分享发现`
+1. [苹果的新 iOS 系统会主动扫描 iPhone 用户的手机相册里有无儿童色情图片](https://www.v2ex.com/t/793972) `84条评论` `Apple`
+1. [如果中文圈每个人都能重视中文排版的格式，我们的网页浏览体验一定会变得更好](https://www.v2ex.com/t/793989) `28条评论` `分享发现`
 1. [求推荐千元安卓机（上下浮动不超过两百）](https://www.v2ex.com/t/793985) `27条评论` `Android`
 1. [22 岁中专学历想入坑互联网行业，还有机会吗？](https://www.v2ex.com/t/793975) `21条评论` `问与答`
-1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004) `18条评论` `程序员`
+1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004) `19条评论` `程序员`
 1. [win11 更新 22000.120 了](https://www.v2ex.com/t/793988) `17条评论` `Windows`
+1. [第二次被电信停网](https://www.v2ex.com/t/793999) `16条评论` `宽带症候群`
 1. [有了解 GIS 的么，请教个经纬度的问题？](https://www.v2ex.com/t/793974) `15条评论` `程序员`
-1. [第二次被电信停网](https://www.v2ex.com/t/793999) `14条评论` `宽带症候群`
 1. [使用 mybatis plus， springboot 启动特别慢，初始化 addMappedStatement 耗时很久](https://www.v2ex.com/t/793983) `14条评论` `程序员`
+1. [组里 40 老大哥有错不改还注释他人代码怎么解](https://www.v2ex.com/t/794012) `13条评论` `程序员`
 1. [VS Code 1.59 发布！ Terminal 可以跨窗口移动了！](https://www.v2ex.com/t/793970) `12条评论` `Visual Studio Code`
 1. [关于如何践行团队文化的几个问题请教！](https://www.v2ex.com/t/794000) `11条评论` `问与答`
-1. [组里 40 老大哥有错不改还注释他人代码怎么解](https://www.v2ex.com/t/794012) `10条评论` `程序员`
 1. [百度输入法 PC 版更新了（2021.6.30）](https://www.v2ex.com/t/793969) `10条评论` `分享发现`
 1. [js 只有数字格式的版本号比较能直接用 > 嘛？](https://www.v2ex.com/t/794003) `9条评论` `JavaScript`
-1. [zulu jdk for m1，有个坑](https://www.v2ex.com/t/794011) `6条评论` `Java`
-1. [decops 太大，我们先做 CI/CD，请大家给点意见方向吧](https://www.v2ex.com/t/794008) `6条评论` `程序员`
+1. [zulu jdk for m1，有个坑](https://www.v2ex.com/t/794011) `7条评论` `Java`
+1. [decops 太大，我们先做 CI/CD，请大家给点意见方向吧](https://www.v2ex.com/t/794008) `7条评论` `程序员`
 1. [2021-08-06 Go 微服务框架选谁](https://www.v2ex.com/t/794006) `6条评论` `Go`
 1. [给 airpods Pro 换了新的耳机帽。舒服太多了。问你们多久换一次耳机帽?](https://www.v2ex.com/t/793995) `6条评论` `问与答`
 1. [小黄车的定位就是手机定位，我到工位才想起关闭，告诉我要管理费？ 脑残设计？](https://www.v2ex.com/t/793979) `6条评论` `程序员`
 1. [基于腾讯云轻量服务器安装 telegram 机器人](https://www.v2ex.com/t/793976) `6条评论` `Telegram`
 
-数据更新于 2021-08-06 03:26:26
+数据更新于 2021-08-06 03:39:33
 
 <!-- TODAY END -->
 
