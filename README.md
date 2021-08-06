@@ -19,7 +19,7 @@
 1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193) `45条评论` `Linux`
 1. [万恶的 Lightening 什么时候被取缔，或者换成 TypeC](https://www.v2ex.com/t/794050) `43条评论` `iPhone`
 1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！](https://www.v2ex.com/t/794185) `41条评论` `Apple`
-1. [苹果的硬件真的拉垮](https://www.v2ex.com/t/794200) `37条评论` `iPhone`
+1. [苹果的硬件真的拉垮](https://www.v2ex.com/t/794200) `38条评论` `iPhone`
 1. [大家都把自己的秘密日记写在哪里？](https://www.v2ex.com/t/794056) `35条评论` `问与答`
 1. [有人配过过机房用 nas 服务器么，差不多带 100 台服务器读写](https://www.v2ex.com/t/794138) `33条评论` `NAS`
 1. [尽管 v 站很多人者不屑于使用抖音，但它全球下载量已超过 FB](https://www.v2ex.com/t/794165) `27条评论` `互联网`
@@ -32,7 +32,7 @@
 1. [不想戴手机壳，但手机放不平很难受](https://www.v2ex.com/t/794043) `18条评论` `iPhone`
 1. [为什么每次发朋友圈后都感觉有点难受？](https://www.v2ex.com/t/794055) `17条评论` `微信`
 
-数据更新于 2021-08-06 23:04:31
+数据更新于 2021-08-06 23:22:28
 
 <!-- TODAY END -->
 
