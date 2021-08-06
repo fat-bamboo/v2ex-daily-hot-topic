@@ -11,13 +11,13 @@
 1. [想了解一下有多少人写代码的时候是盲打的](https://www.v2ex.com/t/794079) `181条评论` `程序员`
 1. [苹果的新 iOS 系统会主动扫描 iPhone 用户的手机相册里有无儿童色情图片](https://www.v2ex.com/t/793972) `170条评论` `Apple`
 1. [如果中文圈每个人都能重视中文排版的格式，我们的网页浏览体验一定会变得更好](https://www.v2ex.com/t/793989) `73条评论` `分享发现`
-1. [第二次被电信停网](https://www.v2ex.com/t/793999) `72条评论` `宽带症候群`
+1. [第二次被电信停网](https://www.v2ex.com/t/793999) `73条评论` `宽带症候群`
 1. [同事翘班半年 报班学算法 现在入职百度了](https://www.v2ex.com/t/794040) `66条评论` `职场话题`
 1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004) `63条评论` `程序员`
 1. [未来会有什么格式会淘汰 json 吗？](https://www.v2ex.com/t/794059) `56条评论` `问与答`
-1. [win11 更新 22000.120 了](https://www.v2ex.com/t/793988) `43条评论` `Windows`
-1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193) `40条评论` `Linux`
-1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！](https://www.v2ex.com/t/794185) `37条评论` `Apple`
+1. [win11 更新 22000.120 了](https://www.v2ex.com/t/793988) `45条评论` `Windows`
+1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193) `41条评论` `Linux`
+1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！](https://www.v2ex.com/t/794185) `41条评论` `Apple`
 1. [大家都把自己的秘密日记写在哪里？](https://www.v2ex.com/t/794056) `35条评论` `问与答`
 1. [有人配过过机房用 nas 服务器么，差不多带 100 台服务器读写](https://www.v2ex.com/t/794138) `33条评论` `NAS`
 1. [苹果的硬件真的拉垮](https://www.v2ex.com/t/794200) `31条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [为什么每次发朋友圈后都感觉有点难受？](https://www.v2ex.com/t/794055) `17条评论` `微信`
 1. [可以分享一下你在家敲代码的椅子吗？](https://www.v2ex.com/t/794026) `15条评论` `分享发现`
 
-数据更新于 2021-08-06 18:05:44
+数据更新于 2021-08-06 18:30:52
 
 <!-- TODAY END -->
 
