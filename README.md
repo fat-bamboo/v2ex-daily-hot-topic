@@ -16,10 +16,10 @@
 1. [被静默推送了臭名昭著的 Chrome Privacy Sandbox，大家都关了吗？](https://www.v2ex.com/t/794424) `34条评论` `Google`
 1. [什么才是合适的家庭电影共享方案？](https://www.v2ex.com/t/794360) `34条评论` `问与答`
 1. [终于有证了](https://www.v2ex.com/t/794393) `31条评论` `教育`
-1. [接触到 Obsidian 有点相见恨晚的感慨](https://www.v2ex.com/t/794428) `27条评论` `macOS`
+1. [接触到 Obsidian 有点相见恨晚的感慨](https://www.v2ex.com/t/794428) `29条评论` `macOS`
 1. [之前看 v 友的帖子，本想证明 centos 比 freebsd 弱不了多少，没想到引出 ubuntu server 20.04 成为黑马](https://www.v2ex.com/t/794443) `25条评论` `Linux`
 1. [[乐子]现在的初中生写代码连要遵循开源许可证都不知道么](https://www.v2ex.com/t/794469) `21条评论` `分享发现`
-1. [Go 成功让我实现了人格分裂](https://www.v2ex.com/t/794480) `18条评论` `Go`
+1. [Go 成功让我实现了人格分裂](https://www.v2ex.com/t/794480) `19条评论` `Go`
 1. [刚毕业小萌新，拒了去外包，收集一些看法](https://www.v2ex.com/t/794413) `13条评论` `程序员`
 1. [us 女排打的是真精彩](https://www.v2ex.com/t/794417) `13条评论` `随想`
 1. [彦祖们，请问 Office 365 和其他人拼车有风险吗？](https://www.v2ex.com/t/794460) `12条评论` `Microsoft Office`
@@ -29,10 +29,10 @@
 1. [大佬们，快来帮帮我看一下我设备是不是被黑了，人在外地设备在家里，现在慌的一笔 没见过这种场面](https://www.v2ex.com/t/794448) `11条评论` `程序员`
 1. [怎么进行家庭空间内的日常消杀？](https://www.v2ex.com/t/794427) `11条评论` `问与答`
 1. [局域网内游戏串流(win 到 mac)的最佳方案是啥？](https://www.v2ex.com/t/794414) `11条评论` `问与答`
+1. [移民需要考虑什么？](https://www.v2ex.com/t/794503) `9条评论` `问与答`
 1. [废旧锂电池可以给 Apple Store 处理](https://www.v2ex.com/t/794379) `9条评论` `Apple`
-1. [迫于阿里大瓜，突然有个疑问，关于强奸认定](https://www.v2ex.com/t/794402) `9条评论` `问与答`
 
-数据更新于 2021-08-08 23:41:38
+数据更新于 2021-08-08 23:51:51
 
 <!-- TODAY END -->
 
