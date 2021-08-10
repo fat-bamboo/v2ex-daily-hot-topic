@@ -9,24 +9,25 @@
 <!-- TODAY BEGIN -->
 
 1. [想知道大家是通过什么方式结交了现在的女朋友 or 老婆的？](https://www.v2ex.com/t/794752) `70条评论` `问与答`
-1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788) `41条评论` `Linux`
-1. [生日快到，买什么礼物给自己好？](https://www.v2ex.com/t/794756) `27条评论` `问与答`
-1. [想做个专门给开发者用的搜索引擎，取个啥名好呢🤔](https://www.v2ex.com/t/794816) `25条评论` `问与答`
+1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788) `44条评论` `Linux`
+1. [生日快到，买什么礼物给自己好？](https://www.v2ex.com/t/794756) `43条评论` `问与答`
+1. [想做个专门给开发者用的搜索引擎，取个啥名好呢🤔](https://www.v2ex.com/t/794816) `28条评论` `问与答`
 1. [2021 年五大流行的编程语言，你是不是也在用？](https://www.v2ex.com/t/794760) `23条评论` `程序员`
 1. [港区 playstation 账号未来会限制下载游戏么， ps4， ps5](https://www.v2ex.com/t/794753) `22条评论` `问与答`
+1. [Intagram 无故被封](https://www.v2ex.com/t/794785) `19条评论` `Instagram`
 1. [airpods pro 的空间音频真是鸡肋](https://www.v2ex.com/t/794754) `19条评论` `Apple`
-1. [Intagram 无故被封](https://www.v2ex.com/t/794785) `18条评论` `Instagram`
 1. [2.9 一年美团会员](https://www.v2ex.com/t/794792) `15条评论` `优惠信息`
 1. [部门解散，要被发配到其他部门，现有项目需要从 Django 转到 Springboot，请问有没有快速入门 Springboot 的教程？](https://www.v2ex.com/t/794765) `15条评论` `问与答`
 1. [大家所在的公司有没有打算搞或者已经搞过 AIOps（人工智能运维）？](https://www.v2ex.com/t/794751) `11条评论` `问与答`
+1. [不与傻子争是非 有感](https://www.v2ex.com/t/794823) `10条评论` `程序员`
 1. [关于 Python 包导入的问题](https://www.v2ex.com/t/794779) `9条评论` `Python`
 1. [300M 宽带跑出下载 60mbps 上传 38mbps 正常吗？](https://www.v2ex.com/t/794798) `8条评论` `宽带症候群`
 1. [彦祖们， LZ 打算在虾皮开个网点卖点义乌小商品，用自己身份在淘宝办个营业执照有风险吗？](https://www.v2ex.com/t/794755) `8条评论` `问与答`
+1. [罗技 master 2s 的滚轮究竟是难用还是好用?](https://www.v2ex.com/t/794801) `7条评论` `macOS`
 1. [API 网关到底适用于什么场景](https://www.v2ex.com/t/794757) `7条评论` `问与答`
-1. [不与傻子争是非 有感](https://www.v2ex.com/t/794823) `6条评论` `程序员`
 1. [老哥们觉得这个有没有搞头](https://www.v2ex.com/t/794759) `6条评论` `程序员`
 
-数据更新于 2021-08-10 04:32:23
+数据更新于 2021-08-10 04:53:08
 
 <!-- TODAY END -->
 
