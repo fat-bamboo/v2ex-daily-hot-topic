@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
+1. [生日快到，买什么礼物给自己好？](https://www.v2ex.com/t/794756) `70条评论` `问与答`
 1. [想知道大家是通过什么方式结交了现在的女朋友 or 老婆的？](https://www.v2ex.com/t/794752) `70条评论` `问与答`
-1. [生日快到，买什么礼物给自己好？](https://www.v2ex.com/t/794756) `67条评论` `问与答`
-1. [想做个专门给开发者用的搜索引擎，取个啥名好呢🤔](https://www.v2ex.com/t/794816) `56条评论` `问与答`
-1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788) `52条评论` `Linux`
+1. [想做个专门给开发者用的搜索引擎，取个啥名好呢🤔](https://www.v2ex.com/t/794816) `58条评论` `问与答`
+1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788) `53条评论` `Linux`
 1. [2021 年五大流行的编程语言，你是不是也在用？](https://www.v2ex.com/t/794760) `23条评论` `程序员`
 1. [港区 playstation 账号未来会限制下载游戏么， ps4， ps5](https://www.v2ex.com/t/794753) `22条评论` `问与答`
 1. [Intagram 无故被封](https://www.v2ex.com/t/794785) `21条评论` `Instagram`
@@ -22,17 +22,17 @@
 1. [部门解散，要被发配到其他部门，现有项目需要从 Django 转到 Springboot，请问有没有快速入门 Springboot 的教程？](https://www.v2ex.com/t/794765) `15条评论` `问与答`
 1. [[上海][ PHP 后端]传统行业，不加班， 13-15K](https://www.v2ex.com/t/794833) `13条评论` `酷工作`
 1. [罗技 master 2s 的滚轮究竟是难用还是好用?](https://www.v2ex.com/t/794801) `13条评论` `macOS`
+1. [问个问题, 大家怎么念 iphoneX iphoneXR iphoneXS](https://www.v2ex.com/t/794855) `11条评论` `iPhone`
 1. [有结合 github issue 和 兔小巢两者优点的反馈系统嘛?](https://www.v2ex.com/t/794825) `11条评论` `奇思妙想`
 1. [300M 宽带跑出下载 60mbps 上传 38mbps 正常吗？](https://www.v2ex.com/t/794798) `11条评论` `宽带症候群`
 1. [大家所在的公司有没有打算搞或者已经搞过 AIOps（人工智能运维）？](https://www.v2ex.com/t/794751) `11条评论` `问与答`
-1. [问个问题, 大家怎么念 iphoneX iphoneXR iphoneXS](https://www.v2ex.com/t/794855) `10条评论` `iPhone`
+1. [Parallels Desktop 17 发布啦！速来围观新增功能](https://www.v2ex.com/t/794845) `10条评论` `macOS`
 1. [不与傻子争是非 有感](https://www.v2ex.com/t/794823) `10条评论` `程序员`
-1. [Parallels Desktop 17 发布啦！速来围观新增功能](https://www.v2ex.com/t/794845) `9条评论` `macOS`
 1. [关于 Python 包导入的问题](https://www.v2ex.com/t/794779) `9条评论` `Python`
+1. [看了一上午的笔记本的, 选了 3 款,有几个疑惑求大佬帮忙参谋下](https://www.v2ex.com/t/794835) `8条评论` `问与答`
 1. [有人遇到过 Golang select case 语句和 default 语句都没执行的情况吗？](https://www.v2ex.com/t/794809) `8条评论` `程序员`
-1. [彦祖们， LZ 打算在虾皮开个网点卖点义乌小商品，用自己身份在淘宝办个营业执照有风险吗？](https://www.v2ex.com/t/794755) `8条评论` `问与答`
 
-数据更新于 2021-08-10 07:41:45
+数据更新于 2021-08-10 07:52:02
 
 <!-- TODAY END -->
 
