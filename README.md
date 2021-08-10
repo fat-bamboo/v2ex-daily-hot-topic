@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [生日快到，买什么礼物给自己好？](https://www.v2ex.com/t/794756) `93条评论` `问与答`
+1. [生日快到，买什么礼物给自己好？](https://www.v2ex.com/t/794756) `94条评论` `问与答`
 1. [想做个专门给开发者用的搜索引擎，取个啥名好呢🤔](https://www.v2ex.com/t/794816) `75条评论` `问与答`
 1. [想知道大家是通过什么方式结交了现在的女朋友 or 老婆的？](https://www.v2ex.com/t/794752) `70条评论` `问与答`
-1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788) `61条评论` `Linux`
+1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788) `62条评论` `Linux`
 1. [港区 playstation 账号未来会限制下载游戏么， ps4， ps5](https://www.v2ex.com/t/794753) `54条评论` `问与答`
 1. [问个问题, 大家怎么念 iphoneX iphoneXR iphoneXS](https://www.v2ex.com/t/794855) `49条评论` `iPhone`
 1. [QQ 音乐免费送一个月会员](https://www.v2ex.com/t/794861) `34条评论` `优惠信息`
@@ -32,7 +32,7 @@
 1. [各位大佬，有没有更好的给 Golang struct 初始化值的方式](https://www.v2ex.com/t/794872) `14条评论` `Go`
 1. [罗技 master 2s 的滚轮究竟是难用还是好用?](https://www.v2ex.com/t/794801) `13条评论` `macOS`
 
-数据更新于 2021-08-10 10:26:36
+数据更新于 2021-08-10 10:39:07
 
 <!-- TODAY END -->
 
