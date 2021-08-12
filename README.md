@@ -8,20 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `63条评论` `分享发现`
+1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `65条评论` `分享发现`
+1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `40条评论` `电影`
 1. [你们用的 chrome 还是 edge 呢？](https://www.v2ex.com/t/795245) `25条评论` `浏览器`
-1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `25条评论` `电影`
-1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `14条评论` `Apple`
+1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `15条评论` `Apple`
+1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283) `12条评论` `京东`
 1. [docker exec 执行和在 ENTRYPOINT 里执行有什么区别](https://www.v2ex.com/t/795232) `12条评论` `Docker`
 1. [在经济条件允许的情况下， 灵活就业人员是不是交社保交的越多越好](https://www.v2ex.com/t/795237) `11条评论` `知乎`
+1. [注册不了个人身份的 Apple Developer Program，说我被美国 ZF 制裁了。](https://www.v2ex.com/t/795278) `10条评论` `iDev`
 1. [macOS Monterey 12 Beta 5 能办公使用了么？](https://www.v2ex.com/t/795246) `10条评论` `macOS`
+1. [只想要一个手机号码，有没有能以最低代价持有的方式？](https://www.v2ex.com/t/795272) `9条评论` `程序员`
+1. [Apple “线上下单，线下取货”的意义](https://www.v2ex.com/t/795271) `9条评论` `Apple`
 1. [小爱同学控制三方硬件](https://www.v2ex.com/t/795240) `8条评论` `分享创造`
+1. [git 仓库太大（文档库， 30g+）mbp 硬盘不太够了，有啥办法能让它体积变小一点？](https://www.v2ex.com/t/795284) `7条评论` `程序员`
 1. [请教一下 css 里&&&&这个连续 4 个&的写法](https://www.v2ex.com/t/795265) `7条评论` `CSS`
+1. [美团更新绕过了 Google Play](https://www.v2ex.com/t/795247) `7条评论` `程序员`
 1. [求助，自建机房出现大量 response 状态码为 408 的请求](https://www.v2ex.com/t/795244) `7条评论` `NGINX`
 1. [腾讯云服务器香港线路崩了吗？](https://www.v2ex.com/t/795227) `7条评论` `问与答`
-1. [美团更新绕过了 Google Play](https://www.v2ex.com/t/795247) `6条评论` `程序员`
 
-数据更新于 2021-08-12 03:05:58
+数据更新于 2021-08-12 03:26:24
 
 <!-- TODAY END -->
 
