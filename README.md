@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `86条评论` `分享发现`
-1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `54条评论` `电影`
-1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283) `37条评论` `京东`
+1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `88条评论` `分享发现`
+1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `55条评论` `电影`
+1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283) `38条评论` `京东`
 1. [你们用的 chrome 还是 edge 呢？](https://www.v2ex.com/t/795245) `34条评论` `浏览器`
-1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `27条评论` `分享发现`
+1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `29条评论` `分享发现`
 1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `23条评论` `Apple`
 1. [求在 windows 下有没有更好的远程开发方案，被 wsl2 的 bug 折腾疯了](https://www.v2ex.com/t/795304) `22条评论` `Windows`
 1. [成都现在还有偷自行车的吗？](https://www.v2ex.com/t/795295) `20条评论` `成都`
@@ -22,8 +22,8 @@
 1. [关于设置账户密码，大家有什么好的方案吗？](https://www.v2ex.com/t/795287) `13条评论` `问与答`
 1. [请教 V 友们 在京东买水果的一些疑问🙏](https://www.v2ex.com/t/795274) `13条评论` `问与答`
 1. [注册不了个人身份的 Apple Developer Program，说我被美国 ZF 制裁了。](https://www.v2ex.com/t/795278) `13条评论` `iDev`
+1. [深夜 NAS 哔哔响，拿出 iPad 登不进去，艰难起床按 Reset，群晖支援狂甩锅。](https://www.v2ex.com/t/795308) `12条评论` `NAS`
 1. [docker exec 执行和在 ENTRYPOINT 里执行有什么区别](https://www.v2ex.com/t/795232) `12条评论` `Docker`
-1. [深夜 NAS 哔哔响，拿出 iPad 登不进去，艰难起床按 Reset，群晖支援狂甩锅。](https://www.v2ex.com/t/795308) `11条评论` `NAS`
 1. [Apple “线上下单，线下取货”的意义](https://www.v2ex.com/t/795271) `11条评论` `Apple`
 1. [[腾讯云一折起]1 核 2G6M 三年仅 200 多[新老老身份都可上车][有海外特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/795268) `11条评论` `优惠信息`
 1. [在经济条件允许的情况下， 灵活就业人员是不是交社保交的越多越好](https://www.v2ex.com/t/795237) `11条评论` `知乎`
@@ -32,7 +32,7 @@
 1. [小爱同学控制三方硬件](https://www.v2ex.com/t/795240) `8条评论` `分享创造`
 1. [5 分钟读完一本书](https://www.v2ex.com/t/795302) `7条评论` `分享发现`
 
-数据更新于 2021-08-12 05:20:14
+数据更新于 2021-08-12 05:28:09
 
 <!-- TODAY END -->
 
