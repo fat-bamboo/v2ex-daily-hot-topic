@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `162条评论` `分享发现`
-1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `111条评论` `分享发现`
+1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `112条评论` `分享发现`
 1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `87条评论` `电影`
 1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `87条评论` `Apple`
 1. [不好意思 请问下有没有男士用的洗面奶](https://www.v2ex.com/t/795353) `77条评论` `问与答`
@@ -19,9 +19,9 @@
 1. [大家 NAS 放在家里的哪里？](https://www.v2ex.com/t/795387) `51条评论` `NAS`
 1. [你们用的 chrome 还是 edge 呢？](https://www.v2ex.com/t/795245) `34条评论` `浏览器`
 1. [深夜 NAS 哔哔响，拿出 iPad 登不进去，艰难起床按 Reset，群晖支援狂甩锅。](https://www.v2ex.com/t/795308) `29条评论` `NAS`
+1. [Windows 系统盘越用越大简直让人崩溃，都第三次分区了。。。](https://www.v2ex.com/t/795447) `27条评论` `问与答`
 1. [各位彦祖们，手里有个 1999 的小米红包，考虑要不要加点钱搞个 RedmiBook Pro15？](https://www.v2ex.com/t/795348) `27条评论` `问与答`
 1. [求在 windows 下有没有更好的远程开发方案，被 wsl2 的 bug 折腾疯了](https://www.v2ex.com/t/795304) `27条评论` `Windows`
-1. [Windows 系统盘越用越大简直让人崩溃，都第三次分区了。。。](https://www.v2ex.com/t/795447) `26条评论` `问与答`
 1. [MIUI 最近那个原子内存是什么原理？](https://www.v2ex.com/t/795335) `23条评论` `Android`
 1. [下班路上去小米之家体验了 MIX4 和小米平板 5](https://www.v2ex.com/t/795415) `19条评论` `分享发现`
 1. [5 分钟读完一本书](https://www.v2ex.com/t/795302) `19条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [有没有办法对 Spring 进行"瘦身"?不去定制代码的前提下。](https://www.v2ex.com/t/795275) `15条评论` `Java`
 1. [校园卡重磅升级， 20 元/月包 50G 全国流量，北京更有总 70G 流量](https://www.v2ex.com/t/795347) `14条评论` `优惠信息`
 
-数据更新于 2021-08-12 18:30:29
+数据更新于 2021-08-12 18:51:59
 
 <!-- TODAY END -->
 
