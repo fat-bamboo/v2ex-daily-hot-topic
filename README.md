@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `111条评论` `分享发现`
-1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `61条评论` `电影`
-1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `47条评论` `Apple`
-1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283) `46条评论` `京东`
-1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `45条评论` `分享发现`
+1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `114条评论` `分享发现`
+1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `62条评论` `电影`
+1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `51条评论` `分享发现`
+1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `48条评论` `Apple`
+1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283) `48条评论` `京东`
 1. [你们用的 chrome 还是 edge 呢？](https://www.v2ex.com/t/795245) `34条评论` `浏览器`
 1. [深夜 NAS 哔哔响，拿出 iPad 登不进去，艰难起床按 Reset，群晖支援狂甩锅。](https://www.v2ex.com/t/795308) `29条评论` `NAS`
 1. [求在 windows 下有没有更好的远程开发方案，被 wsl2 的 bug 折腾疯了](https://www.v2ex.com/t/795304) `27条评论` `Windows`
@@ -21,7 +21,9 @@
 1. [git 仓库太大（文档库， 30g+）mbp 硬盘不太够了，有啥办法能让它体积变小一点？](https://www.v2ex.com/t/795284) `19条评论` `程序员`
 1. [有没有办法对 Spring 进行"瘦身"?不去定制代码的前提下。](https://www.v2ex.com/t/795275) `15条评论` `Java`
 1. [只想要一个手机号码，有没有能以最低代价持有的方式？](https://www.v2ex.com/t/795272) `15条评论` `程序员`
+1. [不好意思 请问下有没有男士用的洗面奶](https://www.v2ex.com/t/795353) `14条评论` `问与答`
 1. [MIUI 最近那个原子内存是什么原理？](https://www.v2ex.com/t/795335) `14条评论` `Android`
+1. [各位彦祖们，手里有个 1999 的小米红包，考虑要不要加点钱搞个 RedmiBook Pro15？](https://www.v2ex.com/t/795348) `13条评论` `问与答`
 1. [关于设置账户密码，大家有什么好的方案吗？](https://www.v2ex.com/t/795287) `13条评论` `问与答`
 1. [请教 V 友们 在京东买水果的一些疑问🙏](https://www.v2ex.com/t/795274) `13条评论` `问与答`
 1. [注册不了个人身份的 Apple Developer Program，说我被美国 ZF 制裁了。](https://www.v2ex.com/t/795278) `13条评论` `iDev`
@@ -29,10 +31,8 @@
 1. [Apple “线上下单，线下取货”的意义](https://www.v2ex.com/t/795271) `11条评论` `Apple`
 1. [[腾讯云一折起]1 核 2G6M 三年仅 200 多[新老老身份都可上车][有海外特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/795268) `11条评论` `优惠信息`
 1. [在经济条件允许的情况下， 灵活就业人员是不是交社保交的越多越好](https://www.v2ex.com/t/795237) `11条评论` `知乎`
-1. [NAT 穿透为什么要用 UDP 协议？](https://www.v2ex.com/t/795292) `10条评论` `问与答`
-1. [macOS Monterey 12 Beta 5 能办公使用了么？](https://www.v2ex.com/t/795246) `10条评论` `macOS`
 
-数据更新于 2021-08-12 07:20:53
+数据更新于 2021-08-12 07:36:20
 
 <!-- TODAY END -->
 
