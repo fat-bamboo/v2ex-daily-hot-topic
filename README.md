@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `106条评论` `分享发现`
-1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `60条评论` `电影`
+1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225) `111条评论` `分享发现`
+1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228) `61条评论` `电影`
+1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `47条评论` `Apple`
 1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283) `46条评论` `京东`
-1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259) `45条评论` `Apple`
-1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `39条评论` `分享发现`
+1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282) `45条评论` `分享发现`
 1. [你们用的 chrome 还是 edge 呢？](https://www.v2ex.com/t/795245) `34条评论` `浏览器`
 1. [深夜 NAS 哔哔响，拿出 iPad 登不进去，艰难起床按 Reset，群晖支援狂甩锅。](https://www.v2ex.com/t/795308) `29条评论` `NAS`
 1. [求在 windows 下有没有更好的远程开发方案，被 wsl2 的 bug 折腾疯了](https://www.v2ex.com/t/795304) `27条评论` `Windows`
@@ -32,7 +32,7 @@
 1. [NAT 穿透为什么要用 UDP 协议？](https://www.v2ex.com/t/795292) `10条评论` `问与答`
 1. [macOS Monterey 12 Beta 5 能办公使用了么？](https://www.v2ex.com/t/795246) `10条评论` `macOS`
 
-数据更新于 2021-08-12 07:04:52
+数据更新于 2021-08-12 07:20:53
 
 <!-- TODAY END -->
 
