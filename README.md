@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [不要购买 AC-86U，垃圾，太垃圾了。](https://www.v2ex.com/t/795716) `57条评论` `分享发现`
+1. [不要购买 AC-86U，垃圾，太垃圾了。](https://www.v2ex.com/t/795716) `58条评论` `分享发现`
 1. [女朋友给的七夕礼物~分享一下，嘿嘿。](https://www.v2ex.com/t/795722) `49条评论` `分享创造`
 1. [送一波 “时流记” App 兑换码](https://www.v2ex.com/t/795711) `39条评论` `分享创造`
+1. [固态硬盘 SSD 有什么牌子推荐么？是不是现在还是应首选 Samsung 或 Intel？](https://www.v2ex.com/t/795755) `35条评论` `SSD`
 1. [前几天才夸过 APP 取消开屏广告，又来了](https://www.v2ex.com/t/795719) `33条评论` `分享发现`
-1. [固态硬盘 SSD 有什么牌子推荐么？是不是现在还是应首选 Samsung 或 Intel？](https://www.v2ex.com/t/795755) `32条评论` `SSD`
 1. [我觉得技术公众号写技术文章就是个伪命题，一切都是为了割韭菜](https://www.v2ex.com/t/795733) `30条评论` `程序员`
-1. [如何将一个技术公众号做到 1 万+？](https://www.v2ex.com/t/795709) `27条评论` `程序员`
+1. [如何将一个技术公众号做到 1 万+？](https://www.v2ex.com/t/795709) `28条评论` `程序员`
 1. [求推荐一个日程管理、记录类软件](https://www.v2ex.com/t/795754) `23条评论` `问与答`
 1. [现在入手 m1 MacBook Pro 合适吗](https://www.v2ex.com/t/795760) `21条评论` `Apple`
 1. [越来越能理解在计算机中数据的重要性](https://www.v2ex.com/t/795726) `20条评论` `程序员`
@@ -24,15 +24,15 @@
 1. [Clash 为毛不能访问 yzzk.com](https://www.v2ex.com/t/795783) `9条评论` `宽带症候群`
 1. [淘宝搜索结果页面在 Safari 上会抖动](https://www.v2ex.com/t/795727) `9条评论` `全球工单系统`
 1. [spark 还是连不上网易邮箱？](https://www.v2ex.com/t/795720) `8条评论` `macOS`
+1. [m1 MacBook Air 有时候电源键无效](https://www.v2ex.com/t/795794) `7条评论` `macOS`
 1. [笔记本电脑如果用支持 PD 的 Type-C 口和自带的电源两个一起充电，会有啥影响啊？](https://www.v2ex.com/t/795781) `7条评论` `计算机`
+1. [[新人向] react 练手项目，计算器](https://www.v2ex.com/t/795776) `7条评论` `JavaScript`
 1. [昨天在电梯里，手机提示 airpods 通过 icloud 链接，我没有 airpods ，这什么情况？](https://www.v2ex.com/t/795741) `7条评论` `iCloud`
-1. [m1 MacBook Air 有时候电源键无效](https://www.v2ex.com/t/795794) `6条评论` `macOS`
-1. [[新人向] react 练手项目，计算器](https://www.v2ex.com/t/795776) `6条评论` `JavaScript`
+1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792) `6条评论` `职场话题`
 1. [2021 年了, 有没有什么好办法可以拿到一个单文件(或者绿色版) Python 解释器?](https://www.v2ex.com/t/795768) `6条评论` `Python`
 1. [MIUI12.5 增强版，永远相信没好的事情即将发生!](https://www.v2ex.com/t/795750) `6条评论` `MIUI`
-1. [上海云盾(www.yundun.com)体验款及其不稳定,一天宕机几十次,稳定性极差](https://www.v2ex.com/t/795743) `6条评论` `全球工单系统`
 
-数据更新于 2021-08-14 10:25:28
+数据更新于 2021-08-14 10:36:53
 
 <!-- TODAY END -->
 
