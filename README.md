@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [不要购买 AC-86U，垃圾，太垃圾了。](https://www.v2ex.com/t/795716) `58条评论` `分享发现`
+1. [不要购买 AC-86U，垃圾，太垃圾了。](https://www.v2ex.com/t/795716) `59条评论` `分享发现`
 1. [女朋友给的七夕礼物~分享一下，嘿嘿。](https://www.v2ex.com/t/795722) `49条评论` `分享创造`
 1. [送一波 “时流记” App 兑换码](https://www.v2ex.com/t/795711) `39条评论` `分享创造`
 1. [固态硬盘 SSD 有什么牌子推荐么？是不是现在还是应首选 Samsung 或 Intel？](https://www.v2ex.com/t/795755) `35条评论` `SSD`
@@ -25,14 +25,14 @@
 1. [淘宝搜索结果页面在 Safari 上会抖动](https://www.v2ex.com/t/795727) `9条评论` `全球工单系统`
 1. [spark 还是连不上网易邮箱？](https://www.v2ex.com/t/795720) `8条评论` `macOS`
 1. [m1 MacBook Air 有时候电源键无效](https://www.v2ex.com/t/795794) `7条评论` `macOS`
+1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792) `7条评论` `职场话题`
 1. [笔记本电脑如果用支持 PD 的 Type-C 口和自带的电源两个一起充电，会有啥影响啊？](https://www.v2ex.com/t/795781) `7条评论` `计算机`
 1. [[新人向] react 练手项目，计算器](https://www.v2ex.com/t/795776) `7条评论` `JavaScript`
 1. [昨天在电梯里，手机提示 airpods 通过 icloud 链接，我没有 airpods ，这什么情况？](https://www.v2ex.com/t/795741) `7条评论` `iCloud`
-1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792) `6条评论` `职场话题`
 1. [2021 年了, 有没有什么好办法可以拿到一个单文件(或者绿色版) Python 解释器?](https://www.v2ex.com/t/795768) `6条评论` `Python`
 1. [MIUI12.5 增强版，永远相信没好的事情即将发生!](https://www.v2ex.com/t/795750) `6条评论` `MIUI`
 
-数据更新于 2021-08-14 10:36:53
+数据更新于 2021-08-14 10:44:12
 
 <!-- TODAY END -->
 
