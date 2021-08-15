@@ -12,7 +12,7 @@
 1. [七夕没忍住和女神表白了](https://www.v2ex.com/t/795882) `31条评论` `职场话题`
 1. [百度网盘文件全被清空？救命！没找到客服](https://www.v2ex.com/t/795851) `25条评论` `问与答`
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888) `22条评论` `程序员`
-1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `19条评论` `Java`
+1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `20条评论` `Java`
 1. [大家来推荐几本对职业生涯影响较大的技术书籍](https://www.v2ex.com/t/795885) `16条评论` `程序员`
 1. [小米 49 元半价换电池活动](https://www.v2ex.com/t/795866) `16条评论` `小米`
 1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `15条评论` `Linux`
@@ -31,7 +31,7 @@
 1. [有没有人在做短链接程序](https://www.v2ex.com/t/795877) `6条评论` `程序员`
 1. [mac mini m1 可以接 2 个 LG Ultrafine 5k，或者 2 个 Pro Display XDR 吗？](https://www.v2ex.com/t/795854) `6条评论` `Apple`
 
-数据更新于 2021-08-15 08:44:08
+数据更新于 2021-08-15 08:51:36
 
 <!-- TODAY END -->
 
