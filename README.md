@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876) `89条评论` `北京`
+1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876) `90条评论` `北京`
 1. [七夕没忍住和女神表白了](https://www.v2ex.com/t/795882) `31条评论` `职场话题`
+1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `27条评论` `Linux`
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888) `27条评论` `程序员`
-1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `26条评论` `Linux`
 1. [百度网盘文件全被清空？救命！没找到客服](https://www.v2ex.com/t/795851) `26条评论` `问与答`
-1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `24条评论` `Java`
+1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `25条评论` `Java`
 1. [移动宽带融合加速是什么？](https://www.v2ex.com/t/795841) `23条评论` `宽带症候群`
 1. [啥牌子电视无广告？](https://www.v2ex.com/t/795884) `20条评论` `问与答`
 1. [大家来推荐几本对职业生涯影响较大的技术书籍](https://www.v2ex.com/t/795885) `18条评论` `程序员`
@@ -23,6 +23,7 @@
 1. [CPU 温度非常高，问题出在哪？](https://www.v2ex.com/t/795868) `11条评论` `硬件`
 1. [请教大家一个 C++内存分配后对象初始化的问题](https://www.v2ex.com/t/795873) `10条评论` `C++`
 1. [简单干净彻底禁用 Windows defender 和 windows update](https://www.v2ex.com/t/795860) `10条评论` `分享发现`
+1. [大家能够接受招 X 语言工程师，但进去写 Y 语言的公司吗？](https://www.v2ex.com/t/795908) `9条评论` `奇思妙想`
 1. [分享一个支持 Windows 指纹识别开机的显示器支架](https://www.v2ex.com/t/795900) `9条评论` `分享发现`
 1. [有没有人在做短链接程序](https://www.v2ex.com/t/795877) `9条评论` `程序员`
 1. [能立法禁止肉摊上面用红色的灯光吗？](https://www.v2ex.com/t/795865) `9条评论` `深圳`
@@ -30,9 +31,8 @@
 1. [ios app 兑换码这么有效？](https://www.v2ex.com/t/795846) `9条评论` `奇思妙想`
 1. [停车监控推荐](https://www.v2ex.com/t/795849) `8条评论` `行车记录仪`
 1. [现在点外卖超时是常态吗](https://www.v2ex.com/t/795914) `7条评论` `问与答`
-1. [大家能够接受招 X 语言工程师，但进去写 Y 语言的公司吗？](https://www.v2ex.com/t/795908) `7条评论` `奇思妙想`
 
-数据更新于 2021-08-15 10:25:31
+数据更新于 2021-08-15 10:36:41
 
 <!-- TODAY END -->
 
