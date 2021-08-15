@@ -13,7 +13,7 @@
 1. [啥牌子电视无广告？](https://www.v2ex.com/t/795884) `39条评论` `硬件`
 1. [大家来推荐几本对职业生涯影响较大的技术书籍](https://www.v2ex.com/t/795885) `36条评论` `程序员`
 1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `33条评论` `Linux`
-1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `32条评论` `Java`
+1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `33条评论` `Java`
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888) `32条评论` `程序员`
 1. [七夕没忍住和女神表白了](https://www.v2ex.com/t/795882) `31条评论` `职场话题`
 1. [百度网盘文件全被清空？救命！没找到客服](https://www.v2ex.com/t/795851) `30条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [CPU 温度非常高，问题出在哪？](https://www.v2ex.com/t/795868) `12条评论` `硬件`
 1. [最近应该要离职了](https://www.v2ex.com/t/795940) `11条评论` `职场话题`
 
-数据更新于 2021-08-15 19:17:04
+数据更新于 2021-08-15 19:23:21
 
 <!-- TODAY END -->
 
