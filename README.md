@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876) `25条评论` `北京`
+1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876) `34条评论` `北京`
 1. [百度网盘文件全被清空？救命！没找到客服](https://www.v2ex.com/t/795851) `18条评论` `问与答`
 1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `14条评论` `Linux`
+1. [七夕没忍住和女神表白了](https://www.v2ex.com/t/795882) `11条评论` `职场话题`
 1. [移动宽带融合加速是什么？](https://www.v2ex.com/t/795841) `9条评论` `宽带症候群`
 1. [简单干净彻底禁用 Windows defender 和 windows update](https://www.v2ex.com/t/795860) `8条评论` `分享发现`
+1. [请教大家一个 C++内存分配后对象初始化的问题](https://www.v2ex.com/t/795873) `7条评论` `C++`
+1. [CPU 温度非常高，问题出在哪？](https://www.v2ex.com/t/795868) `7条评论` `硬件`
 1. [能立法禁止肉摊上面用红色的灯光吗？](https://www.v2ex.com/t/795865) `7条评论` `深圳`
 1. [黑群冲冲冲， Dsm7.0 引导出了，需要自己编译](https://www.v2ex.com/t/795863) `7条评论` `Synology`
 1. [ios app 兑换码这么有效？](https://www.v2ex.com/t/795846) `7条评论` `奇思妙想`
 1. [网卡和路由是如何协商速度的？怎么查看具体的信息？](https://www.v2ex.com/t/795839) `7条评论` `问与答`
-1. [七夕没忍住和女神表白了](https://www.v2ex.com/t/795882) `6条评论` `职场话题`
-1. [请教大家一个 C++内存分配后对象初始化的问题](https://www.v2ex.com/t/795873) `6条评论` `C++`
-1. [CPU 温度非常高，问题出在哪？](https://www.v2ex.com/t/795868) `6条评论` `硬件`
+1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `6条评论` `Java`
 
-数据更新于 2021-08-15 05:04:08
+数据更新于 2021-08-15 05:19:47
 
 <!-- TODAY END -->
 
