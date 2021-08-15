@@ -12,9 +12,9 @@
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888) `31条评论` `程序员`
 1. [七夕没忍住和女神表白了](https://www.v2ex.com/t/795882) `31条评论` `职场话题`
 1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `30条评论` `Linux`
+1. [啥牌子电视无广告？](https://www.v2ex.com/t/795884) `28条评论` `硬件`
 1. [百度网盘文件全被清空？救命！没找到客服](https://www.v2ex.com/t/795851) `27条评论` `问与答`
 1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `27条评论` `Java`
-1. [啥牌子电视无广告？](https://www.v2ex.com/t/795884) `27条评论` `硬件`
 1. [大家来推荐几本对职业生涯影响较大的技术书籍](https://www.v2ex.com/t/795885) `25条评论` `程序员`
 1. [算了一笔账](https://www.v2ex.com/t/795924) `24条评论` `生活`
 1. [移动宽带融合加速是什么？](https://www.v2ex.com/t/795841) `23条评论` `宽带症候群`
@@ -32,7 +32,7 @@
 1. [debian 11 不支持 mysql 和 php7.3 了吗？](https://www.v2ex.com/t/795913) `9条评论` `问与答`
 1. [怎么样打紧急电话比较好](https://www.v2ex.com/t/795902) `9条评论` `宽带症候群`
 
-数据更新于 2021-08-15 13:41:35
+数据更新于 2021-08-15 13:51:45
 
 <!-- TODAY END -->
 
