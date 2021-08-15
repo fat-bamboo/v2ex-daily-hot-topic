@@ -11,7 +11,7 @@
 1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876) `90条评论` `北京`
 1. [算了一笔账](https://www.v2ex.com/t/795924) `60条评论` `生活`
 1. [啥牌子电视无广告？](https://www.v2ex.com/t/795884) `40条评论` `硬件`
-1. [大家来推荐几本对职业生涯影响较大的技术书籍](https://www.v2ex.com/t/795885) `36条评论` `程序员`
+1. [大家来推荐几本对职业生涯影响较大的技术书籍](https://www.v2ex.com/t/795885) `37条评论` `程序员`
 1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840) `34条评论` `Linux`
 1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881) `33条评论` `Java`
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888) `33条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [分享一个支持 Windows 指纹识别开机的显示器支架](https://www.v2ex.com/t/795900) `12条评论` `分享发现`
 1. [CPU 温度非常高，问题出在哪？](https://www.v2ex.com/t/795868) `12条评论` `硬件`
 
-数据更新于 2021-08-15 21:34:01
+数据更新于 2021-08-15 21:42:12
 
 <!-- TODAY END -->
 
