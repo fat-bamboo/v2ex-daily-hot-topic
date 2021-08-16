@@ -9,12 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [Text Scanner for MAC 免费次数用完 有没有其他 mac 截图识字软件值得推荐？](https://www.v2ex.com/t/795967) `20条评论` `Apple`
-1. [Regular Expression 为何会翻译成正则表达式，而不是规则表达式](https://www.v2ex.com/t/795966) `17条评论` `程序员`
-1. [今天我终于苟不住了选择了离职](https://www.v2ex.com/t/795980) `12条评论` `职场话题`
-1. [x86 路由器推荐](https://www.v2ex.com/t/795969) `10条评论` `路由器`
-1. [部分 App“屏蔽”了 iOS 的大致位置功能](https://www.v2ex.com/t/795970) `9条评论` `iOS`
+1. [Regular Expression 为何会翻译成正则表达式，而不是规则表达式](https://www.v2ex.com/t/795966) `19条评论` `程序员`
+1. [今天我终于苟不住了选择了离职](https://www.v2ex.com/t/795980) `16条评论` `职场话题`
+1. [部分 App“屏蔽”了 iOS 的大致位置功能](https://www.v2ex.com/t/795970) `16条评论` `iOS`
+1. [x86 路由器推荐](https://www.v2ex.com/t/795969) `16条评论` `路由器`
+1. [[想法]上周去医院，感觉院内找路是个问题，想了下可以基于 3D 和二维码做一个低成本的室内导航](https://www.v2ex.com/t/795987) `6条评论` `奇思妙想`
 
-数据更新于 2021-08-16 02:06:57
+数据更新于 2021-08-16 02:32:55
 
 <!-- TODAY END -->
 
