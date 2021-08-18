@@ -19,7 +19,7 @@
 1. [买 M1 MBP 还是等 M1X MBP？](https://www.v2ex.com/t/796474) `33条评论` `MacBook Pro`
 1. [115 网盘也逃不了魔爪，神话破灭](https://www.v2ex.com/t/796574) `31条评论` `分享发现`
 1. [如何突破信息茧房？](https://www.v2ex.com/t/796607) `30条评论` `知乎`
-1. [关于新款 MBP。。](https://www.v2ex.com/t/796627) `27条评论` `MacBook Pro`
+1. [关于新款 MBP。。](https://www.v2ex.com/t/796627) `28条评论` `MacBook Pro`
 1. [朋友和表妹同居，然后在一起 2 年，又没有结果，怕再下去耽误表妹，想搬开，但是她不同意](https://www.v2ex.com/t/796475) `23条评论` `程序员`
 1. [google voice 如何保持正常使用？](https://www.v2ex.com/t/796544) `20条评论` `问与答`
 1. [有没有那种类似单独一个按键的 IOT 设备？](https://www.v2ex.com/t/796458) `19条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [吐槽一下 Mac 上的 PDF 阅读](https://www.v2ex.com/t/796527) `16条评论` `Apple`
 1. [工作和爱好怎么选](https://www.v2ex.com/t/796592) `15条评论` `职场话题`
 
-数据更新于 2021-08-18 18:29:53
+数据更新于 2021-08-18 18:46:38
 
 <!-- TODAY END -->
 
