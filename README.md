@@ -11,7 +11,7 @@
 1. [来了大厂之后每天都在后悔](https://www.v2ex.com/t/796673) `165条评论` `职场话题`
 1. [cpp 有什么简洁的方案可以时间 http 请求吗?](https://www.v2ex.com/t/796751) `65条评论` `C++`
 1. [小孩子学了两年母语程度，而我们学了 20 年英语还是达不到，这是为什么呢？](https://www.v2ex.com/t/796682) `60条评论` `问与答`
-1. [如何评价鸿蒙的“分布式数据库”，在客户端的应用场景在哪里？](https://www.v2ex.com/t/796757) `53条评论` `Android`
+1. [如何评价鸿蒙的“分布式数据库”，在客户端的应用场景在哪里？](https://www.v2ex.com/t/796757) `54条评论` `Android`
 1. [如何合理的最大化的利用国际精品网？](https://www.v2ex.com/t/796699) `30条评论` `宽带症候群`
 1. [终极 MacBook Pro 散热降温方式？](https://www.v2ex.com/t/796702) `28条评论` `MacBook Pro`
 1. [熬不住了，学不下去](https://www.v2ex.com/t/796707) `27条评论` `职场话题`
@@ -25,14 +25,14 @@
 1. [支付宝让我上传手持身份证照片](https://www.v2ex.com/t/796850) `13条评论` `支付宝`
 1. [为何 telegram 能看到彼此的共同群组？](https://www.v2ex.com/t/796768) `13条评论` `Telegram`
 1. [golang.org 自动跳转到 golang.google.cn](https://www.v2ex.com/t/796683) `13条评论` `Go`
+1. [在福报厂干外包，吐槽一下一些项目开发的乱象](https://www.v2ex.com/t/796868) `11条评论` `程序员`
 1. [来啦！「港服」PlayStationPlus（12 个月）五折优惠](https://www.v2ex.com/t/796780) `11条评论` `游戏`
 1. [LeetCode 等刷题网站的出现是促进了内卷还是……？](https://www.v2ex.com/t/796865) `10条评论` `程序员`
 1. [如何判断偶数？](https://www.v2ex.com/t/796855) `10条评论` `前端开发`
 1. [country-code 国家/地区？](https://www.v2ex.com/t/796837) `10条评论` `问与答`
 1. [朋友圈封面可以放视频了，再安利一下之前做的小程序「微动态背景」](https://www.v2ex.com/t/796672) `10条评论` `分享创造`
-1. [Apple Id 无法注销，致命 Bug？](https://www.v2ex.com/t/796869) `9条评论` `Apple`
 
-数据更新于 2021-08-19 13:51:39
+数据更新于 2021-08-19 14:05:04
 
 <!-- TODAY END -->
 
