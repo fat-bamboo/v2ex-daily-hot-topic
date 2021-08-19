@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [来了大厂之后每天都在后悔](https://www.v2ex.com/t/796673) `150条评论` `职场话题`
-1. [小孩子学了两年母语程度，而我们学了 20 年英语还是达不到，这是为什么呢？](https://www.v2ex.com/t/796682) `52条评论` `问与答`
-1. [如何评价鸿蒙的“分布式数据库”，在客户端的应用场景在哪里？](https://www.v2ex.com/t/796757) `27条评论` `Android`
-1. [请问如何计算 Python 列表连续正数或连续负数的和？](https://www.v2ex.com/t/796730) `24条评论` `Python`
+1. [小孩子学了两年母语程度，而我们学了 20 年英语还是达不到，这是为什么呢？](https://www.v2ex.com/t/796682) `53条评论` `问与答`
+1. [如何评价鸿蒙的“分布式数据库”，在客户端的应用场景在哪里？](https://www.v2ex.com/t/796757) `28条评论` `Android`
+1. [请问如何计算 Python 列表连续正数或连续负数的和？](https://www.v2ex.com/t/796730) `25条评论` `Python`
 1. [vue3 有什么好用 稳定的后台管理系统的轮子呢。花裤叉的只有 vue2 版本的](https://www.v2ex.com/t/796770) `17条评论` `JavaScript`
 1. [想搞个虚拟机做 nas](https://www.v2ex.com/t/796715) `15条评论` `NAS`
 1. [都 1202 年了，为什么有的 app 对静音的逻辑控制还这么搓](https://www.v2ex.com/t/796662) `15条评论` `Apple`
@@ -19,8 +19,8 @@
 1. [电脑桌下如何理线？](https://www.v2ex.com/t/796671) `14条评论` `问与答`
 1. [cpp 有什么简洁的方案可以时间 http 请求吗?](https://www.v2ex.com/t/796751) `13条评论` `C++`
 1. [golang.org 自动跳转到 golang.google.cn](https://www.v2ex.com/t/796683) `13条评论` `Go`
+1. [为何 telegram 能看到彼此的共同群组？](https://www.v2ex.com/t/796768) `12条评论` `Telegram`
 1. [终极 MacBook Pro 散热降温方式？](https://www.v2ex.com/t/796702) `12条评论` `MacBook Pro`
-1. [为何 telegram 能看到彼此的共同群组？](https://www.v2ex.com/t/796768) `10条评论` `Telegram`
 1. [朋友圈封面可以放视频了，再安利一下之前做的小程序「微动态背景」](https://www.v2ex.com/t/796672) `10条评论` `分享创造`
 1. [来啦！「港服」PlayStationPlus（12 个月）五折优惠](https://www.v2ex.com/t/796780) `9条评论` `游戏`
 1. [成都移动 1000M 单宽带 1400 元/年,贵不贵?](https://www.v2ex.com/t/796772) `9条评论` `宽带症候群`
@@ -32,7 +32,7 @@
 1. [是 idea 的升级程序进步了吗？](https://www.v2ex.com/t/796717) `7条评论` `程序员`
 1. [[闪映相机] 过期自动删除的临时照片｜个人第一次上架的 iOS 应用｜兑换码](https://www.v2ex.com/t/796692) `7条评论` `分享创造`
 
-数据更新于 2021-08-19 08:27:24
+数据更新于 2021-08-19 08:39:04
 
 <!-- TODAY END -->
 
