@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Edge 浏览器新标签页出现广告区](https://www.v2ex.com/t/797669) `93条评论` `分享发现`
+1. [Edge 浏览器新标签页出现广告区](https://www.v2ex.com/t/797669) `95条评论` `分享发现`
 1. [Edge 浏览器可以的，看来是换回 Firefox 的时候了](https://www.v2ex.com/t/797673) `92条评论` `Edge`
 1. [结束了，终于都结束了，昨天提离职了](https://www.v2ex.com/t/797606) `79条评论` `职场话题`
-1. [穷屌的疑惑，请问大家的个人 Blog 都是用什么云服务器的？](https://www.v2ex.com/t/797649) `71条评论` `程序员`
-1. [遇到个“不饶人”的邻居。](https://www.v2ex.com/t/797681) `53条评论` `随想`
+1. [穷屌的疑惑，请问大家的个人 Blog 都是用什么云服务器的？](https://www.v2ex.com/t/797649) `72条评论` `程序员`
+1. [遇到个“不饶人”的邻居。](https://www.v2ex.com/t/797681) `54条评论` `随想`
 1. [windows 如果不分区，该怎么管理文件？](https://www.v2ex.com/t/797639) `49条评论` `Windows`
 1. [你们离职后的同事还联系吗](https://www.v2ex.com/t/797597) `41条评论` `职场话题`
 1. [M1 电池损耗这么快的吗？](https://www.v2ex.com/t/797709) `28条评论` `MacBook Pro`
 1. [Edge 的新标签突然多出了一块狗皮膏药，有人知道怎么关掉嘛](https://www.v2ex.com/t/797693) `25条评论` `问与答`
 1. [职场黑名单？这是哪个大佬的作品](https://www.v2ex.com/t/797754) `22条评论` `分享发现`
-1. [新手刚入日版 switch，前辈有没有什么建议，注意事项，游戏推荐，皆可](https://www.v2ex.com/t/797734) `20条评论` `Nintendo Switch`
+1. [新手刚入日版 switch，前辈有没有什么建议，注意事项，游戏推荐，皆可](https://www.v2ex.com/t/797734) `21条评论` `Nintendo Switch`
 1. [发现一个照着 V2 爬数据，甚至把习惯用语改成港台用法的论坛](https://www.v2ex.com/t/797620) `20条评论` `分享发现`
 1. [知乎评论挂了？](https://www.v2ex.com/t/797632) `19条评论` `全球工单系统`
+1. [关于 “Microsoft Edge 浏览器新标签页底部出现无法关闭的广告” 问题的说明](https://www.v2ex.com/t/797759) `18条评论` `Edge`
 1. [极客时间 Go 训练营值得报名吗？](https://www.v2ex.com/t/797718) `18条评论` `Go`
-1. [关于 “Microsoft Edge 浏览器新标签页底部出现无法关闭的广告” 问题的说明](https://www.v2ex.com/t/797759) `17条评论` `Edge`
 1. [两种方法屏蔽 Microsoft Edge 启动页广告](https://www.v2ex.com/t/797729) `16条评论` `Edge`
 1. [如何把 Java properties 转换为具有层级结构的字典](https://www.v2ex.com/t/797618) `16条评论` `Python`
 1. [外包员工准备离职跳槽，结果旧东家别的部门来挖我了](https://www.v2ex.com/t/797685) `14条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [从 PHP 到 C++太痛苦了](https://www.v2ex.com/t/797738) `12条评论` `程序员`
 1. [说说你们最近的上班状态和业余生活吧](https://www.v2ex.com/t/797719) `12条评论` `职场话题`
 
-数据更新于 2021-08-24 10:45:59
+数据更新于 2021-08-24 10:52:23
 
 <!-- TODAY END -->
 
