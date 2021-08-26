@@ -23,16 +23,16 @@
 1. [1000 以内的椅子都是辣鸡 ， 不服来辩](https://www.v2ex.com/t/798192) `16条评论` `问与答`
 1. [树莓派](https://www.v2ex.com/t/798219) `15条评论` `Raspberry Pi`
 1. [讨论下现在某宝里免月租的电信卡套路](https://www.v2ex.com/t/798080) `15条评论` `问与答`
+1. [请问下大家，上海目前中级 Java 的薪资水平](https://www.v2ex.com/t/798212) `14条评论` `程序员`
 1. [MacBook 有没有必要买个 HomePod mini？](https://www.v2ex.com/t/798179) `14条评论` `Apple`
 1. [求推荐一个性价比高一点的玩永劫无间的台式机](https://www.v2ex.com/t/798078) `14条评论` `问与答`
-1. [请问下大家，上海目前中级 Java 的薪资水平](https://www.v2ex.com/t/798212) `13条评论` `程序员`
 1. [go,rust 有开发规范吗？](https://www.v2ex.com/t/798189) `13条评论` `程序员`
 1. [云闪付 app 支持给微信付款了](https://www.v2ex.com/t/798085) `13条评论` `微信`
 1. [再次介绍 InkMark](https://www.v2ex.com/t/798060) `13条评论` `分享创造`
 1. [最近比较晚睡，然后早上起来特别懒，懒到刷牙不想挤牙膏，就突然疑问：刷牙为啥非得用牙膏？](https://www.v2ex.com/t/798208) `12条评论` `知乎`
 1. [SpringCloud Gateway 不能使用 Feign 吗？](https://www.v2ex.com/t/798068) `12条评论` `Java`
 
-数据更新于 2021-08-26 14:41:44
+数据更新于 2021-08-26 14:51:49
 
 <!-- TODAY END -->
 
