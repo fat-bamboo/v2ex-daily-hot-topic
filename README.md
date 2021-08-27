@@ -23,8 +23,8 @@
 1. [像 快团团 这样的小程序是怎么想到完全不维护消费者的](https://www.v2ex.com/t/798340) `18条评论` `程序员`
 1. [Apple 将允许开发者向用户介绍在 iOS App 之外的购买选项了](https://www.v2ex.com/t/798291) `18条评论` `Apple`
 1. [nginx 的 access_log 设置成 off 和/dev/null，二者有区别吗？](https://www.v2ex.com/t/798261) `18条评论` `NGINX`
+1. [创建一个 base 在上海的 v 友群](https://www.v2ex.com/t/798409) `16条评论` `上海`
 1. [三年 Python web 方向经验，一年 Java 经验，半年 ios Swift 经验，但是我还是想转前端，有没有人生导师开导下我](https://www.v2ex.com/t/798341) `16条评论` `问与答`
-1. [创建一个 base 在上海的 v 友群](https://www.v2ex.com/t/798409) `15条评论` `上海`
 1. [微信健康码小程序 URL Scheme 已失效](https://www.v2ex.com/t/798362) `15条评论` `分享发现`
 1. [Onenote 几个不能忍的点](https://www.v2ex.com/t/798361) `15条评论` `分享发现`
 1. [v 友推荐二手福克斯 上牌上路第一天 撞啦！](https://www.v2ex.com/t/798272) `15条评论` `北京`
@@ -32,7 +32,7 @@
 1. [App Store 从什么时候开始有了广告了，唉](https://www.v2ex.com/t/798323) `13条评论` `Apple`
 1. [为什么双击 ps1 文件没反应](https://www.v2ex.com/t/798260) `13条评论` `问与答`
 
-数据更新于 2021-08-27 18:43:07
+数据更新于 2021-08-27 18:52:24
 
 <!-- TODAY END -->
 
