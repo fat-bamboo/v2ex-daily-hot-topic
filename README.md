@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [一线大厂的开发工具都是买正版的么](https://www.v2ex.com/t/798597) `25条评论` `问与答`
-1. [macos 对开发友好在哪里?](https://www.v2ex.com/t/798620) `17条评论` `macOS`
+1. [macos 对开发友好在哪里?](https://www.v2ex.com/t/798620) `18条评论` `macOS`
 1. [开启桌面端 clashx 或者 clashforWindows 之后就无法使用 ipv6 了，这咋整兄弟萌](https://www.v2ex.com/t/798608) `11条评论` `程序员`
 1. [有人买 Pixel 5A 吗，交流交流](https://www.v2ex.com/t/798595) `7条评论` `Pixel`
 1. [佛系背单词 App 第二弹之小小升级内侧](https://www.v2ex.com/t/798605) `6条评论` `分享创造`
 
-数据更新于 2021-08-29 05:27:45
+数据更新于 2021-08-29 05:34:14
 
 <!-- TODAY END -->
 
