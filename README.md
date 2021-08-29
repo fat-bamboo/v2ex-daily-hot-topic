@@ -10,15 +10,16 @@
 
 1. [macos 对开发友好在哪里?](https://www.v2ex.com/t/798620) `28条评论` `macOS`
 1. [一线大厂的开发工具都是买正版的么](https://www.v2ex.com/t/798597) `25条评论` `问与答`
-1. [关于 fish shell 的一个误操作坑](https://www.v2ex.com/t/798635) `15条评论` `程序员`
+1. [关于 fish shell 的一个误操作坑](https://www.v2ex.com/t/798635) `19条评论` `程序员`
 1. [开启桌面端 clashx 或者 clashforWindows 之后就无法使用 ipv6 了，这咋整兄弟萌](https://www.v2ex.com/t/798608) `12条评论` `程序员`
 1. [佛系背单词 App 第二弹之小小升级内侧](https://www.v2ex.com/t/798605) `9条评论` `分享创造`
 1. [头条、网易新闻什么的变味了，大家现在用什么 app 看新闻？国内/外的 app 都行](https://www.v2ex.com/t/798636) `7条评论` `问与答`
 1. [上班吹空调，喉咙干，想咳嗽，怎么解决？](https://www.v2ex.com/t/798613) `7条评论` `问与答`
 1. [有人买 Pixel 5A 吗，交流交流](https://www.v2ex.com/t/798595) `7条评论` `Pixel`
+1. [想问一下大家觉得体制内工作好在那里](https://www.v2ex.com/t/798641) `6条评论` `职场话题`
 1. [Java 项目中对于单一的特定 DB 操作需要用 Service 层包装吗？](https://www.v2ex.com/t/798624) `6条评论` `程序员`
 
-数据更新于 2021-08-29 06:53:16
+数据更新于 2021-08-29 07:05:17
 
 <!-- TODAY END -->
 
