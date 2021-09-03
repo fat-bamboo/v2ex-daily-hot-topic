@@ -19,8 +19,8 @@
 1. [微软/Microsoft Edge 死性不改，这次是全局插入强推广告](https://www.v2ex.com/t/799634) `32条评论` `微软`
 1. [MBP M1 求大神推荐一个 4K 的显示器型号](https://www.v2ex.com/t/799674) `28条评论` `配件`
 1. [大事不好，微信开始强制境外号码（WeChat Out）和微信功能二选一了？](https://www.v2ex.com/t/799582) `22条评论` `问与答`
+1. [React 生态里的 umi.js，很好用吗？](https://www.v2ex.com/t/799727) `19条评论` `React`
 1. [公司上厕所看到来面试的正拿手机在百度算法题答案](https://www.v2ex.com/t/799693) `19条评论` `程序员`
-1. [React 生态里的 umi.js，很好用吗？](https://www.v2ex.com/t/799727) `18条评论` `React`
 1. [csdn 又搞了个 codechina 的 Git 代码托管平台?](https://www.v2ex.com/t/799681) `18条评论` `程序员`
 1. [微信就不能设置缓存大小吗](https://www.v2ex.com/t/799645) `18条评论` `Apple`
 1. [有没有这种游戏，可能社恐人会喜欢](https://www.v2ex.com/t/799625) `18条评论` `奇思妙想`
@@ -32,7 +32,7 @@
 1. [关于接的外包报价](https://www.v2ex.com/t/799706) `16条评论` `问与答`
 1. [React useState 修改值之后，如何获取到最新的值](https://www.v2ex.com/t/799659) `16条评论` `程序员`
 
-数据更新于 2021-09-03 11:19:26
+数据更新于 2021-09-03 11:27:29
 
 <!-- TODAY END -->
 
