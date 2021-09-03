@@ -16,14 +16,14 @@
 1. [js 的类有没有析构函数，如何进行资源释放？？](https://www.v2ex.com/t/799592) `66条评论` `程序员`
 1. [京东禁售 87 款游戏，太难啦](https://www.v2ex.com/t/799665) `66条评论` `游戏`
 1. [都说程序员用 mac 能提高生产力，那么作为 Windows 多年用户的我，有必要强转 mac 吗？](https://www.v2ex.com/t/799602) `66条评论` `程序员`
-1. [微软/Microsoft Edge 死性不改，这次是全局插入强推广告](https://www.v2ex.com/t/799634) `50条评论` `微软`
+1. [微软/Microsoft Edge 死性不改，这次是全局插入强推广告](https://www.v2ex.com/t/799634) `51条评论` `微软`
 1. [有没有近视的大佬平时上班工作都带隐形眼镜的呢？](https://www.v2ex.com/t/799584) `48条评论` `程序员`
+1. [apple 系统不能降级，太气了](https://www.v2ex.com/t/799764) `29条评论` `问与答`
+1. [[为什么要抱怨同事代码很差]](https://www.v2ex.com/t/799735) `28条评论` `程序员`
 1. [MBP M1 求大神推荐一个 4K 的显示器型号](https://www.v2ex.com/t/799674) `28条评论` `配件`
-1. [apple 系统不能降级，太气了](https://www.v2ex.com/t/799764) `27条评论` `问与答`
-1. [[为什么要抱怨同事代码很差]](https://www.v2ex.com/t/799735) `27条评论` `程序员`
 1. [React 生态里的 umi.js，很好用吗？](https://www.v2ex.com/t/799727) `22条评论` `React`
 1. [大事不好，微信开始强制境外号码（WeChat Out）和微信功能二选一了？](https://www.v2ex.com/t/799582) `22条评论` `问与答`
-1. [iP 12 电池健康一年不到降至 86](https://www.v2ex.com/t/799746) `20条评论` `iPhone`
+1. [iP 12 电池健康一年不到降至 86](https://www.v2ex.com/t/799746) `21条评论` `iPhone`
 1. [公司办公设备损坏需要赔偿！？](https://www.v2ex.com/t/799705) `19条评论` `问与答`
 1. [公司上厕所看到来面试的正拿手机在百度算法题答案](https://www.v2ex.com/t/799693) `19条评论` `程序员`
 1. [csdn 又搞了个 codechina 的 Git 代码托管平台?](https://www.v2ex.com/t/799681) `18条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [求推荐 Manjaro 兼容性比较好的轻薄本](https://www.v2ex.com/t/799622) `18条评论` `Linux`
 1. [mbp 屏幕贴膜](https://www.v2ex.com/t/799610) `18条评论` `MacBook Pro`
 
-数据更新于 2021-09-03 16:07:26
+数据更新于 2021-09-03 16:41:02
 
 <!-- TODAY END -->
 
