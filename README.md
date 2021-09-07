@@ -28,11 +28,11 @@
 1. [给大家看看 QQ 邮箱网页版的新 UI](https://www.v2ex.com/t/800367) `17条评论` `程序员`
 1. [有没有买过开源掌机的来说说，这玩意值不值的买](https://www.v2ex.com/t/800387) `15条评论` `怀旧游戏`
 1. [通过手环,检测用户睡着了就停止播放。](https://www.v2ex.com/t/800286) `15条评论` `程序员`
+1. [微信 for macOS 3.2 上架 Mac App Store，原生 Apple Silicon 支持](https://www.v2ex.com/t/800495) `14条评论` `微信`
 1. [我撸了一个快速搭建私人网盘的轮子， ifilespace 文件管理](https://www.v2ex.com/t/800394) `14条评论` `Go`
 1. [实现一个基础的低代码或 0 代码平台需要什么技术？](https://www.v2ex.com/t/800355) `14条评论` `程序员`
-1. [微信 for macOS 3.2 上架 Mac App Store，原生 Apple Silicon 支持](https://www.v2ex.com/t/800495) `13条评论` `微信`
 
-数据更新于 2021-09-07 23:33:45
+数据更新于 2021-09-07 23:41:44
 
 <!-- TODAY END -->
 
