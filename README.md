@@ -19,10 +19,10 @@
 1. [币圈的各位最近有没有喜极而泣的感觉？](https://www.v2ex.com/t/800572) `40条评论` `投资`
 1. [windows 的 clipboard 云端同步真好用](https://www.v2ex.com/t/800524) `37条评论` `Windows`
 1. [既用 MacOS 又用 Windows 的朋友，我对任务栏有点困惑，想了解一下你们是怎么解决的](https://www.v2ex.com/t/800648) `30条评论` `macOS`
+1. [Apple Music 周杰伦《晴天》歌词](https://www.v2ex.com/t/800720) `18条评论` `Apple`
 1. [预算 2000 选 Oculus Quest 2 还是 Apple watch？](https://www.v2ex.com/t/800650) `18条评论` `问与答`
 1. [工作 6， 7 年出去面试](https://www.v2ex.com/t/800627) `18条评论` `程序员`
 1. [听说逆向领域抖音和微信是天花板，工资怎么样？](https://www.v2ex.com/t/800621) `18条评论` `程序员`
-1. [Apple Music 周杰伦《晴天》歌词](https://www.v2ex.com/t/800720) `17条评论` `Apple`
 1. [偶然发现，王思聪似乎搭了个 nextcloud ，还用他的域名 bbbb.com 绑定了](https://www.v2ex.com/t/800685) `16条评论` `分享发现`
 1. [有 v 友买过盖子能盖紧的冰块盒吗？](https://www.v2ex.com/t/800546) `16条评论` `生活`
 1. [关于未来猜想](https://www.v2ex.com/t/800536) `16条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [有没有 V 友家里装了浴缸的，谈一谈浴缸的使用体验](https://www.v2ex.com/t/800630) `14条评论` `生活`
 1. [自己配的 5200 的集显游戏机，请 V 友给些建议。](https://www.v2ex.com/t/800708) `13条评论` `问与答`
 
-数据更新于 2021-09-08 20:51:38
+数据更新于 2021-09-08 21:04:14
 
 <!-- TODAY END -->
 
