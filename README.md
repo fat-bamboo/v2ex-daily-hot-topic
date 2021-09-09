@@ -8,18 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [程序员想提高英语 进外企，大家有什么 英语学习方法推荐吗？谢谢了](https://www.v2ex.com/t/800746) `26条评论` `English`
+1. [程序员想提高英语 进外企，大家有什么 英语学习方法推荐吗？谢谢了](https://www.v2ex.com/t/800746) `27条评论` `English`
 1. [AdGuard Home 搭在腾讯云上，一天被封·······](https://www.v2ex.com/t/800740) `25条评论` `云计算`
 1. [桌面端应用调用 HTML 登录页是怎么实现的。](https://www.v2ex.com/t/800756) `23条评论` `问与答`
 1. [VScode 配置 c 语言环境求助](https://www.v2ex.com/t/800734) `22条评论` `C#`
-1. [发布会前，求大神分析下 MacOS 和 win11 的优劣势](https://www.v2ex.com/t/800773) `20条评论` `macOS`
+1. [发布会前，求大神分析下 MacOS 和 win11 的优劣势](https://www.v2ex.com/t/800773) `21条评论` `macOS`
 1. [不影响业务系统的情况下如何做实时大屏展示呢？](https://www.v2ex.com/t/800736) `10条评论` `Big Data`
 1. [ios 上有什么值得使用的广告屏蔽类 app？](https://www.v2ex.com/t/800735) `10条评论` `问与答`
+1. [求大佬们帮推荐一款性价比高的 nuc 类似的小机器](https://www.v2ex.com/t/800743) `9条评论` `硬件`
 1. [单元测试 ——「简单」的乐趣](https://www.v2ex.com/t/800759) `8条评论` `程序员`
-1. [求大佬们帮推荐一款性价比高的 nuc 类似的小机器](https://www.v2ex.com/t/800743) `8条评论` `硬件`
 1. [MacBook Pro 上玩 Apple Arcade 游戏（接蓝牙手柄）](https://www.v2ex.com/t/800738) `8条评论` `Apple`
+1. [pixel 5a 到手，还不错](https://www.v2ex.com/t/800788) `6条评论` `Pixel`
+1. [为什么 EPROM/EEPROM 都可擦写了还叫只读存储器？](https://www.v2ex.com/t/800767) `6条评论` `问与答`
 
-数据更新于 2021-09-09 03:45:20
+数据更新于 2021-09-09 03:51:39
 
 <!-- TODAY END -->
 
