@@ -8,23 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [发布会前，求大神分析下 MacOS 和 win11 的优劣势](https://www.v2ex.com/t/800773) `43条评论` `macOS`
+1. [发布会前，求大神分析下 MacOS 和 win11 的优劣势](https://www.v2ex.com/t/800773) `45条评论` `macOS`
 1. [程序员想提高英语 进外企，大家有什么 英语学习方法推荐吗？谢谢了](https://www.v2ex.com/t/800746) `34条评论` `English`
-1. [AdGuard Home 搭在腾讯云上，一天被封·······](https://www.v2ex.com/t/800740) `31条评论` `云计算`
+1. [AdGuard Home 搭在腾讯云上，一天被封·······](https://www.v2ex.com/t/800740) `32条评论` `云计算`
 1. [桌面端应用调用 HTML 登录页是怎么实现的。](https://www.v2ex.com/t/800756) `26条评论` `问与答`
 1. [VScode 配置 c 语言环境求助](https://www.v2ex.com/t/800734) `22条评论` `C#`
-1. [记录一个诡异的线上宕机事故，大佬们帮忙排查一下问题呀](https://www.v2ex.com/t/800791) `16条评论` `Java`
+1. [记录一个诡异的线上宕机事故，大佬们帮忙排查一下问题呀](https://www.v2ex.com/t/800791) `19条评论` `Java`
 1. [为什么 EPROM/EEPROM 都可擦写了还叫只读存储器？](https://www.v2ex.com/t/800767) `14条评论` `问与答`
 1. [pixel 5a 到手，还不错](https://www.v2ex.com/t/800788) `12条评论` `Pixel`
-1. [百度网盘没法安装在 Program Files，提醒系统权限限制](https://www.v2ex.com/t/800771) `11条评论` `全球工单系统`
+1. [百度网盘没法安装在 Program Files，提醒系统权限限制](https://www.v2ex.com/t/800771) `12条评论` `全球工单系统`
 1. [单元测试 ——「简单」的乐趣](https://www.v2ex.com/t/800759) `11条评论` `程序员`
 1. [不影响业务系统的情况下如何做实时大屏展示呢？](https://www.v2ex.com/t/800736) `10条评论` `Big Data`
 1. [ios 上有什么值得使用的广告屏蔽类 app？](https://www.v2ex.com/t/800735) `10条评论` `问与答`
 1. [目前市面上家用级或入门级企业级路由器产品 IPv6 的支持度如何？](https://www.v2ex.com/t/800770) `9条评论` `宽带症候群`
 1. [求大佬们帮推荐一款性价比高的 nuc 类似的小机器](https://www.v2ex.com/t/800743) `9条评论` `硬件`
 1. [MacBook Pro 上玩 Apple Arcade 游戏（接蓝牙手柄）](https://www.v2ex.com/t/800738) `8条评论` `Apple`
+1. [为啥今天我的 macbook 看哔哩哔哩很卡，而且电脑快速发热](https://www.v2ex.com/t/800787) `7条评论` `macOS`
 
-数据更新于 2021-09-09 05:41:43
+数据更新于 2021-09-09 05:52:00
 
 <!-- TODAY END -->
 
