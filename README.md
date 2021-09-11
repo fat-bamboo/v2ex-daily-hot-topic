@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [工作选择](https://www.v2ex.com/t/801171) `7条评论` `职场话题`
-1. [红米 K40 在刷了 LineageOS 后信号强度似乎下降了](https://www.v2ex.com/t/801170) `7条评论` `Android`
-1. [最近发现一款不错的 SSH 客户端 WindTerm](https://www.v2ex.com/t/801168) `7条评论` `分享发现`
-1. [求问北京移动个人想要开通 IPv6 要怎么操作呢？](https://www.v2ex.com/t/801166) `7条评论` `宽带症候群`
+1. [最近发现一款不错的 SSH 客户端 WindTerm](https://www.v2ex.com/t/801168) `10条评论` `分享发现`
+1. [红米 K40 在刷了 LineageOS 后信号强度似乎下降了](https://www.v2ex.com/t/801170) `9条评论` `Android`
+1. [工作选择](https://www.v2ex.com/t/801171) `8条评论` `职场话题`
+1. [求问北京移动个人想要开通 IPv6 要怎么操作呢？](https://www.v2ex.com/t/801166) `8条评论` `宽带症候群`
 
-数据更新于 2021-09-11 02:07:42
+数据更新于 2021-09-11 02:35:07
 
 <!-- TODAY END -->
 
