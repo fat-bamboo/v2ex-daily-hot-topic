@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [不要再拿 Golang 与 Java 作比较](https://www.v2ex.com/t/801337) `35条评论` `Go`
+1. [不要再拿 Golang 与 Java 作比较](https://www.v2ex.com/t/801337) `36条评论` `Go`
 1. [被高德地图整的暴躁了](https://www.v2ex.com/t/801330) `18条评论` `全球工单系统`
+1. [有很多木板，拿来做什么比较好。](https://www.v2ex.com/t/801328) `12条评论` `奇思妙想`
 1. [用 Hugo 博客的各位采用什么方案在多设备之间同步站点文件？](https://www.v2ex.com/t/801335) `11条评论` `问与答`
 1. [来北京的第二周，前辈们，帮忙看看 offer](https://www.v2ex.com/t/801332) `11条评论` `职场话题`
 1. [iPhone 上最可靠的使用 pr0xy 的方式是什么？](https://www.v2ex.com/t/801343) `10条评论` `iPhone`
-1. [有很多木板，拿来做什么比较好。](https://www.v2ex.com/t/801328) `10条评论` `奇思妙想`
 1. [各位， iCloud 满了，照片不能备份了，有啥备份方案吗？](https://www.v2ex.com/t/801338) `9条评论` `iCloud`
 1. [SpringBoot 求教这里为什么 Autowire 找不到 bean](https://www.v2ex.com/t/801316) `8条评论` `程序员`
 1. [各位老哥，再来说说回老家的事情，老家国企我笔试第一，面试估计倒数第一](https://www.v2ex.com/t/801355) `7条评论` `程序员`
@@ -22,7 +22,7 @@
 1. [我注意到很多外企都在用 Cassandra，但国内的厂似乎用的不多，这是为啥呢？](https://www.v2ex.com/t/801317) `6条评论` `Cassandra`
 1. [有没有兼容各大网盘下载和 BT 下载的 web UI？ 想把小鸡的价值榨干](https://www.v2ex.com/t/801311) `6条评论` `Linux`
 
-数据更新于 2021-09-12 06:28:11
+数据更新于 2021-09-12 06:43:51
 
 <!-- TODAY END -->
 
