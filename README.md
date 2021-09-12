@@ -9,30 +9,30 @@
 <!-- TODAY BEGIN -->
 
 1. [不要再拿 Golang 与 Java 作比较](https://www.v2ex.com/t/801337) `52条评论` `Go`
-1. [三句话，让淘宝店主拉黑我](https://www.v2ex.com/t/801368) `44条评论` `淘宝`
+1. [三句话，让淘宝店主拉黑我](https://www.v2ex.com/t/801368) `46条评论` `淘宝`
 1. [有很多木板，拿来做什么比较好。](https://www.v2ex.com/t/801328) `35条评论` `奇思妙想`
 1. [诸位看电影，纪录片，长视频的时候会用 1.5 速播放吗？](https://www.v2ex.com/t/801352) `33条评论` `问与答`
 1. [被高德地图整的暴躁了](https://www.v2ex.com/t/801330) `30条评论` `全球工单系统`
 1. [京东更换 iPhone 原厂电池](https://www.v2ex.com/t/801369) `29条评论` `iPhone`
 1. [远程面试时各种作弊](https://www.v2ex.com/t/801363) `22条评论` `职场话题`
-1. [www.v2ex.com 域名被和谐了？](https://www.v2ex.com/t/801382) `19条评论` `DNS`
+1. [www.v2ex.com 域名被和谐了？](https://www.v2ex.com/t/801382) `20条评论` `DNS`
 1. [大家觉得 MagSafe 外接电池怎么样？](https://www.v2ex.com/t/801358) `15条评论` `iPhone`
+1. [腾讯轻量云防火墙问题](https://www.v2ex.com/t/801401) `13条评论` `云计算`
 1. [交行信用卡的自动还款业务的 Bug](https://www.v2ex.com/t/801347) `13条评论` `全球工单系统`
 1. [各位， iCloud 满了，照片不能备份了，有啥备份方案吗？](https://www.v2ex.com/t/801338) `13条评论` `iCloud`
 1. [用 Hugo 博客的各位采用什么方案在多设备之间同步站点文件？](https://www.v2ex.com/t/801335) `13条评论` `问与答`
 1. [github 什么时候偷偷把主干分支从 master 改成了 main?](https://www.v2ex.com/t/801415) `12条评论` `问与答`
-1. [腾讯轻量云防火墙问题](https://www.v2ex.com/t/801401) `11条评论` `云计算`
 1. [如何优雅地“监视”Windows 中的特定文件夹。](https://www.v2ex.com/t/801383) `11条评论` `问与答`
 1. [iPhone 上最可靠的使用 pr0xy 的方式是什么？](https://www.v2ex.com/t/801343) `11条评论` `iPhone`
 1. [来北京的第二周，前辈们，帮忙看看 offer](https://www.v2ex.com/t/801332) `11条评论` `职场话题`
 1. [airpods pro 支持一键开启降噪模式吗](https://www.v2ex.com/t/801381) `10条评论` `Apple`
+1. [好失望，想在工作中写好代码真难。想得多了，容易过度设计导致项目延期；想少了代码又要被打回来重写。。。真难过，求大家骂骂我](https://www.v2ex.com/t/801379) `10条评论` `程序员`
 1. [Homepod mini 音质值 650 块钱吗？](https://www.v2ex.com/t/801366) `10条评论` `Apple`
+1. [现在的 Windows 能像 Mac 那样长时间不关机吗？](https://www.v2ex.com/t/801417) `9条评论` `Windows`
 1. [小博客流量被爆](https://www.v2ex.com/t/801414) `9条评论` `问与答`
-1. [好失望，想在工作中写好代码真难。想得多了，容易过度设计导致项目延期；想少了代码又要被打回来重写。。。真难过，求大家骂骂我](https://www.v2ex.com/t/801379) `9条评论` `程序员`
 1. [大家的 master 3 蓝牙连接 m1 mba 会有飘忽不定的感觉吗](https://www.v2ex.com/t/801378) `9条评论` `Apple`
-1. [隐形人真的存在吗？](https://www.v2ex.com/t/801385) `9条评论` `问与答`
 
-数据更新于 2021-09-12 14:20:11
+数据更新于 2021-09-12 14:28:37
 
 <!-- TODAY END -->
 
