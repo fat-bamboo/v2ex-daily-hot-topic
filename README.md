@@ -15,7 +15,7 @@
 1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918) `79条评论` `iPhone`
 1. [为什么国内互联网公司喜欢用 Centos 而不是 Ubuntu？](https://www.v2ex.com/t/802052) `61条评论` `Linux`
 1. [📱 13 不香， 12 暴降，存量 12 用户或最受伤？手持 12 的铁汁们还换不换？](https://www.v2ex.com/t/802011) `59条评论` `iPhone`
-1. [js 怎么判断用户关闭了浏览器](https://www.v2ex.com/t/801913) `57条评论` `JavaScript`
+1. [js 怎么判断用户关闭了浏览器](https://www.v2ex.com/t/801913) `58条评论` `JavaScript`
 1. [想写一本关于程序员修仙的小说，你们会看吗？](https://www.v2ex.com/t/802036) `46条评论` `奇思妙想`
 1. [ProMotion 从 iPad Pro 到 iPhone 13 pro 的体感](https://www.v2ex.com/t/802039) `34条评论` `iPad`
 1. [南京 前端 大量要人 965 20K-35K](https://www.v2ex.com/t/802016) `28条评论` `酷工作`
@@ -32,7 +32,7 @@
 1. [裸辞两个月，准备放弃写代码了](https://www.v2ex.com/t/802136) `14条评论` `职场话题`
 1. [当巨头不再屏蔽网页的时候，是否意味着小程序将死？](https://www.v2ex.com/t/802122) `14条评论` `分享发现`
 
-数据更新于 2021-09-15 22:35:19
+数据更新于 2021-09-15 22:42:12
 
 <!-- TODAY END -->
 
