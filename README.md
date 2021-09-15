@@ -9,18 +9,18 @@
 <!-- TODAY BEGIN -->
 
 1. [机械键盘入门级求推荐](https://www.v2ex.com/t/801896) `120条评论` `机械键盘`
-1. [有没有坚果云的大佬，求助～～](https://www.v2ex.com/t/801937) `102条评论` `全球工单系统`
+1. [有没有坚果云的大佬，求助～～](https://www.v2ex.com/t/801937) `104条评论` `全球工单系统`
 1. [家人手持 6 个人的 11 准备给家人用了 自己准备换 13pro 24 期 每期 333](https://www.v2ex.com/t/801914) `91条评论` `Apple`
 1. [在京东购买 iPhone13 送一年 apple care+](https://www.v2ex.com/t/801902) `84条评论` `Apple`
-1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918) `75条评论` `iPhone`
+1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918) `76条评论` `iPhone`
 1. [📱 13 不香， 12 暴降，存量 12 用户或最受伤？手持 12 的铁汁们还换不换？](https://www.v2ex.com/t/802011) `59条评论` `iPhone`
-1. [js 怎么判断用户关闭了浏览器](https://www.v2ex.com/t/801913) `56条评论` `JavaScript`
-1. [为什么国内互联网公司喜欢用 Centos 而不是 Ubuntu？](https://www.v2ex.com/t/802052) `39条评论` `Linux`
+1. [js 怎么判断用户关闭了浏览器](https://www.v2ex.com/t/801913) `57条评论` `JavaScript`
+1. [为什么国内互联网公司喜欢用 Centos 而不是 Ubuntu？](https://www.v2ex.com/t/802052) `55条评论` `Linux`
+1. [想写一本关于程序员修仙的小说，你们会看吗？](https://www.v2ex.com/t/802036) `43条评论` `奇思妙想`
 1. [ProMotion 从 iPad Pro 到 iPhone 13 pro 的体感](https://www.v2ex.com/t/802039) `34条评论` `iPad`
 1. [南京 前端 大量要人 965 20K-35K](https://www.v2ex.com/t/802016) `28条评论` `酷工作`
 1. [下班路上被人要钱，感觉被骗了](https://www.v2ex.com/t/802119) `25条评论` `分享发现`
-1. [想写一本关于程序员修仙的小说，你们会看吗？](https://www.v2ex.com/t/802036) `25条评论` `奇思妙想`
-1. [苹果介绍 iPhone ，大概有 70% 的时间在说摄影](https://www.v2ex.com/t/802129) `20条评论` `Apple`
+1. [苹果介绍 iPhone ，大概有 70% 的时间在说摄影](https://www.v2ex.com/t/802129) `21条评论` `Apple`
 1. [老铁们午休都怎么午睡](https://www.v2ex.com/t/802010) `20条评论` `问与答`
 1. [罗技 MX Master 3 鼠标真的难用，提醒各位避个坑](https://www.v2ex.com/t/801972) `20条评论` `分享发现`
 1. [感叹一下，花括号换不换行真能把人难受死哈哈](https://www.v2ex.com/t/801982) `18条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [多款 MacOS 知名开发运维工具遭供应链投毒攻击](https://www.v2ex.com/t/802120) `14条评论` `分享发现`
 1. [如何批量修改替换服务器里的网址？](https://www.v2ex.com/t/802092) `14条评论` `问与答`
 
-数据更新于 2021-09-15 18:06:21
+数据更新于 2021-09-15 18:28:01
 
 <!-- TODAY END -->
 
