@@ -12,7 +12,7 @@
 1. [有没有坚果云的大佬，求助～～](https://www.v2ex.com/t/801937) `104条评论` `全球工单系统`
 1. [家人手持 6 个人的 11 准备给家人用了 自己准备换 13pro 24 期 每期 333](https://www.v2ex.com/t/801914) `91条评论` `Apple`
 1. [在京东购买 iPhone13 送一年 apple care+](https://www.v2ex.com/t/801902) `85条评论` `Apple`
-1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918) `76条评论` `iPhone`
+1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918) `77条评论` `iPhone`
 1. [为什么国内互联网公司喜欢用 Centos 而不是 Ubuntu？](https://www.v2ex.com/t/802052) `60条评论` `Linux`
 1. [📱 13 不香， 12 暴降，存量 12 用户或最受伤？手持 12 的铁汁们还换不换？](https://www.v2ex.com/t/802011) `59条评论` `iPhone`
 1. [js 怎么判断用户关闭了浏览器](https://www.v2ex.com/t/801913) `57条评论` `JavaScript`
@@ -30,9 +30,9 @@
 1. [iPhone 13 在某东还是官网？](https://www.v2ex.com/t/802103) `16条评论` `Apple`
 1. [多款 MacOS 知名开发运维工具遭供应链投毒攻击](https://www.v2ex.com/t/802120) `15条评论` `分享发现`
 1. [裸辞两个月，准备放弃写代码了](https://www.v2ex.com/t/802136) `14条评论` `职场话题`
-1. [如何批量修改替换服务器里的网址？](https://www.v2ex.com/t/802092) `14条评论` `问与答`
+1. [当巨头不再屏蔽网页的时候，是否意味着小程序将死？](https://www.v2ex.com/t/802122) `14条评论` `分享发现`
 
-数据更新于 2021-09-15 20:25:01
+数据更新于 2021-09-15 20:36:33
 
 <!-- TODAY END -->
 
