@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [机械键盘入门级求推荐](https://www.v2ex.com/t/801896) `101条评论` `机械键盘`
-1. [家人手持 6 个人的 11 准备给家人用了 自己准备换 13pro 24 期 每期 333](https://www.v2ex.com/t/801914) `69条评论` `Apple`
+1. [家人手持 6 个人的 11 准备给家人用了 自己准备换 13pro 24 期 每期 333](https://www.v2ex.com/t/801914) `70条评论` `Apple`
+1. [有没有坚果云的大佬，求助～～](https://www.v2ex.com/t/801937) `69条评论` `全球工单系统`
 1. [在京东购买 iPhone13 送一年 apple care+](https://www.v2ex.com/t/801902) `68条评论` `Apple`
-1. [有没有坚果云的大佬，求助～～](https://www.v2ex.com/t/801937) `68条评论` `全球工单系统`
 1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918) `57条评论` `iPhone`
 1. [📱 13 不香， 12 暴降，存量 12 用户或最受伤？手持 12 的铁汁们还换不换？](https://www.v2ex.com/t/802011) `37条评论` `iPhone`
-1. [为什么国内互联网公司喜欢用 Centos 而不是 Ubuntu？](https://www.v2ex.com/t/802052) `28条评论` `Linux`
+1. [为什么国内互联网公司喜欢用 Centos 而不是 Ubuntu？](https://www.v2ex.com/t/802052) `30条评论` `Linux`
 1. [南京 前端 大量要人 965 20K-35K](https://www.v2ex.com/t/802016) `28条评论` `酷工作`
 1. [ProMotion 从 iPad Pro 到 iPhone 13 pro 的体感](https://www.v2ex.com/t/802039) `23条评论` `iPad`
 1. [想写一本关于程序员修仙的小说，你们会看吗？](https://www.v2ex.com/t/802036) `22条评论` `奇思妙想`
@@ -30,9 +30,9 @@
 1. [iQOO 手机怎么样？](https://www.v2ex.com/t/801974) `12条评论` `Android`
 1. [关于梦境的思考](https://www.v2ex.com/t/801962) `12条评论` `奇思妙想`
 1. [2021,做前端买 mbp M1 合适吗?](https://www.v2ex.com/t/801894) `12条评论` `MacBook Pro`
-1. [Oracle 为何决定再次将 OracleJDK 免费商用](https://www.v2ex.com/t/802012) `11条评论` `Java`
+1. [看了某律师所对敬业协议条款的分析，发现敬业协议是真的很 bug 的东西](https://www.v2ex.com/t/802055) `11条评论` `职场话题`
 
-数据更新于 2021-09-15 08:46:02
+数据更新于 2021-09-15 08:52:23
 
 <!-- TODAY END -->
 
