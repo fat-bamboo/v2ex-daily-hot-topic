@@ -8,15 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [13pro 内存只有 6g，这波怎么说，明年再等等？](https://www.v2ex.com/t/802169) `41条评论` `iPhone`
-1. [马上到生日了，老婆让我自己选礼物，选啥好呢？预算上限 1w](https://www.v2ex.com/t/802188) `29条评论` `问与答`
-1. [A15 Geekbench 5 出炉， CPU 提频， Metal 提升 55%， Pro 内存仍为 6G](https://www.v2ex.com/t/802173) `17条评论` `iPhone`
-1. [没搞懂，类似于今日热榜、信息聚合等类型网站，到底是靠什么盈利的](https://www.v2ex.com/t/802194) `13条评论` `程序员`
-1. [Oracle JDK 并没有“真”免费](https://www.v2ex.com/t/802200) `10条评论` `Java`
-1. [在官网下单了新款的 iPad 和一个一代笔](https://www.v2ex.com/t/802180) `8条评论` `Apple`
-1. [微博图床 Chrome 扩展更新了...](https://www.v2ex.com/t/802187) `6条评论` `分享创造`
+1. [13pro 内存只有 6g，这波怎么说，明年再等等？](https://www.v2ex.com/t/802169) `46条评论` `iPhone`
+1. [马上到生日了，老婆让我自己选礼物，选啥好呢？预算上限 1w](https://www.v2ex.com/t/802188) `36条评论` `问与答`
+1. [A15 Geekbench 5 出炉， CPU 提频， Metal 提升 55%， Pro 内存仍为 6G](https://www.v2ex.com/t/802173) `22条评论` `iPhone`
+1. [公司或者项目组就一个前端，你会怎么办？](https://www.v2ex.com/t/802206) `17条评论` `程序员`
+1. [Oracle JDK 并没有“真”免费](https://www.v2ex.com/t/802200) `16条评论` `Java`
+1. [没搞懂，类似于今日热榜、信息聚合等类型网站，到底是靠什么盈利的](https://www.v2ex.com/t/802194) `14条评论` `程序员`
+1. [在官网下单了新款的 iPad 和一个一代笔](https://www.v2ex.com/t/802180) `9条评论` `Apple`
+1. [微博图床 Chrome 扩展更新了...](https://www.v2ex.com/t/802187) `7条评论` `分享创造`
+1. [问一下大伙在深圳骑电动车要上牌吗，可以带人吗？](https://www.v2ex.com/t/802186) `6条评论` `深圳`
+1. [想知道彦祖们是怎么上的 v 站](https://www.v2ex.com/t/802184) `6条评论` `问与答`
+1. [Java on Visual Studio Code 的更新 – 2021 年 8 月](https://www.v2ex.com/t/802182) `6条评论` `Visual Studio Code`
 
-数据更新于 2021-09-16 02:19:07
+数据更新于 2021-09-16 02:41:28
 
 <!-- TODAY END -->
 
