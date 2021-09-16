@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-空空如也
+1. [13pro 内存只有 6g，这波怎么说，明年再等等？](https://www.v2ex.com/t/802169) `25条评论` `iPhone`
+1. [A15 Geekbench 5 出炉， CPU 提频， Metal 提升 55%， Pro 内存仍为 6G](https://www.v2ex.com/t/802173) `10条评论` `iPhone`
 
-数据更新于 2021-09-16 00:20:56
+数据更新于 2021-09-16 01:39:32
 
 <!-- TODAY END -->
 
