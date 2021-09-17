@@ -8,19 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `36条评论` `Firefox`
-1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `35条评论` `分享发现`
-1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `21条评论` `Apple`
-1. [早上才发现 Apple Store 官网买的 12 Pro Max 没有年年焕新](https://www.v2ex.com/t/802461) `15条评论` `Apple`
+1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `42条评论` `Firefox`
+1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `36条评论` `分享发现`
+1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `22条评论` `Apple`
+1. [早上才发现 Apple Store 官网买的 12 Pro Max 没有年年焕新](https://www.v2ex.com/t/802461) `19条评论` `Apple`
+1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `14条评论` `职场话题`
 1. [请问有没有什么快捷的方式给 U 盘做成多 Linux 系统的安装盘?](https://www.v2ex.com/t/802456) `13条评论` `问与答`
-1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `12条评论` `职场话题`
 1. [Obsidian Sync 值得付费吗？](https://www.v2ex.com/t/802446) `11条评论` `问与答`
+1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `9条评论` `Windows`
 1. [请教大佬们，微服务中多系统统一权限怎么设计](https://www.v2ex.com/t/802442) `9条评论` `Java`
 1. [分享一个 id 自增生成器，依赖于 redis，求大佬帮忙挑挑毛病](https://www.v2ex.com/t/802473) `8条评论` `程序员`
-1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `8条评论` `Windows`
+1. [iPad mini6 锁定最强游戏机，那么问题来了](https://www.v2ex.com/t/802475) `7条评论` `iPad`
 1. [本来还想着今年会有新的 iPod touch 发布的。。。](https://www.v2ex.com/t/802468) `6条评论` `Apple`
 
-数据更新于 2021-09-17 02:52:40
+数据更新于 2021-09-17 03:06:02
 
 <!-- TODAY END -->
 
