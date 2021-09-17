@@ -25,14 +25,14 @@
 1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `22条评论` `Apple`
 1. [PDD 补贴来了 iPhone13 补贴 500 到手 5499](https://www.v2ex.com/t/802571) `21条评论` `Apple`
 1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `21条评论` `Windows`
-1. [大家的官网订单现在什么状态](https://www.v2ex.com/t/802632) `18条评论` `iPhone`
+1. [大家的官网订单现在什么状态](https://www.v2ex.com/t/802632) `19条评论` `iPhone`
 1. [铁子们今年买 max 还是 pro 呀，有点担心 pro 电池顶不住高刷](https://www.v2ex.com/t/802530) `18条评论` `iPhone`
 1. [话题讨论：你知道这些计算机词汇的区别吗？](https://www.v2ex.com/t/802494) `18条评论` `程序员`
 1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `16条评论` `职场话题`
 1. [离职领导不放人](https://www.v2ex.com/t/802598) `15条评论` `职场话题`
 1. [哪里能买到全新未激活的国外版本 iPhone13](https://www.v2ex.com/t/802563) `15条评论` `问与答`
 
-数据更新于 2021-09-17 15:47:51
+数据更新于 2021-09-17 15:54:07
 
 <!-- TODAY END -->
 
