@@ -20,7 +20,7 @@
 1. [5、E，还是 ES8 或者 model Y 顶配？落地 50 万](https://www.v2ex.com/t/802505) `25条评论` `汽车`
 1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `22条评论` `Apple`
 1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `21条评论` `Windows`
-1. [[Apple] 今晚预售，你会选择什么配色？](https://www.v2ex.com/t/802537) `18条评论` `iPhone`
+1. [[Apple] 今晚预售，你会选择什么配色？](https://www.v2ex.com/t/802537) `19条评论` `iPhone`
 1. [话题讨论：你知道这些计算机词汇的区别吗？](https://www.v2ex.com/t/802494) `18条评论` `程序员`
 1. [铁子们今年买 max 还是 pro 呀，有点担心 pro 电池顶不住高刷](https://www.v2ex.com/t/802530) `16条评论` `iPhone`
 1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `16条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [谁有 IT 前缀的域名](https://www.v2ex.com/t/802485) `9条评论` `问与答`
 1. [百思不得其解的 MongoDB 问题：服务正常，但连接不上](https://www.v2ex.com/t/802474) `9条评论` `MongoDB`
 
-数据更新于 2021-09-17 07:41:35
+数据更新于 2021-09-17 07:51:37
 
 <!-- TODAY END -->
 
