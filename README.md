@@ -8,20 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `62条评论` `Firefox`
+1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `63条评论` `Firefox`
 1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `59条评论` `互联网`
+1. [转载: 半夜娃尿床突然发现被优化了，挺不爽的。](https://www.v2ex.com/t/802488) `38条评论` `职场话题`
 1. [大家觉得远程办公为什么在国内流行不起来？](https://www.v2ex.com/t/802493) `36条评论` `问与答`
 1. [吴彦祖们，用 USDT（泰达币）发工资可还行？](https://www.v2ex.com/t/802503) `31条评论` `职场话题`
-1. [编译原理大家是怎么学习的？](https://www.v2ex.com/t/802520) `29条评论` `程序员`
-1. [同价位， iPad Pro 11 寸 2020 版比新 mini 强多了](https://www.v2ex.com/t/802507) `27条评论` `Apple`
+1. [编译原理大家是怎么学习的？](https://www.v2ex.com/t/802520) `30条评论` `程序员`
+1. [同价位， iPad Pro 11 寸 2020 版比新 mini 强多了](https://www.v2ex.com/t/802507) `28条评论` `Apple`
 1. [早上才发现 Apple Store 官网买的 12 Pro Max 没有年年焕新](https://www.v2ex.com/t/802461) `27条评论` `Apple`
 1. [iPad mini6 锁定最强游戏机，那么问题来了](https://www.v2ex.com/t/802475) `26条评论` `iPad`
 1. [5、E，还是 ES8 或者 model Y 顶配？落地 50 万](https://www.v2ex.com/t/802505) `25条评论` `汽车`
-1. [转载: 半夜娃尿床突然发现被优化了，挺不爽的。](https://www.v2ex.com/t/802488) `23条评论` `职场话题`
 1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `22条评论` `Apple`
 1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `21条评论` `Windows`
+1. [[Apple] 今晚预售，你会选择什么配色？](https://www.v2ex.com/t/802537) `18条评论` `iPhone`
 1. [话题讨论：你知道这些计算机词汇的区别吗？](https://www.v2ex.com/t/802494) `18条评论` `程序员`
-1. [[Apple] 今晚预售，你会选择什么配色？](https://www.v2ex.com/t/802537) `17条评论` `iPhone`
 1. [铁子们今年买 max 还是 pro 呀，有点担心 pro 电池顶不住高刷](https://www.v2ex.com/t/802530) `16条评论` `iPhone`
 1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `16条评论` `职场话题`
 1. [什么是“magic”代码？跟“语法糖”、“hack”、“奇技淫巧”有什么区别？](https://www.v2ex.com/t/802518) `13条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [谁有 IT 前缀的域名](https://www.v2ex.com/t/802485) `9条评论` `问与答`
 1. [百思不得其解的 MongoDB 问题：服务正常，但连接不上](https://www.v2ex.com/t/802474) `9条评论` `MongoDB`
 
-数据更新于 2021-09-17 07:31:57
+数据更新于 2021-09-17 07:41:35
 
 <!-- TODAY END -->
 
