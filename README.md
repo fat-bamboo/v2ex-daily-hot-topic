@@ -8,26 +8,27 @@
 
 <!-- TODAY BEGIN -->
 
-1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `42条评论` `分享发现`
-1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `42条评论` `Firefox`
+1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `45条评论` `分享发现`
+1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `43条评论` `Firefox`
+1. [早上才发现 Apple Store 官网买的 12 Pro Max 没有年年焕新](https://www.v2ex.com/t/802461) `22条评论` `Apple`
 1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `22条评论` `Apple`
-1. [早上才发现 Apple Store 官网买的 12 Pro Max 没有年年焕新](https://www.v2ex.com/t/802461) `21条评论` `Apple`
-1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `16条评论` `Windows`
+1. [2021 年的 Windows 上有没有类似 mac 的 Alfred 软件推荐？体验好，安装使用傻瓜的。](https://www.v2ex.com/t/802471) `17条评论` `Windows`
 1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `16条评论` `职场话题`
 1. [转载: 半夜娃尿床突然发现被优化了，挺不爽的。](https://www.v2ex.com/t/802488) `14条评论` `职场话题`
 1. [请问有没有什么快捷的方式给 U 盘做成多 Linux 系统的安装盘?](https://www.v2ex.com/t/802456) `13条评论` `问与答`
 1. [Obsidian Sync 值得付费吗？](https://www.v2ex.com/t/802446) `11条评论` `问与答`
-1. [iPad mini6 锁定最强游戏机，那么问题来了](https://www.v2ex.com/t/802475) `9条评论` `iPad`
+1. [iPad mini6 锁定最强游戏机，那么问题来了](https://www.v2ex.com/t/802475) `10条评论` `iPad`
 1. [请教大佬们，微服务中多系统统一权限怎么设计](https://www.v2ex.com/t/802442) `9条评论` `Java`
 1. [分享一个 id 自增生成器，依赖于 redis，求大佬帮忙挑挑毛病](https://www.v2ex.com/t/802473) `8条评论` `程序员`
 1. [Linux 下挂载硬盘后一段时间不用,会自动休眠并且卸载是怎么回事?](https://www.v2ex.com/t/802479) `7条评论` `Linux`
+1. [你们的手机都戴保护壳吗？](https://www.v2ex.com/t/802469) `7条评论` `Apple`
+1. [大家觉得远程办公为什么在国内流行不起来？](https://www.v2ex.com/t/802493) `6条评论` `问与答`
 1. [前段时间不是说 app 要取消启动页广告吗](https://www.v2ex.com/t/802481) `6条评论` `问与答`
 1. [百思不得其解的 MongoDB 问题：服务正常，但连接不上](https://www.v2ex.com/t/802474) `6条评论` `MongoDB`
-1. [你们的手机都戴保护壳吗？](https://www.v2ex.com/t/802469) `6条评论` `Apple`
 1. [本来还想着今年会有新的 iPod touch 发布的。。。](https://www.v2ex.com/t/802468) `6条评论` `Apple`
 1. [vscode 引入 msvc 出错了,如何解决呢?](https://www.v2ex.com/t/802454) `6条评论` `问与答`
 
-数据更新于 2021-09-17 03:35:47
+数据更新于 2021-09-17 03:44:21
 
 <!-- TODAY END -->
 
