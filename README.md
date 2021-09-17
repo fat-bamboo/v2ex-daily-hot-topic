@@ -8,12 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `17条评论` `程序员`
-1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `15条评论` `Apple`
-1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `14条评论` `分享发现`
-1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `8条评论` `职场话题`
+1. [Firefox 正在失去它最后的拥趸](https://www.v2ex.com/t/802450) `31条评论` `Firefox`
+1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447) `28条评论` `分享发现`
+1. [Apple 公司的 iPhone 好厉害](https://www.v2ex.com/t/802444) `18条评论` `Apple`
+1. [请问有没有什么快捷的方式给 U 盘做成多 Linux 系统的安装盘?](https://www.v2ex.com/t/802456) `11条评论` `问与答`
+1. [总是没有勇气去提离职怎么办](https://www.v2ex.com/t/802445) `11条评论` `职场话题`
+1. [Obsidian Sync 值得付费吗？](https://www.v2ex.com/t/802446) `9条评论` `问与答`
+1. [早上才发现 Apple Store 官网买的 12 Pro Max 没有年年焕新](https://www.v2ex.com/t/802461) `7条评论` `Apple`
+1. [请教大佬们，微服务中多系统统一权限怎么设计](https://www.v2ex.com/t/802442) `7条评论` `Java`
 
-数据更新于 2021-09-17 01:40:51
+数据更新于 2021-09-17 02:20:26
 
 <!-- TODAY END -->
 
