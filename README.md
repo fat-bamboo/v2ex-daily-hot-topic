@@ -9,15 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `200条评论` `Android`
+1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `73条评论` `git`
 1. [感觉自己抑郁了，想要离婚](https://www.v2ex.com/t/802688) `73条评论` `问与答`
 1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `71条评论` `iPhone`
-1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `71条评论` `git`
+1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696) `68条评论` `西安`
 1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727) `66条评论` `汽车`
-1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696) `65条评论` `西安`
-1. [为什么要抢购新手机呢？](https://www.v2ex.com/t/802780) `60条评论` `问与答`
-1. [拼多多官方处理问题跟京东真的没法比](https://www.v2ex.com/t/802798) `50条评论` `iPhone`
+1. [为什么要抢购新手机呢？](https://www.v2ex.com/t/802780) `63条评论` `问与答`
+1. [拼多多官方处理问题跟京东真的没法比](https://www.v2ex.com/t/802798) `51条评论` `iPhone`
 1. [关于 ios 上 app 检测代理](https://www.v2ex.com/t/802669) `38条评论` `iPhone`
-1. [有没有长期使用 sidecar 功能的 V 友，这个东西长期的稳定性如何？](https://www.v2ex.com/t/802800) `29条评论` `iPad`
+1. [有没有长期使用 sidecar 功能的 V 友，这个东西长期的稳定性如何？](https://www.v2ex.com/t/802800) `30条评论` `iPad`
 1. [iPadmini6 到货以后，要不要换路由器](https://www.v2ex.com/t/802719) `25条评论` `iPad`
 1. [现在有推荐的同步盘么？](https://www.v2ex.com/t/802670) `23条评论` `问与答`
 1. [打翻了一瓶矿泉水在 MacBook Pro 上，赶紧用鼠标关机了，等多久可以尝试开机？](https://www.v2ex.com/t/802747) `21条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [iOS 15 不改地区就能看到全球所有交通卡](https://www.v2ex.com/t/802740) `15条评论` `iPhone`
 1. [跨语言接口强约束有没有什么好方案？除了 google probuf 之外](https://www.v2ex.com/t/802723) `15条评论` `程序员`
 
-数据更新于 2021-09-18 13:00:58
+数据更新于 2021-09-18 13:25:27
 
 <!-- TODAY END -->
 
