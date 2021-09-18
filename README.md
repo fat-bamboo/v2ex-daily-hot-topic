@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `90条评论` `Android`
+1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `93条评论` `Android`
 1. [感觉自己抑郁了，想要离婚](https://www.v2ex.com/t/802688) `73条评论` `问与答`
-1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `45条评论` `iPhone`
+1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `50条评论` `iPhone`
 1. [现在有推荐的同步盘么？](https://www.v2ex.com/t/802670) `23条评论` `问与答`
 1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `22条评论` `程序员`
 1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696) `22条评论` `西安`
@@ -32,7 +32,7 @@
 1. [京东 iphone13 送一年 apple care，加入店铺会员可以抢 12 期免息券， pdd 直接降价 500](https://www.v2ex.com/t/802678) `10条评论` `京东`
 1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727) `9条评论` `汽车`
 
-数据更新于 2021-09-18 04:52:17
+数据更新于 2021-09-18 05:04:20
 
 <!-- TODAY END -->
 
