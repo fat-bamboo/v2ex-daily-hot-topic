@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `200条评论` `Android`
+1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `201条评论` `Android`
 1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `73条评论` `git`
 1. [感觉自己抑郁了，想要离婚](https://www.v2ex.com/t/802688) `73条评论` `问与答`
 1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `71条评论` `iPhone`
@@ -25,14 +25,14 @@
 1. [最近感觉一个妹子不错，不过我比她大 5 岁](https://www.v2ex.com/t/802822) `18条评论` `问与答`
 1. [个人作品 WeWorkCloudesk(原名:WeWork 云桌面)，一款专注于极致体验的远程办公利器， Ver.3.0.3 新版发布！](https://www.v2ex.com/t/802701) `17条评论` `分享创造`
 1. [得鼻炎了, 说下症状和应对吧](https://www.v2ex.com/t/802689) `17条评论` `健康`
+1. [《Apple 授权专营店在你身边》小程序不用抢有现货](https://www.v2ex.com/t/802813) `16条评论` `Apple`
 1. [大哥们， mac 电池鼓包你们都咋修的。。](https://www.v2ex.com/t/802704) `16条评论` `问与答`
 1. [发现一个特别赞的同步盘方案 Resilio Sync](https://www.v2ex.com/t/802692) `16条评论` `分享发现`
 1. [看看某机场技术支持客服的态度和水平，求求你别做机场了，找个厂上班吧](https://www.v2ex.com/t/802690) `16条评论` `宽带症候群`
-1. [《Apple 授权专营店在你身边》小程序不用抢有现货](https://www.v2ex.com/t/802813) `15条评论` `Apple`
 1. [iOS 15 不改地区就能看到全球所有交通卡](https://www.v2ex.com/t/802740) `15条评论` `iPhone`
 1. [跨语言接口强约束有没有什么好方案？除了 google probuf 之外](https://www.v2ex.com/t/802723) `15条评论` `程序员`
 
-数据更新于 2021-09-18 13:41:36
+数据更新于 2021-09-18 13:51:42
 
 <!-- TODAY END -->
 
