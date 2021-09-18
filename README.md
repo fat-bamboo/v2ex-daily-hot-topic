@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `144条评论` `Android`
+1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `147条评论` `Android`
 1. [感觉自己抑郁了，想要离婚](https://www.v2ex.com/t/802688) `73条评论` `问与答`
-1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `55条评论` `iPhone`
-1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696) `30条评论` `西安`
+1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `56条评论` `iPhone`
+1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696) `34条评论` `西安`
 1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `28条评论` `程序员`
-1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727) `25条评论` `汽车`
+1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727) `26条评论` `汽车`
 1. [iPadmini6 到货以后，要不要换路由器](https://www.v2ex.com/t/802719) `25条评论` `iPad`
 1. [现在有推荐的同步盘么？](https://www.v2ex.com/t/802670) `23条评论` `问与答`
 1. [百度输入法 VS 搜狗输入法](https://www.v2ex.com/t/802683) `19条评论` `iPhone`
@@ -23,16 +23,16 @@
 1. [大哥们， mac 电池鼓包你们都咋修的。。](https://www.v2ex.com/t/802704) `16条评论` `问与答`
 1. [发现一个特别赞的同步盘方案 Resilio Sync](https://www.v2ex.com/t/802692) `16条评论` `分享发现`
 1. [看看某机场技术支持客服的态度和水平，求求你别做机场了，找个厂上班吧](https://www.v2ex.com/t/802690) `16条评论` `宽带症候群`
+1. [打翻了一瓶矿泉水在 MacBook Pro 上，赶紧用鼠标关机了，等多久可以尝试开机？](https://www.v2ex.com/t/802747) `15条评论` `Apple`
 1. [iOS 15 不改地区就能看到全球所有交通卡](https://www.v2ex.com/t/802740) `15条评论` `iPhone`
 1. [跨语言接口强约束有没有什么好方案？除了 google probuf 之外](https://www.v2ex.com/t/802723) `15条评论` `程序员`
 1. [12mini 1 月 20 号购入，现在电池健康 92%，正常现象？](https://www.v2ex.com/t/802694) `15条评论` `问与答`
 1. [恒大事件](https://www.v2ex.com/t/802728) `15条评论` `问与答`
+1. [犹豫是否要年年焕新](https://www.v2ex.com/t/802734) `13条评论` `iPhone`
 1. [个人第二款 Flutter 应用今天终于上架了： 小声音](https://www.v2ex.com/t/802715) `13条评论` `推广`
 1. [请问目前 Windows10 上的最佳前端开发环境是 vscode+docker+wsl2 吗？](https://www.v2ex.com/t/802711) `13条评论` `问与答`
-1. [犹豫是否要年年焕新](https://www.v2ex.com/t/802734) `12条评论` `iPhone`
-1. [筋膜枪哪个牌子好啊？](https://www.v2ex.com/t/802675) `12条评论` `问与答`
 
-数据更新于 2021-09-18 06:52:55
+数据更新于 2021-09-18 07:05:35
 
 <!-- TODAY END -->
 
