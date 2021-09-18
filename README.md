@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `186条评论` `Android`
+1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `189条评论` `Android`
 1. [感觉自己抑郁了，想要离婚](https://www.v2ex.com/t/802688) `73条评论` `问与答`
 1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `66条评论` `iPhone`
-1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `65条评论` `程序员`
+1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `66条评论` `程序员`
 1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696) `64条评论` `西安`
 1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727) `58条评论` `汽车`
+1. [拼多多官方处理问题跟京东真的没法比](https://www.v2ex.com/t/802798) `41条评论` `iPhone`
 1. [关于 ios 上 app 检测代理](https://www.v2ex.com/t/802669) `38条评论` `iPhone`
-1. [拼多多官方处理问题跟京东真的没法比](https://www.v2ex.com/t/802798) `38条评论` `iPhone`
-1. [为什么要抢购新手机呢？](https://www.v2ex.com/t/802780) `36条评论` `问与答`
+1. [为什么要抢购新手机呢？](https://www.v2ex.com/t/802780) `37条评论` `问与答`
 1. [iPadmini6 到货以后，要不要换路由器](https://www.v2ex.com/t/802719) `25条评论` `iPad`
 1. [现在有推荐的同步盘么？](https://www.v2ex.com/t/802670) `23条评论` `问与答`
 1. [打翻了一瓶矿泉水在 MacBook Pro 上，赶紧用鼠标关机了，等多久可以尝试开机？](https://www.v2ex.com/t/802747) `21条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [12mini 1 月 20 号购入，现在电池健康 92%，正常现象？](https://www.v2ex.com/t/802694) `15条评论` `问与答`
 1. [恒大事件](https://www.v2ex.com/t/802728) `15条评论` `问与答`
 
-数据更新于 2021-09-18 10:25:19
+数据更新于 2021-09-18 10:36:30
 
 <!-- TODAY END -->
 
