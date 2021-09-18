@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `189条评论` `Android`
+1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674) `190条评论` `Android`
 1. [感觉自己抑郁了，想要离婚](https://www.v2ex.com/t/802688) `73条评论` `问与答`
 1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673) `66条评论` `iPhone`
 1. [rebase 还是 merge？](https://www.v2ex.com/t/802718) `66条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [12mini 1 月 20 号购入，现在电池健康 92%，正常现象？](https://www.v2ex.com/t/802694) `15条评论` `问与答`
 1. [恒大事件](https://www.v2ex.com/t/802728) `15条评论` `问与答`
 
-数据更新于 2021-09-18 10:36:30
+数据更新于 2021-09-18 10:44:02
 
 <!-- TODAY END -->
 
