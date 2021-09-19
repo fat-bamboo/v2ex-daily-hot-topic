@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [2021 年 9 月 19 日 请问朋友们，现在哪些手机自带谷歌框架。哪些可以后期安装（非 root、解 BL 锁）](https://www.v2ex.com/t/802897) `16条评论` `Android`
+1. [想要买个笔记本 Thinkpad X1 Carbon 怎样，懂的来说说](https://www.v2ex.com/t/802887) `11条评论` `问与答`
 1. [微信朋友圈的 sao 操作](https://www.v2ex.com/t/802885) `11条评论` `微信`
-1. [想要买个笔记本 Thinkpad X1 Carbon 怎样，懂的来说说](https://www.v2ex.com/t/802887) `10条评论` `问与答`
 
-数据更新于 2021-09-19 02:49:12
+数据更新于 2021-09-19 02:55:29
 
 <!-- TODAY END -->
 
