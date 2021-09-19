@@ -15,7 +15,7 @@
 1. [有什么快速方法让 google 和 ytb 识别 us 的 ip 为大陆？](https://www.v2ex.com/t/802908) `27条评论` `Google`
 1. [QQ 音乐会员官方活动，免费领一个月会员](https://www.v2ex.com/t/802913) `24条评论` `优惠信息`
 1. [有锁机怎么买](https://www.v2ex.com/t/802894) `23条评论` `Apple`
-1. [13 系列是外挂 5G 吗？](https://www.v2ex.com/t/802957) `20条评论` `Apple`
+1. [13 系列是外挂 5G 吗？](https://www.v2ex.com/t/802957) `21条评论` `Apple`
 1. [软件工程考研问题相关](https://www.v2ex.com/t/802883) `18条评论` `问与答`
 1. [拼多多抢 iPhone 13 Pro Max 实在抢不到](https://www.v2ex.com/t/802960) `16条评论` `iPhone`
 1. [华为天际通（华为移动路由）2000GB 物联网流量月套餐使用体验分享](https://www.v2ex.com/t/802934) `14条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [国内可以用 Starlink 吗？](https://www.v2ex.com/t/802977) `6条评论` `互联网`
 1. [这网站也太酷了](https://www.v2ex.com/t/802940) `6条评论` `互联网`
 
-数据更新于 2021-09-19 21:35:36
+数据更新于 2021-09-19 21:41:48
 
 <!-- TODAY END -->
 
