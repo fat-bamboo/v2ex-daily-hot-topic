@@ -29,10 +29,10 @@
 1. [你们的 iPadmini5 发货了吗](https://www.v2ex.com/t/802955) `8条评论` `Apple`
 1. [Phantun - Rust 写的轻量级 UDP -> TCP 混淆器](https://www.v2ex.com/t/802949) `8条评论` `分享创造`
 1. [家宽公网 ip 访问问题](https://www.v2ex.com/t/802944) `7条评论` `宽带症候群`
+1. [“文件和文件夹”权限拯救了我的数据和时间](https://www.v2ex.com/t/802996) `6条评论` `macOS`
 1. [国内可以用 Starlink 吗？](https://www.v2ex.com/t/802977) `6条评论` `互联网`
-1. [这网站也太酷了](https://www.v2ex.com/t/802940) `6条评论` `互联网`
 
-数据更新于 2021-09-19 22:04:42
+数据更新于 2021-09-19 22:22:45
 
 <!-- TODAY END -->
 
