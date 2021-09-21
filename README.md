@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `32条评论` `Windows`
-1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `24条评论` `iOS`
+1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `25条评论` `iOS`
 1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `18条评论` `iPhone`
 1. [ios 精品 app 推荐，欢迎补充交流。](https://www.v2ex.com/t/803140) `16条评论` `iOS`
 1. [V 友们都是程序员吗？](https://www.v2ex.com/t/803193) `15条评论` `生活`
@@ -19,16 +19,19 @@
 1. [有什么手机浏览器可以强制打开 PC 端网站，而不是每次都被跳到移动端的网站](https://www.v2ex.com/t/803170) `12条评论` `问与答`
 1. [不浪费无数个辗转反侧的不眠夜，我开发了一款匿名社交 App](https://www.v2ex.com/t/803144) `12条评论` `分享创造`
 1. [首发日直营店有 iPhone13 现货吗](https://www.v2ex.com/t/803171) `11条评论` `Apple`
-1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `9条评论` `iPhone`
+1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `10条评论` `iPhone`
 1. [小米的频段阉割，实际上是软屏蔽？](https://www.v2ex.com/t/803137) `9条评论` `程序员`
 1. [有什么大而全的 web 开发框架](https://www.v2ex.com/t/803177) `8条评论` `问与答`
+1. [iPhone XR 官方折抵 1450 划算吗？ 128g，无拆修。](https://www.v2ex.com/t/803218) `7条评论` `Apple`
+1. [决赛圈了，这两个户型怎么选择？](https://www.v2ex.com/t/803215) `7条评论` `问与答`
 1. [当前安卓系统熄屏状态下支持蓝牙耳机按键控制录音吗？](https://www.v2ex.com/t/803176) `7条评论` `Android`
 1. [表示某商品受欢迎程度的计算方法](https://www.v2ex.com/t/803134) `7条评论` `问与答`
-1. [iPhone XR 官方折抵 1450 划算吗？ 128g，无拆修。](https://www.v2ex.com/t/803218) `6条评论` `Apple`
 1. [为什么手机利用 wifi 点对点传输速率只有 4MB/秒？](https://www.v2ex.com/t/803199) `6条评论` `宽带症候群`
+1. [Flutter 的一些优势](https://www.v2ex.com/t/803185) `6条评论` `Flutter`
+1. [chrome 为何总以管理员权限运行](https://www.v2ex.com/t/803173) `6条评论` `问与答`
 1. [为啥打开 private relay 就用不了公司 wifi 了？](https://www.v2ex.com/t/803142) `6条评论` `问与答`
 
-数据更新于 2021-09-21 11:19:23
+数据更新于 2021-09-21 11:27:29
 
 <!-- TODAY END -->
 
