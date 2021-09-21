@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `43条评论` `Windows`
-1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `42条评论` `Apple`
+1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `45条评论` `Apple`
+1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `44条评论` `Windows`
+1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `39条评论` `iOS`
 1. [决赛圈了，这两个户型怎么选择？](https://www.v2ex.com/t/803215) `37条评论` `问与答`
-1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `36条评论` `iOS`
 1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `29条评论` `iPhone`
 1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `25条评论` `iPhone`
 1. [ios 精品 app 推荐，欢迎补充交流。](https://www.v2ex.com/t/803140) `16条评论` `iOS`
 1. [各位 V 友，如果你有健康方面的担心，你从啥渠道获取最正确的信息的？感觉国家应该有这方面的专家义助吧，可以从哪里获取到这种机构的专家的科普与指导？](https://www.v2ex.com/t/803219) `15条评论` `问与答`
 1. [V 友们都是程序员吗？](https://www.v2ex.com/t/803193) `15条评论` `生活`
+1. [iPhone XR 官方折抵 1450 划算吗？ 128g，无拆修。](https://www.v2ex.com/t/803218) `14条评论` `Apple`
 1. [安卓 Microsoft edge 浏览器更新后什么情况](https://www.v2ex.com/t/803167) `14条评论` `浏览器`
 1. [帮助一个应届生咨询一下，国内 ios 岗是否前景黯淡？](https://www.v2ex.com/t/803154) `14条评论` `职场话题`
 1. [一证通查 正式开放了,查询名下有几张电话卡](https://www.v2ex.com/t/803143) `13条评论` `分享发现`
-1. [iPhone XR 官方折抵 1450 划算吗？ 128g，无拆修。](https://www.v2ex.com/t/803218) `12条评论` `Apple`
 1. [有什么手机浏览器可以强制打开 PC 端网站，而不是每次都被跳到移动端的网站](https://www.v2ex.com/t/803170) `12条评论` `问与答`
 1. [不浪费无数个辗转反侧的不眠夜，我开发了一款匿名社交 App](https://www.v2ex.com/t/803144) `12条评论` `分享创造`
 1. [Kindle paperwhite 发布新版本了，支持 usb-c](https://www.v2ex.com/t/803234) `11条评论` `分享发现`
 1. [北京的兄弟姐妹们，你们打算今晚在哪里赏月？](https://www.v2ex.com/t/803194) `11条评论` `北京`
 1. [首发日直营店有 iPhone13 现货吗](https://www.v2ex.com/t/803171) `11条评论` `Apple`
+1. [安卓系有非曲面屏的旗舰吗？（就是不要屏幕边缘卷起来一点的那种屏幕）](https://www.v2ex.com/t/803223) `10条评论` `Android`
 1. [求助： ios15 提示“ iPhone 储存空间将满”](https://www.v2ex.com/t/803220) `10条评论` `iOS`
 1. [为什么手机利用 wifi 点对点传输速率只有 4MB/秒？](https://www.v2ex.com/t/803199) `10条评论` `宽带症候群`
+1. [有好吃不腻的月饼推荐吗？](https://www.v2ex.com/t/803239) `9条评论` `问与答`
 1. [类似 PAT、CSP 这种对「2 年经验的社招」有加成吗？](https://www.v2ex.com/t/803221) `9条评论` `程序员`
-1. [小米的频段阉割，实际上是软屏蔽？](https://www.v2ex.com/t/803137) `9条评论` `程序员`
-1. [安卓系有非曲面屏的旗舰吗？（就是不要屏幕边缘卷起来一点的那种屏幕）](https://www.v2ex.com/t/803223) `8条评论` `Android`
 
-数据更新于 2021-09-21 15:54:26
+数据更新于 2021-09-21 16:07:39
 
 <!-- TODAY END -->
 
