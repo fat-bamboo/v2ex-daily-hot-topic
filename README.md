@@ -11,7 +11,7 @@
 1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `43条评论` `Windows`
 1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `36条评论` `iOS`
 1. [决赛圈了，这两个户型怎么选择？](https://www.v2ex.com/t/803215) `36条评论` `问与答`
-1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `28条评论` `Apple`
+1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `32条评论` `Apple`
 1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `26条评论` `iPhone`
 1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `25条评论` `iPhone`
 1. [ios 精品 app 推荐，欢迎补充交流。](https://www.v2ex.com/t/803140) `16条评论` `iOS`
@@ -22,17 +22,17 @@
 1. [一证通查 正式开放了,查询名下有几张电话卡](https://www.v2ex.com/t/803143) `13条评论` `分享发现`
 1. [有什么手机浏览器可以强制打开 PC 端网站，而不是每次都被跳到移动端的网站](https://www.v2ex.com/t/803170) `12条评论` `问与答`
 1. [不浪费无数个辗转反侧的不眠夜，我开发了一款匿名社交 App](https://www.v2ex.com/t/803144) `12条评论` `分享创造`
+1. [Kindle paperwhite 发布新版本了，支持 usb-c](https://www.v2ex.com/t/803234) `11条评论` `分享发现`
 1. [北京的兄弟姐妹们，你们打算今晚在哪里赏月？](https://www.v2ex.com/t/803194) `11条评论` `北京`
 1. [首发日直营店有 iPhone13 现货吗](https://www.v2ex.com/t/803171) `11条评论` `Apple`
 1. [iPhone XR 官方折抵 1450 划算吗？ 128g，无拆修。](https://www.v2ex.com/t/803218) `10条评论` `Apple`
 1. [为什么手机利用 wifi 点对点传输速率只有 4MB/秒？](https://www.v2ex.com/t/803199) `10条评论` `宽带症候群`
 1. [类似 PAT、CSP 这种对「2 年经验的社招」有加成吗？](https://www.v2ex.com/t/803221) `9条评论` `程序员`
 1. [小米的频段阉割，实际上是软屏蔽？](https://www.v2ex.com/t/803137) `9条评论` `程序员`
-1. [Kindle paperwhite 发布新版本了，支持 usb-c](https://www.v2ex.com/t/803234) `8条评论` `分享发现`
 1. [Flutter 的一些优势](https://www.v2ex.com/t/803185) `8条评论` `Flutter`
 1. [有什么大而全的 web 开发框架](https://www.v2ex.com/t/803177) `8条评论` `问与答`
 
-数据更新于 2021-09-21 15:05:21
+数据更新于 2021-09-21 15:25:12
 
 <!-- TODAY END -->
 
