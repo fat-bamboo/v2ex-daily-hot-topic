@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `43条评论` `Windows`
-1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `40条评论` `Apple`
+1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `42条评论` `Apple`
 1. [决赛圈了，这两个户型怎么选择？](https://www.v2ex.com/t/803215) `37条评论` `问与答`
 1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `36条评论` `iOS`
-1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `28条评论` `iPhone`
+1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `29条评论` `iPhone`
 1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `25条评论` `iPhone`
 1. [ios 精品 app 推荐，欢迎补充交流。](https://www.v2ex.com/t/803140) `16条评论` `iOS`
 1. [各位 V 友，如果你有健康方面的担心，你从啥渠道获取最正确的信息的？感觉国家应该有这方面的专家义助吧，可以从哪里获取到这种机构的专家的科普与指导？](https://www.v2ex.com/t/803219) `15条评论` `问与答`
@@ -30,9 +30,9 @@
 1. [为什么手机利用 wifi 点对点传输速率只有 4MB/秒？](https://www.v2ex.com/t/803199) `10条评论` `宽带症候群`
 1. [类似 PAT、CSP 这种对「2 年经验的社招」有加成吗？](https://www.v2ex.com/t/803221) `9条评论` `程序员`
 1. [小米的频段阉割，实际上是软屏蔽？](https://www.v2ex.com/t/803137) `9条评论` `程序员`
-1. [Flutter 的一些优势](https://www.v2ex.com/t/803185) `8条评论` `Flutter`
+1. [安卓系有非曲面屏的旗舰吗？（就是不要屏幕边缘卷起来一点的那种屏幕）](https://www.v2ex.com/t/803223) `8条评论` `Android`
 
-数据更新于 2021-09-21 15:48:09
+数据更新于 2021-09-21 15:54:26
 
 <!-- TODAY END -->
 
