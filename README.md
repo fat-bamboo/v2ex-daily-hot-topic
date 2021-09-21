@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `39条评论` `Windows`
-1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `30条评论` `iOS`
+1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `31条评论` `iOS`
 1. [决赛圈了，这两个户型怎么选择？](https://www.v2ex.com/t/803215) `25条评论` `问与答`
 1. [iOS15 有什么好用的 safari 插件？](https://www.v2ex.com/t/803200) `21条评论` `iPhone`
 1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `18条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [chrome 为何总以管理员权限运行](https://www.v2ex.com/t/803173) `8条评论` `问与答`
 1. [当前安卓系统熄屏状态下支持蓝牙耳机按键控制录音吗？](https://www.v2ex.com/t/803176) `7条评论` `Android`
 
-数据更新于 2021-09-21 13:27:54
+数据更新于 2021-09-21 13:37:57
 
 <!-- TODAY END -->
 
