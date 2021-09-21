@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `29条评论` `Windows`
-1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `22条评论` `iOS`
+1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `31条评论` `Windows`
+1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `23条评论` `iOS`
 1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `18条评论` `iPhone`
 1. [ios 精品 app 推荐，欢迎补充交流。](https://www.v2ex.com/t/803140) `16条评论` `iOS`
 1. [V 友们都是程序员吗？](https://www.v2ex.com/t/803193) `14条评论` `生活`
@@ -26,7 +26,7 @@
 1. [表示某商品受欢迎程度的计算方法](https://www.v2ex.com/t/803134) `7条评论` `问与答`
 1. [为啥打开 private relay 就用不了公司 wifi 了？](https://www.v2ex.com/t/803142) `6条评论` `问与答`
 
-数据更新于 2021-09-21 10:51:46
+数据更新于 2021-09-21 11:04:23
 
 <!-- TODAY END -->
 
