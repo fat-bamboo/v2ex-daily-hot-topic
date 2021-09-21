@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `64条评论` `Apple`
+1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232) `66条评论` `Apple`
 1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `44条评论` `Windows`
 1. [决赛圈了，这两个户型怎么选择？](https://www.v2ex.com/t/803215) `40条评论` `问与答`
 1. [ios15 有哪些有用的更新？](https://www.v2ex.com/t/803179) `39条评论` `iOS`
@@ -32,7 +32,7 @@
 1. [求助： ios15 提示“ iPhone 储存空间将满”](https://www.v2ex.com/t/803220) `10条评论` `iOS`
 1. [为什么手机利用 wifi 点对点传输速率只有 4MB/秒？](https://www.v2ex.com/t/803199) `10条评论` `宽带症候群`
 
-数据更新于 2021-09-21 20:34:59
+数据更新于 2021-09-21 20:47:46
 
 <!-- TODAY END -->
 
