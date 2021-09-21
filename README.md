@@ -10,16 +10,17 @@
 
 1. [体验了一段时间 Windows11 各种难受](https://www.v2ex.com/t/803146) `17条评论` `Windows`
 1. [ios 精品 app 推荐，欢迎补充交流。](https://www.v2ex.com/t/803140) `13条评论` `iOS`
+1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `12条评论` `iPhone`
 1. [不浪费无数个辗转反侧的不眠夜，我开发了一款匿名社交 App](https://www.v2ex.com/t/803144) `12条评论` `分享创造`
 1. [一证通查 正式开放了,查询名下有几张电话卡](https://www.v2ex.com/t/803143) `12条评论` `分享发现`
-1. [😮 iPhone 上 Gboard 是啥？](https://www.v2ex.com/t/803160) `11条评论` `iPhone`
 1. [帮助一个应届生咨询一下，国内 ios 岗是否前景黯淡？](https://www.v2ex.com/t/803154) `11条评论` `职场话题`
 1. [小米的频段阉割，实际上是软屏蔽？](https://www.v2ex.com/t/803137) `9条评论` `程序员`
+1. [首发日直营店有 iPhone13 现货吗](https://www.v2ex.com/t/803171) `8条评论` `Apple`
 1. [有什么手机浏览器可以强制打开 PC 端网站，而不是每次都被跳到移动端的网站](https://www.v2ex.com/t/803170) `7条评论` `问与答`
 1. [表示某商品受欢迎程度的计算方法](https://www.v2ex.com/t/803134) `7条评论` `问与答`
-1. [首发日直营店有 iPhone13 现货吗](https://www.v2ex.com/t/803171) `6条评论` `Apple`
+1. [安卓 Microsoft edge 浏览器更新后什么情况](https://www.v2ex.com/t/803167) `6条评论` `浏览器`
 
-数据更新于 2021-09-21 06:53:59
+数据更新于 2021-09-21 07:05:56
 
 <!-- TODAY END -->
 
