@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [汇总几个 iphone13 的首发测评，小屏党表示有点绷不住了，续航有点香](https://www.v2ex.com/t/803266) `38条评论` `Apple`
-1. [何时疫情才能平息](https://www.v2ex.com/t/803300) `37条评论` `随想`
+1. [何时疫情才能平息](https://www.v2ex.com/t/803300) `45条评论` `随想`
+1. [汇总几个 iphone13 的首发测评，小屏党表示有点绷不住了，续航有点香](https://www.v2ex.com/t/803266) `39条评论` `Apple`
 1. [楼上扰民，还真没办法了吗？](https://www.v2ex.com/t/803299) `26条评论` `问与答`
 1. [宠物医院到底能不能治病？](https://www.v2ex.com/t/803284) `21条评论` `宠物`
 1. [DS920+ 4 盘位 存储池怎么分配比较好](https://www.v2ex.com/t/803273) `20条评论` `NAS`
 1. [2021 年了， Apple 生态上最好的日记 App 是啥？](https://www.v2ex.com/t/803289) `15条评论` `Apple`
-1. [氧 OS 错误安装了某 xposed 组件导致重启后 UI 消失直接黑屏， adb 也无法连接，还有办法挽救应用数据吗](https://www.v2ex.com/t/803320) `12条评论` `问与答`
+1. [氧 OS 错误安装了某 xposed 组件导致重启后 UI 消失直接黑屏， adb 也无法连接，还有办法挽救应用数据吗](https://www.v2ex.com/t/803320) `13条评论` `问与答`
 1. [Chrome DevTools is now available in Chinese!](https://www.v2ex.com/t/803309) `12条评论` `Chrome`
 1. [天热， MacBook 外接显示器特别卡](https://www.v2ex.com/t/803306) `12条评论` `macOS`
 1. [鉴于 25 号 13pro 就到手了，广大 V 友有好用的手机壳推荐吗](https://www.v2ex.com/t/803288) `12条评论` `iPhone`
@@ -26,13 +26,13 @@
 1. [Python 序列化问题请教](https://www.v2ex.com/t/803276) `11条评论` `Python`
 1. [ios 上有久坐+喝水一起的提醒软件吗？](https://www.v2ex.com/t/803269) `11条评论` `问与答`
 1. [中秋 3 天环太湖](https://www.v2ex.com/t/803291) `10条评论` `骑行`
+1. [好像现在人们开始逐渐认可系统应用商店对购买数字商品支付抽成 30%的政策属于垄断行为了？](https://www.v2ex.com/t/803340) `9条评论` `问与答`
 1. [对 iPhone13「评价」感兴趣的，可以看看这个视频](https://www.v2ex.com/t/803292) `9条评论` `iPhone`
+1. [[换机] 安卓软件（含数据）迁移方案](https://www.v2ex.com/t/803310) `8条评论` `Android`
 1. [想入手 iphone11，迫于官网现在没有 256g 版本了，怎么办？](https://www.v2ex.com/t/803261) `8条评论` `问与答`
-1. [好像现在人们开始逐渐认可系统应用商店对购买数字商品支付抽成 30%的政策属于垄断行为了？](https://www.v2ex.com/t/803340) `7条评论` `问与答`
 1. [Windows Bitlocker 为什么不允许将恢复密钥保存在加密分区？](https://www.v2ex.com/t/803314) `7条评论` `信息安全`
-1. [[换机] 安卓软件（含数据）迁移方案](https://www.v2ex.com/t/803310) `7条评论` `Android`
 
-数据更新于 2021-09-22 04:06:48
+数据更新于 2021-09-22 04:32:21
 
 <!-- TODAY END -->
 
