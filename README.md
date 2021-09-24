@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [盖楼抽奖｜节前回馈 v 站家人们的支持](https://www.v2ex.com/t/803832) `156条评论` `推广`
-1. [西单直营店，心凉](https://www.v2ex.com/t/803799) `118条评论` `Apple`
+1. [西单直营店，心凉](https://www.v2ex.com/t/803799) `120条评论` `Apple`
 1. [延迟退休真的要来了，自由职业者要不要去缴纳养老保险？](https://www.v2ex.com/t/803800) `108条评论` `问与答`
 1. [隔壁装修，可我是在家远程办公，感觉这个矛盾无解](https://www.v2ex.com/t/803878) `98条评论` `问与答`
 1. [一个运维可以管理 5 万台服务器吗？怎么管？](https://www.v2ex.com/t/803912) `88条评论` `Linux`
@@ -19,7 +19,7 @@
 1. [win11 你们会升级么？](https://www.v2ex.com/t/803945) `49条评论` `Windows`
 1. [怎么样区分努力和内卷](https://www.v2ex.com/t/803900) `48条评论` `职场话题`
 1. [13Pro 远峰蓝](https://www.v2ex.com/t/803797) `48条评论` `iPhone`
-1. [画风突变呀，突然都说 13 对眼睛不好了 这是咋回事？还没到手呢 要不要退呀？](https://www.v2ex.com/t/804002) `27条评论` `iPhone`
+1. [画风突变呀，突然都说 13 对眼睛不好了 这是咋回事？还没到手呢 要不要退呀？](https://www.v2ex.com/t/804002) `29条评论` `iPhone`
 1. [腾讯云轻量云送服务器了，帐号有实例赶紧看看，免费领](https://www.v2ex.com/t/803981) `24条评论` `云计算`
 1. [收到 iPhone 13 Pro 的帅哥美女们，高刷新率感知明显吗](https://www.v2ex.com/t/803905) `24条评论` `Apple`
 1. [为什么国行 iPhone 久久不支持 facetime groups 和 facetime voice？](https://www.v2ex.com/t/803877) `23条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [谷歌 Chrome 94 新 API 引争议，苹果和 Mozilla 联合反对](https://www.v2ex.com/t/803882) `19条评论` `Chrome`
 1. [大家收到了 iPhone 13 系列的可以分享一下信号有没有改善？](https://www.v2ex.com/t/803859) `19条评论` `Apple`
 
-数据更新于 2021-09-24 14:32:15
+数据更新于 2021-09-24 14:41:44
 
 <!-- TODAY END -->
 
