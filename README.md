@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [西单直营店，心凉](https://www.v2ex.com/t/803799) `102条评论` `Apple`
-1. [延迟退休真的要来了，自由职业者要不要去缴纳养老保险？](https://www.v2ex.com/t/803800) `68条评论` `问与答`
-1. [盖楼抽奖｜节前回馈 v 站家人们的支持](https://www.v2ex.com/t/803832) `50条评论` `推广`
-1. [13Pro 远峰蓝](https://www.v2ex.com/t/803797) `44条评论` `iPhone`
-1. [经历了无数个辗转反侧的不眠夜后，我开发了一款匿名社交 App](https://www.v2ex.com/t/803825) `40条评论` `分享创造`
-1. [一个运维可以管理 5 万台服务器吗？怎么管？](https://www.v2ex.com/t/803912) `34条评论` `Linux`
-1. [怎么样区分努力和内卷](https://www.v2ex.com/t/803900) `25条评论` `职场话题`
+1. [延迟退休真的要来了，自由职业者要不要去缴纳养老保险？](https://www.v2ex.com/t/803800) `71条评论` `问与答`
+1. [盖楼抽奖｜节前回馈 v 站家人们的支持](https://www.v2ex.com/t/803832) `61条评论` `推广`
+1. [13Pro 远峰蓝](https://www.v2ex.com/t/803797) `45条评论` `iPhone`
+1. [一个运维可以管理 5 万台服务器吗？怎么管？](https://www.v2ex.com/t/803912) `44条评论` `Linux`
+1. [经历了无数个辗转反侧的不眠夜后，我开发了一款匿名社交 App](https://www.v2ex.com/t/803825) `42条评论` `分享创造`
+1. [怎么样区分努力和内卷](https://www.v2ex.com/t/803900) `27条评论` `职场话题`
 1. [MIUI 是现在小米最大的败笔！](https://www.v2ex.com/t/803858) `25条评论` `MIUI`
 1. [隔壁装修，可我是在家远程办公，感觉这个矛盾无解](https://www.v2ex.com/t/803878) `24条评论` `问与答`
 1. [为什么国行 iPhone 久久不支持 facetime groups 和 facetime voice？](https://www.v2ex.com/t/803877) `23条评论` `iPhone`
@@ -23,16 +23,16 @@
 1. [谷歌 Chrome 94 新 API 引争议，苹果和 Mozilla 联合反对](https://www.v2ex.com/t/803882) `19条评论` `Chrome`
 1. [大家收到了 iPhone 13 系列的可以分享一下信号有没有改善？](https://www.v2ex.com/t/803859) `19条评论` `Apple`
 1. [这下逮着了 读取 chrome 是吧？](https://www.v2ex.com/t/803847) `18条评论` `Firefox`
+1. [适合跑 Linux 的小主机推荐](https://www.v2ex.com/t/803899) `16条评论` `程序员`
 1. [iPad mini 6 的 USB 口接电脑只有 2.0 的速度](https://www.v2ex.com/t/803844) `16条评论` `iPad`
 1. [每天对着电脑皮肤干的起壳，有没有什么保湿推荐](https://www.v2ex.com/t/803818) `16条评论` `问与答`
 1. [一个简单的数学问题](https://www.v2ex.com/t/803860) `15条评论` `问与答`
 1. [因为要换回苹果手机了，需要一个代替门禁卡的安卓手表推荐](https://www.v2ex.com/t/803862) `14条评论` `Apple`
 1. [请问个人博客如何才能被百度收录呢？](https://www.v2ex.com/t/803838) `14条评论` `问与答`
-1. [大家换新 iPhone 以后如何把老手机微信记录迁移过去？](https://www.v2ex.com/t/803906) `12条评论` `iPhone`
-1. [聋聋是做了多大的牺牲，微信电脑端终于支持自动登录了](https://www.v2ex.com/t/803894) `12条评论` `微信`
-1. [海南免税 iPhone 有了，但价格 emmm...](https://www.v2ex.com/t/803892) `12条评论` `iPhone`
+1. [watch 电池健康度](https://www.v2ex.com/t/803910) `13条评论` ` WATCH`
+1. [收到 iPhone 13 Pro 的帅哥美女们，高刷新率感知明显吗](https://www.v2ex.com/t/803905) `13条评论` `Apple`
 
-数据更新于 2021-09-24 07:06:15
+数据更新于 2021-09-24 07:22:00
 
 <!-- TODAY END -->
 
