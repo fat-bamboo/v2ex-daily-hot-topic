@@ -12,7 +12,7 @@
 1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `85条评论` `Visual Studio Code`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `41条评论` `Java`
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `37条评论` `iPhone`
-1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `30条评论` `iPhone`
+1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `31条评论` `iPhone`
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088) `27条评论` `问与答`
 1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `21条评论` `Apple`
 1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175) `20条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [「控制反转」和「中央集权」感觉很像](https://www.v2ex.com/t/804120) `9条评论` `随想`
 1. [做一个关于程序员 35 就失业的论坛，有啥点子 ？](https://www.v2ex.com/t/804116) `9条评论` `奇思妙想`
 
-数据更新于 2021-09-25 13:34:22
+数据更新于 2021-09-25 13:41:37
 
 <!-- TODAY END -->
 
