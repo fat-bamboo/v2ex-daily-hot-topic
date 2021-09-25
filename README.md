@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `51条评论` `Visual Studio Code`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `54条评论` `Visual Studio Code`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `23条评论` `Java`
 1. [国家限电，很多工厂停电会带来什么影响](https://www.v2ex.com/t/804073) `20条评论` `问与答`
-1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `13条评论` `iPhone`
+1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `14条评论` `iPhone`
 1. [ios15 负一屏返回的 bug 还没修好吗？](https://www.v2ex.com/t/804092) `12条评论` `iPhone`
+1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `10条评论` `Apple`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `10条评论` `问与答`
-1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `9条评论` `Apple`
 1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `9条评论` `iPhone`
 1. [做一个关于程序员 35 就失业的论坛，有啥点子 ？](https://www.v2ex.com/t/804116) `9条评论` `奇思妙想`
 1. [坐标杭州，寻求一份上海的工作 大数据方向](https://www.v2ex.com/t/804084) `9条评论` `求职`
@@ -30,7 +30,7 @@
 1. [自从厦门同安爆发疫情以来，八闽健康码一直被误判呈现黄色，请问如何转绿码？](https://www.v2ex.com/t/804126) `6条评论` `问与答`
 1. [不知道该怎么说了，自己看正文](https://www.v2ex.com/t/804122) `6条评论` `问与答`
 
-数据更新于 2021-09-25 07:31:58
+数据更新于 2021-09-25 07:41:55
 
 <!-- TODAY END -->
 
