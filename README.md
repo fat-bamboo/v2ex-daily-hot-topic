@@ -8,16 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `78条评论` `问与答`
+1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `79条评论` `问与答`
 1. [国家限电，很多工厂停电会带来什么影响](https://www.v2ex.com/t/804073) `20条评论` `问与答`
-1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `13条评论` `Java`
+1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `14条评论` `Java`
 1. [ios15 负一屏返回的 bug 还没修好吗？](https://www.v2ex.com/t/804092) `10条评论` `iPhone`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `10条评论` `问与答`
 1. [坐标杭州，寻求一份上海的工作 大数据方向](https://www.v2ex.com/t/804084) `8条评论` `求职`
 1. [请教各位 NUC 黑果 Big Sur 用户，推荐从 Catalina 升级 Big Sur 吗？](https://www.v2ex.com/t/804083) `8条评论` `macOS`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `7条评论` `程序员`
 1. [有没有远程的工作，做区块链挖矿相关，其他也行](https://www.v2ex.com/t/804090) `7条评论` `酷工作`
+1. [不送充电头，改推销了吗？](https://www.v2ex.com/t/804095) `6条评论` `iPhone`
 
-数据更新于 2021-09-25 03:51:43
+数据更新于 2021-09-25 04:07:12
 
 <!-- TODAY END -->
 
