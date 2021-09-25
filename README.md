@@ -10,11 +10,11 @@
 
 1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `99条评论` `Visual Studio Code`
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `49条评论` `Java`
+1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `50条评论` `Java`
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `48条评论` `iPhone`
 1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `35条评论` `iPhone`
+1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175) `31条评论` `程序员`
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088) `29条评论` `问与答`
-1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175) `28条评论` `程序员`
 1. [13 买哪款](https://www.v2ex.com/t/804123) `23条评论` `iPhone`
 1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `23条评论` `Apple`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `23条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [Safari 15 里的密码体验好很多，似乎第三方的可以慢慢抛弃](https://www.v2ex.com/t/804131) `11条评论` `macOS`
 1. [现在 QQ 怎么和微信一样恶心了](https://www.v2ex.com/t/804214) `10条评论` `全球工单系统`
 
-数据更新于 2021-09-25 22:51:34
+数据更新于 2021-09-25 23:05:35
 
 <!-- TODAY END -->
 
