@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `26条评论` `程序员`
-1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `20条评论` `Java`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `27条评论` `程序员`
+1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `21条评论` `Java`
 1. [国家限电，很多工厂停电会带来什么影响](https://www.v2ex.com/t/804073) `20条评论` `问与答`
 1. [ios15 负一屏返回的 bug 还没修好吗？](https://www.v2ex.com/t/804092) `11条评论` `iPhone`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `10条评论` `问与答`
@@ -23,7 +23,7 @@
 1. [不知道该怎么说了，自己看正文](https://www.v2ex.com/t/804122) `6条评论` `问与答`
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088) `6条评论` `问与答`
 
-数据更新于 2021-09-25 05:20:09
+数据更新于 2021-09-25 05:28:14
 
 <!-- TODAY END -->
 
