@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `97条评论` `Visual Studio Code`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `98条评论` `Visual Studio Code`
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `49条评论` `Java`
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `47条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [现在 QQ 怎么和微信一样恶心了](https://www.v2ex.com/t/804214) `10条评论` `全球工单系统`
 1. [纯吐槽，没车换手机原声输入法的词库问题](https://www.v2ex.com/t/804197) `9条评论` `iOS`
 
-数据更新于 2021-09-25 17:43:05
+数据更新于 2021-09-25 17:51:43
 
 <!-- TODAY END -->
 
