@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `94条评论` `Visual Studio Code`
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `93条评论` `Visual Studio Code`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `47条评论` `Java`
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `44条评论` `iPhone`
 1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `35条评论` `iPhone`
@@ -19,7 +19,7 @@
 1. [抖音重新发明了电视](https://www.v2ex.com/t/804156) `20条评论` `产品经理茶话会`
 1. [国家限电，很多工厂停电会带来什么影响](https://www.v2ex.com/t/804073) `20条评论` `问与答`
 1. [写了一个基于 DirectX 的 Ethereum 挖矿程序， 可以部署到 XBox Series X/S 上, 求 star~](https://www.v2ex.com/t/804173) `17条评论` `分享创造`
-1. [问一个群晖数据恢复问题~](https://www.v2ex.com/t/804212) `15条评论` `NAS`
+1. [问一个群晖数据恢复问题~](https://www.v2ex.com/t/804212) `16条评论` `NAS`
 1. [每个假期/周末最后一天的晚上就会难受](https://www.v2ex.com/t/804174) `15条评论` `生活`
 1. [换新后 iCloud 同步出其他人的照片](https://www.v2ex.com/t/804179) `14条评论` `iCloud`
 1. [顺丰快递延误导致螃蟹死了，竟让揽收快递员赔付](https://www.v2ex.com/t/804141) `12条评论` `生活`
@@ -32,7 +32,7 @@
 1. [误删了一个 win10 注册表项，有没有老哥能导出一份给我](https://www.v2ex.com/t/804151) `9条评论` `问与答`
 1. [近期总是想起一些人生悔事，说出来给大家开心一下](https://www.v2ex.com/t/804132) `9条评论` `随想`
 
-数据更新于 2021-09-25 15:52:27
+数据更新于 2021-09-25 16:07:08
 
 <!-- TODAY END -->
 
