@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `85条评论` `Visual Studio Code`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `86条评论` `Visual Studio Code`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `41条评论` `Java`
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `37条评论` `iPhone`
-1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `31条评论` `iPhone`
+1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `32条评论` `iPhone`
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088) `27条评论` `问与答`
 1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `21条评论` `Apple`
 1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175) `20条评论` `程序员`
@@ -24,15 +24,15 @@
 1. [写了一个基于 DirectX 的 Ethereum 挖矿程序， 可以部署到 XBox Series X/S 上, 求 star~](https://www.v2ex.com/t/804173) `11条评论` `分享创造`
 1. [菠菜公司的中国程序员为什么得跑到东南亚上班？](https://www.v2ex.com/t/804182) `11条评论` `职场话题`
 1. [Safari 15 里的密码体验好很多，似乎第三方的可以慢慢抛弃](https://www.v2ex.com/t/804131) `11条评论` `macOS`
+1. [每个假期/周末最后一天的晚上就会难受](https://www.v2ex.com/t/804174) `10条评论` `生活`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `10条评论` `问与答`
 1. [我寻思 举案齐眉 也不是啥好词啊](https://www.v2ex.com/t/804189) `9条评论` `问与答`
-1. [每个假期/周末最后一天的晚上就会难受](https://www.v2ex.com/t/804174) `9条评论` `生活`
 1. [误删了一个 win10 注册表项，有没有老哥能导出一份给我](https://www.v2ex.com/t/804151) `9条评论` `问与答`
 1. [近期总是想起一些人生悔事，说出来给大家开心一下](https://www.v2ex.com/t/804132) `9条评论` `随想`
 1. [「控制反转」和「中央集权」感觉很像](https://www.v2ex.com/t/804120) `9条评论` `随想`
 1. [做一个关于程序员 35 就失业的论坛，有啥点子 ？](https://www.v2ex.com/t/804116) `9条评论` `奇思妙想`
 
-数据更新于 2021-09-25 13:41:37
+数据更新于 2021-09-25 13:51:42
 
 <!-- TODAY END -->
 
