@@ -9,28 +9,28 @@
 <!-- TODAY BEGIN -->
 
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `44条评论` `Visual Studio Code`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `47条评论` `Visual Studio Code`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `23条评论` `Java`
 1. [国家限电，很多工厂停电会带来什么影响](https://www.v2ex.com/t/804073) `20条评论` `问与答`
+1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `12条评论` `iPhone`
 1. [ios15 负一屏返回的 bug 还没修好吗？](https://www.v2ex.com/t/804092) `12条评论` `iPhone`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `10条评论` `问与答`
-1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `9条评论` `iPhone`
+1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `9条评论` `Apple`
 1. [做一个关于程序员 35 就失业的论坛，有啥点子 ？](https://www.v2ex.com/t/804116) `9条评论` `奇思妙想`
 1. [坐标杭州，寻求一份上海的工作 大数据方向](https://www.v2ex.com/t/804084) `9条评论` `求职`
 1. [请教各位 NUC 黑果 Big Sur 用户，推荐从 Catalina 升级 Big Sur 吗？](https://www.v2ex.com/t/804083) `9条评论` `macOS`
 1. [重新确定一下电脑的需求，继续求推荐](https://www.v2ex.com/t/804111) `8条评论` `硬件`
 1. [不送充电头，改推销了吗？](https://www.v2ex.com/t/804095) `8条评论` `iPhone`
-1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `7条评论` `Apple`
+1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `7条评论` `iPhone`
 1. [「控制反转」和「中央集权」感觉很像](https://www.v2ex.com/t/804120) `7条评论` `随想`
 1. [有没有远程的工作，做区块链挖矿相关，其他也行](https://www.v2ex.com/t/804090) `7条评论` `区块链`
-1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `6条评论` `iPhone`
 1. [近期总是想起一些人生悔事，说出来给大家开心一下](https://www.v2ex.com/t/804132) `6条评论` `随想`
 1. [关于创业公司](https://www.v2ex.com/t/804098) `6条评论` `职场话题`
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088) `6条评论` `问与答`
 1. [自从厦门同安爆发疫情以来，八闽健康码一直被误判呈现黄色，请问如何转绿码？](https://www.v2ex.com/t/804126) `6条评论` `问与答`
 1. [不知道该怎么说了，自己看正文](https://www.v2ex.com/t/804122) `6条评论` `问与答`
 
-数据更新于 2021-09-25 06:52:52
+数据更新于 2021-09-25 07:05:47
 
 <!-- TODAY END -->
 
