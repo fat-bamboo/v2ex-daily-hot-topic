@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `96条评论` `Visual Studio Code`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `97条评论` `Visual Studio Code`
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `48条评论` `Java`
-1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `44条评论` `iPhone`
+1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `46条评论` `iPhone`
 1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135) `35条评论` `iPhone`
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088) `29条评论` `问与答`
-1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175) `26条评论` `程序员`
+1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175) `27条评论` `程序员`
 1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `23条评论` `Apple`
 1. [抖音重新发明了电视](https://www.v2ex.com/t/804156) `20条评论` `产品经理茶话会`
 1. [国家限电，很多工厂停电会带来什么影响](https://www.v2ex.com/t/804073) `20条评论` `问与答`
@@ -28,11 +28,11 @@
 1. [ios15 负一屏返回的 bug 还没修好吗？](https://www.v2ex.com/t/804092) `12条评论` `iPhone`
 1. [菠菜公司的中国程序员为什么得跑到东南亚上班？](https://www.v2ex.com/t/804182) `11条评论` `职场话题`
 1. [Safari 15 里的密码体验好很多，似乎第三方的可以慢慢抛弃](https://www.v2ex.com/t/804131) `11条评论` `macOS`
+1. [现在 QQ 怎么和微信一样恶心了](https://www.v2ex.com/t/804214) `10条评论` `全球工单系统`
 1. [惊雷：后端们，如何看待 layui 官网下线？](https://www.v2ex.com/t/804075) `10条评论` `问与答`
-1. [误删了一个 win10 注册表项，有没有老哥能导出一份给我](https://www.v2ex.com/t/804151) `9条评论` `问与答`
-1. [近期总是想起一些人生悔事，说出来给大家开心一下](https://www.v2ex.com/t/804132) `9条评论` `随想`
+1. [纯吐槽，没车换手机原声输入法的词库问题](https://www.v2ex.com/t/804197) `9条评论` `iOS`
 
-数据更新于 2021-09-25 17:00:27
+数据更新于 2021-09-25 17:24:22
 
 <!-- TODAY END -->
 
