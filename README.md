@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [各位对迪迦奥特曼下架没感觉吗](https://www.v2ex.com/t/804074) `94条评论` `问与答`
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `66条评论` `Visual Studio Code`
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121) `67条评论` `Visual Studio Code`
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097) `37条评论` `Java`
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129) `30条评论` `iPhone`
 1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148) `20条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [p 几到底是怎么定的](https://www.v2ex.com/t/804125) `8条评论` `问与答`
 1. [重新确定一下电脑的需求，继续求推荐](https://www.v2ex.com/t/804111) `8条评论` `硬件`
 
-数据更新于 2021-09-25 11:19:03
+数据更新于 2021-09-25 11:27:11
 
 <!-- TODAY END -->
 
