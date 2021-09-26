@@ -21,8 +21,8 @@
 1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244) `34条评论` `京东`
 1. [有加班处理个保法整改的老哥吗？你们方案是怎样的？](https://www.v2ex.com/t/804438) `30条评论` `程序员`
 1. [讲真的， iPhone13Pro Max 的信号爆棚](https://www.v2ex.com/t/804456) `25条评论` `Apple`
+1. [迫于 iphone13pro，关于 A15 我有个大胆的想法](https://www.v2ex.com/t/804478) `23条评论` `iPhone`
 1. [目前 mac 有强大的媒体播放器么？](https://www.v2ex.com/t/804443) `23条评论` `MacBook Pro`
-1. [迫于 iphone13pro，关于 A15 我有个大胆的想法](https://www.v2ex.com/t/804478) `22条评论` `iPhone`
 1. [你要说微信的优点嘛，也不是没有](https://www.v2ex.com/t/804393) `21条评论` `微信`
 1. [想问问有没有人上班到 3 点的时候就很累了。。](https://www.v2ex.com/t/804394) `20条评论` `职场话题`
 1. [官网买的 iPhone 13 pro，帮忙鉴定下是不是翻车了](https://www.v2ex.com/t/804376) `19条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [你们的 iPad mini6 翻车了吗？](https://www.v2ex.com/t/804349) `15条评论` `iPad`
 1. [iPhone13mini 屏幕不均匀泛黄](https://www.v2ex.com/t/804332) `15条评论` `iPhone`
 
-数据更新于 2021-09-26 22:51:45
+数据更新于 2021-09-26 23:05:22
 
 <!-- TODAY END -->
 
