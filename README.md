@@ -32,7 +32,7 @@
 1. [你们的 iPad mini6 翻车了吗？](https://www.v2ex.com/t/804349) `15条评论` `iPad`
 1. [iPhone13mini 屏幕不均匀泛黄](https://www.v2ex.com/t/804332) `15条评论` `iPhone`
 
-数据更新于 2021-09-26 21:51:38
+数据更新于 2021-09-26 22:04:46
 
 <!-- TODAY END -->
 
