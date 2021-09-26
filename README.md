@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242) `40条评论` `投资`
-1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `35条评论` `iPhone`
-1. [3 年前端的求助](https://www.v2ex.com/t/804264) `26条评论` `程序员`
+1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `37条评论` `iPhone`
+1. [3 年前端的求助](https://www.v2ex.com/t/804264) `27条评论` `程序员`
 1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244) `25条评论` `京东`
 1. [好像有抑郁症症了，心理咨询特别贵。可以自愈吗？](https://www.v2ex.com/t/804266) `17条评论` `问与答`
 1. [iPhone13mini 屏幕不均匀泛黄](https://www.v2ex.com/t/804332) `15条评论` `iPhone`
@@ -22,17 +22,17 @@
 1. [抢到的茅台想本地出有没有什么途径？](https://www.v2ex.com/t/804306) `12条评论` `美酒与美食`
 1. [路由器使用隐藏网络可能会暴露个人身份信息？这是 iOS 10 就有的提醒](https://www.v2ex.com/t/804279) `12条评论` `Apple`
 1. [13 pro 线下取货，然后店里购入 ac+，但是没生效](https://www.v2ex.com/t/804245) `12条评论` `Apple`
+1. [大家抢到国庆回家的票了吗](https://www.v2ex.com/t/804368) `11条评论` `问与答`
+1. [为什么觉得 iOS15 的系统动画效果“肉肉的”？](https://www.v2ex.com/t/804340) `11条评论` `Apple`
 1. [安卓手机（小米）与 iPad 同步照片有什么好方案吗？](https://www.v2ex.com/t/804286) `11条评论` `问与答`
 1. [兄弟们,还能回 45000 吗](https://www.v2ex.com/t/804255) `11条评论` `投资`
-1. [为什么觉得 iOS15 的系统动画效果“肉肉的”？](https://www.v2ex.com/t/804340) `10条评论` `Apple`
 1. [深圳今明两天有收到 jd 手机的小伙伴吗，有偿帮个忙](https://www.v2ex.com/t/804297) `10条评论` `iPhone`
 1. [vscode 怎么设置代理，让测试的 axios 也能够自动使用该代理？](https://www.v2ex.com/t/804272) `10条评论` `Visual Studio Code`
 1. [有没有山西的朋友？](https://www.v2ex.com/t/804269) `10条评论` `生活`
 1. [求推荐一款便签软件 要求支持 iOS/Windows](https://www.v2ex.com/t/804254) `10条评论` `问与答`
-1. [红米 K40 刷 LineageOS 18.1 之后的余下几个遗憾/疑问](https://www.v2ex.com/t/804345) `9条评论` `Android`
-1. [在 vue2 或 js 中，有一个 json 对象，赋值后数据却变了](https://www.v2ex.com/t/804333) `9条评论` `Vue.js`
+1. [由帮女朋友找头绳皮筋用想到索引](https://www.v2ex.com/t/804350) `9条评论` `分享发现`
 
-数据更新于 2021-09-26 06:52:49
+数据更新于 2021-09-26 07:05:42
 
 <!-- TODAY END -->
 
