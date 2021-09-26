@@ -8,9 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-空空如也
+1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242) `14条评论` `投资`
+1. [13 pro 线下取货，然后店里购入 ac+，但是没生效](https://www.v2ex.com/t/804245) `9条评论` `Apple`
+1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `7条评论` `iPhone`
 
-数据更新于 2021-09-26 00:21:52
+数据更新于 2021-09-26 01:35:15
 
 <!-- TODAY END -->
 
