@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242) `39条评论` `投资`
-1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `26条评论` `iPhone`
+1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `28条评论` `iPhone`
 1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244) `24条评论` `京东`
 1. [好像有抑郁症症了，心理咨询特别贵。可以自愈吗？](https://www.v2ex.com/t/804266) `17条评论` `问与答`
 1. [xsmax 256G 官方抵扣 2300 划算吗](https://www.v2ex.com/t/804285) `15条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [win11 下怎么播放杜比视界的电影？](https://www.v2ex.com/t/804308) `8条评论` `电影`
 1. [上班，一个组长语气很冲怎么办？](https://www.v2ex.com/t/804265) `8条评论` `职场话题`
 
-数据更新于 2021-09-26 05:34:31
+数据更新于 2021-09-26 05:41:35
 
 <!-- TODAY END -->
 
