@@ -8,11 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242) `14条评论` `投资`
-1. [13 pro 线下取货，然后店里购入 ac+，但是没生效](https://www.v2ex.com/t/804245) `9条评论` `Apple`
-1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `7条评论` `iPhone`
+1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242) `19条评论` `投资`
+1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252) `17条评论` `iPhone`
+1. [13 pro 线下取货，然后店里购入 ac+，但是没生效](https://www.v2ex.com/t/804245) `12条评论` `Apple`
+1. [求推荐一款便签软件 要求支持 iOS/Windows](https://www.v2ex.com/t/804254) `9条评论` `问与答`
+1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244) `8条评论` `京东`
+1. [老婆入手了一台 13 前线下来的 X 给我当备用机](https://www.v2ex.com/t/804243) `8条评论` `问与答`
+1. [3 年前端的求助](https://www.v2ex.com/t/804264) `7条评论` `程序员`
+1. [石原里美的 NTT OCN 宽带广告](https://www.v2ex.com/t/804248) `7条评论` `宽带症候群`
+1. [好像有抑郁症症了，心理咨询特别贵。可以自愈吗？](https://www.v2ex.com/t/804266) `6条评论` `问与答`
+1. [迫于原来用的停更，求 V 友分享小火箭的规则文件](https://www.v2ex.com/t/804251) `6条评论` `宽带症候群`
 
-数据更新于 2021-09-26 01:35:15
+数据更新于 2021-09-26 02:13:23
 
 <!-- TODAY END -->
 
