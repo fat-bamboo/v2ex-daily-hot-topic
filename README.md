@@ -24,15 +24,15 @@
 1. [目前 mac 有强大的媒体播放器么？](https://www.v2ex.com/t/804443) `23条评论` `MacBook Pro`
 1. [你要说微信的优点嘛，也不是没有](https://www.v2ex.com/t/804393) `21条评论` `微信`
 1. [想问问有没有人上班到 3 点的时候就很累了。。](https://www.v2ex.com/t/804394) `20条评论` `职场话题`
+1. [迫于 iphone13pro，关于 A15 我有个大胆的想法](https://www.v2ex.com/t/804478) `19条评论` `iPhone`
 1. [官网买的 iPhone 13 pro，帮忙鉴定下是不是翻车了](https://www.v2ex.com/t/804376) `19条评论` `Apple`
-1. [迫于 iphone13pro，关于 A15 我有个大胆的想法](https://www.v2ex.com/t/804478) `18条评论` `iPhone`
 1. [未拆的 iPhone 13 256g pro max 可以加 1000 出掉](https://www.v2ex.com/t/804382) `18条评论` `iPhone`
 1. [好像有抑郁症症了，心理咨询特别贵。可以自愈吗？](https://www.v2ex.com/t/804266) `17条评论` `问与答`
 1. [看了 Django4.0 发行说明 感觉有点失望](https://www.v2ex.com/t/804428) `15条评论` `Python`
 1. [你们的 iPad mini6 翻车了吗？](https://www.v2ex.com/t/804349) `15条评论` `iPad`
 1. [iPhone13mini 屏幕不均匀泛黄](https://www.v2ex.com/t/804332) `15条评论` `iPhone`
 
-数据更新于 2021-09-26 20:51:58
+数据更新于 2021-09-26 21:04:11
 
 <!-- TODAY END -->
 
