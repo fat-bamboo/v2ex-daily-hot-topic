@@ -15,8 +15,8 @@
 1. [豆瓣婚恋相关小组的杀猪盘太泛滥了，你们至少应该提供一个路人投票判断机制](https://www.v2ex.com/t/804379) `47条评论` `全球工单系统`
 1. [大家抢到国庆回家的票了吗](https://www.v2ex.com/t/804368) `45条评论` `问与答`
 1. [Java 加一个字段很难吗?](https://www.v2ex.com/t/804422) `45条评论` `Java`
+1. [关于 iPhone 13 全系的 PWM 频闪问题](https://www.v2ex.com/t/804386) `42条评论` `Apple`
 1. [有没有山西的朋友？](https://www.v2ex.com/t/804269) `42条评论` `生活`
-1. [关于 iPhone 13 全系的 PWM 频闪问题](https://www.v2ex.com/t/804386) `41条评论` `Apple`
 1. [3 年前端的求助](https://www.v2ex.com/t/804264) `36条评论` `程序员`
 1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244) `34条评论` `京东`
 1. [有加班处理个保法整改的老哥吗？你们方案是怎样的？](https://www.v2ex.com/t/804438) `30条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [你们的 iPad mini6 翻车了吗？](https://www.v2ex.com/t/804349) `15条评论` `iPad`
 1. [iPhone13mini 屏幕不均匀泛黄](https://www.v2ex.com/t/804332) `15条评论` `iPhone`
 
-数据更新于 2021-09-26 19:41:59
+数据更新于 2021-09-26 19:51:52
 
 <!-- TODAY END -->
 
