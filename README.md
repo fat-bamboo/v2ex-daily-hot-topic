@@ -15,8 +15,8 @@
 1. [豆瓣婚恋相关小组的杀猪盘太泛滥了，你们至少应该提供一个路人投票判断机制](https://www.v2ex.com/t/804379) `43条评论` `全球工单系统`
 1. [大家抢到国庆回家的票了吗](https://www.v2ex.com/t/804368) `41条评论` `问与答`
 1. [Java 加一个字段很难吗?](https://www.v2ex.com/t/804422) `40条评论` `Java`
+1. [关于 iPhone 13 全系的 PWM 频闪问题](https://www.v2ex.com/t/804386) `36条评论` `Apple`
 1. [3 年前端的求助](https://www.v2ex.com/t/804264) `36条评论` `程序员`
-1. [关于 iPhone 13 全系的 PWM 频闪问题](https://www.v2ex.com/t/804386) `34条评论` `Apple`
 1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244) `34条评论` `京东`
 1. [有加班处理个保法整改的老哥吗？你们方案是怎样的？](https://www.v2ex.com/t/804438) `26条评论` `程序员`
 1. [你要说微信的优点嘛，也不是没有](https://www.v2ex.com/t/804393) `21条评论` `微信`
@@ -24,15 +24,15 @@
 1. [官网买的 iPhone 13 pro，帮忙鉴定下是不是翻车了](https://www.v2ex.com/t/804376) `19条评论` `Apple`
 1. [未拆的 iPhone 13 256g pro max 可以加 1000 出掉](https://www.v2ex.com/t/804382) `18条评论` `iPhone`
 1. [好像有抑郁症症了，心理咨询特别贵。可以自愈吗？](https://www.v2ex.com/t/804266) `17条评论` `问与答`
+1. [讲真的， iPhone13Pro Max 的信号爆棚](https://www.v2ex.com/t/804456) `15条评论` `Apple`
 1. [看了 Django4.0 发行说明 感觉有点失望](https://www.v2ex.com/t/804428) `15条评论` `Python`
 1. [你们的 iPad mini6 翻车了吗？](https://www.v2ex.com/t/804349) `15条评论` `iPad`
 1. [iPhone13mini 屏幕不均匀泛黄](https://www.v2ex.com/t/804332) `15条评论` `iPhone`
 1. [xsmax 256G 官方抵扣 2300 划算吗](https://www.v2ex.com/t/804285) `15条评论` `iPhone`
 1. [为什么觉得 iOS15 的系统动画效果“肉肉的”？](https://www.v2ex.com/t/804340) `14条评论` `Apple`
 1. [弱鸡后端求问什么是前端工程化？](https://www.v2ex.com/t/804270) `14条评论` `程序员`
-1. [目前 mac 有强大的媒体播放器么？](https://www.v2ex.com/t/804443) `13条评论` `MacBook Pro`
 
-数据更新于 2021-09-26 14:28:28
+数据更新于 2021-09-26 14:35:17
 
 <!-- TODAY END -->
 
