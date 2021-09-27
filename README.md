@@ -8,22 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone13 系列大家用什么钢化膜呢？](https://www.v2ex.com/t/804503) `44条评论` `程序员`
+1. [iPhone13 系列大家用什么钢化膜呢？](https://www.v2ex.com/t/804503) `46条评论` `程序员`
+1. [没想到前几天吐槽公司大楼停供冷，这几天东北拉闸民用电上热搜了](https://www.v2ex.com/t/804536) `36条评论` `分享发现`
 1. [应该逃了吗？币圈感觉熬不过这个冬天了，中国注册用户估计慢慢会被清退..](https://www.v2ex.com/t/804507) `36条评论` `问与答`
-1. [昨天新到的 13 pro max 发现问题，屏幕像素点很明显，我的 xr 就不这样，看的很难受](https://www.v2ex.com/t/804508) `30条评论` `iPhone`
-1. [分享一下自用的小工具 Bark ,给你的 iPhone 发自定义推送。](https://www.v2ex.com/t/804506) `27条评论` `分享创造`
-1. [没想到前几天吐槽公司大楼停供冷，这几天东北拉闸民用电上热搜了](https://www.v2ex.com/t/804536) `20条评论` `分享发现`
-1. [Siri 的核心功能 -定闹钟- 似乎变蠢了](https://www.v2ex.com/t/804505) `15条评论` `Apple`
-1. [iPhone 贴防偷窥膜影响体验吗？](https://www.v2ex.com/t/804525) `14条评论` `iPhone`
-1. [网上说 iPhone14 要变成挖空屏了？](https://www.v2ex.com/t/804514) `9条评论` `Apple`
+1. [昨天新到的 13 pro max 发现问题，屏幕像素点很明显，我的 xr 就不这样，看的很难受](https://www.v2ex.com/t/804508) `32条评论` `iPhone`
+1. [分享一下自用的小工具 Bark ,给你的 iPhone 发自定义推送。](https://www.v2ex.com/t/804506) `30条评论` `分享创造`
+1. [iPhone 贴防偷窥膜影响体验吗？](https://www.v2ex.com/t/804525) `18条评论` `iPhone`
+1. [Siri 的核心功能 -定闹钟- 似乎变蠢了](https://www.v2ex.com/t/804505) `16条评论` `Apple`
+1. [网上说 iPhone14 要变成挖空屏了？](https://www.v2ex.com/t/804514) `12条评论` `Apple`
+1. [如何招聘 UI 设计师](https://www.v2ex.com/t/804522) `11条评论` `设计师`
+1. [请问一下各位 关于 iPhone13 充电头选择](https://www.v2ex.com/t/804533) `8条评论` `iPhone`
+1. [首发自提的 iPhone13PM 低亮度右侧红屏](https://www.v2ex.com/t/804515) `8条评论` `iPhone`
 1. [网站建设，软件开发，小程序，系统搭建](https://www.v2ex.com/t/804510) `8条评论` `酷工作`
-1. [请问一下各位 关于 iPhone13 充电头选择](https://www.v2ex.com/t/804533) `7条评论` `iPhone`
+1. [Apple Watch 如何避免闹钟被误触关闭](https://www.v2ex.com/t/804534) `7条评论` `问与答`
 1. [两千五预算选购 NAS 求教](https://www.v2ex.com/t/804524) `7条评论` `问与答`
-1. [首发自提的 iPhone13PM 低亮度右侧红屏](https://www.v2ex.com/t/804515) `7条评论` `iPhone`
 1. [telegram bot 发送消息到 Notion](https://www.v2ex.com/t/804511) `7条评论` `分享创造`
-1. [Apple Watch 如何避免闹钟被误触关闭](https://www.v2ex.com/t/804534) `6条评论` `问与答`
+1. [PDD 买 13 香的彦祖们收到了吗？](https://www.v2ex.com/t/804516) `6条评论` `问与答`
 
-数据更新于 2021-09-27 02:38:57
+数据更新于 2021-09-27 02:49:48
 
 <!-- TODAY END -->
 
