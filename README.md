@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [安徽好像没有一个地方有 Apple Store](https://www.v2ex.com/t/804793) `47条评论` `Apple`
+1. [安徽好像没有一个地方有 Apple Store](https://www.v2ex.com/t/804793) `49条评论` `Apple`
 1. [近期通勤有关于路上自行车越来越少的感悟](https://www.v2ex.com/t/804816) `31条评论` `随想`
 1. [阿里云的大陆服务器网络咋那么差？？后悔买了](https://www.v2ex.com/t/804822) `27条评论` `云计算`
 1. [有国庆回郑州的顺风车嘛，车票太难买了，但是又不得不回去。。。](https://www.v2ex.com/t/804775) `27条评论` `深圳`
@@ -30,9 +30,9 @@
 1. [使用 JSI 的 React Native 是不是性能上已经不比 Flutter 慢了](https://www.v2ex.com/t/804786) `9条评论` `Flutter`
 1. [无聊的问题，为什么接口/数据库一般采用下划线分割，前后端代码采用小驼峰](https://www.v2ex.com/t/804827) `8条评论` `程序员`
 1. [Github 左侧栏 repo 列表的 icon 改成用户头像了](https://www.v2ex.com/t/804784) `8条评论` `GitHub`
-1. [iPad mini 6 果冻屏有这么严重吗？](https://www.v2ex.com/t/804826) `7条评论` `iPad`
+1. [养了它都 10 年了，还是照样咬主人。唉...](https://www.v2ex.com/t/804867) `7条评论` `随想`
 
-数据更新于 2021-09-28 04:55:28
+数据更新于 2021-09-28 05:05:56
 
 <!-- TODAY END -->
 
