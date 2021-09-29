@@ -13,17 +13,17 @@
 1. [For 国庆和其他假期来青岛玩的 V 友们，本人作为青岛土著总结的吃喝玩乐攻略一组——美食篇、景点篇、小贴士](https://www.v2ex.com/t/805136) `60条评论` `旅行`
 1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132) `50条评论` `MacBook Pro`
 1. [迫于 iPad mini6 是 A15. 特来问问，买 m1 11 寸 ipadPro 还是 mini6](https://www.v2ex.com/t/805048) `50条评论` `Apple`
-1. [Onedrive 的同步功能中，在本地显示云上文件，双击直接下载运行，是不是没有替代品了？](https://www.v2ex.com/t/805073) `35条评论` `程序员`
-1. [迫于双持 求问一个 ios 安卓互传文件的方法](https://www.v2ex.com/t/805130) `32条评论` `Apple`
+1. [Onedrive 的同步功能中，在本地显示云上文件，双击直接下载运行，是不是没有替代品了？](https://www.v2ex.com/t/805073) `36条评论` `程序员`
+1. [迫于双持 求问一个 ios 安卓互传文件的方法](https://www.v2ex.com/t/805130) `33条评论` `Apple`
 1. [杭州租房贵的离谱](https://www.v2ex.com/t/805206) `24条评论` `杭州`
 1. [iPad mini6 感觉屏幕这次是真的翻车了，感觉不是软件更新就可以解决了，坐等苹果方案](https://www.v2ex.com/t/805039) `23条评论` `Apple`
+1. [兄弟们，说好的 13pro 续航无敌的呢，我这个什么情况？](https://www.v2ex.com/t/805255) `21条评论` `iPhone`
 1. [#思考 创业与打工的区别](https://www.v2ex.com/t/805082) `18条评论` `程序员`
 1. [微信语音手机特别烫，这是正常现象嘛？](https://www.v2ex.com/t/805242) `17条评论` `iPhone`
 1. [求 iPhone 用百元以内有线耳机推荐](https://www.v2ex.com/t/805088) `17条评论` `iPhone`
 1. [一个奇怪的 Java .lang.UnsatisfiedLinkError 异常异常描述为找不到 libyuv.so](https://www.v2ex.com/t/805161) `16条评论` `Android`
 1. [友情提醒：国家监管部门更新了固定 IP 地址入向屏蔽端口](https://www.v2ex.com/t/805061) `16条评论` `宽带症候群`
 1. [M1 打开 idea 超慢...](https://www.v2ex.com/t/805051) `16条评论` `问与答`
-1. [兄弟们，说好的 13pro 续航无敌的呢，我这个什么情况？](https://www.v2ex.com/t/805255) `15条评论` `iPhone`
 1. [洗牙需要注意的事项有哪些？](https://www.v2ex.com/t/805228) `15条评论` `问与答`
 1. [看看有多少人跟我一样是刚知道 iPhone +AirPods 自带白噪音功能的](https://www.v2ex.com/t/805159) `15条评论` `iPhone`
 1. [宣传一下自己封装的 NPM 库-处理 JSON 数据](https://www.v2ex.com/t/805117) `15条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [发现 iOS15 支持开通境外 NFC 交通卡了](https://www.v2ex.com/t/805105) `13条评论` `iPhone`
 1. [直观感受， iPhone12 升级 iOS15 后续航至少下降 30%](https://www.v2ex.com/t/805103) `13条评论` `Apple`
 
-数据更新于 2021-09-29 15:54:36
+数据更新于 2021-09-29 16:07:40
 
 <!-- TODAY END -->
 
