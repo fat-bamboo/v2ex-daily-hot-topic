@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [网上看到家奇葩公司，把离职员工简历放官网上展示。。。](https://www.v2ex.com/t/805110) `109条评论` `职场话题`
+1. [网上看到家奇葩公司，把离职员工简历放官网上展示。。。](https://www.v2ex.com/t/805110) `112条评论` `职场话题`
 1. [掘金上居然有文章教人怎么给开源软件提 typo issue](https://www.v2ex.com/t/805079) `56条评论` `问与答`
-1. [迫于 iPad mini6 是 A15. 特来问问，买 m1 11 寸 ipadPro 还是 mini6](https://www.v2ex.com/t/805048) `39条评论` `Apple`
+1. [迫于 iPad mini6 是 A15. 特来问问，买 m1 11 寸 ipadPro 还是 mini6](https://www.v2ex.com/t/805048) `41条评论` `Apple`
 1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132) `31条评论` `MacBook Pro`
 1. [iPad mini6 感觉屏幕这次是真的翻车了，感觉不是软件更新就可以解决了，坐等苹果方案](https://www.v2ex.com/t/805039) `23条评论` `Apple`
 1. [Onedrive 的同步功能中，在本地显示云上文件，双击直接下载运行，是不是没有替代品了？](https://www.v2ex.com/t/805073) `20条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [感觉引入了 chan 后， go 测序的阅读不是那么线性](https://www.v2ex.com/t/805154) `9条评论` `Go`
 1. [有静音的凳子吗？](https://www.v2ex.com/t/805112) `9条评论` `问与答`
 
-数据更新于 2021-09-29 08:27:46
+数据更新于 2021-09-29 08:39:26
 
 <!-- TODAY END -->
 
