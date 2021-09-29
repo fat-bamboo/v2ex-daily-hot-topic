@@ -29,10 +29,10 @@
 1. [看看有多少人跟我一样是刚知道 iPhone +AirPods 自带白噪音功能的](https://www.v2ex.com/t/805159) `15条评论` `iPhone`
 1. [宣传一下自己封装的 NPM 库-处理 JSON 数据](https://www.v2ex.com/t/805117) `15条评论` `程序员`
 1. [iPhone 13 在 iOS 15 打中文总是把最后一个全角符号截短：排版本地化 BUG？画蛇添足的功能？](https://www.v2ex.com/t/805086) `15条评论` `Apple`
+1. [充电至 80%对电池寿命并没有显著的延长作用](https://www.v2ex.com/t/805279) `13条评论` `iPhone`
 1. [M1 是真的香，发一个魔兽世界开荒的视频](https://www.v2ex.com/t/805225) `13条评论` `MacBook Pro`
-1. [发现 iOS15 支持开通境外 NFC 交通卡了](https://www.v2ex.com/t/805105) `13条评论` `iPhone`
 
-数据更新于 2021-09-29 22:42:20
+数据更新于 2021-09-29 22:51:46
 
 <!-- TODAY END -->
 
