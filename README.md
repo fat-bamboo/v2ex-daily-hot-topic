@@ -11,7 +11,7 @@
 1. [网上看到家奇葩公司，把离职员工简历放官网上展示。。。](https://www.v2ex.com/t/805110) `187条评论` `职场话题`
 1. [掘金上居然有文章教人怎么给开源软件提 typo issue](https://www.v2ex.com/t/805079) `79条评论` `问与答`
 1. [For 国庆和其他假期来青岛玩的 V 友们，本人作为青岛土著总结的吃喝玩乐攻略一组——美食篇、景点篇、小贴士](https://www.v2ex.com/t/805136) `62条评论` `旅行`
-1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132) `53条评论` `MacBook Pro`
+1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132) `54条评论` `MacBook Pro`
 1. [迫于 iPad mini6 是 A15. 特来问问，买 m1 11 寸 ipadPro 还是 mini6](https://www.v2ex.com/t/805048) `51条评论` `Apple`
 1. [Onedrive 的同步功能中，在本地显示云上文件，双击直接下载运行，是不是没有替代品了？](https://www.v2ex.com/t/805073) `38条评论` `程序员`
 1. [迫于双持 求问一个 ios 安卓互传文件的方法](https://www.v2ex.com/t/805130) `34条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [iPhone 13 在 iOS 15 打中文总是把最后一个全角符号截短：排版本地化 BUG？画蛇添足的功能？](https://www.v2ex.com/t/805086) `15条评论` `Apple`
 1. [M1 是真的香，发一个魔兽世界开荒的视频](https://www.v2ex.com/t/805225) `13条评论` `MacBook Pro`
 
-数据更新于 2021-09-29 23:42:15
+数据更新于 2021-09-29 23:51:41
 
 <!-- TODAY END -->
 
