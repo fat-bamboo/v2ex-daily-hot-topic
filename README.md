@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [网上看到家奇葩公司，把离职员工简历放官网上展示。。。](https://www.v2ex.com/t/805110) `112条评论` `职场话题`
+1. [网上看到家奇葩公司，把离职员工简历放官网上展示。。。](https://www.v2ex.com/t/805110) `115条评论` `职场话题`
 1. [掘金上居然有文章教人怎么给开源软件提 typo issue](https://www.v2ex.com/t/805079) `56条评论` `问与答`
 1. [迫于 iPad mini6 是 A15. 特来问问，买 m1 11 寸 ipadPro 还是 mini6](https://www.v2ex.com/t/805048) `41条评论` `Apple`
 1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132) `31条评论` `MacBook Pro`
@@ -24,15 +24,15 @@
 1. [iPhone 13 在 iOS 15 打中文总是把最后一个全角符号截短：排版本地化 BUG？画蛇添足的功能？](https://www.v2ex.com/t/805086) `15条评论` `Apple`
 1. [发现 iOS15 支持开通境外 NFC 交通卡了](https://www.v2ex.com/t/805105) `13条评论` `iPhone`
 1. [直观感受， iPhone12 升级 iOS15 后续航至少下降 30%](https://www.v2ex.com/t/805103) `13条评论` `Apple`
+1. [一个奇怪的 Java .lang.UnsatisfiedLinkError 异常异常描述为找不到 libyuv.so](https://www.v2ex.com/t/805161) `11条评论` `Android`
 1. [看看有多少人跟我一样是刚知道 iPhone +AirPods 自带白噪音功能的](https://www.v2ex.com/t/805159) `11条评论` `iPhone`
 1. [为什么公司 json 的 value 都是 str？](https://www.v2ex.com/t/805107) `11条评论` `问与答`
 1. [有人关注"软件那些事儿"电台么? 作者的同名公共号昨天被微信永久封停了.](https://www.v2ex.com/t/805066) `11条评论` `问与答`
 1. [现在 App Store 连捐赠都必须走内购了？](https://www.v2ex.com/t/805060) `11条评论` `问与答`
 1. [mac 下有啥好用的截图/截 gif 的软件么？](https://www.v2ex.com/t/805133) `10条评论` `问与答`
 1. [感觉引入了 chan 后， go 测序的阅读不是那么线性](https://www.v2ex.com/t/805154) `9条评论` `Go`
-1. [有静音的凳子吗？](https://www.v2ex.com/t/805112) `9条评论` `问与答`
 
-数据更新于 2021-09-29 08:39:26
+数据更新于 2021-09-29 08:46:11
 
 <!-- TODAY END -->
 
