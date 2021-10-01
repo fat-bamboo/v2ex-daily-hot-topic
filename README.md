@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想换手机了！](https://www.v2ex.com/t/805515) `44条评论` `Android`
+1. [想换手机了！](https://www.v2ex.com/t/805515) `45条评论` `Android`
 1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `29条评论` `程序员`
-1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `27条评论` ` WATCH`
-1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `25条评论` `iPhone`
+1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `28条评论` ` WATCH`
+1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `26条评论` `iPhone`
 1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `22条评论` `随想`
 1. [iPad air 有可能出 12.9 寸吗(做个梦](https://www.v2ex.com/t/805547) `18条评论` `Apple`
 1. [国庆需要加班的兄弟们来这里报道一下吧](https://www.v2ex.com/t/805529) `18条评论` `职场话题`
@@ -30,7 +30,7 @@
 1. [alarmer，自动报告你的 Python 程序错误](https://www.v2ex.com/t/805528) `6条评论` `Python`
 1. [难题：为什么 Hyper-V 就是连接不到网络？](https://www.v2ex.com/t/805527) `6条评论` `问与答`
 
-数据更新于 2021-10-01 08:40:03
+数据更新于 2021-10-01 08:46:57
 
 <!-- TODAY END -->
 
