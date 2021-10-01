@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [免费获得 Notion 的 500 刀额度 - 需要信用卡](https://www.v2ex.com/t/805575) `69条评论` `优惠信息`
+1. [免费获得 Notion 的 500 刀额度 - 需要信用卡](https://www.v2ex.com/t/805575) `71条评论` `优惠信息`
 1. [想换手机了！](https://www.v2ex.com/t/805515) `63条评论` `Android`
 1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `39条评论` `iPhone`
 1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `39条评论` `程序员`
-1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `34条评论` ` WATCH`
-1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `28条评论` `随想`
+1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `37条评论` ` WATCH`
+1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `29条评论` `随想`
 1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550) `24条评论` `Apple`
 1. [iPad 可以插 u 盾转账吗？](https://www.v2ex.com/t/805556) `20条评论` `Apple`
 1. [iPhone 联通卡只打电话，每个月被收流量费](https://www.v2ex.com/t/805563) `19条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [Vite：下一代前端开发与构建工具？大伙使用效果如何？](https://www.v2ex.com/t/805583) `8条评论` `程序员`
 1. [GCP 的永久免费套餐从 f1-micro 换成 e2-micro 了 如果上个月没有手动切换的话 今天就会收到 2021 年 9 月份的账单（](https://www.v2ex.com/t/805570) `8条评论` `Google Cloud`
 
-数据更新于 2021-10-01 13:37:39
+数据更新于 2021-10-01 13:43:51
 
 <!-- TODAY END -->
 
