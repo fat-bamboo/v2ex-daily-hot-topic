@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [免费获得 Notion 的 500 刀额度 - 需要信用卡](https://www.v2ex.com/t/805575) `101条评论` `优惠信息`
+1. [免费获得 Notion 的 500 刀额度 - 需要信用卡](https://www.v2ex.com/t/805575) `107条评论` `优惠信息`
 1. [想换手机了！](https://www.v2ex.com/t/805515) `67条评论` `Android`
-1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `55条评论` `iPhone`
-1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `45条评论` `程序员`
-1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `39条评论` ` WATCH`
+1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `58条评论` `iPhone`
+1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `47条评论` `程序员`
+1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `41条评论` ` WATCH`
 1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `32条评论` `随想`
 1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550) `26条评论` `Apple`
 1. [iPhone 联通卡只打电话，每个月被收流量费](https://www.v2ex.com/t/805563) `24条评论` `Apple`
@@ -21,8 +21,8 @@
 1. [iOS 15 快捷指令问题征集帖](https://www.v2ex.com/t/805526) `19条评论` `iOS`
 1. [跟下风，反编译一个国旗头像程序来玩玩](https://www.v2ex.com/t/805551) `18条评论` `推广`
 1. [iPad air 有可能出 12.9 寸吗(做个梦](https://www.v2ex.com/t/805547) `18条评论` `Apple`
-1. [Vite：下一代前端开发与构建工具？大伙使用效果如何？](https://www.v2ex.com/t/805583) `16条评论` `Vue.js`
-1. [LOL 这 B 游戏真难玩](https://www.v2ex.com/t/805572) `15条评论` `英雄联盟`
+1. [Vite：下一代前端开发与构建工具？大伙使用效果如何？](https://www.v2ex.com/t/805583) `17条评论` `Vue.js`
+1. [LOL 这 B 游戏真难玩](https://www.v2ex.com/t/805572) `16条评论` `英雄联盟`
 1. [有没有基于 Linux 做的 pe 系统](https://www.v2ex.com/t/805561) `15条评论` `Linux`
 1. [Notion 兑换 1500 美元兑换码](https://www.v2ex.com/t/805590) `14条评论` `优惠信息`
 1. [国庆出行，你选择百度地图还是高德地图？](https://www.v2ex.com/t/805516) `14条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [深圳天威视讯办理业务可以直接从银行卡扣费是怎么做到的？](https://www.v2ex.com/t/805525) `11条评论` `深圳`
 1. [GCP 的永久免费套餐从 f1-micro 换成 e2-micro 了 如果上个月没有手动切换的话 今天就会收到 2021 年 9 月份的账单（](https://www.v2ex.com/t/805570) `9条评论` `Google Cloud`
 
-数据更新于 2021-10-01 16:07:57
+数据更新于 2021-10-01 16:41:54
 
 <!-- TODAY END -->
 
