@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想换手机了！](https://www.v2ex.com/t/805515) `33条评论` `Android`
-1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `19条评论` ` WATCH`
+1. [想换手机了！](https://www.v2ex.com/t/805515) `34条评论` `Android`
+1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `21条评论` ` WATCH`
 1. [这腾讯云绝对有毛病](https://www.v2ex.com/t/805514) `14条评论` `云计算`
 1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `13条评论` `iPhone`
 1. [国庆需要加班的兄弟们来这里报道一下吧](https://www.v2ex.com/t/805529) `13条评论` `职场话题`
+1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `11条评论` `程序员`
 1. [iOS 15 快捷指令问题征集帖](https://www.v2ex.com/t/805526) `11条评论` `iOS`
-1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `10条评论` `程序员`
-1. [国庆出行，你选择百度地图还是高德地图？](https://www.v2ex.com/t/805516) `9条评论` `iPhone`
-1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550) `8条评论` `Apple`
-1. [iPad air 有可能出 12.9 寸吗(做个梦](https://www.v2ex.com/t/805547) `8条评论` `Apple`
+1. [国庆出行，你选择百度地图还是高德地图？](https://www.v2ex.com/t/805516) `10条评论` `iPhone`
+1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550) `9条评论` `Apple`
+1. [iPad air 有可能出 12.9 寸吗(做个梦](https://www.v2ex.com/t/805547) `9条评论` `Apple`
 1. [其实在宇宙这个母体内。。。其实是这样的！](https://www.v2ex.com/t/805522) `8条评论` `问与答`
 1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `7条评论` `随想`
-1. [3D Anatomy – 3D 人体解剖图 限免](https://www.v2ex.com/t/805520) `6条评论` `优惠信息`
+1. [3D Anatomy – 3D 人体解剖图 限免](https://www.v2ex.com/t/805520) `7条评论` `优惠信息`
 
-数据更新于 2021-10-01 05:20:58
+数据更新于 2021-10-01 05:31:41
 
 <!-- TODAY END -->
 
