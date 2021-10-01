@@ -9,27 +9,28 @@
 <!-- TODAY BEGIN -->
 
 1. [想换手机了！](https://www.v2ex.com/t/805515) `44条评论` `Android`
+1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `29条评论` `程序员`
 1. [大家的十月挑战是什么？](https://www.v2ex.com/t/805524) `27条评论` ` WATCH`
-1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544) `27条评论` `程序员`
 1. [13 Pro 到手了... 但这个摄像头模组，真的很不苹果](https://www.v2ex.com/t/805539) `25条评论` `iPhone`
-1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `20条评论` `随想`
+1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531) `22条评论` `随想`
 1. [iPad air 有可能出 12.9 寸吗(做个梦](https://www.v2ex.com/t/805547) `18条评论` `Apple`
 1. [国庆需要加班的兄弟们来这里报道一下吧](https://www.v2ex.com/t/805529) `18条评论` `职场话题`
 1. [iOS 15 快捷指令问题征集帖](https://www.v2ex.com/t/805526) `18条评论` `iOS`
+1. [iPad 可以插 u 盾转账吗？](https://www.v2ex.com/t/805556) `14条评论` `Apple`
 1. [国庆出行，你选择百度地图还是高德地图？](https://www.v2ex.com/t/805516) `14条评论` `iPhone`
 1. [这腾讯云绝对有毛病](https://www.v2ex.com/t/805514) `14条评论` `云计算`
-1. [iPad 可以插 u 盾转账吗？](https://www.v2ex.com/t/805556) `12条评论` `Apple`
+1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550) `11条评论` `Apple`
+1. [深圳天威视讯办理业务可以直接从银行卡扣费是怎么做到的？](https://www.v2ex.com/t/805525) `10条评论` `深圳`
 1. [iPhone 联通卡只打电话，每个月被收流量费](https://www.v2ex.com/t/805563) `9条评论` `Apple`
-1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550) `9条评论` `Apple`
-1. [深圳天威视讯办理业务可以直接从银行卡扣费是怎么做到的？](https://www.v2ex.com/t/805525) `9条评论` `深圳`
 1. [3D Anatomy – 3D 人体解剖图 限免](https://www.v2ex.com/t/805520) `9条评论` `优惠信息`
 1. [有没有基于 Linux 做的 pe 系统](https://www.v2ex.com/t/805561) `8条评论` `Linux`
 1. [其实在宇宙这个母体内。。。其实是这样的！](https://www.v2ex.com/t/805522) `8条评论` `问与答`
 1. [微信这么占内存的吗？](https://www.v2ex.com/t/805558) `6条评论` `微信`
+1. [iOS 15 中支持文字和图片拖拽了？](https://www.v2ex.com/t/805554) `6条评论` `iOS`
 1. [alarmer，自动报告你的 Python 程序错误](https://www.v2ex.com/t/805528) `6条评论` `Python`
 1. [难题：为什么 Hyper-V 就是连接不到网络？](https://www.v2ex.com/t/805527) `6条评论` `问与答`
 
-数据更新于 2021-10-01 08:28:12
+数据更新于 2021-10-01 08:40:03
 
 <!-- TODAY END -->
 
