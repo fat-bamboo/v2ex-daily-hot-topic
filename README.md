@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `79条评论` `Apple`
-1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635) `36条评论` `硬件`
+1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `80条评论` `Apple`
+1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635) `37条评论` `硬件`
 1. [k8s 系真的是 qps 杀手](https://www.v2ex.com/t/805677) `28条评论` `Kubernetes`
 1. [求推荐适合 iPad 的便携轻便蓝牙键盘](https://www.v2ex.com/t/805637) `27条评论` `iPad`
 1. [两个尴尬的校招 offer，字节阿里怎么选？](https://www.v2ex.com/t/805639) `16条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [关于爱情,希望老大哥们给点建议](https://www.v2ex.com/t/805630) `8条评论` `生活`
 1. [大家有没有注意过这代 13pm 的卡槽？](https://www.v2ex.com/t/805664) `7条评论` `Apple`
 
-数据更新于 2021-10-02 14:20:02
+数据更新于 2021-10-02 14:28:27
 
 <!-- TODAY END -->
 
