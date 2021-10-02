@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `76条评论` `Apple`
+1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `77条评论` `Apple`
 1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635) `32条评论` `硬件`
 1. [求推荐适合 iPad 的便携轻便蓝牙键盘](https://www.v2ex.com/t/805637) `27条评论` `iPad`
 1. [k8s 系真的是 qps 杀手](https://www.v2ex.com/t/805677) `26条评论` `Kubernetes`
@@ -32,7 +32,7 @@
 1. [关于爱情,希望老大哥们给点建议](https://www.v2ex.com/t/805630) `8条评论` `生活`
 1. [iOS 15.0.1 修复了口罩解锁](https://www.v2ex.com/t/805638) `7条评论` `iPhone`
 
-数据更新于 2021-10-02 13:34:08
+数据更新于 2021-10-02 13:41:36
 
 <!-- TODAY END -->
 
