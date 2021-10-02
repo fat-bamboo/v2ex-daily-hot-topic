@@ -11,7 +11,7 @@
 1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `76条评论` `Apple`
 1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635) `32条评论` `硬件`
 1. [求推荐适合 iPad 的便携轻便蓝牙键盘](https://www.v2ex.com/t/805637) `27条评论` `iPad`
-1. [k8s 系真的是 qps 杀手](https://www.v2ex.com/t/805677) `25条评论` `Kubernetes`
+1. [k8s 系真的是 qps 杀手](https://www.v2ex.com/t/805677) `26条评论` `Kubernetes`
 1. [显示器破成这样了还在用，是真爱吗？](https://www.v2ex.com/t/805653) `16条评论` `硬件`
 1. [两个尴尬的校招 offer，字节阿里怎么选？](https://www.v2ex.com/t/805639) `14条评论` `职场话题`
 1. [Cloudflare 推出免费邮件转发服务 Cloudflare Email Routing，目前还在内测阶段](https://www.v2ex.com/t/805632) `14条评论` `Cloudflare`
@@ -24,15 +24,15 @@
 1. [怎么将多个运营商的 IPv6 利用起来呢？](https://www.v2ex.com/t/805673) `9条评论` `宽带症候群`
 1. [上海日常骑车线路？](https://www.v2ex.com/t/805659) `9条评论` `骑行`
 1. [SaaS 版的积分系统](https://www.v2ex.com/t/805633) `9条评论` `奇思妙想`
+1. [套路云有点意思啊](https://www.v2ex.com/t/805692) `8条评论` `宽带症候群`
 1. [5 年 Java ，单身，不知未来该如何](https://www.v2ex.com/t/805683) `8条评论` `生活`
 1. [iPhone 上 safari 保存的账号密码不能同步至 iPad ，都是最新系统， M1 的 iPad 可以，今天刚到的 mini6 居然不行， icloud 经常有莫名其妙的问题啊...](https://www.v2ex.com/t/805666) `8条评论` `Apple`
 1. [早上看到 13 官网自取补货了，犹豫了一会就没了。想问下有苹果官网的补货监控吗？坐标上海浦东。](https://www.v2ex.com/t/805641) `8条评论` `iPhone`
 1. [大家对安徽人口断崖式下降有何看法？](https://www.v2ex.com/t/805642) `8条评论` `问与答`
 1. [关于爱情,希望老大哥们给点建议](https://www.v2ex.com/t/805630) `8条评论` `生活`
-1. [套路云有点意思啊](https://www.v2ex.com/t/805692) `7条评论` `宽带症候群`
 1. [iOS 15.0.1 修复了口罩解锁](https://www.v2ex.com/t/805638) `7条评论` `iPhone`
 
-数据更新于 2021-10-02 13:25:31
+数据更新于 2021-10-02 13:34:08
 
 <!-- TODAY END -->
 
