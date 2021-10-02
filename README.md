@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `68条评论` `Apple`
+1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634) `70条评论` `Apple`
 1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635) `29条评论` `硬件`
 1. [求推荐适合 iPad 的便携轻便蓝牙键盘](https://www.v2ex.com/t/805637) `23条评论` `iPad`
 1. [k8s 系真的是 qps 杀手](https://www.v2ex.com/t/805677) `20条评论` `Kubernetes`
@@ -29,7 +29,7 @@
 1. [iPhone 上 safari 保存的账号密码不能同步至 iPad ，都是最新系统， M1 的 iPad 可以，今天刚到的 mini6 居然不行， icloud 经常有莫名其妙的问题啊...](https://www.v2ex.com/t/805666) `6条评论` `Apple`
 1. [各位现在都去哪里下载音乐资源？](https://www.v2ex.com/t/805679) `6条评论` `音乐`
 
-数据更新于 2021-10-02 11:34:07
+数据更新于 2021-10-02 11:41:45
 
 <!-- TODAY END -->
 
