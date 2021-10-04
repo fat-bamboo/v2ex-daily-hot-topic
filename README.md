@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有多少当年认为的“神作”，现在完全看不下去，又有多少现在依然可以无限循环？](https://www.v2ex.com/t/805834) `73条评论` `剧集`
-1. [13pro 实在太重了…](https://www.v2ex.com/t/805830) `54条评论` `Apple`
+1. [有多少当年认为的“神作”，现在完全看不下去，又有多少现在依然可以无限循环？](https://www.v2ex.com/t/805834) `75条评论` `剧集`
+1. [13pro 实在太重了…](https://www.v2ex.com/t/805830) `55条评论` `Apple`
 1. [除了迅雷还有哪些下载工具推荐？](https://www.v2ex.com/t/805824) `48条评论` `互联网`
-1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `33条评论` `问与答`
-1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `26条评论` `微软`
+1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `34条评论` `问与答`
+1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `27条评论` `微软`
 1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `22条评论` `Apple`
 1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `22条评论` `问与答`
 1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `21条评论` `iPhone`
@@ -27,12 +27,12 @@
 1. [新浪新闻移动版是世界上最糟糕的网站，没有之一](https://www.v2ex.com/t/805828) `10条评论` `全球工单系统`
 1. [10 月 mbp 发布会靠谱吗？](https://www.v2ex.com/t/805827) `10条评论` `MacBook Pro`
 1. [如何让自己微信的内容及封杀大权更加主动得掌握在自己手里？](https://www.v2ex.com/t/805822) `9条评论` `微信`
+1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `8条评论` `程序员`
 1. [这种硬盘还能用不？](https://www.v2ex.com/t/805859) `8条评论` `问与答`
+1. [Chrome、edge 提示“您要访问的是诈骗网站”](https://www.v2ex.com/t/805857) `7条评论` `问与答`
 1. [造了个小玩具：基于 eBPF 的 DNS 污染过滤器](https://www.v2ex.com/t/805840) `7条评论` `分享创造`
-1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `6条评论` `程序员`
-1. [如何让 TCP 包从指定网卡出口](https://www.v2ex.com/t/805880) `6条评论` `Linux`
 
-数据更新于 2021-10-04 13:51:42
+数据更新于 2021-10-04 14:05:16
 
 <!-- TODAY END -->
 
