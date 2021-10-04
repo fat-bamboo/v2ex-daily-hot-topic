@@ -13,7 +13,7 @@
 1. [除了迅雷还有哪些下载工具推荐？](https://www.v2ex.com/t/805824) `50条评论` `互联网`
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `45条评论` `问与答`
 1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `30条评论` `iPhone`
-1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `27条评论` `微软`
+1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `28条评论` `微软`
 1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `25条评论` `问与答`
 1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `22条评论` `Apple`
 1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `21条评论` `JavaScript`
@@ -32,7 +32,7 @@
 1. [10 月 mbp 发布会靠谱吗？](https://www.v2ex.com/t/805827) `10条评论` `MacBook Pro`
 1. [人生技能清单](https://www.v2ex.com/t/805894) `9条评论` `奇思妙想`
 
-数据更新于 2021-10-04 18:28:41
+数据更新于 2021-10-04 18:43:06
 
 <!-- TODAY END -->
 
