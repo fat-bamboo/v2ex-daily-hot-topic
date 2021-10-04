@@ -16,7 +16,7 @@
 1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `29条评论` `微软`
 1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `25条评论` `问与答`
 1. [Cloudflare 宣布将推出和 S3 对标的存储产品 R2 Object Storage](https://www.v2ex.com/t/805868) `24条评论` `Cloudflare`
-1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `22条评论` `Apple`
+1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `23条评论` `Apple`
 1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `21条评论` `JavaScript`
 1. [校园网能否通过 dns 的方式审查学生流量记录？](https://www.v2ex.com/t/805825) `19条评论` `宽带症候群`
 1. [v2ex 社区手工签到第一名!????](https://www.v2ex.com/t/805845) `17条评论` `V2EX`
@@ -32,7 +32,7 @@
 1. [10 月 mbp 发布会靠谱吗？](https://www.v2ex.com/t/805827) `10条评论` `MacBook Pro`
 1. [人生技能清单](https://www.v2ex.com/t/805894) `9条评论` `奇思妙想`
 
-数据更新于 2021-10-04 23:19:52
+数据更新于 2021-10-04 23:28:35
 
 <!-- TODAY END -->
 
