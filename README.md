@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有多少当年认为的“神作”，现在完全看不下去，又有多少现在依然可以无限循环？](https://www.v2ex.com/t/805834) `83条评论` `剧集`
+1. [有多少当年认为的“神作”，现在完全看不下去，又有多少现在依然可以无限循环？](https://www.v2ex.com/t/805834) `86条评论` `剧集`
 1. [13pro 实在太重了…](https://www.v2ex.com/t/805830) `58条评论` `Apple`
 1. [除了迅雷还有哪些下载工具推荐？](https://www.v2ex.com/t/805824) `48条评论` `互联网`
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `37条评论` `问与答`
+1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `27条评论` `iPhone`
 1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `27条评论` `微软`
-1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `26条评论` `iPhone`
 1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `23条评论` `问与答`
 1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `22条评论` `Apple`
 1. [校园网能否通过 dns 的方式审查学生流量记录？](https://www.v2ex.com/t/805825) `19条评论` `宽带症候群`
@@ -24,15 +24,15 @@
 1. [Cloudflare 宣布将推出和 S3 对标的存储产品 R2 Object Storage](https://www.v2ex.com/t/805868) `14条评论` `Cloudflare`
 1. [pencil 画斜线会抖居然是通病](https://www.v2ex.com/t/805829) `12条评论` `iPad`
 1. [陈天老哥画图是画的真不错](https://www.v2ex.com/t/805821) `11条评论` `分享发现`
+1. [问一下最近微信群流行的图片编辑后会变成另一张图片,是怎么实现的?原理?](https://www.v2ex.com/t/805888) `10条评论` `微信`
 1. [你在 Google play store 买过哪些付费软件?](https://www.v2ex.com/t/805858) `10条评论` `Google`
 1. [新浪新闻移动版是世界上最糟糕的网站，没有之一](https://www.v2ex.com/t/805828) `10条评论` `全球工单系统`
 1. [10 月 mbp 发布会靠谱吗？](https://www.v2ex.com/t/805827) `10条评论` `MacBook Pro`
-1. [问一下最近微信群流行的图片编辑后会变成另一张图片,是怎么实现的?原理?](https://www.v2ex.com/t/805888) `9条评论` `微信`
+1. [人生技能清单](https://www.v2ex.com/t/805894) `9条评论` `奇思妙想`
 1. [如何让自己微信的内容及封杀大权更加主动得掌握在自己手里？](https://www.v2ex.com/t/805822) `9条评论` `微信`
-1. [这种硬盘还能用不？](https://www.v2ex.com/t/805859) `8条评论` `问与答`
-1. [如何让 TCP 包从指定网卡出口](https://www.v2ex.com/t/805880) `7条评论` `Linux`
+1. [如何让 TCP 包从指定网卡出口](https://www.v2ex.com/t/805880) `8条评论` `Linux`
 
-数据更新于 2021-10-04 15:38:01
+数据更新于 2021-10-04 15:47:53
 
 <!-- TODAY END -->
 
