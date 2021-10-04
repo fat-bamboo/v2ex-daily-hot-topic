@@ -14,8 +14,8 @@
 1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `22条评论` `Apple`
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `21条评论` `问与答`
 1. [校园网能否通过 dns 的方式审查学生流量记录？](https://www.v2ex.com/t/805825) `18条评论` `宽带症候群`
-1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `16条评论` `微软`
-1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `16条评论` `问与答`
+1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `17条评论` `微软`
+1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `17条评论` `问与答`
 1. [有没有可以缓存的局域网播放器？网速低的情况用](https://www.v2ex.com/t/805851) `11条评论` `NAS`
 1. [v2ex 社区手工签到第一名!????](https://www.v2ex.com/t/805845) `11条评论` `V2EX`
 1. [陈天老哥画图是画的真不错](https://www.v2ex.com/t/805821) `11条评论` `分享发现`
@@ -25,12 +25,12 @@
 1. [pencil 画斜线会抖居然是通病](https://www.v2ex.com/t/805829) `9条评论` `iPad`
 1. [如何让自己微信的内容及封杀大权更加主动得掌握在自己手里？](https://www.v2ex.com/t/805822) `9条评论` `微信`
 1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `8条评论` `iPhone`
+1. [别喷我，真心想求个 Python 工程师的详细路线](https://www.v2ex.com/t/805847) `8条评论` `Python`
 1. [这种硬盘还能用不？](https://www.v2ex.com/t/805859) `7条评论` `问与答`
-1. [别喷我，真心想求个 Python 工程师的详细路线](https://www.v2ex.com/t/805847) `7条评论` `Python`
 1. [造了个小玩具：基于 eBPF 的 DNS 污染过滤器](https://www.v2ex.com/t/805840) `7条评论` `分享创造`
 1. [请教下哪个平台的借钱利息低？](https://www.v2ex.com/t/805826) `6条评论` `问与答`
 
-数据更新于 2021-10-04 09:43:16
+数据更新于 2021-10-04 09:51:43
 
 <!-- TODAY END -->
 
