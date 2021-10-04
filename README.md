@@ -12,12 +12,12 @@
 1. [13pro 实在太重了…](https://www.v2ex.com/t/805830) `58条评论` `Apple`
 1. [除了迅雷还有哪些下载工具推荐？](https://www.v2ex.com/t/805824) `48条评论` `互联网`
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `37条评论` `问与答`
-1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `27条评论` `iPhone`
+1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `28条评论` `iPhone`
 1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `27条评论` `微软`
 1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `23条评论` `问与答`
 1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `22条评论` `Apple`
 1. [校园网能否通过 dns 的方式审查学生流量记录？](https://www.v2ex.com/t/805825) `19条评论` `宽带症候群`
-1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `17条评论` `程序员`
+1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `18条评论` `JavaScript`
 1. [v2ex 社区手工签到第一名!????](https://www.v2ex.com/t/805845) `17条评论` `V2EX`
 1. [有没有可以缓存的局域网播放器？网速低的情况用](https://www.v2ex.com/t/805851) `16条评论` `NAS`
 1. [别喷我，真心想求个 Python 工程师的详细路线](https://www.v2ex.com/t/805847) `16条评论` `Python`
@@ -32,7 +32,7 @@
 1. [如何让自己微信的内容及封杀大权更加主动得掌握在自己手里？](https://www.v2ex.com/t/805822) `9条评论` `微信`
 1. [如何让 TCP 包从指定网卡出口](https://www.v2ex.com/t/805880) `8条评论` `Linux`
 
-数据更新于 2021-10-04 15:54:23
+数据更新于 2021-10-04 16:07:49
 
 <!-- TODAY END -->
 
