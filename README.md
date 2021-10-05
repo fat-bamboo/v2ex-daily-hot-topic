@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
+1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `31条评论` `Windows`
 1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `30条评论` `Windows`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `30条评论` `Windows`
 1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `25条评论` `硬件`
 1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `24条评论` `Windows`
 1. [开始更新 Win11](https://www.v2ex.com/t/805927) `21条评论` `Windows`
@@ -29,7 +29,7 @@
 1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975) `7条评论` `Windows`
 1. [公网电脑 rdp 密码设置既方便又安全的方案推荐](https://www.v2ex.com/t/805924) `7条评论` `问与答`
 
-数据更新于 2021-10-05 10:45:19
+数据更新于 2021-10-05 10:51:44
 
 <!-- TODAY END -->
 
