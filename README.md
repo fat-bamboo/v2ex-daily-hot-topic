@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `30条评论` `Windows`
-1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `23条评论` `硬件`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `23条评论` `Windows`
-1. [开始更新 Win11](https://www.v2ex.com/t/805927) `18条评论` `Windows`
-1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `14条评论` `Windows`
+1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `25条评论` `硬件`
+1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `24条评论` `Windows`
+1. [开始更新 Win11](https://www.v2ex.com/t/805927) `21条评论` `Windows`
+1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `17条评论` `Windows`
 1. [请教下老哥们，服务器安全问题](https://www.v2ex.com/t/805940) `12条评论` `Linux`
 1. [没做过 toC 的业务，所以想业余自己搞一个小项目，请问各位是怎么选择云存储的？需要考虑和云服务器同一个厂商吗？感觉这些东西太复杂了，求讨论](https://www.v2ex.com/t/805941) `11条评论` `程序员`
 1. [一个用了 4 年的美区 apple ID 最近莫名其妙的挂了](https://www.v2ex.com/t/805947) `10条评论` `Apple`
@@ -22,8 +22,9 @@
 1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `9条评论` `问与答`
 1. [JetBrains 开发工具使用最新的 JBR 提高性能](https://www.v2ex.com/t/805934) `9条评论` `JetBrains`
 1. [史上最佳 Linux 桌面发行版 Win 11 推送了（手动狗头）](https://www.v2ex.com/t/805917) `8条评论` `Windows`
+1. [公网电脑 rdp 密码设置既方便又安全的方案推荐](https://www.v2ex.com/t/805924) `7条评论` `问与答`
 
-数据更新于 2021-10-05 08:07:38
+数据更新于 2021-10-05 08:29:31
 
 <!-- TODAY END -->
 
