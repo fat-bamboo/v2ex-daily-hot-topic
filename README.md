@@ -8,13 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `24条评论` `Windows`
-1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `18条评论` `硬件`
+1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `27条评论` `Windows`
+1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `19条评论` `硬件`
+1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `9条评论` `Windows`
 1. [开始更新 Win11](https://www.v2ex.com/t/805927) `8条评论` `Windows`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `7条评论` `问与答`
+1. [现在的旗舰机真是越来越厚重了～](https://www.v2ex.com/t/805935) `6条评论` `iPhone`
 1. [史上最佳 Linux 桌面发行版 Win 11 推送了（手动狗头）](https://www.v2ex.com/t/805917) `6条评论` `Windows`
 
-数据更新于 2021-10-05 04:07:09
+数据更新于 2021-10-05 04:33:13
 
 <!-- TODAY END -->
 
