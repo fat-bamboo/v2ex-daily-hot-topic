@@ -17,21 +17,22 @@
 1. [请教下老哥们，服务器安全问题](https://www.v2ex.com/t/805940) `18条评论` `Linux`
 1. [现在的旗舰机真是越来越厚重了～](https://www.v2ex.com/t/805935) `16条评论` `iPhone`
 1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `15条评论` `问与答`
+1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `14条评论` `Apple`
 1. [摄像头凸起的机型测量角度的时候](https://www.v2ex.com/t/805945) `14条评论` `iPhone`
 1. [没做过 toC 的业务，所以想业余自己搞一个小项目，请问各位是怎么选择云存储的？需要考虑和云服务器同一个厂商吗？感觉这些东西太复杂了，求讨论](https://www.v2ex.com/t/805941) `14条评论` `程序员`
+1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963) `13条评论` `问与答`
 1. [一个用了 4 年的美区 apple ID 最近莫名其妙的挂了](https://www.v2ex.com/t/805947) `13条评论` `Apple`
-1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `12条评论` `Apple`
 1. [在学习新知识的过程中, 如何避免脱离主线](https://www.v2ex.com/t/805953) `12条评论` `程序员`
-1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963) `11条评论` `问与答`
 1. [JetBrains 开发工具使用最新的 JBR 提高性能](https://www.v2ex.com/t/805934) `10条评论` `JetBrains`
 1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975) `9条评论` `Windows`
 1. [三观属于信仰吗？](https://www.v2ex.com/t/805960) `9条评论` `随想`
 1. [Notion 最近绑定信用卡，领钱，信用卡刷了 30 刀](https://www.v2ex.com/t/805950) `8条评论` `Notion`
 1. [史上最佳 Linux 桌面发行版 Win 11 推送了（手动狗头）](https://www.v2ex.com/t/805917) `8条评论` `Windows`
 1. [公网电脑 rdp 密码设置既方便又安全的方案推荐](https://www.v2ex.com/t/805924) `7条评论` `问与答`
+1. [想去试下 Pro 和 Max 的手感区别，想问下北京的 Apple Store 没有取货订单可以进去吗？](https://www.v2ex.com/t/805979) `6条评论` `Apple`
 1. [有哪些便宜的域名和 dns 服务商，完全自用，给 nas 做内网穿透](https://www.v2ex.com/t/805968) `6条评论` `问与答`
 
-数据更新于 2021-10-05 11:34:11
+数据更新于 2021-10-05 11:41:38
 
 <!-- TODAY END -->
 
