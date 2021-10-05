@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `49条评论` `iPhone`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `39条评论` `Windows`
+1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `50条评论` `iPhone`
+1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `40条评论` `Windows`
 1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `33条评论` `Windows`
-1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965) `31条评论` `Apple`
+1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965) `33条评论` `Apple`
 1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `30条评论` `Windows`
 1. [开始更新 Win11](https://www.v2ex.com/t/805927) `28条评论` `Windows`
 1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `27条评论` `硬件`
@@ -32,7 +32,7 @@
 1. [A 股开户有说佣金能到万一的，靠谱吗？华泰和海通怎么选？](https://www.v2ex.com/t/805973) `11条评论` `问与答`
 1. [求推荐个无线鼠标，办公用](https://www.v2ex.com/t/805977) `10条评论` `问与答`
 
-数据更新于 2021-10-05 17:12:01
+数据更新于 2021-10-05 17:34:22
 
 <!-- TODAY END -->
 
