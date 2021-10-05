@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `57条评论` `iPhone`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `43条评论` `Windows`
+1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `44条评论` `Windows`
 1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `34条评论` `Windows`
 1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965) `33条评论` `Apple`
 1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003) `33条评论` `Go 编程语言`
@@ -32,7 +32,7 @@
 1. [主力机升级到 win11 后，在我原先日常使用场景内的影响](https://www.v2ex.com/t/805984) `11条评论` `Windows`
 1. [safari 犯病了？](https://www.v2ex.com/t/805981) `11条评论` `MacBook Pro`
 
-数据更新于 2021-10-05 22:23:36
+数据更新于 2021-10-05 22:35:36
 
 <!-- TODAY END -->
 
