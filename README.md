@@ -8,11 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `19条评论` `Windows`
+1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `20条评论` `Windows`
 1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `18条评论` `硬件`
+1. [开始更新 Win11](https://www.v2ex.com/t/805927) `6条评论` `Windows`
 1. [史上最佳 Linux 桌面发行版 Win 11 推送了（手动狗头）](https://www.v2ex.com/t/805917) `6条评论` `Windows`
 
-数据更新于 2021-10-05 03:44:26
+数据更新于 2021-10-05 03:51:36
 
 <!-- TODAY END -->
 
