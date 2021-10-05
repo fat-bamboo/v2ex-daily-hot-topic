@@ -16,8 +16,8 @@
 1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `32条评论` `Windows`
 1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963) `32条评论` `硬件`
 1. [开始更新 Win11](https://www.v2ex.com/t/805927) `28条评论` `Windows`
+1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `28条评论` `问与答`
 1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `27条评论` `硬件`
-1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `27条评论` `问与答`
 1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975) `22条评论` `Windows`
 1. [现在的旗舰机真是越来越厚重了～](https://www.v2ex.com/t/805935) `21条评论` `iPhone`
 1. [请教下老哥们，服务器安全问题](https://www.v2ex.com/t/805940) `18条评论` `Linux`
@@ -32,7 +32,7 @@
 1. [主力机升级到 win11 后，在我原先日常使用场景内的影响](https://www.v2ex.com/t/805984) `11条评论` `Windows`
 1. [safari 犯病了？](https://www.v2ex.com/t/805981) `11条评论` `MacBook Pro`
 
-数据更新于 2021-10-05 22:42:26
+数据更新于 2021-10-05 22:51:38
 
 <!-- TODAY END -->
 
