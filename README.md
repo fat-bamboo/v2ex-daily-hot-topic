@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `46条评论` `Apple`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `36条评论` `Windows`
-1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `32条评论` `Windows`
+1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `48条评论` `iPhone`
+1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `38条评论` `Windows`
+1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `33条评论` `Windows`
 1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965) `31条评论` `Apple`
 1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `30条评论` `Windows`
 1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `27条评论` `硬件`
 1. [开始更新 Win11](https://www.v2ex.com/t/805927) `27条评论` `Windows`
-1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `25条评论` `问与答`
+1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `26条评论` `问与答`
+1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003) `26条评论` `Go 编程语言`
 1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963) `24条评论` `问与答`
-1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003) `23条评论` `Go 编程语言`
+1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975) `21条评论` `Windows`
 1. [现在的旗舰机真是越来越厚重了～](https://www.v2ex.com/t/805935) `21条评论` `iPhone`
-1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975) `19条评论` `Windows`
 1. [请教下老哥们，服务器安全问题](https://www.v2ex.com/t/805940) `18条评论` `Linux`
 1. [一个用了 4 年的美区 apple ID 最近莫名其妙的挂了](https://www.v2ex.com/t/805947) `17条评论` `Apple`
 1. [在学习新知识的过程中, 如何避免脱离主线](https://www.v2ex.com/t/805953) `15条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [A 股开户有说佣金能到万一的，靠谱吗？华泰和海通怎么选？](https://www.v2ex.com/t/805973) `11条评论` `问与答`
 1. [有哪些便宜的域名和 dns 服务商，完全自用，给 nas 做内网穿透](https://www.v2ex.com/t/805968) `10条评论` `问与答`
 
-数据更新于 2021-10-05 16:17:22
+数据更新于 2021-10-05 16:51:06
 
 <!-- TODAY END -->
 
