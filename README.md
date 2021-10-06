@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于青岛前几天我个人信息被青岛某公司曝光并恶意中伤的一些声明](https://www.v2ex.com/t/806072) `64条评论` `职场话题`
-1. [iPhone 连换屏幕都要返厂了吗](https://www.v2ex.com/t/806087) `64条评论` `iPhone`
+1. [关于青岛前几天我个人信息被青岛某公司曝光并恶意中伤的一些声明](https://www.v2ex.com/t/806072) `65条评论` `职场话题`
+1. [iPhone 连换屏幕都要返厂了吗](https://www.v2ex.com/t/806087) `65条评论` `iPhone`
 1. [关于 apple watch 7 是在进入大规模生产前一周发现有致命缺陷, 现在的方案是几周时间临时拼凑出来的传言, 以及总结的几个关键线索.](https://www.v2ex.com/t/806039) `49条评论` ` WATCH`
-1. [面试 Amazon 的经历，很迷茫](https://www.v2ex.com/t/806050) `42条评论` `职场话题`
+1. [面试 Amazon 的经历，很迷茫](https://www.v2ex.com/t/806050) `47条评论` `职场话题`
 1. [为什么本地人会觉得本地没什么好玩的？](https://www.v2ex.com/t/806053) `37条评论` `旅行`
 1. [关于 iPhone 13 pro 的频闪是否伤眼问题](https://www.v2ex.com/t/806067) `37条评论` `Apple`
 1. [如果阉割掉国内用不到的东西，可以便宜一些的话，大家会怎么选？](https://www.v2ex.com/t/806052) `35条评论` `iPhone`
-1. [使用 Google Authenticator 被坑了](https://www.v2ex.com/t/806112) `32条评论` `Google`
+1. [使用 Google Authenticator 被坑了](https://www.v2ex.com/t/806112) `34条评论` `Google`
+1. [刚升级了移动 1000M 宽带，速度有点小异常](https://www.v2ex.com/t/806095) `30条评论` `宽带症候群`
 1. [好像长了脂肪瘤](https://www.v2ex.com/t/806038) `29条评论` `健康`
-1. [刚升级了移动 1000M 宽带，速度有点小异常](https://www.v2ex.com/t/806095) `29条评论` `宽带症候群`
 1. [手机越来越厚重，自媒体在其中推波助澜不少](https://www.v2ex.com/t/806058) `21条评论` `硬件`
 1. [国内建站，纯个人 blog，可以绑定自己的域名，哪里有高性价比的方案推荐么？](https://www.v2ex.com/t/806114) `20条评论` `问与答`
 1. [房东不退剩余租金，威胁找我单位怎么办](https://www.v2ex.com/t/806124) `19条评论` `生活`
@@ -27,12 +27,12 @@
 1. [网站被 DDos 了，刚刚进去访问 520 了，然后还能通过 IP 访问宝塔面板](https://www.v2ex.com/t/806065) `11条评论` `问与答`
 1. [安卓有没有 1 对多的同屏应用，投屏应用？](https://www.v2ex.com/t/806075) `10条评论` `Android`
 1. [NUC11PAHi5 套餐 今日下单即送 JBL 音响](https://www.v2ex.com/t/806060) `10条评论` `推广`
-1. [Twitch 源码泄露了](https://www.v2ex.com/t/806119) `8条评论` `互联网`
-1. [没有 TPM 升级不了 win11 的解决方法](https://www.v2ex.com/t/806097) `8条评论` `Windows`
+1. [Twitch 源码泄露了](https://www.v2ex.com/t/806119) `9条评论` `互联网`
+1. [没有 TPM 升级不了 win11 的解决方法](https://www.v2ex.com/t/806097) `9条评论` `Windows`
+1. [iOS 15 天气通知不生效](https://www.v2ex.com/t/806129) `8条评论` `iPhone`
 1. [救命 手欠修改了群晖网络设置 现在无法进入后台 咋办，，，求大佬指点。。](https://www.v2ex.com/t/806082) `8条评论` `NAS`
-1. [如何根据正则批量删除 iPhone 的短信](https://www.v2ex.com/t/806079) `8条评论` `iPhone`
 
-数据更新于 2021-10-06 14:52:05
+数据更新于 2021-10-06 15:05:37
 
 <!-- TODAY END -->
 
