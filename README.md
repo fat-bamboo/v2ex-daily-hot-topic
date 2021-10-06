@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2021-10-06 00:21:00
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `58条评论` `iPhone`
 1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `44条评论` `Windows`
 1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003) `35条评论` `Go 编程语言`
@@ -31,38 +41,6 @@
 1. [试问 sha256 后能否公开数据😂](https://www.v2ex.com/t/805989) `11条评论` `程序员`
 1. [主力机升级到 win11 后，在我原先日常使用场景内的影响](https://www.v2ex.com/t/805984) `11条评论` `Windows`
 1. [safari 犯病了？](https://www.v2ex.com/t/805981) `11条评论` `MacBook Pro`
-
-数据更新于 2021-10-05 23:51:56
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [有多少当年认为的“神作”，现在完全看不下去，又有多少现在依然可以无限循环？](https://www.v2ex.com/t/805834) `98条评论` `剧集`
-1. [13pro 实在太重了…](https://www.v2ex.com/t/805830) `65条评论` `Apple`
-1. [除了迅雷还有哪些下载工具推荐？](https://www.v2ex.com/t/805824) `50条评论` `互联网`
-1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850) `50条评论` `问与答`
-1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848) `34条评论` `iPhone`
-1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856) `29条评论` `微软`
-1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833) `25条评论` `问与答`
-1. [Cloudflare 宣布将推出和 S3 对标的存储产品 R2 Object Storage](https://www.v2ex.com/t/805868) `24条评论` `Cloudflare`
-1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831) `23条评论` `Apple`
-1. [JavaScript 里面为什么在一个类里面写的函数在 console 里面发现属于父类了？](https://www.v2ex.com/t/805883) `21条评论` `JavaScript`
-1. [校园网能否通过 dns 的方式审查学生流量记录？](https://www.v2ex.com/t/805825) `19条评论` `宽带症候群`
-1. [v2ex 社区手工签到第一名!????](https://www.v2ex.com/t/805845) `17条评论` `V2EX`
-1. [有没有可以缓存的局域网播放器？网速低的情况用](https://www.v2ex.com/t/805851) `16条评论` `NAS`
-1. [别喷我，真心想求个 Python 工程师的详细路线](https://www.v2ex.com/t/805847) `16条评论` `Python`
-1. [互联网上的大龄成年人都在哪里](https://www.v2ex.com/t/805900) `14条评论` `互联网`
-1. [pencil 画斜线会抖居然是通病](https://www.v2ex.com/t/805829) `12条评论` `iPad`
-1. [问一下最近微信群流行的图片编辑后会变成另一张图片,是怎么实现的?原理?](https://www.v2ex.com/t/805888) `11条评论` `微信`
-1. [Apple Watch Series 7 于 10 月 8 日（周五）起接受订购，并将于 10 月 15 日（周五）起正式发售](https://www.v2ex.com/t/805886) `11条评论` `Apple`
-1. [陈天老哥画图是画的真不错](https://www.v2ex.com/t/805821) `11条评论` `分享发现`
-1. [人生技能清单](https://www.v2ex.com/t/805894) `10条评论` `奇思妙想`
-1. [如何让 TCP 包从指定网卡出口](https://www.v2ex.com/t/805880) `10条评论` `Linux`
-1. [你在 Google play store 买过哪些付费软件?](https://www.v2ex.com/t/805858) `10条评论` `Google`
-1. [新浪新闻移动版是世界上最糟糕的网站，没有之一](https://www.v2ex.com/t/805828) `10条评论` `全球工单系统`
 
 <!-- YESTERDAY END -->
 
