@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 连换屏幕都要返厂了吗](https://www.v2ex.com/t/806087) `76条评论` `iPhone`
+1. [iPhone 连换屏幕都要返厂了吗](https://www.v2ex.com/t/806087) `77条评论` `iPhone`
 1. [关于青岛前几天我个人信息被青岛某公司曝光并恶意中伤的一些声明](https://www.v2ex.com/t/806072) `75条评论` `职场话题`
-1. [面试 Amazon 的经历，很迷茫](https://www.v2ex.com/t/806050) `72条评论` `职场话题`
+1. [面试 Amazon 的经历，很迷茫](https://www.v2ex.com/t/806050) `73条评论` `职场话题`
 1. [关于 apple watch 7 是在进入大规模生产前一周发现有致命缺陷, 现在的方案是几周时间临时拼凑出来的传言, 以及总结的几个关键线索.](https://www.v2ex.com/t/806039) `49条评论` ` WATCH`
 1. [使用 Google Authenticator 被坑了](https://www.v2ex.com/t/806112) `49条评论` `Google`
 1. [为什么本地人会觉得本地没什么好玩的？](https://www.v2ex.com/t/806053) `41条评论` `旅行`
@@ -32,7 +32,7 @@
 1. [iOS 15 天气通知不生效](https://www.v2ex.com/t/806129) `10条评论` `iPhone`
 1. [安卓有没有 1 对多的同屏应用，投屏应用？](https://www.v2ex.com/t/806075) `10条评论` `Android`
 
-数据更新于 2021-10-06 21:28:35
+数据更新于 2021-10-06 21:36:06
 
 <!-- TODAY END -->
 
