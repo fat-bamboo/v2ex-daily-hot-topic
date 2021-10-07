@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `21条评论` `Apple TV`
-1. [这段代码在 Python 里能怎么改写成效率更高的吗，听说 for 循环比较慢](https://www.v2ex.com/t/806172) `14条评论` `Python`
-1. [居家隔离 14 天，人都要傻了，想找点事情做。](https://www.v2ex.com/t/806171) `13条评论` `求职`
+1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `23条评论` `Apple TV`
+1. [这段代码在 Python 里能怎么改写成效率更高的吗，听说 for 循环比较慢](https://www.v2ex.com/t/806172) `15条评论` `Python`
+1. [居家隔离 14 天，人都要傻了，想找点事情做。](https://www.v2ex.com/t/806171) `14条评论` `求职`
+1. [升级 iOS15 之后淘宝、闲鱼、阿里云盘等多个 APP，打开后提示异常退出之类的，要清理或者修复 APP](https://www.v2ex.com/t/806185) `12条评论` `Apple`
 1. [有两台笔记本电脑，都是赠送了 office2019 家庭版/学生版，但是无法登录同一个账号吗？](https://www.v2ex.com/t/806176) `11条评论` `Windows`
-1. [升级 iOS15 之后淘宝、闲鱼、阿里云盘等多个 APP，打开后提示异常退出之类的，要清理或者修复 APP](https://www.v2ex.com/t/806185) `10条评论` `Apple`
 1. [ios app 这个能用不 好像免费 没广告](https://www.v2ex.com/t/806167) `8条评论` `iPhone`
 1. [如何在 android 分享大量文件到其他 app](https://www.v2ex.com/t/806194) `7条评论` `问与答`
 
-数据更新于 2021-10-07 04:32:53
+数据更新于 2021-10-07 04:52:39
 
 <!-- TODAY END -->
 
