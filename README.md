@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `40条评论` `Apple TV`
+1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `42条评论` `Apple TV`
 1. [这段代码在 Python 里能怎么改写成效率更高的吗，听说 for 循环比较慢](https://www.v2ex.com/t/806172) `28条评论` `Python`
 1. [怎么防止用户自己调用网站 API 发送 POST 请求篡改数据](https://www.v2ex.com/t/806211) `27条评论` `程序员`
 1. [升级 iOS15 之后淘宝、闲鱼、阿里云盘等多个 APP，打开后提示异常退出之类的，要清理或者修复 APP](https://www.v2ex.com/t/806185) `19条评论` `Apple`
@@ -28,7 +28,7 @@
 1. [作为不受支持的用户，谈一谈强升 win11 的体验](https://www.v2ex.com/t/806216) `6条评论` `Windows`
 1. [网页设计什么语音好](https://www.v2ex.com/t/806228) `6条评论` `问与答`
 
-数据更新于 2021-10-07 08:51:40
+数据更新于 2021-10-07 09:04:52
 
 <!-- TODAY END -->
 
