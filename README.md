@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `52条评论` `Apple TV`
+1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `53条评论` `Apple TV`
 1. [怎么防止用户自己调用网站 API 发送 POST 请求篡改数据](https://www.v2ex.com/t/806211) `31条评论` `程序员`
 1. [这段代码在 Python 里能怎么改写成效率更高的吗，听说 for 循环比较慢](https://www.v2ex.com/t/806172) `28条评论` `Python`
 1. [有两台笔记本电脑，都是赠送了 office2019 家庭版/学生版，但是无法登录同一个账号吗？](https://www.v2ex.com/t/806176) `25条评论` `Windows`
@@ -20,18 +20,18 @@
 1. [居家隔离 14 天，人都要傻了，想找点事情做。](https://www.v2ex.com/t/806171) `15条评论` `求职`
 1. [如何在 android 分享大量文件到其他 app](https://www.v2ex.com/t/806194) `14条评论` `问与答`
 1. [手腕疼痛，疑似腱鞘炎，大家有什么好方法吗？](https://www.v2ex.com/t/806191) `12条评论` `问与答`
+1. [求推荐快图浏览替代 app](https://www.v2ex.com/t/806208) `10条评论` `Android`
+1. [下载 HTTPS 文件更消耗 cpu 吗？](https://www.v2ex.com/t/806236) `9条评论` `问与答`
 1. [大数据揭秘：“大厂”员工都多少岁？](https://www.v2ex.com/t/806215) `9条评论` `职场话题`
-1. [求推荐快图浏览替代 app](https://www.v2ex.com/t/806208) `9条评论` `Android`
 1. [请问，苹果官网换购 iPhone ，如果旧的正面玻璃碎了一角，还能折价吗？还是免费回收？](https://www.v2ex.com/t/806207) `9条评论` `iPhone`
 1. [iPhone 13 Pro Max 屏幕发红](https://www.v2ex.com/t/806196) `9条评论` `iPhone`
 1. [十一参加婚礼有感](https://www.v2ex.com/t/806242) `8条评论` `随想`
-1. [下载 HTTPS 文件更消耗 cpu 吗？](https://www.v2ex.com/t/806236) `8条评论` `问与答`
 1. [ios app 这个能用不 好像免费 没广告](https://www.v2ex.com/t/806167) `8条评论` `iPhone`
 1. [如今 wsl 可以一战了么？](https://www.v2ex.com/t/806223) `6条评论` `问与答`
 1. [作为不受支持的用户，谈一谈强升 win11 的体验](https://www.v2ex.com/t/806216) `6条评论` `Windows`
 1. [网页设计什么语音好](https://www.v2ex.com/t/806228) `6条评论` `问与答`
 
-数据更新于 2021-10-07 10:45:41
+数据更新于 2021-10-07 10:51:57
 
 <!-- TODAY END -->
 
