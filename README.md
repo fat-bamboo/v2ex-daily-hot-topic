@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `66条评论` `Apple TV`
-1. [听说不会有 iPhone 14 mini 了？](https://www.v2ex.com/t/806210) `45条评论` `Apple`
+1. [听说不会有 iPhone 14 mini 了？](https://www.v2ex.com/t/806210) `46条评论` `Apple`
 1. [怎么防止用户自己调用网站 API 发送 POST 请求篡改数据](https://www.v2ex.com/t/806211) `43条评论` `程序员`
 1. [升级 iOS15 之后淘宝、闲鱼、阿里云盘等多个 APP，打开后提示异常退出之类的，要清理或者修复 APP](https://www.v2ex.com/t/806185) `34条评论` `Apple`
 1. [有两台笔记本电脑，都是赠送了 office2019 家庭版/学生版，但是无法登录同一个账号吗？](https://www.v2ex.com/t/806176) `30条评论` `Windows`
@@ -32,7 +32,7 @@
 1. [直接从 win10 升级到 win11 有坑么，用了好几年了实在不想全新安装](https://www.v2ex.com/t/806248) `10条评论` `Windows`
 1. [求推荐快图浏览替代 app](https://www.v2ex.com/t/806208) `10条评论` `Android`
 
-数据更新于 2021-10-07 21:29:39
+数据更新于 2021-10-07 21:37:26
 
 <!-- TODAY END -->
 
