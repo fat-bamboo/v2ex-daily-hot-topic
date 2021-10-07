@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2021-10-07 00:21:30
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [iPhone 连换屏幕都要返厂了吗](https://www.v2ex.com/t/806087) `77条评论` `iPhone`
 1. [关于青岛前几天我个人信息被青岛某公司曝光并恶意中伤的一些声明](https://www.v2ex.com/t/806072) `76条评论` `职场话题`
 1. [面试 Amazon 的经历，很迷茫](https://www.v2ex.com/t/806050) `73条评论` `职场话题`
@@ -31,38 +41,6 @@
 1. [网站被 DDos 了，刚刚进去访问 520 了，然后还能通过 IP 访问宝塔面板](https://www.v2ex.com/t/806065) `11条评论` `问与答`
 1. [苹果说不再强制更新 iOS 15, 但依然关闭了 iOS 14.8 的验证](https://www.v2ex.com/t/806147) `10条评论` `Apple`
 1. [iOS 15 天气通知不生效](https://www.v2ex.com/t/806129) `10条评论` `iPhone`
-
-数据更新于 2021-10-06 23:51:54
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976) `58条评论` `iPhone`
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929) `44条评论` `Windows`
-1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003) `35条评论` `Go 编程语言`
-1. [都收到 windows11 的推送了吗](https://www.v2ex.com/t/805915) `34条评论` `Windows`
-1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963) `33条评论` `硬件`
-1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965) `33条评论` `Apple`
-1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938) `32条评论` `Windows`
-1. [开始更新 Win11](https://www.v2ex.com/t/805927) `28条评论` `Windows`
-1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951) `28条评论` `问与答`
-1. [机顶盒求推荐...](https://www.v2ex.com/t/805916) `27条评论` `硬件`
-1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975) `22条评论` `Windows`
-1. [现在的旗舰机真是越来越厚重了～](https://www.v2ex.com/t/805935) `21条评论` `iPhone`
-1. [请教下老哥们，服务器安全问题](https://www.v2ex.com/t/805940) `18条评论` `Linux`
-1. [一个用了 4 年的美区 apple ID 最近莫名其妙的挂了](https://www.v2ex.com/t/805947) `17条评论` `Apple`
-1. [在学习新知识的过程中, 如何避免脱离主线](https://www.v2ex.com/t/805953) `15条评论` `程序员`
-1. [没做过 toC 的业务，所以想业余自己搞一个小项目，请问各位是怎么选择云存储的？需要考虑和云服务器同一个厂商吗？感觉这些东西太复杂了，求讨论](https://www.v2ex.com/t/805941) `15条评论` `程序员`
-1. [摄像头凸起的机型测量角度的时候](https://www.v2ex.com/t/805945) `14条评论` `iPhone`
-1. [现在买个 2017 款的 iMac 还能用几年](https://www.v2ex.com/t/805993) `13条评论` `Apple`
-1. [三观属于信仰吗？](https://www.v2ex.com/t/805960) `12条评论` `随想`
-1. [照顾老父亲有感](https://www.v2ex.com/t/806001) `11条评论` `随想`
-1. [试问 sha256 后能否公开数据😂](https://www.v2ex.com/t/805989) `11条评论` `程序员`
-1. [主力机升级到 win11 后，在我原先日常使用场景内的影响](https://www.v2ex.com/t/805984) `11条评论` `Windows`
-1. [safari 犯病了？](https://www.v2ex.com/t/805981) `11条评论` `MacBook Pro`
 
 <!-- YESTERDAY END -->
 
