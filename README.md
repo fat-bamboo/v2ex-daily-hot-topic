@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `48条评论` `Apple TV`
+1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189) `50条评论` `Apple TV`
 1. [这段代码在 Python 里能怎么改写成效率更高的吗，听说 for 循环比较慢](https://www.v2ex.com/t/806172) `28条评论` `Python`
 1. [怎么防止用户自己调用网站 API 发送 POST 请求篡改数据](https://www.v2ex.com/t/806211) `28条评论` `程序员`
 1. [前 leader 借钱不还应该怎么办?](https://www.v2ex.com/t/806212) `25条评论` `问与答`
 1. [有两台笔记本电脑，都是赠送了 office2019 家庭版/学生版，但是无法登录同一个账号吗？](https://www.v2ex.com/t/806176) `23条评论` `Windows`
+1. [听说不会有 iPhone 14 mini 了？](https://www.v2ex.com/t/806210) `19条评论` `Apple`
 1. [升级 iOS15 之后淘宝、闲鱼、阿里云盘等多个 APP，打开后提示异常退出之类的，要清理或者修复 APP](https://www.v2ex.com/t/806185) `19条评论` `Apple`
-1. [听说不会有 iPhone 14 mini 了？](https://www.v2ex.com/t/806210) `16条评论` `Apple`
 1. [实现一个电梯摄像头识别有电动车推进来就报警的功能有搞头吗？](https://www.v2ex.com/t/806220) `15条评论` `奇思妙想`
 1. [macOS 用户表示很喜欢 Windows11](https://www.v2ex.com/t/806201) `15条评论` `Windows`
 1. [居家隔离 14 天，人都要傻了，想找点事情做。](https://www.v2ex.com/t/806171) `15条评论` `求职`
@@ -29,7 +29,7 @@
 1. [作为不受支持的用户，谈一谈强升 win11 的体验](https://www.v2ex.com/t/806216) `6条评论` `Windows`
 1. [网页设计什么语音好](https://www.v2ex.com/t/806228) `6条评论` `问与答`
 
-数据更新于 2021-10-07 09:51:44
+数据更新于 2021-10-07 10:05:40
 
 <!-- TODAY END -->
 
