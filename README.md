@@ -14,7 +14,7 @@
 1. [建议大家早早的拔掉智齿](https://www.v2ex.com/t/806452) `55条评论` `随想`
 1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `54条评论` `Python`
 1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372) `53条评论` ` WATCH`
-1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `52条评论` `iPhone`
+1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `53条评论` `iPhone`
 1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351) `51条评论` `iOS`
 1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326) `49条评论` `程序员`
 1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `44条评论` `随想`
@@ -32,7 +32,7 @@
 1. [为什么国内的安卓厂家全部放弃小屏了呢？](https://www.v2ex.com/t/806489) `16条评论` `问与答`
 1. [[成都] 前端/BA/UX/UI/Ruby/软件项目经理/Auto QA 活跃网络(成都)直聘 | 年假 17 天 | 拒绝打卡 | 技术流 | 硅谷风](https://www.v2ex.com/t/806451) `16条评论` `酷工作`
 
-数据更新于 2021-10-08 23:42:30
+数据更新于 2021-10-08 23:51:44
 
 <!-- TODAY END -->
 
