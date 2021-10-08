@@ -8,23 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
-1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `149条评论` `汽车`
+1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `151条评论` `汽车`
 1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404) `62条评论` `随想`
-1. [保持警惕：多个国产 APP 滥用相册权限(转)](https://www.v2ex.com/t/806442) `54条评论` `iOS`
+1. [保持警惕：多个国产 APP 滥用相册权限(转)](https://www.v2ex.com/t/806442) `55条评论` `iOS`
+1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `51条评论` `Python`
 1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372) `51条评论` ` WATCH`
 1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351) `50条评论` `iOS`
-1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `49条评论` `Python`
+1. [建议大家早早的拔掉智齿](https://www.v2ex.com/t/806452) `46条评论` `随想`
 1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326) `46条评论` `程序员`
-1. [建议大家早早的拔掉智齿](https://www.v2ex.com/t/806452) `45条评论` `随想`
+1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `43条评论` `iPhone`
 1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `42条评论` `随想`
 1. [有开增程式电车的吗。想买电动车，求打醒](https://www.v2ex.com/t/806444) `30条评论` `汽车`
 1. [请教已婚人士，结婚的时候的对戒是怎么选/购买的](https://www.v2ex.com/t/806480) `29条评论` `生活`
 1. [iPhone 质量堪忧](https://www.v2ex.com/t/806353) `29条评论` `Apple`
 1. [2000 以内 4 k 显示器求推荐](https://www.v2ex.com/t/806375) `28条评论` `硬件`
-1. [实习 offer 选择 苹果 vs 字节](https://www.v2ex.com/t/806503) `22条评论` `职场话题`
+1. [实习 offer 选择 苹果 vs 字节](https://www.v2ex.com/t/806503) `24条评论` `职场话题`
 1. [之前面试时遇到的一个有些奇怪的问题](https://www.v2ex.com/t/806454) `21条评论` `程序员`
 1. [去哪个城市发展呢](https://www.v2ex.com/t/806430) `20条评论` `生活`
-1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `19条评论` `iPhone`
 1. [有预测说 MacBook Pro 2021 款将在 10 月 19 号发布。你们觉得靠谱嘛？](https://www.v2ex.com/t/806417) `18条评论` `MacBook Pro`
 1. [卧室购买电视还是显示器（老婆的需求）](https://www.v2ex.com/t/806388) `18条评论` `问与答`
 1. [为什么国内的安卓厂家全部放弃小屏了呢？](https://www.v2ex.com/t/806489) `16条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [V 友们，朋友公司找我做外包，请教下会不会很麻烦？](https://www.v2ex.com/t/806382) `16条评论` `程序员`
 1. [这次的备货真的少啊](https://www.v2ex.com/t/806507) `15条评论` ` WATCH`
 
-数据更新于 2021-10-08 15:25:12
+数据更新于 2021-10-08 15:38:11
 
 <!-- TODAY END -->
 
