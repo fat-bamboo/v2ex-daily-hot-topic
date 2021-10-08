@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `112条评论` `汽车`
-1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `35条评论` `随想`
-1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `34条评论` `Python`
-1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351) `34条评论` `iOS`
+1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `119条评论` `汽车`
+1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `36条评论` `随想`
+1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `35条评论` `Python`
+1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351) `35条评论` `iOS`
 1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372) `33条评论` ` WATCH`
-1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404) `31条评论` `随想`
-1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326) `29条评论` `程序员`
+1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404) `32条评论` `随想`
+1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326) `31条评论` `程序员`
 1. [iPhone 质量堪忧](https://www.v2ex.com/t/806353) `29条评论` `Apple`
 1. [2000 以内 4 k 显示器求推荐](https://www.v2ex.com/t/806375) `28条评论` `硬件`
 1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `19条评论` `iPhone`
@@ -28,11 +28,11 @@
 1. [什么是产品逻辑，什么是技术逻辑](https://www.v2ex.com/t/806341) `13条评论` `问与答`
 1. [carplay 连接后手机上的 app 都不推送消息了？](https://www.v2ex.com/t/806340) `13条评论` `iPhone`
 1. [关于眼镜防雾](https://www.v2ex.com/t/806334) `13条评论` `问与答`
+1. [2021 年 10 月 8 日晚 8 点开始预购？](https://www.v2ex.com/t/806434) `12条评论` `MacBook Pro`
 1. [iPhone 12 pm 换 iPhone 13 mini](https://www.v2ex.com/t/806401) `12条评论` `Apple`
 1. [6 年多没开车，迫于不方便想练车哪家陪练好啊](https://www.v2ex.com/t/806397) `12条评论` `问与答`
-1. [iPhone13 官网会提前发货吗](https://www.v2ex.com/t/806394) `12条评论` `Apple`
 
-数据更新于 2021-10-08 07:51:46
+数据更新于 2021-10-08 08:07:37
 
 <!-- TODAY END -->
 
