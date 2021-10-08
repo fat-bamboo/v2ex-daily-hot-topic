@@ -9,16 +9,18 @@
 <!-- TODAY BEGIN -->
 
 1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `109条评论` `汽车`
-1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `32条评论` `Python`
-1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `32条评论` `随想`
+1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `33条评论` `Python`
+1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `33条评论` `随想`
+1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351) `29条评论` `iOS`
 1. [iPhone 质量堪忧](https://www.v2ex.com/t/806353) `29条评论` `Apple`
+1. [2000 以内 4 k 显示器求推荐](https://www.v2ex.com/t/806375) `28条评论` `硬件`
+1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404) `28条评论` `随想`
 1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326) `27条评论` `程序员`
-1. [2000 以内 4 k 显示器求推荐](https://www.v2ex.com/t/806375) `27条评论` `硬件`
-1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404) `23条评论` `随想`
 1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `19条评论` `iPhone`
+1. [卧室购买电视还是显示器（老婆的需求）](https://www.v2ex.com/t/806388) `18条评论` `问与答`
 1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372) `17条评论` ` WATCH`
 1. [V 友们，朋友公司找我做外包，请教下会不会很麻烦？](https://www.v2ex.com/t/806382) `16条评论` `程序员`
-1. [卧室购买电视还是显示器（老婆的需求）](https://www.v2ex.com/t/806388) `15条评论` `问与答`
+1. [請問你們把電子化證件，儲存在哪裡呢？](https://www.v2ex.com/t/806389) `14条评论` `问与答`
 1. [再一次验证 google 邮箱是业界良心，是最好的](https://www.v2ex.com/t/806368) `14条评论` `Google`
 1. [迫于生存压力，计划兼职送外卖，有了解的吗](https://www.v2ex.com/t/806336) `14条评论` `问与答`
 1. [有预测说 MacBook Pro 2021 款将在 10 月 19 号发布。你们觉得靠谱嘛？](https://www.v2ex.com/t/806417) `13条评论` `MacBook Pro`
@@ -26,13 +28,11 @@
 1. [什么是产品逻辑，什么是技术逻辑](https://www.v2ex.com/t/806341) `13条评论` `问与答`
 1. [carplay 连接后手机上的 app 都不推送消息了？](https://www.v2ex.com/t/806340) `13条评论` `iPhone`
 1. [关于眼镜防雾](https://www.v2ex.com/t/806334) `13条评论` `问与答`
+1. [6 年多没开车，迫于不方便想练车哪家陪练好啊](https://www.v2ex.com/t/806397) `12条评论` `问与答`
 1. [iPhone13 官网会提前发货吗](https://www.v2ex.com/t/806394) `12条评论` `Apple`
-1. [請問你們把電子化證件，儲存在哪裡呢？](https://www.v2ex.com/t/806389) `12条评论` `问与答`
 1. [iPhone 12 pm 换 iPhone 13 mini](https://www.v2ex.com/t/806401) `11条评论` `Apple`
-1. [iOS 15.0.1 最新版，下载了应用在资源库里找不到](https://www.v2ex.com/t/806391) `11条评论` `iOS`
-1. [6 年多没开车，迫于不方便想练车哪家陪练好啊](https://www.v2ex.com/t/806397) `10条评论` `问与答`
 
-数据更新于 2021-10-08 07:06:00
+数据更新于 2021-10-08 07:22:16
 
 <!-- TODAY END -->
 
