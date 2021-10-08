@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `96条评论` `汽车`
+1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327) `98条评论` `汽车`
 1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314) `31条评论` `Python`
+1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `24条评论` `随想`
 1. [iPhone 质量堪忧](https://www.v2ex.com/t/806353) `24条评论` `Apple`
 1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326) `23条评论` `程序员`
-1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329) `23条评论` `随想`
 1. [iPhone13Pro 的使用感受，经常在 Android 和 iPhone 之间跳跃的人开始迷茫了](https://www.v2ex.com/t/806378) `17条评论` `iPhone`
-1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372) `14条评论` ` WATCH`
+1. [2000 以内 4 k 显示器求推荐](https://www.v2ex.com/t/806375) `16条评论` `硬件`
+1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372) `16条评论` ` WATCH`
 1. [迫于生存压力，计划兼职送外卖，有了解的吗](https://www.v2ex.com/t/806336) `14条评论` `问与答`
 1. [V 友们，朋友公司找我做外包，请教下会不会很麻烦？](https://www.v2ex.com/t/806382) `13条评论` `程序员`
-1. [2000 以内 4 k 显示器求推荐](https://www.v2ex.com/t/806375) `13条评论` `硬件`
+1. [再一次验证 google 邮箱是业界良心，是最好的](https://www.v2ex.com/t/806368) `13条评论` `Google`
 1. [什么是产品逻辑，什么是技术逻辑](https://www.v2ex.com/t/806341) `13条评论` `问与答`
 1. [carplay 连接后手机上的 app 都不推送消息了？](https://www.v2ex.com/t/806340) `13条评论` `iPhone`
 1. [关于眼镜防雾](https://www.v2ex.com/t/806334) `13条评论` `问与答`
-1. [再一次验证 google 邮箱是业界良心，是最好的](https://www.v2ex.com/t/806368) `12条评论` `Google`
 1. [請問你們把電子化證件，儲存在哪裡呢？](https://www.v2ex.com/t/806389) `10条评论` `问与答`
 1. [迫于不懂，亮度一样的情况下，纯白色和纯黑色耗电区别？](https://www.v2ex.com/t/806362) `10条评论` `问与答`
+1. [iPhone13 官网会提前发货吗](https://www.v2ex.com/t/806394) `9条评论` `Apple`
 1. [对于这种收费的个人博客大家怎么看？](https://www.v2ex.com/t/806379) `9条评论` `问与答`
+1. [iPhone 12 pm 换 iPhone 13 mini](https://www.v2ex.com/t/806401) `8条评论` `Apple`
+1. [领导交代一个没边没界的事情，应该怎样才能很好的完成它呢？](https://www.v2ex.com/t/806385) `8条评论` `问与答`
 1. [对比几个 iOS 15 Safari 免费的黑暗模式扩展](https://www.v2ex.com/t/806352) `8条评论` `iOS`
-1. [领导交代一个没边没界的事情，应该怎样才能很好的完成它呢？](https://www.v2ex.com/t/806385) `7条评论` `问与答`
+1. [V 友们，请问有没有统计代码提交时间占比的工具，想统计加班时间](https://www.v2ex.com/t/806367) `7条评论` `职场话题`
 1. [向银行借 5 万块钱，求推荐低利率靠谱产品](https://www.v2ex.com/t/806363) `7条评论` `问与答`
-1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351) `7条评论` `iOS`
-1. [iPhone13 官网会提前发货吗](https://www.v2ex.com/t/806394) `6条评论` `Apple`
-1. [卧室购买电视还是显示器（老婆的需求）](https://www.v2ex.com/t/806388) `6条评论` `问与答`
 
-数据更新于 2021-10-08 05:41:49
+数据更新于 2021-10-08 05:51:47
 
 <!-- TODAY END -->
 
