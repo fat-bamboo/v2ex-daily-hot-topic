@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [google 搜中文太毒了吧，是不是已经放弃中文搜索了](https://www.v2ex.com/t/806592) `30条评论` `Google`
+1. [google 搜中文太毒了吧，是不是已经放弃中文搜索了](https://www.v2ex.com/t/806592) `38条评论` `Google`
 1. [各位支付宝积分都兑换什么？](https://www.v2ex.com/t/806565) `26条评论` `问与答`
-1. [大家平时都通过什么渠道看新闻？](https://www.v2ex.com/t/806590) `21条评论` `问与答`
+1. [大家平时都通过什么渠道看新闻？](https://www.v2ex.com/t/806590) `25条评论` `问与答`
+1. [watch 7 系列 +800 上蜂窝版有必要吗？](https://www.v2ex.com/t/806595) `20条评论` `Apple`
 1. [机器被车子压了，只剩下个尸体， apple care 还管吗？](https://www.v2ex.com/t/806574) `19条评论` `Apple`
-1. [watch 7 系列 +800 上蜂窝版有必要吗？](https://www.v2ex.com/t/806595) `18条评论` `Apple`
 1. [口罩影响 Face ID，我有一计给苹果](https://www.v2ex.com/t/806566) `16条评论` `iPhone`
 1. [上海互联网大厂分布图](https://www.v2ex.com/t/806564) `14条评论` `职场话题`
 1. [大家伙晚上睡觉的时候会把手机的 wifi 给关掉吗？](https://www.v2ex.com/t/806599) `13条评论` `问与答`
@@ -22,13 +22,16 @@
 1. [有什么推荐的 todo 程序](https://www.v2ex.com/t/806580) `11条评论` `问与答`
 1. [求推荐 json 在线格式检查工具 能提示出错的行数位置](https://www.v2ex.com/t/806579) `11条评论` `问与答`
 1. [win10 怎样禁止一个文件夹下所有的程序联网？](https://www.v2ex.com/t/806582) `9条评论` `Windows`
+1. [iPhone13mini+watch 蜂窝版 能代替双卡双待吗？](https://www.v2ex.com/t/806593) `8条评论` `iPhone`
 1. [转转/爱回收 体验](https://www.v2ex.com/t/806587) `8条评论` `Apple`
 1. [V2EX 收藏主题的功能随机失效，刷新页面后正常](https://www.v2ex.com/t/806570) `8条评论` `反馈`
+1. [第一次在这里（间接）找 v 友干活就被跑路了。。。](https://www.v2ex.com/t/806616) `7条评论` `程序员`
 1. [20W 左右预算买豪华品牌 SUV，选择宝马 X1 2021 款 改款 sDrive20Li 时尚型，怎么样？](https://www.v2ex.com/t/806608) `7条评论` `汽车`
-1. [iPhone13mini+watch 蜂窝版 能代替双卡双待吗？](https://www.v2ex.com/t/806593) `7条评论` `iPhone`
 1. [大家有没有遇到微信群看不到个别聊天记录的情况？](https://www.v2ex.com/t/806569) `7条评论` `微信`
+1. [“知乎”和“百度贴吧”APP 是我用过体验最差的。](https://www.v2ex.com/t/806624) `6条评论` `程序员`
+1. [MacBook Pro 连接双 4k 显示器卡顿有没有解决办法？](https://www.v2ex.com/t/806613) `6条评论` `MacBook Pro`
 
-数据更新于 2021-10-09 03:24:35
+数据更新于 2021-10-09 03:35:45
 
 <!-- TODAY END -->
 
