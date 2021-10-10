@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `73条评论` `问与答`
-1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `55条评论` `哔哩哔哩`
+1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `75条评论` `问与答`
+1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `57条评论` `哔哩哔哩`
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `47条评论` `Apple`
 1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `46条评论` `Apple`
-1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `35条评论` `Apple`
+1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `37条评论` `Apple`
 1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `28条评论` `Google`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `24条评论` `职场话题`
 1. [安卓上最好的浏览器是 Firefox Nightly](https://www.v2ex.com/t/806872) `20条评论` `分享发现`
-1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `16条评论` `Apple`
+1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `17条评论` `Apple`
 1. [iPhone 信任公司私有 App 会有哪些额外的安全和隐私风险？](https://www.v2ex.com/t/806820) `15条评论` `iPhone`
 1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808) `15条评论` `问与答`
 1. [北邮的电视直播网站下线了？](https://www.v2ex.com/t/806814) `14条评论` `问与答`
@@ -27,12 +27,12 @@
 1. [今天去实体店看了下 iphone13，拍了张照仔细一看，的确有屏闪](https://www.v2ex.com/t/806846) `12条评论` `iPhone`
 1. [怎么理解“弹性工作制，拒绝低效率加班”这句话](https://www.v2ex.com/t/806831) `12条评论` `职场话题`
 1. [sql update where set 字段相同，这个要怎么写呢](https://www.v2ex.com/t/806833) `9条评论` `MySQL`
+1. [求推荐 iPhone12/13 无限充电器](https://www.v2ex.com/t/806889) `8条评论` `iPhone`
 1. [哪家运营商支持 Factime 使用移动网络拨打视频电话？](https://www.v2ex.com/t/806880) `8条评论` `iOS`
+1. [为什么 win10 复制文件遇到冲突后就干脆不复制了？](https://www.v2ex.com/t/806871) `8条评论` `Windows`
 1. [请问一下这个 RSA 密钥经过了怎么处理呀](https://www.v2ex.com/t/806864) `8条评论` `Java`
-1. [生命的意义是什么？](https://www.v2ex.com/t/806851) `8条评论` `知乎`
-1. [求推荐 iPhone12/13 无限充电器](https://www.v2ex.com/t/806889) `7条评论` `iPhone`
 
-数据更新于 2021-10-10 13:51:52
+数据更新于 2021-10-10 14:06:13
 
 <!-- TODAY END -->
 
