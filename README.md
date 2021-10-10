@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `98条评论` `问与答`
-1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `66条评论` `哔哩哔哩`
+1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `67条评论` `哔哩哔哩`
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `51条评论` `Apple`
 1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `47条评论` `Apple`
 1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `46条评论` `Apple`
@@ -18,7 +18,7 @@
 1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `31条评论` `Google`
 1. [安卓上最好的浏览器是 Firefox Nightly](https://www.v2ex.com/t/806872) `28条评论` `分享发现`
 1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890) `25条评论` `Windows`
-1. [小米 yeelight 吸顶灯有人用过吗？](https://www.v2ex.com/t/806887) `20条评论` `问与答`
+1. [小米 yeelight 吸顶灯有人用过吗？](https://www.v2ex.com/t/806887) `21条评论` `问与答`
 1. [求推荐 iPhone12/13 无限充电器](https://www.v2ex.com/t/806889) `18条评论` `iPhone`
 1. [iOS 的后台应用刷新到底有啥用](https://www.v2ex.com/t/806896) `17条评论` `iPhone`
 1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `17条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [弱弱的说一句: Windows 11 的一些设计降低了工作效率](https://www.v2ex.com/t/806925) `12条评论` `Windows`
 1. [哪家运营商支持 Factime 使用移动网络拨打视频电话？](https://www.v2ex.com/t/806880) `12条评论` `iOS`
 
-数据更新于 2021-10-10 23:42:15
+数据更新于 2021-10-10 23:51:40
 
 <!-- TODAY END -->
 
