@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `33条评论` `Apple`
-1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `30条评论` `Apple`
+1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `31条评论` `Apple`
 1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `22条评论` `哔哩哔哩`
-1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `16条评论` `Apple`
+1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `17条评论` `Apple`
 1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `14条评论` `Google`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `14条评论` `职场话题`
 1. [美区 Apple ID 登陆不了 Apple store 了，该怎么办？](https://www.v2ex.com/t/806798) `13条评论` `问与答`
@@ -21,7 +21,7 @@
 1. [sql update where set 字段相同，这个要怎么写呢](https://www.v2ex.com/t/806833) `6条评论` `MySQL`
 1. [怎么理解“弹性工作制，拒绝低效率加班”这句话](https://www.v2ex.com/t/806831) `6条评论` `职场话题`
 
-数据更新于 2021-10-10 06:43:28
+数据更新于 2021-10-10 06:52:42
 
 <!-- TODAY END -->
 
