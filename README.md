@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `86条评论` `问与答`
-1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `60条评论` `哔哩哔哩`
+1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `88条评论` `问与答`
+1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `62条评论` `哔哩哔哩`
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `49条评论` `Apple`
 1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `46条评论` `Apple`
 1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `42条评论` `Apple`
@@ -17,9 +17,10 @@
 1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808) `27条评论` `问与答`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `26条评论` `职场话题`
 1. [安卓上最好的浏览器是 Firefox Nightly](https://www.v2ex.com/t/806872) `26条评论` `分享发现`
-1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890) `20条评论` `Windows`
+1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890) `21条评论` `Windows`
 1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `17条评论` `Apple`
 1. [iPhone 信任公司私有 App 会有哪些额外的安全和隐私风险？](https://www.v2ex.com/t/806820) `15条评论` `iPhone`
+1. [为什么 win10 复制文件遇到冲突后就干脆不复制了？](https://www.v2ex.com/t/806871) `14条评论` `Windows`
 1. [北邮的电视直播网站下线了？](https://www.v2ex.com/t/806814) `14条评论` `问与答`
 1. [好奇： 关于 pdd 上小米蓝牙温度湿度计 2 的价格](https://www.v2ex.com/t/806832) `13条评论` `小米`
 1. [美区 Apple ID 登陆不了 Apple store 了，该怎么办？](https://www.v2ex.com/t/806798) `13条评论` `问与答`
@@ -29,10 +30,9 @@
 1. [怎么理解“弹性工作制，拒绝低效率加班”这句话](https://www.v2ex.com/t/806831) `12条评论` `职场话题`
 1. [iOS 的后台应用刷新到底有啥用](https://www.v2ex.com/t/806896) `11条评论` `iPhone`
 1. [求推荐 iPhone12/13 无限充电器](https://www.v2ex.com/t/806889) `11条评论` `iPhone`
-1. [为什么 win10 复制文件遇到冲突后就干脆不复制了？](https://www.v2ex.com/t/806871) `11条评论` `Windows`
 1. [哪家运营商支持 Factime 使用移动网络拨打视频电话？](https://www.v2ex.com/t/806880) `9条评论` `iOS`
 
-数据更新于 2021-10-10 15:24:06
+数据更新于 2021-10-10 15:37:06
 
 <!-- TODAY END -->
 
