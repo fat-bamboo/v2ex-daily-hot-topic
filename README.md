@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `35条评论` `Apple`
-1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `32条评论` `Apple`
+1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `33条评论` `Apple`
 1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `32条评论` `哔哩哔哩`
 1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `28条评论` `Apple`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `22条评论` `职场话题`
@@ -26,7 +26,7 @@
 1. [[早期创业公司招聘] 加入会给不错的期权占比](https://www.v2ex.com/t/806817) `6条评论` `酷工作`
 1. [基于 VSCode Server 搭建一个个人云端 IDE](https://www.v2ex.com/t/806803) `6条评论` `分享创造`
 
-数据更新于 2021-10-10 08:38:29
+数据更新于 2021-10-10 08:45:17
 
 <!-- TODAY END -->
 
