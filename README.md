@@ -8,13 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `29条评论` `Apple`
+1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `30条评论` `Apple`
 1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `21条评论` `Apple`
-1. [美区 Apple ID 登陆不了 Apple store 了，该怎么办？](https://www.v2ex.com/t/806798) `8条评论` `问与答`
+1. [美区 Apple ID 登陆不了 Apple store 了，该怎么办？](https://www.v2ex.com/t/806798) `9条评论` `问与答`
+1. [iPhone 信任公司私有 App 会有哪些额外的安全和隐私风险？](https://www.v2ex.com/t/806820) `8条评论` `iPhone`
+1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `8条评论` `Google`
 1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808) `7条评论` `问与答`
+1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `6条评论` `问与答`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `6条评论` `职场话题`
 
-数据更新于 2021-10-10 03:51:44
+数据更新于 2021-10-10 04:07:12
 
 <!-- TODAY END -->
 
