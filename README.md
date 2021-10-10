@@ -9,17 +9,17 @@
 <!-- TODAY BEGIN -->
 
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `32条评论` `Apple`
-1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `24条评论` `Apple`
-1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `12条评论` `Google`
-1. [iPhone 信任公司私有 App 会有哪些额外的安全和隐私风险？](https://www.v2ex.com/t/806820) `11条评论` `iPhone`
-1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `11条评论` `职场话题`
+1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `25条评论` `Apple`
+1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `14条评论` `Google`
+1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `12条评论` `问与答`
+1. [iPhone 信任公司私有 App 会有哪些额外的安全和隐私风险？](https://www.v2ex.com/t/806820) `12条评论` `iPhone`
+1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `12条评论` `职场话题`
+1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `11条评论` `Apple`
 1. [美区 Apple ID 登陆不了 Apple store 了，该怎么办？](https://www.v2ex.com/t/806798) `11条评论` `问与答`
-1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `9条评论` `问与答`
-1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `9条评论` `Apple`
-1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808) `8条评论` `问与答`
-1. [北邮的电视直播网站下线了？](https://www.v2ex.com/t/806814) `6条评论` `问与答`
+1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808) `9条评论` `问与答`
+1. [北邮的电视直播网站下线了？](https://www.v2ex.com/t/806814) `7条评论` `问与答`
 
-数据更新于 2021-10-10 05:20:23
+数据更新于 2021-10-10 05:31:41
 
 <!-- TODAY END -->
 
