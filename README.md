@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `47条评论` `哔哩哔哩`
+1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `48条评论` `哔哩哔哩`
+1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `48条评论` `问与答`
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `43条评论` `Apple`
-1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `43条评论` `问与答`
-1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `37条评论` `Apple`
+1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `38条评论` `Apple`
 1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `34条评论` `Apple`
 1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `26条评论` `Google`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `22条评论` `职场话题`
@@ -22,15 +22,15 @@
 1. [美区 Apple ID 登陆不了 Apple store 了，该怎么办？](https://www.v2ex.com/t/806798) `13条评论` `问与答`
 1. [今天去实体店看了下 iphone13，拍了张照仔细一看，的确有屏闪](https://www.v2ex.com/t/806846) `12条评论` `iPhone`
 1. [怎么理解“弹性工作制，拒绝低效率加班”这句话](https://www.v2ex.com/t/806831) `12条评论` `职场话题`
+1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `10条评论` `Apple`
 1. [sql update where set 字段相同，这个要怎么写呢](https://www.v2ex.com/t/806833) `9条评论` `MySQL`
 1. [请问一下这个 RSA 密钥经过了怎么处理呀](https://www.v2ex.com/t/806864) `8条评论` `Java`
-1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `8条评论` `Apple`
 1. [生命的意义是什么？](https://www.v2ex.com/t/806851) `7条评论` `知乎`
 1. [iPhone 13 Pro/Pro Max 摄像头有一点点灰尘](https://www.v2ex.com/t/806825) `7条评论` `iPhone`
 1. [[早期创业公司招聘] 加入会给不错的期权占比](https://www.v2ex.com/t/806817) `6条评论` `酷工作`
 1. [基于 VSCode Server 搭建一个个人云端 IDE](https://www.v2ex.com/t/806803) `6条评论` `分享创造`
 
-数据更新于 2021-10-10 11:04:39
+数据更新于 2021-10-10 11:19:13
 
 <!-- TODAY END -->
 
