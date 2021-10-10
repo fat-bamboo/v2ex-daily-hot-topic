@@ -11,13 +11,13 @@
 1. [有没有老哥一年四季一直喝凉水的？](https://www.v2ex.com/t/806853) `98条评论` `问与答`
 1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822) `64条评论` `哔哩哔哩`
 1. [13pM 一晚上耗电 40%多，后台全关+省电模式](https://www.v2ex.com/t/806801) `51条评论` `Apple`
+1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `46条评论` `Apple`
 1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819) `46条评论` `Apple`
-1. [罗技 MX Keys 终于出 Mini 了](https://www.v2ex.com/t/806799) `45条评论` `Apple`
 1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808) `32条评论` `问与答`
 1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815) `31条评论` `职场话题`
 1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816) `31条评论` `Google`
 1. [安卓上最好的浏览器是 Firefox Nightly](https://www.v2ex.com/t/806872) `28条评论` `分享发现`
-1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890) `24条评论` `Windows`
+1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890) `25条评论` `Windows`
 1. [iOS 的后台应用刷新到底有啥用](https://www.v2ex.com/t/806896) `17条评论` `iPhone`
 1. [求推荐 iPhone12/13 无限充电器](https://www.v2ex.com/t/806889) `17条评论` `iPhone`
 1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858) `17条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [哪家运营商支持 Factime 使用移动网络拨打视频电话？](https://www.v2ex.com/t/806880) `12条评论` `iOS`
 1. [今天去实体店看了下 iphone13，拍了张照仔细一看，的确有屏闪](https://www.v2ex.com/t/806846) `12条评论` `iPhone`
 
-数据更新于 2021-10-10 20:23:23
+数据更新于 2021-10-10 20:33:02
 
 <!-- TODAY END -->
 
