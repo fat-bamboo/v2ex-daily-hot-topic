@@ -10,10 +10,10 @@
 
 1. [各位觉得有必要买社保吗？](https://www.v2ex.com/t/806939) `93条评论` `问与答`
 1. [打算注册个公司，求赐一个名](https://www.v2ex.com/t/806941) `79条评论` `奇思妙想`
-1. [MIUI 的手机目前有啥推荐的吗？ k30s 至尊纪念版、k40、还是即将要发布的 k40s？](https://www.v2ex.com/t/806981) `73条评论` `Android`
-1. [1password 太烂了，为何这么多人开车？](https://www.v2ex.com/t/806965) `62条评论` `信息安全`
-1. [差价 1300，买 watch7 不锈钢版有必要吗？](https://www.v2ex.com/t/806940) `48条评论` `Apple`
-1. [如何不让猫用沙发磨抓？](https://www.v2ex.com/t/806972) `30条评论` `问与答`
+1. [MIUI 的手机目前有啥推荐的吗？ k30s 至尊纪念版、k40、还是即将要发布的 k40s？](https://www.v2ex.com/t/806981) `75条评论` `Android`
+1. [1password 太烂了，为何这么多人开车？](https://www.v2ex.com/t/806965) `63条评论` `信息安全`
+1. [差价 1300，买 watch7 不锈钢版有必要吗？](https://www.v2ex.com/t/806940) `49条评论` `Apple`
+1. [如何不让猫用沙发磨抓？](https://www.v2ex.com/t/806972) `47条评论` `宠物`
 1. [iPhone 短信怎么拦截垃圾短信啊](https://www.v2ex.com/t/807026) `25条评论` `iPhone`
 1. [索尼电视到手了，求安装的 app](https://www.v2ex.com/t/806933) `25条评论` `问与答`
 1. [应不应该离职](https://www.v2ex.com/t/807016) `24条评论` `职场话题`
@@ -24,15 +24,15 @@
 1. [请 V2EXER 推荐带卫星云图 (Rain Radar) 的 Android 天气预报 APP](https://www.v2ex.com/t/806969) `15条评论` `Android`
 1. [身为一个新时代农民工，你愿意冥想吗？](https://www.v2ex.com/t/806932) `15条评论` `奇思妙想`
 1. [怎样用一种优雅的方式上网？](https://www.v2ex.com/t/806944) `14条评论` `问与答`
+1. [树莓派啥时候回到正常点的价格呀](https://www.v2ex.com/t/807024) `12条评论` `Linux`
+1. [又到了秋季，买袜子好困难](https://www.v2ex.com/t/807056) `11条评论` `问与答`
 1. [苹果官网上买的手机壳在没拆封的情况下可以退吗](https://www.v2ex.com/t/807033) `11条评论` `Apple`
 1. [来 v 站分享一个钓鱼站](https://www.v2ex.com/t/807032) `11条评论` `信息安全`
+1. [十月有发布会吗](https://www.v2ex.com/t/807030) `11条评论` `Apple`
 1. [女朋友三天后生日，如何才能在不加价的情况下在生日当天送她一台粉色或者星空色的 128g iPhone13](https://www.v2ex.com/t/806983) `11条评论` `Apple`
 1. [今年春天，我放生了一条鲨鱼](https://www.v2ex.com/t/806948) `11条评论` `随想`
-1. [树莓派啥时候回到正常点的价格呀](https://www.v2ex.com/t/807024) `10条评论` `Linux`
-1. [想知道有阅读类 app 针对 ltpo 做优化吗，比如停止滑动时瞬间帧数掉落到 1hz 这样的](https://www.v2ex.com/t/806985) `10条评论` `Android`
-1. [有没有公司用 Python 或者 django 搭建集群、微服务成功的案例？](https://www.v2ex.com/t/806949) `10条评论` `Python`
 
-数据更新于 2021-10-11 07:22:48
+数据更新于 2021-10-11 07:32:56
 
 <!-- TODAY END -->
 
