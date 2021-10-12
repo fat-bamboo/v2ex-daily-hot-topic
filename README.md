@@ -13,7 +13,7 @@
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `63条评论` `问与答`
 1. [同事有一台 macbook pro 16 打算出给我，大佬们看看划算吗，](https://www.v2ex.com/t/807267) `63条评论` `MacBook Pro`
 1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `57条评论` `职场话题`
-1. [27 寸买 2K 还是 4K？只用 WIn11+写代码、看 YouTube+不玩游戏](https://www.v2ex.com/t/807282) `46条评论` `硬件`
+1. [27 寸买 2K 还是 4K？只用 WIn11+写代码、看 YouTube+不玩游戏](https://www.v2ex.com/t/807282) `47条评论` `硬件`
 1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `44条评论` `数据库`
 1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `42条评论` `硬件`
 1. [看了小白测评的 13pro 的续航后瞬间觉得 13pro 不香了](https://www.v2ex.com/t/807290) `41条评论` `Apple`
@@ -24,15 +24,15 @@
 1. [全栈码工电脑需要多少内存](https://www.v2ex.com/t/807387) `21条评论` `硬件`
 1. [想请教一下你们怎么管理苹果相册](https://www.v2ex.com/t/807317) `18条评论` `Apple`
 1. [apple 推出 IronHeart，对开发者来说，是否会成为下一个机会？](https://www.v2ex.com/t/807191) `18条评论` `问与答`
+1. [Ubuntu Desktop 作为服务器系统有必要定时重启吗](https://www.v2ex.com/t/807401) `17条评论` `Ubuntu`
 1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `17条评论` `Raspberry Pi`
 1. [行车记录仪的 h264 和 h265 编码的视频大小为何一样?](https://www.v2ex.com/t/807217) `17条评论` `问与答`
 1. [Bitwarden 被墙](https://www.v2ex.com/t/807213) `17条评论` `宽带症候群`
-1. [Ubuntu Desktop 作为服务器系统有必要定时重启吗](https://www.v2ex.com/t/807401) `16条评论` `Ubuntu`
 1. [请教下各位 React 的函数组件比类组件好在哪里？](https://www.v2ex.com/t/807306) `16条评论` `React`
 1. [迫于穷，砖头手机，如何方便携带？](https://www.v2ex.com/t/807202) `16条评论` `生活`
 1. [这里搞 AI 的多吗，问个问题](https://www.v2ex.com/t/807396) `15条评论` `Python`
 
-数据更新于 2021-10-12 14:41:38
+数据更新于 2021-10-12 14:51:52
 
 <!-- TODAY END -->
 
