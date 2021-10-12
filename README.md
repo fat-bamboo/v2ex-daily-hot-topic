@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `58条评论` `Apple`
+1. [生活琐事贴：老爹想买辆 13 万的 SUV 油车和我的一些想法](https://www.v2ex.com/t/807299) `56条评论` `生活`
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `55条评论` `问与答`
-1. [生活琐事贴：老爹想买辆 13 万的 SUV 油车和我的一些想法](https://www.v2ex.com/t/807299) `55条评论` `生活`
 1. [同事有一台 macbook pro 16 打算出给我，大佬们看看划算吗，](https://www.v2ex.com/t/807267) `46条评论` `MacBook Pro`
 1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `39条评论` `数据库`
 1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `35条评论` `职场话题`
@@ -18,9 +18,9 @@
 1. [看了小白测评的 13pro 的续航后瞬间觉得 13pro 不香了](https://www.v2ex.com/t/807290) `27条评论` `Apple`
 1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `23条评论` `Apple`
 1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `20条评论` `硬件`
+1. [各位升级到 windows11 之后使用体验如何？我快被 windows defender 逼疯了(╬◣д◢)！](https://www.v2ex.com/t/807331) `19条评论` `Windows`
 1. [27 寸买 2K 还是 4K？只用 WIn11+写代码、看 YouTube+不玩游戏](https://www.v2ex.com/t/807282) `19条评论` `硬件`
 1. [apple 推出 IronHeart，对开发者来说，是否会成为下一个机会？](https://www.v2ex.com/t/807191) `18条评论` `问与答`
-1. [各位升级到 windows11 之后使用体验如何？我快被 windows defender 逼疯了(╬◣д◢)！](https://www.v2ex.com/t/807331) `17条评论` `Windows`
 1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `17条评论` `Raspberry Pi`
 1. [行车记录仪的 h264 和 h265 编码的视频大小为何一样?](https://www.v2ex.com/t/807217) `17条评论` `问与答`
 1. [Bitwarden 被墙](https://www.v2ex.com/t/807213) `17条评论` `宽带症候群`
@@ -32,7 +32,7 @@
 1. [我们大青岛竟然也有 IT BlackList](https://www.v2ex.com/t/807208) `13条评论` `青岛`
 1. [恢复以前版本的右键菜单, 支持最新版(22000.194)](https://www.v2ex.com/t/807197) `13条评论` `Windows`
 
-数据更新于 2021-10-12 08:41:33
+数据更新于 2021-10-12 08:51:45
 
 <!-- TODAY END -->
 
