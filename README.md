@@ -25,14 +25,14 @@
 1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `23条评论` `Apple`
 1. [右手网出品]上手体验两周后，我决定用回 iPhone 12 Pro Max： iPhone 13 Pro/Max 上手体验评测-信号，屏幕，白平衡，影像实力](https://www.v2ex.com/t/807411) `22条评论` `iPhone`
 1. [Ubuntu Desktop 作为服务器系统有必要定时重启吗](https://www.v2ex.com/t/807401) `20条评论` `Ubuntu`
+1. [这里搞 AI 的多吗，问个问题](https://www.v2ex.com/t/807396) `18条评论` `Python`
 1. [想请教一下你们怎么管理苹果相册](https://www.v2ex.com/t/807317) `18条评论` `Apple`
 1. [apple 推出 IronHeart，对开发者来说，是否会成为下一个机会？](https://www.v2ex.com/t/807191) `18条评论` `问与答`
-1. [这里搞 AI 的多吗，问个问题](https://www.v2ex.com/t/807396) `17条评论` `Python`
 1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `17条评论` `Raspberry Pi`
 1. [行车记录仪的 h264 和 h265 编码的视频大小为何一样?](https://www.v2ex.com/t/807217) `17条评论` `问与答`
 1. [Bitwarden 被墙](https://www.v2ex.com/t/807213) `17条评论` `宽带症候群`
 
-数据更新于 2021-10-12 17:38:17
+数据更新于 2021-10-12 17:45:18
 
 <!-- TODAY END -->
 
