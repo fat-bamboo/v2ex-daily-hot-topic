@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
+1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `32条评论` `Apple`
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `32条评论` `问与答`
 1. [大量人脸照片学习](https://www.v2ex.com/t/807214) `30条评论` `问与答`
-1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `28条评论` `Apple`
+1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `25条评论` `程序员`
 1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `22条评论` `Apple`
-1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `22条评论` `程序员`
+1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `18条评论` `职场话题`
 1. [apple 推出 IronHeart，对开发者来说，是否会成为下一个机会？](https://www.v2ex.com/t/807191) `18条评论` `问与答`
 1. [行车记录仪的 h264 和 h265 编码的视频大小为何一样?](https://www.v2ex.com/t/807217) `17条评论` `问与答`
 1. [Bitwarden 被墙](https://www.v2ex.com/t/807213) `17条评论` `宽带症候群`
-1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `16条评论` `职场话题`
+1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `16条评论` `硬件`
 1. [迫于穷，砖头手机，如何方便携带？](https://www.v2ex.com/t/807202) `16条评论` `生活`
 1. [请教大佬有关 http/3 支持的问题](https://www.v2ex.com/t/807196) `15条评论` `HTTP`
-1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `14条评论` `硬件`
 1. [现在买 Macbook Air 合适吗](https://www.v2ex.com/t/807222) `13条评论` `MacBook`
 1. [我们大青岛竟然也有 IT BlackList](https://www.v2ex.com/t/807208) `13条评论` `青岛`
 1. [恢复以前版本的右键菜单, 支持最新版(22000.194)](https://www.v2ex.com/t/807197) `13条评论` `Windows`
+1. [新款 AirPods， Mac 要来了（10 月 18 日发布会）](https://www.v2ex.com/t/807261) `9条评论` `Apple`
 1. [朋友们，求推荐一个 mac 和 win 双平台显示器](https://www.v2ex.com/t/807218) `9条评论` `问与答`
 1. [请问上海这边可以用医保做体检吗](https://www.v2ex.com/t/807205) `9条评论` `上海`
-1. [新款 AirPods， Mac 要来了（10 月 18 日发布会）](https://www.v2ex.com/t/807261) `8条评论` `Apple`
 1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `8条评论` `Raspberry Pi`
 1. [如何利用 nginx 备份源地址网站文件到 B 服务器上存储？](https://www.v2ex.com/t/807224) `8条评论` `NGINX`
+1. [Google 搜索 seo 问题，对 Android 浏览器有什么办法么？](https://www.v2ex.com/t/807232) `7条评论` `Google`
 1. [凌晨梦中去参加了鱿鱼游戏。](https://www.v2ex.com/t/807229) `7条评论` `梦`
 1. [请教这是什么风格的插画？](https://www.v2ex.com/t/807209) `7条评论` `问与答`
-1. [简单好用的一个图片压缩工具](https://www.v2ex.com/t/807207) `7条评论` `分享创造`
 
-数据更新于 2021-10-12 05:05:01
+数据更新于 2021-10-12 05:21:06
 
 <!-- TODAY END -->
 
