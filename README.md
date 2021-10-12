@@ -12,7 +12,7 @@
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `34条评论` `问与答`
 1. [大量人脸照片学习](https://www.v2ex.com/t/807214) `30条评论` `问与答`
 1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `25条评论` `程序员`
-1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `22条评论` `Apple`
+1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `23条评论` `Apple`
 1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `21条评论` `职场话题`
 1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `20条评论` `硬件`
 1. [apple 推出 IronHeart，对开发者来说，是否会成为下一个机会？](https://www.v2ex.com/t/807191) `18条评论` `问与答`
@@ -23,16 +23,16 @@
 1. [现在买 Macbook Air 合适吗](https://www.v2ex.com/t/807222) `13条评论` `MacBook`
 1. [我们大青岛竟然也有 IT BlackList](https://www.v2ex.com/t/807208) `13条评论` `青岛`
 1. [恢复以前版本的右键菜单, 支持最新版(22000.194)](https://www.v2ex.com/t/807197) `13条评论` `Windows`
-1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `11条评论` `Raspberry Pi`
-1. [黑苹果 uhd630 核显 是不是带不动 4k60hz](https://www.v2ex.com/t/807265) `9条评论` `macOS`
+1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `12条评论` `Raspberry Pi`
+1. [黑苹果 uhd630 核显 是不是带不动 4k60hz](https://www.v2ex.com/t/807265) `10条评论` `macOS`
 1. [新款 AirPods， Mac 要来了（10 月 18 日发布会）](https://www.v2ex.com/t/807261) `9条评论` `Apple`
+1. [一个微博热搜实时推送频道](https://www.v2ex.com/t/807248) `9条评论` `分享创造`
 1. [凌晨梦中去参加了鱿鱼游戏。](https://www.v2ex.com/t/807229) `9条评论` `梦`
 1. [朋友们，求推荐一个 mac 和 win 双平台显示器](https://www.v2ex.com/t/807218) `9条评论` `问与答`
 1. [请问上海这边可以用医保做体检吗](https://www.v2ex.com/t/807205) `9条评论` `上海`
 1. [微星迫击炮 b460m，接电无法点亮主板的问题](https://www.v2ex.com/t/807256) `8条评论` `问与答`
-1. [一个微博热搜实时推送频道](https://www.v2ex.com/t/807248) `8条评论` `分享创造`
 
-数据更新于 2021-10-12 05:41:58
+数据更新于 2021-10-12 05:51:48
 
 <!-- TODAY END -->
 
