@@ -9,20 +9,24 @@
 <!-- TODAY BEGIN -->
 
 1. [大量人脸照片学习](https://www.v2ex.com/t/807214) `30条评论` `问与答`
-1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `24条评论` `问与答`
+1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `27条评论` `问与答`
+1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `18条评论` `程序员`
 1. [apple 推出 IronHeart，对开发者来说，是否会成为下一个机会？](https://www.v2ex.com/t/807191) `18条评论` `问与答`
-1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `16条评论` `程序员`
 1. [行车记录仪的 h264 和 h265 编码的视频大小为何一样?](https://www.v2ex.com/t/807217) `16条评论` `问与答`
-1. [迫于穷，砖头手机，如何方便携带？](https://www.v2ex.com/t/807202) `15条评论` `生活`
+1. [迫于穷，砖头手机，如何方便携带？](https://www.v2ex.com/t/807202) `16条评论` `生活`
 1. [请教大佬有关 http/3 支持的问题](https://www.v2ex.com/t/807196) `15条评论` `HTTP`
+1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `14条评论` `Apple`
+1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `13条评论` `Apple`
 1. [恢复以前版本的右键菜单, 支持最新版(22000.194)](https://www.v2ex.com/t/807197) `13条评论` `Windows`
-1. [咸鱼上散装的 apple 配件是否靠谱？](https://www.v2ex.com/t/807234) `9条评论` `Apple`
-1. [我们大青岛竟然也有 IT BlackList](https://www.v2ex.com/t/807208) `8条评论` `青岛`
+1. [我们大青岛竟然也有 IT BlackList](https://www.v2ex.com/t/807208) `11条评论` `青岛`
+1. [Bitwarden 被墙](https://www.v2ex.com/t/807213) `10条评论` `宽带症候群`
+1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `8条评论` `硬件`
+1. [如何利用 nginx 备份源地址网站文件到 B 服务器上存储？](https://www.v2ex.com/t/807224) `7条评论` `NGINX`
 1. [现在买 Macbook Air 合适吗](https://www.v2ex.com/t/807222) `7条评论` `MacBook`
-1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `6条评论` `Apple`
-1. [简单好用的一个图片压缩工具](https://www.v2ex.com/t/807207) `6条评论` `分享创造`
+1. [简单好用的一个图片压缩工具](https://www.v2ex.com/t/807207) `7条评论` `分享创造`
+1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `6条评论` `职场话题`
 
-数据更新于 2021-10-12 03:06:11
+数据更新于 2021-10-12 03:25:07
 
 <!-- TODAY END -->
 
