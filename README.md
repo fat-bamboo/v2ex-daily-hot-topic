@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [生活琐事贴：老爹想买辆 13 万的 SUV 油车和我的一些想法](https://www.v2ex.com/t/807299) `88条评论` `生活`
-1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `65条评论` `Apple`
+1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `66条评论` `Apple`
+1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `61条评论` `问与答`
 1. [同事有一台 macbook pro 16 打算出给我，大佬们看看划算吗，](https://www.v2ex.com/t/807267) `61条评论` `MacBook Pro`
-1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `60条评论` `问与答`
-1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `48条评论` `职场话题`
+1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `49条评论` `职场话题`
 1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `40条评论` `数据库`
 1. [大量人脸照片学习](https://www.v2ex.com/t/807214) `30条评论` `问与答`
 1. [各位升级到 windows11 之后使用体验如何？我快被 windows defender 逼疯了(╬◣д◢)！](https://www.v2ex.com/t/807331) `29条评论` `Windows`
@@ -32,7 +32,7 @@
 1. [黑苹果 uhd630 核显 是不是带不动 4k60hz](https://www.v2ex.com/t/807265) `14条评论` `macOS`
 1. [现在买 Macbook Air 合适吗](https://www.v2ex.com/t/807222) `13条评论` `MacBook`
 
-数据更新于 2021-10-12 11:04:19
+数据更新于 2021-10-12 11:19:35
 
 <!-- TODAY END -->
 
