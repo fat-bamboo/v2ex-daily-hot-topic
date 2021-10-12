@@ -13,9 +13,9 @@
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `63条评论` `问与答`
 1. [同事有一台 macbook pro 16 打算出给我，大佬们看看划算吗，](https://www.v2ex.com/t/807267) `63条评论` `MacBook Pro`
 1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238) `57条评论` `职场话题`
+1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `47条评论` `数据库`
 1. [27 寸买 2K 还是 4K？只用 WIn11+写代码、看 YouTube+不玩游戏](https://www.v2ex.com/t/807282) `47条评论` `硬件`
-1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `46条评论` `数据库`
-1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `43条评论` `硬件`
+1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240) `44条评论` `硬件`
 1. [看了小白测评的 13pro 的续航后瞬间觉得 13pro 不香了](https://www.v2ex.com/t/807290) `42条评论` `Apple`
 1. [大量人脸照片学习](https://www.v2ex.com/t/807214) `30条评论` `问与答`
 1. [各位升级到 windows11 之后使用体验如何？我快被 windows defender 逼疯了(╬◣д◢)！](https://www.v2ex.com/t/807331) `29条评论` `Windows`
@@ -32,7 +32,7 @@
 1. [右手网出品]上手体验两周后，我决定用回 iPhone 12 Pro Max： iPhone 13 Pro/Max 上手体验评测-信号，屏幕，白平衡，影像实力](https://www.v2ex.com/t/807411) `16条评论` `iPhone`
 1. [请教下各位 React 的函数组件比类组件好在哪里？](https://www.v2ex.com/t/807306) `16条评论` `React`
 
-数据更新于 2021-10-12 15:40:40
+数据更新于 2021-10-12 15:52:10
 
 <!-- TODAY END -->
 
