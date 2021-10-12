@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `32条评论` `Apple`
+1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236) `37条评论` `Apple`
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210) `32条评论` `问与答`
 1. [大量人脸照片学习](https://www.v2ex.com/t/807214) `30条评论` `问与答`
 1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226) `25条评论` `程序员`
@@ -23,16 +23,16 @@
 1. [现在买 Macbook Air 合适吗](https://www.v2ex.com/t/807222) `13条评论` `MacBook`
 1. [我们大青岛竟然也有 IT BlackList](https://www.v2ex.com/t/807208) `13条评论` `青岛`
 1. [恢复以前版本的右键菜单, 支持最新版(22000.194)](https://www.v2ex.com/t/807197) `13条评论` `Windows`
+1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `11条评论` `Raspberry Pi`
 1. [新款 AirPods， Mac 要来了（10 月 18 日发布会）](https://www.v2ex.com/t/807261) `9条评论` `Apple`
 1. [朋友们，求推荐一个 mac 和 win 双平台显示器](https://www.v2ex.com/t/807218) `9条评论` `问与答`
 1. [请问上海这边可以用医保做体检吗](https://www.v2ex.com/t/807205) `9条评论` `上海`
-1. [别让你的 pi 吃灰了，总有一种玩法适合你。](https://www.v2ex.com/t/807249) `8条评论` `Raspberry Pi`
+1. [黑苹果 uhd630 核显 是不是带不动 4k60hz](https://www.v2ex.com/t/807265) `8条评论` `macOS`
+1. [一个微博热搜实时推送频道](https://www.v2ex.com/t/807248) `8条评论` `分享创造`
 1. [如何利用 nginx 备份源地址网站文件到 B 服务器上存储？](https://www.v2ex.com/t/807224) `8条评论` `NGINX`
 1. [Google 搜索 seo 问题，对 Android 浏览器有什么办法么？](https://www.v2ex.com/t/807232) `7条评论` `Google`
-1. [凌晨梦中去参加了鱿鱼游戏。](https://www.v2ex.com/t/807229) `7条评论` `梦`
-1. [请教这是什么风格的插画？](https://www.v2ex.com/t/807209) `7条评论` `问与答`
 
-数据更新于 2021-10-12 05:21:06
+数据更新于 2021-10-12 05:31:56
 
 <!-- TODAY END -->
 
