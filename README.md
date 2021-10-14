@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [是选择两地分居，媳妇回家带孩子？还是继续和我一起留着北京？](https://www.v2ex.com/t/807695) `65条评论` `生活`
-1. [今年中国队最有可能夺冠的就是 LGD 了吧!](https://www.v2ex.com/t/807699) `52条评论` `DotA`
-1. [想换手机了，麻烦 v 友帮忙选一下](https://www.v2ex.com/t/807723) `51条评论` `Android`
+1. [是选择两地分居，媳妇回家带孩子？还是继续和我一起留着北京？](https://www.v2ex.com/t/807695) `68条评论` `生活`
+1. [今年中国队最有可能夺冠的就是 LGD 了吧!](https://www.v2ex.com/t/807699) `54条评论` `DotA`
+1. [想换手机了，麻烦 v 友帮忙选一下](https://www.v2ex.com/t/807723) `54条评论` `Android`
 1. [话说即将出的 m1x 大家准备通过什么渠道购买](https://www.v2ex.com/t/807701) `41条评论` `Apple`
 1. [如何用最少的字讲一个互联网笑话：](https://www.v2ex.com/t/807737) `33条评论` `问与答`
 1. [看到热榜问养狗的，我想问问养猫的问题](https://www.v2ex.com/t/807702) `33条评论` `宠物`
 1. [除湿机使用感受很明显吗？](https://www.v2ex.com/t/807708) `29条评论` `问与答`
-1. [iPhone13Pro 抢到了，这几天研究的抢货手段给大家一些经验](https://www.v2ex.com/t/807729) `24条评论` `Apple`
-1. [其他类似 V2EX 的论坛](https://www.v2ex.com/t/807730) `22条评论` `问与答`
+1. [其他类似 V2EX 的论坛](https://www.v2ex.com/t/807730) `27条评论` `问与答`
+1. [iPhone13Pro 抢到了，这几天研究的抢货手段给大家一些经验](https://www.v2ex.com/t/807729) `27条评论` `Apple`
+1. [升级了 windows11，看到个熟悉的字符 🤣](https://www.v2ex.com/t/807720) `16条评论` `Windows`
 1. [一个人，想养一只猫，都需要做哪些准备，日常开销大吗](https://www.v2ex.com/t/807719) `16条评论` `问与答`
 1. [终于找到一个完美的手机浏览器](https://www.v2ex.com/t/807716) `16条评论` `分享发现`
-1. [Face ID 识别不了防蓝光镜片](https://www.v2ex.com/t/807748) `13条评论` `iPhone`
-1. [升级了 windows11，看到个熟悉的字符 🤣](https://www.v2ex.com/t/807720) `13条评论` `Windows`
-1. [工作三年多了，去上海吗](https://www.v2ex.com/t/807735) `12条评论` `程序员`
-1. [2021 还有必要买 MFI 认证的 c2l 数据线吗](https://www.v2ex.com/t/807752) `11条评论` `Apple`
-1. [今年 fpx 真拉](https://www.v2ex.com/t/807740) `11条评论` `英雄联盟`
+1. [科二科三 如何对边线 30 公分](https://www.v2ex.com/t/807755) `14条评论` `汽车`
+1. [Face ID 识别不了防蓝光镜片](https://www.v2ex.com/t/807748) `14条评论` `iPhone`
+1. [工作三年多了，去上海吗](https://www.v2ex.com/t/807735) `13条评论` `程序员`
+1. [2021 还有必要买 MFI 认证的 c2l 数据线吗](https://www.v2ex.com/t/807752) `12条评论` `Apple`
+1. [今年 fpx 真拉](https://www.v2ex.com/t/807740) `12条评论` `英雄联盟`
+1. [请问 iOS 15 开了短信拦截后，被拦截的信息还会推送到 Watch 上吗？](https://www.v2ex.com/t/807753) `11条评论` `iOS`
+1. [现在购买新款 iPhone 都这么难了？](https://www.v2ex.com/t/807733) `11条评论` `Apple`
 1. [和对象开 FaceTime 的时候发现一个问题](https://www.v2ex.com/t/807722) `11条评论` `iPhone`
 1. [发现「小而美」是广告联盟的罪魁祸首](https://www.v2ex.com/t/807715) `11条评论` `分享发现`
 1. [请教， MacBook 的 AC+是三年有效吗？ 15 年以后款质量就开始不行？](https://www.v2ex.com/t/807700) `11条评论` `Apple`
-1. [现在购买新款 iPhone 都这么难了？](https://www.v2ex.com/t/807733) `10条评论` `Apple`
 1. [升级 win11 三天后回退体验](https://www.v2ex.com/t/807709) `10条评论` `Windows`
-1. [Visual Studio 2022 RC 和 Preview 5 发布](https://www.v2ex.com/t/807697) `9条评论` `程序员`
-1. [不懂就问系列! 为什么 iptables 或者 firewalld 这类工具要作为服务运行?](https://www.v2ex.com/t/807713) `8条评论` `程序员`
 
-数据更新于 2021-10-14 04:07:20
+数据更新于 2021-10-14 04:32:51
 
 <!-- TODAY END -->
 
