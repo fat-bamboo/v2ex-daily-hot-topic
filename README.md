@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `182条评论` `程序员`
-1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `103条评论` `MacBook Pro`
+1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `105条评论` `MacBook Pro`
 1. [微信更新后的条款已经说得这么赤裸裸了吗？](https://www.v2ex.com/t/807971) `80条评论` `微信`
 1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968) `79条评论` `职场话题`
-1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `78条评论` `生活`
+1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `79条评论` `生活`
 1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `59条评论` `iPhone`
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942) `47条评论` `Windows`
 1. [求一个 Apple Music 使用逻辑指南](https://www.v2ex.com/t/808026) `30条评论` `Apple`
@@ -28,11 +28,11 @@
 1. [10 月 18 日发布的新 MacBook Pro 配置细节](https://www.v2ex.com/t/808021) `19条评论` `Apple`
 1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `19条评论` `问与答`
 1. [第一批的 Airtag 很费电？](https://www.v2ex.com/t/807947) `19条评论` `Apple`
-1. [Java 使用引用传递来修改值，这样做好吗？](https://www.v2ex.com/t/808054) `17条评论` `程序员`
+1. [Java 使用引用传递来修改值，这样做好吗？](https://www.v2ex.com/t/808054) `18条评论` `程序员`
 1. [发现 DNS 可以使浏览器变得流畅](https://www.v2ex.com/t/808076) `14条评论` `分享发现`
 1. [为什么 V2EX 有的主题会有背景图？](https://www.v2ex.com/t/808018) `14条评论` `问与答`
 
-数据更新于 2021-10-15 11:34:33
+数据更新于 2021-10-15 11:41:48
 
 <!-- TODAY END -->
 
