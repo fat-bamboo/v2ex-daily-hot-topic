@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `118条评论` `程序员`
-1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `61条评论` `MacBook Pro`
-1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `46条评论` `生活`
-1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `31条评论` `iPhone`
+1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `121条评论` `程序员`
+1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `62条评论` `MacBook Pro`
+1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `48条评论` `生活`
+1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `33条评论` `iPhone`
+1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968) `22条评论` `职场话题`
 1. [为什么国内很多公司都是自研开发监控告警系统？](https://www.v2ex.com/t/807924) `22条评论` `推广`
-1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968) `20条评论` `职场话题`
 1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `19条评论` `问与答`
 1. [第一批的 Airtag 很费电？](https://www.v2ex.com/t/807947) `19条评论` `Apple`
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942) `18条评论` `Windows`
@@ -27,12 +27,12 @@
 1. [Mac 截图后如何立刻保存？](https://www.v2ex.com/t/807957) `9条评论` `macOS`
 1. [有没有在 mac 上跑.net 6 rc 的](https://www.v2ex.com/t/807944) `9条评论` `.NET`
 1. [新 MacBook Pro “谣言” 汇总](https://www.v2ex.com/t/807925) `9条评论` `MacBook Pro`
+1. [关于要不要去大厂镀金的询问](https://www.v2ex.com/t/807986) `8条评论` `求职`
 1. [github 仓库设置为私有 star、fork 全没了](https://www.v2ex.com/t/807970) `8条评论` `GitHub`
-1. [关于要不要去大厂镀金的询问](https://www.v2ex.com/t/807986) `7条评论` `求职`
+1. [hxd 们扫地机器人有没有用啊，体验过的或者有过的兄弟请教下](https://www.v2ex.com/t/808001) `7条评论` `问与答`
 1. [关于 windows 上下左右键的映射](https://www.v2ex.com/t/807974) `7条评论` `Windows`
-1. [请教大家一个问题，大家搜索的时候是拼音用的多还是直接输入精确字符](https://www.v2ex.com/t/807941) `7条评论` `程序员`
 
-数据更新于 2021-10-15 04:33:02
+数据更新于 2021-10-15 04:52:38
 
 <!-- TODAY END -->
 
