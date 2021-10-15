@@ -15,8 +15,8 @@
 1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `84条评论` `生活`
 1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `60条评论` `iPhone`
 1. [求一个 Apple Music 使用逻辑指南](https://www.v2ex.com/t/808026) `52条评论` `Apple`
+1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `50条评论` `问与答`
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942) `49条评论` `Windows`
-1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `48条评论` `问与答`
 1. [双十一 1080 有必要换 3080ti 吗，如果换合适的价位是多少？](https://www.v2ex.com/t/808007) `41条评论` `NVIDIA`
 1. [有没有人觉得 Apple 其实可以考虑出一个非 Pro 系列的大尺寸机型？](https://www.v2ex.com/t/808070) `25条评论` `iPhone`
 1. [如果 TouchBar 被砍，是否意味着苹果在 2015-16 年左右的重要革新全面失败呢](https://www.v2ex.com/t/808114) `24条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [第一批的 Airtag 很费电？](https://www.v2ex.com/t/807947) `19条评论` `Apple`
 1. [推断新 mbp 有刘海传闻是假消息](https://www.v2ex.com/t/808125) `18条评论` `Apple`
 
-数据更新于 2021-10-15 20:34:13
+数据更新于 2021-10-15 20:42:26
 
 <!-- TODAY END -->
 
