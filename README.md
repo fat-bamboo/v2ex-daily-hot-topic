@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `130条评论` `程序员`
-1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `71条评论` `MacBook Pro`
-1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `52条评论` `生活`
-1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `42条评论` `iPhone`
+1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `135条评论` `程序员`
+1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `81条评论` `MacBook Pro`
+1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `54条评论` `生活`
+1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `46条评论` `iPhone`
 1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968) `31条评论` `职场话题`
 1. [为什么国内很多公司都是自研开发监控告警系统？](https://www.v2ex.com/t/807924) `22条评论` `推广`
 1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `19条评论` `问与答`
 1. [第一批的 Airtag 很费电？](https://www.v2ex.com/t/807947) `19条评论` `Apple`
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942) `18条评论` `Windows`
+1. [双十一 1080 有必要换 3080ti 吗，如果换合适的价位是多少？](https://www.v2ex.com/t/808007) `17条评论` `NVIDIA`
 1. [关于要不要去大厂镀金的询问](https://www.v2ex.com/t/807986) `17条评论` `求职`
-1. [双十一 1080 有必要换 3080ti 吗，如果换合适的价位是多少？](https://www.v2ex.com/t/808007) `15条评论` `NVIDIA`
+1. [hxd 们扫地机器人有没有用啊，体验过的或者有过的兄弟请教下](https://www.v2ex.com/t/808001) `14条评论` `问与答`
 1. [话说北京联通沃派校园卡，有老哥用过吗？](https://www.v2ex.com/t/807934) `14条评论` `北京`
 1. [在职，考虑要不要考一个非全研究生提升一下学历](https://www.v2ex.com/t/807921) `14条评论` `问与答`
+1. [jira 内部培训](https://www.v2ex.com/t/807977) `13条评论` `程序员`
 1. [就有点郁闷啊 关于面试米哈游工作的事情](https://www.v2ex.com/t/807962) `13条评论` `求职`
-1. [jira 内部培训](https://www.v2ex.com/t/807977) `12条评论` `程序员`
 1. [微信更新后的条款已经说得这么赤裸裸了吗？](https://www.v2ex.com/t/807971) `11条评论` `微信`
 1. [百度搜索屏蔽了阿里云盘搜索结果](https://www.v2ex.com/t/807955) `11条评论` `问与答`
-1. [hxd 们扫地机器人有没有用啊，体验过的或者有过的兄弟请教下](https://www.v2ex.com/t/808001) `10条评论` `问与答`
 1. [企业微信默认需要独立显卡，有没有大神有解？](https://www.v2ex.com/t/807928) `10条评论` `macOS`
 1. [Apple Watch Series 7 Nike Starlight 41mm 开箱](https://www.v2ex.com/t/808003) `9条评论` ` WATCH`
+1. [推广一下我的小程序：记账蛙，小微企业记账报税工具](https://www.v2ex.com/t/808002) `9条评论` `推广`
 1. [Mac 截图后如何立刻保存？](https://www.v2ex.com/t/807957) `9条评论` `macOS`
 1. [有没有在 mac 上跑.net 6 rc 的](https://www.v2ex.com/t/807944) `9条评论` `.NET`
-1. [新 MacBook Pro “谣言” 汇总](https://www.v2ex.com/t/807925) `9条评论` `MacBook Pro`
 
-数据更新于 2021-10-15 05:51:36
+数据更新于 2021-10-15 06:07:21
 
 <!-- TODAY END -->
 
