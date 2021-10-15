@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `161条评论` `程序员`
-1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `89条评论` `MacBook Pro`
-1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `67条评论` `生活`
-1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968) `58条评论` `职场话题`
-1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `55条评论` `iPhone`
+1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933) `165条评论` `程序员`
+1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940) `91条评论` `MacBook Pro`
+1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922) `68条评论` `生活`
+1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968) `61条评论` `职场话题`
+1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964) `56条评论` `iPhone`
 1. [双十一 1080 有必要换 3080ti 吗，如果换合适的价位是多少？](https://www.v2ex.com/t/808007) `24条评论` `NVIDIA`
+1. [求一个 Apple Music 使用逻辑指南](https://www.v2ex.com/t/808026) `23条评论` `Apple`
 1. [hxd 们扫地机器人有没有用啊，体验过的或者有过的兄弟请教下](https://www.v2ex.com/t/808001) `22条评论` `问与答`
 1. [为什么国内很多公司都是自研开发监控告警系统？](https://www.v2ex.com/t/807924) `22条评论` `推广`
-1. [求一个 Apple Music 使用逻辑指南](https://www.v2ex.com/t/808026) `21条评论` `Apple`
 1. [关于要不要去大厂镀金的询问](https://www.v2ex.com/t/807986) `21条评论` `求职`
 1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `19条评论` `问与答`
 1. [第一批的 Airtag 很费电？](https://www.v2ex.com/t/807947) `19条评论` `Apple`
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942) `18条评论` `Windows`
-1. [请求第三方 Token，如何保证每次使用的 Token 有效？](https://www.v2ex.com/t/808047) `15条评论` `程序员`
+1. [请求第三方 Token，如何保证每次使用的 Token 有效？](https://www.v2ex.com/t/808047) `17条评论` `程序员`
+1. [ios 系统级小程序](https://www.v2ex.com/t/808035) `16条评论` `分享创造`
+1. [为什么 V2EX 有的主题会有背景图？](https://www.v2ex.com/t/808018) `14条评论` `问与答`
 1. [Apple Watch Series 7 Nike Starlight 41mm 开箱](https://www.v2ex.com/t/808003) `14条评论` ` WATCH`
 1. [话说北京联通沃派校园卡，有老哥用过吗？](https://www.v2ex.com/t/807934) `14条评论` `北京`
 1. [在职，考虑要不要考一个非全研究生提升一下学历](https://www.v2ex.com/t/807921) `14条评论` `问与答`
-1. [为什么 V2EX 有的主题会有背景图？](https://www.v2ex.com/t/808018) `13条评论` `问与答`
 1. [jira 内部培训](https://www.v2ex.com/t/807977) `13条评论` `程序员`
 1. [就有点郁闷啊 关于面试米哈游工作的事情](https://www.v2ex.com/t/807962) `13条评论` `求职`
-1. [ios 系统级小程序](https://www.v2ex.com/t/808035) `12条评论` `分享创造`
+1. [10 月 18 日发布的新 MacBook Pro 配置细节](https://www.v2ex.com/t/808021) `11条评论` `Apple`
 1. [微信更新后的条款已经说得这么赤裸裸了吗？](https://www.v2ex.com/t/807971) `11条评论` `微信`
-1. [百度搜索屏蔽了阿里云盘搜索结果](https://www.v2ex.com/t/807955) `11条评论` `问与答`
 
-数据更新于 2021-10-15 08:07:07
+数据更新于 2021-10-15 08:28:52
 
 <!-- TODAY END -->
 
