@@ -18,8 +18,8 @@
 1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960) `50条评论` `问与答`
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942) `49条评论` `Windows`
 1. [双十一 1080 有必要换 3080ti 吗，如果换合适的价位是多少？](https://www.v2ex.com/t/808007) `41条评论` `NVIDIA`
+1. [如果 TouchBar 被砍，是否意味着苹果在 2015-16 年左右的重要革新全面失败呢](https://www.v2ex.com/t/808114) `25条评论` `Apple`
 1. [有没有人觉得 Apple 其实可以考虑出一个非 Pro 系列的大尺寸机型？](https://www.v2ex.com/t/808070) `25条评论` `iPhone`
-1. [如果 TouchBar 被砍，是否意味着苹果在 2015-16 年左右的重要革新全面失败呢](https://www.v2ex.com/t/808114) `24条评论` `Apple`
 1. [来看清华博士做的 iPhone13 Pro 高刷机制全解密](https://www.v2ex.com/t/808057) `24条评论` `Apple`
 1. [请求第三方 Token，如何保证每次使用的 Token 有效？](https://www.v2ex.com/t/808047) `22条评论` `程序员`
 1. [ios 系统级小程序](https://www.v2ex.com/t/808035) `22条评论` `分享创造`
@@ -32,7 +32,7 @@
 1. [第一批的 Airtag 很费电？](https://www.v2ex.com/t/807947) `19条评论` `Apple`
 1. [推断新 mbp 有刘海传闻是假消息](https://www.v2ex.com/t/808125) `18条评论` `Apple`
 
-数据更新于 2021-10-15 22:51:41
+数据更新于 2021-10-15 23:05:26
 
 <!-- TODAY END -->
 
