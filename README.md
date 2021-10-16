@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `25条评论` `浏览器`
+1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `27条评论` `浏览器`
 1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `22条评论` `MacBook Pro`
-1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `18条评论` `问与答`
+1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `20条评论` `问与答`
 1. [百度盘今日正式到期，有一键迁移到天翼云或者阿里云的工具么？](https://www.v2ex.com/t/808168) `15条评论` `问与答`
 1. [微信整晚监听用户？](https://www.v2ex.com/t/808160) `11条评论` `Apple`
 1. [计科应届生面临毕业求职，求推荐找工作 App](https://www.v2ex.com/t/808179) `10条评论` `问与答`
@@ -20,7 +20,7 @@
 1. [想问如果 Apple Watch 屏幕被刮花了，有什么办法可以修复吗？](https://www.v2ex.com/t/808185) `6条评论` `Apple`
 1. [Windows 设置默认 cmd 为 Windows Terminal，而非 cmd.exe](https://www.v2ex.com/t/808181) `6条评论` `Windows`
 
-数据更新于 2021-10-16 05:41:47
+数据更新于 2021-10-16 05:51:50
 
 <!-- TODAY END -->
 
