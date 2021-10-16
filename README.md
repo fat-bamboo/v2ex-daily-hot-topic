@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `30条评论` `浏览器`
+1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `31条评论` `浏览器`
 1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `25条评论` `MacBook Pro`
 1. [打算去采访一些有趣或者大龄程序员，大家对什么方面感兴趣呢？](https://www.v2ex.com/t/808199) `20条评论` `程序员`
 1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `20条评论` `问与答`
@@ -25,7 +25,7 @@
 1. [Win10 用几天后会卡顿](https://www.v2ex.com/t/808194) `6条评论` `问与答`
 1. [Windows 设置默认 cmd 为 Windows Terminal，而非 cmd.exe](https://www.v2ex.com/t/808181) `6条评论` `Windows`
 
-数据更新于 2021-10-16 07:21:33
+数据更新于 2021-10-16 07:31:45
 
 <!-- TODAY END -->
 
