@@ -9,17 +9,17 @@
 <!-- TODAY BEGIN -->
 
 1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `22条评论` `浏览器`
-1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `19条评论` `MacBook Pro`
-1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `15条评论` `问与答`
+1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `20条评论` `MacBook Pro`
+1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `17条评论` `问与答`
 1. [百度盘今日正式到期，有一键迁移到天翼云或者阿里云的工具么？](https://www.v2ex.com/t/808168) `14条评论` `问与答`
 1. [微信整晚监听用户？](https://www.v2ex.com/t/808160) `11条评论` `Apple`
 1. [计科应届生面临毕业求职，求推荐找工作 App](https://www.v2ex.com/t/808179) `9条评论` `问与答`
-1. [2021 年了最适合后端 Java /Go 开发的操作系统是什么](https://www.v2ex.com/t/808176) `8条评论` `问与答`
+1. [2021 年了最适合后端 Java /Go 开发的操作系统是什么](https://www.v2ex.com/t/808176) `9条评论` `问与答`
+1. [主要用于虚拟化的装机求各位指导](https://www.v2ex.com/t/808167) `8条评论` `硬件`
 1. [浏览器请求跨域， postman 能通是因为浏览器限制吗](https://www.v2ex.com/t/808165) `7条评论` `浏览器`
 1. [Windows 设置默认 cmd 为 Windows Terminal，而非 cmd.exe](https://www.v2ex.com/t/808181) `6条评论` `Windows`
-1. [主要用于虚拟化的装机求各位指导](https://www.v2ex.com/t/808167) `6条评论` `硬件`
 
-数据更新于 2021-10-16 04:32:16
+数据更新于 2021-10-16 04:51:57
 
 <!-- TODAY END -->
 
