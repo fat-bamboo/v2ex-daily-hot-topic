@@ -13,9 +13,9 @@
 1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `27条评论` `MacBook Pro`
 1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `21条评论` `问与答`
 1. [百度盘今日正式到期，有一键迁移到天翼云或者阿里云的工具么？](https://www.v2ex.com/t/808168) `21条评论` `问与答`
+1. [iPhone 能实现每月固定日期的闹钟吗？](https://www.v2ex.com/t/808217) `18条评论` `Apple`
 1. [Win10 用几天后会卡顿](https://www.v2ex.com/t/808194) `18条评论` `问与答`
 1. [2021 年了最适合后端 Java /Go 开发的操作系统是什么](https://www.v2ex.com/t/808176) `18条评论` `问与答`
-1. [iPhone 能实现每月固定日期的闹钟吗？](https://www.v2ex.com/t/808217) `17条评论` `Apple`
 1. [见一个网站，现在哪里购买域名、ssl 证书，空间呢？](https://www.v2ex.com/t/808214) `15条评论` `问与答`
 1. [计科应届生面临毕业求职，求推荐找工作 App](https://www.v2ex.com/t/808179) `15条评论` `问与答`
 1. [要不要去杭州工作](https://www.v2ex.com/t/808221) `12条评论` `职场话题`
@@ -29,10 +29,10 @@
 1. [一个谢绝伸手党的网站，求大佬告知。](https://www.v2ex.com/t/808212) `8条评论` `问与答`
 1. [求推荐一个能够快速入门基本操作应用的 PHP 教程](https://www.v2ex.com/t/808202) `8条评论` `程序员`
 1. [IdentityServer 收费了？](https://www.v2ex.com/t/808159) `8条评论` `.NET`
+1. [[全职远程]前端运维安全测试 QA 质量网关开发产品经理设计 Java 安卓苹果 go flutter](https://www.v2ex.com/t/808223) `7条评论` `酷工作`
 1. [Mac mini macOS 12 Beta 连接外接显示器刷新率可变了](https://www.v2ex.com/t/808206) `6条评论` `Apple`
-1. [Windows 设置默认 cmd 为 Windows Terminal，而非 cmd.exe](https://www.v2ex.com/t/808181) `6条评论` `Windows`
 
-数据更新于 2021-10-16 09:34:20
+数据更新于 2021-10-16 09:42:49
 
 <!-- TODAY END -->
 
