@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `28条评论` `浏览器`
+1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `29条评论` `浏览器`
 1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `23条评论` `MacBook Pro`
 1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `20条评论` `问与答`
 1. [百度盘今日正式到期，有一键迁移到天翼云或者阿里云的工具么？](https://www.v2ex.com/t/808168) `16条评论` `问与答`
 1. [浏览器请求跨域， postman 能通是因为浏览器限制吗](https://www.v2ex.com/t/808165) `11条评论` `浏览器`
 1. [微信整晚监听用户？](https://www.v2ex.com/t/808160) `11条评论` `Apple`
+1. [打算去采访一些有趣或者大龄程序员，大家对什么方面感兴趣呢？](https://www.v2ex.com/t/808199) `10条评论` `程序员`
 1. [计科应届生面临毕业求职，求推荐找工作 App](https://www.v2ex.com/t/808179) `10条评论` `问与答`
 1. [2021 年了最适合后端 Java /Go 开发的操作系统是什么](https://www.v2ex.com/t/808176) `10条评论` `问与答`
 1. [主要用于虚拟化的装机求各位指导](https://www.v2ex.com/t/808167) `10条评论` `硬件`
-1. [打算去采访一些有趣或者大龄程序员，大家对什么方面感兴趣呢？](https://www.v2ex.com/t/808199) `9条评论` `程序员`
 1. [IdentityServer 收费了？](https://www.v2ex.com/t/808159) `8条评论` `.NET`
 1. [想问如果 Apple Watch 屏幕被刮花了，有什么办法可以修复吗？](https://www.v2ex.com/t/808185) `6条评论` `Apple`
 1. [Windows 设置默认 cmd 为 Windows Terminal，而非 cmd.exe](https://www.v2ex.com/t/808181) `6条评论` `Windows`
 
-数据更新于 2021-10-16 06:44:08
+数据更新于 2021-10-16 06:53:00
 
 <!-- TODAY END -->
 
