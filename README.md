@@ -20,7 +20,7 @@
 1. [想问如果 Apple Watch 屏幕被刮花了，有什么办法可以修复吗？](https://www.v2ex.com/t/808185) `6条评论` `Apple`
 1. [Windows 设置默认 cmd 为 Windows Terminal，而非 cmd.exe](https://www.v2ex.com/t/808181) `6条评论` `Windows`
 
-数据更新于 2021-10-16 05:51:50
+数据更新于 2021-10-16 06:06:56
 
 <!-- TODAY END -->
 
