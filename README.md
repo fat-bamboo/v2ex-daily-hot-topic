@@ -11,7 +11,7 @@
 1. [又到了百家争鸣、百花齐放的时刻了。求推荐一款笔记本，需求内详~](https://www.v2ex.com/t/808313) `50条评论` `硬件`
 1. [V2 的朋友们，有用空气炸锅的吗？](https://www.v2ex.com/t/808320) `46条评论` `生活`
 1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330) `29条评论` `TypeScript`
-1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `26条评论` `Android`
+1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `27条评论` `Android`
 1. [实在找不到资料，请问 iPad 加视频采集卡，能当显示器用吗](https://www.v2ex.com/t/808321) `23条评论` `iPad`
 1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `21条评论` ` WATCH`
 1. [关于蛋白粉求推荐](https://www.v2ex.com/t/808326) `20条评论` `问与答`
@@ -28,7 +28,7 @@
 1. [关于 Git rebase 的疑问](https://www.v2ex.com/t/808327) `7条评论` `git`
 1. [如何让 win11 的 doh 支持域名](https://www.v2ex.com/t/808300) `7条评论` `Windows`
 
-数据更新于 2021-10-17 10:37:27
+数据更新于 2021-10-17 10:44:51
 
 <!-- TODAY END -->
 
