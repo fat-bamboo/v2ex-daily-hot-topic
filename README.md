@@ -16,10 +16,10 @@
 1. [关于蛋白粉求推荐](https://www.v2ex.com/t/808326) `30条评论` `问与答`
 1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324) `29条评论` `宽带症候群`
 1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `23条评论` ` WATCH`
+1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388) `19条评论` `Apple`
 1. [工作机会比较，大佬来指导下工作](https://www.v2ex.com/t/808381) `19条评论` `职场话题`
-1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388) `17条评论` `Apple`
+1. [macOS 11.6 Big Sur 现在稳定了吗](https://www.v2ex.com/t/808364) `16条评论` `Apple`
 1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305) `15条评论` `游戏`
-1. [macOS 11.6 Big Sur 现在稳定了吗](https://www.v2ex.com/t/808364) `14条评论` `Apple`
 1. [求助: socks5 代理转发并添加加密的方法](https://www.v2ex.com/t/808341) `14条评论` `程序员`
 1. [位置权限有没有办法实现“不允许一次”](https://www.v2ex.com/t/808335) `14条评论` `iOS`
 1. [有没有 windwos 下能够直接压缩文件，支持 Linux 下直接解压的软件](https://www.v2ex.com/t/808375) `13条评论` `问与答`
@@ -27,12 +27,12 @@
 1. [分享一个比较精致的关于爱情的页面设计](https://www.v2ex.com/t/808303) `12条评论` `分享发现`
 1. [JS 检测用户是否使用 socks5 代理](https://www.v2ex.com/t/808361) `10条评论` `分享创造`
 1. [Magic Keyboard 2 with Touch ID 值得入吗?](https://www.v2ex.com/t/808340) `10条评论` `Apple`
+1. [迷茫的编程路，是运维还是开发，是工作还是爱好](https://www.v2ex.com/t/808374) `9条评论` `编程`
 1. [淘宝的连续包 12 个月会少 5 天](https://www.v2ex.com/t/808329) `9条评论` `全球工单系统`
 1. [如何让 iPhone 定时重启](https://www.v2ex.com/t/808304) `9条评论` `Apple`
-1. [迷茫的编程路，是运维还是开发，是工作还是爱好](https://www.v2ex.com/t/808374) `8条评论` `编程`
 1. [云闪付爱奇艺京东联合年度会员 138](https://www.v2ex.com/t/808306) `8条评论` `优惠信息`
 
-数据更新于 2021-10-17 14:41:45
+数据更新于 2021-10-17 14:51:48
 
 <!-- TODAY END -->
 
