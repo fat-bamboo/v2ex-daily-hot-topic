@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [又到了百家争鸣、百花齐放的时刻了。求推荐一款笔记本，需求内详~](https://www.v2ex.com/t/808313) `66条评论` `硬件`
-1. [V2 的朋友们，有用空气炸锅的吗？](https://www.v2ex.com/t/808320) `59条评论` `生活`
+1. [V2 的朋友们，有用空气炸锅的吗？](https://www.v2ex.com/t/808320) `60条评论` `生活`
 1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `52条评论` `Android`
 1. [关于蛋白粉求推荐](https://www.v2ex.com/t/808326) `35条评论` `问与答`
 1. [实在找不到资料，请问 iPad 加视频采集卡，能当显示器用吗](https://www.v2ex.com/t/808321) `33条评论` `iPad`
-1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330) `32条评论` `TypeScript`
+1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330) `33条评论` `TypeScript`
 1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324) `31条评论` `宽带症候群`
 1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `25条评论` ` WATCH`
 1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388) `25条评论` `Apple`
@@ -21,7 +21,7 @@
 1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305) `21条评论` `游戏`
 1. [有没有 windwos 下能够直接压缩文件，支持 Linux 下直接解压的软件](https://www.v2ex.com/t/808375) `19条评论` `问与答`
 1. [macOS 11.6 Big Sur 现在稳定了吗](https://www.v2ex.com/t/808364) `18条评论` `Apple`
-1. [分享一个关于官网购买 Gift Card 的奇特的经历](https://www.v2ex.com/t/808408) `16条评论` `Apple`
+1. [分享一个关于官网购买 Gift Card 的奇特的经历](https://www.v2ex.com/t/808408) `17条评论` `Apple`
 1. [Ti10 开心吗？](https://www.v2ex.com/t/808415) `14条评论` `DotA`
 1. [迷茫的编程路，是运维还是开发，是工作还是爱好](https://www.v2ex.com/t/808374) `14条评论` `编程`
 1. [求助: socks5 代理转发并添加加密的方法](https://www.v2ex.com/t/808341) `14条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [JS 检测用户是否使用 socks5 代理](https://www.v2ex.com/t/808361) `11条评论` `分享创造`
 1. [做投资的朋友有人关注中概互联 ETF 这支标的吗？](https://www.v2ex.com/t/808387) `10条评论` `问与答`
 
-数据更新于 2021-10-17 23:05:43
+数据更新于 2021-10-17 23:23:54
 
 <!-- TODAY END -->
 
