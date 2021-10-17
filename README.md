@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [又到了百家争鸣、百花齐放的时刻了。求推荐一款笔记本，需求内详~](https://www.v2ex.com/t/808313) `46条评论` `硬件`
-1. [V2 的朋友们，有用空气炸锅的吗？](https://www.v2ex.com/t/808320) `43条评论` `生活`
+1. [V2 的朋友们，有用空气炸锅的吗？](https://www.v2ex.com/t/808320) `44条评论` `生活`
 1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330) `29条评论` `TypeScript`
 1. [实在找不到资料，请问 iPad 加视频采集卡，能当显示器用吗](https://www.v2ex.com/t/808321) `23条评论` `iPad`
+1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `21条评论` ` WATCH`
+1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `20条评论` `Android`
 1. [关于蛋白粉求推荐](https://www.v2ex.com/t/808326) `20条评论` `问与答`
-1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `19条评论` `Android`
-1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `19条评论` ` WATCH`
 1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324) `15条评论` `宽带症候群`
 1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305) `15条评论` `游戏`
 1. [iOS 和 macOs 是否任意程序都可以随意访问 iCloud 存储？](https://www.v2ex.com/t/808336) `13条评论` `iCloud`
@@ -24,11 +24,11 @@
 1. [如何让 iPhone 定时重启](https://www.v2ex.com/t/808304) `9条评论` `Apple`
 1. [云闪付爱奇艺京东联合年度会员 138](https://www.v2ex.com/t/808306) `8条评论` `优惠信息`
 1. [Magic Keyboard 2 with Touch ID 值得入吗?](https://www.v2ex.com/t/808340) `7条评论` `Apple`
+1. [淘宝的连续包 12 个月会少 5 天](https://www.v2ex.com/t/808329) `7条评论` `全球工单系统`
 1. [关于 Git rebase 的疑问](https://www.v2ex.com/t/808327) `7条评论` `git`
 1. [如何让 win11 的 doh 支持域名](https://www.v2ex.com/t/808300) `7条评论` `Windows`
-1. [淘宝的连续包 12 个月会少 5 天](https://www.v2ex.com/t/808329) `6条评论` `全球工单系统`
 
-数据更新于 2021-10-17 09:34:22
+数据更新于 2021-10-17 09:42:57
 
 <!-- TODAY END -->
 
