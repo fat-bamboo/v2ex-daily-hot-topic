@@ -13,26 +13,26 @@
 1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `35条评论` `Android`
 1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330) `31条评论` `TypeScript`
 1. [实在找不到资料，请问 iPad 加视频采集卡，能当显示器用吗](https://www.v2ex.com/t/808321) `30条评论` `iPad`
+1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324) `30条评论` `宽带症候群`
 1. [关于蛋白粉求推荐](https://www.v2ex.com/t/808326) `30条评论` `问与答`
-1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324) `29条评论` `宽带症候群`
 1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `23条评论` ` WATCH`
-1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388) `19条评论` `Apple`
-1. [工作机会比较，大佬来指导下工作](https://www.v2ex.com/t/808381) `19条评论` `职场话题`
-1. [macOS 11.6 Big Sur 现在稳定了吗](https://www.v2ex.com/t/808364) `16条评论` `Apple`
+1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388) `20条评论` `Apple`
+1. [工作机会比较，大佬来指导下工作](https://www.v2ex.com/t/808381) `20条评论` `职场话题`
+1. [macOS 11.6 Big Sur 现在稳定了吗](https://www.v2ex.com/t/808364) `17条评论` `Apple`
 1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305) `15条评论` `游戏`
 1. [求助: socks5 代理转发并添加加密的方法](https://www.v2ex.com/t/808341) `14条评论` `程序员`
 1. [位置权限有没有办法实现“不允许一次”](https://www.v2ex.com/t/808335) `14条评论` `iOS`
 1. [有没有 windwos 下能够直接压缩文件，支持 Linux 下直接解压的软件](https://www.v2ex.com/t/808375) `13条评论` `问与答`
 1. [iOS 和 macOs 是否任意程序都可以随意访问 iCloud 存储？](https://www.v2ex.com/t/808336) `13条评论` `iCloud`
 1. [分享一个比较精致的关于爱情的页面设计](https://www.v2ex.com/t/808303) `12条评论` `分享发现`
-1. [JS 检测用户是否使用 socks5 代理](https://www.v2ex.com/t/808361) `10条评论` `分享创造`
+1. [迷茫的编程路，是运维还是开发，是工作还是爱好](https://www.v2ex.com/t/808374) `11条评论` `编程`
+1. [JS 检测用户是否使用 socks5 代理](https://www.v2ex.com/t/808361) `11条评论` `分享创造`
 1. [Magic Keyboard 2 with Touch ID 值得入吗?](https://www.v2ex.com/t/808340) `10条评论` `Apple`
-1. [迷茫的编程路，是运维还是开发，是工作还是爱好](https://www.v2ex.com/t/808374) `9条评论` `编程`
 1. [淘宝的连续包 12 个月会少 5 天](https://www.v2ex.com/t/808329) `9条评论` `全球工单系统`
 1. [如何让 iPhone 定时重启](https://www.v2ex.com/t/808304) `9条评论` `Apple`
-1. [云闪付爱奇艺京东联合年度会员 138](https://www.v2ex.com/t/808306) `8条评论` `优惠信息`
+1. [做投资的朋友有人关注中概互联 ETF 这支标的吗？](https://www.v2ex.com/t/808387) `8条评论` `问与答`
 
-数据更新于 2021-10-17 14:51:48
+数据更新于 2021-10-17 15:05:34
 
 <!-- TODAY END -->
 
