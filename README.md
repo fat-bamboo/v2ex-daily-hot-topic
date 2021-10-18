@@ -9,30 +9,30 @@
 <!-- TODAY BEGIN -->
 
 1. [刘海屏的 MacBook Pro 你还买吗？](https://www.v2ex.com/t/808438) `92条评论` `MacBook Pro`
-1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `58条评论` `Apple`
-1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435) `52条评论` `Apple`
+1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `60条评论` `Apple`
+1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435) `54条评论` `Apple`
 1. [深圳转凉了](https://www.v2ex.com/t/808440) `25条评论` `深圳`
+1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490) `21条评论` `程序员`
 1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441) `21条评论` `DotA`
 1. [今年的 13 pro max 实在是太难了](https://www.v2ex.com/t/808457) `20条评论` `iPhone`
 1. [迫于突然降温，想问问大家有啥比较好的秋衣秋裤，电热毯之类的过冬神器，本人比较怕冷](https://www.v2ex.com/t/808451) `20条评论` `问与答`
-1. [微信发不出图也收不到，你们有这样的问题么？？](https://www.v2ex.com/t/808466) `17条评论` `全球工单系统`
-1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490) `16条评论` `程序员`
-1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481) `16条评论` `杭州`
+1. [微信发不出图也收不到，你们有这样的问题么？？](https://www.v2ex.com/t/808466) `18条评论` `全球工单系统`
+1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481) `17条评论` `杭州`
 1. [降薪给期权股权](https://www.v2ex.com/t/808477) `15条评论` `问与答`
 1. [弃坑支付宝支付了，经常扫码打不开](https://www.v2ex.com/t/808444) `15条评论` `问与答`
+1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494) `12条评论` `职场话题`
 1. [关于购买明基显示器挂灯的几点疑问](https://www.v2ex.com/t/808452) `12条评论` `MacBook Pro`
 1. [有没有买过 Apple Watch Hermès 的老哥来说说， Apple Watch Hermès 和普通的不锈钢版，有什么区别？](https://www.v2ex.com/t/808495) `11条评论` ` WATCH`
 1. [哪里可以调用 API 开电子发票](https://www.v2ex.com/t/808461) `10条评论` `问与答`
 1. [国外的合同工有坑吗](https://www.v2ex.com/t/808430) `10条评论` `职场话题`
+1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492) `9条评论` `分享创造`
+1. [安卓系统 便签/备忘录 哪家强？](https://www.v2ex.com/t/808486) `9条评论` `Android`
+1. [Apple music 订阅值得开吗？](https://www.v2ex.com/t/808476) `9条评论` `问与答`
 1. [关于一对多情况下修改问题](https://www.v2ex.com/t/808469) `9条评论` `程序员`
-1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494) `8条评论` `职场话题`
-1. [安卓系统 便签/备忘录 哪家强？](https://www.v2ex.com/t/808486) `8条评论` `Android`
-1. [Apple music 订阅值得开吗？](https://www.v2ex.com/t/808476) `8条评论` `问与答`
+1. [公司让写敏感的程序，想跑路了，坐标昆明/远程](https://www.v2ex.com/t/808479) `8条评论` `求职`
 1. [北京西边 海淀 想练车，有没有那种按时间收费，不用一下订一套课的驾校？](https://www.v2ex.com/t/808463) `8条评论` `北京`
-1. [像 typora 这种原地渲染显示的 markdown 编辑器原理是什么呢，需要用 textarea 写一个简单的，能做到吗](https://www.v2ex.com/t/808433) `8条评论` `问与答`
-1. [ios 怎么运行 Mac 应用啊](https://www.v2ex.com/t/808429) `8条评论` `问与答`
 
-数据更新于 2021-10-18 03:52:06
+数据更新于 2021-10-18 04:07:31
 
 <!-- TODAY END -->
 
