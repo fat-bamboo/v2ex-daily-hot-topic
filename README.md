@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [刘海屏的 MacBook Pro 你还买吗？](https://www.v2ex.com/t/808438) `139条评论` `MacBook Pro`
-1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `88条评论` `Apple`
+1. [刘海屏的 MacBook Pro 你还买吗？](https://www.v2ex.com/t/808438) `140条评论` `MacBook Pro`
+1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `89条评论` `Apple`
 1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435) `79条评论` `Apple`
-1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481) `71条评论` `杭州`
-1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441) `71条评论` `DotA`
-1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492) `61条评论` `分享创造`
-1. [如何看待索尼中国因违法广告法被罚款 100 万元？](https://www.v2ex.com/t/808568) `60条评论` `知乎`
+1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481) `72条评论` `杭州`
+1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441) `72条评论` `DotA`
+1. [如何看待索尼中国因违法广告法被罚款 100 万元？](https://www.v2ex.com/t/808568) `69条评论` `知乎`
+1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492) `62条评论` `分享创造`
 1. [[小米电视] 小爱同学未授权情况下全天侯监听录音！](https://www.v2ex.com/t/808548) `50条评论` `全球工单系统`
 1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494) `49条评论` `职场话题`
 1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601) `35条评论` `大学`
@@ -32,7 +32,7 @@
 1. [有没有买过 Apple Watch Hermès 的老哥来说说， Apple Watch Hermès 和普通的不锈钢版，有什么区别？](https://www.v2ex.com/t/808495) `19条评论` ` WATCH`
 1. [有人玩吉他吗](https://www.v2ex.com/t/808581) `18条评论` `吉他`
 
-数据更新于 2021-10-18 10:53:44
+数据更新于 2021-10-18 11:04:34
 
 <!-- TODAY END -->
 
