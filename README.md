@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [如何看待索尼中国因违法广告法被罚款 100 万元？](https://www.v2ex.com/t/808568) `166条评论` `知乎`
+1. [如何看待索尼中国因违法广告法被罚款 100 万元？](https://www.v2ex.com/t/808568) `167条评论` `知乎`
 1. [刘海屏的 MacBook Pro 你还买吗？](https://www.v2ex.com/t/808438) `156条评论` `MacBook Pro`
-1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `106条评论` `Apple`
+1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `107条评论` `Apple`
 1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481) `92条评论` `杭州`
 1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435) `91条评论` `Apple`
 1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601) `89条评论` `大学`
@@ -21,7 +21,7 @@
 1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494) `49条评论` `职场话题`
 1. [从来没见过任何一届 Apple 发布会让人如此期待](https://www.v2ex.com/t/808652) `44条评论` `Apple`
 1. [M1 pro 和 M1 max 性能也太离谱了吧](https://www.v2ex.com/t/808665) `41条评论` `Apple`
-1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681) `34条评论` `MacBook Pro`
+1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681) `37条评论` `MacBook Pro`
 1. [电信将不再免费提供家宽 ipv4 公网 ip](https://www.v2ex.com/t/808536) `32条评论` `宽带症候群`
 1. [马斯克、邪恶人工智能与自我实现的预言](https://www.v2ex.com/t/808507) `32条评论` `随想`
 1. [WSL 网络突然不可用了，真的是得远离瘟到死](https://www.v2ex.com/t/808578) `31条评论` `Windows`
@@ -32,7 +32,7 @@
 1. [有人玩吉他吗](https://www.v2ex.com/t/808581) `24条评论` `吉他`
 1. [Apple 太牛了，大家的注意力都在刘海，谁知道性能（CPU， GPU， RAM， SSD），电池，屏幕，键盘，接口都升级到这个程度](https://www.v2ex.com/t/808675) `23条评论` `MacBook Pro`
 
-数据更新于 2021-10-18 23:35:46
+数据更新于 2021-10-18 23:43:28
 
 <!-- TODAY END -->
 
