@@ -8,23 +8,27 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `47条评论` `问与答`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `58条评论` `问与答`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `30条评论` `Apple`
+1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
 1. [双十一[腾讯云一折起]1 核 2G6M 三年仅 198 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/808717) `19条评论` `优惠信息`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `18条评论` `Apple`
-1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `18条评论` `Apple`
+1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `18条评论` `MacBook Pro`
+1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `16条评论` `Apple`
 1. [2 个月前就有老哥说有刘海，大家有一片哀嚎，有各种不信](https://www.v2ex.com/t/808716) `16条评论` `MacBook`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `16条评论` `Apple`
-1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `12条评论` `Apple`
+1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `14条评论` `Apple`
+1. [总有人以为自己就是全世界，自己的需求就是全世界的需求，所有产品必须符合他的需求和喜好](https://www.v2ex.com/t/808751) `12条评论` `智能家电`
 1. [Airpods3 和 Airpods Pro 的区别](https://www.v2ex.com/t/808743) `11条评论` `Apple`
 1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `11条评论` `MacBook Pro`
-1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `11条评论` `Apple`
+1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `10条评论` `Google`
+1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `9条评论` `Apple`
+1. [大佬们，问下现在很多京东的团购群，京东代拍，价格比京东便宜，是怎么来的呀。](https://www.v2ex.com/t/808732) `8条评论` `问与答`
 1. [apple 空间音频和杜比全景声体验怎么样？](https://www.v2ex.com/t/808729) `8条评论` `Apple`
-1. [大佬们，问下现在很多京东的团购群，京东代拍，价格比京东便宜，是怎么来的呀。](https://www.v2ex.com/t/808732) `7条评论` `问与答`
 1. [台式电脑有推荐的的吗](https://www.v2ex.com/t/808712) `7条评论` `程序员`
 1. [炸场？](https://www.v2ex.com/t/808711) `7条评论` `Apple`
 1. [走咸鱼或者淘宝教育优惠有什么风险吗？](https://www.v2ex.com/t/808715) `6条评论` `MacBook Pro`
 
-数据更新于 2021-10-19 02:18:31
+数据更新于 2021-10-19 02:43:17
 
 <!-- TODAY END -->
 
