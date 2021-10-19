@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `142条评论` `MacBook Pro`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `143条评论` `MacBook Pro`
 1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `97条评论` `Apple`
-1. [传 送 门 3](https://www.v2ex.com/t/808904) `66条评论` `Apple`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `70条评论` `Apple`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `56条评论` `Apple`
-1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `54条评论` `MacBook Pro`
+1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `55条评论` `MacBook Pro`
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `51条评论` `Google`
 1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `26条评论` `Apple`
@@ -27,12 +27,12 @@
 1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `18条评论` `Apple`
 1. [为什么现代金融系统,在转账时还需要提供'对方开户行名称'](https://www.v2ex.com/t/808944) `17条评论` `程序员`
 1. [没有刚需的情况下买电子产品是不是被消费主义洗脑了？](https://www.v2ex.com/t/808809) `17条评论` `问与答`
+1. [国内这反 zp 的，直接把爬虫给反死了。。。](https://www.v2ex.com/t/808953) `16条评论` `程序员`
 1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `16条评论` `Apple`
 1. [2 个月前就有老哥说有刘海，大家有一片哀嚎，有各种不信](https://www.v2ex.com/t/808716) `16条评论` `MacBook`
 1. [阿里巴巴 Java 开发规范:货币金额，均以最小货币单位且整型类型来进行存储, 和前端的交互也用整形吗?](https://www.v2ex.com/t/808813) `15条评论` `MySQL`
-1. [给要买新 Macbook 的同学一点儿参考意见](https://www.v2ex.com/t/808841) `14条评论` `Apple`
 
-数据更新于 2021-10-19 09:35:30
+数据更新于 2021-10-19 09:43:51
 
 <!-- TODAY END -->
 
