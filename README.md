@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `154条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `111条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `112条评论` `Apple`
 1. [传 送 门 3](https://www.v2ex.com/t/808904) `111条评论` `Apple`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `71条评论` `MacBook Pro`
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `70条评论` `Google`
@@ -32,7 +32,7 @@
 1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
 1. [双十一[腾讯云一折起]1 核 2G6M 三年仅 198 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/808717) `19条评论` `优惠信息`
 
-数据更新于 2021-10-19 17:46:25
+数据更新于 2021-10-19 17:56:53
 
 <!-- TODAY END -->
 
