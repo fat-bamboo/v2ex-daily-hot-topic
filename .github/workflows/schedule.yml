@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --local user.email "imrealleonardo@gmail.com"
           git config --local user.name "Lishuang"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.v2ex_tokens }}@github.com/${{ github.repository }}
           git pull --rebase
           deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
           git add .
