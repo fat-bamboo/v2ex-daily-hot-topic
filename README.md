@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `121条评论` `MacBook Pro`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `122条评论` `MacBook Pro`
 1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `91条评论` `Apple`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `49条评论` `MacBook Pro`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `47条评论` `Apple`
@@ -17,6 +17,7 @@
 1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
 1. [其实，我还挺喜欢 Touch Bar](https://www.v2ex.com/t/808857) `21条评论` `Apple`
 1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `20条评论` `Apple`
 1. [jetbrains 对于盗版开始控制了 , 试用期都要登录账号了](https://www.v2ex.com/t/808856) `19条评论` `软件`
 1. [如果换个角度思考,MacBook Pro 的刘海屏幕瞬间就能接受并感到开心了.](https://www.v2ex.com/t/808793) `19条评论` `MacBook Pro`
 1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
@@ -30,9 +31,8 @@
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `14条评论` `Google`
 1. [总有人以为自己就是全世界，自己的需求就是全世界的需求，所有产品必须符合他的需求和喜好](https://www.v2ex.com/t/808751) `14条评论` `智能家电`
 1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `14条评论` `Apple`
-1. [为什么 MacBook 14 M1 比 13 英寸 M1 少了那么多续航时间？](https://www.v2ex.com/t/808839) `13条评论` `Apple`
 
-数据更新于 2021-10-19 07:22:37
+数据更新于 2021-10-19 07:32:43
 
 <!-- TODAY END -->
 
