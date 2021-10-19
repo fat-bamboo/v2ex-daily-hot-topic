@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `145条评论` `MacBook Pro`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `146条评论` `MacBook Pro`
 1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `99条评论` `Apple`
 1. [传 送 门 3](https://www.v2ex.com/t/808904) `80条评论` `Apple`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `56条评论` `Apple`
+1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `55条评论` `Google`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `55条评论` `MacBook Pro`
-1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `54条评论` `Google`
 1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `47条评论` `MacBook Pro`
 1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `26条评论` `Apple`
 1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
+1. [为什么现代金融系统,在转账时还需要提供'对方开户行名称'](https://www.v2ex.com/t/808944) `21条评论` `程序员`
 1. [国内这反 zp 的，直接把爬虫给反死了。。。](https://www.v2ex.com/t/808953) `21条评论` `程序员`
 1. [刘海屏事实上是增加了显示面积](https://www.v2ex.com/t/808911) `21条评论` `MacBook Pro`
 1. [其实，我还挺喜欢 Touch Bar](https://www.v2ex.com/t/808857) `21条评论` `Apple`
 1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
-1. [为什么现代金融系统,在转账时还需要提供'对方开户行名称'](https://www.v2ex.com/t/808944) `20条评论` `程序员`
 1. [jetbrains 对于盗版开始控制了 , 试用期都要登录账号了](https://www.v2ex.com/t/808856) `19条评论` `软件`
 1. [如果换个角度思考,MacBook Pro 的刘海屏幕瞬间就能接受并感到开心了.](https://www.v2ex.com/t/808793) `19条评论` `MacBook Pro`
 1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `16条评论` `Apple`
 1. [2 个月前就有老哥说有刘海，大家有一片哀嚎，有各种不信](https://www.v2ex.com/t/808716) `16条评论` `MacBook`
 
-数据更新于 2021-10-19 10:39:16
+数据更新于 2021-10-19 10:46:35
 
 <!-- TODAY END -->
 
