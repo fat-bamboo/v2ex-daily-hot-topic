@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `153条评论` `MacBook Pro`
-1. [传 送 门 3](https://www.v2ex.com/t/808904) `109条评论` `Apple`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `105条评论` `Apple`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `154条评论` `MacBook Pro`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `110条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `106条评论` `Apple`
+1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `65条评论` `Google`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `65条评论` `MacBook Pro`
-1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `64条评论` `Google`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `57条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `57条评论` `Apple`
 1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759) `48条评论` `推广`
@@ -32,7 +32,7 @@
 1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `18条评论` `Apple`
 1. [没有刚需的情况下买电子产品是不是被消费主义洗脑了？](https://www.v2ex.com/t/808809) `17条评论` `问与答`
 
-数据更新于 2021-10-19 13:51:35
+数据更新于 2021-10-19 14:05:10
 
 <!-- TODAY END -->
 
