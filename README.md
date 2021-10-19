@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `154条评论` `MacBook Pro`
-1. [传 送 门 3](https://www.v2ex.com/t/808904) `110条评论` `Apple`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `109条评论` `Apple`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `111条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `110条评论` `Apple`
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `65条评论` `Google`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `65条评论` `MacBook Pro`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `58条评论` `Apple`
@@ -24,15 +24,15 @@
 1. [刘海屏事实上是增加了显示面积](https://www.v2ex.com/t/808911) `21条评论` `MacBook Pro`
 1. [其实，我还挺喜欢 Touch Bar](https://www.v2ex.com/t/808857) `21条评论` `Apple`
 1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
+1. [抛开行业，你认为最值得学习的技能是什么？](https://www.v2ex.com/t/809005) `20条评论` `问与答`
 1. [想在 B 站搜苹果发布会，打开评论我人傻了](https://www.v2ex.com/t/808981) `19条评论` `MacBook Pro`
 1. [jetbrains 对于盗版开始控制了 , 试用期都要登录账号了](https://www.v2ex.com/t/808856) `19条评论` `软件`
 1. [如果换个角度思考,MacBook Pro 的刘海屏幕瞬间就能接受并感到开心了.](https://www.v2ex.com/t/808793) `19条评论` `MacBook Pro`
 1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
 1. [双十一[腾讯云一折起]1 核 2G6M 三年仅 198 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/808717) `19条评论` `优惠信息`
 1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `18条评论` `Apple`
-1. [没有刚需的情况下买电子产品是不是被消费主义洗脑了？](https://www.v2ex.com/t/808809) `17条评论` `问与答`
 
-数据更新于 2021-10-19 14:50:45
+数据更新于 2021-10-19 15:15:56
 
 <!-- TODAY END -->
 
