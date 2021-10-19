@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `106条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `80条评论` `Apple`
-1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `27条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `83条评论` `Apple`
+1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `42条评论` `MacBook Pro`
+1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `26条评论` `Apple`
-1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `23条评论` `MacBook Pro`
 1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
 1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
 1. [如果换个角度思考,MacBook Pro 的刘海屏幕瞬间就能接受并感到开心了.](https://www.v2ex.com/t/808793) `19条评论` `MacBook Pro`
@@ -23,16 +23,16 @@
 1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `16条评论` `Apple`
 1. [2 个月前就有老哥说有刘海，大家有一片哀嚎，有各种不信](https://www.v2ex.com/t/808716) `16条评论` `MacBook`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `16条评论` `Apple`
+1. [阿里巴巴 Java 开发规范:货币金额，均以最小货币单位且整型类型来进行存储, 和前端的交互也用整形吗?](https://www.v2ex.com/t/808813) `15条评论` `MySQL`
+1. [给要买新 Macbook 的同学一点儿参考意见](https://www.v2ex.com/t/808841) `14条评论` `Apple`
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `14条评论` `Google`
 1. [总有人以为自己就是全世界，自己的需求就是全世界的需求，所有产品必须符合他的需求和喜好](https://www.v2ex.com/t/808751) `14条评论` `智能家电`
 1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `14条评论` `Apple`
-1. [阿里巴巴 Java 开发规范:货币金额，均以最小货币单位且整型类型来进行存储, 和前端的交互也用整形吗?](https://www.v2ex.com/t/808813) `13条评论` `MySQL`
+1. [为什么 MacBook 14 M1 比 13 英寸 M1 少了那么多续航时间？](https://www.v2ex.com/t/808839) `13条评论` `Apple`
 1. [写了个批量检测 Apple Store 直营店货源的脚本，可发送钉钉通知](https://www.v2ex.com/t/808806) `12条评论` `Apple`
 1. [有没有懂个体户网上税务开电子票的大佬？问下签章问题](https://www.v2ex.com/t/808803) `12条评论` `问与答`
-1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `12条评论` `MacBook Pro`
-1. [没人讨论一下昨天出的“Apple Music 声控方案”吗？](https://www.v2ex.com/t/808805) `11条评论` `Apple`
 
-数据更新于 2021-10-19 05:51:44
+数据更新于 2021-10-19 06:07:11
 
 <!-- TODAY END -->
 
