@@ -9,17 +9,17 @@
 <!-- TODAY BEGIN -->
 
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `154条评论` `MacBook Pro`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `111条评论` `Apple`
 1. [传 送 门 3](https://www.v2ex.com/t/808904) `111条评论` `Apple`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `110条评论` `Apple`
-1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `68条评论` `MacBook Pro`
-1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `67条评论` `Google`
-1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `62条评论` `Apple`
+1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `69条评论` `MacBook Pro`
+1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `68条评论` `Google`
+1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `63条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `59条评论` `Apple`
 1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759) `48条评论` `推广`
 1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `47条评论` `MacBook Pro`
 1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
+1. [抛开行业，你认为最值得学习的技能是什么？](https://www.v2ex.com/t/809005) `27条评论` `问与答`
 1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
-1. [抛开行业，你认为最值得学习的技能是什么？](https://www.v2ex.com/t/809005) `21条评论` `问与答`
 1. [为什么现代金融系统,在转账时还需要提供'对方开户行名称'](https://www.v2ex.com/t/808944) `21条评论` `程序员`
 1. [国内这反 zp 的，直接把爬虫给反死了。。。](https://www.v2ex.com/t/808953) `21条评论` `程序员`
 1. [刘海屏事实上是增加了显示面积](https://www.v2ex.com/t/808911) `21条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [双十一[腾讯云一折起]1 核 2G6M 三年仅 198 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/808717) `19条评论` `优惠信息`
 1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `18条评论` `Apple`
 
-数据更新于 2021-10-19 15:58:00
+数据更新于 2021-10-19 16:33:16
 
 <!-- TODAY END -->
 
