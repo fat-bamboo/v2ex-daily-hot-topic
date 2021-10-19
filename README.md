@@ -8,27 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [又到了百家争鸣、百花齐放的时刻了。求推荐一款笔记本，需求内详~](https://www.v2ex.com/t/808313) `46条评论` `硬件`
-1. [V2 的朋友们，有用空气炸锅的吗？](https://www.v2ex.com/t/808320) `43条评论` `生活`
-1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330) `29条评论` `TypeScript`
-1. [实在找不到资料，请问 iPad 加视频采集卡，能当显示器用吗](https://www.v2ex.com/t/808321) `23条评论` `iPad`
-1. [关于蛋白粉求推荐](https://www.v2ex.com/t/808326) `20条评论` `问与答`
-1. [手机取消 3.5mm 耳机孔，转接后仍然感觉各种不舒服](https://www.v2ex.com/t/808343) `19条评论` `Android`
-1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334) `19条评论` ` WATCH`
-1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324) `15条评论` `宽带症候群`
-1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305) `15条评论` `游戏`
-1. [iOS 和 macOs 是否任意程序都可以随意访问 iCloud 存储？](https://www.v2ex.com/t/808336) `13条评论` `iCloud`
-1. [分享一个比较精致的关于爱情的页面设计](https://www.v2ex.com/t/808303) `12条评论` `分享发现`
-1. [位置权限有没有办法实现“不允许一次”](https://www.v2ex.com/t/808335) `11条评论` `iOS`
-1. [求助: socks5 代理转发并添加加密的方法](https://www.v2ex.com/t/808341) `9条评论` `程序员`
-1. [如何让 iPhone 定时重启](https://www.v2ex.com/t/808304) `9条评论` `Apple`
-1. [云闪付爱奇艺京东联合年度会员 138](https://www.v2ex.com/t/808306) `8条评论` `优惠信息`
-1. [Magic Keyboard 2 with Touch ID 值得入吗?](https://www.v2ex.com/t/808340) `7条评论` `Apple`
-1. [关于 Git rebase 的疑问](https://www.v2ex.com/t/808327) `7条评论` `git`
-1. [如何让 win11 的 doh 支持域名](https://www.v2ex.com/t/808300) `7条评论` `Windows`
-1. [淘宝的连续包 12 个月会少 5 天](https://www.v2ex.com/t/808329) `6条评论` `全球工单系统`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `154条评论` `MacBook Pro`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `110条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `107条评论` `Apple`
+1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `65条评论` `Google`
+1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `65条评论` `MacBook Pro`
+1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `58条评论` `Apple`
+1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `57条评论` `Apple`
+1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759) `48条评论` `推广`
+1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `47条评论` `MacBook Pro`
+1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
+1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
+1. [为什么现代金融系统,在转账时还需要提供'对方开户行名称'](https://www.v2ex.com/t/808944) `21条评论` `程序员`
+1. [国内这反 zp 的，直接把爬虫给反死了。。。](https://www.v2ex.com/t/808953) `21条评论` `程序员`
+1. [刘海屏事实上是增加了显示面积](https://www.v2ex.com/t/808911) `21条评论` `MacBook Pro`
+1. [其实，我还挺喜欢 Touch Bar](https://www.v2ex.com/t/808857) `21条评论` `Apple`
+1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
+1. [想在 B 站搜苹果发布会，打开评论我人傻了](https://www.v2ex.com/t/808981) `19条评论` `MacBook Pro`
+1. [jetbrains 对于盗版开始控制了 , 试用期都要登录账号了](https://www.v2ex.com/t/808856) `19条评论` `软件`
+1. [如果换个角度思考,MacBook Pro 的刘海屏幕瞬间就能接受并感到开心了.](https://www.v2ex.com/t/808793) `19条评论` `MacBook Pro`
+1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
+1. [双十一[腾讯云一折起]1 核 2G6M 三年仅 198 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/808717) `19条评论` `优惠信息`
+1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `18条评论` `Apple`
+1. [没有刚需的情况下买电子产品是不是被消费主义洗脑了？](https://www.v2ex.com/t/808809) `17条评论` `问与答`
 
-数据更新于 2021-10-17 09:34:22
+数据更新于 2021-10-19 14:41:41
 
 <!-- TODAY END -->
 
@@ -36,29 +40,29 @@
 
 <!-- YESTERDAY BEGIN -->
 
-1. [一个完全自定义配置的浏览器起始页](https://www.v2ex.com/t/808162) `53条评论` `浏览器`
-1. [打算去采访一些有趣或者大龄程序员，大家对什么方面感兴趣呢？](https://www.v2ex.com/t/808199) `50条评论` `程序员`
-1. [有哪些职业是比 996 的程序员还累的？](https://www.v2ex.com/t/808245) `45条评论` `问与答`
-1. [Win10 用几天后会卡顿](https://www.v2ex.com/t/808194) `39条评论` `问与答`
-1. [新的站群已经出现~](https://www.v2ex.com/t/808259) `35条评论` `Google`
-1. [关于新 14/16 M1X MacBook Pro 有没有刘海的传闻和讨论](https://www.v2ex.com/t/808163) `32条评论` `MacBook Pro`
-1. [现在手机设备是不是还是可以轻松的获取到类似 imei 这样的唯一识别号？](https://www.v2ex.com/t/808171) `32条评论` `问与答`
-1. [iPhone 能实现每月固定日期的闹钟吗？](https://www.v2ex.com/t/808217) `29条评论` `Apple`
-1. [96 年，在事业单位工作 4 年，想自学前端去省城工作，年龄合适吗？](https://www.v2ex.com/t/808228) `29条评论` `问与答`
-1. [百度盘今日正式到期，有一键迁移到天翼云或者阿里云的工具么？](https://www.v2ex.com/t/808168) `25条评论` `问与答`
-1. [见一个网站，现在哪里购买域名、ssl 证书，空间呢？](https://www.v2ex.com/t/808214) `23条评论` `问与答`
-1. [我家世代中医，有没有想调理身体的，来聊一聊？](https://www.v2ex.com/t/808236) `23条评论` `分享创造`
-1. [有了解逆向或者 Android 逆向的大佬吗？](https://www.v2ex.com/t/808246) `22条评论` `Android`
-1. [求推荐便宜又美味的酒精摄入渠道](https://www.v2ex.com/t/808243) `22条评论` `生活`
-1. [[全职远程]前端运维安全测试 QA 质量网关开发产品经理设计 Java 安卓苹果 go flutter](https://www.v2ex.com/t/808223) `18条评论` `酷工作`
-1. [2021 年了最适合后端 Java /Go 开发的操作系统是什么](https://www.v2ex.com/t/808176) `18条评论` `问与答`
-1. [要不要去杭州工作](https://www.v2ex.com/t/808221) `17条评论` `职场话题`
-1. [联通家宽开始逐步停止提供公网 ipv4 了？](https://www.v2ex.com/t/808218) `17条评论` `宽带症候群`
-1. [要不要改签外包合同，给点意见](https://www.v2ex.com/t/808216) `16条评论` `职场话题`
-1. [计科应届生面临毕业求职，求推荐找工作 App](https://www.v2ex.com/t/808179) `15条评论` `问与答`
-1. [一个谢绝伸手党的网站，求大佬告知。](https://www.v2ex.com/t/808212) `13条评论` `问与答`
-1. [Apple Watch 如何快速消耗电池寿命？](https://www.v2ex.com/t/808211) `12条评论` `Apple`
-1. [终于用上 4G 无线宽带，发帖庆祝一下~](https://www.v2ex.com/t/808200) `12条评论` `分享发现`
+1. [如何看待索尼中国因违法广告法被罚款 100 万元？](https://www.v2ex.com/t/808568) `167条评论` `知乎`
+1. [刘海屏的 MacBook Pro 你还买吗？](https://www.v2ex.com/t/808438) `156条评论` `MacBook Pro`
+1. [迫于不能忍刘海，求推荐 15 寸+适合黑苹果的笔记本](https://www.v2ex.com/t/808439) `107条评论` `Apple`
+1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481) `92条评论` `杭州`
+1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435) `91条评论` `Apple`
+1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601) `89条评论` `大学`
+1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441) `74条评论` `DotA`
+1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492) `69条评论` `分享创造`
+1. [[小米电视] 小爱同学未授权情况下全天侯监听录音！](https://www.v2ex.com/t/808548) `69条评论` `全球工单系统`
+1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490) `61条评论` `程序员`
+1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494) `49条评论` `职场话题`
+1. [从来没见过任何一届 Apple 发布会让人如此期待](https://www.v2ex.com/t/808652) `44条评论` `Apple`
+1. [M1 pro 和 M1 max 性能也太离谱了吧](https://www.v2ex.com/t/808665) `41条评论` `Apple`
+1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681) `37条评论` `MacBook Pro`
+1. [电信将不再免费提供家宽 ipv4 公网 ip](https://www.v2ex.com/t/808536) `32条评论` `宽带症候群`
+1. [马斯克、邪恶人工智能与自我实现的预言](https://www.v2ex.com/t/808507) `32条评论` `随想`
+1. [WSL 网络突然不可用了，真的是得远离瘟到死](https://www.v2ex.com/t/808578) `31条评论` `Windows`
+1. [赶在发布会之前最后分析一波，坐等打脸](https://www.v2ex.com/t/808537) `31条评论` `Apple`
+1. [认真讲， 30 岁就躺平会不会“有问题”，“不正常”？](https://www.v2ex.com/t/808531) `31条评论` `生活`
+1. [个人观点： 14 寸和 16 寸定价高但合理，没有明确需求买 M1 即可](https://www.v2ex.com/t/808683) `30条评论` `Apple`
+1. [深圳转凉了](https://www.v2ex.com/t/808440) `25条评论` `深圳`
+1. [有人玩吉他吗](https://www.v2ex.com/t/808581) `24条评论` `吉他`
+1. [Apple 太牛了，大家的注意力都在刘海，谁知道性能（CPU， GPU， RAM， SSD），电池，屏幕，键盘，接口都升级到这个程度](https://www.v2ex.com/t/808675) `23条评论` `MacBook Pro`
 
 <!-- YESTERDAY END -->
 
