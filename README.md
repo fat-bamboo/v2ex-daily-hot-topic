@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `105条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `76条评论` `Apple`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `106条评论` `MacBook Pro`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `78条评论` `Apple`
+1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `24条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `24条评论` `Apple`
-1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `23条评论` `Apple`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `23条评论` `MacBook Pro`
 1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
 1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
@@ -26,13 +26,13 @@
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `14条评论` `Google`
 1. [总有人以为自己就是全世界，自己的需求就是全世界的需求，所有产品必须符合他的需求和喜好](https://www.v2ex.com/t/808751) `14条评论` `智能家电`
 1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `14条评论` `Apple`
+1. [阿里巴巴 Java 开发规范:货币金额，均以最小货币单位且整型类型来进行存储, 和前端的交互也用整形吗?](https://www.v2ex.com/t/808813) `12条评论` `MySQL`
 1. [写了个批量检测 Apple Store 直营店货源的脚本，可发送钉钉通知](https://www.v2ex.com/t/808806) `12条评论` `Apple`
 1. [有没有懂个体户网上税务开电子票的大佬？问下签章问题](https://www.v2ex.com/t/808803) `12条评论` `问与答`
 1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `12条评论` `MacBook Pro`
-1. [阿里巴巴 Java 开发规范:货币金额，均以最小货币单位且整型类型来进行存储, 和前端的交互也用整形吗?](https://www.v2ex.com/t/808813) `11条评论` `MySQL`
-1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759) `11条评论` `推广`
+1. [没人讨论一下昨天出的“Apple Music 声控方案”吗？](https://www.v2ex.com/t/808805) `11条评论` `Apple`
 
-数据更新于 2021-10-19 05:21:18
+数据更新于 2021-10-19 05:31:59
 
 <!-- TODAY END -->
 
