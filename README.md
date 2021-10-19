@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `146条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `99条评论` `Apple`
-1. [传 送 门 3](https://www.v2ex.com/t/808904) `80条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `100条评论` `Apple`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `81条评论` `Apple`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `56条评论` `Apple`
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `55条评论` `Google`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `55条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `16条评论` `Apple`
 1. [2 个月前就有老哥说有刘海，大家有一片哀嚎，有各种不信](https://www.v2ex.com/t/808716) `16条评论` `MacBook`
 
-数据更新于 2021-10-19 10:46:35
+数据更新于 2021-10-19 10:52:54
 
 <!-- TODAY END -->
 
