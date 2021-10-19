@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `127条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `92条评论` `Apple`
-1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `49条评论` `Apple`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `94条评论` `Apple`
+1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `50条评论` `Apple`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `49条评论` `MacBook Pro`
+1. [传 送 门 3](https://www.v2ex.com/t/808904) `39条评论` `Apple`
 1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
-1. [传 送 门 3](https://www.v2ex.com/t/808904) `29条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `26条评论` `Apple`
 1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
 1. [其实，我还挺喜欢 Touch Bar](https://www.v2ex.com/t/808857) `21条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [总有人以为自己就是全世界，自己的需求就是全世界的需求，所有产品必须符合他的需求和喜好](https://www.v2ex.com/t/808751) `14条评论` `智能家电`
 1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `14条评论` `Apple`
 
-数据更新于 2021-10-19 07:51:39
+数据更新于 2021-10-19 08:07:23
 
 <!-- TODAY END -->
 
