@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `104条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `73条评论` `Apple`
+1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `105条评论` `MacBook Pro`
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `76条评论` `Apple`
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `24条评论` `Apple`
 1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `23条评论` `Apple`
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `23条评论` `MacBook Pro`
@@ -19,20 +19,20 @@
 1. [Macbook Air 会怎么更新？](https://www.v2ex.com/t/808730) `19条评论` `Apple`
 1. [双十一[腾讯云一折起]1 核 2G6M 三年仅 198 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/808717) `19条评论` `优惠信息`
 1. [M1 Pro 和 M1 Max CPU 性能是否一样？](https://www.v2ex.com/t/808764) `18条评论` `Apple`
+1. [没有刚需的情况下买电子产品是不是被消费主义洗脑了？](https://www.v2ex.com/t/808809) `16条评论` `问与答`
 1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `16条评论` `Apple`
 1. [2 个月前就有老哥说有刘海，大家有一片哀嚎，有各种不信](https://www.v2ex.com/t/808716) `16条评论` `MacBook`
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `16条评论` `Apple`
-1. [没有刚需的情况下买电子产品是不是被消费主义洗脑了？](https://www.v2ex.com/t/808809) `14条评论` `问与答`
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `14条评论` `Google`
 1. [总有人以为自己就是全世界，自己的需求就是全世界的需求，所有产品必须符合他的需求和喜好](https://www.v2ex.com/t/808751) `14条评论` `智能家电`
 1. [14 寸有必要升级 cpu 吗，平时也就用用 vscode](https://www.v2ex.com/t/808734) `14条评论` `Apple`
 1. [写了个批量检测 Apple Store 直营店货源的脚本，可发送钉钉通知](https://www.v2ex.com/t/808806) `12条评论` `Apple`
 1. [有没有懂个体户网上税务开电子票的大佬？问下签章问题](https://www.v2ex.com/t/808803) `12条评论` `问与答`
 1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `12条评论` `MacBook Pro`
+1. [阿里巴巴 Java 开发规范:货币金额，均以最小货币单位且整型类型来进行存储, 和前端的交互也用整形吗?](https://www.v2ex.com/t/808813) `11条评论` `MySQL`
 1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759) `11条评论` `推广`
-1. [Airpods3 和 Airpods Pro 的区别](https://www.v2ex.com/t/808743) `11条评论` `Apple`
 
-数据更新于 2021-10-19 05:04:59
+数据更新于 2021-10-19 05:21:18
 
 <!-- TODAY END -->
 
