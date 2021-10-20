@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [不太明白为什么苹果加个 16G 内存需要加 3000 块](https://www.v2ex.com/t/809174) `197条评论` `Apple`
+1. [不太明白为什么苹果加个 16G 内存需要加 3000 块](https://www.v2ex.com/t/809174) `199条评论` `Apple`
 1. [新 MacBook Pro 可以下单了](https://www.v2ex.com/t/809064) `194条评论` `Apple`
 1. [真的有不少年轻人选择躺平么？](https://www.v2ex.com/t/809069) `182条评论` `问与答`
 1. [难道只有我觉着刘海挺好的吗？](https://www.v2ex.com/t/809060) `106条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [明年的 Macbook Pro 会有 Face ID 吗？](https://www.v2ex.com/t/809118) `18条评论` `MacBook Pro`
 1. [新版 mac 这个内存加价策略真让人不舒服](https://www.v2ex.com/t/809209) `17条评论` `MacBook Pro`
 
-数据更新于 2021-10-20 23:18:00
+数据更新于 2021-10-20 23:33:31
 
 <!-- TODAY END -->
 
