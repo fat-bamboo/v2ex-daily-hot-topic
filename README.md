@@ -32,7 +32,7 @@
 1. [明年的 Macbook Pro 会有 Face ID 吗？](https://www.v2ex.com/t/809118) `18条评论` `MacBook Pro`
 1. [新版 mac 这个内存加价策略真让人不舒服](https://www.v2ex.com/t/809209) `17条评论` `MacBook Pro`
 
-数据更新于 2021-10-20 22:16:25
+数据更新于 2021-10-20 22:33:18
 
 <!-- TODAY END -->
 
