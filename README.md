@@ -12,12 +12,12 @@
 1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `138条评论` `生活`
 1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `104条评论` `问与答`
 1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `90条评论` `Windows`
-1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476) `80条评论` `程序员`
-1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `73条评论` `MacBook Pro`
+1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476) `81条评论` `程序员`
+1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `74条评论` `MacBook Pro`
 1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `69条评论` `Apple`
 1. [为什么没有一种万能且通用的编程语言呢？](https://www.v2ex.com/t/809557) `63条评论` `程序员`
 1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `63条评论` `Apple`
-1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565) `52条评论` `iPhone`
+1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565) `54条评论` `iPhone`
 1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `27条评论` `宽带症候群`
 1. [急急急！ iphone12pro 丢失后有人联系我](https://www.v2ex.com/t/809618) `25条评论` `问与答`
 1. [前端笔记本选择，好迷茫了，有欠款， air(16g+1t 官翻)还是 m1 pro(8+32+1t）呢](https://www.v2ex.com/t/809501) `25条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [32G 内存会不会不够用，苹果的 Unified Memory 统一内存是 Cpu Gpu 共用内存呀](https://www.v2ex.com/t/809393) `19条评论` `MacBook Pro`
 1. [某宝买的成品软路由 漏电，咋办](https://www.v2ex.com/t/809561) `18条评论` `程序员`
 
-数据更新于 2021-10-21 14:29:53
+数据更新于 2021-10-21 14:40:49
 
 <!-- TODAY END -->
 
