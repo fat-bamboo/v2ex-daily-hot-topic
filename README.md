@@ -9,15 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `102条评论` `生活`
-1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `50条评论` `Apple`
+1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `51条评论` `Apple`
 1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `50条评论` `Apple`
-1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `35条评论` `生活`
+1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `42条评论` `生活`
 1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `34条评论` `Windows`
-1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `27条评论` `MacBook Pro`
+1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `31条评论` `MacBook Pro`
 1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `27条评论` `宽带症候群`
+1. [想问下有 Pixel 用户吗？](https://www.v2ex.com/t/809479) `22条评论` `Pixel`
 1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `22条评论` `问与答`
 1. [如何把前后端分离的项目快速转成手机应用？](https://www.v2ex.com/t/809404) `22条评论` `前端开发`
-1. [想问下有 Pixel 用户吗？](https://www.v2ex.com/t/809479) `20条评论` `Pixel`
 1. [LOL 手游，微信分享居然能获取到取消状态。。。](https://www.v2ex.com/t/809492) `19条评论` `分享发现`
 1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476) `19条评论` `程序员`
 1. [32G 内存会不会不够用，苹果的 Unified Memory 统一内存是 Cpu Gpu 共用内存呀](https://www.v2ex.com/t/809393) `19条评论` `MacBook Pro`
@@ -26,13 +26,13 @@
 1. [自从有了 wsa，就可以愉快地刷 tiktok 了](https://www.v2ex.com/t/809461) `16条评论` `Windows`
 1. [希望强大的 V2 可以增加楼主在回复楼层里的特殊标记](https://www.v2ex.com/t/809415) `16条评论` `反馈`
 1. [[ Java ] 方法里有很多判断需要提前结束，很多重复代码，求大神！](https://www.v2ex.com/t/809503) `15条评论` `程序员`
+1. [前端笔记本选择，好迷茫了，有欠款， air(16g+1t 官翻)还是 m1 pro(8+32+1t）呢](https://www.v2ex.com/t/809501) `15条评论` `MacBook Pro`
 1. [Apple M1 Max Geekbench 跑分](https://www.v2ex.com/t/809460) `15条评论` `Apple`
 1. [App 开发者需要更新此 App 以在此 iOS 版本上正常工作](https://www.v2ex.com/t/809466) `14条评论` `iOS`
 1. [从杭州到三线城市的这一个月，来谈谈我的感受，或许对需要回老家的人有帮助](https://www.v2ex.com/t/809427) `14条评论` `生活`
 1. [做了个 Windows 上的刘海](https://www.v2ex.com/t/809467) `13条评论` `分享创造`
-1. [使用美区 id 的各位，有没有注意到很多地方都变成中文了](https://www.v2ex.com/t/809391) `13条评论` `iPhone`
 
-数据更新于 2021-10-21 06:41:10
+数据更新于 2021-10-21 06:55:42
 
 <!-- TODAY END -->
 
