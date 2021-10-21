@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `94条评论` `生活`
-1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `38条评论` `Apple`
+1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `96条评论` `生活`
+1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `45条评论` `Apple`
 1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `28条评论` `Apple`
 1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `27条评论` `宽带症候群`
 1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `22条评论` `问与答`
 1. [如何把前后端分离的项目快速转成手机应用？](https://www.v2ex.com/t/809404) `22条评论` `前端开发`
-1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `19条评论` `生活`
+1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `21条评论` `生活`
+1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `19条评论` `Windows`
 1. [32G 内存会不会不够用，苹果的 Unified Memory 统一内存是 Cpu Gpu 共用内存呀](https://www.v2ex.com/t/809393) `19条评论` `MacBook Pro`
-1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `18条评论` `Windows`
 1. [你们的新 Mac 什么时候到货, 包括国内国外的](https://www.v2ex.com/t/809390) `18条评论` `MacBook Pro`
+1. [自从有了 wsa，就可以愉快地刷 tiktok 了](https://www.v2ex.com/t/809461) `16条评论` `Windows`
 1. [希望强大的 V2 可以增加楼主在回复楼层里的特殊标记](https://www.v2ex.com/t/809415) `16条评论` `反馈`
 1. [App 开发者需要更新此 App 以在此 iOS 版本上正常工作](https://www.v2ex.com/t/809466) `14条评论` `iOS`
 1. [从杭州到三线城市的这一个月，来谈谈我的感受，或许对需要回老家的人有帮助](https://www.v2ex.com/t/809427) `14条评论` `生活`
+1. [Apple M1 Max Geekbench 跑分](https://www.v2ex.com/t/809460) `13条评论` `Apple`
 1. [使用美区 id 的各位，有没有注意到很多地方都变成中文了](https://www.v2ex.com/t/809391) `13条评论` `iPhone`
 1. [讨论下 m1pro， m2 和黑苹果的选择](https://www.v2ex.com/t/809468) `12条评论` `Apple`
-1. [自从有了 wsa，就可以愉快地刷 tiktok 了](https://www.v2ex.com/t/809461) `12条评论` `Windows`
+1. [做了个 Windows 上的刘海](https://www.v2ex.com/t/809467) `12条评论` `分享创造`
 1. [新款 macbook pro 第三方经销商价格已经出来了](https://www.v2ex.com/t/809451) `12条评论` `MacBook Pro`
-1. [Apple M1 Max Geekbench 跑分](https://www.v2ex.com/t/809460) `11条评论` `Apple`
 1. [想办理一张信用卡请问那家的比较合适点,给推荐一下呗 谢谢铁子们](https://www.v2ex.com/t/809418) `11条评论` `问与答`
 1. [MacBook Pro 已经加了刘海了，带刘海的 Air 还会远吗？](https://www.v2ex.com/t/809402) `11条评论` `MacBook Air`
-1. [做了个 Windows 上的刘海](https://www.v2ex.com/t/809467) `9条评论` `分享创造`
 1. [又一个农场网站 '程序员的秘密'](https://www.v2ex.com/t/809457) `9条评论` `Google`
 1. [换 SIM 卡后信号恢复正常可能是什么原因？](https://www.v2ex.com/t/809417) `9条评论` `程序员`
 
-数据更新于 2021-10-21 05:00:02
+数据更新于 2021-10-21 05:20:19
 
 <!-- TODAY END -->
 
