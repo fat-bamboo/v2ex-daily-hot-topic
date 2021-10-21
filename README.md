@@ -9,21 +9,21 @@
 <!-- TODAY BEGIN -->
 
 1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `126条评论` `生活`
-1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `121条评论` `生活`
-1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `91条评论` `问与答`
-1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `74条评论` `Windows`
+1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `125条评论` `生活`
+1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `93条评论` `问与答`
+1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `76条评论` `Windows`
 1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476) `69条评论` `程序员`
 1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `64条评论` `Apple`
 1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `63条评论` `MacBook Pro`
-1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `61条评论` `Apple`
-1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565) `51条评论` `iPhone`
+1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `62条评论` `Apple`
+1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565) `52条评论` `iPhone`
 1. [为什么没有一种万能且通用的编程语言呢？](https://www.v2ex.com/t/809557) `41条评论` `程序员`
 1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `27条评论` `宽带症候群`
 1. [前端笔记本选择，好迷茫了，有欠款， air(16g+1t 官翻)还是 m1 pro(8+32+1t）呢](https://www.v2ex.com/t/809501) `25条评论` `MacBook Pro`
 1. [LOL 手游，微信分享居然能获取到取消状态。。。](https://www.v2ex.com/t/809492) `25条评论` `分享发现`
 1. [程序狗如何选择 2021 Macbook Pro， M1 Pro 还是 M1 Max？？](https://www.v2ex.com/t/809528) `24条评论` `MacBook Pro`
+1. [不想用 iPhone 的大陆区了。大家一般用哪个区呢？](https://www.v2ex.com/t/809570) `23条评论` `iPhone`
 1. [索尼电视到底用 100m 的有线，还是用 5G 的 wifi？](https://www.v2ex.com/t/809519) `23条评论` `问与答`
-1. [不想用 iPhone 的大陆区了。大家一般用哪个区呢？](https://www.v2ex.com/t/809570) `22条评论` `iPhone`
 1. [想问下有 Pixel 用户吗？](https://www.v2ex.com/t/809479) `22条评论` `Pixel`
 1. [如何把前后端分离的项目快速转成手机应用？](https://www.v2ex.com/t/809404) `22条评论` `前端开发`
 1. [AC+也就保 3 年吧，要用 5 年 10 年的同学 3 年以后该怎么办？](https://www.v2ex.com/t/809525) `19条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [讨论下 m1pro， m2 和黑苹果的选择](https://www.v2ex.com/t/809468) `18条评论` `Apple`
 1. [你们的新 Mac 什么时候到货, 包括国内国外的](https://www.v2ex.com/t/809390) `18条评论` `MacBook Pro`
 
-数据更新于 2021-10-21 11:28:02
+数据更新于 2021-10-21 11:38:39
 
 <!-- TODAY END -->
 
