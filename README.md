@@ -8,6 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
+1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `13条评论` `程序员`
+1. [你们的新 Mac 什么时候到货, 包括国内国外的](https://www.v2ex.com/t/809390) `8条评论` `MacBook Pro`
+1. [使用美区 id 的各位，有没有注意到很多地方都变成中文了](https://www.v2ex.com/t/809391) `7条评论` `iPhone`
+1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `7条评论` `宽带症候群`
+
+数据更新于 2021-10-21 01:04:37
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [不太明白为什么苹果加个 16G 内存需要加 3000 块](https://www.v2ex.com/t/809174) `203条评论` `Apple`
 1. [新 MacBook Pro 可以下单了](https://www.v2ex.com/t/809064) `194条评论` `Apple`
 1. [真的有不少年轻人选择躺平么？](https://www.v2ex.com/t/809069) `182条评论` `问与答`
@@ -31,38 +44,6 @@
 1. [pro 更 pro 了，那能让 air 更 air 吗？](https://www.v2ex.com/t/809348) `20条评论` `Apple`
 1. [明年的 Macbook Pro 会有 Face ID 吗？](https://www.v2ex.com/t/809118) `18条评论` `MacBook Pro`
 1. [新版 mac 这个内存加价策略真让人不舒服](https://www.v2ex.com/t/809209) `17条评论` `MacBook Pro`
-
-数据更新于 2021-10-20 23:56:12
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718) `154条评论` `MacBook Pro`
-1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752) `118条评论` `Apple`
-1. [传 送 门 3](https://www.v2ex.com/t/808904) `113条评论` `Apple`
-1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777) `78条评论` `MacBook Pro`
-1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755) `73条评论` `Google`
-1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714) `66条评论` `Apple`
-1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810) `61条评论` `Apple`
-1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759) `51条评论` `推广`
-1. [刘海屏事实上是增加了显示面积](https://www.v2ex.com/t/808911) `50条评论` `MacBook Pro`
-1. [有老哥知道国内新的 MacBook Pro 啥时候开卖不](https://www.v2ex.com/t/808731) `47条评论` `Apple`
-1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737) `47条评论` `MacBook Pro`
-1. [[昨晚的 MacBook] 苹果终于弃用了那些无用的设计......](https://www.v2ex.com/t/808815) `31条评论` `Apple`
-1. [抛开行业，你认为最值得学习的技能是什么？](https://www.v2ex.com/t/809005) `30条评论` `问与答`
-1. [刘海真的没必要](https://www.v2ex.com/t/809023) `24条评论` `Apple`
-1. [刚罚了索尼，苹果又来了，必须罚死苹果！](https://www.v2ex.com/t/808811) `22条评论` `Apple`
-1. [新 Macbook Pro 上的 HDMI 接口怎么还是 2.0，明明 HDMI 2.1 在电视领域都算是普及开来了，苹果这波操作有点纳闷啊](https://www.v2ex.com/t/809033) `21条评论` `MacBook Pro`
-1. [回老家入职国企后关于后台管理系统的技术选型请教= =](https://www.v2ex.com/t/809022) `21条评论` `程序员`
-1. [为什么现代金融系统,在转账时还需要提供'对方开户行名称'](https://www.v2ex.com/t/808944) `21条评论` `程序员`
-1. [国内这反 zp 的，直接把爬虫给反死了。。。](https://www.v2ex.com/t/808953) `21条评论` `程序员`
-1. [其实，我还挺喜欢 Touch Bar](https://www.v2ex.com/t/808857) `21条评论` `Apple`
-1. [前端开发要不要买 m1 pro](https://www.v2ex.com/t/808758) `21条评论` `MacBook Pro`
-1. [想在 B 站搜苹果发布会，打开评论我人傻了](https://www.v2ex.com/t/808981) `19条评论` `MacBook Pro`
-1. [jetbrains 对于盗版开始控制了 , 试用期都要登录账号了](https://www.v2ex.com/t/808856) `19条评论` `软件`
 
 <!-- YESTERDAY END -->
 
