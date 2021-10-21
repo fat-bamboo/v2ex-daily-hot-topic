@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `106条评论` `生活`
-1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `80条评论` `生活`
+1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `111条评论` `生活`
+1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `91条评论` `生活`
+1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `62条评论` `问与答`
 1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `54条评论` `Apple`
-1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `53条评论` `问与答`
-1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `51条评论` `Apple`
+1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `53条评论` `Apple`
 1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `34条评论` `Windows`
 1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `31条评论` `MacBook Pro`
 1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `27条评论` `宽带症候群`
@@ -22,17 +22,17 @@
 1. [如何把前后端分离的项目快速转成手机应用？](https://www.v2ex.com/t/809404) `22条评论` `前端开发`
 1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476) `19条评论` `程序员`
 1. [32G 内存会不会不够用，苹果的 Unified Memory 统一内存是 Cpu Gpu 共用内存呀](https://www.v2ex.com/t/809393) `19条评论` `MacBook Pro`
+1. [程序狗如何选择 2021 Macbook Pro， M1 Pro 还是 M1 Max？？](https://www.v2ex.com/t/809528) `18条评论` `MacBook Pro`
 1. [讨论下 m1pro， m2 和黑苹果的选择](https://www.v2ex.com/t/809468) `18条评论` `Apple`
 1. [你们的新 Mac 什么时候到货, 包括国内国外的](https://www.v2ex.com/t/809390) `18条评论` `MacBook Pro`
+1. [索尼电视到底用 100m 的有线，还是用 5G 的 wifi？](https://www.v2ex.com/t/809519) `17条评论` `问与答`
 1. [自从有了 wsa，就可以愉快地刷 tiktok 了](https://www.v2ex.com/t/809461) `16条评论` `Windows`
 1. [希望强大的 V2 可以增加楼主在回复楼层里的特殊标记](https://www.v2ex.com/t/809415) `16条评论` `反馈`
 1. [[ Java ] 方法里有很多判断需要提前结束，很多重复代码，求大神！](https://www.v2ex.com/t/809503) `15条评论` `程序员`
 1. [Apple M1 Max Geekbench 跑分](https://www.v2ex.com/t/809460) `15条评论` `Apple`
-1. [程序狗如何选择 2021 Macbook Pro， M1 Pro 还是 M1 Max？？](https://www.v2ex.com/t/809528) `14条评论` `MacBook Pro`
 1. [浙江电信宽带/融合套餐 169 元 有什么更优解么,目前 169 元融合套餐,优惠年底到期后感觉略贵.](https://www.v2ex.com/t/809490) `14条评论` `宽带症候群`
-1. [App 开发者需要更新此 App 以在此 iOS 版本上正常工作](https://www.v2ex.com/t/809466) `14条评论` `iOS`
 
-数据更新于 2021-10-21 07:50:45
+数据更新于 2021-10-21 08:18:20
 
 <!-- TODAY END -->
 
