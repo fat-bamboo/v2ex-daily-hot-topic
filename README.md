@@ -10,13 +10,14 @@
 
 1. [每次苹果新推出桌面级芯片就会有无数个工科生冒了出来说“solidworks， UG， ProE， Ansys， Alium designer 全都用不了，打游戏也拉，机械电气行业妥妥的垃圾。”这种论述，不知道他们是在刷什么存在感...](https://www.v2ex.com/t/809678) `113条评论` `Apple`
 1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `84条评论` `Apple`
-1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `80条评论` `职场话题`
-1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799) `68条评论` `MacBook Pro`
+1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `81条评论` `职场话题`
+1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799) `72条评论` `MacBook Pro`
 1. [李云迪这样的钢琴家为什么会嫖啊 倒贴的女的数不过来吧](https://www.v2ex.com/t/809680) `54条评论` `问与答`
+1. [准备换个 4k 显示器，求推荐](https://www.v2ex.com/t/809715) `38条评论` `硬件`
 1. [关于 Youtube 推荐内容](https://www.v2ex.com/t/809809) `26条评论` `问与答`
+1. [rsa 生成的公钥、私钥，可以互相交换吗？我可以把 PRIVATE KEY 发给客户端，把 PUBLIC KEY 留给自己用吗？](https://www.v2ex.com/t/809833) `25条评论` `问与答`
 1. [撸代码，求轻薄本推荐？](https://www.v2ex.com/t/809791) `24条评论` `硬件`
 1. [Watch 7 续航感人？](https://www.v2ex.com/t/809775) `24条评论` ` WATCH`
-1. [rsa 生成的公钥、私钥，可以互相交换吗？我可以把 PRIVATE KEY 发给客户端，把 PUBLIC KEY 留给自己用吗？](https://www.v2ex.com/t/809833) `23条评论` `问与答`
 1. [有个统计网站 UV 的后台需求，用什么技术框架实现比较好？](https://www.v2ex.com/t/809728) `23条评论` `程序员`
 1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837) `21条评论` `Apple`
 1. [既然没有 Face ID 为什么非得加刘海，直接调用 iPhone 的摄像头不是更好？](https://www.v2ex.com/t/809818) `21条评论` `Apple`
@@ -30,9 +31,8 @@
 1. [口粮茶推荐](https://www.v2ex.com/t/809741) `13条评论` `玩家国度`
 1. [怎么买三联周刊合适](https://www.v2ex.com/t/809673) `13条评论` `问与答`
 1. [各位 V 友好，不写程序，用来开虚拟机浏览网页(有时会开 1～ 2 个 VM)，请问新款该选什么配置？ 內存如果 32G ， m1 pro 处理器有必要升级 10 核吗？？](https://www.v2ex.com/t/809795) `12条评论` `MacBook Pro`
-1. [内存加到 32g， cpu 有必要升到 10 核吗](https://www.v2ex.com/t/809759) `11条评论` `Apple`
 
-数据更新于 2021-10-22 09:39:21
+数据更新于 2021-10-22 09:49:39
 
 <!-- TODAY END -->
 
