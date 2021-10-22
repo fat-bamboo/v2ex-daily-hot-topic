@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [每次苹果新推出桌面级芯片就会有无数个工科生冒了出来说“solidworks， UG， ProE， Ansys， Alium designer 全都用不了，打游戏也拉，机械电气行业妥妥的垃圾。”这种论述，不知道他们是在刷什么存在感...](https://www.v2ex.com/t/809678) `113条评论` `Apple`
-1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `55条评论` `Apple`
+1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `58条评论` `Apple`
 1. [李云迪这样的钢琴家为什么会嫖啊 倒贴的女的数不过来吧](https://www.v2ex.com/t/809680) `54条评论` `问与答`
-1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `52条评论` `职场话题`
+1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `53条评论` `职场话题`
 1. [有个统计网站 UV 的后台需求，用什么技术框架实现比较好？](https://www.v2ex.com/t/809728) `23条评论` `程序员`
 1. [有没有老哥网上买到过 apple 的员工优惠？靠谱么？想买 macbook pro](https://www.v2ex.com/t/809685) `16条评论` `MacBook Pro`
 1. [苹果公司确认新款 16 寸 MacBook Pro 独享高功率性能模式](https://www.v2ex.com/t/809727) `15条评论` `MacBook Pro`
@@ -26,13 +26,13 @@
 1. [美区 Mac App Store 也支持中文了](https://www.v2ex.com/t/809711) `9条评论` `Apple`
 1. [手持 MBP 2018，以我的需求是不是等明年的 M2 Macbook Air 是最好的选择](https://www.v2ex.com/t/809693) `9条评论` `MacBook Pro`
 1. [bat 脚本怎么加密，不想让人看到](https://www.v2ex.com/t/809677) `9条评论` `Windows`
+1. [口粮茶推荐](https://www.v2ex.com/t/809741) `8条评论` `玩家国度`
+1. [你们双十一打算买什么](https://www.v2ex.com/t/809730) `8条评论` `买买买`
 1. [今年 1024 IDEA 抽奖](https://www.v2ex.com/t/809719) `8条评论` `JetBrains`
 1. [之前说好的，所有更新的 iPad 软件要强制适配横屏，现在又过了 2 年了，结果呢？](https://www.v2ex.com/t/809703) `8条评论` `iPad`
 1. [最新 iOS 充值 9 折 它又来了](https://www.v2ex.com/t/809690) `8条评论` `优惠信息`
-1. [口粮茶推荐](https://www.v2ex.com/t/809741) `7条评论` `玩家国度`
-1. [你们双十一打算买什么](https://www.v2ex.com/t/809730) `7条评论` `买买买`
 
-数据更新于 2021-10-22 04:49:29
+数据更新于 2021-10-22 04:59:54
 
 <!-- TODAY END -->
 
