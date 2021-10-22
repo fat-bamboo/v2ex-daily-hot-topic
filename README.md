@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868) `132条评论` `程序员`
+1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868) `134条评论` `程序员`
 1. [每次苹果新推出桌面级芯片就会有无数个工科生冒了出来说“solidworks， UG， ProE， Ansys， Alium designer 全都用不了，打游戏也拉，机械电气行业妥妥的垃圾。”这种论述，不知道他们是在刷什么存在感...](https://www.v2ex.com/t/809678) `113条评论` `Apple`
 1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `99条评论` `Apple`
 1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799) `88条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819) `16条评论` `Windows`
 1. [有没有老哥网上买到过 apple 的员工优惠？靠谱么？想买 macbook pro](https://www.v2ex.com/t/809685) `16条评论` `MacBook Pro`
 
-数据更新于 2021-10-22 17:46:41
+数据更新于 2021-10-22 17:56:58
 
 <!-- TODAY END -->
 
