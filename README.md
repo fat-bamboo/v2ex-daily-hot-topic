@@ -10,12 +10,12 @@
 
 1. [每次苹果新推出桌面级芯片就会有无数个工科生冒了出来说“solidworks， UG， ProE， Ansys， Alium designer 全都用不了，打游戏也拉，机械电气行业妥妥的垃圾。”这种论述，不知道他们是在刷什么存在感...](https://www.v2ex.com/t/809678) `113条评论` `Apple`
 1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `99条评论` `Apple`
-1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868) `90条评论` `程序员`
+1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868) `97条评论` `程序员`
 1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `86条评论` `职场话题`
 1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799) `83条评论` `MacBook Pro`
 1. [准备换个 4k 显示器，求推荐](https://www.v2ex.com/t/809715) `55条评论` `硬件`
 1. [李云迪这样的钢琴家为什么会嫖啊 倒贴的女的数不过来吧](https://www.v2ex.com/t/809680) `54条评论` `问与答`
-1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837) `41条评论` `Apple`
+1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837) `42条评论` `Apple`
 1. [数据库的业务表如何设计？有什么方法论吗？各位有什么资料让我学习一下，谢谢！](https://www.v2ex.com/t/809758) `38条评论` `程序员`
 1. [关于 Youtube 推荐内容](https://www.v2ex.com/t/809809) `26条评论` `问与答`
 1. [rsa 生成的公钥、私钥，可以互相交换吗？我可以把 PRIVATE KEY 发给客户端，把 PUBLIC KEY 留给自己用吗？](https://www.v2ex.com/t/809833) `25条评论` `问与答`
@@ -27,12 +27,12 @@
 1. [为什么 ClashX Pro 不开源？](https://www.v2ex.com/t/809887) `20条评论` `问与答`
 1. [程序员节就来一道解迷题吧](https://www.v2ex.com/t/809761) `20条评论` `分享创造`
 1. [你对 Apple Pencil 有什么想法？](https://www.v2ex.com/t/809863) `19条评论` `Apple`
-1. [谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914) `16条评论` `Google`
+1. [谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914) `17条评论` `Google`
 1. [win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819) `16条评论` `Windows`
 1. [有没有老哥网上买到过 apple 的员工优惠？靠谱么？想买 macbook pro](https://www.v2ex.com/t/809685) `16条评论` `MacBook Pro`
 1. [苹果公司确认新款 16 寸 MacBook Pro 独享高功率性能模式](https://www.v2ex.com/t/809727) `15条评论` `MacBook Pro`
 
-数据更新于 2021-10-22 15:15:49
+数据更新于 2021-10-22 15:35:51
 
 <!-- TODAY END -->
 
