@@ -28,11 +28,11 @@
 1. [为什么 ClashX Pro 不开源？](https://www.v2ex.com/t/809887) `20条评论` `问与答`
 1. [程序员节就来一道解迷题吧](https://www.v2ex.com/t/809761) `20条评论` `分享创造`
 1. [你对 Apple Pencil 有什么想法？](https://www.v2ex.com/t/809863) `19条评论` `Apple`
-1. [谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914) `17条评论` `Google`
+1. [谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914) `18条评论` `Google`
 1. [win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819) `16条评论` `Windows`
 1. [有没有老哥网上买到过 apple 的员工优惠？靠谱么？想买 macbook pro](https://www.v2ex.com/t/809685) `16条评论` `MacBook Pro`
 
-数据更新于 2021-10-22 18:57:27
+数据更新于 2021-10-22 19:16:05
 
 <!-- TODAY END -->
 
