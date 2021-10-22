@@ -10,29 +10,29 @@
 
 1. [每次苹果新推出桌面级芯片就会有无数个工科生冒了出来说“solidworks， UG， ProE， Ansys， Alium designer 全都用不了，打游戏也拉，机械电气行业妥妥的垃圾。”这种论述，不知道他们是在刷什么存在感...](https://www.v2ex.com/t/809678) `113条评论` `Apple`
 1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `80条评论` `Apple`
-1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `76条评论` `职场话题`
+1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691) `77条评论` `职场话题`
 1. [李云迪这样的钢琴家为什么会嫖啊 倒贴的女的数不过来吧](https://www.v2ex.com/t/809680) `54条评论` `问与答`
-1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799) `52条评论` `MacBook Pro`
+1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799) `53条评论` `MacBook Pro`
 1. [关于 Youtube 推荐内容](https://www.v2ex.com/t/809809) `26条评论` `问与答`
 1. [撸代码，求轻薄本推荐？](https://www.v2ex.com/t/809791) `24条评论` `硬件`
 1. [Watch 7 续航感人？](https://www.v2ex.com/t/809775) `24条评论` ` WATCH`
 1. [有个统计网站 UV 的后台需求，用什么技术框架实现比较好？](https://www.v2ex.com/t/809728) `23条评论` `程序员`
 1. [rsa 生成的公钥、私钥，可以互相交换吗？我可以把 PRIVATE KEY 发给客户端，把 PUBLIC KEY 留给自己用吗？](https://www.v2ex.com/t/809833) `21条评论` `问与答`
 1. [程序员节就来一道解迷题吧](https://www.v2ex.com/t/809761) `20条评论` `分享创造`
-1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837) `17条评论` `Apple`
+1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837) `19条评论` `Apple`
 1. [有没有老哥网上买到过 apple 的员工优惠？靠谱么？想买 macbook pro](https://www.v2ex.com/t/809685) `16条评论` `MacBook Pro`
 1. [苹果公司确认新款 16 寸 MacBook Pro 独享高功率性能模式](https://www.v2ex.com/t/809727) `15条评论` `MacBook Pro`
+1. [Monterey 的低电量模式拯救了 5300M 和 5500M 的 16 寸，还能再战几年！](https://www.v2ex.com/t/809823) `14条评论` `Apple`
+1. [win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819) `14条评论` `Windows`
+1. [既然没有 Face ID 为什么非得加刘海，直接调用 iPhone 的摄像头不是更好？](https://www.v2ex.com/t/809818) `14条评论` `Apple`
 1. [请教以下 JavaWeb 后端学习路线](https://www.v2ex.com/t/809787) `14条评论` `程序员`
-1. [Monterey 的低电量模式拯救了 5300M 和 5500M 的 16 寸，还能再战几年！](https://www.v2ex.com/t/809823) `13条评论` `Apple`
 1. [什么是归属感？为什么去过很多地方都感觉没有那种特别想待的感觉，家里也是这种感觉](https://www.v2ex.com/t/809781) `13条评论` `生活`
 1. [口粮茶推荐](https://www.v2ex.com/t/809741) `13条评论` `玩家国度`
 1. [怎么买三联周刊合适](https://www.v2ex.com/t/809673) `13条评论` `问与答`
 1. [各位 V 友好，不写程序，用来开虚拟机浏览网页(有时会开 1～ 2 个 VM)，请问新款该选什么配置？ 內存如果 32G ， m1 pro 处理器有必要升级 10 核吗？？](https://www.v2ex.com/t/809795) `12条评论` `MacBook Pro`
-1. [win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819) `11条评论` `Windows`
 1. [内存加到 32g， cpu 有必要升到 10 核吗](https://www.v2ex.com/t/809759) `11条评论` `Apple`
-1. [记一次糟糕的远程单位面试体验](https://www.v2ex.com/t/809723) `11条评论` `分享发现`
 
-数据更新于 2021-10-22 08:48:46
+数据更新于 2021-10-22 08:59:00
 
 <!-- TODAY END -->
 
