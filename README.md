@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新 MacBook pro 开箱](https://www.v2ex.com/t/809961) `79条评论` `Apple`
+1. [新 MacBook pro 开箱](https://www.v2ex.com/t/809961) `80条评论` `Apple`
 1. [新款 MacBook M1 Pro 16 真机上手视频](https://www.v2ex.com/t/810038) `45条评论` `Apple`
 1. [程序获取手机指定号码的短信](https://www.v2ex.com/t/809973) `38条评论` `程序员`
 1. [很多科幻作品中，未来的政治体制跟像过去相似，是不是不太合理；对于 "披着科幻皮的 XXX" 这种评价是否太苛刻了](https://www.v2ex.com/t/809976) `38条评论` `科幻`
-1. [不知道明年三月份会不会发布新的 mac air，现在买是不是 49 年入国军呀](https://www.v2ex.com/t/809982) `36条评论` `Apple`
+1. [不知道明年三月份会不会发布新的 mac air，现在买是不是 49 年入国军呀](https://www.v2ex.com/t/809982) `37条评论` `Apple`
 1. [对帖子的补充与终结 [现在在 github 开源项目上不回答别人的问题，都是错了么]](https://www.v2ex.com/t/809972) `34条评论` `程序员`
 1. [小米 11pro 8+256 3799 怎么说 值得入手么](https://www.v2ex.com/t/809960) `30条评论` `问与答`
 1. [程序员 5 年坚持制作免费教程造福百万学生](https://www.v2ex.com/t/810045) `28条评论` `互联网`
@@ -25,14 +25,14 @@
 1. [靠墙想了一下，还是等明年的 M2 mba 了](https://www.v2ex.com/t/809998) `15条评论` `问与答`
 1. [用 macbook air 13 寸上班写代码，长期写代码屏幕显小吗？](https://www.v2ex.com/t/809970) `15条评论` `问与答`
 1. [请教一个 WSL2 上代理的问题](https://www.v2ex.com/t/809967) `15条评论` `Windows`
+1. [yoga14s vs macbook air](https://www.v2ex.com/t/810053) `14条评论` `问与答`
 1. [想知道旁路网关(旁路由)模式有什么样的缺点？](https://www.v2ex.com/t/809992) `14条评论` `宽带症候群`
 1. [支付宝 Apple music 免费领](https://www.v2ex.com/t/810035) `13条评论` `Apple`
 1. [作为一个大三计科生,该为以后选择什么方向?](https://www.v2ex.com/t/809974) `13条评论` `问与答`
 1. [请教一下，关于光猫，桥接， dmz， ap 的性能问题](https://www.v2ex.com/t/809966) `13条评论` `宽带症候群`
-1. [yoga14s vs macbook air](https://www.v2ex.com/t/810053) `12条评论` `问与答`
 1. [预计一种全新的 MacBook 配件系列要诞生了](https://www.v2ex.com/t/810047) `11条评论` `MacBook Pro`
 
-数据更新于 2021-10-23 15:41:25
+数据更新于 2021-10-23 15:55:39
 
 <!-- TODAY END -->
 
