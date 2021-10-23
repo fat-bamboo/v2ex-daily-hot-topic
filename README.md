@@ -8,10 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新 MacBook pro 开箱](https://www.v2ex.com/t/809961) `18条评论` `Apple`
+1. [新 MacBook pro 开箱](https://www.v2ex.com/t/809961) `27条评论` `Apple`
+1. [用 macbook air 13 寸上班写代码，长期写代码屏幕显小吗？](https://www.v2ex.com/t/809970) `8条评论` `问与答`
 1. [群晖 DS119j 内网文件拷贝速度很慢](https://www.v2ex.com/t/809962) `7条评论` `NAS`
+1. [U2720Q 搭配 MAC，显示器颜色设置到底要怎么调](https://www.v2ex.com/t/809959) `6条评论` `macOS`
+1. [新 M1 max 跑分 https://www.pugetsystems.com/benchmarks/view. PHP ?id=60176](https://www.v2ex.com/t/809954) `6条评论` `Apple`
 
-数据更新于 2021-10-23 02:07:01
+数据更新于 2021-10-23 02:41:02
 
 <!-- TODAY END -->
 
