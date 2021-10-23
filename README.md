@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2021-10-23 01:00:17
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868) `144条评论` `程序员`
 1. [每次苹果新推出桌面级芯片就会有无数个工科生冒了出来说“solidworks， UG， ProE， Ansys， Alium designer 全都用不了，打游戏也拉，机械电气行业妥妥的垃圾。”这种论述，不知道他们是在刷什么存在感...](https://www.v2ex.com/t/809678) `113条评论` `Apple`
 1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694) `102条评论` `Apple`
@@ -31,38 +41,6 @@
 1. [谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914) `18条评论` `Google`
 1. [千万别看沙丘](https://www.v2ex.com/t/809939) `16条评论` `电影`
 1. [win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819) `16条评论` `Windows`
-
-数据更新于 2021-10-22 23:56:10
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [v2 这里打工人应该不少吧，租房的应该也不少，大家会在出租屋内给自己整个台式吗，或者搞个屏幕吗](https://www.v2ex.com/t/809392) `145条评论` `生活`
-1. [一线薪水 80 多万，租房一个月所有加起来 1900，这个不算奢侈吧](https://www.v2ex.com/t/809471) `144条评论` `生活`
-1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441) `113条评论` `问与答`
-1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474) `93条评论` `Windows`
-1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476) `89条评论` `程序员`
-1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484) `81条评论` `MacBook Pro`
-1. [为什么没有一种万能且通用的编程语言呢？](https://www.v2ex.com/t/809557) `76条评论` `程序员`
-1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397) `74条评论` `Apple`
-1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422) `64条评论` `Apple`
-1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565) `57条评论` `iPhone`
-1. [急急急！ iphone12pro 丢失后有人联系我](https://www.v2ex.com/t/809618) `27条评论` `问与答`
-1. [北京联通公网 ipv4 没了](https://www.v2ex.com/t/809389) `27条评论` `宽带症候群`
-1. [一个大约 89 折方案给大家， 4500 买 75 折的资格，越顶配越便宜](https://www.v2ex.com/t/809635) `26条评论` `Apple`
-1. [前端笔记本选择，好迷茫了，有欠款， air(16g+1t 官翻)还是 m1 pro(8+32+1t）呢](https://www.v2ex.com/t/809501) `25条评论` `MacBook Pro`
-1. [LOL 手游，微信分享居然能获取到取消状态。。。](https://www.v2ex.com/t/809492) `25条评论` `分享发现`
-1. [程序狗如何选择 2021 Macbook Pro， M1 Pro 还是 M1 Max？？](https://www.v2ex.com/t/809528) `24条评论` `MacBook Pro`
-1. [不想用 iPhone 的大陆区了。大家一般用哪个区呢？](https://www.v2ex.com/t/809570) `23条评论` `iPhone`
-1. [索尼电视到底用 100m 的有线，还是用 5G 的 wifi？](https://www.v2ex.com/t/809519) `23条评论` `问与答`
-1. [想问下有 Pixel 用户吗？](https://www.v2ex.com/t/809479) `22条评论` `Pixel`
-1. [如何把前后端分离的项目快速转成手机应用？](https://www.v2ex.com/t/809404) `22条评论` `前端开发`
-1. [微信移除了 robots.txt](https://www.v2ex.com/t/809615) `20条评论` `微信`
-1. [对比两张图片“画质”好，应该怎么控制变量？](https://www.v2ex.com/t/809601) `19条评论` `问与答`
-1. [AC+也就保 3 年吧，要用 5 年 10 年的同学 3 年以后该怎么办？](https://www.v2ex.com/t/809525) `19条评论` `MacBook Pro`
 
 <!-- YESTERDAY END -->
 
