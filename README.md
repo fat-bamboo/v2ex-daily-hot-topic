@@ -8,12 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么不大力发展无线传输](https://www.v2ex.com/t/810104) `17条评论` `随想`
-1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120) `6条评论` `Apple`
-1. [手指太短手套不好买怎么办？](https://www.v2ex.com/t/810108) `6条评论` `生活`
+1. [为什么不大力发展无线传输](https://www.v2ex.com/t/810104) `20条评论` `随想`
+1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120) `7条评论` `Apple`
+1. [手指太短手套不好买怎么办？](https://www.v2ex.com/t/810108) `7条评论` `生活`
+1. [big sur 夜间模式和自动切换主题](https://www.v2ex.com/t/810119) `6条评论` `macOS`
 1. [现在苹果体验店有新版 Macbook Pro 么？](https://www.v2ex.com/t/810107) `6条评论` `MacBook Pro`
 
-数据更新于 2021-10-24 03:56:49
+数据更新于 2021-10-24 04:24:36
 
 <!-- TODAY END -->
 
