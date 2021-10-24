@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么不大力发展无线传输](https://www.v2ex.com/t/810104) `27条评论` `随想`
-1. [好喜欢这类独自徒步的视频，太美了，感受到了自由](https://www.v2ex.com/t/810131) `20条评论` `旅行`
-1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120) `13条评论` `Apple`
-1. [看到 Go 与 MongoDB 的交互方式，我想放弃 Go 了](https://www.v2ex.com/t/810126) `12条评论` `Go 编程语言`
+1. [为什么不大力发展无线传输](https://www.v2ex.com/t/810104) `28条评论` `随想`
+1. [好喜欢这类独自徒步的视频，太美了，感受到了自由](https://www.v2ex.com/t/810131) `23条评论` `旅行`
+1. [看到 Go 与 MongoDB 的交互方式，我想放弃 Go 了](https://www.v2ex.com/t/810126) `14条评论` `Go 编程语言`
+1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120) `14条评论` `Apple`
 1. [手指太短手套不好买怎么办？](https://www.v2ex.com/t/810108) `9条评论` `生活`
 1. [在深圳 Apple 授权专营店买了 13 Pro](https://www.v2ex.com/t/810125) `7条评论` `Apple`
 1. [big sur 夜间模式和自动切换主题](https://www.v2ex.com/t/810119) `7条评论` `macOS`
@@ -19,7 +19,7 @@
 1. [现在苹果体验店有新版 Macbook Pro 么？](https://www.v2ex.com/t/810107) `6条评论` `MacBook Pro`
 1. [求教这是什么问题](https://www.v2ex.com/t/810103) `6条评论` `硬件`
 
-数据更新于 2021-10-24 05:56:02
+数据更新于 2021-10-24 06:19:46
 
 <!-- TODAY END -->
 
