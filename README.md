@@ -12,8 +12,8 @@
 1. [建议美团取消评价功能--差评后商家电话、上门要求更改评价](https://www.v2ex.com/t/810159) `53条评论` `全球工单系统`
 1. [看到 Go 与 MongoDB 的交互方式，我想放弃 Go 了](https://www.v2ex.com/t/810126) `49条评论` `Go 编程语言`
 1. [为什么不大力发展无线传输](https://www.v2ex.com/t/810104) `40条评论` `随想`
+1. [你们真的需要换新的 MacBook Pro 么？](https://www.v2ex.com/t/810193) `39条评论` `MacBook Pro`
 1. [i9-12900HK Geekbench5 单核和多核跑分超 M1 max](https://www.v2ex.com/t/810190) `38条评论` `Apple`
-1. [你们真的需要换新的 MacBook Pro 么？](https://www.v2ex.com/t/810193) `37条评论` `MacBook Pro`
 1. [请问在这里发帖怎么不能贴图片啊](https://www.v2ex.com/t/810127) `28条评论` `问与答`
 1. [微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217) `25条评论` `互联网`
 1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120) `23条评论` `Apple`
@@ -26,13 +26,13 @@
 1. [租房不让钉钉子如何挂洞洞板？](https://www.v2ex.com/t/810188) `14条评论` `问与答`
 1. [平时很少用手机拍照， 13pro 与 13 区别就高刷新率和亮度？ 大家会怎么选？](https://www.v2ex.com/t/810197) `13条评论` `iPhone`
 1. [iPad 的 AppleCare+真的要买，过期了也要续费，尤其是你买了一堆品控差的苹果配件的情况下](https://www.v2ex.com/t/810150) `13条评论` `iPad`
-1. [整理了一波计算机书籍的综合评分列表](https://www.v2ex.com/t/810204) `11条评论` `程序员`
+1. [整理了一波计算机书籍的综合评分列表](https://www.v2ex.com/t/810204) `12条评论` `程序员`
 1. [路由器用几天就断线一次，请帮我看看日志](https://www.v2ex.com/t/810155) `11条评论` `问与答`
 1. [在深圳 Apple 授权专营店买了 13 Pro](https://www.v2ex.com/t/810125) `10条评论` `Apple`
 1. [为了苹果网站的特效，写了个 JS 库，求 Star](https://www.v2ex.com/t/810137) `9条评论` `分享创造`
 1. [debian 系统下，有没有简单的办法检测指定网卡配置是 dhcp/static/manual？](https://www.v2ex.com/t/810117) `9条评论` `Linux`
 
-数据更新于 2021-10-24 21:55:56
+数据更新于 2021-10-24 22:15:44
 
 <!-- TODAY END -->
 
