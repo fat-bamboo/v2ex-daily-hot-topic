@@ -15,9 +15,9 @@
 1. [macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315) `56条评论` `macOS`
 1. [索尼（SONY）XR-65X90J 65 英寸 全面屏 4K 超高清 HDR XR 认知芯片 这款电视如何](https://www.v2ex.com/t/810302) `53条评论` `问与答`
 1. [iPhone 13 PM 的屏闪真的会伤眼睛](https://www.v2ex.com/t/810330) `53条评论` `Apple`
-1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247) `51条评论` `Apple`
+1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247) `52条评论` `Apple`
 1. [早上又又忘记打卡了。IOS 有办法实现 GPS 定位，自动调出类似钉钉打卡的功能么？](https://www.v2ex.com/t/810256) `48条评论` `程序员`
-1. [macOS Monterey 今天凌晨可以下载了](https://www.v2ex.com/t/810485) `35条评论` `macOS`
+1. [macOS Monterey 今天凌晨可以下载了](https://www.v2ex.com/t/810485) `36条评论` `macOS`
 1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502) `33条评论` `Apple`
 1. [大四物理师范生，不太想当老师，想转码，有什么建议吗](https://www.v2ex.com/t/810402) `25条评论` `问与答`
 1. [看了钟文泽视频，感觉新的 mbp 也没那么厚和丑](https://www.v2ex.com/t/810477) `24条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [有外地车在京的车主么？实力安利一个小程序](https://www.v2ex.com/t/810294) `20条评论` `程序员`
 1. [MBP 16' 2019 的用户聊聊看法？](https://www.v2ex.com/t/810501) `19条评论` `Apple`
 
-数据更新于 2021-10-25 19:25:56
+数据更新于 2021-10-25 19:36:34
 
 <!-- TODAY END -->
 
