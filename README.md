@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [记录一下定投虚拟币半年来的坎坷经历](https://www.v2ex.com/t/810271) `108条评论` `区块链`
-1. [AC86U 凡是有无线连接问题的，可以进来看看了。](https://www.v2ex.com/t/810238) `77条评论` `分享发现`
+1. [AC86U 凡是有无线连接问题的，可以进来看看了。](https://www.v2ex.com/t/810238) `78条评论` `分享发现`
 1. [MacBook 系列为什么不考虑屏下摄像头呢？](https://www.v2ex.com/t/810249) `73条评论` `Apple`
-1. [求一款轻薄的手机](https://www.v2ex.com/t/810297) `67条评论` `Android`
-1. [iPhone 13 PM 的屏闪真的会伤眼睛](https://www.v2ex.com/t/810330) `51条评论` `Apple`
-1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247) `50条评论` `Apple`
-1. [macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315) `36条评论` `macOS`
+1. [求一款轻薄的手机](https://www.v2ex.com/t/810297) `68条评论` `Android`
+1. [iPhone 13 PM 的屏闪真的会伤眼睛](https://www.v2ex.com/t/810330) `52条评论` `Apple`
+1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247) `51条评论` `Apple`
+1. [macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315) `47条评论` `macOS`
 1. [大四物理师范生，不太想当老师，想转码，有什么建议吗](https://www.v2ex.com/t/810402) `25条评论` `问与答`
 1. [有点后悔跟公司硬刚了](https://www.v2ex.com/t/810390) `24条评论` `职场话题`
 1. [如何办理香港卡](https://www.v2ex.com/t/810418) `23条评论` `投资`
@@ -32,7 +32,7 @@
 1. [各位的办公室也是与小强朝夕相处么？](https://www.v2ex.com/t/810415) `16条评论` `生活`
 1. [吓到我了,大家千万别用 CleanMyMac X](https://www.v2ex.com/t/810394) `16条评论` `macOS`
 
-数据更新于 2021-10-25 12:36:07
+数据更新于 2021-10-25 13:03:12
 
 <!-- TODAY END -->
 
