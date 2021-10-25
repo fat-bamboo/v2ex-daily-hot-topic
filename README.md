@@ -8,14 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记录一下定投虚拟币半年来的坎坷经历](https://www.v2ex.com/t/810271) `115条评论` `区块链`
+1. [记录一下定投虚拟币半年来的坎坷经历](https://www.v2ex.com/t/810271) `117条评论` `区块链`
 1. [AC86U 凡是有无线连接问题的，可以进来看看了。](https://www.v2ex.com/t/810238) `78条评论` `分享发现`
 1. [MacBook 系列为什么不考虑屏下摄像头呢？](https://www.v2ex.com/t/810249) `76条评论` `Apple`
 1. [求一款轻薄的手机](https://www.v2ex.com/t/810297) `74条评论` `Android`
-1. [macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315) `55条评论` `macOS`
+1. [macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315) `56条评论` `macOS`
 1. [索尼（SONY）XR-65X90J 65 英寸 全面屏 4K 超高清 HDR XR 认知芯片 这款电视如何](https://www.v2ex.com/t/810302) `53条评论` `问与答`
 1. [iPhone 13 PM 的屏闪真的会伤眼睛](https://www.v2ex.com/t/810330) `52条评论` `Apple`
 1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247) `51条评论` `Apple`
+1. [早上又又忘记打卡了。IOS 有办法实现 GPS 定位，自动调出类似钉钉打卡的功能么？](https://www.v2ex.com/t/810256) `48条评论` `程序员`
+1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502) `26条评论` `Apple`
 1. [大四物理师范生，不太想当老师，想转码，有什么建议吗](https://www.v2ex.com/t/810402) `25条评论` `问与答`
 1. [有点后悔跟公司硬刚了](https://www.v2ex.com/t/810390) `24条评论` `职场话题`
 1. [如何办理香港卡](https://www.v2ex.com/t/810418) `23条评论` `投资`
@@ -29,10 +31,8 @@
 1. [有外地车在京的车主么？实力安利一个小程序](https://www.v2ex.com/t/810294) `20条评论` `程序员`
 1. [感觉用不到 hdmi 接口 和 sd 卡槽，不想买 pro 想等明年的新 air](https://www.v2ex.com/t/810289) `19条评论` `Apple`
 1. [昨天问了天才吧小哥， AC+进水可以保](https://www.v2ex.com/t/810265) `18条评论` `Apple`
-1. [早上又又忘记打卡了。IOS 有办法实现 GPS 定位，自动调出类似钉钉打卡的功能么？](https://www.v2ex.com/t/810256) `18条评论` `程序员`
-1. [5 年前端， 17K，北京，是不是严重拖后腿了](https://www.v2ex.com/t/810395) `17条评论` `问与答`
 
-数据更新于 2021-10-25 16:26:11
+数据更新于 2021-10-25 16:59:39
 
 <!-- TODAY END -->
 
