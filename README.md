@@ -11,7 +11,7 @@
 1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583) `180条评论` `Apple`
 1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `137条评论` `奇思妙想`
 1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `134条评论` `Apple`
-1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `104条评论` `iOS`
+1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `105条评论` `iOS`
 1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `76条评论` `硬件`
 1. [升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578) `74条评论` `macOS`
 1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622) `72条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些为黑而黑的 mikywei 们](https://www.v2ex.com/t/810747) `17条评论` `Apple`
 1. [迫于上网，求推荐一个路由器](https://www.v2ex.com/t/810688) `17条评论` `宽带症候群`
 
-数据更新于 2021-10-26 19:57:06
+数据更新于 2021-10-26 20:20:12
 
 <!-- TODAY END -->
 
