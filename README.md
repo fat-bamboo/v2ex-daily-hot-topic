@@ -14,7 +14,7 @@
 1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `104条评论` `iOS`
 1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `76条评论` `硬件`
 1. [升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578) `74条评论` `macOS`
-1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622) `71条评论` `macOS`
+1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622) `72条评论` `macOS`
 1. [Apple Notes 更新后， Bear 还有存在的意义吗？](https://www.v2ex.com/t/810546) `66条评论` `Apple`
 1. [这句话对吗：外观选 air，性能选 pro](https://www.v2ex.com/t/810538) `54条评论` `Apple`
 1. [新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！](https://www.v2ex.com/t/810557) `54条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [迫于上网，求推荐一个路由器](https://www.v2ex.com/t/810688) `17条评论` `宽带症候群`
 1. [盖楼抽奖｜写了一个极客时间返现网站｜抽 40 人的鸡腿钱](https://www.v2ex.com/t/810511) `17条评论` `推广`
 
-数据更新于 2021-10-26 19:12:11
+数据更新于 2021-10-26 19:26:03
 
 <!-- TODAY END -->
 
