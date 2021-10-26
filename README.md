@@ -8,19 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `43条评论` `Apple`
-1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `34条评论` `程序员`
-1. [为什么帖子会 302 重定向了，是内容触发什么了吗？](https://www.v2ex.com/t/810521) `21条评论` `程序员`
-1. [这句话对吗：外观选 air，性能选 pro](https://www.v2ex.com/t/810538) `16条评论` `Apple`
-1. [个人博客数据库选 MariaDB 还是 PostgreSQL 好呢？，我用 typecho](https://www.v2ex.com/t/810518) `14条评论` `程序员`
-1. [支付宝首页的各种卡片可以关掉啦！](https://www.v2ex.com/t/810512) `14条评论` `分享发现`
+1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `61条评论` `Apple`
+1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `35条评论` `程序员`
+1. [为什么帖子会 302 重定向了，是内容触发什么了吗？](https://www.v2ex.com/t/810521) `29条评论` `程序员`
+1. [这句话对吗：外观选 air，性能选 pro](https://www.v2ex.com/t/810538) `28条评论` `Apple`
+1. [个人博客数据库选 MariaDB 还是 PostgreSQL 好呢？，我用 typecho](https://www.v2ex.com/t/810518) `25条评论` `程序员`
+1. [支付宝首页的各种卡片可以关掉啦！](https://www.v2ex.com/t/810512) `18条评论` `分享发现`
+1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `17条评论` `奇思妙想`
+1. [盖楼抽奖｜写了一个极客时间返现网站｜抽 40 人的鸡腿钱](https://www.v2ex.com/t/810511) `17条评论` `推广`
 1. [适合程序员的新款 MacBook Pro，究竟选哪一款](https://www.v2ex.com/t/810526) `13条评论` `MacBook Pro`
-1. [盖楼抽奖｜写了一个极客时间返现网站｜抽 40 人的鸡腿钱](https://www.v2ex.com/t/810511) `13条评论` `推广`
 1. [cleaner than cleaner](https://www.v2ex.com/t/810517) `12条评论` `Apple`
-1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `11条评论` `奇思妙想`
-1. [谁知道 WeChat 海外域名都有哪些](https://www.v2ex.com/t/810524) `10条评论` `问与答`
+1. [谁知道 WeChat 海外域名都有哪些](https://www.v2ex.com/t/810524) `11条评论` `问与答`
+1. [mbp 有物流信息的来打个卡](https://www.v2ex.com/t/810543) `10条评论` `Apple`
+1. [21‘ MBP16 定制版到货](https://www.v2ex.com/t/810541) `10条评论` `Apple`
+1. [疑问, iOS15 设置界面的广告是原生的吗](https://www.v2ex.com/t/810549) `8条评论` `iDev`
+1. [只炒指数基金怎么最大化获利？](https://www.v2ex.com/t/810540) `7条评论` `投资`
+1. [Spotify 国内 Visa 没法用，有没有靠谱的上车渠道？](https://www.v2ex.com/t/810536) `7条评论` `问与答`
+1. [各大人脸识别 SDK 有能支持 HTML5 实时摄像头认证的吗？](https://www.v2ex.com/t/810525) `7条评论` `问与答`
+1. [问个知识付费相关的问题：我买了个网课，然后自己学习之后，又把学习笔记（里面可能有很多课程的内容），放到了网上，这样属于侵权吗？有相关的法律条文吗](https://www.v2ex.com/t/810515) `7条评论` `问与答`
+1. [日文 OCR 问题](https://www.v2ex.com/t/810551) `6条评论` `程序员`
+1. [下载 B 站的 4k 视频](https://www.v2ex.com/t/810547) `6条评论` `问与答`
+1. [Apple Notes 更新后， Bear 还有存在的意义吗？](https://www.v2ex.com/t/810546) `6条评论` `Apple`
+1. [MacBook Pro 可以直营店线下取货了，部分型号现货](https://www.v2ex.com/t/810534) `6条评论` `Apple`
 
-数据更新于 2021-10-26 01:56:33
+数据更新于 2021-10-26 02:28:43
 
 <!-- TODAY END -->
 
