@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583) `140条评论` `Apple`
-1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `119条评论` `Apple`
-1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `112条评论` `奇思妙想`
-1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `81条评论` `Apple`
+1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583) `143条评论` `Apple`
+1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `120条评论` `Apple`
+1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `114条评论` `奇思妙想`
+1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `83条评论` `Apple`
 1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `70条评论` `硬件`
 1. [这句话对吗：外观选 air，性能选 pro](https://www.v2ex.com/t/810538) `35条评论` `Apple`
 1. [个人博客数据库选 MariaDB 还是 PostgreSQL 好呢？，我用 typecho](https://www.v2ex.com/t/810518) `30条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [看了几个开箱，发现刘海是真的不能忍](https://www.v2ex.com/t/810609) `15条评论` `MacBook Pro`
 1. [MBP 换机请教](https://www.v2ex.com/t/810573) `15条评论` `MacBook Pro`
 
-数据更新于 2021-10-26 09:35:31
+数据更新于 2021-10-26 09:49:58
 
 <!-- TODAY END -->
 
