@@ -24,7 +24,7 @@
 1. [发现字节开源了一个 Semi Design，这是要对标 Ant Design?](https://www.v2ex.com/t/810618) `25条评论` `分享发现`
 1. [升级 win11 后， ctrl+shift+esc 呼不出任务管理器了？](https://www.v2ex.com/t/810576) `24条评论` `Windows`
 1. [mbp 有物流信息的来打个卡](https://www.v2ex.com/t/810543) `24条评论` `Apple`
-1. [马后炮而论， M1 Macbook Air 是否成为一代经典？](https://www.v2ex.com/t/810802) `22条评论` `Apple`
+1. [马后炮而论， M1 Macbook Air 是否成为一代经典？](https://www.v2ex.com/t/810802) `23条评论` `Apple`
 1. [运营商收回公网 IP 的原因之一](https://www.v2ex.com/t/810633) `21条评论` `宽带症候群`
 1. [只炒指数基金怎么最大化获利？](https://www.v2ex.com/t/810540) `20条评论` `投资`
 1. [Xcode 编译速度 16'MBP ( M1max 64G ) 对比 Mac pro (2019 12 核至强) 快 51.4%](https://www.v2ex.com/t/810657) `19条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些为黑而黑的 mikywei 们](https://www.v2ex.com/t/810747) `17条评论` `Apple`
 1. [迫于上网，求推荐一个路由器](https://www.v2ex.com/t/810688) `17条评论` `宽带症候群`
 
-数据更新于 2021-10-26 22:34:02
+数据更新于 2021-10-26 22:45:36
 
 <!-- TODAY END -->
 
