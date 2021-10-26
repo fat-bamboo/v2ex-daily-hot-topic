@@ -27,12 +27,12 @@
 1. [只炒指数基金怎么最大化获利？](https://www.v2ex.com/t/810540) `20条评论` `投资`
 1. [Xcode 编译速度 16'MBP ( M1max 64G ) 对比 Mac pro (2019 12 核至强) 快 51.4%](https://www.v2ex.com/t/810657) `19条评论` `MacBook Pro`
 1. [支付宝首页的各种卡片可以关掉啦！](https://www.v2ex.com/t/810512) `18条评论` `分享发现`
+1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些为黑而黑的 mikywei 们](https://www.v2ex.com/t/810747) `17条评论` `Apple`
 1. [迫于上网，求推荐一个路由器](https://www.v2ex.com/t/810688) `17条评论` `宽带症候群`
 1. [盖楼抽奖｜写了一个极客时间返现网站｜抽 40 人的鸡腿钱](https://www.v2ex.com/t/810511) `17条评论` `推广`
 1. [有朋友用过 Windows 11 小修精简版吗？](https://www.v2ex.com/t/810728) `16条评论` `Windows`
-1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些为黑而黑的 mikywei 们](https://www.v2ex.com/t/810747) `15条评论` `Apple`
 
-数据更新于 2021-10-26 15:47:18
+数据更新于 2021-10-26 15:56:43
 
 <!-- TODAY END -->
 
