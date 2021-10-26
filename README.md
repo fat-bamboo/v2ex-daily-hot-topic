@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `100条评论` `Apple`
-1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583) `70条评论` `Apple`
-1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `60条评论` `硬件`
+1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `103条评论` `Apple`
+1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583) `80条评论` `Apple`
+1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `65条评论` `奇思妙想`
+1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `63条评论` `硬件`
 1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `51条评论` `Apple`
 1. [这句话对吗：外观选 air，性能选 pro](https://www.v2ex.com/t/810538) `35条评论` `Apple`
-1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `32条评论` `奇思妙想`
 1. [个人博客数据库选 MariaDB 还是 PostgreSQL 好呢？，我用 typecho](https://www.v2ex.com/t/810518) `30条评论` `程序员`
 1. [升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578) `29条评论` `macOS`
 1. [为什么帖子会 302 重定向了，是内容触发什么了吗？](https://www.v2ex.com/t/810521) `29条评论` `程序员`
@@ -24,15 +24,15 @@
 1. [只炒指数基金怎么最大化获利？](https://www.v2ex.com/t/810540) `20条评论` `投资`
 1. [支付宝首页的各种卡片可以关掉啦！](https://www.v2ex.com/t/810512) `18条评论` `分享发现`
 1. [盖楼抽奖｜写了一个极客时间返现网站｜抽 40 人的鸡腿钱](https://www.v2ex.com/t/810511) `17条评论` `推广`
+1. [发现字节开源了一个 Semi Design，这是要对标 Ant Design?](https://www.v2ex.com/t/810618) `16条评论` `分享发现`
 1. [MBP 换机请教](https://www.v2ex.com/t/810573) `15条评论` `MacBook Pro`
 1. [看了几个开箱，发现刘海是真的不能忍](https://www.v2ex.com/t/810609) `14条评论` `MacBook Pro`
 1. [新 MacBook Pro 16 真的厚了很多吗？数据说话。](https://www.v2ex.com/t/810581) `14条评论` `MacBook Pro`
 1. [新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！](https://www.v2ex.com/t/810557) `14条评论` `MacBook Pro`
 1. [下载 B 站的 4k 视频](https://www.v2ex.com/t/810547) `14条评论` `问与答`
-1. [能不能做一款字幕众包写协作网站啊](https://www.v2ex.com/t/810593) `13条评论` `奇思妙想`
-1. [适合程序员的新款 MacBook Pro，究竟选哪一款](https://www.v2ex.com/t/810526) `13条评论` `MacBook Pro`
+1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622) `13条评论` `macOS`
 
-数据更新于 2021-10-26 05:56:48
+数据更新于 2021-10-26 06:22:25
 
 <!-- TODAY END -->
 
