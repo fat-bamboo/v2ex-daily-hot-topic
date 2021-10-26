@@ -11,11 +11,11 @@
 1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583) `170条评论` `Apple`
 1. [更新了 MacOS Monterey，感觉牛爆了](https://www.v2ex.com/t/810529) `132条评论` `Apple`
 1. [2022 年放假安排来了！](https://www.v2ex.com/t/810537) `129条评论` `奇思妙想`
-1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `91条评论` `iOS`
+1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587) `92条评论` `iOS`
 1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519) `74条评论` `硬件`
+1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622) `65条评论` `macOS`
 1. [Apple Notes 更新后， Bear 还有存在的意义吗？](https://www.v2ex.com/t/810546) `64条评论` `Apple`
 1. [升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578) `64条评论` `macOS`
-1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622) `63条评论` `macOS`
 1. [这句话对吗：外观选 air，性能选 pro](https://www.v2ex.com/t/810538) `35条评论` `Apple`
 1. [个人博客数据库选 MariaDB 还是 PostgreSQL 好呢？，我用 typecho](https://www.v2ex.com/t/810518) `30条评论` `程序员`
 1. [为什么帖子会 302 重定向了，是内容触发什么了吗？](https://www.v2ex.com/t/810521) `29条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [有朋友用过 Windows 11 小修精简版吗？](https://www.v2ex.com/t/810728) `16条评论` `Windows`
 1. [还是上车了](https://www.v2ex.com/t/810631) `15条评论` `生活`
 
-数据更新于 2021-10-26 14:14:55
+数据更新于 2021-10-26 14:29:42
 
 <!-- TODAY END -->
 
