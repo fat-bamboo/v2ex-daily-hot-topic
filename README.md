@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `78条评论` `分享创造`
-1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `62条评论` `问与答`
+1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `79条评论` `分享创造`
+1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `65条评论` `问与答`
 1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `51条评论` `问与答`
-1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `44条评论` `Apple`
+1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `45条评论` `Apple`
 1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `24条评论` `MacBook Pro`
+1. [16" m1 pro 16g 用了一晚，那个屏真毒到我了](https://www.v2ex.com/t/810888) `23条评论` `Apple`
 1. [新入行设计师攒经验和作品，免费接 5 个 UI/UX 设计项目](https://www.v2ex.com/t/810852) `21条评论` `设计`
 1. [PDF 转 word](https://www.v2ex.com/t/810821) `21条评论` `问与答`
-1. [16" m1 pro 16g 用了一晚，那个屏真毒到我了](https://www.v2ex.com/t/810888) `20条评论` `Apple`
 1. [ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。](https://www.v2ex.com/t/810828) `20条评论` `Apple`
 1. [周经贴：被裁员的 N+1 是如何计算的？](https://www.v2ex.com/t/810862) `19条评论` `职场话题`
 1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844) `17条评论` `奇思妙想`
@@ -29,10 +29,10 @@
 1. [MacBook Pro 14/16 可以自己拓展加存储内存?](https://www.v2ex.com/t/810905) `11条评论` `MacBook Pro`
 1. [小米 10S 对比小米 Civi](https://www.v2ex.com/t/810895) `11条评论` `Android`
 1. [新款 14 寸 mac 到了，有一点让我极其震撼～](https://www.v2ex.com/t/810829) `11条评论` `Apple`
+1. [MacOS Monterey 新出的 Passwords，大家觉得怎么样？](https://www.v2ex.com/t/810889) `10条评论` `macOS`
 1. [Pixel 6 已到货，不支持人脸解锁](https://www.v2ex.com/t/810872) `10条评论` `Google`
-1. [售价 60 元的 Apple 取卡针，我怎么在苹果官网找不到啊](https://www.v2ex.com/t/810863) `10条评论` `Apple`
 
-数据更新于 2021-10-27 04:49:59
+数据更新于 2021-10-27 05:00:18
 
 <!-- TODAY END -->
 
