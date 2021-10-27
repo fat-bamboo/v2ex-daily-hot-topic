@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `112条评论` `分享创造`
-1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `110条评论` `问与答`
+1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `114条评论` `问与答`
+1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `114条评论` `分享创造`
+1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844) `61条评论` `奇思妙想`
 1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `60条评论` `Apple`
-1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844) `59条评论` `奇思妙想`
-1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `56条评论` `问与答`
-1. [感觉程序员越来越像当代的绣娘了。](https://www.v2ex.com/t/810841) `51条评论` `程序员`
-1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `43条评论` `MacBook Pro`
+1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `57条评论` `问与答`
+1. [感觉程序员越来越像当代的绣娘了。](https://www.v2ex.com/t/810841) `54条评论` `程序员`
+1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `45条评论` `MacBook Pro`
 1. [27 寸 5K 屏 ProMotion miniLED 多少钱能接受？](https://www.v2ex.com/t/810918) `24条评论` `Apple`
 1. [16" m1 pro 16g 用了一晚，那个屏真毒到我了](https://www.v2ex.com/t/810888) `23条评论` `Apple`
 1. [如何看待 steam 上因为”刚买完第二天就打折“而给差评的玩家？](https://www.v2ex.com/t/810930) `21条评论` `知乎`
@@ -26,13 +26,13 @@
 1. [周经贴：被裁员的 N+1 是如何计算的？](https://www.v2ex.com/t/810862) `19条评论` `职场话题`
 1. [最近选购路由器，原本 ax86u 都觉得贵的老婆，因为颜值看中了威联通 QHora-301W。。。](https://www.v2ex.com/t/810943) `17条评论` `路由器`
 1. [12k 19 款 mbp，值嘛](https://www.v2ex.com/t/810898) `17条评论` `MacBook Pro`
+1. [疑问贴：大佬们在什么情况下，会考虑数据库字段存 json](https://www.v2ex.com/t/810973) `16条评论` `程序员`
 1. [升级到 Monterey，应用秒开了！](https://www.v2ex.com/t/810859) `15条评论` `macOS`
 1. [不知道大家平时都用什么杯子泡茶？](https://www.v2ex.com/t/810818) `15条评论` `生活`
+1. [不懂就问， M1/M1X 芯片的 MacBook 直装 Windows，目前困难点在哪？](https://www.v2ex.com/t/810962) `14条评论` `Apple`
 1. [关于苹果产品几个显而易见的废话，主要是 2021 款的 MBP](https://www.v2ex.com/t/810921) `14条评论` `Apple`
-1. [最近 app 出现摇一摇跳转广告，如何解决？](https://www.v2ex.com/t/810850) `14条评论` `问与答`
-1. [垃圾 360，都 21 年了，安装 360 还跟踩💩一样恶心](https://www.v2ex.com/t/810838) `14条评论` `互联网`
 
-数据更新于 2021-10-27 07:56:14
+数据更新于 2021-10-27 08:20:41
 
 <!-- TODAY END -->
 
