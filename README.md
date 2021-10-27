@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `41条评论` `问与答`
-1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `37条评论` `问与答`
-1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `36条评论` `分享创造`
+1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `47条评论` `分享创造`
+1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `42条评论` `问与答`
+1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `41条评论` `问与答`
 1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `24条评论` `MacBook Pro`
 1. [新入行设计师攒经验和作品，免费接 5 个 UI/UX 设计项目](https://www.v2ex.com/t/810852) `21条评论` `设计`
 1. [PDF 转 word](https://www.v2ex.com/t/810821) `21条评论` `问与答`
 1. [ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。](https://www.v2ex.com/t/810828) `20条评论` `Apple`
+1. [周经贴：被裁员的 N+1 是如何计算的？](https://www.v2ex.com/t/810862) `19条评论` `职场话题`
 1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844) `17条评论` `奇思妙想`
 1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `17条评论` `Apple`
 1. [感觉程序员越来越像当代的绣娘了。](https://www.v2ex.com/t/810841) `17条评论` `程序员`
+1. [升级到 Monterey，应用秒开了！](https://www.v2ex.com/t/810859) `15条评论` `macOS`
 1. [不知道大家平时都用什么杯子泡茶？](https://www.v2ex.com/t/810818) `15条评论` `生活`
-1. [周经贴：被裁员的 N+1 是如何计算的？](https://www.v2ex.com/t/810862) `14条评论` `职场话题`
 1. [最近 app 出现摇一摇跳转广告，如何解决？](https://www.v2ex.com/t/810850) `14条评论` `问与答`
 1. [垃圾 360，都 21 年了，安装 360 还跟踩💩一样恶心](https://www.v2ex.com/t/810838) `14条评论` `互联网`
 1. [找出非 Mac App Store 的应用并替换它](https://www.v2ex.com/t/810817) `14条评论` `分享创造`
-1. [升级到 Monterey，应用秒开了！](https://www.v2ex.com/t/810859) `12条评论` `macOS`
+1. [16" m1 pro 16g 用了一晚，那个屏真毒到我了](https://www.v2ex.com/t/810888) `12条评论` `Apple`
 1. [新款 14 寸 mac 到了，有一点让我极其震撼～](https://www.v2ex.com/t/810829) `11条评论` `Apple`
+1. [售价 60 元的 Apple 取卡针，我怎么在苹果官网找不到啊](https://www.v2ex.com/t/810863) `10条评论` `Apple`
+1. [Pixel 6 已到货，不支持人脸解锁](https://www.v2ex.com/t/810872) `9条评论` `Google`
+1. [永动机？ mbp 可以自己给自己充电？](https://www.v2ex.com/t/810861) `9条评论` `Apple`
 1. [大家的 MacBook Pro 屏幕里进过异物吗？比如小虫子...](https://www.v2ex.com/t/810815) `9条评论` `MacBook Pro`
-1. [Pixel 6 已到货，不支持人脸解锁](https://www.v2ex.com/t/810872) `8条评论` `Google`
-1. [永动机？ mbp 可以自己给自己充电？](https://www.v2ex.com/t/810861) `7条评论` `Apple`
-1. [Monterey 升级过后梯子失效了。](https://www.v2ex.com/t/810837) `7条评论` `macOS`
-1. [售价 60 元的 Apple 取卡针，我怎么在苹果官网找不到啊](https://www.v2ex.com/t/810863) `6条评论` `Apple`
-1. [android 第三方应用可以不使用系统 hosts 吗，想拦截百度输入法上传文件](https://www.v2ex.com/t/810857) `6条评论` `Android`
+1. [大伙给点建议](https://www.v2ex.com/t/810887) `8条评论` `职场话题`
 
-数据更新于 2021-10-27 03:16:19
+数据更新于 2021-10-27 03:33:33
 
 <!-- TODAY END -->
 
