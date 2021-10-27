@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `143条评论` `问与答`
+1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `145条评论` `问与答`
 1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `136条评论` `分享创造`
 1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844) `103条评论` `奇思妙想`
-1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `71条评论` `Apple`
+1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `73条评论` `Apple`
 1. [感觉程序员越来越像当代的绣娘了。](https://www.v2ex.com/t/810841) `69条评论` `程序员`
 1. [有人举报过公司 996 吗](https://www.v2ex.com/t/810923) `69条评论` `职场话题`
 1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `66条评论` `问与答`
 1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `62条评论` `MacBook Pro`
 1. [HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折](https://www.v2ex.com/t/811039) `53条评论` `优惠信息`
+1. [新版 14/16 MBP 有人测试过 Java IDEA 开发编译速度么，和 M1 对比提升有多大](https://www.v2ex.com/t/810990) `47条评论` `Apple`
 1. [ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。](https://www.v2ex.com/t/810828) `46条评论` `Apple`
 1. [程序员论坛就该有程序员论坛的样子，看看这位老哥的 Apple Silicon 评测](https://www.v2ex.com/t/810928) `43条评论` `Apple`
-1. [新版 14/16 MBP 有人测试过 Java IDEA 开发编译速度么，和 M1 对比提升有多大](https://www.v2ex.com/t/810990) `28条评论` `Apple`
 1. [csdn 是真的恶心](https://www.v2ex.com/t/810991) `27条评论` `程序员`
 1. [为什么 M1 Max 的功耗控制可以如此优秀？](https://www.v2ex.com/t/811087) `25条评论` `Apple`
 1. [27 寸 5K 屏 ProMotion miniLED 多少钱能接受？](https://www.v2ex.com/t/810918) `24条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [想买 13mini…](https://www.v2ex.com/t/811000) `19条评论` `iPhone`
 1. [周经贴：被裁员的 N+1 是如何计算的？](https://www.v2ex.com/t/810862) `19条评论` `职场话题`
 
-数据更新于 2021-10-27 17:25:54
+数据更新于 2021-10-27 17:42:35
 
 <!-- TODAY END -->
 
