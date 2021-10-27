@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `65条评论` `分享创造`
-1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `47条评论` `问与答`
-1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `45条评论` `问与答`
+1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855) `75条评论` `分享创造`
+1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849) `51条评论` `问与答`
+1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `48条评论` `问与答`
 1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `24条评论` `MacBook Pro`
 1. [新入行设计师攒经验和作品，免费接 5 个 UI/UX 设计项目](https://www.v2ex.com/t/810852) `21条评论` `设计`
 1. [PDF 转 word](https://www.v2ex.com/t/810821) `21条评论` `问与答`
@@ -25,14 +25,14 @@
 1. [最近 app 出现摇一摇跳转广告，如何解决？](https://www.v2ex.com/t/810850) `14条评论` `问与答`
 1. [垃圾 360，都 21 年了，安装 360 还跟踩💩一样恶心](https://www.v2ex.com/t/810838) `14条评论` `互联网`
 1. [找出非 Mac App Store 的应用并替换它](https://www.v2ex.com/t/810817) `14条评论` `分享创造`
+1. [12k 19 款 mbp，值嘛](https://www.v2ex.com/t/810898) `13条评论` `MacBook Pro`
 1. [MacBook Pro 14/16 可以自己拓展加存储内存?](https://www.v2ex.com/t/810905) `11条评论` `MacBook Pro`
 1. [新款 14 寸 mac 到了，有一点让我极其震撼～](https://www.v2ex.com/t/810829) `11条评论` `Apple`
-1. [12k 19 款 mbp，值嘛](https://www.v2ex.com/t/810898) `10条评论` `MacBook Pro`
 1. [Pixel 6 已到货，不支持人脸解锁](https://www.v2ex.com/t/810872) `10条评论` `Google`
 1. [售价 60 元的 Apple 取卡针，我怎么在苹果官网找不到啊](https://www.v2ex.com/t/810863) `10条评论` `Apple`
 1. [新 mac 的刘海可以隐藏吗?](https://www.v2ex.com/t/810869) `9条评论` `Apple`
 
-数据更新于 2021-10-27 03:57:10
+数据更新于 2021-10-27 04:26:10
 
 <!-- TODAY END -->
 
