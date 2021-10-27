@@ -8,9 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `10条评论` `MacBook Pro`
+1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814) `24条评论` `MacBook Pro`
+1. [PDF 转 word](https://www.v2ex.com/t/810821) `21条评论` `问与答`
+1. [ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。](https://www.v2ex.com/t/810828) `20条评论` `Apple`
+1. [不知道大家平时都用什么杯子泡茶？](https://www.v2ex.com/t/810818) `15条评论` `生活`
+1. [找出非 Mac App Store 的应用并替换它](https://www.v2ex.com/t/810817) `14条评论` `分享创造`
+1. [垃圾 360，都 21 年了，安装 360 还跟踩💩一样恶心](https://www.v2ex.com/t/810838) `11条评论` `互联网`
+1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842) `10条评论` `Apple`
+1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844) `9条评论` `奇思妙想`
+1. [大家的 MacBook Pro 屏幕里进过异物吗？比如小虫子...](https://www.v2ex.com/t/810815) `9条评论` `MacBook Pro`
+1. [感觉程序员越来越像当代的绣娘了。](https://www.v2ex.com/t/810841) `8条评论` `程序员`
+1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851) `6条评论` `问与答`
+1. [Websocket 每次建立连接比 HTTP 慢， tcp 开销大吗？](https://www.v2ex.com/t/810820) `6条评论` `问与答`
 
-数据更新于 2021-10-27 00:57:13
+数据更新于 2021-10-27 01:59:44
 
 <!-- TODAY END -->
 
