@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121) `135条评论` `问与答`
-1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122) `123条评论` `程序员`
+1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121) `138条评论` `问与答`
+1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122) `124条评论` `程序员`
 1. [教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128) `103条评论` `iPad`
 1. [为什么程序员到一定年纪开始关注管理相关的内容，不再在技术上深入下去？](https://www.v2ex.com/t/811237) `78条评论` `程序员`
+1. [薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201) `76条评论` `MacBook Pro`
 1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123) `74条评论` `iDev`
-1. [薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201) `73条评论` `MacBook Pro`
 1. [听闻微信开发者文档很差](https://www.v2ex.com/t/811162) `47条评论` `微信`
 1. [Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333) `46条评论` `程序员`
 1. [apple watch 提前一周发货了](https://www.v2ex.com/t/811144) `37条评论` `Apple`
 1. [想买一个空气炸锅](https://www.v2ex.com/t/811255) `37条评论` `生活`
-1. [打算退了 Macbook Pro](https://www.v2ex.com/t/811367) `30条评论` `MacBook Pro`
+1. [打算退了 Macbook Pro](https://www.v2ex.com/t/811367) `31条评论` `MacBook Pro`
 1. [我发现自己多看看美女，帅哥，韩剧，可以有效驱使自己改善自我形象和居住环境](https://www.v2ex.com/t/811218) `23条评论` `生活`
 1. [救救孩子吧，邮箱太多，有没有这样的邮箱管理客户端？](https://www.v2ex.com/t/811176) `23条评论` `问与答`
 1. [服务器总是被黑，有没有什么好办法](https://www.v2ex.com/t/811371) `21条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [arm 原生游戏博德之门 3 m1 max 帧数](https://www.v2ex.com/t/811292) `19条评论` `Apple`
 1. [M1 MAX MBP16 游戏性能功耗简单测](https://www.v2ex.com/t/811202) `19条评论` `Apple`
 
-数据更新于 2021-10-28 16:59:17
+数据更新于 2021-10-28 17:25:06
 
 <!-- TODAY END -->
 
