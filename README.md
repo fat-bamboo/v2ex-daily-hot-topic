@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121) `107条评论` `问与答`
-1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122) `95条评论` `程序员`
-1. [教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128) `82条评论` `iPad`
-1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123) `61条评论` `iDev`
-1. [为什么程序员到一定年纪开始关注管理相关的内容，不再在技术上深入下去？](https://www.v2ex.com/t/811237) `48条评论` `程序员`
+1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121) `114条评论` `问与答`
+1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122) `96条评论` `程序员`
+1. [教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128) `83条评论` `iPad`
+1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123) `64条评论` `iDev`
+1. [为什么程序员到一定年纪开始关注管理相关的内容，不再在技术上深入下去？](https://www.v2ex.com/t/811237) `50条评论` `程序员`
 1. [薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201) `30条评论` `MacBook Pro`
 1. [我发现自己多看看美女，帅哥，韩剧，可以有效驱使自己改善自我形象和居住环境](https://www.v2ex.com/t/811218) `23条评论` `生活`
 1. [救救孩子吧，邮箱太多，有没有这样的邮箱管理客户端？](https://www.v2ex.com/t/811176) `23条评论` `问与答`
@@ -23,16 +23,16 @@
 1. [M1 MAX MBP16 游戏性能功耗简单测](https://www.v2ex.com/t/811202) `19条评论` `Apple`
 1. [心血来潮想买个 mp4 播放器，有推荐的吗](https://www.v2ex.com/t/811187) `17条评论` `硬件`
 1. [Macbook Pro 雷电 4 最大充电功率多少？](https://www.v2ex.com/t/811165) `17条评论` `MacBook Pro`
+1. [arm 原生游戏博德之门 3 m1 max 帧数](https://www.v2ex.com/t/811292) `16条评论` `Apple`
 1. [有在某宝定制 MacbookPro2021 已经发货的吗?](https://www.v2ex.com/t/811130) `16条评论` `Apple`
 1. [现在下单定制的话都要排到一个月往后了](https://www.v2ex.com/t/811267) `14条评论` `MacBook Pro`
 1. [没人讨论 AirPods3 有电流声？](https://www.v2ex.com/t/811249) `14条评论` `Apple`
 1. [据说 Windows 11 的系统内置应用中大量使用了 Webview，不知道是不是真的？](https://www.v2ex.com/t/811238) `14条评论` `Windows`
 1. [大家有维权成功得案例吗？](https://www.v2ex.com/t/811191) `14条评论` `职场话题`
+1. [被方括号引用搞懵逼了](https://www.v2ex.com/t/811291) `13条评论` `JavaScript`
 1. [不是学生跟教师直接直接买 macbook](https://www.v2ex.com/t/811242) `13条评论` `问与答`
-1. [被方括号引用搞懵逼了](https://www.v2ex.com/t/811291) `12条评论` `JavaScript`
-1. [所谓的设计系统](https://www.v2ex.com/t/811221) `12条评论` `程序员`
 
-数据更新于 2021-10-28 08:19:48
+数据更新于 2021-10-28 08:37:55
 
 <!-- TODAY END -->
 
