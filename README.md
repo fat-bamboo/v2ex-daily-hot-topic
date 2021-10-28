@@ -15,7 +15,7 @@
 1. [薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201) `80条评论` `MacBook Pro`
 1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123) `74条评论` `iDev`
 1. [听闻微信开发者文档很差](https://www.v2ex.com/t/811162) `50条评论` `微信`
-1. [Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333) `47条评论` `程序员`
+1. [Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333) `47条评论` `JetBrains`
 1. [apple watch 提前一周发货了](https://www.v2ex.com/t/811144) `39条评论` `Apple`
 1. [有在某宝定制 MacbookPro2021 已经发货的吗?](https://www.v2ex.com/t/811130) `37条评论` `Apple`
 1. [想买一个空气炸锅](https://www.v2ex.com/t/811255) `37条评论` `生活`
@@ -32,7 +32,7 @@
 1. [你们的 iPhone 都发货了吗](https://www.v2ex.com/t/811320) `19条评论` `iPhone`
 1. [arm 原生游戏博德之门 3 m1 max 帧数](https://www.v2ex.com/t/811292) `19条评论` `Apple`
 
-数据更新于 2021-10-28 21:40:49
+数据更新于 2021-10-28 21:55:43
 
 <!-- TODAY END -->
 
