@@ -8,19 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121) `53条评论` `问与答`
-1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122) `46条评论` `程序员`
+1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121) `55条评论` `问与答`
+1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122) `51条评论` `程序员`
 1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123) `36条评论` `iDev`
 1. [教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128) `29条评论` `iPad`
+1. [请教大佬们，如何在一台没有 mysql 环境的 Linux 上发起远程 sql 查询命令？](https://www.v2ex.com/t/811158) `18条评论` `程序员`
 1. [有在某宝定制 MacbookPro2021 已经发货的吗?](https://www.v2ex.com/t/811130) `16条评论` `Apple`
-1. [请教大佬们，如何在一台没有 mysql 环境的 Linux 上发起远程 sql 查询命令？](https://www.v2ex.com/t/811158) `12条评论` `程序员`
 1. [撸代码，镜面屏还是雾面屏好？](https://www.v2ex.com/t/811133) `11条评论` `问与答`
 1. [一大早北京联通公网地址没了](https://www.v2ex.com/t/811124) `11条评论` `宽带症候群`
-1. [MySQL 如何高效实现多条件查询，根据查询条件满足次数排序？](https://www.v2ex.com/t/811141) `7条评论` `MySQL`
-1. [apple watch 提前一周发货了](https://www.v2ex.com/t/811144) `6条评论` `Apple`
-1. [淘宝港版 13 pro max 是否可以入手？](https://www.v2ex.com/t/811135) `6条评论` `Apple`
+1. [MySQL 如何高效实现多条件查询，根据查询条件满足次数排序？](https://www.v2ex.com/t/811141) `10条评论` `MySQL`
+1. [求助：如何使用 macbook 给 iPhone 下载软件？](https://www.v2ex.com/t/811166) `9条评论` `Apple`
+1. [apple watch 提前一周发货了](https://www.v2ex.com/t/811144) `9条评论` `Apple`
+1. [Macbook Pro 雷电 4 最大充电功率多少？](https://www.v2ex.com/t/811165) `8条评论` `MacBook Pro`
+1. [刚换新电脑，之前都是用的 win10，最近也搜了很多，但还是求推荐下 mac 上好用的软件！](https://www.v2ex.com/t/811147) `7条评论` `MacBook Pro`
+1. [淘宝港版 13 pro max 是否可以入手？](https://www.v2ex.com/t/811135) `7条评论` `Apple`
 
-数据更新于 2021-10-28 02:32:21
+数据更新于 2021-10-28 02:51:04
 
 <!-- TODAY END -->
 
