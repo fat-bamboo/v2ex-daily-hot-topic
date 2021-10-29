@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397) `58条评论` `Apple`
-1. [我觉得有一个判断低端廉价笔记本的简单方法...](https://www.v2ex.com/t/811451) `51条评论` `硬件`
-1. [有没有某种方法可以让摄像头不联网，但仍然可以看到视频？就是说，有没有局域网摄像头？](https://www.v2ex.com/t/811494) `46条评论` `程序员`
-1. [观望了好长时间，有点想买 m1 air, 果然还是看脸](https://www.v2ex.com/t/811452) `45条评论` `Apple`
-1. [周末计划去丹阳眼镜城配几个眼镜，各位有没有啥建议](https://www.v2ex.com/t/811411) `42条评论` `问与答`
-1. [偶尔可能用 Mac 玩玩游戏，这 24GPU 和 32GPU 怎么选？](https://www.v2ex.com/t/811415) `40条评论` `MacBook Pro`
+1. [MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397) `62条评论` `Apple`
+1. [我觉得有一个判断低端廉价笔记本的简单方法...](https://www.v2ex.com/t/811451) `52条评论` `硬件`
+1. [观望了好长时间，有点想买 m1 air, 果然还是看脸](https://www.v2ex.com/t/811452) `50条评论` `Apple`
+1. [有没有某种方法可以让摄像头不联网，但仍然可以看到视频？就是说，有没有局域网摄像头？](https://www.v2ex.com/t/811494) `49条评论` `程序员`
+1. [周末计划去丹阳眼镜城配几个眼镜，各位有没有啥建议](https://www.v2ex.com/t/811411) `44条评论` `问与答`
+1. [偶尔可能用 Mac 玩玩游戏，这 24GPU 和 32GPU 怎么选？](https://www.v2ex.com/t/811415) `42条评论` `MacBook Pro`
 1. [大家公司对提交代码都有什么限制要求，好奇了解下？](https://www.v2ex.com/t/811425) `36条评论` `程序员`
 1. [目前发现刘海屏唯一不好的地方，菜单栏很多图标不显示了。](https://www.v2ex.com/t/811469) `23条评论` `macOS`
+1. [手持 XR 的兄弟卡不卡](https://www.v2ex.com/t/811531) `21条评论` `问与答`
 1. [两张升降桌子同步升降方案](https://www.v2ex.com/t/811501) `21条评论` `程序员`
 1. [Macbook Pro 16 寸丐版 16G 内存 [极限] 测试](https://www.v2ex.com/t/811461) `20条评论` `MacBook Pro`
-1. [手持 XR 的兄弟卡不卡](https://www.v2ex.com/t/811531) `19条评论` `问与答`
+1. [这么几天下来，新的 mbp 的几个问题，有没有遇到或能解决的？](https://www.v2ex.com/t/811522) `19条评论` `MacBook Pro`
 1. [facebook 重命名为 META 了？](https://www.v2ex.com/t/811463) `18条评论` `程序员`
 1. [老哥们看下这是什么黑科技啊](https://www.v2ex.com/t/811534) `17条评论` `问与答`
 1. [M1 Max GPU 性能测试终极指南 1.0](https://www.v2ex.com/t/811448) `17条评论` `Apple`
-1. [这么几天下来，新的 mbp 的几个问题，有没有遇到或能解决的？](https://www.v2ex.com/t/811522) `16条评论` `MacBook Pro`
 1. [做了一个自建文件服务器](https://www.v2ex.com/t/811490) `16条评论` `分享创造`
 1. [iOS 15.1 这两个 bug 可是把我恶心坏了。](https://www.v2ex.com/t/811422) `16条评论` `iOS`
 1. [秋招 Offer 选择 百度 v.s 美团](https://www.v2ex.com/t/811456) `14条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [求教上海联通宽带没资源的问题](https://www.v2ex.com/t/811504) `13条评论` `宽带症候群`
 1. [使用 myeclipse 实现登录注册功能时发生 Java .lang.ClassNotFoundException.ClassNotFoundException(String s)错误，](https://www.v2ex.com/t/811406) `13条评论` `Java`
 
-数据更新于 2021-10-29 08:20:55
+数据更新于 2021-10-29 08:42:07
 
 <!-- TODAY END -->
 
