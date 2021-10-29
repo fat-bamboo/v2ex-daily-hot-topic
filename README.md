@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397) `34条评论` `Apple`
+1. [MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397) `36条评论` `Apple`
+1. [我觉得有一个判断低端廉价笔记本的简单方法...](https://www.v2ex.com/t/811451) `25条评论` `硬件`
 1. [偶尔可能用 Mac 玩玩游戏，这 24GPU 和 32GPU 怎么选？](https://www.v2ex.com/t/811415) `24条评论` `MacBook Pro`
 1. [周末计划去丹阳眼镜城配几个眼镜，各位有没有啥建议](https://www.v2ex.com/t/811411) `21条评论` `程序员`
-1. [我觉得有一个判断低端廉价笔记本的简单方法...](https://www.v2ex.com/t/811451) `20条评论` `分享发现`
 1. [大家公司对提交代码都有什么限制要求，好奇了解下？](https://www.v2ex.com/t/811425) `17条评论` `程序员`
 1. [iOS 15.1 这两个 bug 可是把我恶心坏了。](https://www.v2ex.com/t/811422) `16条评论` `iOS`
-1. [M1 Max GPU 性能测试终极指南 1.0](https://www.v2ex.com/t/811448) `14条评论` `Apple`
+1. [M1 Max GPU 性能测试终极指南 1.0](https://www.v2ex.com/t/811448) `15条评论` `Apple`
+1. [观望了好长时间，有点想买 m1 air, 果然还是看脸](https://www.v2ex.com/t/811452) `14条评论` `Apple`
 1. [Apple Watch 升级系统后续航尿崩](https://www.v2ex.com/t/811398) `14条评论` ` WATCH`
-1. [观望了好长时间，有点想买 m1 air, 果然还是看脸](https://www.v2ex.com/t/811452) `13条评论` `Apple`
+1. [目前发现刘海屏唯一不好的地方，菜单栏很多图标不显示了。](https://www.v2ex.com/t/811469) `13条评论` `macOS`
 1. [使用 myeclipse 实现登录注册功能时发生 Java .lang.ClassNotFoundException.ClassNotFoundException(String s)错误，](https://www.v2ex.com/t/811406) `13条评论` `Java`
+1. [我佛了， mac 原生解决刘海的方式真的让人没想到](https://www.v2ex.com/t/811431) `12条评论` `Apple`
 1. [onedrive 转化成 web 网盘，有没有推荐？](https://www.v2ex.com/t/811404) `12条评论` `PHP`
+1. [Python 格式化数字，最多保留两位小数点，小数点末尾为 0 则删除，怎么写好？](https://www.v2ex.com/t/811433) `11条评论` `问与答`
 1. [吐槽刘海](https://www.v2ex.com/t/811407) `11条评论` `Apple`
-1. [我佛了， mac 原生解决刘海的方式真的让人没想到](https://www.v2ex.com/t/811431) `10条评论` `Apple`
+1. [良心云超级钜惠双十一活动，买一送一，你敢买我敢送](https://www.v2ex.com/t/811468) `10条评论` `优惠信息`
+1. [七彩虹主板不能开启 TPM2.0](https://www.v2ex.com/t/811454) `9条评论` `Windows`
 1. [偷偷上传用户机密文件， WPS 真流氓](https://www.v2ex.com/t/811444) `9条评论` `全球工单系统`
 1. [请教一下请/找月嫂的经验](https://www.v2ex.com/t/811441) `9条评论` `生活`
-1. [Python 格式化数字，最多保留两位小数点，小数点末尾为 0 则删除，怎么写好？](https://www.v2ex.com/t/811433) `9条评论` `问与答`
-1. [七彩虹主板不能开启 TPM2.0](https://www.v2ex.com/t/811454) `8条评论` `Windows`
+1. [Macbook Pro 16 寸丐版 16G 内存 [极限] 测试](https://www.v2ex.com/t/811461) `8条评论` `MacBook Pro`
 1. [Python 官方 2021 年开发者调查](https://www.v2ex.com/t/811400) `8条评论` `Python`
-1. [收到条阿里云的告警，看不懂是做什么用的，请教一下](https://www.v2ex.com/t/811424) `7条评论` `信息安全`
-1. [各位有过被拖欠工资的经历么？求教怎么正确维权](https://www.v2ex.com/t/811420) `7条评论` `职场话题`
-1. [目前发现刘海屏唯一不好的地方，菜单栏很多图标不显示了。](https://www.v2ex.com/t/811469) `6条评论` `macOS`
-1. [facebook 重命名为 META 了？](https://www.v2ex.com/t/811463) `6条评论` `程序员`
-1. [Macbook Pro 16 寸丐版 16G 内存 [极限] 测试](https://www.v2ex.com/t/811461) `6条评论` `MacBook Pro`
+1. [如何屏蔽使用 Safari 浏览知乎时的短视频](https://www.v2ex.com/t/811476) `7条评论` `macOS`
+1. [facebook 重命名为 META 了？](https://www.v2ex.com/t/811463) `7条评论` `程序员`
 
-数据更新于 2021-10-29 03:24:11
+数据更新于 2021-10-29 03:40:37
 
 <!-- TODAY END -->
 
