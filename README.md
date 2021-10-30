@@ -12,9 +12,9 @@
 1. [京东会员现在开通只要 99，可以选择开卡礼品，如果选择 30 红包相当于 69 开卡一年，还可以冲啊](https://www.v2ex.com/t/811702) `74条评论` `优惠信息`
 1. [被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件](https://www.v2ex.com/t/811703) `73条评论` `Google`
 1. [2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？](https://www.v2ex.com/t/811705) `44条评论` `Linux`
-1. [win11 推送了，现在 win11 好用吗？可以更新吗？](https://www.v2ex.com/t/811676) `35条评论` `问与答`
+1. [win11 推送了，现在 win11 好用吗？可以更新吗？](https://www.v2ex.com/t/811676) `36条评论` `问与答`
 1. [请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678) `35条评论` `分享发现`
-1. [欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722) `23条评论` `微信`
+1. [欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722) `24条评论` `微信`
 1. [用 SwitchResX 选择一个 16:10 的分辨率，就可以完全屏蔽刘海儿了](https://www.v2ex.com/t/811724) `23条评论` `Apple`
 1. [apple watch 更新到 8.1 后洗手监测失效？](https://www.v2ex.com/t/811669) `21条评论` `Apple`
 1. [升级 Monterey 之后电脑变卡了](https://www.v2ex.com/t/811744) `19条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [有没有用过 LG UL650 的兄弟说说这个显示器咋样？](https://www.v2ex.com/t/811697) `10条评论` `问与答`
 1. [想给妈妈找个活干，请 V 友支招](https://www.v2ex.com/t/811685) `10条评论` `生活`
 
-数据更新于 2021-10-30 19:11:46
+数据更新于 2021-10-30 19:25:44
 
 <!-- TODAY END -->
 
