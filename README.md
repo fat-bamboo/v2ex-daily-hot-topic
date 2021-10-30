@@ -10,29 +10,29 @@
 
 1. [大家写代码都用什么字体？](https://www.v2ex.com/t/811677) `97条评论` `程序员`
 1. [京东会员现在开通只要 99，可以选择开卡礼品，如果选择 30 红包相当于 69 开卡一年，还可以冲啊](https://www.v2ex.com/t/811702) `55条评论` `优惠信息`
-1. [被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件](https://www.v2ex.com/t/811703) `33条评论` `Google`
-1. [2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？](https://www.v2ex.com/t/811705) `33条评论` `Linux`
+1. [被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件](https://www.v2ex.com/t/811703) `34条评论` `Google`
+1. [2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？](https://www.v2ex.com/t/811705) `34条评论` `Linux`
 1. [win11 推送了，现在 win11 好用吗？可以更新吗？](https://www.v2ex.com/t/811676) `23条评论` `问与答`
+1. [请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678) `23条评论` `分享发现`
 1. [apple watch 更新到 8.1 后洗手监测失效？](https://www.v2ex.com/t/811669) `21条评论` `Apple`
-1. [用 SwitchResX 选择一个 16:10 的分辨率，就可以完全屏蔽刘海儿了](https://www.v2ex.com/t/811724) `19条评论` `Apple`
+1. [用 SwitchResX 选择一个 16:10 的分辨率，就可以完全屏蔽刘海儿了](https://www.v2ex.com/t/811724) `20条评论` `Apple`
 1. [突然觉得自己在生活中，是越来越累了。](https://www.v2ex.com/t/811728) `14条评论` `生活`
 1. [瞌睡越来越多了](https://www.v2ex.com/t/811698) `14条评论` `生活`
 1. [有没有刷 pt 的大佬，遇到一个奇怪的事情。qb 下载一直等待中。只有馒头站会这样。其他站种子正常下载](https://www.v2ex.com/t/811686) `14条评论` `程序员`
-1. [请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678) `14条评论` `分享发现`
 1. [「翻车」m1pro 新机划痕](https://www.v2ex.com/t/811708) `13条评论` `Apple`
 1. [升级 Monterey 之后电脑变卡了](https://www.v2ex.com/t/811744) `11条评论` `Apple`
-1. [欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722) `10条评论` `微信`
+1. [欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722) `11条评论` `微信`
 1. [有没有用过 LG UL650 的兄弟说说这个显示器咋样？](https://www.v2ex.com/t/811697) `10条评论` `问与答`
 1. [想给妈妈找个活干，请 V 友支招](https://www.v2ex.com/t/811685) `10条评论` `生活`
 1. [教常识的网站](https://www.v2ex.com/t/811670) `10条评论` `问与答`
 1. [没人关注吗? Raspberry Pi Zero 2 W 发布了](https://www.v2ex.com/t/811693) `9条评论` `Raspberry Pi`
+1. [zinit 作者出于未知原因清空了其 GitHub 账号的绝大部份仓库,建议另寻其他框架使用](https://www.v2ex.com/t/811747) `8条评论` `分享发现`
 1. [币安客户端至今没适配 iPad](https://www.v2ex.com/t/811694) `8条评论` `全球工单系统`
 1. [我的 MBA m1 好像涂层脱落了](https://www.v2ex.com/t/811673) `8条评论` `问与答`
 1. [物业公司禁止非小区业主家长进入小区内公立小学合法吗？](https://www.v2ex.com/t/811726) `7条评论` `生活`
 1. [这段密文 是用什么算法加密的？](https://www.v2ex.com/t/811718) `6条评论` `问与答`
-1. [Steam 万圣节特卖了，求推荐~](https://www.v2ex.com/t/811712) `6条评论` `游戏`
 
-数据更新于 2021-10-30 09:49:12
+数据更新于 2021-10-30 09:59:28
 
 <!-- TODAY END -->
 
