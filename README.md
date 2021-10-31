@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [你们购买(内购)过哪些 macOS 软件或 iOS App](https://www.v2ex.com/t/811834) `37条评论` `Apple`
-1. [记录一次乌龙求婚](https://www.v2ex.com/t/811880) `28条评论` `分享发现`
+1. [记录一次乌龙求婚](https://www.v2ex.com/t/811880) `33条评论` `分享发现`
 1. [跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861) `27条评论` `问与答`
 1. [IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843) `24条评论` `IPFS`
 1. [offer 决赛圈，都开奖了](https://www.v2ex.com/t/811836) `22条评论` `职场话题`
+1. [跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853) `18条评论` `硬件`
 1. [求建议： nuc11 还是迎广组装？](https://www.v2ex.com/t/811846) `16条评论` `问与答`
-1. [跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853) `15条评论` `硬件`
 1. [苹果官网教育商店买 MacBook，钱突然退回来了，订单没变化](https://www.v2ex.com/t/811867) `13条评论` `Apple`
 1. [想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863) `11条评论` `Mac mini`
 1. [MacBook Pro 2021 16“ 屏幕光晕问题](https://www.v2ex.com/t/811879) `10条评论` `MacBook Pro`
@@ -25,7 +25,7 @@
 1. [社区是很无聊的产品，大家不要浪费时间了](https://www.v2ex.com/t/811885) `8条评论` `分享创造`
 1. [用 Python 的朋友快来，开源 pipyuan，快速修改 pip 的源，类似 node 里的 nrm](https://www.v2ex.com/t/811854) `6条评论` `分享创造`
 
-数据更新于 2021-10-31 07:40:10
+数据更新于 2021-10-31 07:50:47
 
 <!-- TODAY END -->
 
