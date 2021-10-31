@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你们购买(内购)过哪些 macOS 软件或 iOS App](https://www.v2ex.com/t/811834) `7条评论` `Apple`
+1. [你们购买(内购)过哪些 macOS 软件或 iOS App](https://www.v2ex.com/t/811834) `27条评论` `Apple`
 
-数据更新于 2021-10-31 00:58:12
+数据更新于 2021-10-31 02:04:14
 
 <!-- TODAY END -->
 
