@@ -17,10 +17,10 @@
 1. [IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843) `35条评论` `IPFS`
 1. [跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853) `25条评论` `硬件`
 1. [想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863) `21条评论` `Mac mini`
+1. [如何正确的给 13pm 充电。](https://www.v2ex.com/t/811907) `21条评论` `Apple`
 1. [IPLC 是啥意思？](https://www.v2ex.com/t/811891) `20条评论` `宽带症候群`
 1. [今天一冲动去门店自提了 Macbook pro 14，然后 19 年 16 寸闲置了](https://www.v2ex.com/t/811921) `18条评论` `MacBook Pro`
 1. [m1 pro 上使用 surge3 的朋友有没有，安装扩展程序输入密码后一直请求密码，好像没有安装成功的样子](https://www.v2ex.com/t/811844) `18条评论` `Apple`
-1. [如何正确的给 13pm 充电。](https://www.v2ex.com/t/811907) `17条评论` `Apple`
 1. [求建议： nuc11 还是迎广组装？](https://www.v2ex.com/t/811846) `17条评论` `问与答`
 1. [有没有哪种技术可以动态对服务(MySQL,Redis 这类)进行增删改查](https://www.v2ex.com/t/811939) `15条评论` `问与答`
 1. [MacBook Pro 2021 16“ 屏幕光晕问题](https://www.v2ex.com/t/811879) `14条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [关于 Macbook Pro 2011 款扩展 SSD 的想法](https://www.v2ex.com/t/811868) `12条评论` `Apple`
 1. [求助帖：养猫之后经常咳嗽](https://www.v2ex.com/t/811895) `11条评论` `问与答`
 
-数据更新于 2021-10-31 21:56:04
+数据更新于 2021-10-31 22:16:24
 
 <!-- TODAY END -->
 
