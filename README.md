@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记录一次乌龙求婚](https://www.v2ex.com/t/811880) `56条评论` `分享发现`
+1. [记录一次乌龙求婚](https://www.v2ex.com/t/811880) `57条评论` `分享发现`
 1. [你们购买(内购)过哪些 macOS 软件或 iOS App](https://www.v2ex.com/t/811834) `37条评论` `Apple`
 1. [跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861) `34条评论` `问与答`
-1. [IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843) `27条评论` `IPFS`
-1. [offer 决赛圈，都开奖了](https://www.v2ex.com/t/811836) `26条评论` `职场话题`
-1. [跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853) `19条评论` `硬件`
+1. [IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843) `31条评论` `IPFS`
+1. [offer 决赛圈，都开奖了](https://www.v2ex.com/t/811836) `29条评论` `职场话题`
+1. [跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853) `20条评论` `硬件`
 1. [求建议： nuc11 还是迎广组装？](https://www.v2ex.com/t/811846) `17条评论` `问与答`
 1. [MacBook Pro 2021 16“ 屏幕光晕问题](https://www.v2ex.com/t/811879) `14条评论` `MacBook Pro`
 1. [苹果官网教育商店买 MacBook，钱突然退回来了，订单没变化](https://www.v2ex.com/t/811867) `14条评论` `Apple`
@@ -24,13 +24,15 @@
 1. [社区是很无聊的产品，大家不要浪费时间了](https://www.v2ex.com/t/811885) `9条评论` `产品经理茶话会`
 1. [icloud 用美区，订阅与购买用国区](https://www.v2ex.com/t/811869) `9条评论` `iCloud`
 1. [m1 pro 上使用 surge3 的朋友有没有，安装扩展程序输入密码后一直请求密码，好像没有安装成功的样子](https://www.v2ex.com/t/811844) `9条评论` `Apple`
+1. [如何正确的给 13pm 充电。](https://www.v2ex.com/t/811907) `8条评论` `Apple`
+1. [IPLC 是啥意思？](https://www.v2ex.com/t/811891) `8条评论` `宽带症候群`
 1. [有朋友测过 M1 Pro/Max 外接 4K 屏幕下的性能及续航吗](https://www.v2ex.com/t/811874) `8条评论` `MacBook Pro`
-1. [IPLC 是啥意思？](https://www.v2ex.com/t/811891) `7条评论` `宽带症候群`
 1. [想办理个信用卡，用来注册认证 AWS，公司说给报销 SAP 的一半考试费用，请问各位办哪家的信用卡比较坑少啊？？](https://www.v2ex.com/t/811888) `7条评论` `程序员`
+1. [阿里系软件的网页版已经开始反人类了](https://www.v2ex.com/t/811900) `6条评论` `互联网`
 1. [跑滴滴真的如众人说的很赚钱吗？](https://www.v2ex.com/t/811876) `6条评论` `问与答`
 1. [用 Python 的朋友快来，开源 pipyuan，快速修改 pip 的源，类似 node 里的 nrm](https://www.v2ex.com/t/811854) `6条评论` `分享创造`
 
-数据更新于 2021-10-31 09:49:31
+数据更新于 2021-10-31 09:59:46
 
 <!-- TODAY END -->
 
