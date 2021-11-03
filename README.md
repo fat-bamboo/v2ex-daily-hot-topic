@@ -10,19 +10,19 @@
 
 1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `103条评论` `汽车`
 1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `69条评论` `问与答`
-1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `59条评论` `职场话题`
+1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `62条评论` `职场话题`
 1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `59条评论` `Apple`
-1. [开发速度最快的 Web 框架？](https://www.v2ex.com/t/812812) `51条评论` `程序员`
-1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `51条评论` `Apple`
+1. [开发速度最快的 Web 框架？](https://www.v2ex.com/t/812812) `53条评论` `程序员`
+1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `53条评论` `Apple`
+1. [Notability surrendered.](https://www.v2ex.com/t/812618) `50条评论` `Apple`
 1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `50条评论` `投资`
-1. [Notability surrendered.](https://www.v2ex.com/t/812618) `49条评论` `Apple`
 1. [说实话 m1 air 续航有点溢出了](https://www.v2ex.com/t/812721) `27条评论` `Apple`
 1. [人生中灰暗的一天](https://www.v2ex.com/t/812784) `26条评论` `职场话题`
 1. [mbp 13 寸 用什么外接显示器 字体才不会发虚呢？](https://www.v2ex.com/t/812781) `26条评论` `MacBook Pro`
 1. [请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?](https://www.v2ex.com/t/812693) `25条评论` `程序员`
 1. [[求助帖] V 友帮忙给宝宝起个名字，姓吕](https://www.v2ex.com/t/812667) `25条评论` `随想`
 1. [订阅制买断制，不如开源软件自愿捐款制](https://www.v2ex.com/t/812823) `21条评论` `Linux`
-1. [有人和我一样在床上写代码的吗](https://www.v2ex.com/t/812872) `19条评论` `程序员`
+1. [有人和我一样在床上写代码的吗](https://www.v2ex.com/t/812872) `20条评论` `程序员`
 1. [吐槽下，老婆走路时掉了手机](https://www.v2ex.com/t/812853) `18条评论` `生活`
 1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `18条评论` `职场话题`
 1. [想注册一个 GV 号或者其他的海外手机号用于买币](https://www.v2ex.com/t/812649) `18条评论` `Google`
@@ -32,7 +32,7 @@
 1. [实测 16 寸乞丐版 M1 Pro 在 Dota2 中的表现](https://www.v2ex.com/t/812627) `17条评论` `Apple`
 1. [双 11[腾讯云 1 折起]2 核 4G6M 三年仅 168 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/812612) `17条评论` `优惠信息`
 
-数据更新于 2021-11-03 15:50:40
+数据更新于 2021-11-03 16:24:43
 
 <!-- TODAY END -->
 
