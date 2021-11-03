@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `57条评论` `汽车`
+1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `58条评论` `汽车`
 1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `37条评论` `问与答`
 1. [[求助帖] V 友帮忙给宝宝起个名字，姓吕](https://www.v2ex.com/t/812667) `25条评论` `随想`
 1. [Notability surrendered.](https://www.v2ex.com/t/812618) `24条评论` `Apple`
@@ -21,18 +21,18 @@
 1. [各位大佬，关于买车](https://www.v2ex.com/t/812636) `16条评论` `汽车`
 1. [不懂就问，所有索尼耳机通话都有电流声吗？](https://www.v2ex.com/t/812626) `16条评论` `SONY`
 1. [js 如何实现访问网页，填写信息，并点击按钮，返回相关值](https://www.v2ex.com/t/812600) `13条评论` `JavaScript`
+1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `12条评论` `职场话题`
 1. [技术经理的主要职责是什么](https://www.v2ex.com/t/812623) `12条评论` `职场话题`
 1. [接口访问次数多了变慢是 tomcat 限制还是服务器 cpu 限制？](https://www.v2ex.com/t/812615) `12条评论` `Java`
-1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `11条评论` `职场话题`
+1. [现在买 MacBook Pro M1 pro 版做开发，还有什么坑不？](https://www.v2ex.com/t/812641) `10条评论` `macOS`
+1. [有没有喜欢在冬天用冷水冲澡的？](https://www.v2ex.com/t/812680) `8条评论` `随想`
 1. [teams 要放弃 Electron](https://www.v2ex.com/t/812670) `8条评论` `Electron`
-1. [现在买 MacBook Pro M1 pro 版做开发，还有什么坑不？](https://www.v2ex.com/t/812641) `8条评论` `macOS`
+1. [Python Web API 后端终极开发框架 JSONClasses](https://www.v2ex.com/t/812666) `8条评论` `Python`
 1. [迫于生小孩，求文化人帮忙给宝宝起个名字，姓史](https://www.v2ex.com/t/812674) `8条评论` `随想`
 1. [初学 vue, 无意中学到了一个很有意思的方法](https://www.v2ex.com/t/812602) `8条评论` `Vue.js`
-1. [Python Web API 后端终极开发框架 JSONClasses](https://www.v2ex.com/t/812666) `7条评论` `Python`
-1. [区块链到底是啥，为啥有人在写代码，搞开发，有人在做科研，发论文，还有人在炒币，之前以为是一个平台上几件无关的事，刚刚看到有个炒币的人也在研究合约代码，我懵了](https://www.v2ex.com/t/812646) `7条评论` `区块链`
-1. [有没有免费的语音转文字（中文）。](https://www.v2ex.com/t/812661) `6条评论` `问与答`
+1. [自用的 Windows11 终于能🪟+↑ 🪟+↓上下分屏](https://www.v2ex.com/t/812663) `7条评论` `Windows`
 
-数据更新于 2021-11-03 04:26:22
+数据更新于 2021-11-03 04:50:08
 
 <!-- TODAY END -->
 
