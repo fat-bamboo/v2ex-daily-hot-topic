@@ -9,14 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `84条评论` `汽车`
-1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `54条评论` `问与答`
+1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `56条评论` `问与答`
 1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `49条评论` `职场话题`
-1. [Notability surrendered.](https://www.v2ex.com/t/812618) `44条评论` `Apple`
+1. [Notability surrendered.](https://www.v2ex.com/t/812618) `45条评论` `Apple`
+1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `45条评论` `Apple`
 1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `41条评论` `投资`
-1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `41条评论` `Apple`
 1. [说实话 m1 air 续航有点溢出了](https://www.v2ex.com/t/812721) `27条评论` `Apple`
 1. [请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?](https://www.v2ex.com/t/812693) `25条评论` `程序员`
 1. [[求助帖] V 友帮忙给宝宝起个名字，姓吕](https://www.v2ex.com/t/812667) `25条评论` `随想`
+1. [mbp 13 寸 用什么外接显示器 字体才不会发虚呢？](https://www.v2ex.com/t/812781) `21条评论` `MacBook Pro`
 1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `20条评论` `Apple`
 1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `18条评论` `职场话题`
 1. [想注册一个 GV 号或者其他的海外手机号用于买币](https://www.v2ex.com/t/812649) `18条评论` `Google`
@@ -28,11 +29,10 @@
 1. [十一月最新|服务器开车，阿里云免费领一年服务器，](https://www.v2ex.com/t/812696) `16条评论` `优惠信息`
 1. [各位大佬，关于买车](https://www.v2ex.com/t/812636) `16条评论` `汽车`
 1. [不懂就问，所有索尼耳机通话都有电流声吗？](https://www.v2ex.com/t/812626) `16条评论` `SONY`
-1. [mbp 13 寸 用什么外接显示器 字体才不会发虚呢？](https://www.v2ex.com/t/812781) `15条评论` `MacBook Pro`
-1. [小红伞删除了我的文件，隔离区确是空的，怎么恢复](https://www.v2ex.com/t/812766) `13条评论` `程序员`
-1. [goodNote5 今日半价](https://www.v2ex.com/t/812712) `13条评论` `Apple`
+1. [小红伞删除了我的文件，隔离区确是空的，怎么恢复](https://www.v2ex.com/t/812766) `15条评论` `程序员`
+1. [为什么天猫超市不给放快递柜？](https://www.v2ex.com/t/812764) `13条评论` `问与答`
 
-数据更新于 2021-11-03 09:16:26
+数据更新于 2021-11-03 09:33:18
 
 <!-- TODAY END -->
 
