@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `58条评论` `汽车`
+1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `62条评论` `汽车`
 1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `37条评论` `问与答`
 1. [[求助帖] V 友帮忙给宝宝起个名字，姓吕](https://www.v2ex.com/t/812667) `25条评论` `随想`
 1. [Notability surrendered.](https://www.v2ex.com/t/812618) `24条评论` `Apple`
@@ -20,19 +20,19 @@
 1. [双 11[腾讯云 1 折起]2 核 4G6M 三年仅 168 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云](https://www.v2ex.com/t/812612) `17条评论` `优惠信息`
 1. [各位大佬，关于买车](https://www.v2ex.com/t/812636) `16条评论` `汽车`
 1. [不懂就问，所有索尼耳机通话都有电流声吗？](https://www.v2ex.com/t/812626) `16条评论` `SONY`
+1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `15条评论` `职场话题`
 1. [js 如何实现访问网页，填写信息，并点击按钮，返回相关值](https://www.v2ex.com/t/812600) `13条评论` `JavaScript`
-1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `12条评论` `职场话题`
 1. [技术经理的主要职责是什么](https://www.v2ex.com/t/812623) `12条评论` `职场话题`
 1. [接口访问次数多了变慢是 tomcat 限制还是服务器 cpu 限制？](https://www.v2ex.com/t/812615) `12条评论` `Java`
+1. [有没有喜欢在冬天用冷水冲澡的？](https://www.v2ex.com/t/812680) `10条评论` `随想`
 1. [现在买 MacBook Pro M1 pro 版做开发，还有什么坑不？](https://www.v2ex.com/t/812641) `10条评论` `macOS`
-1. [有没有喜欢在冬天用冷水冲澡的？](https://www.v2ex.com/t/812680) `9条评论` `随想`
+1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `8条评论` `Apple`
+1. [Goodnotes 促销降价了，只要 25](https://www.v2ex.com/t/812684) `8条评论` `分享发现`
 1. [teams 要放弃 Electron](https://www.v2ex.com/t/812670) `8条评论` `Electron`
 1. [Python Web API 后端终极开发框架 JSONClasses](https://www.v2ex.com/t/812666) `8条评论` `Python`
 1. [迫于生小孩，求文化人帮忙给宝宝起个名字，姓史](https://www.v2ex.com/t/812674) `8条评论` `随想`
-1. [初学 vue, 无意中学到了一个很有意思的方法](https://www.v2ex.com/t/812602) `8条评论` `Vue.js`
-1. [自用的 Windows11 终于能🪟+↑ 🪟+↓上下分屏](https://www.v2ex.com/t/812663) `7条评论` `Windows`
 
-数据更新于 2021-11-03 05:00:26
+数据更新于 2021-11-03 05:23:42
 
 <!-- TODAY END -->
 
