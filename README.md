@@ -12,7 +12,7 @@
 1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `70条评论` `问与答`
 1. [开发速度最快的 Web 框架？](https://www.v2ex.com/t/812812) `63条评论` `程序员`
 1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `63条评论` `职场话题`
-1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `59条评论` `Apple`
+1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `60条评论` `Apple`
 1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `54条评论` `Apple`
 1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `52条评论` `投资`
 1. [Notability surrendered.](https://www.v2ex.com/t/812618) `50条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [旁边的同事情商低得一怎么办？](https://www.v2ex.com/t/812630) `17条评论` `职场话题`
 1. [实测 16 寸乞丐版 M1 Pro 在 Dota2 中的表现](https://www.v2ex.com/t/812627) `17条评论` `Apple`
 
-数据更新于 2021-11-03 21:56:10
+数据更新于 2021-11-03 22:16:18
 
 <!-- TODAY END -->
 
