@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `78条评论` `汽车`
-1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `46条评论` `问与答`
+1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614) `82条评论` `汽车`
+1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `47条评论` `问与答`
+1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `45条评论` `职场话题`
 1. [Notability surrendered.](https://www.v2ex.com/t/812618) `44条评论` `Apple`
-1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `39条评论` `职场话题`
-1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `28条评论` `Apple`
+1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `35条评论` `投资`
+1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `35条评论` `Apple`
+1. [说实话 m1 air 续航有点溢出了](https://www.v2ex.com/t/812721) `27条评论` `Apple`
 1. [请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?](https://www.v2ex.com/t/812693) `25条评论` `程序员`
 1. [[求助帖] V 友帮忙给宝宝起个名字，姓吕](https://www.v2ex.com/t/812667) `25条评论` `随想`
-1. [说实话 m1 air 续航有点溢出了](https://www.v2ex.com/t/812721) `23条评论` `Apple`
 1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `20条评论` `Apple`
-1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `20条评论` `投资`
 1. [试用期入职三天，要跑路吗？](https://www.v2ex.com/t/812665) `18条评论` `职场话题`
 1. [想注册一个 GV 号或者其他的海外手机号用于买币](https://www.v2ex.com/t/812649) `18条评论` `Google`
 1. [Goodnotes 促销降价了，只要 25](https://www.v2ex.com/t/812684) `17条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [雅虎停止为中国大陆提供服务](https://www.v2ex.com/t/812698) `13条评论` `分享发现`
 1. [当初 paste 改订阅制咋没有人喷](https://www.v2ex.com/t/812697) `13条评论` `Apple`
 
-数据更新于 2021-11-03 07:56:05
+数据更新于 2021-11-03 08:20:26
 
 <!-- TODAY END -->
 
