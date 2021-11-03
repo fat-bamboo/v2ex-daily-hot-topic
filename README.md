@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599) `10条评论` `问与答`
+
+数据更新于 2021-11-03 00:56:31
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [没人吗？来，房价论一波](https://www.v2ex.com/t/812325) `145条评论` `苏州`
 1. [建行 app 登录新手机无解了](https://www.v2ex.com/t/812314) `106条评论` `全球工单系统`
 1. [终于找到了 macos 切换程序的最佳方式](https://www.v2ex.com/t/812330) `99条评论` `程序员`
@@ -31,38 +41,6 @@
 1. [请问 Windows 下同时支持磁力链接和电驴链接的下载软件是什么？](https://www.v2ex.com/t/812451) `18条评论` `Windows`
 1. [关于老爸住院](https://www.v2ex.com/t/812358) `18条评论` `健康`
 1. [字节跳动限制员工工作时间不能超过 10AM-7PM](https://www.v2ex.com/t/812357) `18条评论` `职场话题`
-
-数据更新于 2021-11-02 23:56:11
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [我们的小孩真的需要上幼儿园吗？](https://www.v2ex.com/t/812085) `206条评论` `生活`
-1. [昨天被支付宝客服威胁改资料](https://www.v2ex.com/t/812030) `160条评论` `支付宝`
-1. [分享 2021 双十一你认为超值的东西？](https://www.v2ex.com/t/812001) `140条评论` `问与答`
-1. [降温了，鼻炎患者或者过来人能进来交流一下病情吗](https://www.v2ex.com/t/812006) `120条评论` `生活`
-1. [大家的十一月挑战是什么？](https://www.v2ex.com/t/812002) `105条评论` ` WATCH`
-1. [为什么国内常用的聊天软件都不支持已读回执？](https://www.v2ex.com/t/812110) `94条评论` `问与答`
-1. [2021 M1 要不要听取别人的建议](https://www.v2ex.com/t/811993) `82条评论` `MacBook Pro`
-1. [亲测 Mac 一直插电用就不会有电池损耗](https://www.v2ex.com/t/812066) `81条评论` `Apple`
-1. [迫于颈椎痛不欲生，求推荐一款好用的人体工学椅.](https://www.v2ex.com/t/812048) `59条评论` `程序员`
-1. [现在入手 M1 的 Mac Mini 合适么？](https://www.v2ex.com/t/812123) `55条评论` `Apple`
-1. [用华强北技术把 19 款 16 寸内存升级到 64G 了](https://www.v2ex.com/t/812021) `45条评论` `Apple`
-1. [末代 16 寸 Intel Macbook Pro，不外接显示器的话噪音有多糟？](https://www.v2ex.com/t/812121) `31条评论` `Apple`
-1. [订阅制，转，都可以转，但是 Notability 做的挺绝的](https://www.v2ex.com/t/812296) `28条评论` `iOS`
-1. [在阿里云买了台服务器，在腾讯云买了个域名。](https://www.v2ex.com/t/812221) `27条评论` `问与答`
-1. [摄影先提升技术还是设备？](https://www.v2ex.com/t/812143) `23条评论` `摄影`
-1. [双十一购入威联通 453dmini nas, 亏没亏](https://www.v2ex.com/t/812042) `22条评论` `NAS`
-1. [最新 2021Macbook pro 16 寸 m1pro 致命缺陷](https://www.v2ex.com/t/811989) `21条评论` `Apple`
-1. [付费求解 curl ssl/tls 突发状况，请求 https 站点均失败。](https://www.v2ex.com/t/812102) `20条评论` `HTTP`
-1. [新 MBP， 16 gb 与 32 gb 内存真的区别不大吗？](https://www.v2ex.com/t/812160) `19条评论` `MacBook Pro`
-1. [静态博客的优点是什么](https://www.v2ex.com/t/812106) `19条评论` `问与答`
-1. [求推荐没有无线功能的硬路由器](https://www.v2ex.com/t/812145) `18条评论` `宽带症候群`
-1. [这波双 11，你买了什么电子产品？](https://www.v2ex.com/t/812212) `17条评论` `问与答`
-1. [没有老人帮忙养小孩真是辛苦](https://www.v2ex.com/t/812196) `17条评论` `生活`
 
 <!-- YESTERDAY END -->
 
