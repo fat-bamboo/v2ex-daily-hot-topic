@@ -14,7 +14,7 @@
 1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642) `63条评论` `职场话题`
 1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705) `60条评论` `Apple`
 1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691) `54条评论` `Apple`
-1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `52条评论` `投资`
+1. [昨天把股票全清了](https://www.v2ex.com/t/812639) `53条评论` `投资`
 1. [Notability surrendered.](https://www.v2ex.com/t/812618) `50条评论` `Apple`
 1. [区块链到底是啥，为啥有人在写代码，搞开发，有人在做科研，发论文，还有人在炒币，之前以为是一个平台上几件无关的事，刚刚看到有个炒币的人也在研究合约代码，我懵了](https://www.v2ex.com/t/812646) `46条评论` `区块链`
 1. [说实话 m1 air 续航有点溢出了](https://www.v2ex.com/t/812721) `27条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [旁边的同事情商低得一怎么办？](https://www.v2ex.com/t/812630) `17条评论` `职场话题`
 1. [实测 16 寸乞丐版 M1 Pro 在 Dota2 中的表现](https://www.v2ex.com/t/812627) `17条评论` `Apple`
 
-数据更新于 2021-11-03 22:16:18
+数据更新于 2021-11-03 22:33:05
 
 <!-- TODAY END -->
 
