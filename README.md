@@ -9,22 +9,25 @@
 <!-- TODAY BEGIN -->
 
 1. [有没有辣种色气满满的壁纸网站， 4k 最佳(狗头)](https://www.v2ex.com/t/812914) `32条评论` `奇思妙想`
-1. [[送码]花花收纳 app-整理空间，定位物品](https://www.v2ex.com/t/812919) `26条评论` `分享创造`
-1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939) `23条评论` `Android`
+1. [[送码]花花收纳 app-整理空间，定位物品](https://www.v2ex.com/t/812919) `31条评论` `分享创造`
+1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939) `24条评论` `Android`
 1. [请教一下 emby、Jeelyfin 的疑问](https://www.v2ex.com/t/812899) `21条评论` `问与答`
-1. [16 寸， 32 内存款，啥时候能有货呢？](https://www.v2ex.com/t/812920) `18条评论` `MacBook Pro`
+1. [再次见识到阿里的无底线](https://www.v2ex.com/t/812921) `20条评论` `分享发现`
+1. [16 寸， 32 内存款，啥时候能有货呢？](https://www.v2ex.com/t/812920) `20条评论` `MacBook Pro`
+1. [[心得] 抹盘重装后，放弃了升级电脑的想法](https://www.v2ex.com/t/812933) `15条评论` `macOS`
 1. [一亿个图片和 pdf 文件，单机，只新增不删除，怎么管理？](https://www.v2ex.com/t/812900) `15条评论` `问与答`
-1. [[心得] 抹盘重装后，放弃了升级电脑的想法](https://www.v2ex.com/t/812933) `13条评论` `macOS`
-1. [再次见识到阿里的无底线](https://www.v2ex.com/t/812921) `13条评论` `分享发现`
+1. [大佬们，有没有什么方法限制一下微信，后台运行还关不掉真是头疼](https://www.v2ex.com/t/812918) `13条评论` `Android`
 1. [segmentfault 离栈溢出还差什么？](https://www.v2ex.com/t/812924) `12条评论` `分享发现`
-1. [大佬们，有没有什么方法限制一下微信，后台运行还关不掉真是头疼](https://www.v2ex.com/t/812918) `12条评论` `Android`
-1. [阿里云专用的 mysql，和专门买台服务器自己搭 mysql，有什么区别吗](https://www.v2ex.com/t/812925) `10条评论` `服务器`
+1. [阿里云专用的 mysql，和专门买台服务器自己搭 mysql，有什么区别吗](https://www.v2ex.com/t/812925) `11条评论` `服务器`
+1. [关于路由器和光猫多次同时损坏，辛苦大家帮忙出出主意。](https://www.v2ex.com/t/812942) `10条评论` `路由器`
 1. [新的手机多久之后电池优化才会学习](https://www.v2ex.com/t/812911) `10条评论` `Apple`
+1. [给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951) `9条评论` `程序员`
 1. [idea 里面 git merge 把远程 merge 到本地，本地代码直接没了](https://www.v2ex.com/t/812904) `8条评论` `程序员`
-1. [给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951) `7条评论` `程序员`
+1. [使用 vmware 还是 docker 来搭建 Linux 实验环境？](https://www.v2ex.com/t/812956) `6条评论` `程序员`
 1. [朋友们，有无高清无马的色色艺术壁纸](https://www.v2ex.com/t/812929) `6条评论` `问与答`
+1. [群晖 DSM 7.0.1 媒体服务器有问题？](https://www.v2ex.com/t/812926) `6条评论` `NAS`
 
-数据更新于 2021-11-04 03:33:37
+数据更新于 2021-11-04 03:46:47
 
 <!-- TODAY END -->
 
