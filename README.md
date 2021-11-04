@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有没有辣种色气满满的壁纸网站， 4k 最佳(狗头)](https://www.v2ex.com/t/812914) `23条评论` `奇思妙想`
+1. [有没有辣种色气满满的壁纸网站， 4k 最佳(狗头)](https://www.v2ex.com/t/812914) `32条评论` `奇思妙想`
+1. [[送码]花花收纳 app-整理空间，定位物品](https://www.v2ex.com/t/812919) `22条评论` `分享创造`
 1. [请教一下 emby、Jeelyfin 的疑问](https://www.v2ex.com/t/812899) `21条评论` `问与答`
-1. [[送码]花花收纳 app-整理空间，定位物品](https://www.v2ex.com/t/812919) `15条评论` `分享创造`
+1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939) `18条评论` `Android`
+1. [16 寸， 32 内存款，啥时候能有货呢？](https://www.v2ex.com/t/812920) `16条评论` `MacBook Pro`
 1. [一亿个图片和 pdf 文件，单机，只新增不删除，怎么管理？](https://www.v2ex.com/t/812900) `15条评论` `问与答`
-1. [16 寸， 32 内存款，啥时候能有货呢？](https://www.v2ex.com/t/812920) `14条评论` `MacBook Pro`
-1. [segmentfault 离栈溢出还差什么？](https://www.v2ex.com/t/812924) `9条评论` `分享发现`
+1. [segmentfault 离栈溢出还差什么？](https://www.v2ex.com/t/812924) `12条评论` `分享发现`
+1. [大佬们，有没有什么方法限制一下微信，后台运行还关不掉真是头疼](https://www.v2ex.com/t/812918) `11条评论` `Android`
+1. [[心得] 抹盘重装后，放弃了升级电脑的想法](https://www.v2ex.com/t/812933) `10条评论` `macOS`
+1. [新的手机多久之后电池优化才会学习](https://www.v2ex.com/t/812911) `10条评论` `Apple`
 1. [阿里云专用的 mysql，和专门买台服务器自己搭 mysql，有什么区别吗](https://www.v2ex.com/t/812925) `8条评论` `服务器`
-1. [大佬们，有没有什么方法限制一下微信，后台运行还关不掉真是头疼](https://www.v2ex.com/t/812918) `8条评论` `Android`
 1. [idea 里面 git merge 把远程 merge 到本地，本地代码直接没了](https://www.v2ex.com/t/812904) `8条评论` `程序员`
-1. [新的手机多久之后电池优化才会学习](https://www.v2ex.com/t/812911) `7条评论` `Apple`
-1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939) `6条评论` `Android`
 1. [朋友们，有无高清无马的色色艺术壁纸](https://www.v2ex.com/t/812929) `6条评论` `问与答`
 
-数据更新于 2021-11-04 02:53:15
+数据更新于 2021-11-04 03:16:19
 
 <!-- TODAY END -->
 
