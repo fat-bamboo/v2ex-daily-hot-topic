@@ -10,12 +10,12 @@
 
 1. [我是公司信息部运维，有些工作是要远程同事的电脑处理问题。昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228) `108条评论` `职场话题`
 1. [为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186) `96条评论` `iPhone`
-1. [aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235) `54条评论` ` WATCH`
+1. [aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235) `55条评论` ` WATCH`
 1. [Redis 到底应该怎么存储使用?](https://www.v2ex.com/t/813275) `54条评论` `Redis`
 1. [大家觉得，前端领域 vscode 现在超越 webstorm（包括 idea 全家桶）了吗？](https://www.v2ex.com/t/813253) `50条评论` `编辑器`
 1. [色魔张大妈已经完全废了，有什么替代品？](https://www.v2ex.com/t/813227) `50条评论` `问与答`
+1. [朋友们，一年了，终于想起买 AirPods Max，有劝退的吗](https://www.v2ex.com/t/813277) `48条评论` `Apple`
 1. [大佬们，在如厕的时候喜欢看什么图文或者视频，也致使这个过程稍微有点价值和意义？](https://www.v2ex.com/t/813206) `41条评论` `生活`
-1. [朋友们，一年了，终于想起买 AirPods Max，有劝退的吗](https://www.v2ex.com/t/813277) `34条评论` `Apple`
 1. [还有三周离职，老板叫我开发个新项目](https://www.v2ex.com/t/813262) `32条评论` `程序员`
 1. [为啥 Teams 这么难用](https://www.v2ex.com/t/813322) `23条评论` `微软`
 1. [请问各位是怎么申请到 copilot 的？](https://www.v2ex.com/t/813188) `21条评论` `问与答`
@@ -24,15 +24,15 @@
 1. [图片透视裁剪的需求怎么自动化？](https://www.v2ex.com/t/813225) `18条评论` `问与答`
 1. [mbp 16G+1T idea 特别卡，启动速度也特别慢，改了下 Xmx 和 Xms 也没用。](https://www.v2ex.com/t/813292) `17条评论` `MacBook Pro`
 1. [跳槽意向选择](https://www.v2ex.com/t/813190) `17条评论` `酷工作`
-1. [火狐也开始摆烂了](https://www.v2ex.com/t/813358) `15条评论` `全球工单系统`
+1. [火狐也开始摆烂了](https://www.v2ex.com/t/813358) `16条评论` `全球工单系统`
+1. [贫穷限制了我的想象](https://www.v2ex.com/t/813373) `15条评论` `生活`
 1. [拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛](https://www.v2ex.com/t/813232) `15条评论` `MacBook Pro`
 1. [Python 包导入的困惑](https://www.v2ex.com/t/813185) `15条评论` `Python`
 1. [Mybatis 查询和数据库直接查询结果不一致](https://www.v2ex.com/t/813319) `13条评论` `Java`
 1. [问一下大家银色 Mac A 面贴上贴纸会留下印痕吗？](https://www.v2ex.com/t/813189) `12条评论` `MacBook Pro`
 1. [spring 事务问题](https://www.v2ex.com/t/813324) `11条评论` `Java`
-1. [阿里系真是对个人信息肆意妄为](https://www.v2ex.com/t/813276) `11条评论` `全球工单系统`
 
-数据更新于 2021-11-05 13:24:20
+数据更新于 2021-11-05 13:39:24
 
 <!-- TODAY END -->
 
