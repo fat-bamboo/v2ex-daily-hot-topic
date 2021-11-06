@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2021-11-06 00:54:17
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [我是公司信息部运维，有些工作是要远程同事的电脑处理问题。昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228) `115条评论` `职场话题`
 1. [为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186) `105条评论` `iPhone`
 1. [朋友们，一年了，终于想起买 AirPods Max，有劝退的吗](https://www.v2ex.com/t/813277) `64条评论` `Apple`
@@ -31,38 +41,6 @@
 1. [拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛](https://www.v2ex.com/t/813232) `15条评论` `MacBook Pro`
 1. [Python 包导入的困惑](https://www.v2ex.com/t/813185) `15条评论` `Python`
 1. [谣传 iPad mini 6 要上高刷屏，在等蜂窝版的兄弟们 hold 住啊！](https://www.v2ex.com/t/813402) `14条评论` `Apple`
-
-数据更新于 2021-11-05 23:56:03
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [有没有辣种色气满满的壁纸网站， 4k 最佳(狗头)](https://www.v2ex.com/t/812914) `121条评论` `奇思妙想`
-1. [盲选自己看得顺眼的编程字体](https://www.v2ex.com/t/812961) `86条评论` `分享发现`
-1. [再次见识到阿里的无底线](https://www.v2ex.com/t/812921) `81条评论` `分享发现`
-1. [16 寸， 32 内存款，啥时候能有货呢？](https://www.v2ex.com/t/812920) `73条评论` `MacBook Pro`
-1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939) `57条评论` `Android`
-1. [年底了，每人留下一条反内卷指南吧](https://www.v2ex.com/t/813011) `53条评论` `职场话题`
-1. [老哥们，跟大家求个事儿，关于裁员的问题](https://www.v2ex.com/t/812985) `50条评论` `职场话题`
-1. [有定制版的 MBP 变态（发货）吗？](https://www.v2ex.com/t/813016) `50条评论` `MacBook Pro`
-1. [给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951) `49条评论` `程序员`
-1. [裸辞三个月的一些感想](https://www.v2ex.com/t/813107) `47条评论` `程序员`
-1. [[送码]花花收纳 app-整理空间，定位物品](https://www.v2ex.com/t/812919) `47条评论` `分享创造`
-1. [XS 感觉在 iOS15 后有些力不从心了](https://www.v2ex.com/t/813080) `24条评论` `iPhone`
-1. [所以苹果官网是被人黑了吗？](https://www.v2ex.com/t/813047) `24条评论` `然而并没有`
-1. [请教一下 emby、Jeelyfin 的疑问](https://www.v2ex.com/t/812899) `21条评论` `问与答`
-1. [前端是否有点卷？](https://www.v2ex.com/t/813069) `20条评论` `问与答`
-1. [入职一个星期想跑路](https://www.v2ex.com/t/812998) `20条评论` `职场话题`
-1. [[心得] 抹盘重装后，放弃了升级电脑的想法](https://www.v2ex.com/t/812933) `20条评论` `macOS`
-1. [单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084) `19条评论` `Tesla`
-1. [广州 CBD 区域电信 1000M 宽带还会限制 50 终端数，多了会掉线？](https://www.v2ex.com/t/812966) `19条评论` `宽带症候群`
-1. [不服不行， Touch bar 确实没什么卵用](https://www.v2ex.com/t/813056) `18条评论` `MacBook Pro`
-1. [分享一下我的家庭网络拓扑](https://www.v2ex.com/t/813150) `17条评论` `程序员`
-1. [领导介绍对象应该怎么处理比较好呢](https://www.v2ex.com/t/813081) `17条评论` `问与答`
-1. [AirPods3 vs AirPro 选哪个](https://www.v2ex.com/t/813066) `17条评论` `Apple`
 
 <!-- YESTERDAY END -->
 
