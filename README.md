@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想买手表了，想知道买完有后悔的么](https://www.v2ex.com/t/813433) `52条评论` `问与答`
-1. [网易词典我都付费了还尼玛要给我营销？](https://www.v2ex.com/t/813430) `51条评论` `分享发现`
-1. [最近惠阳买房送首付大家听说了吗？能上车不](https://www.v2ex.com/t/813456) `36条评论` `生活`
-1. [未来两三年 Mac book Pro 还有大的突破么？](https://www.v2ex.com/t/813446) `26条评论` `MacBook Pro`
-1. [有什么办法可以单独禁用某些 app 的加速度传感器或者陀螺仪嘛？我发现我在火车上居然打不开 QQ 音乐！](https://www.v2ex.com/t/813447) `23条评论` `问与答`
+1. [想买手表了，想知道买完有后悔的么](https://www.v2ex.com/t/813433) `54条评论` `问与答`
+1. [网易词典我都付费了还尼玛要给我营销？](https://www.v2ex.com/t/813430) `52条评论` `分享发现`
+1. [最近惠阳买房送首付大家听说了吗？能上车不](https://www.v2ex.com/t/813456) `37条评论` `生活`
+1. [未来两三年 Mac book Pro 还有大的突破么？](https://www.v2ex.com/t/813446) `28条评论` `MacBook Pro`
+1. [有什么办法可以单独禁用某些 app 的加速度传感器或者陀螺仪嘛？我发现我在火车上居然打不开 QQ 音乐！](https://www.v2ex.com/t/813447) `25条评论` `问与答`
 1. [由于经济马太效应和人口老龄化，未来中国可能只剩下三个经济中心：北京、上海、深圳](https://www.v2ex.com/t/813480) `20条评论` `生活`
 1. [阿里云和腾讯云确实卷起来了](https://www.v2ex.com/t/813424) `19条评论` `程序员`
 1. [这时候买 mac mini m1 会 49 年入国军?](https://www.v2ex.com/t/813492) `18条评论` `Apple`
 1. [有没有人用 m1 的 Mac mini 在家里做智能网关？](https://www.v2ex.com/t/813435) `17条评论` `Mac mini`
+1. [绿灯车不让人，行人抢行红灯，为啥？](https://www.v2ex.com/t/813475) `16条评论` `问与答`
 1. [中国移动宽带，想通过 IPv6，直接连进家里，发现只能 ping 通，不能 TCP 连接](https://www.v2ex.com/t/813445) `15条评论` `宽带症候群`
-1. [绿灯车不让人，行人抢行红灯，为啥？](https://www.v2ex.com/t/813475) `14条评论` `问与答`
+1. [想买个 PAD 看 PDF 电子书什么的，不打游戏，高分屏最好，续航一般就可以](https://www.v2ex.com/t/813451) `14条评论` `硬件`
 1. [3k 预算买手机推荐](https://www.v2ex.com/t/813439) `14条评论` `硬件`
-1. [想买个 PAD 看 PDF 电子书什么的，不打游戏，高分屏最好，续航一般就可以](https://www.v2ex.com/t/813451) `13条评论` `硬件`
 1. [我是如何安装 Firefox 国际版的](https://www.v2ex.com/t/813454) `12条评论` `Firefox`
 1. [AirPods Pro 日常用什么消毒](https://www.v2ex.com/t/813452) `10条评论` `Apple`
+1. [毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493) `7条评论` `职场话题`
 1. [macOS Monterey 锁屏头像有「小彩蛋」](https://www.v2ex.com/t/813464) `7条评论` `Apple`
+1. [这种圆角梯形有什么思路科一实现](https://www.v2ex.com/t/813450) `7条评论` `前端开发`
 1. [AirPods Pro 连接 switch 声音好小。](https://www.v2ex.com/t/813440) `7条评论` `AirPods`
 1. [做了一个简单、美观的智能自动加水加湿器，无人值守保持室内恒湿](https://www.v2ex.com/t/813428) `7条评论` `分享创造`
-1. [毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493) `6条评论` `职场话题`
 1. [计网自顶向下 BGP 协议 路由选择策略的疑问](https://www.v2ex.com/t/813466) `6条评论` `程序员`
 1. [请问 Mac 上 Chrome Safari 的书签最佳同步方案是哪种？](https://www.v2ex.com/t/813457) `6条评论` `macOS`
-1. [这种圆角梯形有什么思路科一实现](https://www.v2ex.com/t/813450) `6条评论` `前端开发`
 1. [2021 MacBook Pro Safari 看 Youtube HDR 视频没有 HDR](https://www.v2ex.com/t/813434) `6条评论` `MacBook Pro`
 
-数据更新于 2021-11-06 07:50:19
+数据更新于 2021-11-06 08:01:09
 
 <!-- TODAY END -->
 
