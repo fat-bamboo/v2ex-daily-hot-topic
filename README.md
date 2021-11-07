@@ -9,16 +9,16 @@
 <!-- TODAY BEGIN -->
 
 1. [刚刚突然看透了，对于普通人而言，绝大多数云服务都没有意义，只要一个云服务器就行。](https://www.v2ex.com/t/813621) `51条评论` `程序员`
-1. [Go 不是谷歌亲儿子吗？](https://www.v2ex.com/t/813608) `45条评论` `Go 编程语言`
+1. [Go 不是谷歌亲儿子吗？](https://www.v2ex.com/t/813608) `46条评论` `Go 编程语言`
+1. [苹果中国官网日前更新了 iPhone 使用手册，确认 iOS 15.1 中的指南针不再显示坐标、海拔等信息](https://www.v2ex.com/t/813643) `45条评论` `iPhone`
 1. [测试机周未在公司被偷了，尤于找不到证据，公司让员工全额赔偿](https://www.v2ex.com/t/813601) `42条评论` `职场话题`
-1. [苹果中国官网日前更新了 iPhone 使用手册，确认 iOS 15.1 中的指南针不再显示坐标、海拔等信息](https://www.v2ex.com/t/813643) `42条评论` `iPhone`
-1. [没想到遇到李鬼这种事情真的会发生在自己身上](https://www.v2ex.com/t/813655) `17条评论` `Apple`
+1. [没想到遇到李鬼这种事情真的会发生在自己身上](https://www.v2ex.com/t/813655) `18条评论` `Apple`
 1. [16 寸 M1 Max 体验确实很好](https://www.v2ex.com/t/813625) `15条评论` `MacBook Pro`
 1. [腾讯云双 11 拉新活动-限前 100 个： 125 轻量 95 元/3 年起， 248 轻量 139 元/3 年起](https://www.v2ex.com/t/813591) `15条评论` `推广`
 1. [活久见，公司起诉程序猿工作进度慢索赔 90 万。。。](https://www.v2ex.com/t/813617) `14条评论` `职场话题`
+1. [M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632) `13条评论` `MacBook Pro`
 1. [Mac 怎么绕过 hosts 的屏蔽啊](https://www.v2ex.com/t/813626) `13条评论` `macOS`
 1. [2022 的 iPad Pro 会是什么设计？](https://www.v2ex.com/t/813622) `13条评论` `Apple`
-1. [M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632) `12条评论` `MacBook Pro`
 1. [人越长大越容易感到孤独吗？](https://www.v2ex.com/t/813657) `11条评论` `问与答`
 1. [今天用了下 Infuse，有一些问题想请教大佬下？](https://www.v2ex.com/t/813656) `11条评论` `Apple`
 1. [clash 有 iOS 的客户端么？](https://www.v2ex.com/t/813638) `11条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [笔记本拆下来的硬盘无法在 windows 下读取,但可以在 Linux 下读取](https://www.v2ex.com/t/813631) `6条评论` `问与答`
 1. [Android12 现在能升级吗](https://www.v2ex.com/t/813595) `6条评论` `问与答`
 
-数据更新于 2021-11-07 11:27:48
+数据更新于 2021-11-07 11:38:06
 
 <!-- TODAY END -->
 
