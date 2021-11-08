@@ -12,14 +12,14 @@
 1. [苹果有个伟大的地方](https://www.v2ex.com/t/813776) `131条评论` `Apple`
 1. [电池健康最大容量在今天终于变了](https://www.v2ex.com/t/813741) `103条评论` `iPhone`
 1. [预算 4000-5000 有没有什么电视推荐](https://www.v2ex.com/t/813761) `64条评论` `问与答`
-1. [mbp pro 有必要上 32g 嘛](https://www.v2ex.com/t/813783) `51条评论` `MacBook Pro`
+1. [mbp pro 有必要上 32g 嘛](https://www.v2ex.com/t/813783) `52条评论` `MacBook Pro`
 1. [MBP 定制版，已经准备发货 4 天了，还没发出来，有同样的朋友吗？](https://www.v2ex.com/t/813793) `51条评论` `Apple`
 1. [Dell U2720qm 官网 3699 元值得买吗](https://www.v2ex.com/t/813742) `45条评论` `买买买`
 1. [长期伏坐，胃部胀气，如何改善](https://www.v2ex.com/t/813774) `45条评论` `知乎`
 1. [假如我像素级的拷贝一个网站，如知乎， 并把源代码开源，知乎能去法院告我吗？](https://www.v2ex.com/t/813870) `44条评论` `问与答`
 1. [iPhone13Pro 买来三个周，电池健康度 99%了](https://www.v2ex.com/t/813894) `41条评论` `Apple`
 1. [把 Apple Watch 当作运动助手的老哥, 帮我看看](https://www.v2ex.com/t/813838) `35条评论` ` WATCH`
-1. [windows 11 难以忍受之处汇总](https://www.v2ex.com/t/813979) `24条评论` `Windows`
+1. [windows 11 难以忍受之处汇总](https://www.v2ex.com/t/813979) `25条评论` `Windows`
 1. [macbook 16 intel 版本真的那么拉吗](https://www.v2ex.com/t/813888) `21条评论` `Apple`
 1. [抖音和快手会对视频进行相似度检测吗？](https://www.v2ex.com/t/813884) `20条评论` `问与答`
 1. [刚玩两天 VR 眼镜就受伤了](https://www.v2ex.com/t/813748) `20条评论` `健康`
@@ -32,7 +32,7 @@
 1. [求帮忙设计代码 关于异步线程的开启和暂停](https://www.v2ex.com/t/813768) `14条评论` `Java`
 1. [为什么改微信号这么难？试了好几个 id，老是提示已被使用，明明没人用这些 ID](https://www.v2ex.com/t/813826) `13条评论` `微信`
 
-数据更新于 2021-11-08 17:48:00
+数据更新于 2021-11-08 17:58:32
 
 <!-- TODAY END -->
 
