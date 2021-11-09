@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032) `143条评论` `程序员`
-1. [提前还房贷请教](https://www.v2ex.com/t/814034) `66条评论` `生活`
-1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `59条评论` `.NET`
-1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `27条评论` `iPad`
+1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032) `146条评论` `程序员`
+1. [提前还房贷请教](https://www.v2ex.com/t/814034) `68条评论` `生活`
+1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `62条评论` `.NET`
+1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `28条评论` `iPad`
 1. [大家来说说定制版 MBP 的进度](https://www.v2ex.com/t/814074) `24条评论` `Apple`
 1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `23条评论` `Go 编程语言`
 1. [双 11 腾讯云老用户无脑入坑 2 核 4G 80G 三年 198 是不是赚了？平时新用户都不是这个价格](https://www.v2ex.com/t/814133) `22条评论` `云计算`
+1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131) `19条评论` `程序员`
 1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065) `19条评论` `问与答`
 1. [为什么公司领导，都不愿解决问题](https://www.v2ex.com/t/814040) `19条评论` `职场话题`
+1. [迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？](https://www.v2ex.com/t/814135) `18条评论` `问与答`
 1. [Nginx 能不能通过不同的域名复用 443 port 反代 SSH 22 port ？](https://www.v2ex.com/t/814132) `18条评论` `Linux`
+1. [有没有将近似的 hash 认为是相同 hash 的 hashset？](https://www.v2ex.com/t/814128) `18条评论` `问与答`
 1. [iPhone 13 mini 使用感受](https://www.v2ex.com/t/814091) `18条评论` `Apple`
-1. [迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？](https://www.v2ex.com/t/814135) `17条评论` `问与答`
-1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131) `17条评论` `程序员`
+1. [洪蒙系统出来了，安卓还值不值得学？](https://www.v2ex.com/t/814141) `17条评论` `Android`
 1. [校招 offer 决赛圈](https://www.v2ex.com/t/814068) `16条评论` `职场话题`
 1. [M1 发热严重，如何排查？](https://www.v2ex.com/t/814046) `16条评论` `Apple`
-1. [洪蒙系统出来了，安卓还值不值得学？](https://www.v2ex.com/t/814141) `15条评论` `Android`
+1. [迫于很多裸聊敲诈诈骗案例，写了一个生成随机联系人的小 app](https://www.v2ex.com/t/814134) `14条评论` `Android`
 1. [请教 500M 宽带的正确使用姿势？](https://www.v2ex.com/t/814090) `14条评论` `宽带症候群`
 1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `14条评论` `MacBook Pro`
 1. [创建一个 iMessage 闲聊群----2021.11.9](https://www.v2ex.com/t/814026) `14条评论` `Apple`
 1. [苹果 12 pro 昨天过保，今天电池和主板坏了](https://www.v2ex.com/t/814124) `13条评论` `Apple`
 1. [迫于 AW7，双 type-c 口的充电头求推荐](https://www.v2ex.com/t/814081) `13条评论` `Apple`
-1. [有没有将近似的 hash 认为是相同 hash 的 hashset？](https://www.v2ex.com/t/814128) `12条评论` `问与答`
-1. [家里用洗碗机的有没有用中盐软水盐的？](https://www.v2ex.com/t/814100) `12条评论` `问与答`
 
-数据更新于 2021-11-09 06:59:01
+数据更新于 2021-11-09 07:21:56
 
 <!-- TODAY END -->
 
