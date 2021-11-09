@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032) `160条评论` `程序员`
-1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `84条评论` `.NET`
-1. [提前还房贷请教](https://www.v2ex.com/t/814034) `80条评论` `生活`
-1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `61条评论` `Go 编程语言`
+1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032) `161条评论` `程序员`
+1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `85条评论` `.NET`
+1. [提前还房贷请教](https://www.v2ex.com/t/814034) `83条评论` `生活`
+1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `68条评论` `Go 编程语言`
 1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `57条评论` `iPad`
 1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065) `51条评论` `问与答`
 1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `39条评论` `MacBook Pro`
 1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187) `33条评论` `Apple`
 1. [双 11 腾讯云老用户无脑入坑 2 核 4G 80G 三年 198 是不是赚了？平时新用户都不是这个价格](https://www.v2ex.com/t/814133) `31条评论` `云计算`
 1. [serverless framework 国内只能用腾讯云？](https://www.v2ex.com/t/814196) `26条评论` `云计算`
+1. [放弃 Gmail 像恋爱分手一样，有点痛](https://www.v2ex.com/t/814212) `25条评论` `Google`
 1. [迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？](https://www.v2ex.com/t/814135) `25条评论` `问与答`
 1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131) `24条评论` `程序员`
 1. [大家来说说定制版 MBP 的进度](https://www.v2ex.com/t/814074) `24条评论` `Apple`
 1. [有没有将近似的 hash 认为是相同 hash 的 hashset？](https://www.v2ex.com/t/814128) `21条评论` `问与答`
-1. [放弃 Gmail 像恋爱分手一样，有点痛](https://www.v2ex.com/t/814212) `20条评论` `Google`
 1. [想在家里再弄个机器，作为平时学习分布式， k8s 的机器各位大佬看行吗？](https://www.v2ex.com/t/814176) `20条评论` `Kubernetes`
 1. [洪蒙系统出来了，安卓还值不值得学？](https://www.v2ex.com/t/814141) `20条评论` `Android`
 1. [Nginx 能不能通过不同的域名复用 443 port 反代 SSH 22 port ？](https://www.v2ex.com/t/814132) `19条评论` `Linux`
@@ -30,9 +30,9 @@
 1. [直营店“拒保”记](https://www.v2ex.com/t/814143) `18条评论` `Apple`
 1. [迫于很多裸聊敲诈诈骗案例，写了一个生成随机联系人的小 app](https://www.v2ex.com/t/814134) `18条评论` `Android`
 1. [iPhone 13 mini 使用感受](https://www.v2ex.com/t/814091) `18条评论` `Apple`
-1. [感觉现在的自来水越来越臭了。时常很黄。有没有那种全屋净水的方案。](https://www.v2ex.com/t/814149) `16条评论` `问与答`
+1. [能帮忙想一个英文网名吗？ 要用来描述失败的那种，不是颓废，而是失败，低头](https://www.v2ex.com/t/814228) `16条评论` `English`
 
-数据更新于 2021-11-09 11:59:31
+数据更新于 2021-11-09 12:37:09
 
 <!-- TODAY END -->
 
