@@ -14,7 +14,7 @@
 1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `75条评论` `Go 编程语言`
 1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `70条评论` `iPad`
 1. [有什么不烂尾的美剧值得推荐的吗](https://www.v2ex.com/t/814240) `58条评论` `剧集`
-1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `54条评论` `MacBook Pro`
+1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `55条评论` `MacBook Pro`
 1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131) `52条评论` `程序员`
 1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187) `51条评论` `Apple`
 1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065) `51条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [为什么公司领导，都不愿解决问题](https://www.v2ex.com/t/814040) `19条评论` `职场话题`
 1. [直营店“拒保”记](https://www.v2ex.com/t/814143) `18条评论` `Apple`
 
-数据更新于 2021-11-09 21:55:56
+数据更新于 2021-11-09 22:17:10
 
 <!-- TODAY END -->
 
