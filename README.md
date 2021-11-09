@@ -9,14 +9,14 @@
 <!-- TODAY BEGIN -->
 
 1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032) `159条评论` `程序员`
-1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `81条评论` `.NET`
-1. [提前还房贷请教](https://www.v2ex.com/t/814034) `78条评论` `生活`
-1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `54条评论` `iPad`
-1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `51条评论` `Go 编程语言`
-1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065) `48条评论` `问与答`
+1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `84条评论` `.NET`
+1. [提前还房贷请教](https://www.v2ex.com/t/814034) `79条评论` `生活`
+1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `56条评论` `Go 编程语言`
+1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `56条评论` `iPad`
+1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065) `50条评论` `问与答`
 1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `39条评论` `MacBook Pro`
+1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187) `33条评论` `Apple`
 1. [双 11 腾讯云老用户无脑入坑 2 核 4G 80G 三年 198 是不是赚了？平时新用户都不是这个价格](https://www.v2ex.com/t/814133) `31条评论` `云计算`
-1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187) `29条评论` `Apple`
 1. [serverless framework 国内只能用腾讯云？](https://www.v2ex.com/t/814196) `26条评论` `云计算`
 1. [迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？](https://www.v2ex.com/t/814135) `25条评论` `问与答`
 1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131) `24条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [感觉现在的自来水越来越臭了。时常很黄。有没有那种全屋净水的方案。](https://www.v2ex.com/t/814149) `16条评论` `问与答`
 1. [校招 offer 决赛圈](https://www.v2ex.com/t/814068) `16条评论` `职场话题`
 
-数据更新于 2021-11-09 10:55:49
+数据更新于 2021-11-09 11:13:49
 
 <!-- TODAY END -->
 
