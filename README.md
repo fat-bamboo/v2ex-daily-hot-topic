@@ -12,8 +12,8 @@
 1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `95条评论` `.NET`
 1. [提前还房贷请教](https://www.v2ex.com/t/814034) `90条评论` `生活`
 1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `75条评论` `Go 编程语言`
-1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `71条评论` `iPad`
-1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187) `60条评论` `Apple`
+1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136) `73条评论` `iPad`
+1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187) `63条评论` `Apple`
 1. [有什么不烂尾的美剧值得推荐的吗](https://www.v2ex.com/t/814240) `58条评论` `剧集`
 1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `55条评论` `MacBook Pro`
 1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131) `54条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [为什么公司领导，都不愿解决问题](https://www.v2ex.com/t/814040) `19条评论` `职场话题`
 1. [直营店“拒保”记](https://www.v2ex.com/t/814143) `18条评论` `Apple`
 
-数据更新于 2021-11-09 23:45:37
+数据更新于 2021-11-09 23:55:52
 
 <!-- TODAY END -->
 
