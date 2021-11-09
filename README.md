@@ -10,7 +10,7 @@
 
 1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032) `123条评论` `程序员`
 1. [提前还房贷请教](https://www.v2ex.com/t/814034) `55条评论` `生活`
-1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `45条评论` `.NET`
+1. [.NET 6 正式版了](https://www.v2ex.com/t/814028) `47条评论` `.NET`
 1. [大家来说说定制版 MBP 的进度](https://www.v2ex.com/t/814074) `24条评论` `Apple`
 1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065) `19条评论` `问与答`
 1. [为什么公司领导，都不愿解决问题](https://www.v2ex.com/t/814040) `19条评论` `职场话题`
@@ -19,20 +19,20 @@
 1. [M1 发热严重，如何排查？](https://www.v2ex.com/t/814046) `16条评论` `Apple`
 1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085) `14条评论` `MacBook Pro`
 1. [创建一个 iMessage 闲聊群----2021.11.9](https://www.v2ex.com/t/814026) `14条评论` `Apple`
+1. [请教 500M 宽带的正确使用姿势？](https://www.v2ex.com/t/814090) `13条评论` `宽带症候群`
 1. [迫于 AW7，双 type-c 口的充电头求推荐](https://www.v2ex.com/t/814081) `13条评论` `Apple`
-1. [请教 500M 宽带的正确使用姿势？](https://www.v2ex.com/t/814090) `12条评论` `宽带症候群`
+1. [要是电子设备上只有一种接口就好了](https://www.v2ex.com/t/814093) `12条评论` `问与答`
 1. [如何通过反射获取 List<T>中泛型 T 的真实类型？](https://www.v2ex.com/t/814075) `12条评论` `Java`
 1. [有用过 ucloud 家的云服务器的吗？](https://www.v2ex.com/t/814059) `12条评论` `程序员`
-1. [要是电子设备上只有一种接口就好了](https://www.v2ex.com/t/814093) `11条评论` `问与答`
+1. [再来吹一波 Golang](https://www.v2ex.com/t/814129) `10条评论` `Go 编程语言`
 1. [求推荐 4k 显示器，需求为 PS5 及 type-c 接口](https://www.v2ex.com/t/814064) `10条评论` `问与答`
+1. [大家 iPhone13 的电信卡还好用吗？](https://www.v2ex.com/t/814106) `9条评论` `iPhone`
 1. [迫于无聊统计一下，有没有和我一样买的淘宝官方店的 13 256](https://www.v2ex.com/t/814031) `9条评论` `iPhone`
+1. [数码荔枝 购买软件遇到的问题](https://www.v2ex.com/t/814108) `8条评论` `分享发现`
 1. [服务器限定 ssh 登录的 ip，本地网络又是动态拨号分配的 ip，怎么办](https://www.v2ex.com/t/814030) `8条评论` `程序员`
-1. [Chrome 最新版地址栏智能提示？](https://www.v2ex.com/t/814120) `7条评论` `Chrome`
-1. [数码荔枝 购买软件遇到的问题](https://www.v2ex.com/t/814108) `7条评论` `分享发现`
-1. [大家 iPhone13 的电信卡还好用吗？](https://www.v2ex.com/t/814106) `7条评论` `iPhone`
-1. [遇到了一个神奇的 bug](https://www.v2ex.com/t/814048) `7条评论` `问与答`
+1. [苹果 12 pro 昨天过保，今天电池和主板坏了](https://www.v2ex.com/t/814124) `7条评论` `Apple`
 
-数据更新于 2021-11-09 05:29:17
+数据更新于 2021-11-09 05:39:32
 
 <!-- TODAY END -->
 
