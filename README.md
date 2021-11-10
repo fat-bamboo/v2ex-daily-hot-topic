@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338) `51条评论` `职场话题`
+1. [我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338) `53条评论` `职场话题`
 1. [含泪，出 Macbook Pro 2021 14 寸 32G+AC，￥ 18299（定制版￥ 19747）](https://www.v2ex.com/t/814332) `29条评论` `MacBook Pro`
 1. [关于升级路由器](https://www.v2ex.com/t/814311) `29条评论` `问与答`
 1. [[请教贴] 如何从外包跳入字节、腾讯、百度等大厂，获取一份开发工作？](https://www.v2ex.com/t/814309) `23条评论` `职场话题`
@@ -18,10 +18,10 @@
 1. [库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382) `19条评论` `Apple`
 1. [办不了的深圳居住证](https://www.v2ex.com/t/814362) `19条评论` `问与答`
 1. [大佬们, 为什么新 mac 占用内存这么多](https://www.v2ex.com/t/814344) `19条评论` `macOS`
+1. [apple watch 解锁 iPhone 过于“快捷”](https://www.v2ex.com/t/814348) `18条评论` `Apple`
 1. [捷径能设置打开一个 APP 后再返回手机主屏幕吗？](https://www.v2ex.com/t/814314) `18条评论` `Apple`
 1. [关于独生子女](https://www.v2ex.com/t/814339) `17条评论` `生活`
 1. [在天津, 马上 30 岁的运维该怎么走](https://www.v2ex.com/t/814333) `17条评论` `职场话题`
-1. [apple watch 解锁 iPhone 过于“快捷”](https://www.v2ex.com/t/814348) `16条评论` `Apple`
 1. [有没有能够在页面上做笔记的工具](https://www.v2ex.com/t/814349) `11条评论` `分享创造`
 1. [elasticsearch 针对对象查询问题](https://www.v2ex.com/t/814347) `11条评论` `Elasticsearch`
 1. [iPad Mini 6 Celluar 蜂窝板国行开始发售了，预计发货日期： 4-5 周](https://www.v2ex.com/t/814343) `11条评论` `iPad`
@@ -32,7 +32,7 @@
 1. [IPTV 盒子上了 CCTV-16 的 4K 频道了](https://www.v2ex.com/t/814324) `10条评论` `问与答`
 1. [mbp2020 出手能标多少钱呢](https://www.v2ex.com/t/814308) `10条评论` `Apple`
 
-数据更新于 2021-11-10 05:27:51
+数据更新于 2021-11-10 05:38:32
 
 <!-- TODAY END -->
 
