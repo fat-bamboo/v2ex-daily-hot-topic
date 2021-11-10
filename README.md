@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338) `59条评论` `职场话题`
-1. [找寻独立原创博客的价值](https://www.v2ex.com/t/814316) `43条评论` `分享创造`
-1. [库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382) `34条评论` `Apple`
+1. [我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338) `62条评论` `职场话题`
+1. [找寻独立原创博客的价值](https://www.v2ex.com/t/814316) `44条评论` `分享创造`
+1. [库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382) `42条评论` `Apple`
 1. [含泪，出 Macbook Pro 2021 14 寸 32G+AC，￥ 18299（定制版￥ 19747）](https://www.v2ex.com/t/814332) `29条评论` `MacBook Pro`
 1. [关于升级路由器](https://www.v2ex.com/t/814311) `29条评论` `问与答`
 1. [办不了的深圳居住证](https://www.v2ex.com/t/814362) `24条评论` `问与答`
@@ -20,9 +20,9 @@
 1. [大佬们, 为什么新 mac 占用内存这么多](https://www.v2ex.com/t/814344) `19条评论` `macOS`
 1. [apple watch 解锁 iPhone 过于“快捷”](https://www.v2ex.com/t/814348) `18条评论` `Apple`
 1. [捷径能设置打开一个 APP 后再返回手机主屏幕吗？](https://www.v2ex.com/t/814314) `18条评论` `Apple`
+1. [在公司支援驻场同事的银行项目,银行项目都是急的飞起的项目吗。。](https://www.v2ex.com/t/814374) `17条评论` `程序员`
 1. [关于独生子女](https://www.v2ex.com/t/814339) `17条评论` `生活`
 1. [在天津, 马上 30 岁的运维该怎么走](https://www.v2ex.com/t/814333) `17条评论` `职场话题`
-1. [在公司支援驻场同事的银行项目,银行项目都是急的飞起的项目吗。。](https://www.v2ex.com/t/814374) `16条评论` `程序员`
 1. [看隔壁背单词软件有感，英语学习软件](https://www.v2ex.com/t/814392) `14条评论` `奇思妙想`
 1. [是不是 64G 内存的就都没有发货啊。](https://www.v2ex.com/t/814394) `13条评论` `MacBook Pro`
 1. [Keyboard Maestro 的替代品 Karabiner Elements， Hammerspoon](https://www.v2ex.com/t/814381) `13条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [iPad Mini 6 Celluar 蜂窝板国行开始发售了，预计发货日期： 4-5 周](https://www.v2ex.com/t/814343) `11条评论` `iPad`
 1. [有没有一种 chrome 插件可以将页面日期自动格式化为 ISO_DATE](https://www.v2ex.com/t/814357) `10条评论` `程序员`
 
-数据更新于 2021-11-10 06:48:53
+数据更新于 2021-11-10 06:59:03
 
 <!-- TODAY END -->
 
