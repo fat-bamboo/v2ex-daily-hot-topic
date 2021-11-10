@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
+1. [库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382) `76条评论` `Apple`
 1. [我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338) `75条评论` `职场话题`
-1. [库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382) `71条评论` `Apple`
-1. [找寻独立原创博客的价值](https://www.v2ex.com/t/814316) `47条评论` `分享创造`
+1. [找寻独立原创博客的价值](https://www.v2ex.com/t/814316) `48条评论` `分享创造`
 1. [含泪，出 Macbook Pro 2021 14 寸 32G+AC，￥ 18299（定制版￥ 19747）](https://www.v2ex.com/t/814332) `47条评论` `MacBook Pro`
 1. [关于升级路由器](https://www.v2ex.com/t/814311) `29条评论` `问与答`
 1. [办不了的深圳居住证](https://www.v2ex.com/t/814362) `24条评论` `问与答`
@@ -28,11 +28,11 @@
 1. [印象笔记-干的漂亮](https://www.v2ex.com/t/814385) `17条评论` `分享发现`
 1. [关于独生子女](https://www.v2ex.com/t/814339) `17条评论` `生活`
 1. [在天津, 马上 30 岁的运维该怎么走](https://www.v2ex.com/t/814333) `17条评论` `职场话题`
+1. [双十一好像越来越没感觉了？你双十一买了啥](https://www.v2ex.com/t/814437) `14条评论` `问与答`
 1. [看隔壁背单词软件有感，英语学习软件](https://www.v2ex.com/t/814392) `14条评论` `奇思妙想`
 1. [Keyboard Maestro 的替代品 Karabiner Elements， Hammerspoon](https://www.v2ex.com/t/814381) `14条评论` `macOS`
-1. [大家 a 面都贴什么膜，分享看看](https://www.v2ex.com/t/814402) `13条评论` `MacBook Pro`
 
-数据更新于 2021-11-10 08:55:39
+数据更新于 2021-11-10 09:16:30
 
 <!-- TODAY END -->
 
