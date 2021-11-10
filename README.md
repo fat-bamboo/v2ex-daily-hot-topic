@@ -32,7 +32,7 @@
 1. [apple watch 解锁 iPhone 过于“快捷”](https://www.v2ex.com/t/814348) `18条评论` `Apple`
 1. [捷径能设置打开一个 APP 后再返回手机主屏幕吗？](https://www.v2ex.com/t/814314) `18条评论` `Apple`
 
-数据更新于 2021-11-10 22:45:41
+数据更新于 2021-11-10 22:55:57
 
 <!-- TODAY END -->
 
