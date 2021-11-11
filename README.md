@@ -11,10 +11,10 @@
 1. [蹭一波双十一，免费送会员](https://www.v2ex.com/t/814581) `221条评论` `推广`
 1. [程序员是不是对网速有执念](https://www.v2ex.com/t/814571) `149条评论` `程序员`
 1. [面对公共场合吸烟者，如何劝说阻止其行为呢？](https://www.v2ex.com/t/814665) `97条评论` `职场话题`
-1. [遍地是把“优惠券（quàn）”念成“优惠卷（juàn）”的](https://www.v2ex.com/t/814715) `92条评论` `问与答`
+1. [遍地是把“优惠券（quàn）”念成“优惠卷（juàn）”的](https://www.v2ex.com/t/814715) `93条评论` `问与答`
 1. [请问大家有什么戒烟解决方案？](https://www.v2ex.com/t/814576) `88条评论` `问与答`
 1. [问下 vscode 和 IDEA 的区别，因为 idea 没办法用重置插件了](https://www.v2ex.com/t/814633) `66条评论` `程序员`
-1. [Apple Pencil 值得买吗？](https://www.v2ex.com/t/814587) `55条评论` `Apple`
+1. [Apple Pencil 值得买吗？](https://www.v2ex.com/t/814587) `56条评论` `Apple`
 1. [GitHub Copilot 可以写帮我写中文文章了](https://www.v2ex.com/t/814689) `52条评论` `程序员`
 1. [VUE 跨域问题](https://www.v2ex.com/t/814698) `52条评论` `Vue.js`
 1. [要换电池的可以看看， JD 今天换原厂电池只要 359](https://www.v2ex.com/t/814676) `47条评论` `iPhone`
@@ -32,7 +32,7 @@
 1. [Mac 免费看图软件有推荐吗？公司不让用 Bridge……](https://www.v2ex.com/t/814611) `20条评论` `macOS`
 1. [求推荐 8 万以内家用车，父母用。](https://www.v2ex.com/t/814607) `19条评论` `问与答`
 
-数据更新于 2021-11-11 16:25:14
+数据更新于 2021-11-11 17:00:34
 
 <!-- TODAY END -->
 
