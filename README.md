@@ -14,7 +14,7 @@
 1. [遍地是把“优惠券（quàn）”念成“优惠卷（juàn）”的](https://www.v2ex.com/t/814715) `94条评论` `问与答`
 1. [请问大家有什么戒烟解决方案？](https://www.v2ex.com/t/814576) `88条评论` `问与答`
 1. [问下 vscode 和 IDEA 的区别，因为 idea 没办法用重置插件了](https://www.v2ex.com/t/814633) `70条评论` `程序员`
-1. [Apple Pencil 值得买吗？](https://www.v2ex.com/t/814587) `57条评论` `Apple`
+1. [Apple Pencil 值得买吗？](https://www.v2ex.com/t/814587) `58条评论` `Apple`
 1. [GitHub Copilot 可以写帮我写中文文章了](https://www.v2ex.com/t/814689) `53条评论` `程序员`
 1. [VUE 跨域问题](https://www.v2ex.com/t/814698) `53条评论` `Vue.js`
 1. [没学历以后该怎么走](https://www.v2ex.com/t/814574) `50条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [Mac 免费看图软件有推荐吗？公司不让用 Bridge……](https://www.v2ex.com/t/814611) `20条评论` `macOS`
 1. [求推荐 8 万以内家用车，父母用。](https://www.v2ex.com/t/814607) `19条评论` `问与答`
 
-数据更新于 2021-11-11 22:34:14
+数据更新于 2021-11-11 22:45:36
 
 <!-- TODAY END -->
 
