@@ -8,26 +8,27 @@
 
 <!-- TODAY BEGIN -->
 
-1. [失业在北京四个月，半路出家程序员，路在何方？](https://www.v2ex.com/t/814816) `53条评论` `程序员`
-1. [终于，我定了一台房车](https://www.v2ex.com/t/814857) `29条评论` `汽车`
+1. [失业在北京四个月，半路出家程序员，路在何方？](https://www.v2ex.com/t/814816) `61条评论` `程序员`
+1. [终于，我定了一台房车](https://www.v2ex.com/t/814857) `33条评论` `汽车`
 1. [《JavaScript 百炼成仙》](https://www.v2ex.com/t/814828) `24条评论` `分享发现`
 1. [apple watch 省电小功略](https://www.v2ex.com/t/814829) `20条评论` ` WATCH`
+1. [V 友们 求推荐免费的域名邮箱🙏](https://www.v2ex.com/t/814862) `18条评论` `问与答`
+1. [airpods pro 也有高仿假货了？](https://www.v2ex.com/t/814840) `18条评论` `Apple`
 1. [老铁们，来求个智能开关的解决方案！感谢](https://www.v2ex.com/t/814833) `17条评论` `程序员`
-1. [airpods pro 也有高仿假货了？](https://www.v2ex.com/t/814840) `15条评论` `Apple`
 1. [今天准备去三亚万宁那边玩一趟， V 友有没有推荐的美食和店](https://www.v2ex.com/t/814825) `15条评论` `旅行`
-1. [V 友们 求推荐免费的域名邮箱🙏](https://www.v2ex.com/t/814862) `12条评论` `问与答`
+1. [上下班在马路上走路，前面走路的人在吸烟，烟味呛着难受，会怎么做](https://www.v2ex.com/t/814860) `11条评论` `知乎`
+1. [IntelliJ IDEA 购买](https://www.v2ex.com/t/814855) `11条评论` `问与答`
 1. [2015 款的 rmbp 13，乞丐版 8G+128G ，现在装哪个版本的系统最合适？](https://www.v2ex.com/t/814839) `11条评论` `macOS`
+1. [大家自己买的云服务器上跑的什么？](https://www.v2ex.com/t/814868) `10条评论` `程序员`
 1. [Apple 官网的 Mac 发货了 但是顺丰查不到物流是怎么回事？](https://www.v2ex.com/t/814826) `10条评论` `Apple`
-1. [上下班在马路上走路，前面走路的人在吸烟，烟味呛着难受，会怎么做](https://www.v2ex.com/t/814860) `9条评论` `知乎`
 1. [m1 mbp 电池健康值 93%？](https://www.v2ex.com/t/814822) `9条评论` `MacBook Pro`
-1. [IntelliJ IDEA 购买](https://www.v2ex.com/t/814855) `8条评论` `问与答`
 1. [不同浏览器隐私保护横向对比](https://www.v2ex.com/t/814830) `8条评论` `分享发现`
 1. [数学单元练习 11-12-21](https://www.v2ex.com/t/814842) `7条评论` `问与答`
 1. [starrocks VS clickhouse ,哪家强？](https://www.v2ex.com/t/814836) `7条评论` `数据库`
 1. [昨天 win11 迅雷追剧，频繁导致画面（显卡）崩溃](https://www.v2ex.com/t/814827) `7条评论` `Windows`
 1. [TB 渠道， 14 寸定制发货了，进来看看是不是同一家](https://www.v2ex.com/t/814818) `7条评论` `Apple`
 
-数据更新于 2021-11-12 02:53:32
+数据更新于 2021-11-12 03:16:17
 
 <!-- TODAY END -->
 
