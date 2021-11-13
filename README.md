@@ -8,22 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [胡说八道之如何学习独立思考？](https://www.v2ex.com/t/815099) `46条评论` `奇思妙想`
-1. [Apple Music 曲库很多歌都突然不能听了](https://www.v2ex.com/t/815140) `42条评论` `Apple`
+1. [胡说八道之如何学习独立思考？](https://www.v2ex.com/t/815099) `47条评论` `奇思妙想`
+1. [Apple Music 曲库很多歌都突然不能听了](https://www.v2ex.com/t/815140) `44条评论` `Apple`
 1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107) `35条评论` `iPad`
+1. [30 岁工科转行 Java](https://www.v2ex.com/t/815118) `33条评论` `问与答`
 1. [让运营商折磨得生不如死，老哥们给出出主意](https://www.v2ex.com/t/815090) `33条评论` `问与答`
-1. [30 岁工科转行 Java](https://www.v2ex.com/t/815118) `31条评论` `问与答`
-1. [想给 mac 配一个键盘有啥推荐的吗？](https://www.v2ex.com/t/815125) `29条评论` `MacBook Pro`
+1. [想给 mac 配一个键盘有啥推荐的吗？](https://www.v2ex.com/t/815125) `31条评论` `MacBook Pro`
 1. [windows 11 依然遵循着隔代好的传统？](https://www.v2ex.com/t/815150) `28条评论` `Windows`
 1. [利用 GitHub action 写了个生日提醒服务](https://www.v2ex.com/t/815160) `25条评论` `程序员`
 1. [后端语言 PHP 这样的模板引擎 lavarel 等，为什么没有称为前端工程化？](https://www.v2ex.com/t/815087) `25条评论` `编程`
 1. [新 mac 配件大家会买啥](https://www.v2ex.com/t/815158) `24条评论` `Apple`
-1. [一些观点：针对 Obsidian 内测新功能「所见即所得」，本地 + 双链 + 第三方同步 + 友善的中文搜索，未来可能要占据笔记软件的半壁江山](https://www.v2ex.com/t/815143) `23条评论` `分享发现`
+1. [一些观点：针对 Obsidian 内测新功能「所见即所得」，本地 + 双链 + 第三方同步 + 友善的中文搜索，未来可能要占据笔记软件的半壁江山](https://www.v2ex.com/t/815143) `24条评论` `分享发现`
 1. [大家 M1 芯片的 Mac 输入法卡顿嘛？](https://www.v2ex.com/t/815139) `18条评论` `Apple`
+1. [论现在的 V2EX 风气。](https://www.v2ex.com/t/815184) `17条评论` `问与答`
 1. [90W 适配器可以喂饱 MacBookPro 16 寸 M1Pro 吗？](https://www.v2ex.com/t/815096) `17条评论` `MacBook Pro`
 1. [备用机 iPhone 8 怎么样（2021 年 11 月）](https://www.v2ex.com/t/815105) `14条评论` `iPhone`
 1. [有些搞不懂了，为什么别人发推广贴一直在，我发软贴就删，而且自认为有点用](https://www.v2ex.com/t/815122) `13条评论` `程序员`
-1. [论现在的 V2EX 风气。](https://www.v2ex.com/t/815184) `11条评论` `问与答`
 1. [[前端][实习] 22 届求一份全职前端实习工作](https://www.v2ex.com/t/815148) `11条评论` `求职`
 1. [是不是渗透网站， 99%以上最终都是通过暴力 burp 来尝试?](https://www.v2ex.com/t/815124) `11条评论` `程序员`
 1. [macos 如何随时监视 CPU 占用率？](https://www.v2ex.com/t/815104) `11条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [app store 充值卡限制地区，请问哪里可以买到美区的充值卡？京东买了个发现只能中国区用 [手动苦笑]](https://www.v2ex.com/t/815103) `10条评论` `问与答`
 1. [如何让应用支持低版本 iOS 系统？](https://www.v2ex.com/t/815093) `10条评论` `iOS`
 
-数据更新于 2021-11-13 13:01:09
+数据更新于 2021-11-13 13:28:29
 
 <!-- TODAY END -->
 
