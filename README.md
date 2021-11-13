@@ -10,18 +10,18 @@
 
 1. [胡说八道之如何学习独立思考？](https://www.v2ex.com/t/815099) `54条评论` `奇思妙想`
 1. [Apple Music 曲库很多歌都突然不能听了](https://www.v2ex.com/t/815140) `51条评论` `Apple`
-1. [想给 mac 配一个键盘有啥推荐的吗？](https://www.v2ex.com/t/815125) `44条评论` `MacBook Pro`
+1. [想给 mac 配一个键盘有啥推荐的吗？](https://www.v2ex.com/t/815125) `46条评论` `MacBook Pro`
 1. [30 岁工科转行 Java](https://www.v2ex.com/t/815118) `41条评论` `问与答`
 1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107) `37条评论` `iPad`
 1. [新 mac 配件大家会买啥](https://www.v2ex.com/t/815158) `37条评论` `Apple`
 1. [windows 11 依然遵循着隔代好的传统？](https://www.v2ex.com/t/815150) `36条评论` `Windows`
 1. [让运营商折磨得生不如死，老哥们给出出主意](https://www.v2ex.com/t/815090) `36条评论` `问与答`
+1. [不懂就问之 TSLa 相比国产卖的贵十来万的底气是什么](https://www.v2ex.com/t/815191) `34条评论` `问与答`
 1. [利用 GitHub action 写了个生日提醒服务](https://www.v2ex.com/t/815160) `32条评论` `程序员`
-1. [不懂就问之 TSLa 相比国产卖的贵十来万的底气是什么](https://www.v2ex.com/t/815191) `32条评论` `问与答`
 1. [自家种的赣南脐橙给 V 友的福利只有 200 斤，抽奖 3 箱](https://www.v2ex.com/t/815182) `31条评论` `推广`
 1. [后端语言 PHP 这样的模板引擎 lavarel 等，为什么没有称为前端工程化？](https://www.v2ex.com/t/815087) `25条评论` `编程`
 1. [一些观点：针对 Obsidian 内测新功能「所见即所得」，本地 + 双链 + 第三方同步 + 友善的中文搜索，未来可能要占据笔记软件的半壁江山](https://www.v2ex.com/t/815143) `24条评论` `分享发现`
-1. [MIUI 相册近 200GB 未知空间占用](https://www.v2ex.com/t/815212) `19条评论` `Android`
+1. [MIUI 相册近 200GB 未知空间占用](https://www.v2ex.com/t/815212) `20条评论` `Android`
 1. [论现在的 V2EX 风气。](https://www.v2ex.com/t/815184) `18条评论` `问与答`
 1. [大家 M1 芯片的 Mac 输入法卡顿嘛？](https://www.v2ex.com/t/815139) `18条评论` `Apple`
 1. [90W 适配器可以喂饱 MacBookPro 16 寸 M1Pro 吗？](https://www.v2ex.com/t/815096) `17条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [macos 如何随时监视 CPU 占用率？](https://www.v2ex.com/t/815104) `11条评论` `macOS`
 1. [[视频分享] 东京最便宜的公寓（低于 100 美刀/月，不知道有没有听错）居然看起来还不错？？](https://www.v2ex.com/t/815169) `10条评论` `分享发现`
 
-数据更新于 2021-11-13 17:24:51
+数据更新于 2021-11-13 17:41:32
 
 <!-- TODAY END -->
 
