@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [让运营商折磨得生不如死，老哥们给出出主意](https://www.v2ex.com/t/815090) `23条评论` `问与答`
-1. [胡说八道之如何学习独立思考？](https://www.v2ex.com/t/815099) `21条评论` `奇思妙想`
+1. [胡说八道之如何学习独立思考？](https://www.v2ex.com/t/815099) `22条评论` `奇思妙想`
 1. [后端语言 PHP 这样的模板引擎 lavarel 等，为什么没有称为前端工程化？](https://www.v2ex.com/t/815087) `16条评论` `编程`
-1. [90W 适配器可以喂饱 MacBookPro 16 寸 M1Pro 吗？](https://www.v2ex.com/t/815096) `13条评论` `MacBook Pro`
+1. [90W 适配器可以喂饱 MacBookPro 16 寸 M1Pro 吗？](https://www.v2ex.com/t/815096) `14条评论` `MacBook Pro`
 1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107) `10条评论` `iPad`
 1. [腾讯云怎么绑定第三方 2FA 设备呢？](https://www.v2ex.com/t/815086) `10条评论` `云计算`
 1. [迫于想在公司用 4K 显示器，请问有必要上 2720QM 吗？](https://www.v2ex.com/t/815092) `9条评论` `问与答`
@@ -21,10 +21,11 @@
 1. [铲屎官们，求推荐个能 48 小时内发货的猫砂](https://www.v2ex.com/t/815102) `8条评论` `问与答`
 1. [MacOS 拒绝通过 DNS 查询某个域名？ ping 失败但是 nslookup 成功](https://www.v2ex.com/t/815119) `7条评论` `macOS`
 1. [像「暗黑破坏神」「流放之路」这样有词缀系统的网络游戏，装备数据库是如何设计的？](https://www.v2ex.com/t/815097) `7条评论` `程序员`
+1. [如何让应用支持低版本 iOS 系统？](https://www.v2ex.com/t/815093) `7条评论` `iOS`
 1. [30 岁工科转行 Java](https://www.v2ex.com/t/815118) `6条评论` `问与答`
 1. [app store 充值卡限制地区，请问哪里可以买到美区的充值卡？京东买了个发现只能中国区用 [手动苦笑]](https://www.v2ex.com/t/815103) `6条评论` `问与答`
 
-数据更新于 2021-11-13 05:46:07
+数据更新于 2021-11-13 05:56:26
 
 <!-- TODAY END -->
 
