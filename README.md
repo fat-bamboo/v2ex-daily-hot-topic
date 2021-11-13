@@ -10,9 +10,9 @@
 
 1. [胡说八道之如何学习独立思考？](https://www.v2ex.com/t/815099) `31条评论` `奇思妙想`
 1. [让运营商折磨得生不如死，老哥们给出出主意](https://www.v2ex.com/t/815090) `27条评论` `问与答`
-1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107) `25条评论` `iPad`
+1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107) `26条评论` `iPad`
+1. [Apple Music 曲库很多歌都突然不能听了](https://www.v2ex.com/t/815140) `26条评论` `Apple`
 1. [后端语言 PHP 这样的模板引擎 lavarel 等，为什么没有称为前端工程化？](https://www.v2ex.com/t/815087) `23条评论` `编程`
-1. [Apple Music 曲库很多歌都突然不能听了](https://www.v2ex.com/t/815140) `22条评论` `Apple`
 1. [想给 mac 配一个键盘有啥推荐的吗？](https://www.v2ex.com/t/815125) `20条评论` `MacBook Pro`
 1. [90W 适配器可以喂饱 MacBookPro 16 寸 M1Pro 吗？](https://www.v2ex.com/t/815096) `17条评论` `MacBook Pro`
 1. [备用机 iPhone 8 怎么样（2021 年 11 月）](https://www.v2ex.com/t/815105) `14条评论` `iPhone`
@@ -21,18 +21,18 @@
 1. [30 岁工科转行 Java](https://www.v2ex.com/t/815118) `11条评论` `问与答`
 1. [macos 如何随时监视 CPU 占用率？](https://www.v2ex.com/t/815104) `11条评论` `macOS`
 1. [[前端][实习] 22 届求一份全职前端实习工作](https://www.v2ex.com/t/815148) `10条评论` `求职`
+1. [大家 M1 芯片的 Mac 输入法卡顿嘛？](https://www.v2ex.com/t/815139) `10条评论` `Apple`
+1. [MacOS 拒绝通过 DNS 查询某个域名？ ping 失败但是 nslookup 成功](https://www.v2ex.com/t/815119) `10条评论` `macOS`
 1. [app store 充值卡限制地区，请问哪里可以买到美区的充值卡？京东买了个发现只能中国区用 [手动苦笑]](https://www.v2ex.com/t/815103) `10条评论` `问与答`
 1. [如何让应用支持低版本 iOS 系统？](https://www.v2ex.com/t/815093) `10条评论` `iOS`
 1. [腾讯云怎么绑定第三方 2FA 设备呢？](https://www.v2ex.com/t/815086) `10条评论` `云计算`
-1. [大家 M1 芯片的 Mac 输入法卡顿嘛？](https://www.v2ex.com/t/815139) `9条评论` `Apple`
-1. [MacOS 拒绝通过 DNS 查询某个域名？ ping 失败但是 nslookup 成功](https://www.v2ex.com/t/815119) `9条评论` `macOS`
+1. [一些观点：针对 Obsidian 内测新功能「所见即所得」，本地 + 双链 + 第三方同步 + 友善的中文搜索，未来可能要占据笔记软件的半壁江山](https://www.v2ex.com/t/815143) `9条评论` `分享发现`
 1. [Mac 外界两个显示器，怎么摆放位置比较好](https://www.v2ex.com/t/815115) `9条评论` `MacBook Pro`
 1. [铲屎官们，求推荐个能 48 小时内发货的猫砂](https://www.v2ex.com/t/815102) `9条评论` `问与答`
 1. [迫于想在公司用 4K 显示器，请问有必要上 2720QM 吗？](https://www.v2ex.com/t/815092) `9条评论` `问与答`
 1. [最近有什么节日吗，为什么 Apple 要开启节日季活动？](https://www.v2ex.com/t/815089) `9条评论` `Apple`
-1. [一些观点：针对 Obsidian 内测新功能「所见即所得」，本地 + 双链 + 第三方同步 + 友善的中文搜索，未来可能要占据笔记软件的半壁江山](https://www.v2ex.com/t/815143) `7条评论` `分享发现`
 
-数据更新于 2021-11-13 08:49:13
+数据更新于 2021-11-13 08:59:43
 
 <!-- TODAY END -->
 
