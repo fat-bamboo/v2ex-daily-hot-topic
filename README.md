@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 是不能把 Wifi 当个人热点分享吧，安卓好像可以（求验证）？](https://www.v2ex.com/t/815295) `41条评论` `iPhone`
-1. [请问目前终端走代理还有比 ProxyChain 更好用的工具吗?](https://www.v2ex.com/t/815289) `36条评论` `程序员`
-1. [我们离像乐高积木那样编程还有多远？](https://www.v2ex.com/t/815228) `31条评论` `程序员`
+1. [iPhone 是不能把 Wifi 当个人热点分享吧，安卓好像可以（求验证）？](https://www.v2ex.com/t/815295) `42条评论` `iPhone`
+1. [请问目前终端走代理还有比 ProxyChain 更好用的工具吗?](https://www.v2ex.com/t/815289) `37条评论` `程序员`
+1. [我们离像乐高积木那样编程还有多远？](https://www.v2ex.com/t/815228) `32条评论` `程序员`
 1. [胡说八道之思考性本善与性本恶](https://www.v2ex.com/t/815248) `29条评论` `随想`
 1. [MacBook Pro M1 Pro 似乎无法通过 iStat Menus 监控设备总功耗？](https://www.v2ex.com/t/815264) `22条评论` `MacBook Pro`
-1. [油管 youtube 屏蔽了 mac 用户浏览器观看 hdr 视频的功能](https://www.v2ex.com/t/815311) `21条评论` `MacBook Pro`
+1. [油管 youtube 屏蔽了 mac 用户浏览器观看 hdr 视频的功能](https://www.v2ex.com/t/815311) `22条评论` `MacBook Pro`
+1. [每月 199 包 300 兆宽带，但是最近电信 199 升 1000 兆，但是要求改 5g 套餐自费买万兆光猫，请问合理吗？](https://www.v2ex.com/t/815231) `21条评论` `宽带症候群`
+1. [喜欢上一个女孩子](https://www.v2ex.com/t/815353) `21条评论` `问与答`
 1. [各位专家，怎样能让 iPhone 和 iPad 在插电的时候永不息屏？](https://www.v2ex.com/t/815227) `19条评论` `Apple`
-1. [每月 199 包 300 兆宽带，但是最近电信 199 升 1000 兆，但是要求改 5g 套餐自费买万兆光猫，请问合理吗？](https://www.v2ex.com/t/815231) `19条评论` `宽带症候群`
-1. [14 寸 Macbook Pro M1 Max 续航确实不太行](https://www.v2ex.com/t/815283) `19条评论` `MacBook Pro`
-1. [喜欢上一个女孩子](https://www.v2ex.com/t/815353) `19条评论` `问与答`
 1. [mini 6 一个月使用体验： iPad 对我来说是真没用](https://www.v2ex.com/t/815317) `19条评论` `Apple`
+1. [14 寸 Macbook Pro M1 Max 续航确实不太行](https://www.v2ex.com/t/815283) `19条评论` `MacBook Pro`
 1. [ICMP 报文包含 引起该 ICMP 报文首次生成的 IP 数据报的首部和前 8 字节？怎么验证](https://www.v2ex.com/t/815287) `15条评论` `程序员`
 1. [ColorOS 和 OriginOS 这俩系统怎么样？想入一块安卓机。。。](https://www.v2ex.com/t/815318) `13条评论` `Android`
 1. [vim 配置出现乱码](https://www.v2ex.com/t/815308) `13条评论` `Vim`
@@ -28,11 +28,11 @@
 1. [局域网内设置开启一个 socks5 代理如何共享给所有局域网设备使用？](https://www.v2ex.com/t/815252) `12条评论` `问与答`
 1. [eval()和 exec()这类语句存在的意义是什么？](https://www.v2ex.com/t/815305) `11条评论` `程序员`
 1. [腾讯轻量云怎么安装其他系统，例如 Fedora？](https://www.v2ex.com/t/815277) `11条评论` `云计算`
+1. [找了半天没找到终生免年费的带 visa 的信用卡，请问一下大佬们](https://www.v2ex.com/t/815340) `10条评论` `问与答`
 1. [退下来的 mac mini 能发挥什么作用？出手还能卖多少钱？](https://www.v2ex.com/t/815345) `9条评论` `Apple`
 1. [请教下大家 iPad 上看电影方案](https://www.v2ex.com/t/815334) `9条评论` `问与答`
-1. [小米平板 5 pro 使用体验](https://www.v2ex.com/t/815304) `9条评论` `小米`
 
-数据更新于 2021-11-14 14:14:28
+数据更新于 2021-11-14 14:29:01
 
 <!-- TODAY END -->
 
