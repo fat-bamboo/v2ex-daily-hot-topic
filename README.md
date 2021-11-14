@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 是不能把 Wifi 当个人热点分享吧，安卓好像可以（求验证）？](https://www.v2ex.com/t/815295) `32条评论` `iPhone`
-1. [请问目前终端走代理还有比 ProxyChain 更好用的工具吗?](https://www.v2ex.com/t/815289) `29条评论` `程序员`
+1. [iPhone 是不能把 Wifi 当个人热点分享吧，安卓好像可以（求验证）？](https://www.v2ex.com/t/815295) `34条评论` `iPhone`
+1. [请问目前终端走代理还有比 ProxyChain 更好用的工具吗?](https://www.v2ex.com/t/815289) `30条评论` `程序员`
 1. [我们离像乐高积木那样编程还有多远？](https://www.v2ex.com/t/815228) `27条评论` `程序员`
 1. [胡说八道之思考性本善与性本恶](https://www.v2ex.com/t/815248) `26条评论` `随想`
 1. [MacBook Pro M1 Pro 似乎无法通过 iStat Menus 监控设备总功耗？](https://www.v2ex.com/t/815264) `21条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [iOS 九宫输入法，经常出现❶❷❸❹❺❻❼❽❾❿，要怎么解决](https://www.v2ex.com/t/815243) `8条评论` `问与答`
 1. [198 的轻量型服务器做论坛可以多少人同时在线呢？](https://www.v2ex.com/t/815291) `7条评论` `问与答`
 
-数据更新于 2021-11-14 11:48:42
+数据更新于 2021-11-14 11:59:05
 
 <!-- TODAY END -->
 
