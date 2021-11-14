@@ -14,10 +14,10 @@
 1. [胡说八道之思考性本善与性本恶](https://www.v2ex.com/t/815248) `29条评论` `随想`
 1. [MacBook Pro M1 Pro 似乎无法通过 iStat Menus 监控设备总功耗？](https://www.v2ex.com/t/815264) `21条评论` `MacBook Pro`
 1. [各位专家，怎样能让 iPhone 和 iPad 在插电的时候永不息屏？](https://www.v2ex.com/t/815227) `19条评论` `Apple`
-1. [每月 199 包 300 兆宽带，但是最近电信 199 升 1000 兆，但是要求改 5g 套餐自费买万兆光猫，请问合理吗？](https://www.v2ex.com/t/815231) `18条评论` `宽带症候群`
-1. [14 寸 Macbook Pro M1 Max 续航确实不太行](https://www.v2ex.com/t/815283) `17条评论` `MacBook Pro`
-1. [mini 6 一个月使用体验： iPad 对我来说是真没用](https://www.v2ex.com/t/815317) `16条评论` `Apple`
-1. [油管 youtube 屏蔽了 mac 用户浏览器观看 hdr 视频的功能](https://www.v2ex.com/t/815311) `16条评论` `MacBook Pro`
+1. [每月 199 包 300 兆宽带，但是最近电信 199 升 1000 兆，但是要求改 5g 套餐自费买万兆光猫，请问合理吗？](https://www.v2ex.com/t/815231) `19条评论` `宽带症候群`
+1. [14 寸 Macbook Pro M1 Max 续航确实不太行](https://www.v2ex.com/t/815283) `19条评论` `MacBook Pro`
+1. [mini 6 一个月使用体验： iPad 对我来说是真没用](https://www.v2ex.com/t/815317) `19条评论` `Apple`
+1. [油管 youtube 屏蔽了 mac 用户浏览器观看 hdr 视频的功能](https://www.v2ex.com/t/815311) `18条评论` `MacBook Pro`
 1. [ICMP 报文包含 引起该 ICMP 报文首次生成的 IP 数据报的首部和前 8 字节？怎么验证](https://www.v2ex.com/t/815287) `15条评论` `程序员`
 1. [vim 配置出现乱码](https://www.v2ex.com/t/815308) `13条评论` `Vim`
 1. [GooglePhotos 和 iCloud 对于照片管理来说哪个更好?](https://www.v2ex.com/t/815239) `13条评论` `问与答`
@@ -30,9 +30,9 @@
 1. [小米平板 5 pro 使用体验](https://www.v2ex.com/t/815304) `9条评论` `小米`
 1. [有 macbook 的谨慎购买 aoc 和飞利浦的显示器， Monterey， typec 反向供电失效。](https://www.v2ex.com/t/815286) `9条评论` `macOS`
 1. [双 11 刚过，大家来分享一下往年买到的好产品，再也没有的好价格。](https://www.v2ex.com/t/815271) `9条评论` `分享发现`
-1. [老男人发问：一线大龄单身程序员的出路？](https://www.v2ex.com/t/815323) `8条评论` `问与答`
+1. [请教下大家 iPad 上看电影方案](https://www.v2ex.com/t/815334) `8条评论` `问与答`
 
-数据更新于 2021-11-14 13:28:44
+数据更新于 2021-11-14 13:40:55
 
 <!-- TODAY END -->
 
