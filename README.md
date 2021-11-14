@@ -10,7 +10,7 @@
 
 1. [我们离像乐高积木那样编程还有多远？](https://www.v2ex.com/t/815228) `26条评论` `程序员`
 1. [胡说八道之思考性本善与性本恶](https://www.v2ex.com/t/815248) `25条评论` `随想`
-1. [iPhone 是不能把 Wifi 当个人热点分享吧，安卓好像可以（求验证）？](https://www.v2ex.com/t/815295) `22条评论` `iPhone`
+1. [iPhone 是不能把 Wifi 当个人热点分享吧，安卓好像可以（求验证）？](https://www.v2ex.com/t/815295) `23条评论` `iPhone`
 1. [MacBook Pro M1 Pro 似乎无法通过 iStat Menus 监控设备总功耗？](https://www.v2ex.com/t/815264) `19条评论` `MacBook Pro`
 1. [各位专家，怎样能让 iPhone 和 iPad 在插电的时候永不息屏？](https://www.v2ex.com/t/815227) `18条评论` `Apple`
 1. [每月 199 包 300 兆宽带，但是最近电信 199 升 1000 兆，但是要求改 5g 套餐自费买万兆光猫，请问合理吗？](https://www.v2ex.com/t/815231) `17条评论` `宽带症候群`
@@ -23,14 +23,15 @@
 1. [14 寸 Macbook Pro M1 Max 续航确实不太行](https://www.v2ex.com/t/815283) `8条评论` `MacBook Pro`
 1. [JavaScript 如何正确显示一个大数字？](https://www.v2ex.com/t/815255) `8条评论` `问与答`
 1. [iOS 九宫输入法，经常出现❶❷❸❹❺❻❼❽❾❿，要怎么解决](https://www.v2ex.com/t/815243) `8条评论` `问与答`
+1. [自己的电脑，给视频超分辨率，效率太低，还有别的思路吗？](https://www.v2ex.com/t/815290) `7条评论` `问与答`
 1. [有 macbook 的谨慎购买 aoc 和飞利浦的显示器， Monterey， typec 反向供电失效。](https://www.v2ex.com/t/815286) `7条评论` `macOS`
-1. [自己的电脑，给视频超分辨率，效率太低，还有别的思路吗？](https://www.v2ex.com/t/815290) `6条评论` `问与答`
+1. [vim 配置出现乱码](https://www.v2ex.com/t/815308) `6条评论` `程序员`
 1. [iPhone Wi-Fi 断连问题](https://www.v2ex.com/t/815281) `6条评论` `iOS`
 1. [双 11 刚过，大家来分享一下往年买到的好产品，再也没有的好价格。](https://www.v2ex.com/t/815271) `6条评论` `分享发现`
 1. [想做一个远程管理主机的小程序，逛了一圈没有案例](https://www.v2ex.com/t/815269) `6条评论` `问与答`
 1. [想给长辈买一个智能机（1800 一下）](https://www.v2ex.com/t/815249) `6条评论` `上海`
 
-数据更新于 2021-11-14 09:39:26
+数据更新于 2021-11-14 09:49:46
 
 <!-- TODAY END -->
 
