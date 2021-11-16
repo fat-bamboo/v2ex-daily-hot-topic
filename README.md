@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [V 友这么多，真的有自己或者认识的朋友中体彩福彩大奖的吗？](https://www.v2ex.com/t/815685) `87条评论` `问与答`
-1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717) `44条评论` `汽车`
-1. [开闭原则（open/closed principle）到底是啥意思？](https://www.v2ex.com/t/815704) `43条评论` `程序员`
+1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717) `45条评论` `汽车`
+1. [开闭原则（open/closed principle）到底是啥意思？](https://www.v2ex.com/t/815704) `44条评论` `程序员`
+1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733) `37条评论` `Apple`
 1. [两地分居](https://www.v2ex.com/t/815677) `36条评论` `随想`
-1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733) `36条评论` `Apple`
 1. [这算不算表明了大数据杀熟](https://www.v2ex.com/t/815701) `22条评论` `分享发现`
 1. [联想笔记本自带正版 WIN10，买了一个新的 SSD 安装 WIN11](https://www.v2ex.com/t/815720) `20条评论` `Windows`
 1. [想要买电脑优惠点.请问一下有啥优惠的渠道么?](https://www.v2ex.com/t/815670) `18条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [关于 iphone11 和 iphone12 的贬值速度](https://www.v2ex.com/t/815693) `10条评论` `问与答`
 1. [KU 不提供包年的套餐了](https://www.v2ex.com/t/815710) `9条评论` `Kindle`
 
-数据更新于 2021-11-16 07:45:55
+数据更新于 2021-11-16 07:56:15
 
 <!-- TODAY END -->
 
