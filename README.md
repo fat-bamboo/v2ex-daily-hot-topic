@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [V 友这么多，真的有自己或者认识的朋友中体彩福彩大奖的吗？](https://www.v2ex.com/t/815685) `74条评论` `问与答`
+1. [V 友这么多，真的有自己或者认识的朋友中体彩福彩大奖的吗？](https://www.v2ex.com/t/815685) `76条评论` `问与答`
 1. [开闭原则（open/closed principle）到底是啥意思？](https://www.v2ex.com/t/815704) `40条评论` `程序员`
-1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733) `27条评论` `Apple`
-1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717) `26条评论` `汽车`
+1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717) `34条评论` `汽车`
+1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733) `34条评论` `Apple`
 1. [这算不算表明了大数据杀熟](https://www.v2ex.com/t/815701) `22条评论` `分享发现`
 1. [联想笔记本自带正版 WIN10，买了一个新的 SSD 安装 WIN11](https://www.v2ex.com/t/815720) `20条评论` `Windows`
 1. [想要买电脑优惠点.请问一下有啥优惠的渠道么?](https://www.v2ex.com/t/815670) `18条评论` `问与答`
@@ -20,19 +20,19 @@
 1. [两地分居](https://www.v2ex.com/t/815677) `15条评论` `随想`
 1. [父母年龄大了，买什么保险合适](https://www.v2ex.com/t/815713) `12条评论` `问与答`
 1. [迫于最近的空气质量，求推荐口罩](https://www.v2ex.com/t/815700) `12条评论` `成都`
+1. [公司提出考核制度 不合格算主动离职](https://www.v2ex.com/t/815766) `11条评论` `职场话题`
 1. [国家电网的 Openstack 项目如今怎么样了？如今商业化的私有云哪家成熟度最高（2021 年 11 月）？](https://www.v2ex.com/t/815709) `11条评论` `云计算`
 1. [2021 武汉家庭宽带有什么好的解决方案吗](https://www.v2ex.com/t/815690) `11条评论` `生活`
+1. [macOS Mojave 被 homebrew 嫌弃了！](https://www.v2ex.com/t/815746) `10条评论` `macOS`
+1. [彦祖们，我写了一套图文并茂的数据结构笔记(C 语言)](https://www.v2ex.com/t/815728) `10条评论` `分享创造`
 1. [求助：.NET Core WebAPI 框架自动生成的 Controller 中的 get 全部对象的方法执行太慢](https://www.v2ex.com/t/815708) `10条评论` `.NET`
 1. [关于 iphone11 和 iphone12 的贬值速度](https://www.v2ex.com/t/815693) `10条评论` `问与答`
-1. [彦祖们，我写了一套图文并茂的数据结构笔记(C 语言)](https://www.v2ex.com/t/815728) `9条评论` `分享创造`
 1. [KU 不提供包年的套餐了](https://www.v2ex.com/t/815710) `9条评论` `Kindle`
-1. [macOS Mojave 被 homebrew 嫌弃了！](https://www.v2ex.com/t/815746) `8条评论` `macOS`
 1. [现在入 24 寸 M1 还是等 27 或者 24M1pro？](https://www.v2ex.com/t/815726) `8条评论` `Apple`
 1. [有不干扰无线键鼠的 typec 扩展坞吗](https://www.v2ex.com/t/815723) `8条评论` `硬件`
 1. [homebrew 可否替代 nvm？](https://www.v2ex.com/t/815722) `7条评论` `前端开发`
-1. [北京六环内，上车价能低到多少？](https://www.v2ex.com/t/815711) `7条评论` `问与答`
 
-数据更新于 2021-11-16 06:26:02
+数据更新于 2021-11-16 06:45:18
 
 <!-- TODAY END -->
 
