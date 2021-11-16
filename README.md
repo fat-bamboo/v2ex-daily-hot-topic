@@ -8,24 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [V 友这么多，真的有自己或者认识的朋友中体彩福彩大奖的吗？](https://www.v2ex.com/t/815685) `41条评论` `问与答`
-1. [开闭原则（open/closed principle）到底是啥意思？](https://www.v2ex.com/t/815704) `31条评论` `程序员`
+1. [V 友这么多，真的有自己或者认识的朋友中体彩福彩大奖的吗？](https://www.v2ex.com/t/815685) `49条评论` `问与答`
+1. [开闭原则（open/closed principle）到底是啥意思？](https://www.v2ex.com/t/815704) `32条评论` `程序员`
 1. [想要买电脑优惠点.请问一下有啥优惠的渠道么?](https://www.v2ex.com/t/815670) `18条评论` `问与答`
+1. [这算不算表明了大数据杀熟](https://www.v2ex.com/t/815701) `17条评论` `分享发现`
 1. [迫于个保法，需要对 api 数据加密。想开发一套加密网关，有什么好的轮子推荐吗？](https://www.v2ex.com/t/815662) `16条评论` `问与答`
-1. [这算不算表明了大数据杀熟](https://www.v2ex.com/t/815701) `15条评论` `分享发现`
 1. [两地分居](https://www.v2ex.com/t/815677) `15条评论` `随想`
 1. [战地 2042：已退款，全面退步。](https://www.v2ex.com/t/815695) `14条评论` `Battlefield 系列`
-1. [2021 武汉家庭宽带有什么好的解决方案吗](https://www.v2ex.com/t/815690) `10条评论` `生活`
-1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733) `9条评论` `Apple`
-1. [联想笔记本自带正版 WIN10，买了一个新的 SSD 安装 WIN11](https://www.v2ex.com/t/815720) `9条评论` `Windows`
-1. [迫于最近的空气质量，求推荐口罩](https://www.v2ex.com/t/815700) `9条评论` `成都`
+1. [2021 武汉家庭宽带有什么好的解决方案吗](https://www.v2ex.com/t/815690) `11条评论` `生活`
+1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733) `10条评论` `Apple`
+1. [联想笔记本自带正版 WIN10，买了一个新的 SSD 安装 WIN11](https://www.v2ex.com/t/815720) `10条评论` `Windows`
+1. [迫于最近的空气质量，求推荐口罩](https://www.v2ex.com/t/815700) `10条评论` `成都`
 1. [关于 iphone11 和 iphone12 的贬值速度](https://www.v2ex.com/t/815693) `9条评论` `问与答`
+1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717) `7条评论` `汽车`
 1. [macos monterey 根/目录无法创建文件 mkdir /data ( Read-only file system)](https://www.v2ex.com/t/815680) `7条评论` `macOS`
 1. [Google Photos 如何能够同步地删除照片](https://www.v2ex.com/t/815669) `7条评论` `问与答`
-1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717) `6条评论` `汽车`
+1. [父母年龄大了，买什么保险合适](https://www.v2ex.com/t/815713) `6条评论` `问与答`
 1. [国家电网的 Openstack 项目如今怎么样了？如今商业化的私有云哪家成熟度最高（2021 年 11 月）？](https://www.v2ex.com/t/815709) `6条评论` `云计算`
 
-数据更新于 2021-11-16 03:46:54
+数据更新于 2021-11-16 03:57:07
 
 <!-- TODAY END -->
 
