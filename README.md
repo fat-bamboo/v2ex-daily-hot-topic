@@ -32,7 +32,7 @@
 1. [那个首次启动隐私弹框， app store 审核做强制要求吗？](https://www.v2ex.com/t/816299) `18条评论` `iOS`
 1. [猜测一下 Apple Silicon Mac 的更新换代规律](https://www.v2ex.com/t/816402) `17条评论` `Apple`
 
-数据更新于 2021-11-18 22:40:35
+数据更新于 2021-11-18 22:55:36
 
 <!-- TODAY END -->
 
