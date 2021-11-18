@@ -8,15 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [某乎首页强推视频，真是越来越烦人了。](https://www.v2ex.com/t/816185) `32条评论` `知乎`
-1. [只连上公司 WiFi，公司能最大获取哪些信息？](https://www.v2ex.com/t/816187) `19条评论` `宽带症候群`
-1. [在 iOS 里， shadowrocket 如何设置某几个 app 走代理，其它的按配制走流量？](https://www.v2ex.com/t/816205) `11条评论` `Apple`
-1. [感觉现在资本鼓吹元宇宙的样子，像极了 16 年鼓吹 V/AR 一样](https://www.v2ex.com/t/816201) `11条评论` `随想`
-1. [M1 Max 64G 12-19 的被推迟了](https://www.v2ex.com/t/816202) `7条评论` `MacBook Pro`
-1. [Google Cloud 新人试用只有 91 天了](https://www.v2ex.com/t/816199) `6条评论` `Google`
-1. [致友人书](https://www.v2ex.com/t/816193) `6条评论` `大连`
+1. [某乎首页强推视频，真是越来越烦人了。](https://www.v2ex.com/t/816185) `43条评论` `知乎`
+1. [只连上公司 WiFi，公司能最大获取哪些信息？](https://www.v2ex.com/t/816187) `21条评论` `宽带症候群`
+1. [感觉现在资本鼓吹元宇宙的样子，像极了 16 年鼓吹 V/AR 一样](https://www.v2ex.com/t/816201) `15条评论` `随想`
+1. [苹果擦镜布是智商税吗？](https://www.v2ex.com/t/816217) `13条评论` `iPhone`
+1. [在 iOS 里， shadowrocket 如何设置某几个 app 走代理，其它的按配制走流量？](https://www.v2ex.com/t/816205) `13条评论` `Apple`
+1. [致友人书](https://www.v2ex.com/t/816193) `11条评论` `大连`
+1. [M1 Max 64G 12-19 的被推迟了](https://www.v2ex.com/t/816202) `10条评论` `MacBook Pro`
+1. [Google Cloud 新人试用只有 91 天了](https://www.v2ex.com/t/816199) `7条评论` `Google`
 
-数据更新于 2021-11-18 02:38:01
+数据更新于 2021-11-18 02:53:14
 
 <!-- TODAY END -->
 
