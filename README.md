@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果擦镜布是智商税吗？](https://www.v2ex.com/t/816217) `77条评论` `iPhone`
-1. [某乎首页强推视频，真是越来越烦人了。](https://www.v2ex.com/t/816185) `63条评论` `知乎`
+1. [苹果擦镜布是智商税吗？](https://www.v2ex.com/t/816217) `79条评论` `iPhone`
+1. [某乎首页强推视频，真是越来越烦人了。](https://www.v2ex.com/t/816185) `65条评论` `知乎`
 1. [双十一买了一台轻量服务器，买完发现似乎没啥用。](https://www.v2ex.com/t/816220) `29条评论` `问与答`
 1. [昨天第一次尝试褪黑素, 效果拔群](https://www.v2ex.com/t/816240) `23条评论` `生活`
 1. [在 iOS 里， shadowrocket 如何设置某几个 app 走代理，其它的按配制走流量？](https://www.v2ex.com/t/816205) `21条评论` `Apple`
@@ -19,20 +19,20 @@
 1. [红米 Note 11 5G 可以装 Google Play 吗](https://www.v2ex.com/t/816235) `16条评论` `程序员`
 1. [大二找实习工作](https://www.v2ex.com/t/816196) `14条评论` `职场话题`
 1. [致友人书](https://www.v2ex.com/t/816193) `14条评论` `大连`
+1. [🐶 各位， adobe 你们是怎么读的？鹅道博、鹅道笔、阿道博、阿道笔？](https://www.v2ex.com/t/816268) `13条评论` `问与答`
+1. [互联网，真的很美好](https://www.v2ex.com/t/816261) `13条评论` `随想`
+1. [提一下 DELL U2720QM 的两个坑，顺便问下有没有更好的选择？](https://www.v2ex.com/t/816252) `13条评论` `硬件`
 1. [M1 Max 64G 12-19 的被推迟了](https://www.v2ex.com/t/816202) `13条评论` `MacBook Pro`
-1. [🐶 各位， adobe 你们是怎么读的？鹅道博、鹅道笔、阿道博、阿道笔？](https://www.v2ex.com/t/816268) `12条评论` `问与答`
-1. [互联网，真的很美好](https://www.v2ex.com/t/816261) `12条评论` `随想`
 1. [统计一下大家的 MBP 发货日期，给大家做个参考，顺便问下最近有没有 16 寸发货的，尤其是 11/27-12/04 这一批](https://www.v2ex.com/t/816228) `12条评论` `MacBook Pro`
+1. [现在 M1 芯片系列的电脑（不含平板），是否还能支持后缀为「.dmg」格式的安装包呢 ？](https://www.v2ex.com/t/816246) `11条评论` `macOS`
 1. [向各位硬件工程师请教一个问题](https://www.v2ex.com/t/816231) `11条评论` `硬件`
 1. [3 亿 mysql 分表数据根据条件分页查询](https://www.v2ex.com/t/816213) `11条评论` `MySQL`
-1. [提一下 DELL U2720QM 的两个坑，顺便问下有没有更好的选择？](https://www.v2ex.com/t/816252) `10条评论` `硬件`
 1. [ZhuGeService?](https://www.v2ex.com/t/816255) `9条评论` `Apple`
-1. [现在 M1 芯片系列的电脑（不含平板），是否还能支持后缀为「.dmg」格式的安装包呢 ？](https://www.v2ex.com/t/816246) `9条评论` `macOS`
 1. [pd 虚拟机跑 win11 分配多大内存比较好](https://www.v2ex.com/t/816207) `9条评论` `MacBook Pro`
 1. [Google Cloud 新人试用只有 91 天了](https://www.v2ex.com/t/816199) `9条评论` `Google`
 1. [求推荐 ios 上好用的经纬度定位+显示海拔的软件](https://www.v2ex.com/t/816260) `8条评论` `Apple`
 
-数据更新于 2021-11-18 05:46:38
+数据更新于 2021-11-18 05:56:57
 
 <!-- TODAY END -->
 
