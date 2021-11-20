@@ -17,8 +17,8 @@
 1. [网络通信设备的设置中，为什么使用“使能”这个词语？用启用和开启不是更容易理解吗？](https://www.v2ex.com/t/816714) `31条评论` `分享发现`
 1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `31条评论` `MySQL`
 1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823) `25条评论` `分享发现`
+1. [澳门 iPhone 13 Pro 加美版 AC+](https://www.v2ex.com/t/816830) `23条评论` `Apple`
 1. [14 寸 M1 Max 机型键盘中心处积热严重](https://www.v2ex.com/t/816734) `22条评论` `Apple`
-1. [澳门 iPhone 13 Pro 加美版 AC+](https://www.v2ex.com/t/816830) `22条评论` `Apple`
 1. [如何让拍出的视频画面变全黑？](https://www.v2ex.com/t/816825) `16条评论` `iOS`
 1. [有没有什么浏览器扩展，可以整合管理 chrome、edge、firefox 浏览器的收藏夹？由于工作原因，目前我用了三种浏览器，每个浏览器都有各自的收藏夹，不能同步管理，很是崩溃。](https://www.v2ex.com/t/816762) `16条评论` `浏览器`
 1. [帮忙看下是不是骗子网站, 短信说我 ETC 有问题](https://www.v2ex.com/t/816719) `16条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [electron 源码保护方案探讨。](https://www.v2ex.com/t/816756) `9条评论` `程序员`
 1. [Apple Watch 解锁 iPhone 失效](https://www.v2ex.com/t/816746) `9条评论` ` WATCH`
 
-数据更新于 2021-11-20 20:56:07
+数据更新于 2021-11-20 21:14:39
 
 <!-- TODAY END -->
 
