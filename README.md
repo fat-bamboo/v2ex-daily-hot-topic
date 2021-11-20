@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [网络交易诚信是很奢侈的要求吧？](https://www.v2ex.com/t/816717) `36条评论` `问与答`
+1. [网络交易诚信是很奢侈的要求吧？](https://www.v2ex.com/t/816717) `37条评论` `问与答`
 1. [不同意《用户协议》，如何与厂商协商修改](https://www.v2ex.com/t/816698) `35条评论` `奇思妙想`
 1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `24条评论` `MySQL`
 1. [网络通信设备的设置中，为什么使用“使能”这个词语？用启用和开启不是更容易理解吗？](https://www.v2ex.com/t/816714) `21条评论` `分享发现`
-1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772) `16条评论` `iPad`
+1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772) `18条评论` `iPad`
+1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `17条评论` `职场话题`
 1. [有没有什么浏览器扩展，可以整合管理 chrome、edge、firefox 浏览器的收藏夹？由于工作原因，目前我用了三种浏览器，每个浏览器都有各自的收藏夹，不能同步管理，很是崩溃。](https://www.v2ex.com/t/816762) `16条评论` `浏览器`
 1. [M1 的兼容性可能没你想的那么好](https://www.v2ex.com/t/816760) `16条评论` `macOS`
 1. [14 寸 M1 Max 机型键盘中心处积热严重](https://www.v2ex.com/t/816734) `16条评论` `Apple`
 1. [帮忙看下是不是骗子网站, 短信说我 ETC 有问题](https://www.v2ex.com/t/816719) `16条评论` `问与答`
-1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `15条评论` `职场话题`
 1. [如何想象多维矩阵？](https://www.v2ex.com/t/816763) `15条评论` `机器学习`
 1. [electron 源码保护方案探讨。](https://www.v2ex.com/t/816756) `9条评论` `程序员`
 1. [Apple Watch 解锁 iPhone 失效](https://www.v2ex.com/t/816746) `9条评论` ` WATCH`
@@ -32,7 +32,7 @@
 1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808) `7条评论` `macOS`
 1. [iOS JS 零宽断言的正则问题](https://www.v2ex.com/t/816742) `7条评论` `JavaScript`
 
-数据更新于 2021-11-20 11:38:29
+数据更新于 2021-11-20 11:48:42
 
 <!-- TODAY END -->
 
