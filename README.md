@@ -10,29 +10,29 @@
 
 1. [网络交易诚信是很奢侈的要求吧？](https://www.v2ex.com/t/816717) `42条评论` `问与答`
 1. [不同意《用户协议》，如何与厂商协商修改](https://www.v2ex.com/t/816698) `36条评论` `奇思妙想`
-1. [网络通信设备的设置中，为什么使用“使能”这个词语？用启用和开启不是更容易理解吗？](https://www.v2ex.com/t/816714) `24条评论` `分享发现`
-1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `24条评论` `MySQL`
-1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `24条评论` `职场话题`
+1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `26条评论` `MySQL`
+1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `26条评论` `职场话题`
+1. [网络通信设备的设置中，为什么使用“使能”这个词语？用启用和开启不是更容易理解吗？](https://www.v2ex.com/t/816714) `25条评论` `分享发现`
 1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772) `18条评论` `iPad`
 1. [有没有什么浏览器扩展，可以整合管理 chrome、edge、firefox 浏览器的收藏夹？由于工作原因，目前我用了三种浏览器，每个浏览器都有各自的收藏夹，不能同步管理，很是崩溃。](https://www.v2ex.com/t/816762) `16条评论` `浏览器`
 1. [M1 的兼容性可能没你想的那么好](https://www.v2ex.com/t/816760) `16条评论` `macOS`
 1. [14 寸 M1 Max 机型键盘中心处积热严重](https://www.v2ex.com/t/816734) `16条评论` `Apple`
 1. [帮忙看下是不是骗子网站, 短信说我 ETC 有问题](https://www.v2ex.com/t/816719) `16条评论` `问与答`
 1. [如何想象多维矩阵？](https://www.v2ex.com/t/816763) `15条评论` `机器学习`
-1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808) `10条评论` `macOS`
+1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808) `13条评论` `macOS`
 1. [electron 源码保护方案探讨。](https://www.v2ex.com/t/816756) `9条评论` `程序员`
 1. [Apple Watch 解锁 iPhone 失效](https://www.v2ex.com/t/816746) `9条评论` ` WATCH`
 1. [1Password 三年五折/免费试用半年活动](https://www.v2ex.com/t/816730) `9条评论` `优惠信息`
 1. [什么情况下需要 try catch ? 数据库增删改需要吗](https://www.v2ex.com/t/816710) `9条评论` `程序员`
 1. [XDM,要优化一套站内信，请问有什么可执行落地的方案。](https://www.v2ex.com/t/816703) `9条评论` `程序员`
+1. [PC 端 telegram 如何屏蔽广告](https://www.v2ex.com/t/816809) `8条评论` `Telegram`
 1. [Windows 的容器是原生的内核 namespace 还是 hyperv 提供的？](https://www.v2ex.com/t/816724) `8条评论` `Windows`
 1. [win11 的 alt+tab 有 mac-like 的方案吗](https://www.v2ex.com/t/816712) `8条评论` `Windows`
 1. [lazygit 在 windows 上的使用体验太差劲 -_-||](https://www.v2ex.com/t/816696) `8条评论` `程序员`
 1. [请问有什么办法快速的关闭其中 1 个外接显示器输出么（MPB 合盖使用，外接 2 个显示器）？](https://www.v2ex.com/t/816689) `8条评论` `Apple`
 1. [论中国企业网络安全现状，就举今天的例子吧！](https://www.v2ex.com/t/816727) `8条评论` `信息安全`
-1. [iOS JS 零宽断言的正则问题](https://www.v2ex.com/t/816742) `7条评论` `JavaScript`
 
-数据更新于 2021-11-20 12:34:48
+数据更新于 2021-11-20 13:01:17
 
 <!-- TODAY END -->
 
