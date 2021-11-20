@@ -10,9 +10,9 @@
 
 1. [网络交易诚信是很奢侈的要求吧？](https://www.v2ex.com/t/816717) `44条评论` `问与答`
 1. [不同意《用户协议》，如何与厂商协商修改](https://www.v2ex.com/t/816698) `37条评论` `奇思妙想`
-1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `29条评论` `职场话题`
+1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `32条评论` `职场话题`
+1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `27条评论` `MySQL`
 1. [网络通信设备的设置中，为什么使用“使能”这个词语？用启用和开启不是更容易理解吗？](https://www.v2ex.com/t/816714) `26条评论` `分享发现`
-1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `26条评论` `MySQL`
 1. [M1 的兼容性可能没你想的那么好](https://www.v2ex.com/t/816760) `26条评论` `macOS`
 1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772) `18条评论` `iPad`
 1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808) `17条评论` `macOS`
@@ -21,7 +21,7 @@
 1. [帮忙看下是不是骗子网站, 短信说我 ETC 有问题](https://www.v2ex.com/t/816719) `16条评论` `问与答`
 1. [如何想象多维矩阵？](https://www.v2ex.com/t/816763) `15条评论` `机器学习`
 1. [使用 Vultr 的切记做好数据备份](https://www.v2ex.com/t/816815) `12条评论` `全球工单系统`
-1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823) `9条评论` `分享发现`
+1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823) `11条评论` `分享发现`
 1. [PC 端 telegram 如何屏蔽广告](https://www.v2ex.com/t/816809) `9条评论` `Telegram`
 1. [electron 源码保护方案探讨。](https://www.v2ex.com/t/816756) `9条评论` `程序员`
 1. [Apple Watch 解锁 iPhone 失效](https://www.v2ex.com/t/816746) `9条评论` ` WATCH`
@@ -32,7 +32,7 @@
 1. [win11 的 alt+tab 有 mac-like 的方案吗](https://www.v2ex.com/t/816712) `8条评论` `Windows`
 1. [lazygit 在 windows 上的使用体验太差劲 -_-||](https://www.v2ex.com/t/816696) `8条评论` `程序员`
 
-数据更新于 2021-11-20 13:40:42
+数据更新于 2021-11-20 13:55:34
 
 <!-- TODAY END -->
 
