@@ -9,14 +9,14 @@
 <!-- TODAY BEGIN -->
 
 1. [网络交易诚信是很奢侈的要求吧？](https://www.v2ex.com/t/816717) `52条评论` `问与答`
-1. [不同意《用户协议》，如何与厂商协商修改](https://www.v2ex.com/t/816698) `47条评论` `奇思妙想`
-1. [M1 的兼容性可能没你想的那么好](https://www.v2ex.com/t/816760) `40条评论` `macOS`
+1. [不同意《用户协议》，如何与厂商协商修改](https://www.v2ex.com/t/816698) `48条评论` `奇思妙想`
+1. [M1 的兼容性可能没你想的那么好](https://www.v2ex.com/t/816760) `41条评论` `macOS`
 1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808) `39条评论` `macOS`
 1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810) `38条评论` `职场话题`
 1. [网络通信设备的设置中，为什么使用“使能”这个词语？用启用和开启不是更容易理解吗？](https://www.v2ex.com/t/816714) `32条评论` `分享发现`
 1. [mysql 减库存并发问题](https://www.v2ex.com/t/816733) `32条评论` `MySQL`
 1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772) `32条评论` `iPad`
-1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823) `29条评论` `分享发现`
+1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823) `30条评论` `分享发现`
 1. [14 寸 M1 Max 机型键盘中心处积热严重](https://www.v2ex.com/t/816734) `23条评论` `Apple`
 1. [澳门 iPhone 13 Pro 加美版 AC+](https://www.v2ex.com/t/816830) `23条评论` `Apple`
 1. [如何让拍出的视频画面变全黑？](https://www.v2ex.com/t/816825) `16条评论` `iOS`
@@ -32,7 +32,7 @@
 1. [electron 源码保护方案探讨。](https://www.v2ex.com/t/816756) `9条评论` `程序员`
 1. [Apple Watch 解锁 iPhone 失效](https://www.v2ex.com/t/816746) `9条评论` ` WATCH`
 
-数据更新于 2021-11-20 23:31:57
+数据更新于 2021-11-20 23:45:40
 
 <!-- TODAY END -->
 
