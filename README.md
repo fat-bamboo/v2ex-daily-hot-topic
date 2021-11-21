@@ -14,8 +14,8 @@
 1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891) `20条评论` `音乐`
 1. [官网 trade in 被刀](https://www.v2ex.com/t/816890) `20条评论` `iPhone`
 1. [M1 MBA 的屏幕看电影比 M1 pro MBP 有什么区别？](https://www.v2ex.com/t/816913) `17条评论` `MacBook Pro`
-1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887) `15条评论` `iPhone`
-1. [手机应用的后端与网页的后端开发有什么区别？](https://www.v2ex.com/t/816922) `12条评论` `程序员`
+1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887) `16条评论` `iPhone`
+1. [手机应用的后端与网页的后端开发有什么区别？](https://www.v2ex.com/t/816922) `13条评论` `程序员`
 1. [约喜欢的妹子出来被拒，还要继续约？](https://www.v2ex.com/t/816883) `11条评论` `问与答`
 1. [再次碰到 iPhone 里的照片在电脑上打不开的情况了，由衷的感慨一下 iMazing HEIC Converter 这个软件真好用，还是免费的。](https://www.v2ex.com/t/816906) `10条评论` `iPhone`
 1. [适合 13pro 的立式无线充](https://www.v2ex.com/t/816921) `9条评论` `iPhone`
@@ -25,7 +25,7 @@
 1. [淘宝今天新出的幺蛾子，来问问怎么破](https://www.v2ex.com/t/816923) `6条评论` `问与答`
 1. [磁光盘（光磁気ディスク， Magneto-optical drive）体验](https://www.v2ex.com/t/816897) `6条评论` `硬件`
 
-数据更新于 2021-11-21 06:45:09
+数据更新于 2021-11-21 06:55:43
 
 <!-- TODAY END -->
 
