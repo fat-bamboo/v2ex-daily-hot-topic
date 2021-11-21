@@ -12,7 +12,7 @@
 1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893) `21条评论` `iPhone`
 1. [官网 trade in 被刀](https://www.v2ex.com/t/816890) `19条评论` `iPhone`
 1. [M1 MBA 的屏幕看电影比 M1 pro MBP 有什么区别？](https://www.v2ex.com/t/816913) `17条评论` `MacBook Pro`
-1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `16条评论` `问与答`
+1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `17条评论` `问与答`
 1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887) `15条评论` `iPhone`
 1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891) `14条评论` `音乐`
 1. [约喜欢的妹子出来被拒，还要继续约？](https://www.v2ex.com/t/816883) `11条评论` `问与答`
@@ -21,7 +21,7 @@
 1. [适合 13pro 的立式无线充](https://www.v2ex.com/t/816921) `6条评论` `iPhone`
 1. [磁光盘（光磁気ディスク， Magneto-optical drive）体验](https://www.v2ex.com/t/816897) `6条评论` `硬件`
 
-数据更新于 2021-11-21 05:35:49
+数据更新于 2021-11-21 05:46:10
 
 <!-- TODAY END -->
 
