@@ -8,14 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [真正有知识的人从来不看新闻](https://www.v2ex.com/t/816886) `13条评论` `分享发现`
-1. [官网 trade in 被刀](https://www.v2ex.com/t/816890) `11条评论` `iPhone`
+1. [真正有知识的人从来不看新闻](https://www.v2ex.com/t/816886) `23条评论` `分享发现`
+1. [官网 trade in 被刀](https://www.v2ex.com/t/816890) `15条评论` `iPhone`
 1. [约喜欢的妹子出来被拒，还要继续约？](https://www.v2ex.com/t/816883) `11条评论` `问与答`
-1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893) `7条评论` `iPhone`
-1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `6条评论` `问与答`
+1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893) `8条评论` `iPhone`
+1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `7条评论` `问与答`
+1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887) `7条评论` `iPhone`
 1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891) `6条评论` `音乐`
 
-数据更新于 2021-11-21 02:03:59
+数据更新于 2021-11-21 02:38:56
 
 <!-- TODAY END -->
 
