@@ -14,8 +14,8 @@
 1. [心脏跳得厉害，一下午没睡着](https://www.v2ex.com/t/816944) `51条评论` `健康`
 1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891) `44条评论` `音乐`
 1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893) `43条评论` `iPhone`
+1. [这次苹果官网购买 MacBook Pro，快递外包装这么简单，不怕运输过程中被摔坏么](https://www.v2ex.com/t/816933) `42条评论` `MacBook Pro`
 1. [程序员与蚕丝被制作艺术](https://www.v2ex.com/t/816946) `42条评论` `分享创造`
-1. [这次苹果官网购买 MacBook Pro，快递外包装这么简单，不怕运输过程中被摔坏么](https://www.v2ex.com/t/816933) `41条评论` `MacBook Pro`
 1. [离谱， o 不念“喔”，改成念“欧”了，最离谱的是，单念的时候念“欧”，和其他字母拼的时候还念“喔”。](https://www.v2ex.com/t/816955) `39条评论` `分享发现`
 1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `32条评论` `问与答`
 1. [官网 trade in 被刀](https://www.v2ex.com/t/816890) `23条评论` `iPhone`
@@ -27,12 +27,12 @@
 1. [适合 13pro 的立式无线充](https://www.v2ex.com/t/816921) `14条评论` `iPhone`
 1. [所以爱到底是什么啊](https://www.v2ex.com/t/816970) `13条评论` `随想`
 1. [再次碰到 iPhone 里的照片在电脑上打不开的情况了，由衷的感慨一下 iMazing HEIC Converter 这个软件真好用，还是免费的。](https://www.v2ex.com/t/816906) `12条评论` `iPhone`
+1. [大家有没有觉得 [换被套] 特别麻烦，有啥好方案吗](https://www.v2ex.com/t/816993) `11条评论` `问与答`
 1. [毕业五年成功月薪 3000](https://www.v2ex.com/t/816983) `11条评论` `职场话题`
 1. [现在还值得买 NUC11 吗](https://www.v2ex.com/t/816959) `11条评论` `问与答`
 1. [五分钟自建 ZeroTier 的 Planet（使用 ztncui 作为 controller)](https://www.v2ex.com/t/816957) `11条评论` `分享创造`
-1. [[北京][全职][学历不限][10~15K]初级 C/C++研发工程师](https://www.v2ex.com/t/816909) `11条评论` `酷工作`
 
-数据更新于 2021-11-21 18:37:59
+数据更新于 2021-11-21 18:50:46
 
 <!-- TODAY END -->
 
