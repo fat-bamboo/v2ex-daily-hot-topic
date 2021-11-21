@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [真正有知识的人从来不看新闻](https://www.v2ex.com/t/816886) `51条评论` `分享发现`
+1. [真正有知识的人从来不看新闻](https://www.v2ex.com/t/816886) `55条评论` `分享发现`
+1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893) `19条评论` `iPhone`
 1. [官网 trade in 被刀](https://www.v2ex.com/t/816890) `19条评论` `iPhone`
-1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893) `17条评论` `iPhone`
+1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `14条评论` `问与答`
+1. [M1 MBA 的屏幕看电影比 M1 pro MBP 有什么区别？](https://www.v2ex.com/t/816913) `13条评论` `MacBook Pro`
 1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891) `12条评论` `音乐`
+1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887) `12条评论` `iPhone`
 1. [约喜欢的妹子出来被拒，还要继续约？](https://www.v2ex.com/t/816883) `11条评论` `问与答`
-1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892) `10条评论` `问与答`
-1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887) `10条评论` `iPhone`
-1. [M1 MBA 的屏幕看电影比 M1 pro MBP 有什么区别？](https://www.v2ex.com/t/816913) `8条评论` `MacBook Pro`
-1. [面试一家海外背景大公司，但有些太爽快了反而心里有些别扭。](https://www.v2ex.com/t/816894) `7条评论` `问与答`
+1. [面试一家海外背景大公司，但有些太爽快了反而心里有些别扭。](https://www.v2ex.com/t/816894) `8条评论` `问与答`
 1. [磁光盘（光磁気ディスク， Magneto-optical drive）体验](https://www.v2ex.com/t/816897) `6条评论` `硬件`
 
-数据更新于 2021-11-21 04:25:45
+数据更新于 2021-11-21 04:49:54
 
 <!-- TODAY END -->
 
