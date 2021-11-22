@@ -18,7 +18,7 @@
 1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035) `65条评论` `MacBook Pro`
 1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104) `65条评论` `MacBook Pro`
 1. [浙江 985 本 秋招 offer 决赛圈，求推荐，感谢～](https://www.v2ex.com/t/817038) `47条评论` `职场话题`
-1. [心态炸了，是不是该退 14 寸 mbp 了](https://www.v2ex.com/t/817240) `37条评论` `MacBook Pro`
+1. [心态炸了，是不是该退 14 寸 mbp 了](https://www.v2ex.com/t/817240) `38条评论` `MacBook Pro`
 1. [相互宝现在还值得吗](https://www.v2ex.com/t/817209) `28条评论` `问与答`
 1. [iOS 自带的输入法，双拼小鹤方案，模糊拼音无效怎么办](https://www.v2ex.com/t/817060) `26条评论` `Apple`
 1. [大家觉得什么牌子洗发水比较好用](https://www.v2ex.com/t/817185) `24条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [被招商的打电话过来忽悠买了保险，老哥们看合适吗](https://www.v2ex.com/t/817158) `16条评论` `问与答`
 1. [淘宝上 3 皇冠的 machome 苹果家园不会跑路了吧？有人收到回复了吗？](https://www.v2ex.com/t/817065) `16条评论` `MacBook Pro`
 
-数据更新于 2021-11-22 22:45:45
+数据更新于 2021-11-22 22:56:16
 
 <!-- TODAY END -->
 
