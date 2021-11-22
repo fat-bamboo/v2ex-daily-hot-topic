@@ -14,7 +14,7 @@
 1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041) `105条评论` `成都`
 1. [notion 和 wolai 选哪个？](https://www.v2ex.com/t/817134) `85条评论` `程序员`
 1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `71条评论` `职场话题`
-1. [SO 只用了 9 台 Web 服务器](https://www.v2ex.com/t/817121) `69条评论` `程序员`
+1. [SO 只用了 9 台 Web 服务器](https://www.v2ex.com/t/817121) `70条评论` `程序员`
 1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035) `65条评论` `MacBook Pro`
 1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104) `65条评论` `MacBook Pro`
 1. [浙江 985 本 秋招 offer 决赛圈，求推荐，感谢～](https://www.v2ex.com/t/817038) `47条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [被招商的打电话过来忽悠买了保险，老哥们看合适吗](https://www.v2ex.com/t/817158) `16条评论` `问与答`
 1. [淘宝上 3 皇冠的 machome 苹果家园不会跑路了吧？有人收到回复了吗？](https://www.v2ex.com/t/817065) `16条评论` `MacBook Pro`
 
-数据更新于 2021-11-22 22:56:16
+数据更新于 2021-11-22 23:18:14
 
 <!-- TODAY END -->
 
