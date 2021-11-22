@@ -8,23 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022) `182条评论` `程序员`
-1. [纯电车该怎么选？](https://www.v2ex.com/t/817033) `93条评论` `汽车`
-1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021) `92条评论` `Apple`
-1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041) `81条评论` `成都`
-1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `50条评论` `职场话题`
+1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022) `183条评论` `程序员`
+1. [纯电车该怎么选？](https://www.v2ex.com/t/817033) `94条评论` `汽车`
+1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021) `93条评论` `Apple`
+1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041) `84条评论` `成都`
+1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `54条评论` `职场话题`
 1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104) `43条评论` `MacBook Pro`
+1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035) `39条评论` `MacBook Pro`
 1. [SO 只用了 9 台 Web 服务器](https://www.v2ex.com/t/817121) `35条评论` `程序员`
-1. [notion 和 wolai 选哪个？](https://www.v2ex.com/t/817134) `28条评论` `程序员`
+1. [notion 和 wolai 选哪个？](https://www.v2ex.com/t/817134) `30条评论` `程序员`
 1. [iOS 自带的输入法，双拼小鹤方案，模糊拼音无效怎么办](https://www.v2ex.com/t/817060) `26条评论` `Apple`
 1. [冬天 m1 pro 冻手有什么解决办法](https://www.v2ex.com/t/817119) `20条评论` `Apple`
 1. [校招 offer， Intel VS 腾讯](https://www.v2ex.com/t/817110) `20条评论` `职场话题`
-1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035) `19条评论` `MacBook Pro`
 1. [就在刚刚，新买的 macbook14 进水了](https://www.v2ex.com/t/817118) `18条评论` `MacBook Pro`
+1. [大无语事件，被运营商套路了 2 年，白白开了 2 年每个月 29 块钱的 5G 流量升级包...](https://www.v2ex.com/t/817153) `16条评论` `宽带症候群`
 1. [淘宝上 3 皇冠的 machome 苹果家园不会跑路了吧？有人收到回复了吗？](https://www.v2ex.com/t/817065) `16条评论` `MacBook Pro`
 1. [如何对子域名下的网页注入脚本](https://www.v2ex.com/t/817047) `16条评论` `JavaScript`
 1. [浙江 985 本 秋招 offer 决赛圈，求推荐，感谢～](https://www.v2ex.com/t/817038) `16条评论` `职场话题`
-1. [大无语事件，被运营商套路了 2 年，白白开了 2 年每个月 29 块钱的 5G 流量升级包...](https://www.v2ex.com/t/817153) `15条评论` `宽带症候群`
 1. [周一麦当劳 App+云闪付， 6 块巨无霸汉堡到手](https://www.v2ex.com/t/817095) `15条评论` `优惠信息`
 1. [Google Store 黑五优惠开始了](https://www.v2ex.com/t/817081) `14条评论` `优惠信息`
 1. [大量 if-else 的函数重构](https://www.v2ex.com/t/817071) `14条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [11.5 下单，原定 12.1-12.7 送达，今天显示准备发货了。供参考。](https://www.v2ex.com/t/817050) `12条评论` `MacBook Pro`
 1. [求推荐一款加湿快的加湿器](https://www.v2ex.com/t/817122) `11条评论` `生活`
 
-数据更新于 2021-11-22 08:42:58
+数据更新于 2021-11-22 08:55:39
 
 <!-- TODAY END -->
 
