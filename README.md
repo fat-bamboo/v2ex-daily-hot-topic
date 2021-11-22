@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022) `122条评论` `程序员`
-1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021) `78条评论` `Apple`
-1. [纯电车该怎么选？](https://www.v2ex.com/t/817033) `63条评论` `汽车`
-1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041) `36条评论` `成都`
+1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022) `135条评论` `程序员`
+1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021) `80条评论` `Apple`
+1. [纯电车该怎么选？](https://www.v2ex.com/t/817033) `68条评论` `汽车`
+1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041) `53条评论` `成都`
+1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `28条评论` `职场话题`
 1. [iOS 自带的输入法，双拼小鹤方案，模糊拼音无效怎么办](https://www.v2ex.com/t/817060) `26条评论` `Apple`
 1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035) `19条评论` `MacBook Pro`
 1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104) `18条评论` `MacBook Pro`
-1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `18条评论` `职场话题`
 1. [淘宝上 3 皇冠的 machome 苹果家园不会跑路了吧？有人收到回复了吗？](https://www.v2ex.com/t/817065) `16条评论` `MacBook Pro`
 1. [如何对子域名下的网页注入脚本](https://www.v2ex.com/t/817047) `16条评论` `JavaScript`
 1. [浙江 985 本 秋招 offer 决赛圈，求推荐，感谢～](https://www.v2ex.com/t/817038) `16条评论` `职场话题`
+1. [Google Store 黑五优惠开始了](https://www.v2ex.com/t/817081) `14条评论` `优惠信息`
 1. [大量 if-else 的函数重构](https://www.v2ex.com/t/817071) `14条评论` `问与答`
 1. [在保 iPhone12 基带坏了](https://www.v2ex.com/t/817028) `14条评论` `问与答`
+1. [周一麦当劳 App+云闪付， 6 块巨无霸汉堡到手](https://www.v2ex.com/t/817095) `13条评论` `优惠信息`
 1. [11.5 下单，原定 12.1-12.7 送达，今天显示准备发货了。供参考。](https://www.v2ex.com/t/817050) `12条评论` `MacBook Pro`
-1. [周一麦当劳 App+云闪付， 6 块巨无霸汉堡到手](https://www.v2ex.com/t/817095) `11条评论` `优惠信息`
+1. [就在刚刚，新买的 macbook14 进水了](https://www.v2ex.com/t/817118) `11条评论` `MacBook Pro`
 1. [来请教下大佬们，关于家庭网络改个线！](https://www.v2ex.com/t/817064) `11条评论` `程序员`
 1. [64G 内存的 Max 这么难产么，我这是不是要延期了](https://www.v2ex.com/t/817030) `11条评论` `Apple`
+1. [校招 offer， Intel VS 腾讯](https://www.v2ex.com/t/817110) `10条评论` `职场话题`
 1. [在日本玩英雄联盟祖安区登不上去，有人知道为什么吗?](https://www.v2ex.com/t/817029) `10条评论` `问与答`
 1. [关于 socket 的一些问题](https://www.v2ex.com/t/817019) `10条评论` `程序员`
-1. [校招 offer， Intel VS 腾讯](https://www.v2ex.com/t/817110) `9条评论` `职场话题`
-1. [Google Store 黑五优惠开始了](https://www.v2ex.com/t/817081) `9条评论` `优惠信息`
-1. [简单调查下，你希望跟什么类型的同事协作搬砖](https://www.v2ex.com/t/817066) `8条评论` `职场话题`
-1. [大家读技术书籍的时候做笔记吗？如何做？](https://www.v2ex.com/t/817049) `8条评论` `问与答`
+1. [冬天 m1 pro 冻手有什么解决办法](https://www.v2ex.com/t/817119) `9条评论` `Apple`
 
-数据更新于 2021-11-22 05:57:13
+数据更新于 2021-11-22 06:25:00
 
 <!-- TODAY END -->
 
