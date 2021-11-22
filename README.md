@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022) `102条评论` `程序员`
-1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021) `73条评论` `Apple`
-1. [纯电车该怎么选？](https://www.v2ex.com/t/817033) `59条评论` `汽车`
+1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022) `109条评论` `程序员`
+1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021) `74条评论` `Apple`
+1. [纯电车该怎么选？](https://www.v2ex.com/t/817033) `61条评论` `汽车`
 1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041) `36条评论` `成都`
 1. [iOS 自带的输入法，双拼小鹤方案，模糊拼音无效怎么办](https://www.v2ex.com/t/817060) `26条评论` `Apple`
 1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035) `19条评论` `MacBook Pro`
+1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104) `17条评论` `MacBook Pro`
+1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `17条评论` `职场话题`
 1. [淘宝上 3 皇冠的 machome 苹果家园不会跑路了吧？有人收到回复了吗？](https://www.v2ex.com/t/817065) `16条评论` `MacBook Pro`
 1. [如何对子域名下的网页注入脚本](https://www.v2ex.com/t/817047) `16条评论` `JavaScript`
 1. [浙江 985 本 秋招 offer 决赛圈，求推荐，感谢～](https://www.v2ex.com/t/817038) `16条评论` `职场话题`
-1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104) `14条评论` `MacBook Pro`
-1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092) `14条评论` `职场话题`
 1. [在保 iPhone12 基带坏了](https://www.v2ex.com/t/817028) `14条评论` `问与答`
 1. [大量 if-else 的函数重构](https://www.v2ex.com/t/817071) `13条评论` `问与答`
 1. [11.5 下单，原定 12.1-12.7 送达，今天显示准备发货了。供参考。](https://www.v2ex.com/t/817050) `12条评论` `MacBook Pro`
@@ -27,12 +27,12 @@
 1. [周一麦当劳 App+云闪付， 6 块巨无霸汉堡到手](https://www.v2ex.com/t/817095) `10条评论` `优惠信息`
 1. [在日本玩英雄联盟祖安区登不上去，有人知道为什么吗?](https://www.v2ex.com/t/817029) `10条评论` `问与答`
 1. [关于 socket 的一些问题](https://www.v2ex.com/t/817019) `10条评论` `程序员`
-1. [Google Store 黑五优惠开始了](https://www.v2ex.com/t/817081) `8条评论` `优惠信息`
+1. [Google Store 黑五优惠开始了](https://www.v2ex.com/t/817081) `9条评论` `优惠信息`
 1. [简单调查下，你希望跟什么类型的同事协作搬砖](https://www.v2ex.com/t/817066) `8条评论` `职场话题`
 1. [大家读技术书籍的时候做笔记吗？如何做？](https://www.v2ex.com/t/817049) `8条评论` `问与答`
 1. [Clickhouse 索引的使用问题请教](https://www.v2ex.com/t/817048) `8条评论` `问与答`
 
-数据更新于 2021-11-22 05:36:25
+数据更新于 2021-11-22 05:46:53
 
 <!-- TODAY END -->
 
