@@ -17,7 +17,7 @@
 1. [LTT 和笔吧的 M1 MAX 评测出来了，温度意外的很高](https://www.v2ex.com/t/817295) `64条评论` `Apple`
 1. [平心而论，大家觉得北京这个城市怎么样？](https://www.v2ex.com/t/817359) `63条评论` `北京`
 1. [Plex Pass 黑五优惠 25% 仅需 $89.99 USD](https://www.v2ex.com/t/817282) `51条评论` `优惠信息`
-1. [mac（m1）有哪些好用的个人免费的 ssh 客户端工具](https://www.v2ex.com/t/817348) `48条评论` `macOS`
+1. [mac（m1）有哪些好用的个人免费的 ssh 客户端工具](https://www.v2ex.com/t/817348) `49条评论` `macOS`
 1. [敲命令时参数总忘记加括号怎么破？](https://www.v2ex.com/t/817313) `39条评论` `Linux`
 1. [为什么要培养新人？教会徒弟、饿死师傅](https://www.v2ex.com/t/817476) `29条评论` `问与答`
 1. [iPhone 的 iCloud 使用似乎完全失效了…](https://www.v2ex.com/t/817519) `28条评论` `iCloud`
@@ -32,7 +32,7 @@
 1. [关于 iCloud 钥匙串](https://www.v2ex.com/t/817432) `15条评论` `iCloud`
 1. [新 mac 配什么显示器好？](https://www.v2ex.com/t/817475) `14条评论` `硬件`
 
-数据更新于 2021-11-23 19:46:53
+数据更新于 2021-11-23 19:57:16
 
 <!-- TODAY END -->
 
