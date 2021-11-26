@@ -16,7 +16,7 @@
 1. [Mac 2021 款的最大问题不是丑么](https://www.v2ex.com/t/818198) `75条评论` `Apple`
 1. [Windows 系统间歇性卡顿，声音鬼畜。](https://www.v2ex.com/t/818084) `65条评论` `Windows`
 1. [从程序员到经营温泉度假酒店（五）- 我和我的前女友们 之 黑暗中的挣扎](https://www.v2ex.com/t/818130) `63条评论` `程序员`
-1. [属性名不让用 is 开头，应该用什么？](https://www.v2ex.com/t/818150) `57条评论` `Java`
+1. [属性名不让用 is 开头，应该用什么？](https://www.v2ex.com/t/818150) `58条评论` `Java`
 1. [go 语言提高 web 生产力](https://www.v2ex.com/t/818157) `54条评论` `Go 编程语言`
 1. [Windows11 开机一段时间后变得超级卡顿](https://www.v2ex.com/t/818089) `45条评论` `Windows`
 1. [请求推荐 apple 上好用的浏览器](https://www.v2ex.com/t/818234) `36条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [今早在楼下散步，看到一个小姐姐在唱跳 Rock N Roll，聊了很久这首老歌。](https://www.v2ex.com/t/818086) `19条评论` `音乐`
 1. [Typora 1.0 发布正式收费， 15 刀 3 设备](https://www.v2ex.com/t/818236) `17条评论` `Markdown`
 
-数据更新于 2021-11-26 19:47:15
+数据更新于 2021-11-26 19:57:35
 
 <!-- TODAY END -->
 
