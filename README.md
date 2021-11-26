@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于技术，造谣和 vup](https://www.v2ex.com/t/818099) `168条评论` `Virtual YouTubers`
+1. [关于技术，造谣和 vup](https://www.v2ex.com/t/818099) `169条评论` `Virtual YouTubers`
 1. [周 5 了，大家周六周日有啥打算？有啥兴趣爱好](https://www.v2ex.com/t/818055) `144条评论` `问与答`
 1. [从程序员到经营温泉度假酒店（四）- 我和我的前女友们 之 从光明到黑暗(good girl gone bad)](https://www.v2ex.com/t/818070) `97条评论` `程序员`
-1. [谷歌翻译是完全没法用了](https://www.v2ex.com/t/818213) `83条评论` `Google`
-1. [薅羊毛买的腾讯云阿里云轻量级服务器真的性能很差吗？实测腾讯云轻量级 VS 搬瓦工的处理器跑分性能](https://www.v2ex.com/t/818105) `77条评论` `云计算`
-1. [Mac 2021 款的最大问题不是丑么](https://www.v2ex.com/t/818198) `68条评论` `Apple`
+1. [谷歌翻译是完全没法用了](https://www.v2ex.com/t/818213) `85条评论` `Google`
+1. [薅羊毛买的腾讯云阿里云轻量级服务器真的性能很差吗？实测腾讯云轻量级 VS 搬瓦工的处理器跑分性能](https://www.v2ex.com/t/818105) `78条评论` `云计算`
+1. [Mac 2021 款的最大问题不是丑么](https://www.v2ex.com/t/818198) `70条评论` `Apple`
 1. [Windows 系统间歇性卡顿，声音鬼畜。](https://www.v2ex.com/t/818084) `65条评论` `Windows`
 1. [从程序员到经营温泉度假酒店（五）- 我和我的前女友们 之 黑暗中的挣扎](https://www.v2ex.com/t/818130) `63条评论` `程序员`
 1. [属性名不让用 is 开头，应该用什么？](https://www.v2ex.com/t/818150) `56条评论` `Java`
 1. [go 语言提高 web 生产力](https://www.v2ex.com/t/818157) `53条评论` `Go 编程语言`
 1. [Windows11 开机一段时间后变得超级卡顿](https://www.v2ex.com/t/818089) `45条评论` `Windows`
-1. [请求推荐 apple 上好用的浏览器](https://www.v2ex.com/t/818234) `35条评论` `Apple`
+1. [请求推荐 apple 上好用的浏览器](https://www.v2ex.com/t/818234) `36条评论` `Apple`
 1. [程序员的周末不应该只想着 3P](https://www.v2ex.com/t/818260) `31条评论` `程序员`
 1. [typora 进入 1.0 时代，开启收费](https://www.v2ex.com/t/818221) `30条评论` `分享发现`
 1. [请问大家在各个设备上都用什么浏览器？](https://www.v2ex.com/t/818240) `28条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [今早在楼下散步，看到一个小姐姐在唱跳 Rock N Roll，聊了很久这首老歌。](https://www.v2ex.com/t/818086) `19条评论` `音乐`
 1. [Typora 1.0 发布正式收费， 15 刀 3 设备](https://www.v2ex.com/t/818236) `17条评论` `Markdown`
 
-数据更新于 2021-11-26 16:23:58
+数据更新于 2021-11-26 17:00:01
 
 <!-- TODAY END -->
 
