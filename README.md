@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `46条评论` `Apple`
-1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `44条评论` `macOS`
+1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `48条评论` `Apple`
+1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `45条评论` `macOS`
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336) `34条评论` `支付宝`
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `26条评论` `MacBook Pro`
 1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321) `26条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [退了 14 寸，买了 13 M1 MBP](https://www.v2ex.com/t/818313) `9条评论` `macOS`
 1. [记一次上海华山医院的就诊经历，希望对爆痘的同学有所帮助](https://www.v2ex.com/t/818398) `7条评论` `上海`
 
-数据更新于 2021-11-27 11:27:54
+数据更新于 2021-11-27 11:38:27
 
 <!-- TODAY END -->
 
