@@ -8,9 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `10条评论` `iCloud`
+1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `11条评论` `iCloud`
+1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `10条评论` `macOS`
+1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `7条评论` `MacBook Pro`
 
-数据更新于 2021-11-27 01:57:40
+数据更新于 2021-11-27 02:35:13
 
 <!-- TODAY END -->
 
