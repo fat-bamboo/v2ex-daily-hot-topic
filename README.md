@@ -11,7 +11,7 @@
 1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `56条评论` `Apple`
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `49条评论` `macOS`
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336) `43条评论` `支付宝`
-1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `28条评论` `MacBook Pro`
+1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `30条评论` `MacBook Pro`
 1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321) `26条评论` `程序员`
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325) `25条评论` `MacBook Pro`
 1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365) `25条评论` `随想`
@@ -32,7 +32,7 @@
 1. [[求助] 安装 vim 插件的问题](https://www.v2ex.com/t/818316) `11条评论` `Linux`
 1. [有没有办法让 RDP 在局域网内性能跑到最佳](https://www.v2ex.com/t/818378) `10条评论` `Windows`
 
-数据更新于 2021-11-27 13:40:58
+数据更新于 2021-11-27 13:55:51
 
 <!-- TODAY END -->
 
