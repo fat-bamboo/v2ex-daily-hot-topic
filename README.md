@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `18条评论` `MacBook Pro`
+1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `19条评论` `MacBook Pro`
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `13条评论` `macOS`
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
-1. [NUC 有什么玩法](https://www.v2ex.com/t/818299) `8条评论` `Intel`
+1. [NUC 有什么玩法](https://www.v2ex.com/t/818299) `9条评论` `Intel`
 
-数据更新于 2021-11-27 03:15:58
+数据更新于 2021-11-27 03:33:24
 
 <!-- TODAY END -->
 
