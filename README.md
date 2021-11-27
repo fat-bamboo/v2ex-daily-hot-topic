@@ -12,8 +12,9 @@
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `13条评论` `macOS`
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
 1. [NUC 有什么玩法](https://www.v2ex.com/t/818299) `9条评论` `Intel`
+1. [转推送 Paw 授权码](https://www.v2ex.com/t/818308) `7条评论` `优惠信息`
 
-数据更新于 2021-11-27 03:33:24
+数据更新于 2021-11-27 03:46:43
 
 <!-- TODAY END -->
 
