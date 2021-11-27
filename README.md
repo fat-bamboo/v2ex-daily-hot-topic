@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `63条评论` `Apple`
-1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `59条评论` `macOS`
+1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `64条评论` `Apple`
+1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `60条评论` `macOS`
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336) `51条评论` `支付宝`
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `32条评论` `MacBook Pro`
 1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365) `27条评论` `随想`
@@ -32,7 +32,7 @@
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
 1. [求解一個 Wireguard 效能問題](https://www.v2ex.com/t/818399) `11条评论` `宽带症候群`
 
-数据更新于 2021-11-27 17:42:22
+数据更新于 2021-11-27 17:55:54
 
 <!-- TODAY END -->
 
