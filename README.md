@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `63条评论` `Apple`
-1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `58条评论` `macOS`
+1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `59条评论` `macOS`
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336) `51条评论` `支付宝`
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `32条评论` `MacBook Pro`
 1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365) `27条评论` `随想`
@@ -24,15 +24,15 @@
 1. [广东联通现在还有什么低于 10 元的保号套餐吗？](https://www.v2ex.com/t/818332) `13条评论` `问与答`
 1. [NUC 有什么玩法](https://www.v2ex.com/t/818299) `13条评论` `Intel`
 1. [新买的 sony 电视无法看 Netflix](https://www.v2ex.com/t/818437) `12条评论` `问与答`
+1. [为什么从来没见过有人推荐 G502 作为 mac 的鼠标?](https://www.v2ex.com/t/818418) `12条评论` `Apple`
 1. [APPLE TV 的 Fitness+连接 Watch 问题](https://www.v2ex.com/t/818367) `12条评论` ` WATCH`
 1. [阿里云盘这吃相也太难看了吧](https://www.v2ex.com/t/818357) `12条评论` `问与答`
 1. [有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340) `12条评论` `问与答`
 1. [转推送 Paw 授权码](https://www.v2ex.com/t/818308) `12条评论` `优惠信息`
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
 1. [求解一個 Wireguard 效能問題](https://www.v2ex.com/t/818399) `11条评论` `宽带症候群`
-1. [特别讨厌在用户根目录乱扔垃圾的软件](https://www.v2ex.com/t/818364) `11条评论` `全球工单系统`
 
-数据更新于 2021-11-27 16:58:48
+数据更新于 2021-11-27 17:25:44
 
 <!-- TODAY END -->
 
