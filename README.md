@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `26条评论` `macOS`
+1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `31条评论` `macOS`
+1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `24条评论` `Apple`
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `24条评论` `MacBook Pro`
-1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `22条评论` `Apple`
 1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321) `17条评论` `程序员`
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336) `16条评论` `支付宝`
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325) `15条评论` `MacBook Pro`
@@ -20,14 +20,15 @@
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
 1. [想换个蓝牙鼠标，罗技 G604 还是 Master3 呢？](https://www.v2ex.com/t/818333) `11条评论` `问与答`
 1. [[求助] 安装 vim 插件的问题](https://www.v2ex.com/t/818316) `10条评论` `Linux`
+1. [有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340) `9条评论` `问与答`
+1. [广东联通现在还有什么低于 10 元的保号套餐吗？](https://www.v2ex.com/t/818332) `9条评论` `问与答`
 1. [MacBook Pro 2021 到了，说一下使用感受](https://www.v2ex.com/t/818329) `9条评论` `Apple`
 1. [退了 14 寸，买了 13 M1 MBP](https://www.v2ex.com/t/818313) `9条评论` `macOS`
-1. [广东联通现在还有什么低于 10 元的保号套餐吗？](https://www.v2ex.com/t/818332) `8条评论` `问与答`
-1. [有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340) `7条评论` `程序员`
 1. [杭州有没有什么比较好的书店](https://www.v2ex.com/t/818305) `7条评论` `杭州`
+1. [请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337) `6条评论` `问与答`
 1. [奇葩的 ipv6 问题，家宽能精准识别和放行协议了？](https://www.v2ex.com/t/818309) `6条评论` `宽带症候群`
 
-数据更新于 2021-11-27 06:55:45
+数据更新于 2021-11-27 07:15:38
 
 <!-- TODAY END -->
 
