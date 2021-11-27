@@ -14,25 +14,25 @@
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `24条评论` `MacBook Pro`
 1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321) `19条评论` `程序员`
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325) `17条评论` `MacBook Pro`
-1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365) `15条评论` `随想`
+1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365) `16条评论` `随想`
 1. [关于 iOS 的轻点背面，感觉很难触发](https://www.v2ex.com/t/818327) `14条评论` `iOS`
+1. [请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337) `13条评论` `问与答`
 1. [广东联通现在还有什么低于 10 元的保号套餐吗？](https://www.v2ex.com/t/818332) `13条评论` `问与答`
 1. [NUC 有什么玩法](https://www.v2ex.com/t/818299) `13条评论` `Intel`
 1. [转推送 Paw 授权码](https://www.v2ex.com/t/818308) `12条评论` `优惠信息`
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
-1. [请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337) `11条评论` `问与答`
+1. [有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340) `11条评论` `问与答`
 1. [想换个蓝牙鼠标，罗技 G604 还是 Master3 呢？](https://www.v2ex.com/t/818333) `11条评论` `问与答`
 1. [[求助] 安装 vim 插件的问题](https://www.v2ex.com/t/818316) `11条评论` `Linux`
-1. [有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340) `10条评论` `问与答`
+1. [想搞个低功耗的 x86 作为 All In One 主机](https://www.v2ex.com/t/818363) `9条评论` `硬件`
 1. [MacBook Pro 2021 到了，说一下使用感受](https://www.v2ex.com/t/818329) `9条评论` `Apple`
 1. [退了 14 寸，买了 13 M1 MBP](https://www.v2ex.com/t/818313) `9条评论` `macOS`
-1. [想搞个低功耗的 x86 作为 All In One 主机](https://www.v2ex.com/t/818363) `8条评论` `硬件`
 1. [杭州有没有什么比较好的书店](https://www.v2ex.com/t/818305) `7条评论` `杭州`
 1. [APPLE TV 的 Fitness+连接 Watch 问题](https://www.v2ex.com/t/818367) `6条评论` ` WATCH`
 1. [阿里云盘这吃相也太难看了吧](https://www.v2ex.com/t/818357) `6条评论` `问与答`
 1. [请帮忙推荐一个合适的 vps ，无论小众与否，最好支持 paypal 支付。](https://www.v2ex.com/t/818335) `6条评论` `问与答`
 
-数据更新于 2021-11-27 08:49:36
+数据更新于 2021-11-27 08:59:49
 
 <!-- TODAY END -->
 
