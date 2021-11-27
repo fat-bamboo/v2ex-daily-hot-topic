@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303) `42条评论` `macOS`
-1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `41条评论` `Apple`
+1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326) `42条评论` `Apple`
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336) `32条评论` `支付宝`
 1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365) `25条评论` `随想`
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301) `24条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [退了 14 寸，买了 13 M1 MBP](https://www.v2ex.com/t/818313) `9条评论` `macOS`
 1. [有哪些还不错的壁纸可以分享呢](https://www.v2ex.com/t/818355) `7条评论` `MacBook Pro`
 
-数据更新于 2021-11-27 10:25:15
+数据更新于 2021-11-27 10:40:18
 
 <!-- TODAY END -->
 
