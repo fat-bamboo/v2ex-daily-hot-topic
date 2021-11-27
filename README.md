@@ -17,7 +17,7 @@
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325) `26条评论` `MacBook Pro`
 1. [关于 iOS 的轻点背面，感觉很难触发](https://www.v2ex.com/t/818327) `24条评论` `iOS`
 1. [想搞个低功耗的 x86 作为 All In One 主机](https://www.v2ex.com/t/818363) `21条评论` `硬件`
-1. [给大家看一个我上了当的 Steam 诈骗网站](https://www.v2ex.com/t/818457) `17条评论` `程序员`
+1. [给大家看一个我上了当的 Steam 诈骗网站](https://www.v2ex.com/t/818457) `18条评论` `程序员`
 1. [请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337) `16条评论` `问与答`
 1. [记一次上海华山医院的就诊经历，希望对爆痘的同学有所帮助](https://www.v2ex.com/t/818398) `15条评论` `上海`
 1. [64GB 16" MBP M1 Max 鸽了，但苹果的的操作还不止这个](https://www.v2ex.com/t/818428) `14条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [转推送 Paw 授权码](https://www.v2ex.com/t/818308) `12条评论` `优惠信息`
 1. [iCloud 同步是不是坏了？](https://www.v2ex.com/t/818295) `12条评论` `iCloud`
 
-数据更新于 2021-11-27 18:51:16
+数据更新于 2021-11-27 19:12:02
 
 <!-- TODAY END -->
 
