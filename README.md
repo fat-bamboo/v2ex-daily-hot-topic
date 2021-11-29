@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从 Mac 切换到 Windows 工作 2 周了，还是觉得浑身不自在](https://www.v2ex.com/t/818671) `68条评论` `程序员`
+1. [从 Mac 切换到 Windows 工作 2 周了，还是觉得浑身不自在](https://www.v2ex.com/t/818671) `69条评论` `程序员`
 1. [说一说，你的工位上现在上面有些啥，我先来](https://www.v2ex.com/t/818620) `56条评论` `问与答`
 1. [毕业快十年，我依旧初心不改，一如刚刚参加工作那般](https://www.v2ex.com/t/818629) `36条评论` `生活`
 1. [Apple Music 是否不适合听 ACG 歌曲较多的？](https://www.v2ex.com/t/818636) `20条评论` `Apple`
 1. [大家觉得明年找工作会更难吗？](https://www.v2ex.com/t/818663) `19条评论` `职场话题`
+1. [公积金能覆盖房贷的情况下，要不要提前还贷](https://www.v2ex.com/t/818693) `16条评论` `生活`
 1. [新款 Macbook Pro 看到网上有磁吸的屏幕膜，问下大家有没有买过的，体验怎么样？](https://www.v2ex.com/t/818622) `16条评论` `MacBook Pro`
 1. [为什么腾讯和阿里的开源库使用 less 而非 sass 作为 css 预编译语言?](https://www.v2ex.com/t/818646) `15条评论` `CSS`
 1. [国外远程工作 如何收工资](https://www.v2ex.com/t/818621) `15条评论` `远程工作`
-1. [公积金能覆盖房贷的情况下，要不要提前还贷](https://www.v2ex.com/t/818693) `14条评论` `生活`
 1. [各位有给 2021 款 macbook pro 买 Apple Care+ 吗？](https://www.v2ex.com/t/818679) `14条评论` `MacBook Pro`
 1. [买了个 J4125 的电脑棒，装 Windows，放家里远程控制管理网络设备，跑个迅雷下载，但是发现无法跑满 1000M，跑到 500M 的时候， CPU 就 100%了](https://www.v2ex.com/t/818639) `14条评论` `宽带症候群`
 1. [[腾讯云双 11 返场][即将结束]2 核 4G8M 三年仅 139 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价]良心云 1 核 2G5M 一年 33[活动即将结束]](https://www.v2ex.com/t/818626) `14条评论` `优惠信息`
 1. [良心云不再良心了吗](https://www.v2ex.com/t/818670) `13条评论` `云计算`
 1. [个聊天室的项目在 github 上排名挺靠前的这里还发过，我瞄了一眼，今天想看看找不到了](https://www.v2ex.com/t/818667) `13条评论` `问与答`
+1. [有需要保活或后台 Activity SDK 的童鞋么？](https://www.v2ex.com/t/818707) `12条评论` `Android`
+1. [iphone12 掉地上外屏碎了，保内 无 ac+ 去天才吧换外屏价格多少？](https://www.v2ex.com/t/818700) `11条评论` `iPhone`
 1. [电子合同你们用哪个？](https://www.v2ex.com/t/818645) `11条评论` `问与答`
-1. [有需要保活或后台 Activity SDK 的童鞋么？](https://www.v2ex.com/t/818707) `10条评论` `Android`
+1. [家人们有没有 m1 pro 能够成功使用 Logi Options 的?](https://www.v2ex.com/t/818704) `10条评论` `macOS`
 1. [百度输入法 iOS 同步配置和词库问题](https://www.v2ex.com/t/818647) `10条评论` `全球工单系统`
 1. [如果时间是个伪概念，一个鞭炮的爆炸是否就诞生了一个宇宙？](https://www.v2ex.com/t/818623) `10条评论` `随想`
-1. [家人们有没有 m1 pro 能够成功使用 Logi Options 的?](https://www.v2ex.com/t/818704) `9条评论` `macOS`
-1. [iphone12 掉地上外屏碎了，保内 无 ac+ 去天才吧换外屏价格多少？](https://www.v2ex.com/t/818700) `9条评论` `iPhone`
 1. [母猫第一次发情怎么办？](https://www.v2ex.com/t/818685) `9条评论` `宠物`
 1. [MacBook Pro (Retina 显示屏 13 英寸, 2015 年初) 屏幕黑屏](https://www.v2ex.com/t/818682) `9条评论` `MacBook Pro`
 1. [最近身边好多人咳嗽，我也中招了](https://www.v2ex.com/t/818668) `9条评论` `分享发现`
 
-数据更新于 2021-11-29 05:40:15
+数据更新于 2021-11-29 05:50:43
 
 <!-- TODAY END -->
 
