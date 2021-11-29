@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从 Mac 切换到 Windows 工作 2 周了，还是觉得浑身不自在](https://www.v2ex.com/t/818671) `114条评论` `程序员`
+1. [从 Mac 切换到 Windows 工作 2 周了，还是觉得浑身不自在](https://www.v2ex.com/t/818671) `115条评论` `程序员`
 1. [新能源车求推荐](https://www.v2ex.com/t/818730) `62条评论` `汽车`
 1. [说一说，你的工位上现在上面有些啥，我先来](https://www.v2ex.com/t/818620) `56条评论` `问与答`
+1. [大家觉得明年找工作会更难吗？](https://www.v2ex.com/t/818663) `53条评论` `职场话题`
 1. [毕业快十年，我依旧初心不改，一如刚刚参加工作那般](https://www.v2ex.com/t/818629) `52条评论` `生活`
-1. [大家觉得明年找工作会更难吗？](https://www.v2ex.com/t/818663) `52条评论` `职场话题`
 1. [国外远程工作 如何收工资](https://www.v2ex.com/t/818621) `48条评论` `远程工作`
-1. [[ 福利 ] 第 5 年，红酒 2022 发车，婚宴限定款葡萄酒。。。新上：烟台蜜薯](https://www.v2ex.com/t/818723) `43条评论` `推广`
+1. [[ 福利 ] 第 5 年，红酒 2022 发车，婚宴限定款葡萄酒。。。新上：烟台蜜薯](https://www.v2ex.com/t/818723) `46条评论` `推广`
 1. [Apple Music 是否不适合听 ACG 歌曲较多的？](https://www.v2ex.com/t/818636) `36条评论` `Apple`
+1. [JetBrains 对标 Visual Studio Code 的产品来了 - Fleet](https://www.v2ex.com/t/818791) `28条评论` `JetBrains`
 1. [2022 年渐渐逼近了，看了下年初立下的目标，剩下的时间不多了。你们呢？](https://www.v2ex.com/t/818779) `27条评论` `2021`
-1. [JetBrains 对标 Visual Studio Code 的产品来了 - Fleet](https://www.v2ex.com/t/818791) `25条评论` `JetBrains`
 1. [咸鱼出现大量苹果员工 85 折买新 MBP。还有 75 折的。这些安全么？](https://www.v2ex.com/t/818724) `21条评论` `Apple`
 1. [M1 MAX 32GB 24 核版本内存问题](https://www.v2ex.com/t/818808) `19条评论` `macOS`
 1. [喷射大脑推出 VS CODE 竞品了（fleet）](https://www.v2ex.com/t/818789) `19条评论` `JetBrains`
@@ -32,7 +32,7 @@
 1. [MODEL Y 和 MODEL 3 纠结中，求推荐。](https://www.v2ex.com/t/818798) `14条评论` `问与答`
 1. [iPhone 13 mini 无线充电相关问题请教](https://www.v2ex.com/t/818755) `14条评论` `Apple`
 
-数据更新于 2021-11-29 11:14:10
+数据更新于 2021-11-29 11:28:35
 
 <!-- TODAY END -->
 
