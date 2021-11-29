@@ -8,20 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从 Mac 切换到 Windows 工作 2 周了，还是觉得浑身不自在](https://www.v2ex.com/t/818671) `108条评论` `程序员`
+1. [从 Mac 切换到 Windows 工作 2 周了，还是觉得浑身不自在](https://www.v2ex.com/t/818671) `110条评论` `程序员`
 1. [说一说，你的工位上现在上面有些啥，我先来](https://www.v2ex.com/t/818620) `56条评论` `问与答`
-1. [新能源车求推荐](https://www.v2ex.com/t/818730) `52条评论` `汽车`
+1. [新能源车求推荐](https://www.v2ex.com/t/818730) `54条评论` `汽车`
 1. [毕业快十年，我依旧初心不改，一如刚刚参加工作那般](https://www.v2ex.com/t/818629) `51条评论` `生活`
-1. [大家觉得明年找工作会更难吗？](https://www.v2ex.com/t/818663) `48条评论` `职场话题`
-1. [国外远程工作 如何收工资](https://www.v2ex.com/t/818621) `38条评论` `远程工作`
+1. [大家觉得明年找工作会更难吗？](https://www.v2ex.com/t/818663) `50条评论` `职场话题`
+1. [国外远程工作 如何收工资](https://www.v2ex.com/t/818621) `44条评论` `远程工作`
 1. [Apple Music 是否不适合听 ACG 歌曲较多的？](https://www.v2ex.com/t/818636) `36条评论` `Apple`
 1. [2022 年渐渐逼近了，看了下年初立下的目标，剩下的时间不多了。你们呢？](https://www.v2ex.com/t/818779) `22条评论` `2021`
 1. [咸鱼出现大量苹果员工 85 折买新 MBP。还有 75 折的。这些安全么？](https://www.v2ex.com/t/818724) `21条评论` `Apple`
-1. [JetBrains 对标 Visual Studio Code 的产品来了 - Fleet](https://www.v2ex.com/t/818791) `18条评论` `JetBrains`
+1. [JetBrains 对标 Visual Studio Code 的产品来了 - Fleet](https://www.v2ex.com/t/818791) `19条评论` `JetBrains`
 1. [有需要保活或后台 Activity SDK 的童鞋么？](https://www.v2ex.com/t/818707) `18条评论` `Android`
+1. [桌面电脑选择 Mini M1 还是一个二手的 8 核垃圾桶](https://www.v2ex.com/t/818787) `17条评论` `Apple`
 1. [iMac M1 可以拿上高铁吗？](https://www.v2ex.com/t/818744) `17条评论` `Apple`
 1. [公积金能覆盖房贷的情况下，要不要提前还贷](https://www.v2ex.com/t/818693) `17条评论` `生活`
-1. [桌面电脑选择 Mini M1 还是一个二手的 8 核垃圾桶](https://www.v2ex.com/t/818787) `16条评论` `Apple`
 1. [V 友们，拒绝使用国内音乐软件，除了 applemusic 还有其他选择么](https://www.v2ex.com/t/818729) `16条评论` `问与答`
 1. [新款 Macbook Pro 看到网上有磁吸的屏幕膜，问下大家有没有买过的，体验怎么样？](https://www.v2ex.com/t/818622) `16条评论` `MacBook Pro`
 1. [为什么腾讯和阿里的开源库使用 less 而非 sass 作为 css 预编译语言?](https://www.v2ex.com/t/818646) `15条评论` `CSS`
@@ -32,7 +32,7 @@
 1. [[腾讯云双 11 返场][即将结束]2 核 4G8M 三年仅 139 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价]良心云 1 核 2G5M 一年 33[活动即将结束]](https://www.v2ex.com/t/818626) `14条评论` `优惠信息`
 1. [M1 MAX 32GB 24 核版本内存问题](https://www.v2ex.com/t/818808) `13条评论` `macOS`
 
-数据更新于 2021-11-29 09:46:32
+数据更新于 2021-11-29 09:56:49
 
 <!-- TODAY END -->
 
