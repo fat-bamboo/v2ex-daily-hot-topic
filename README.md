@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [知乎上一个对 “华为天才少年稚晖自制「机械臂」，可以给葡萄缝针，这一作品的技术水平如何？”的回答，分享下各位可以看看，感觉说的有道理，建议看完全文，挺精彩的🤣🤣🤣](https://www.v2ex.com/t/818919) `46条评论` `程序员`
+1. [Macbook,你们用什么快捷键切换中文输入法的](https://www.v2ex.com/t/818939) `54条评论` `macOS`
+1. [知乎上一个对 “华为天才少年稚晖自制「机械臂」，可以给葡萄缝针，这一作品的技术水平如何？”的回答，分享下各位可以看看，感觉说的有道理，建议看完全文，挺精彩的🤣🤣🤣](https://www.v2ex.com/t/818919) `48条评论` `程序员`
 1. [求大佬推荐 M1 鼠标](https://www.v2ex.com/t/818904) `42条评论` `MacBook Pro`
-1. [Macbook,你们用什么快捷键切换中文输入法的](https://www.v2ex.com/t/818939) `40条评论` `macOS`
+1. [是 Nginx 已经落后时代了，还是那些人在吹水？](https://www.v2ex.com/t/818960) `24条评论` `问与答`
+1. [程序 FFmpeg 准确切割视频问题，请大神指教？](https://www.v2ex.com/t/818943) `22条评论` `FFmpeg`
 1. [如何提升 HomeKit 门锁的开锁体验？](https://www.v2ex.com/t/818910) `22条评论` `Apple`
+1. [正规怡宝桶装水在哪里订购的？](https://www.v2ex.com/t/818962) `21条评论` `问与答`
 1. [关于 golang 碰到的一个问题！](https://www.v2ex.com/t/818927) `21条评论` `问与答`
-1. [程序 FFmpeg 准确切割视频问题，请大神指教？](https://www.v2ex.com/t/818943) `18条评论` `FFmpeg`
 1. [使用 Docker 部署 MySQL 对性能有没有损耗呢？](https://www.v2ex.com/t/818918) `18条评论` `Docker`
-1. [是 Nginx 已经落后时代了，还是那些人在吹水？](https://www.v2ex.com/t/818960) `17条评论` `问与答`
-1. [正规怡宝桶装水在哪里订购的？](https://www.v2ex.com/t/818962) `16条评论` `问与答`
-1. [¥15w 以下汽车求推荐](https://www.v2ex.com/t/818940) `16条评论` `汽车`
+1. [¥15w 以下汽车求推荐](https://www.v2ex.com/t/818940) `17条评论` `汽车`
 1. [腾讯云双 11 返场[最后一天]二核 4G8M 三年仅 134 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价]良心云 1 核 2G5M 一年 29[活动即将结束]](https://www.v2ex.com/t/818912) `16条评论` `优惠信息`
 1. [11 月最后一天，你们的本月挑战完成了吗?](https://www.v2ex.com/t/818917) `15条评论` ` WATCH`
 1. [求助！车友们有遇到过汽车转向灯闪地很急促的情况吗？](https://www.v2ex.com/t/818913) `13条评论` `问与答`
-1. [威联通大家存储用的什么模式？](https://www.v2ex.com/t/818957) `11条评论` `NAS`
+1. [威联通大家存储用的什么模式？](https://www.v2ex.com/t/818957) `12条评论` `NAS`
 1. [软路由使用 Clash Tun 模式下，如何代理 telegram](https://www.v2ex.com/t/818923) `11条评论` `宽带症候群`
+1. [如何将 GoogleCloudStorage 数据下载到本地或 GoogleCloud](https://www.v2ex.com/t/818966) `10条评论` `问与答`
+1. [16 寸 Macbook Pro 每天看一遍有没有发货](https://www.v2ex.com/t/818958) `10条评论` `MacBook Pro`
 1. [大四实习，想申请一张 visa 信用卡，有什么能申请的，求指教~](https://www.v2ex.com/t/818926) `10条评论` `问与答`
-1. [如何将 GoogleCloudStorage 数据下载到本地或 GoogleCloud](https://www.v2ex.com/t/818966) `9条评论` `问与答`
 1. [公司可以上互联网的机器，如何对外提供 IP 地址，作为中转服务器？](https://www.v2ex.com/t/818936) `9条评论` `程序员`
 1. [改不掉坏习惯？可以电电自己！](https://www.v2ex.com/t/818933) `9条评论` `分享发现`
-1. [16 寸 Macbook Pro 每天看一遍有没有发货](https://www.v2ex.com/t/818958) `8条评论` `MacBook Pro`
+1. [你们给你们的 mbp 贴膜戴套了吗？](https://www.v2ex.com/t/818979) `8条评论` `MacBook Pro`
+1. [[团购电子书] The Art of PostgreSQL 十五人豪华团](https://www.v2ex.com/t/818953) `8条评论` `数据库`
 1. [Spring Security 中如何添加多个过滤器以适配验证多表用户？](https://www.v2ex.com/t/818942) `8条评论` `Java`
-1. [这个意思是阿里云盘会对所有上传文件做图像识别？](https://www.v2ex.com/t/818908) `8条评论` `问与答`
-1. [[团购电子书] The Art of PostgreSQL 十五人豪华团](https://www.v2ex.com/t/818953) `7条评论` `数据库`
 
-数据更新于 2021-11-30 03:59:13
+数据更新于 2021-11-30 04:25:27
 
 <!-- TODAY END -->
 
