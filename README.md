@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [LCD 党何去何从](https://www.v2ex.com/t/819189) `64条评论` `Apple`
-1. [老哥们，我老大在循环里写 Thread.sleep，到处都这么写，有问题吗](https://www.v2ex.com/t/819192) `49条评论` `Java`
+1. [LCD 党何去何从](https://www.v2ex.com/t/819189) `65条评论` `Apple`
+1. [老哥们，我老大在循环里写 Thread.sleep，到处都这么写，有问题吗](https://www.v2ex.com/t/819192) `50条评论` `Java`
+1. [十二月的第一天了，报上你们的本月挑战吧，能完成吗？](https://www.v2ex.com/t/819220) `47条评论` ` WATCH`
 1. [求推荐一个家用的微型服务器](https://www.v2ex.com/t/819222) `45条评论` `NAS`
-1. [十二月的第一天了，报上你们的本月挑战吧，能完成吗？](https://www.v2ex.com/t/819220) `42条评论` ` WATCH`
 1. [如何看待币安创始人身价达 900 亿美元https://www.zhihu.com/question/502758941](https://www.v2ex.com/t/819224) `30条评论` `知乎`
 1. [大家 11 月份都买了什么东西？有很满意和特别不满的吗？](https://www.v2ex.com/t/819223) `26条评论` `问与答`
 1. [今天在路边看到一辆秦 plus dmi](https://www.v2ex.com/t/819218) `24条评论` `汽车`
+1. [关于摸鱼工具开个脑洞](https://www.v2ex.com/t/819249) `18条评论` `奇思妙想`
 1. [有没有领导发微信给我，让机器人夺命连环 call 我的方法](https://www.v2ex.com/t/819219) `17条评论` `问与答`
-1. [关于摸鱼工具开个脑洞](https://www.v2ex.com/t/819249) `16条评论` `奇思妙想`
 1. [头文件向下兼容，如何优雅实现？](https://www.v2ex.com/t/819230) `15条评论` `C`
+1. [家用 PC 上运行了一个自己写的监控类程序，人在外面如何得知程序是否正常运行？](https://www.v2ex.com/t/819258) `14条评论` `Windows`
 1. [有换过 AirPods 电池的朋友推个靠谱的店吗？一代耳机撑不住了](https://www.v2ex.com/t/819238) `14条评论` `Apple`
+1. [没想到有一天我也会每天结束工作时在 MacBook 上注销账户后再离开](https://www.v2ex.com/t/819239) `13条评论` `Apple`
 1. [小母猫发情了。。。。](https://www.v2ex.com/t/819235) `13条评论` `宠物`
-1. [家用 PC 上运行了一个自己写的监控类程序，人在外面如何得知程序是否正常运行？](https://www.v2ex.com/t/819258) `12条评论` `Windows`
 1. [工信部提到开源,Gitee 的兄弟有福了，这一波能上市吗](https://www.v2ex.com/t/819212) `12条评论` `互联网`
 1. [img 的“图片另存为”在 js 中有没有对应的事件？](https://www.v2ex.com/t/819195) `12条评论` `程序员`
+1. [如何安全的在 macOS 中安装 360 极速浏览器？](https://www.v2ex.com/t/819269) `11条评论` `macOS`
 1. [冬天到了，寒风刺脸， v 友们都用什么乳液涂脸护肤？](https://www.v2ex.com/t/819255) `11条评论` `问与答`
-1. [没想到有一天我也会每天结束工作时在 MacBook 上注销账户后再离开](https://www.v2ex.com/t/819239) `11条评论` `Apple`
 1. [求推荐 win 上面好用的 Python 环境/package 管理工具，可以方便的切换 py27 和 py38 那种](https://www.v2ex.com/t/819233) `11条评论` `问与答`
 1. [你所熟知的海南，不止有三亚](https://www.v2ex.com/t/819201) `11条评论` `旅行`
 1. [有什么好的办法批量下载歌曲到 apple watch 本地?](https://www.v2ex.com/t/819197) `11条评论` ` WATCH`
 1. [骁龙 8 gen1 发布](https://www.v2ex.com/t/819184) `11条评论` `Android`
-1. [如何安全的在 macOS 中安装 360 极速浏览器？](https://www.v2ex.com/t/819269) `10条评论` `macOS`
 1. [chrome 惊现重大隐私泄露 bug！你想知道你对象上了哪些网站最多吗？](https://www.v2ex.com/t/819191) `9条评论` `分享发现`
 
-数据更新于 2021-12-01 05:45:37
+数据更新于 2021-12-01 05:55:54
 
 <!-- TODAY END -->
 
