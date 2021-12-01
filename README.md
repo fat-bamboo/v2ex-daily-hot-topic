@@ -8,16 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
-1. [老哥们，我老大在循环里写 Thread.sleep，到处都这么写，有问题吗](https://www.v2ex.com/t/819192) `35条评论` `Java`
-1. [LCD 党何去何从](https://www.v2ex.com/t/819189) `23条评论` `Apple`
+1. [老哥们，我老大在循环里写 Thread.sleep，到处都这么写，有问题吗](https://www.v2ex.com/t/819192) `36条评论` `Java`
+1. [LCD 党何去何从](https://www.v2ex.com/t/819189) `31条评论` `Apple`
+1. [求推荐一个家用的微型服务器](https://www.v2ex.com/t/819222) `13条评论` `NAS`
+1. [十二月的第一天了，报上你们的本月挑战吧，能完成吗？](https://www.v2ex.com/t/819220) `13条评论` ` WATCH`
+1. [img 的“图片另存为”在 js 中有没有对应的事件？](https://www.v2ex.com/t/819195) `12条评论` `程序员`
+1. [你所熟知的海南，不止有三亚](https://www.v2ex.com/t/819201) `11条评论` `旅行`
 1. [骁龙 8 gen1 发布](https://www.v2ex.com/t/819184) `11条评论` `Android`
-1. [img 的“图片另存为”在 js 中有没有对应的事件？](https://www.v2ex.com/t/819195) `9条评论` `程序员`
+1. [有什么好的办法批量下载歌曲到 apple watch 本地?](https://www.v2ex.com/t/819197) `10条评论` ` WATCH`
+1. [工信部提到开源,Gitee 的兄弟有福了，这一波能上市吗](https://www.v2ex.com/t/819212) `9条评论` `互联网`
 1. [chrome 惊现重大隐私泄露 bug！你想知道你对象上了哪些网站最多吗？](https://www.v2ex.com/t/819191) `9条评论` `分享发现`
-1. [你所熟知的海南，不止有三亚](https://www.v2ex.com/t/819201) `8条评论` `旅行`
-1. [有什么好的办法批量下载歌曲到 apple watch 本地?](https://www.v2ex.com/t/819197) `8条评论` ` WATCH`
+1. [如何看待币安创始人身价达 900 亿美元https://www.zhihu.com/question/502758941](https://www.v2ex.com/t/819224) `8条评论` `分享发现`
 1. [只想下班回家看 jojo](https://www.v2ex.com/t/819185) `8条评论` `ACG`
+1. [大家 11 月份都买了什么东西？有很满意和特别不满的吗？](https://www.v2ex.com/t/819223) `7条评论` `问与答`
+1. [今天在路边看到一辆秦 plus dmi](https://www.v2ex.com/t/819218) `7条评论` `汽车`
+1. [有没有办法设置触控板单指滚动](https://www.v2ex.com/t/819207) `6条评论` `macOS`
 
-数据更新于 2021-12-01 02:04:04
+数据更新于 2021-12-01 02:42:10
 
 <!-- TODAY END -->
 
