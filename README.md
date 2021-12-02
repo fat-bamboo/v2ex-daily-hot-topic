@@ -8,12 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [早上，银行的人，叫我发身份证给他，让我买全套人民币大全，这个有收藏价值吗？最便宜的一套 10w](https://www.v2ex.com/t/819446) `76条评论` `问与答`
-1. [之前一直用 apple music，今天换到了 spotify，才发现，原来 am 真的挺差劲](https://www.v2ex.com/t/819457) `66条评论` `Apple`
-1. [准备买 MacBook Air， M1，求用过的人建议](https://www.v2ex.com/t/819511) `50条评论` `Apple`
-1. [城市里有哪些适合安静独处的地方?](https://www.v2ex.com/t/819455) `40条评论` `问与答`
-1. [JD 上好吃的橙子，求推荐。](https://www.v2ex.com/t/819470) `36条评论` `问与答`
-1. [快圣诞节了，大家有什么小众好玩的礼物推荐](https://www.v2ex.com/t/819498) `33条评论` `分享发现`
+1. [早上，银行的人，叫我发身份证给他，让我买全套人民币大全，这个有收藏价值吗？最便宜的一套 10w](https://www.v2ex.com/t/819446) `78条评论` `问与答`
+1. [之前一直用 apple music，今天换到了 spotify，才发现，原来 am 真的挺差劲](https://www.v2ex.com/t/819457) `71条评论` `Apple`
+1. [准备买 MacBook Air， M1，求用过的人建议](https://www.v2ex.com/t/819511) `53条评论` `Apple`
+1. [城市里有哪些适合安静独处的地方?](https://www.v2ex.com/t/819455) `42条评论` `问与答`
+1. [JD 上好吃的橙子，求推荐。](https://www.v2ex.com/t/819470) `39条评论` `问与答`
+1. [快圣诞节了，大家有什么小众好玩的礼物推荐](https://www.v2ex.com/t/819498) `37条评论` `分享发现`
+1. [个子矮会丧失择偶权](https://www.v2ex.com/t/819569) `34条评论` `生活`
 1. [上班工作很闲怎么办？整个人有点 EMO 了](https://www.v2ex.com/t/819495) `28条评论` `生活`
 1. [mbp2018 如何接显示器](https://www.v2ex.com/t/819441) `27条评论` `MacBook Pro`
 1. [看了一段 LOL 老视频，突然好想回到过去。](https://www.v2ex.com/t/819525) `24条评论` `生活`
@@ -23,16 +24,15 @@
 1. [今日学到一个东西，基于 https 的 dns 解析](https://www.v2ex.com/t/819489) `20条评论` `程序员`
 1. [v2 终于知道回复的是楼主了？](https://www.v2ex.com/t/819460) `20条评论` `V2EX`
 1. [「蹭个热度」Typora，网易云音乐 macOS 版是用什么 gui 技术开发的？](https://www.v2ex.com/t/819452) `20条评论` `问与答`
+1. [第一批入手的 macbookpro14 寸的，一个月电池只有 98%了？](https://www.v2ex.com/t/819549) `19条评论` `MacBook Pro`
 1. [16 寸 M1 Pro 的续航貌似也没有想象中的那么好？大家的续航都是怎样的？](https://www.v2ex.com/t/819463) `19条评论` `Apple`
-1. [第一批入手的 macbookpro14 寸的，一个月电池只有 98%了？](https://www.v2ex.com/t/819549) `17条评论` `MacBook Pro`
 1. [你们是用哪两根手指搓 mbp 触控板的？感觉手指好累啊](https://www.v2ex.com/t/819523) `17条评论` `Apple`
 1. [机器学习哪款 gpu 可以胜任](https://www.v2ex.com/t/819520) `16条评论` `NVIDIA`
-1. [个子矮会丧失择偶权](https://www.v2ex.com/t/819569) `14条评论` `生活`
 1. [有没有带移动 wifi 的充电宝?](https://www.v2ex.com/t/819451) `14条评论` `问与答`
 1. [无时无刻不在用“闭包”](https://www.v2ex.com/t/819440) `14条评论` `程序员`
-1. [转区香港找到了宝藏 App](https://www.v2ex.com/t/819504) `13条评论` `分享发现`
+1. [无需转推，所有人都可以免费领取 Paw](https://www.v2ex.com/t/819564) `13条评论` `优惠信息`
 
-数据更新于 2021-12-02 08:20:44
+数据更新于 2021-12-02 08:42:54
 
 <!-- TODAY END -->
 
