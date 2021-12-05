@@ -13,9 +13,9 @@
 1. [深圳城中村房东真无良，不让自己拉宽带。](https://www.v2ex.com/t/820158) `44条评论` `宽带症候群`
 1. [6 位数纯数字 gmail 邮箱有价吗？](https://www.v2ex.com/t/820134) `43条评论` `Google`
 1. [有没有长期把 Hyper-V 当做主力机用的？](https://www.v2ex.com/t/820178) `31条评论` `程序员`
+1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) `25条评论` `Python`
 1. [分享下你的个人站的/about](https://www.v2ex.com/t/820154) `25条评论` `站长`
 1. [发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185) `25条评论` `分享发现`
-1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) `24条评论` `Python`
 1. [迫于 QQ 音乐至今不支持 M1，这几天发现 Apple Music 在 Mac 上真难用](https://www.v2ex.com/t/820232) `23条评论` `MacBook Pro`
 1. [[选择困难症] 分享一下最近的选机历程（2021 年 12 月有效）](https://www.v2ex.com/t/820202) `22条评论` `Android`
 1. [有什么异地在线一起看电影的方案吗？](https://www.v2ex.com/t/820197) `22条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [清理微信文档后 iPhone 系统存储空间显示未减少](https://www.v2ex.com/t/820142) `13条评论` `iPhone`
 1. [Google 相册将于明年 6 月 1 号结束 Pixel 手机无限量高清免费备份策略](https://www.v2ex.com/t/820128) `13条评论` `Google`
 
-数据更新于 2021-12-05 18:25:42
+数据更新于 2021-12-05 18:44:19
 
 <!-- TODAY END -->
 
