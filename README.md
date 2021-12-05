@@ -8,22 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [给微信一个建议](https://www.v2ex.com/t/820114) `19条评论` `微信`
-1. [6 位数纯数字 gmail 邮箱有价吗？](https://www.v2ex.com/t/820134) `17条评论` `Google`
+1. [给微信一个建议](https://www.v2ex.com/t/820114) `20条评论` `微信`
+1. [6 位数纯数字 gmail 邮箱有价吗？](https://www.v2ex.com/t/820134) `20条评论` `Google`
+1. [请教 CentOS Stream 8 和 Rocky Linux 的使用体验。](https://www.v2ex.com/t/820132) `19条评论` `程序员`
+1. [在 vscode.dev 中直接运行 Python ！纯浏览器环境，无后端](https://www.v2ex.com/t/820111) `13条评论` `分享创造`
 1. [有什么办法可以用普通鼠标左右移动 Finder 吗？](https://www.v2ex.com/t/820110) `13条评论` `macOS`
 1. [简书网站证书过期？](https://www.v2ex.com/t/820107) `13条评论` `全球工单系统`
-1. [请教 CentOS Stream 8 和 Rocky Linux 的使用体验。](https://www.v2ex.com/t/820132) `12条评论` `程序员`
-1. [在 vscode.dev 中直接运行 Python ！纯浏览器环境，无后端](https://www.v2ex.com/t/820111) `12条评论` `分享创造`
-1. [安卓为何无法使用自建的 DOT 私人 DNS](https://www.v2ex.com/t/820127) `11条评论` `宽带症候群`
+1. [安卓为何无法使用自建的 DOT 私人 DNS](https://www.v2ex.com/t/820127) `12条评论` `宽带症候群`
 1. [Google 相册将于明年 6 月 1 号结束 Pixel 手机无限量高清免费备份策略](https://www.v2ex.com/t/820128) `9条评论` `Google`
 1. [MBP2021 选择求助](https://www.v2ex.com/t/820130) `8条评论` `MacBook Pro`
 1. [iphone12 偶尔不能自动息屏？](https://www.v2ex.com/t/820112) `8条评论` `iPhone`
+1. [以前的鹅厂还是有一些设计感的，看首版 QQ For Mac 有感](https://www.v2ex.com/t/820143) `7条评论` `Apple`
 1. [求助深圳有哪些比较好的心理咨询机构](https://www.v2ex.com/t/820135) `7条评论` `心理学`
-1. [以前的鹅厂还是有一些设计感的，看首版 QQ For Mac 有感](https://www.v2ex.com/t/820143) `6条评论` `Apple`
-1. [迫穷，各位帅比推荐下深圳城中村优惠的款待套餐！](https://www.v2ex.com/t/820126) `6条评论` `宽带症候群`
+1. [迫穷，各位帅比推荐下深圳城中村优惠的款待套餐！](https://www.v2ex.com/t/820126) `7条评论` `宽带症候群`
 1. [求教 macos 下/usr/local 和/opt 目录的作用和区别](https://www.v2ex.com/t/820118) `6条评论` `程序员`
 
-数据更新于 2021-12-05 06:19:39
+数据更新于 2021-12-05 06:41:03
 
 <!-- TODAY END -->
 
