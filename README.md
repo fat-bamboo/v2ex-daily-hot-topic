@@ -12,8 +12,8 @@
 1. [给微信一个建议](https://www.v2ex.com/t/820114) `45条评论` `微信`
 1. [深圳城中村房东真无良，不让自己拉宽带。](https://www.v2ex.com/t/820158) `44条评论` `宽带症候群`
 1. [6 位数纯数字 gmail 邮箱有价吗？](https://www.v2ex.com/t/820134) `43条评论` `Google`
+1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) `33条评论` `Python`
 1. [有没有长期把 Hyper-V 当做主力机用的？](https://www.v2ex.com/t/820178) `33条评论` `程序员`
-1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) `32条评论` `Python`
 1. [分享下你的个人站的/about](https://www.v2ex.com/t/820154) `31条评论` `站长`
 1. [迫于 QQ 音乐至今不支持 M1，这几天发现 Apple Music 在 Mac 上真难用](https://www.v2ex.com/t/820232) `25条评论` `MacBook Pro`
 1. [发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185) `25条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [Go 感觉没有一个趁手的 ORM 框架啊？](https://www.v2ex.com/t/820191) `13条评论` `Go 编程语言`
 1. [清理微信文档后 iPhone 系统存储空间显示未减少](https://www.v2ex.com/t/820142) `13条评论` `iPhone`
 
-数据更新于 2021-12-05 23:32:29
+数据更新于 2021-12-05 23:45:47
 
 <!-- TODAY END -->
 
