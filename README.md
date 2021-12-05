@@ -15,12 +15,12 @@
 1. [有没有长期把 Hyper-V 当做主力机用的？](https://www.v2ex.com/t/820178) `31条评论` `程序员`
 1. [分享下你的个人站的/about](https://www.v2ex.com/t/820154) `25条评论` `站长`
 1. [发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185) `25条评论` `分享发现`
-1. [迫于 QQ 音乐至今不支持 M1，这几天发现 Apple Music 在 Mac 上真难用](https://www.v2ex.com/t/820232) `21条评论` `MacBook Pro`
+1. [迫于 QQ 音乐至今不支持 M1，这几天发现 Apple Music 在 Mac 上真难用](https://www.v2ex.com/t/820232) `22条评论` `MacBook Pro`
 1. [麻了啊， QQ 邮箱严重 bug，到处都找不到人修复。。。。已经是放弃的产品了吗？](https://www.v2ex.com/t/820152) `21条评论` `问与答`
 1. [[选择困难症] 分享一下最近的选机历程（2021 年 12 月有效）](https://www.v2ex.com/t/820202) `21条评论` `Android`
+1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) `20条评论` `Python`
 1. [有什么异地在线一起看电影的方案吗？](https://www.v2ex.com/t/820197) `20条评论` `问与答`
 1. [以前的鹅厂还是有一些设计感的，看首版 QQ For Mac 有感](https://www.v2ex.com/t/820143) `20条评论` `Apple`
-1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) `19条评论` `Python`
 1. [21 款 MBP 半个月电池循环已经 16 次了](https://www.v2ex.com/t/820226) `19条评论` `Apple`
 1. [现在硬盘太便宜，想买一个，但是不知道买来干嘛](https://www.v2ex.com/t/820207) `19条评论` `问与答`
 1. [在 vscode.dev 中直接运行 Python ！纯浏览器环境，无后端](https://www.v2ex.com/t/820111) `19条评论` `分享创造`
@@ -32,7 +32,7 @@
 1. [清理微信文档后 iPhone 系统存储空间显示未减少](https://www.v2ex.com/t/820142) `13条评论` `iPhone`
 1. [Google 相册将于明年 6 月 1 号结束 Pixel 手机无限量高清免费备份策略](https://www.v2ex.com/t/820128) `13条评论` `Google`
 
-数据更新于 2021-12-05 17:47:38
+数据更新于 2021-12-05 18:00:15
 
 <!-- TODAY END -->
 
