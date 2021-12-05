@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [请教 CentOS Stream 8 和 Rocky Linux 的使用体验。](https://www.v2ex.com/t/820132) `44条评论` `程序员`
+1. [请教 CentOS Stream 8 和 Rocky Linux 的使用体验。](https://www.v2ex.com/t/820132) `46条评论` `程序员`
+1. [给微信一个建议](https://www.v2ex.com/t/820114) `31条评论` `微信`
 1. [6 位数纯数字 gmail 邮箱有价吗？](https://www.v2ex.com/t/820134) `29条评论` `Google`
-1. [给微信一个建议](https://www.v2ex.com/t/820114) `28条评论` `微信`
-1. [深圳城中村房东真无良，不让自己拉宽带。](https://www.v2ex.com/t/820158) `18条评论` `宽带症候群`
-1. [麻了啊， QQ 邮箱严重 bug，到处都找不到人修复。。。。已经是放弃的产品了吗？](https://www.v2ex.com/t/820152) `14条评论` `问与答`
+1. [深圳城中村房东真无良，不让自己拉宽带。](https://www.v2ex.com/t/820158) `19条评论` `宽带症候群`
+1. [麻了啊， QQ 邮箱严重 bug，到处都找不到人修复。。。。已经是放弃的产品了吗？](https://www.v2ex.com/t/820152) `15条评论` `问与答`
 1. [有什么办法可以用普通鼠标左右移动 Finder 吗？](https://www.v2ex.com/t/820110) `14条评论` `macOS`
 1. [Google 相册将于明年 6 月 1 号结束 Pixel 手机无限量高清免费备份策略](https://www.v2ex.com/t/820128) `13条评论` `Google`
 1. [安卓为何无法使用自建的 DOT 私人 DNS](https://www.v2ex.com/t/820127) `13条评论` `宽带症候群`
@@ -23,10 +23,12 @@
 1. [求助深圳有哪些比较好的心理咨询机构](https://www.v2ex.com/t/820135) `10条评论` `心理学`
 1. [MBP2021 选择求助](https://www.v2ex.com/t/820130) `8条评论` `MacBook Pro`
 1. [iphone12 偶尔不能自动息屏？](https://www.v2ex.com/t/820112) `8条评论` `iPhone`
+1. [iCloud 切换了新的 Apple ID 后不断提醒我登录旧的 ID](https://www.v2ex.com/t/820164) `7条评论` `iCloud`
 1. [迫穷，各位帅比推荐下深圳城中村优惠的款待套餐！](https://www.v2ex.com/t/820126) `7条评论` `宽带症候群`
 1. [求教 macos 下/usr/local 和/opt 目录的作用和区别](https://www.v2ex.com/t/820118) `7条评论` `程序员`
+1. [分享下你的个人站的/about](https://www.v2ex.com/t/820154) `6条评论` `站长`
 
-数据更新于 2021-12-05 08:55:49
+数据更新于 2021-12-05 09:16:25
 
 <!-- TODAY END -->
 
