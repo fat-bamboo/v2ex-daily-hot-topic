@@ -13,7 +13,7 @@
 1. [NV 3070 显卡玩游戏 显卡占用始终上不去](https://www.v2ex.com/t/820541) `39条评论` `NVIDIA`
 1. [GitHub 能举报某一个仓库吗？](https://www.v2ex.com/t/820540) `36条评论` `问与答`
 1. [分享最近这几年听到的大受震撼的话](https://www.v2ex.com/t/820528) `36条评论` `分享发现`
-1. [m1 的 Mac 能用的 telnet 程序](https://www.v2ex.com/t/820575) `29条评论` `Apple`
+1. [m1 的 Mac 能用的 telnet 程序](https://www.v2ex.com/t/820575) `30条评论` `Apple`
 1. [分享今年你的书单！](https://www.v2ex.com/t/820522) `29条评论` `阅读`
 1. [Airpods Pro Max 真不错](https://www.v2ex.com/t/820567) `27条评论` `Apple`
 1. [遥控器爆炸事件](https://www.v2ex.com/t/820510) `26条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [中国程序员分享在瑞典奋斗逼的视频合集谁有 搜遍全网确实没了](https://www.v2ex.com/t/820539) `10条评论` `问与答`
 1. [求推荐最贴近 MBP 本身屏幕素质的外接屏](https://www.v2ex.com/t/820518) `9条评论` `Apple`
 
-数据更新于 2021-12-07 06:47:59
+数据更新于 2021-12-07 06:58:17
 
 <!-- TODAY END -->
 
