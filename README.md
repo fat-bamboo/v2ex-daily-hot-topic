@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [90 后该何去何从](https://www.v2ex.com/t/820774) `171条评论` `问与答`
-1. [被同事 pua 怎么办？](https://www.v2ex.com/t/820803) `118条评论` `职场话题`
-1. [看隔壁 90 后有感](https://www.v2ex.com/t/820799) `69条评论` `随想`
+1. [90 后该何去何从](https://www.v2ex.com/t/820774) `174条评论` `问与答`
+1. [被同事 pua 怎么办？](https://www.v2ex.com/t/820803) `127条评论` `职场话题`
+1. [看隔壁 90 后有感](https://www.v2ex.com/t/820799) `75条评论` `随想`
+1. [苹果又出邪术让手机变慢变卡？](https://www.v2ex.com/t/820787) `54条评论` `Apple`
 1. [你是如何定义「躺平」的？](https://www.v2ex.com/t/820822) `36条评论` `问与答`
-1. [苹果又出邪术让手机变慢变卡？](https://www.v2ex.com/t/820787) `36条评论` `Apple`
 1. [想买个移动硬盘长久保存美剧、电影、相片等](https://www.v2ex.com/t/820777) `34条评论` `问与答`
 1. [js 如何实现对象值复制？](https://www.v2ex.com/t/820807) `33条评论` `程序员`
 1. [使用 git，既要用「命令行」也要用「UI」](https://www.v2ex.com/t/820776) `30条评论` `程序员`
 1. [无线充电特别伤电池？](https://www.v2ex.com/t/820792) `27条评论` `Apple`
 1. [小米新出的 4k 显示器怎么样](https://www.v2ex.com/t/820795) `26条评论` `Apple`
 1. [分享一下自己的小鱼缸](https://www.v2ex.com/t/820827) `24条评论` `宠物`
-1. [JS 如何复制一个函数？](https://www.v2ex.com/t/820839) `21条评论` `程序员`
+1. [JS 如何复制一个函数？](https://www.v2ex.com/t/820839) `22条评论` `程序员`
 1. [想问一个问题,如何优化一个老项目.](https://www.v2ex.com/t/820819) `20条评论` `Java`
 1. [Oneplus 8T 刷机玩](https://www.v2ex.com/t/820825) `18条评论` `Android`
 1. [有什么推荐的 4K 显示器连接 MacBook M1 21 款的不闪屏？](https://www.v2ex.com/t/820779) `16条评论` `MacBook Pro`
+1. [Apple WatchOS 8.3 RC 发布了，国行支持心电图。](https://www.v2ex.com/t/820847) `15条评论` ` WATCH`
 1. [远程全职 solidity 月薪 30~50k](https://www.v2ex.com/t/820785) `15条评论` `酷工作`
 1. [大家能保持全神贯注 coding 的最长工作时间是多久](https://www.v2ex.com/t/820853) `14条评论` `随想`
 1. [初学者求问： 2021 年，你们调试 Android 程序用什么设备？](https://www.v2ex.com/t/820793) `14条评论` `Android`
-1. [Apple WatchOS 8.3 RC 发布了，国行支持心电图。](https://www.v2ex.com/t/820847) `13条评论` ` WATCH`
+1. [关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854) `13条评论` `分享发现`
 1. [M1 Pro 上各浏览器 B 站视频功耗最高差 3 倍，背后原因令人暖心](https://www.v2ex.com/t/820840) `13条评论` `MacBook Pro`
 1. [spring cloud 服务调用 问题排查 解决方法求教](https://www.v2ex.com/t/820794) `12条评论` `程序员`
 1. [mac12 rc 修复很多所谓的硬件的问题啊](https://www.v2ex.com/t/820778) `12条评论` `Apple`
-1. [为什么各种文件管理器/命令行 都默认不显示文件夹的大小呢？？](https://www.v2ex.com/t/820796) `11条评论` `问与答`
 
-数据更新于 2021-12-08 06:57:35
+数据更新于 2021-12-08 07:20:31
 
 <!-- TODAY END -->
 
