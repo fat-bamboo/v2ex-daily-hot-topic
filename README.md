@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [颤抖吧 Javaer， log4j 史诗级漏洞](https://www.v2ex.com/t/821241) `110条评论` `Java`
+1. [颤抖吧 Javaer， log4j 史诗级漏洞](https://www.v2ex.com/t/821241) `113条评论` `Java`
 1. [贴吧很多帖子说高通 8g1 又翻车了](https://www.v2ex.com/t/821264) `77条评论` `Android`
-1. [现在的语音合成已经到这种水平了吗？ Azure TTS 合成的 Voice 也太自然了](https://www.v2ex.com/t/821254) `48条评论` `分享发现`
+1. [现在的语音合成已经到这种水平了吗？ Azure TTS 合成的 Voice 也太自然了](https://www.v2ex.com/t/821254) `50条评论` `分享发现`
 1. [新手租车的三个建议](https://www.v2ex.com/t/821263) `35条评论` `汽车`
 1. [老哥 你们 mac 用原生输入法卡吗？](https://www.v2ex.com/t/821302) `27条评论` `MacBook Pro`
+1. [提车了，我的房车介绍](https://www.v2ex.com/t/821330) `25条评论` `旅行`
 1. [对于不同的洗衣服习惯有关的疑问](https://www.v2ex.com/t/821262) `25条评论` `生活`
 1. [跪舔这款低代码！把设计模式发挥到了极致！说低代码是毒瘤的进来](https://www.v2ex.com/t/821280) `24条评论` `程序员`
-1. [提车了，我的房车介绍](https://www.v2ex.com/t/821330) `22条评论` `旅行`
 1. [airpods pro 会出新版么](https://www.v2ex.com/t/821303) `22条评论` `Apple`
 1. [有公网 IP 且玩家庭服务器的，你们是怎么连回家的](https://www.v2ex.com/t/821284) `20条评论` `宽带症候群`
 1. [win11 有安装 APK 成功的吗?](https://www.v2ex.com/t/821232) `17条评论` `问与答`
@@ -30,9 +30,9 @@
 1. [在公共场所使用公共电脑登录个人账号如何提升个人信息安全？](https://www.v2ex.com/t/821242) `9条评论` `问与答`
 1. [mac 上 xmind 好卡有啥解决办法或替代方案](https://www.v2ex.com/t/821315) `8条评论` `程序员`
 1. [入职前老师开的技术外包公司，前期没了解清楚，与公司一个合伙人合不来。求问怎么跳出来？](https://www.v2ex.com/t/821313) `8条评论` `问与答`
-1. [Docker 转 k8s 求助](https://www.v2ex.com/t/821235) `7条评论` `Kubernetes`
+1. [Magsafe3 除了官网哪里有卖](https://www.v2ex.com/t/821322) `7条评论` `Apple`
 
-数据更新于 2021-12-10 07:19:38
+数据更新于 2021-12-10 07:32:15
 
 <!-- TODAY END -->
 
