@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [颤抖吧 Javaer， log4j 史诗级漏洞](https://www.v2ex.com/t/821241) `119条评论` `Java`
-1. [贴吧很多帖子说高通 8g1 又翻车了](https://www.v2ex.com/t/821264) `84条评论` `Android`
-1. [现在的语音合成已经到这种水平了吗？ Azure TTS 合成的 Voice 也太自然了](https://www.v2ex.com/t/821254) `65条评论` `分享发现`
-1. [新手租车的三个建议](https://www.v2ex.com/t/821263) `43条评论` `汽车`
-1. [提车了，我的房车介绍](https://www.v2ex.com/t/821330) `30条评论` `旅行`
+1. [颤抖吧 Javaer， log4j 史诗级漏洞](https://www.v2ex.com/t/821241) `123条评论` `Java`
+1. [贴吧很多帖子说高通 8g1 又翻车了](https://www.v2ex.com/t/821264) `85条评论` `Android`
+1. [现在的语音合成已经到这种水平了吗？ Azure TTS 合成的 Voice 也太自然了](https://www.v2ex.com/t/821254) `71条评论` `分享发现`
+1. [新手租车的三个建议](https://www.v2ex.com/t/821263) `44条评论` `汽车`
+1. [提车了，我的房车介绍](https://www.v2ex.com/t/821330) `33条评论` `旅行`
 1. [老哥 你们 mac 用原生输入法卡吗？](https://www.v2ex.com/t/821302) `27条评论` `MacBook Pro`
 1. [对于不同的洗衣服习惯有关的疑问](https://www.v2ex.com/t/821262) `25条评论` `生活`
 1. [跪舔这款低代码！把设计模式发挥到了极致！说低代码是毒瘤的进来](https://www.v2ex.com/t/821280) `24条评论` `程序员`
+1. [年底了，今年大家投资自己花了多少钱？](https://www.v2ex.com/t/821348) `23条评论` `程序员`
 1. [airpods pro 会出新版么](https://www.v2ex.com/t/821303) `22条评论` `Apple`
 1. [有公网 IP 且玩家庭服务器的，你们是怎么连回家的](https://www.v2ex.com/t/821284) `20条评论` `宽带症候群`
-1. [年底了，今年大家投资自己花了多少钱？](https://www.v2ex.com/t/821348) `18条评论` `程序员`
 1. [win11 有安装 APK 成功的吗?](https://www.v2ex.com/t/821232) `17条评论` `问与答`
+1. [GitKraken 有什么便宜（或者免费？）的购买渠道，或者其他支持内网 Gitlab 的替代产品吗？](https://www.v2ex.com/t/821328) `14条评论` `程序员`
 1. [[腾讯云 12 月特惠]二核 4G8M 三年仅 150 四核 8G10M 三年 698[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价]良心云 1 核 2G5M3 年 101][海外机器也有活动]](https://www.v2ex.com/t/821255) `14条评论` `优惠信息`
-1. [GitKraken 有什么便宜（或者免费？）的购买渠道，或者其他支持内网 Gitlab 的替代产品吗？](https://www.v2ex.com/t/821328) `13条评论` `程序员`
+1. [kubernetes（K8S）快速上手教程 + 实践](https://www.v2ex.com/t/821329) `13条评论` `Kubernetes`
 1. [各位帅哥美女， iPhone SE2 电池只剩 82%有什么靠谱换电池方案，狗东的换电池服务没有 SE2，无语。最好是安全可靠的，我现在人在 18 县方圆百里没有苹果维修店](https://www.v2ex.com/t/821299) `13条评论` `iPhone`
 1. [2021 年 12 月了求推荐 2000 元左右的安卓手机](https://www.v2ex.com/t/821243) `13条评论` `问与答`
 1. [搞了一个 Flutter 数据可视化图表库](https://www.v2ex.com/t/821231) `12条评论` `Flutter`
@@ -29,10 +30,9 @@
 1. [求助： airpods pro 刚买 3 个月 被汽车碾压， 有没有换新的路子](https://www.v2ex.com/t/821271) `11条评论` `Apple`
 1. [Github 现在可以给 Star 创建分类了](https://www.v2ex.com/t/821245) `11条评论` `分享发现`
 1. [在公共场所使用公共电脑登录个人账号如何提升个人信息安全？](https://www.v2ex.com/t/821242) `9条评论` `问与答`
-1. [Magsafe3 除了官网哪里有卖](https://www.v2ex.com/t/821322) `8条评论` `Apple`
-1. [mac 上 xmind 好卡有啥解决办法或替代方案](https://www.v2ex.com/t/821315) `8条评论` `程序员`
+1. [请问 Java 中的 hexDigits[(bt & 0xf0) >> 4]转换成 kotlin 要如何写呢？](https://www.v2ex.com/t/821359) `8条评论` `程序员`
 
-数据更新于 2021-12-10 08:20:47
+数据更新于 2021-12-10 08:43:21
 
 <!-- TODAY END -->
 
