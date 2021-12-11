@@ -15,7 +15,7 @@
 1. [也许将来更适合程序员的 mac 不再是 MBP 而是 Air](https://www.v2ex.com/t/821519) `37条评论` `MacBook Pro`
 1. [公司正规运营的网站被列为诈骗网站了，找了一圈没找到解决方法，哪位老哥能指点一下怎么处理？](https://www.v2ex.com/t/821499) `29条评论` `全球工单系统`
 1. [求救各位大佬, 端口映射不通](https://www.v2ex.com/t/821521) `27条评论` `宽带症候群`
-1. [airpods pro 降噪拉胯](https://www.v2ex.com/t/821515) `25条评论` `Apple`
+1. [airpods pro 降噪拉胯](https://www.v2ex.com/t/821515) `26条评论` `Apple`
 1. [修 log4j 漏洞后感，请大佬解惑](https://www.v2ex.com/t/821572) `25条评论` `Java`
 1. [当前电视不支持 USB3.0 和千兆 LAN 的锅，居然是 Soc 的](https://www.v2ex.com/t/821500) `22条评论` `硬件`
 1. [ 有没有小众视频裁剪应用？](https://www.v2ex.com/t/821546) `19条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [🙏V 友们 树莓派 3B + 装最新 openwrt 自带 DDNS 吗？求推荐 SD 卡](https://www.v2ex.com/t/821541) `11条评论` `问与答`
 1. [苹果是如何禁止 M1 系列芯片在升级系统之后无法侧载安装 ipa 软件的？](https://www.v2ex.com/t/821513) `11条评论` `macOS`
 
-数据更新于 2021-12-11 17:43:21
+数据更新于 2021-12-11 17:55:42
 
 <!-- TODAY END -->
 
