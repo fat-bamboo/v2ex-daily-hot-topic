@@ -8,10 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [apple music 歌曲名跟歌手都变成英文了](https://www.v2ex.com/t/821604) `8条评论` `macOS`
-1. [单元测试有必要吗？](https://www.v2ex.com/t/821608) `6条评论` `程序员`
+1. [程序员工资模式变更](https://www.v2ex.com/t/821610) `9条评论` `奇思妙想`
+1. [apple music 歌曲名跟歌手都变成英文了](https://www.v2ex.com/t/821604) `9条评论` `macOS`
+1. [单元测试有必要吗？](https://www.v2ex.com/t/821608) `8条评论` `程序员`
 
-数据更新于 2021-12-12 02:43:26
+数据更新于 2021-12-12 02:57:56
 
 <!-- TODAY END -->
 
