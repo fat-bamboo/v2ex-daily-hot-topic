@@ -32,7 +32,7 @@
 1. [finder 有没有软件或什么办法实现类似 windows listary 的一个功能](https://www.v2ex.com/t/822422) `15条评论` `macOS`
 1. [想二手收个 pixel 玩玩，请教一下有什么需要注意的](https://www.v2ex.com/t/822323) `14条评论` `Google`
 
-数据更新于 2021-12-15 19:27:54
+数据更新于 2021-12-15 19:38:37
 
 <!-- TODAY END -->
 
