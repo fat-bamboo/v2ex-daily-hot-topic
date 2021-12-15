@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [又是一年桔子季，例行抽奖！](https://www.v2ex.com/t/822298) `342条评论` `推广`
+1. [又是一年桔子季，例行抽奖！](https://www.v2ex.com/t/822298) `343条评论` `推广`
 1. [小鹏汽车私拍 43 万用户人脸](https://www.v2ex.com/t/822279) `98条评论` `分享发现`
 1. [为什么 Google 中文比必应中文多了这么多垃圾站？](https://www.v2ex.com/t/822308) `59条评论` `Google`
 1. [实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) `59条评论` `Apple`
@@ -17,11 +17,12 @@
 1. [今年经济萧条吗？](https://www.v2ex.com/t/822322) `52条评论` `生活`
 1. [自愿化身一条固执的鱼 2](https://www.v2ex.com/t/822277) `48条评论` `随想`
 1. [昨天收到了新南威尔士数据科学的 offer，是否要继续国内双非考研？](https://www.v2ex.com/t/822356) `40条评论` `海外留学`
+1. [卖自己做的上传分享软件了（类似网盘、图床）， 9.9 元](https://www.v2ex.com/t/822331) `37条评论` `推广`
 1. [给大家排个雷](https://www.v2ex.com/t/822344) `24条评论` `Apple`
 1. [有没有什么好的在 Finder 当前文件夹下打开 VSCode/iTerm/PyCharm 的方案](https://www.v2ex.com/t/822413) `23条评论` `Apple`
 1. [2021 年底了，现在还有人用 DeepL 翻译吗？](https://www.v2ex.com/t/822389) `23条评论` `问与答`
+1. [如何降低自己的欲望](https://www.v2ex.com/t/822478) `21条评论` `生活`
 1. [深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) `21条评论` `深圳`
-1. [如何降低自己的欲望](https://www.v2ex.com/t/822478) `20条评论` `生活`
 1. [当脐橙的甜蜜如约而至, v 友们愿意用 USDT 买吗](https://www.v2ex.com/t/822345) `17条评论` `分享发现`
 1. [花生壳解析到 127.0.0.2](https://www.v2ex.com/t/822341) `17条评论` `程序员`
 1. [MacBook 如何取消开盖自动开机](https://www.v2ex.com/t/822390) `16条评论` `Apple`
@@ -30,9 +31,8 @@
 1. [快过年了，问一下父母体检怎么安排的](https://www.v2ex.com/t/822288) `16条评论` `生活`
 1. [switch oled 有什么好的入手渠道](https://www.v2ex.com/t/822272) `16条评论` `Nintendo Switch`
 1. [finder 有没有软件或什么办法实现类似 windows listary 的一个功能](https://www.v2ex.com/t/822422) `15条评论` `macOS`
-1. [想二手收个 pixel 玩玩，请教一下有什么需要注意的](https://www.v2ex.com/t/822323) `14条评论` `Google`
 
-数据更新于 2021-12-15 19:59:34
+数据更新于 2021-12-15 20:24:26
 
 <!-- TODAY END -->
 
