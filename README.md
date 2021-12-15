@@ -32,7 +32,7 @@
 1. [switch oled 有什么好的入手渠道](https://www.v2ex.com/t/822272) `16条评论` `Nintendo Switch`
 1. [finder 有没有软件或什么办法实现类似 windows listary 的一个功能](https://www.v2ex.com/t/822422) `15条评论` `macOS`
 
-数据更新于 2021-12-15 21:38:14
+数据更新于 2021-12-15 21:48:42
 
 <!-- TODAY END -->
 
