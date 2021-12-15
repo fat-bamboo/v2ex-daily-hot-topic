@@ -16,10 +16,10 @@
 1. [面试遇到让把 http code 三位数字拆开分别解释含义的](https://www.v2ex.com/t/822290) `52条评论` `职场话题`
 1. [今年经济萧条吗？](https://www.v2ex.com/t/822322) `52条评论` `生活`
 1. [自愿化身一条固执的鱼 2](https://www.v2ex.com/t/822277) `48条评论` `随想`
-1. [昨天收到了新南威尔士数据科学的 offer，是否要继续国内双非考研？](https://www.v2ex.com/t/822356) `42条评论` `海外留学`
+1. [昨天收到了新南威尔士数据科学的 offer，是否要继续国内双非考研？](https://www.v2ex.com/t/822356) `43条评论` `海外留学`
 1. [卖自己做的上传分享软件了（类似网盘、图床）， 9.9 元](https://www.v2ex.com/t/822331) `37条评论` `推广`
+1. [如何降低自己的欲望](https://www.v2ex.com/t/822478) `24条评论` `生活`
 1. [给大家排个雷](https://www.v2ex.com/t/822344) `24条评论` `Apple`
-1. [如何降低自己的欲望](https://www.v2ex.com/t/822478) `23条评论` `生活`
 1. [有没有什么好的在 Finder 当前文件夹下打开 VSCode/iTerm/PyCharm 的方案](https://www.v2ex.com/t/822413) `23条评论` `Apple`
 1. [2021 年底了，现在还有人用 DeepL 翻译吗？](https://www.v2ex.com/t/822389) `23条评论` `问与答`
 1. [深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) `21条评论` `深圳`
@@ -32,7 +32,7 @@
 1. [switch oled 有什么好的入手渠道](https://www.v2ex.com/t/822272) `16条评论` `Nintendo Switch`
 1. [finder 有没有软件或什么办法实现类似 windows listary 的一个功能](https://www.v2ex.com/t/822422) `15条评论` `macOS`
 
-数据更新于 2021-12-15 21:59:02
+数据更新于 2021-12-15 22:22:57
 
 <!-- TODAY END -->
 
