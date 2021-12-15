@@ -21,7 +21,7 @@
 1. [给大家排个雷](https://www.v2ex.com/t/822344) `24条评论` `Apple`
 1. [有没有什么好的在 Finder 当前文件夹下打开 VSCode/iTerm/PyCharm 的方案](https://www.v2ex.com/t/822413) `23条评论` `Apple`
 1. [2021 年底了，现在还有人用 DeepL 翻译吗？](https://www.v2ex.com/t/822389) `23条评论` `问与答`
-1. [如何降低自己的欲望](https://www.v2ex.com/t/822478) `21条评论` `生活`
+1. [如何降低自己的欲望](https://www.v2ex.com/t/822478) `22条评论` `生活`
 1. [深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) `21条评论` `深圳`
 1. [当脐橙的甜蜜如约而至, v 友们愿意用 USDT 买吗](https://www.v2ex.com/t/822345) `17条评论` `分享发现`
 1. [花生壳解析到 127.0.0.2](https://www.v2ex.com/t/822341) `17条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [switch oled 有什么好的入手渠道](https://www.v2ex.com/t/822272) `16条评论` `Nintendo Switch`
 1. [finder 有没有软件或什么办法实现类似 windows listary 的一个功能](https://www.v2ex.com/t/822422) `15条评论` `macOS`
 
-数据更新于 2021-12-15 21:24:18
+数据更新于 2021-12-15 21:38:14
 
 <!-- TODAY END -->
 
