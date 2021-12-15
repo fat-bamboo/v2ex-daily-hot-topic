@@ -8,17 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [又是一年桔子季，例行抽奖！](https://www.v2ex.com/t/822298) `314条评论` `推广`
-1. [小鹏汽车私拍 43 万用户人脸](https://www.v2ex.com/t/822279) `83条评论` `分享发现`
+1. [又是一年桔子季，例行抽奖！](https://www.v2ex.com/t/822298) `319条评论` `推广`
+1. [小鹏汽车私拍 43 万用户人脸](https://www.v2ex.com/t/822279) `88条评论` `分享发现`
+1. [实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) `53条评论` `Apple`
 1. [为什么 Google 中文比必应中文多了这么多垃圾站？](https://www.v2ex.com/t/822308) `52条评论` `Google`
-1. [实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) `52条评论` `Apple`
 1. [今年经济萧条吗？](https://www.v2ex.com/t/822322) `52条评论` `生活`
 1. [[腾讯云 12 月特惠]二核 4G8M 三年仅 150 四核 8G10M 三年 768 四核 16G12M 三年 1068[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价]良心云[海外机器也有活动]](https://www.v2ex.com/t/822285) `47条评论` `优惠信息`
 1. [面试遇到让把 http code 三位数字拆开分别解释含义的](https://www.v2ex.com/t/822290) `40条评论` `职场话题`
 1. [给大家排个雷](https://www.v2ex.com/t/822344) `24条评论` `Apple`
 1. [2021 年底了，现在还有人用 DeepL 翻译吗？](https://www.v2ex.com/t/822389) `23条评论` `问与答`
 1. [昨天收到了新南威尔士数据科学的 offer，是否要继续国内双非考研？](https://www.v2ex.com/t/822356) `21条评论` `海外留学`
-1. [有没有什么好的在 Finder 当前文件夹下打开 VSCode/iTerm/PyCharm 的方案](https://www.v2ex.com/t/822413) `19条评论` `Apple`
+1. [有没有什么好的在 Finder 当前文件夹下打开 VSCode/iTerm/PyCharm 的方案](https://www.v2ex.com/t/822413) `20条评论` `Apple`
+1. [深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) `19条评论` `深圳`
 1. [当脐橙的甜蜜如约而至, v 友们愿意用 USDT 买吗](https://www.v2ex.com/t/822345) `17条评论` `分享发现`
 1. [花生壳解析到 127.0.0.2](https://www.v2ex.com/t/822341) `17条评论` `程序员`
 1. [MacBook 如何取消开盖自动开机](https://www.v2ex.com/t/822390) `16条评论` `Apple`
@@ -26,13 +27,12 @@
 1. [闲着无聊，写了一个咕咕语翻译器](https://www.v2ex.com/t/822359) `16条评论` `奇思妙想`
 1. [快过年了，问一下父母体检怎么安排的](https://www.v2ex.com/t/822288) `16条评论` `生活`
 1. [switch oled 有什么好的入手渠道](https://www.v2ex.com/t/822272) `16条评论` `Nintendo Switch`
-1. [深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) `15条评论` `深圳`
 1. [想二手收个 pixel 玩玩，请教一下有什么需要注意的](https://www.v2ex.com/t/822323) `14条评论` `Google`
+1. [finder 有没有软件或什么办法实现类似 windows listary 的一个功能](https://www.v2ex.com/t/822422) `13条评论` `macOS`
 1. [老调重谈， macOS 有没有办法在远程连接时，锁屏或者屏幕不被别人看到？](https://www.v2ex.com/t/822304) `13条评论` `macOS`
 1. [迫于贫穷，讨论下外卖大额红包推送的规律。](https://www.v2ex.com/t/822297) `13条评论` `问与答`
-1. [android 通过 adb 查看电池健康](https://www.v2ex.com/t/822360) `11条评论` `Android`
 
-数据更新于 2021-12-15 12:00:09
+数据更新于 2021-12-15 12:38:05
 
 <!-- TODAY END -->
 
