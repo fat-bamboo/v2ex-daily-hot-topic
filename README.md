@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [转载， b 站泡沫的形成与毁灭](https://www.v2ex.com/t/823169) `41条评论` `分享发现`
+1. [转载， b 站泡沫的形成与毁灭](https://www.v2ex.com/t/823169) `42条评论` `分享发现`
 1. [华语音乐的最后希望在宝岛，宝岛音乐的希望在年轻的乐团，分享一下我心中那些值得一听的新时代台湾乐团](https://www.v2ex.com/t/823123) `39条评论` `音乐`
 1. [XD 们， 4S 店砍价，一般哪些项有机会砍下来？](https://www.v2ex.com/t/823078) `35条评论` `汽车`
 1. [程序员可以买无人🐔吗？会不会买了吃灰](https://www.v2ex.com/t/823112) `35条评论` `问与答`
@@ -29,10 +29,10 @@
 1. [win7,win10 能否像 iOS,安卓那样只允许从官方商店下载软件](https://www.v2ex.com/t/823161) `10条评论` `问与答`
 1. [[c/c++]在 apple silicon 上还没支持原生 debugging?](https://www.v2ex.com/t/823155) `10条评论` `Visual Studio Code`
 1. [使用 caps lock 切换输入法偶尔失灵](https://www.v2ex.com/t/823147) `10条评论` `macOS`
+1. [在公网 ipv6 上开 smb 的风险大吗？](https://www.v2ex.com/t/823184) `9条评论` `问与答`
 1. [js 如何优化这种情形: 无限状态切换](https://www.v2ex.com/t/823157) `9条评论` `JavaScript`
-1. [出去玩，用 iPad Pro 取代了 MacBook Pro](https://www.v2ex.com/t/823142) `9条评论` `iPad`
 
-数据更新于 2021-12-19 21:48:18
+数据更新于 2021-12-19 21:58:35
 
 <!-- TODAY END -->
 
