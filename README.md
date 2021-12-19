@@ -23,8 +23,8 @@
 1. [魅影机场倒了？](https://www.v2ex.com/t/823163) `15条评论` `问与答`
 1. [实验室服务器大家都是怎么管理使用的？](https://www.v2ex.com/t/823176) `14条评论` `问与答`
 1. [公司楼下就是苹果官方店，可以帮大家快递寄送，解决 macbook 发货慢问题](https://www.v2ex.com/t/823148) `14条评论` `Apple`
+1. [技术团队出现能力强、可替代不易、但是不服管的组长，如何处理？](https://www.v2ex.com/t/823195) `13条评论` `程序员`
 1. [打算购入 MacBook Pro14 丐版（教育优惠），大家分享一下如何快速到手？](https://www.v2ex.com/t/823171) `13条评论` `MacBook Pro`
-1. [技术团队出现能力强、可替代不易、但是不服管的组长，如何处理？](https://www.v2ex.com/t/823195) `12条评论` `程序员`
 1. [蜘蛛侠观感非常一般](https://www.v2ex.com/t/823121) `11条评论` `电影`
 1. [win7,win10 能否像 iOS,安卓那样只允许从官方商店下载软件](https://www.v2ex.com/t/823161) `10条评论` `问与答`
 1. [[c/c++]在 apple silicon 上还没支持原生 debugging?](https://www.v2ex.com/t/823155) `10条评论` `Visual Studio Code`
@@ -32,7 +32,7 @@
 1. [js 如何优化这种情形: 无限状态切换](https://www.v2ex.com/t/823157) `9条评论` `JavaScript`
 1. [出去玩，用 iPad Pro 取代了 MacBook Pro](https://www.v2ex.com/t/823142) `9条评论` `iPad`
 
-数据更新于 2021-12-19 19:36:27
+数据更新于 2021-12-19 19:46:46
 
 <!-- TODAY END -->
 
