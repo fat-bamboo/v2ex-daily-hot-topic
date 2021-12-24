@@ -12,27 +12,27 @@
 1. [迫于正版化需求，求一个免费的 Terminal/SSH/SFTP 工具](https://www.v2ex.com/t/824167) `102条评论` `程序员`
 1. [个人体验的几个 mac 明显不如 win 或者说明显不同于 win 的地方](https://www.v2ex.com/t/824214) `87条评论` `Apple`
 1. [这个月买的小电车到了。说说使用体验。](https://www.v2ex.com/t/824140) `64条评论` `汽车`
+1. [小米 10 安装 youtube advanced，提示不给安装，给我气坏了](https://www.v2ex.com/t/824148) `61条评论` `生活`
 1. [手机微信占用 7.7G，具体是什么文件会这么大？](https://www.v2ex.com/t/824174) `61条评论` `问与答`
-1. [小米 10 安装 youtube advanced，提示不给安装，给我气坏了](https://www.v2ex.com/t/824148) `60条评论` `生活`
 1. [看到这个。。。QQ jietu plugin](https://www.v2ex.com/t/824156) `57条评论` `分享发现`
 1. [Steam 冬促开始了，大家准备买些什么呢？](https://www.v2ex.com/t/824197) `42条评论` `Steam`
 1. [提交时间给后端用时间戳好还是字符串好](https://www.v2ex.com/t/824255) `42条评论` `程序员`
 1. [Office for macOS 有人拿来在工作环境用嘛，莫名的 BUG 真的笑死](https://www.v2ex.com/t/824210) `30条评论` `Apple`
 1. [关于 offer 选择，很好奇大家两个问题](https://www.v2ex.com/t/824192) `28条评论` `问与答`
+1. [纯吐槽帖 关于 go 的 err 和重载](https://www.v2ex.com/t/824287) `27条评论` `程序员`
 1. [iOS 健康不能在同一天设置两个就寝时间？那睡眠定时功能岂不是摆设？](https://www.v2ex.com/t/824229) `24条评论` `iOS`
-1. [纯吐槽帖 关于 go 的 err 和重载](https://www.v2ex.com/t/824287) `23条评论` `程序员`
+1. [摸鱼大闯关！](https://www.v2ex.com/t/824259) `20条评论` `分享创造`
 1. [快过年了](https://www.v2ex.com/t/824201) `20条评论` `程序员`
 1. [在 jd ,这种情况, 能否投诉成功](https://www.v2ex.com/t/824146) `20条评论` `京东`
-1. [摸鱼大闯关！](https://www.v2ex.com/t/824259) `19条评论` `分享创造`
 1. [使用 Clash 作为代理的 V 友，会碰到 Microsoft Store“无法加载页面"的问题吗？怎么解决的呢？](https://www.v2ex.com/t/824125) `19条评论` `问与答`
+1. [决定明年买 M1 Air 了](https://www.v2ex.com/t/824288) `18条评论` `MacBook Pro`
+1. [东京街头徒步视频，这熟悉又陌生，缤纷多彩的街景，多元化，干净的街道，熟悉的口音（刷了太多日本的动漫），这是个多么有活力的地方。我突然有种想要再出去打工攒点钱去日本玩一圈的冲动。](https://www.v2ex.com/t/824291) `17条评论` `旅行`
 1. [appleid 无辜被永久封禁，可以走哪些途径解决？](https://www.v2ex.com/t/824290) `17条评论` `Apple`
-1. [决定明年买 M1 Air 了](https://www.v2ex.com/t/824288) `17条评论` `MacBook Pro`
 1. [腾讯云崩了？](https://www.v2ex.com/t/824131) `16条评论` `程序员`
 1. [想 1500-2000 左右弄个安卓](https://www.v2ex.com/t/824126) `15条评论` `Android`
 1. [移动宽带获取公网 ip 的方法](https://www.v2ex.com/t/824242) `14条评论` `宽带症候群`
-1. [淘宝购买手机卡，店铺需要身份证信息 靠谱吗](https://www.v2ex.com/t/824237) `14条评论` `分享发现`
 
-数据更新于 2021-12-24 10:38:10
+数据更新于 2021-12-24 10:49:46
 
 <!-- TODAY END -->
 
