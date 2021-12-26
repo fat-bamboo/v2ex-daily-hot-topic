@@ -13,8 +13,8 @@
 1. [macOS 的截图快捷键非常晦涩难懂，有什么历史渊源吗？](https://www.v2ex.com/t/824516) `45条评论` `macOS`
 1. [微信聊天记录迁移怎么就这么慢。](https://www.v2ex.com/t/824473) `36条评论` `问与答`
 1. [继 iMessage，共享相册，日历后，家庭也遭殃了😂](https://www.v2ex.com/t/824506) `35条评论` `Apple`
+1. [从最近的使用感受来看， macOS 似乎不如 Windows 稳定](https://www.v2ex.com/t/824535) `35条评论` `macOS`
 1. [学习不好的初中生](https://www.v2ex.com/t/824502) `34条评论` `问与答`
-1. [从最近的使用感受来看， macOS 似乎不如 Windows 稳定](https://www.v2ex.com/t/824535) `34条评论` `macOS`
 1. [有没有 30 天精通 golang 的教程？](https://www.v2ex.com/t/824475) `33条评论` `程序员`
 1. [拦截规则还真不能随意订阅](https://www.v2ex.com/t/824463) `31条评论` `分享发现`
 1. [盖了老帽儿了.m1 芯片 居然装不了 sqlserver](https://www.v2ex.com/t/824480) `31条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [好怀念 PT80，现在都不知道到哪里找优秀的下载点了。](https://www.v2ex.com/t/824510) `11条评论` `音乐`
 1. [没有光猫的超级密码有办法知道 iptv 和 internet 的 vlan id 吗？](https://www.v2ex.com/t/824460) `11条评论` `宽带症候群`
 
-数据更新于 2021-12-26 22:02:34
+数据更新于 2021-12-26 22:04:14
 
 <!-- TODAY END -->
 
