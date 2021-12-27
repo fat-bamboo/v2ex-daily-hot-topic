@@ -32,7 +32,7 @@
 1. [请教 V 友们 Mac 有沒有媲美 win 剪切板工具 ditto？支持同步到 iPhone](https://www.v2ex.com/t/824633) `12条评论` `问与答`
 1. [MBP 的 Apple Care 有什么好渠道么？](https://www.v2ex.com/t/824727) `11条评论` `MacBook Pro`
 
-数据更新于 2021-12-27 15:29:09
+数据更新于 2021-12-27 15:49:00
 
 <!-- TODAY END -->
 
