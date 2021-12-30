@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [练习两年半的同事写的代码](https://www.v2ex.com/t/825212) `119条评论` `Java`
-1. [我的教程获得了很多好评，但是...](https://www.v2ex.com/t/825222) `76条评论` `程序员`
-1. [邻居比较吵，真的只能报警吗？](https://www.v2ex.com/t/825230) `55条评论` `问与答`
-1. [迫于刚换 iPhone 问下主用哪区 Id 较好？](https://www.v2ex.com/t/825215) `54条评论` `Apple`
-1. [有懂的大佬说一下拼多多上买电子产品靠谱吗？](https://www.v2ex.com/t/825281) `38条评论` `Apple`
+1. [我的教程获得了很多好评，但是...](https://www.v2ex.com/t/825222) `79条评论` `程序员`
+1. [邻居比较吵，真的只能报警吗？](https://www.v2ex.com/t/825230) `58条评论` `问与答`
+1. [迫于刚换 iPhone 问下主用哪区 Id 较好？](https://www.v2ex.com/t/825215) `55条评论` `Apple`
+1. [有懂的大佬说一下拼多多上买电子产品靠谱吗？](https://www.v2ex.com/t/825281) `43条评论` `Apple`
 1. [一直没想明白的一件事，原厂不支持 Carplay 的机型居然可以刷 Carplay](https://www.v2ex.com/t/825257) `24条评论` `汽车`
 1. [MIUI13 内置反诈中心](https://www.v2ex.com/t/825250) `24条评论` `MIUI`
 1. [金三银四一般什么时候开始准备？](https://www.v2ex.com/t/825214) `21条评论` `程序员`
@@ -27,12 +27,12 @@
 1. [求 mac docker 替代](https://www.v2ex.com/t/825219) `14条评论` `macOS`
 1. [win10 突然出行没几分钟就全部卡死状态，然后也查不到原因](https://www.v2ex.com/t/825203) `13条评论` `Windows`
 1. [请问改版 V 站设计有人会感兴趣吗](https://www.v2ex.com/t/825208) `11条评论` `CSS`
+1. [怎样减少国产 App 的切屏广告？](https://www.v2ex.com/t/825292) `10条评论` `iOS`
 1. [Java 开发 这个时间点 20211230 还值得冲 2019 MacBook pro 16 寸 i9 吗](https://www.v2ex.com/t/825269) `10条评论` `MacBook Pro`
 1. [[想求职][webgis]自学的 webgis，想请各位前辈给点建议](https://www.v2ex.com/t/825234) `10条评论` `求职`
 1. [[求助] YouTube 上下载的视频有木有软件可以识别字幕外加翻译成中文](https://www.v2ex.com/t/825204) `10条评论` `问与答`
-1. [为什么这么多端到端加密的开源项目桌面客户端 UI 都用 Electron 而不是 Qt 编写？](https://www.v2ex.com/t/825278) `9条评论` `问与答`
 
-数据更新于 2021-12-30 07:21:13
+数据更新于 2021-12-30 07:37:28
 
 <!-- TODAY END -->
 
