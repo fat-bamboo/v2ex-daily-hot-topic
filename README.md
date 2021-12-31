@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [给女朋友出了个年度报告](https://www.v2ex.com/t/825404) `74条评论` `分享创造`
-1. [小弟写了一个 keepass 的 iOS 客户端](https://www.v2ex.com/t/825428) `47条评论` `Apple`
-1. [闪极 90W 电源搞崩了我的 Mac](https://www.v2ex.com/t/825435) `46条评论` `Apple`
-1. [腾讯出了 Linux 版微信~](https://www.v2ex.com/t/825417) `44条评论` `Linux`
-1. [央企竞聘之后也开始裁员了，朋友合同到期不续签](https://www.v2ex.com/t/825423) `39条评论` `职场话题`
+1. [给女朋友出了个年度报告](https://www.v2ex.com/t/825404) `76条评论` `分享创造`
+1. [闪极 90W 电源搞崩了我的 Mac](https://www.v2ex.com/t/825435) `55条评论` `Apple`
+1. [小弟写了一个 keepass 的 iOS 客户端](https://www.v2ex.com/t/825428) `51条评论` `Apple`
+1. [腾讯出了 Linux 版微信~](https://www.v2ex.com/t/825417) `46条评论` `Linux`
+1. [央企竞聘之后也开始裁员了，朋友合同到期不续签](https://www.v2ex.com/t/825423) `43条评论` `职场话题`
 1. [App Store 的退出登录按钮为啥要放最底下？](https://www.v2ex.com/t/825422) `32条评论` `Apple`
-1. [在一年的最后一天 emo 下，突然觉得生活好累](https://www.v2ex.com/t/825441) `27条评论` `程序员`
+1. [在一年的最后一天 emo 下，突然觉得生活好累](https://www.v2ex.com/t/825441) `30条评论` `程序员`
 1. [有懂的大佬有在 m1 的 Mac 上安装 Windows10 arm 版吗](https://www.v2ex.com/t/825405) `20条评论` `Apple`
+1. [Java 中，一个 final 的 List 变量，被往里加了元素，算不算违反了 final 这个关键词在这里暗示的约定？](https://www.v2ex.com/t/825448) `17条评论` `问与答`
 1. [苹果应该出一个邀请最低消费限额](https://www.v2ex.com/t/825409) `17条评论` `Apple`
+1. [免费云数据库拉新抽奖（百分百中奖那种）= switch/纸质书/超大马克杯/T 恤/数据线 任你选](https://www.v2ex.com/t/825427) `14条评论` `程序员`
 1. [2022 快多年了，有什么合适的投影仪推荐么？想和家人一起看](https://www.v2ex.com/t/825418) `13条评论` `成都`
 1. [#Fantastical，苹果生态下最好日历工具， 5 人车缺 1 人，试用期到 2022 年 1 月 13 号，试用期后再付款。均摊年付 83 元。 上车联系电报 @wan_ci](https://www.v2ex.com/t/825429) `12条评论` `iOS`
-1. [免费云数据库拉新抽奖（百分百中奖那种）= switch/纸质书/超大马克杯/T 恤/数据线 任你选](https://www.v2ex.com/t/825427) `12条评论` `程序员`
 1. [自己无聊做的 app，用户还行，可以卖钱吗？](https://www.v2ex.com/t/825408) `12条评论` `问与答`
 1. [2021 年总结，出版了两本书+画了好多表情包](https://www.v2ex.com/t/825432) `11条评论` `程序员`
 1. [招人（物联网平台、大数据平台相关的前后端开发岗）](https://www.v2ex.com/t/825402) `11条评论` `杭州`
-1. [Java 中，一个 final 的 List 变量，被往里加了元素，算不算违反了 final 这个关键词在这里暗示的约定？](https://www.v2ex.com/t/825448) `10条评论` `问与答`
+1. [怎么知道哪些服务器哪些用户之间配置了 SSH 互信](https://www.v2ex.com/t/825449) `9条评论` `Linux`
 1. [UOS 微信已经无法登录](https://www.v2ex.com/t/825430) `9条评论` `Linux`
 1. [homekit 出现垃圾邀请推送](https://www.v2ex.com/t/825403) `9条评论` `iOS`
-1. [怎么知道哪些服务器哪些用户之间配置了 SSH 互信](https://www.v2ex.com/t/825449) `7条评论` `Linux`
+1. [如果人类不需要吃饭，世界会是什么样子](https://www.v2ex.com/t/825458) `8条评论` `奇思妙想`
+1. [索尼 xm4 和 qc35、qc45 哪个好](https://www.v2ex.com/t/825433) `7条评论` `问与答`
 1. [一个公共的内网穿透 zoro httpsserver](https://www.v2ex.com/t/825410) `7条评论` `分享创造`
-1. [如果人类不需要吃饭，世界会是什么样子](https://www.v2ex.com/t/825458) `6条评论` `奇思妙想`
 1. [有装了 adguard for safari for Mac 的朋友么](https://www.v2ex.com/t/825438) `6条评论` `macOS`
-1. [索尼 xm4 和 qc35、qc45 哪个好](https://www.v2ex.com/t/825433) `6条评论` `问与答`
 
-数据更新于 2021-12-31 03:29:02
+数据更新于 2021-12-31 03:45:04
 
 <!-- TODAY END -->
 
