@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [22 年想买车了, 是买混动还是纯电](https://www.v2ex.com/t/825745) `9条评论` `汽车`
-1. [istat menu 发车](https://www.v2ex.com/t/825741) `8条评论` `macOS`
+1. [istat menu 发车](https://www.v2ex.com/t/825741) `9条评论` `macOS`
 
-数据更新于 2022-01-02 03:45:04
+数据更新于 2022-01-02 03:55:39
 
 <!-- TODAY END -->
 
