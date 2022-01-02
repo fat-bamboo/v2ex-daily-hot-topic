@@ -8,23 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [22 年想买车了, 是买混动还是纯电](https://www.v2ex.com/t/825745) `29条评论` `汽车`
-1. [小米 12 上手了，有个问题？](https://www.v2ex.com/t/825795) `12条评论` `问与答`
+1. [22 年想买车了, 是买混动还是纯电](https://www.v2ex.com/t/825745) `31条评论` `汽车`
+1. [小米 12 上手了，有个问题？](https://www.v2ex.com/t/825795) `14条评论` `问与答`
+1. [Macbook Air M1 16G 开发够用吗？有什么缺点](https://www.v2ex.com/t/825789) `13条评论` `程序员`
+1. [偷懒求个 m1 mba 软件安装指南](https://www.v2ex.com/t/825761) `13条评论` `MacBook Air`
 1. [迫于工作繁忙，出售 switch 美版加强续航版，购于 2020-02-28 京东，带 32g 内存。坐标广州](https://www.v2ex.com/t/825751) `12条评论` `京东`
-1. [偷懒求个 m1 mba 软件安装指南](https://www.v2ex.com/t/825761) `11条评论` `MacBook Air`
-1. [Macbook Air M1 16G 开发够用吗？有什么缺点](https://www.v2ex.com/t/825789) `10条评论` `程序员`
+1. [推荐一下 iPad 上的 youtube 第三方客户端](https://www.v2ex.com/t/825775) `10条评论` `Apple`
+1. [京东商品页在 firefox 上显示不正常，不显示价格等信息](https://www.v2ex.com/t/825767) `10条评论` `全球工单系统`
 1. [4000-5000 的女生用开发机推荐](https://www.v2ex.com/t/825766) `10条评论` `问与答`
 1. [请教通过 HTTP 代理访问配置有 Cloudflare CDN 的网站](https://www.v2ex.com/t/825770) `9条评论` `程序员`
-1. [京东商品页在 firefox 上显示不正常，不显示价格等信息](https://www.v2ex.com/t/825767) `9条评论` `全球工单系统`
+1. [请问 M1 MacBook Air 怎么免费用上 PD 虚拟机呀](https://www.v2ex.com/t/825763) `9条评论` `macOS`
 1. [istat menu 发车](https://www.v2ex.com/t/825741) `9条评论` `macOS`
-1. [推荐一下 iPad 上的 youtube 第三方客户端](https://www.v2ex.com/t/825775) `8条评论` `Apple`
-1. [请问 M1 MacBook Air 怎么免费用上 PD 虚拟机呀](https://www.v2ex.com/t/825763) `8条评论` `macOS`
 1. [寻找技术联合创始人。做人对人的关爱护理服务。](https://www.v2ex.com/t/825755) `8条评论` `酷工作`
 1. [异地（20 公里内）多台接入运营商宽带网络的机器怎么互相访问磁盘数据啊](https://www.v2ex.com/t/825746) `7条评论` `问与答`
+1. [Apple Home 天天接到澳门威尼斯邀请，有啥办法屏蔽吗？](https://www.v2ex.com/t/825794) `6条评论` `Apple`
+1. [iOS15 上 1Password 最新版不支持 standard vault 临时解决方案](https://www.v2ex.com/t/825784) `6条评论` `Apple`
 1. [上海电信移机](https://www.v2ex.com/t/825765) `6条评论` `宽带症候群`
 1. [分享一个自己写的命令行版的 Kodi 刮削工具](https://www.v2ex.com/t/825762) `6条评论` `分享创造`
 
-数据更新于 2022-01-02 08:55:49
+数据更新于 2022-01-02 09:16:49
 
 <!-- TODAY END -->
 
