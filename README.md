@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [istat menu 发车](https://www.v2ex.com/t/825741) `7条评论` `macOS`
+1. [istat menu 发车](https://www.v2ex.com/t/825741) `8条评论` `macOS`
+1. [22 年想买车了, 是买混动还是纯电](https://www.v2ex.com/t/825745) `6条评论` `问与答`
 
-数据更新于 2022-01-02 02:14:37
+数据更新于 2022-01-02 02:50:03
 
 <!-- TODAY END -->
 
