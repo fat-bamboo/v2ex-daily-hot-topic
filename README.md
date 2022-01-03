@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `48条评论` `分享发现`
+1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `49条评论` `分享发现`
 1. [歌单推荐](https://www.v2ex.com/t/825877) `36条评论` `音乐`
 1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `36条评论` `分享发现`
 1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `36条评论` `macOS`
@@ -19,20 +19,20 @@
 1. [广东电信降速套餐有人遇到过吗？](https://www.v2ex.com/t/825940) `20条评论` `宽带症候群`
 1. [老铁们，小老弟有点难受啊](https://www.v2ex.com/t/825942) `16条评论` `随想`
 1. [M1Pro 播放 8K 60FPS HDR 出现严重卡顿](https://www.v2ex.com/t/825923) `14条评论` `MacBook Pro`
+1. [你们的 Carplay 使用频率高吗？ carlife 有没必要加盒子升级 CarPlay](https://www.v2ex.com/t/825914) `14条评论` `汽车`
 1. [为什么很多制作学习视频的 YouTuber 都喜欢开始前点上蜡烛?谁能告诉我为啥，好想模仿啊，但是需要一个理由](https://www.v2ex.com/t/825918) `13条评论` `生活`
-1. [你们的 Carplay 使用频率高吗？ carlife 有没必要加盒子升级 CarPlay](https://www.v2ex.com/t/825914) `13条评论` `汽车`
 1. [蒙特利尔转码，是读 3 年的 college 还是 13-18 个月的速成班？](https://www.v2ex.com/t/825868) `13条评论` `问与答`
+1. [老哥们，看看我这 3080 装机配置是否合适](https://www.v2ex.com/t/825946) `12条评论` `问与答`
 1. [今年怎么没听说五福了？](https://www.v2ex.com/t/825912) `12条评论` `分享发现`
 1. [[后端开发] 做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) `12条评论` `职场话题`
-1. [老哥们，看看我这 3080 装机配置是否合适](https://www.v2ex.com/t/825946) `11条评论` `问与答`
 1. [关于持久化的一点疑问](https://www.v2ex.com/t/825944) `11条评论` `程序员`
 1. [集思广益：打工人做一份应对紧急隔离的常备物资清单](https://www.v2ex.com/t/825899) `10条评论` `问与答`
+1. [求推荐一个蓝牙鼠标](https://www.v2ex.com/t/825957) `9条评论` `macOS`
 1. [苹果官方论坛的版主到底是什么来头？是人类么？](https://www.v2ex.com/t/825939) `9条评论` `Apple`
 1. [manjaro 安装搜狗 输入法](https://www.v2ex.com/t/825913) `9条评论` `Linux`
-1. [求推荐一个蓝牙鼠标](https://www.v2ex.com/t/825957) `8条评论` `macOS`
 1. [有什么办法能在不使用 WiFi 的条件下备份微信 QQ 聊天记录？](https://www.v2ex.com/t/825941) `8条评论` `Android`
 
-数据更新于 2022-01-03 14:19:37
+数据更新于 2022-01-03 14:32:43
 
 <!-- TODAY END -->
 
