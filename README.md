@@ -9,20 +9,20 @@
 <!-- TODAY BEGIN -->
 
 1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `50条评论` `分享发现`
-1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `41条评论` `分享发现`
-1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `39条评论` `macOS`
-1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919) `39条评论` `生活`
+1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `45条评论` `分享发现`
+1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `42条评论` `macOS`
+1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919) `40条评论` `生活`
 1. [歌单推荐](https://www.v2ex.com/t/825877) `38条评论` `音乐`
 1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `28条评论` `GitHub`
-1. [广东电信降速套餐有人遇到过吗？](https://www.v2ex.com/t/825940) `26条评论` `宽带症候群`
-1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `25条评论` `macOS`
+1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `28条评论` `macOS`
+1. [广东电信降速套餐有人遇到过吗？](https://www.v2ex.com/t/825940) `28条评论` `宽带症候群`
+1. [老哥们，看看我这 3080 装机配置是否合适](https://www.v2ex.com/t/825946) `23条评论` `问与答`
 1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900) `21条评论` `分享创造`
-1. [老哥们，看看我这 3080 装机配置是否合适](https://www.v2ex.com/t/825946) `18条评论` `问与答`
-1. [关于持久化的一点疑问](https://www.v2ex.com/t/825944) `17条评论` `程序员`
-1. [老铁们，小老弟有点难受啊](https://www.v2ex.com/t/825942) `17条评论` `随想`
+1. [关于持久化的一点疑问](https://www.v2ex.com/t/825944) `18条评论` `程序员`
+1. [老铁们，小老弟有点难受啊](https://www.v2ex.com/t/825942) `18条评论` `随想`
+1. [毕业十年一点感想](https://www.v2ex.com/t/825952) `15条评论` `随想`
 1. [M1Pro 播放 8K 60FPS HDR 出现严重卡顿](https://www.v2ex.com/t/825923) `15条评论` `MacBook Pro`
 1. [你们的 Carplay 使用频率高吗？ carlife 有没必要加盒子升级 CarPlay](https://www.v2ex.com/t/825914) `14条评论` `汽车`
-1. [毕业十年一点感想](https://www.v2ex.com/t/825952) `13条评论` `随想`
 1. [为什么很多制作学习视频的 YouTuber 都喜欢开始前点上蜡烛?谁能告诉我为啥，好想模仿啊，但是需要一个理由](https://www.v2ex.com/t/825918) `13条评论` `生活`
 1. [蒙特利尔转码，是读 3 年的 college 还是 13-18 个月的速成班？](https://www.v2ex.com/t/825868) `13条评论` `问与答`
 1. [今年怎么没听说五福了？](https://www.v2ex.com/t/825912) `12条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [有什么办法能在不使用 WiFi 的条件下备份微信 QQ 聊天记录？](https://www.v2ex.com/t/825941) `9条评论` `Android`
 1. [苹果官方论坛的版主到底是什么来头？是人类么？](https://www.v2ex.com/t/825939) `9条评论` `Apple`
 
-数据更新于 2022-01-03 15:52:44
+数据更新于 2022-01-03 16:26:25
 
 <!-- TODAY END -->
 
