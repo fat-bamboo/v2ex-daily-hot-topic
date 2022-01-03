@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `49条评论` `分享发现`
+1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `37条评论` `分享发现`
+1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `37条评论` `macOS`
+1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919) `37条评论` `生活`
 1. [歌单推荐](https://www.v2ex.com/t/825877) `36条评论` `音乐`
-1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `36条评论` `分享发现`
-1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `36条评论` `macOS`
-1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919) `33条评论` `生活`
 1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `27条评论` `GitHub`
 1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900) `21条评论` `分享创造`
 1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `21条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [manjaro 安装搜狗 输入法](https://www.v2ex.com/t/825913) `9条评论` `Linux`
 1. [有什么办法能在不使用 WiFi 的条件下备份微信 QQ 聊天记录？](https://www.v2ex.com/t/825941) `8条评论` `Android`
 
-数据更新于 2022-01-03 14:32:43
+数据更新于 2022-01-03 14:45:36
 
 <!-- TODAY END -->
 
