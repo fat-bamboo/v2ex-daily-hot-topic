@@ -10,11 +10,11 @@
 
 1. [歌单推荐](https://www.v2ex.com/t/825877) `32条评论` `音乐`
 1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `28条评论` `分享发现`
-1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `26条评论` `分享发现`
-1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `22条评论` `macOS`
+1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `27条评论` `分享发现`
+1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `24条评论` `macOS`
 1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919) `22条评论` `生活`
+1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `22条评论` `程序员`
 1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900) `21条评论` `分享创造`
-1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `20条评论` `程序员`
 1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `13条评论` `macOS`
 1. [蒙特利尔转码，是读 3 年的 college 还是 13-18 个月的速成班？](https://www.v2ex.com/t/825868) `13条评论` `问与答`
 1. [[后端开发] 做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) `12条评论` `职场话题`
@@ -23,16 +23,16 @@
 1. [M1Pro 播放 8K 60FPS HDR 出现严重卡顿](https://www.v2ex.com/t/825923) `9条评论` `MacBook Pro`
 1. [你们的 Carplay 使用频率高吗？ carlife 有没必要加盒子升级 CarPlay](https://www.v2ex.com/t/825914) `9条评论` `汽车`
 1. [manjaro 安装搜狗 输入法](https://www.v2ex.com/t/825913) `8条评论` `Linux`
+1. [求 iOS 开关高德地图系统通知权限的捷径](https://www.v2ex.com/t/825896) `8条评论` `Apple`
 1. [HomePod mini 怎么切换 wifi](https://www.v2ex.com/t/825883) `8条评论` `Apple`
 1. [黑群晖不认希捷 2T 硬盘，求助](https://www.v2ex.com/t/825866) `8条评论` `NAS`
 1. [一键“暂停播放”、“上一首”、“下一首”快捷键，大佬们是如何设置的](https://www.v2ex.com/t/825934) `7条评论` `Windows`
 1. [请问这种字幕的风格是啥？](https://www.v2ex.com/t/825910) `7条评论` `问与答`
-1. [求 iOS 开关高德地图系统通知权限的捷径](https://www.v2ex.com/t/825896) `7条评论` `Apple`
 1. [练习时长 3 年半的 PHPer 写的 Golang 程序，求指点](https://www.v2ex.com/t/825872) `7条评论` `程序员`
 1. [源服务器的 iptables 能检测到 cdn 反代后的真实用户 ip 吗？](https://www.v2ex.com/t/825931) `6条评论` `问与答`
 1. [如果所有人都开禁用搜索引擎重定向的插件，搜索引擎是不是就没那么好用了](https://www.v2ex.com/t/825922) `6条评论` `互联网`
 
-数据更新于 2022-01-03 11:23:57
+数据更新于 2022-01-03 11:36:23
 
 <!-- TODAY END -->
 
