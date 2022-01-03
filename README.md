@@ -11,20 +11,21 @@
 1. [歌单推荐](https://www.v2ex.com/t/825877) `29条评论` `音乐`
 1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `21条评论` `分享发现`
 1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `18条评论` `分享发现`
+1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900) `15条评论` `分享创造`
 1. [蒙特利尔转码，是读 3 年的 college 还是 13-18 个月的速成班？](https://www.v2ex.com/t/825868) `13条评论` `问与答`
 1. [[后端开发] 做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) `12条评论` `职场话题`
-1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `10条评论` `程序员`
+1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `11条评论` `程序员`
+1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `10条评论` `macOS`
+1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `10条评论` `macOS`
 1. [集思广益：打工人做一份应对紧急隔离的常备物资清单](https://www.v2ex.com/t/825899) `10条评论` `问与答`
-1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900) `9条评论` `分享创造`
+1. [HomePod mini 怎么切换 wifi](https://www.v2ex.com/t/825883) `8条评论` `Apple`
 1. [黑群晖不认希捷 2T 硬盘，求助](https://www.v2ex.com/t/825866) `8条评论` `NAS`
-1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `7条评论` `macOS`
-1. [HomePod mini 怎么切换 wifi](https://www.v2ex.com/t/825883) `7条评论` `Apple`
 1. [练习时长 3 年半的 PHPer 写的 Golang 程序，求指点](https://www.v2ex.com/t/825872) `7条评论` `程序员`
 1. [关于黑苹果万兆直连黑群晖 finder 中无自动发现万兆链路 smb 服务的问题](https://www.v2ex.com/t/825898) `6条评论` `问与答`
 1. [WH-1000xm4 有线连接不能用麦克风?](https://www.v2ex.com/t/825873) `6条评论` `问与答`
 1. [windows 下有没有统计进程历史资源占用的程序](https://www.v2ex.com/t/825867) `6条评论` `Windows`
 
-数据更新于 2022-01-03 08:58:19
+数据更新于 2022-01-03 09:24:15
 
 <!-- TODAY END -->
 
