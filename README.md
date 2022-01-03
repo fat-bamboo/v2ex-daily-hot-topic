@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [歌单推荐](https://www.v2ex.com/t/825877) `32条评论` `音乐`
+1. [歌单推荐](https://www.v2ex.com/t/825877) `33条评论` `音乐`
+1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `29条评论` `分享发现`
 1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `28条评论` `分享发现`
-1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `28条评论` `分享发现`
-1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `24条评论` `macOS`
+1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `27条评论` `macOS`
 1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919) `22条评论` `生活`
 1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909) `22条评论` `程序员`
 1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900) `21条评论` `分享创造`
 1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915) `13条评论` `macOS`
 1. [蒙特利尔转码，是读 3 年的 college 还是 13-18 个月的速成班？](https://www.v2ex.com/t/825868) `13条评论` `问与答`
+1. [今年怎么没听说五福了？](https://www.v2ex.com/t/825912) `12条评论` `分享发现`
 1. [[后端开发] 做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) `12条评论` `职场话题`
-1. [今年怎么没听说五福了？](https://www.v2ex.com/t/825912) `11条评论` `分享发现`
 1. [M1Pro 播放 8K 60FPS HDR 出现严重卡顿](https://www.v2ex.com/t/825923) `10条评论` `MacBook Pro`
 1. [集思广益：打工人做一份应对紧急隔离的常备物资清单](https://www.v2ex.com/t/825899) `10条评论` `问与答`
 1. [你们的 Carplay 使用频率高吗？ carlife 有没必要加盒子升级 CarPlay](https://www.v2ex.com/t/825914) `9条评论` `汽车`
@@ -32,7 +32,7 @@
 1. [请问这种字幕的风格是啥？](https://www.v2ex.com/t/825910) `7条评论` `问与答`
 1. [练习时长 3 年半的 PHPer 写的 Golang 程序，求指点](https://www.v2ex.com/t/825872) `7条评论` `程序员`
 
-数据更新于 2022-01-03 11:46:58
+数据更新于 2022-01-03 11:57:23
 
 <!-- TODAY END -->
 
