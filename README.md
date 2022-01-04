@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [3 个了，小米牙刷一过保修期就坏，难道真的有魔法？](https://www.v2ex.com/t/826025) `113条评论` `问与答`
+1. [3 个了，小米牙刷一过保修期就坏，难道真的有魔法？](https://www.v2ex.com/t/826025) `114条评论` `问与答`
 1. [10 年的移动号码封停后续](https://www.v2ex.com/t/826088) `98条评论` `程序员`
-1. [使用 Vim/Nvim 开发三年了](https://www.v2ex.com/t/826068) `80条评论` `Vim`
+1. [使用 Vim/Nvim 开发三年了](https://www.v2ex.com/t/826068) `82条评论` `Vim`
 1. [网易云音乐是如何存活下来的?](https://www.v2ex.com/t/826105) `79条评论` `程序员`
 1. [征婚招聘：给我妹妹招一个男朋友（看不惯她不谈恋爱的行为），坐标成都，没有彩礼](https://www.v2ex.com/t/826133) `77条评论` `分享创造`
 1. [工作第一年，过年给家人带什么礼物？](https://www.v2ex.com/t/826001) `76条评论` `问与答`
-1. [gitee 为何如此拉夸，动不动就 502](https://www.v2ex.com/t/826002) `74条评论` `git`
+1. [gitee 为何如此拉夸，动不动就 502](https://www.v2ex.com/t/826002) `75条评论` `git`
 1. [请教下用 iPhone SE 做主力机的各位](https://www.v2ex.com/t/826005) `71条评论` `iPhone`
 1. [wps 可以取代 office 吗？](https://www.v2ex.com/t/826087) `70条评论` `Windows`
 1. [公司网络限制访问 Google](https://www.v2ex.com/t/825993) `56条评论` `程序员`
@@ -23,7 +23,7 @@
 1. [iPhone 13 Pro 用了不到半个月屏幕就有几条划痕了](https://www.v2ex.com/t/826140) `27条评论` `iPhone`
 1. [我用 Rust 重写（并重新设计）了 frp，性能和资源占用有很大改善](https://www.v2ex.com/t/826182) `26条评论` `分享创造`
 1. [NFT 是什么？值得入场吗？](https://www.v2ex.com/t/825985) `23条评论` `问与答`
-1. [请教一个非常简单的 c 语言内存申请问题](https://www.v2ex.com/t/826198) `21条评论` `程序员`
+1. [请教一个非常简单的 c 语言内存申请问题](https://www.v2ex.com/t/826198) `22条评论` `程序员`
 1. [一个简单低级的代码逻辑问题](https://www.v2ex.com/t/826136) `21条评论` `Python`
 1. [mac 平台下，使用 Safari 浏览 Google 和 youtube 会出现明显卡顿和渲染错误，其他网站没有问题。用 chrome 浏览却很流畅，是 google 在网页对 Safari 动了手脚，还是 Safari 本身的性能不行？](https://www.v2ex.com/t/826169) `19条评论` `问与答`
 1. [2022 年，现在的黑苹果解决方案是什么?](https://www.v2ex.com/t/826113) `19条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [卷一卷， Python 通用验证码识别库开源](https://www.v2ex.com/t/826038) `18条评论` `Python`
 1. [android 和 ios 端扫一扫第三方库有没有推荐的？](https://www.v2ex.com/t/826153) `17条评论` `Android`
 
-数据更新于 2022-01-04 14:31:57
+数据更新于 2022-01-04 14:45:49
 
 <!-- TODAY END -->
 
