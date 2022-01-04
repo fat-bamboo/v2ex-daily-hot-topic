@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+1. [NFT 是什么？值得入场吗？](https://www.v2ex.com/t/825985) `10条评论` `问与答`
+
+数据更新于 2022-01-04 01:08:45
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875) `52条评论` `分享发现`
 1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917) `48条评论` `macOS`
 1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) `45条评论` `分享发现`
@@ -31,38 +41,6 @@
 1. [今年怎么没听说五福了？](https://www.v2ex.com/t/825912) `12条评论` `分享发现`
 1. [[后端开发] 做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) `12条评论` `职场话题`
 1. [最近或者年初还有远程的工作机会吗](https://www.v2ex.com/t/825950) `10条评论` `职场话题`
-
-数据更新于 2022-01-03 23:56:56
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [22 年想买车了, 是买混动还是纯电](https://www.v2ex.com/t/825745) `58条评论` `汽车`
-1. [想在公司电脑上架个 openvpn 然后家里连过去办公，目前碰到一些困难](https://www.v2ex.com/t/825806) `50条评论` `程序员`
-1. [小米 12 上手了，有个问题？](https://www.v2ex.com/t/825795) `47条评论` `问与答`
-1. [小米 10s 值得买吗？买过的说下，想换手机](https://www.v2ex.com/t/825839) `41条评论` `程序员`
-1. [Macbook Air M1 16G 开发够用吗？有什么缺点](https://www.v2ex.com/t/825789) `33条评论` `程序员`
-1. [如果我到 30 岁还没有和自己喜欢的女孩结婚，就来场说走就走的旅行吧。](https://www.v2ex.com/t/825819) `29条评论` `程序员`
-1. [4000-5000 的女生用开发机推荐](https://www.v2ex.com/t/825766) `26条评论` `问与答`
-1. [Apple Home 天天接到澳门威尼斯邀请，有啥办法屏蔽吗？](https://www.v2ex.com/t/825794) `26条评论` `Apple`
-1. [吐槽最近带的一个"新人"](https://www.v2ex.com/t/825849) `23条评论` `职场话题`
-1. [偷懒求个 m1 mba 软件安装指南](https://www.v2ex.com/t/825761) `19条评论` `MacBook Air`
-1. [metamask 小狐狸钱包中导入 BCH/LTC 的代号是什么？](https://www.v2ex.com/t/825811) `17条评论` `程序员`
-1. [揭秘一个黑心的装修公司，单纯的人总是容易受伤](https://www.v2ex.com/t/825830) `15条评论` `随想`
-1. [对京东的售后服务“非常失望”](https://www.v2ex.com/t/825838) `13条评论` `京东`
-1. [苹果 MacBook Air M1 外接 2 块屏幕，同时使用虚拟机够用吗？](https://www.v2ex.com/t/825829) `13条评论` `MacBook Air`
-1. [macOS 的软件是不是不会往自己那个.app 里写入信息？](https://www.v2ex.com/t/825827) `13条评论` `macOS`
-1. [女朋友太瘦怎么办](https://www.v2ex.com/t/825820) `13条评论` `问与答`
-1. [京东商品页在 firefox 上显示不正常，不显示价格等信息](https://www.v2ex.com/t/825767) `13条评论` `全球工单系统`
-1. [请教下 MacBook Pro 14/16 上面观看杜比视界/HDR 的时候亮度为什么不是自动？](https://www.v2ex.com/t/825802) `12条评论` `Apple`
-1. [请问是否有不禁止迅雷的 tracker](https://www.v2ex.com/t/825801) `12条评论` `问与答`
-1. [迫于工作繁忙，出售 switch 美版加强续航版，购于 2020-02-28 京东，带 32g 内存。坐标广州](https://www.v2ex.com/t/825751) `12条评论` `京东`
-1. [关于 Linux based Server 文件分享](https://www.v2ex.com/t/825835) `11条评论` `Linux`
-1. [老生常谈了， macOS 为啥越来越慢。Windows 也这样吗？](https://www.v2ex.com/t/825865) `10条评论` `macOS`
-1. [求电动升降桌腿推荐-桌面实木重 50kg](https://www.v2ex.com/t/825786) `10条评论` `问与答`
 
 <!-- YESTERDAY END -->
 
