@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2022 年想买个安卓手机，求推荐型号](https://www.v2ex.com/t/827105) `66条评论` `Android`
+1. [2022 年想买个安卓手机，求推荐型号](https://www.v2ex.com/t/827105) `68条评论` `Android`
 1. [大家在服务器上都搭建什么好用的服务](https://www.v2ex.com/t/827109) `56条评论` `问与答`
 1. [每次 homebrew 装东西都怕断了](https://www.v2ex.com/t/827088) `33条评论` `macOS`
 1. [Openwrt 桥接后 IPv6 问题求助](https://www.v2ex.com/t/827161) `27条评论` `宽带症候群`
@@ -25,14 +25,14 @@
 1. [想做个剪贴板同步的程序，请大家来看看我的想法吧](https://www.v2ex.com/t/827112) `12条评论` `分享创造`
 1. [[续]关于补牙的二三事](https://www.v2ex.com/t/827103) `12条评论` `生活`
 1. [我用双网卡被网管发现了](https://www.v2ex.com/t/827166) `11条评论` `路由器`
+1. [火灾后租房搬家](https://www.v2ex.com/t/827162) `11条评论` `问与答`
 1. [你们是怎么将 iPhone 照片导入至移动硬盘的？](https://www.v2ex.com/t/827114) `11条评论` `macOS`
 1. [按 touchID 解锁 MBP，弹出提示询问是否关机或重新启动](https://www.v2ex.com/t/827134) `10条评论` `MacBook Pro`
-1. [火灾后租房搬家](https://www.v2ex.com/t/827162) `9条评论` `问与答`
 1. [欧版 MIUI13 的 Google Play 服务也被阉割了？](https://www.v2ex.com/t/827138) `9条评论` `MIUI`
 1. [12 代处理器黑苹果预算和配置参考](https://www.v2ex.com/t/827092) `9条评论` `Apple`
 1. [电池循环 50 次健康度就 89 了这正常么](https://www.v2ex.com/t/827172) `8条评论` `macOS`
 
-数据更新于 2022-01-09 14:30:31
+数据更新于 2022-01-09 14:45:42
 
 <!-- TODAY END -->
 
