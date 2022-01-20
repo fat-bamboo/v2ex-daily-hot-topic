@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [年会活动 哪些才是程序员真的喜欢的](https://www.v2ex.com/t/829390) `66条评论` `程序员`
-1. [List list=new ArrayList 写法的意义是什么](https://www.v2ex.com/t/829411) `36条评论` `Java`
+1. [年会活动 哪些才是程序员真的喜欢的](https://www.v2ex.com/t/829390) `70条评论` `程序员`
+1. [List list=new ArrayList 写法的意义是什么](https://www.v2ex.com/t/829411) `37条评论` `Java`
 1. [G Suite 免费版没了！](https://www.v2ex.com/t/829376) `26条评论` `Google`
 1. [钉钉是怎么强奸了我的电脑](https://www.v2ex.com/t/829393) `23条评论` `Apple`
 1. [mysql 服务器用什么比较快？](https://www.v2ex.com/t/829361) `23条评论` `程序员`
@@ -27,12 +27,12 @@
 1. [MBP 14 寸可以使用小米 67W 充电器吗？](https://www.v2ex.com/t/829367) `15条评论` `Apple`
 1. [macOS 系统、输入法卡顿，需要每天重启或重新登陆，这个问题究竟怎么解决？](https://www.v2ex.com/t/829397) `14条评论` `Apple`
 1. [有人尝试过 iPhone 官方以旧换新吗？](https://www.v2ex.com/t/829385) `14条评论` `Apple`
-1. [21 年到现在亏出翔了](https://www.v2ex.com/t/829400) `11条评论` `投资`
+1. [计算机专业女生电脑求推荐](https://www.v2ex.com/t/829426) `13条评论` `问与答`
+1. [21 年到现在亏出翔了](https://www.v2ex.com/t/829400) `12条评论` `投资`
 1. [微软收购动视暴雪了](https://www.v2ex.com/t/829375) `11条评论` `Xbox One`
-1. [QQ 音乐是如何知道我在起点小说里看到了了《赤伶》这首歌并在搜索推荐给我呢](https://www.v2ex.com/t/829383) `8条评论` `分享发现`
-1. [大家觉得自己能在在一家公司最久干多长时间？](https://www.v2ex.com/t/829423) `6条评论` `问与答`
+1. [迫于挂科压力，大一女生如何掌握学习编程的姿势](https://www.v2ex.com/t/829431) `9条评论` `问与答`
 
-数据更新于 2022-01-20 04:28:07
+数据更新于 2022-01-20 04:48:28
 
 <!-- TODAY END -->
 
