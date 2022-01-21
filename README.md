@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Javaer 用了一下 Go web 开发，感觉开发体验倒退了](https://www.v2ex.com/t/829692) `137条评论` `Java`
+1. [Javaer 用了一下 Go web 开发，感觉开发体验倒退了](https://www.v2ex.com/t/829692) `138条评论` `Java`
 1. [关于第一次相亲，感觉好累呀！](https://www.v2ex.com/t/829633) `133条评论` `随想`
 1. [操作数据库 update 忘了加 where](https://www.v2ex.com/t/829615) `87条评论` `数据库`
 1. [阿里小号又开通 20 元续费了](https://www.v2ex.com/t/829607) `77条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [Springboot 出 3.0 了，有公司跃跃欲试的吗？](https://www.v2ex.com/t/829676) `21条评论` `程序员`
 1. [V 友们最近都在折腾啥](https://www.v2ex.com/t/829698) `20条评论` `问与答`
 
-数据更新于 2022-01-21 23:36:59
+数据更新于 2022-01-21 23:47:19
 
 <!-- TODAY END -->
 
