@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [计算机专业女生求专业必需品推荐](https://www.v2ex.com/t/829598) `68条评论` `问与答`
-1. [阿里小号又开通 20 元续费了](https://www.v2ex.com/t/829607) `40条评论` `分享发现`
-1. [操作数据库 update 忘了加 where](https://www.v2ex.com/t/829615) `40条评论` `数据库`
-1. [关于第一次相亲，感觉好累呀！](https://www.v2ex.com/t/829633) `38条评论` `随想`
-1. [睡够 9 个小时，早上起来感觉状态很好，来上一大杯咖啡，看见订阅的周刊更新了, 惬意的坐在椅子上，刷着周刊，看见一篇有意思的文章。小口抿着咖啡，一字一句的看着文章中的有趣观点 突然有种上头的感觉，好爽啊..](https://www.v2ex.com/t/829619) `33条评论` `生活`
+1. [操作数据库 update 忘了加 where](https://www.v2ex.com/t/829615) `46条评论` `数据库`
+1. [阿里小号又开通 20 元续费了](https://www.v2ex.com/t/829607) `41条评论` `分享发现`
+1. [关于第一次相亲，感觉好累呀！](https://www.v2ex.com/t/829633) `41条评论` `随想`
+1. [睡够 9 个小时，早上起来感觉状态很好，来上一大杯咖啡，看见订阅的周刊更新了, 惬意的坐在椅子上，刷着周刊，看见一篇有意思的文章。小口抿着咖啡，一字一句的看着文章中的有趣观点 突然有种上头的感觉，好爽啊..](https://www.v2ex.com/t/829619) `34条评论` `生活`
 1. [如何不走相亲路线找对象 or 认识异性？](https://www.v2ex.com/t/829629) `26条评论` `问与答`
-1. [探讨一种通过语音电话上网的方法](https://www.v2ex.com/t/829625) `16条评论` `互联网`
+1. [探讨一种通过语音电话上网的方法](https://www.v2ex.com/t/829625) `18条评论` `互联网`
 1. [苹果会推出 27 寸的 Pro Display XDR 吗，或者更新下 LG UltraFine](https://www.v2ex.com/t/829603) `16条评论` `Apple`
 1. [现在 apple watch7 值得入手吗？](https://www.v2ex.com/t/829608) `15条评论` `Apple`
 1. [1Password 又有融资了](https://www.v2ex.com/t/829613) `14条评论` `分享发现`
@@ -24,15 +24,15 @@
 1. [安卓手机可以安装双系统吗？](https://www.v2ex.com/t/829612) `11条评论` `问与答`
 1. [一个快速浏览 github 源代码的图形化 Web 工具](https://www.v2ex.com/t/829638) `9条评论` `分享创造`
 1. [js 如何实现动态修改 class 样式类中的值，不是不能修改的吗？](https://www.v2ex.com/t/829636) `8条评论` `JavaScript`
+1. [mac 外接 27 寸 4k 的显示器会模糊吗？](https://www.v2ex.com/t/829631) `8条评论` `Apple`
+1. [Java on Visual Studio Code 的更新 – 2022 年 1 月](https://www.v2ex.com/t/829621) `8条评论` `Visual Studio Code`
 1. [北京行程卡加星，都有哪些地方限制了加星返乡呢？](https://www.v2ex.com/t/829614) `8条评论` `问与答`
-1. [mac 外接 27 寸 4k 的显示器会模糊吗？](https://www.v2ex.com/t/829631) `7条评论` `Apple`
 1. [求助 2018 款 电脑无限重启](https://www.v2ex.com/t/829596) `7条评论` `macOS`
 1. [MacOS 腾讯会议咋每次要用的时候都打不开，要重装才行](https://www.v2ex.com/t/829594) `7条评论` `macOS`
 1. [终端命令下,什么命令 node 可以同时运行多个*.js 文件](https://www.v2ex.com/t/829637) `6条评论` `Node.js`
 1. [关于 F 搜 的广告](https://www.v2ex.com/t/829635) `6条评论` `程序员`
-1. [Java on Visual Studio Code 的更新 – 2022 年 1 月](https://www.v2ex.com/t/829621) `6条评论` `Visual Studio Code`
 
-数据更新于 2022-01-21 04:48:58
+数据更新于 2022-01-21 04:59:12
 
 <!-- TODAY END -->
 
