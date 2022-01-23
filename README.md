@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更安全](https://www.v2ex.com/t/830030) `36条评论` `程序员`
-1. [现在上海电信还会因为用 ddns 封宽带吗？](https://www.v2ex.com/t/830018) `35条评论` `宽带症候群`
-1. [关于第一次相亲，感觉好累呀！ [part2]](https://www.v2ex.com/t/830021) `12条评论` `生活`
+1. [对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更安全](https://www.v2ex.com/t/830030) `43条评论` `程序员`
+1. [现在上海电信还会因为用 ddns 封宽带吗？](https://www.v2ex.com/t/830018) `36条评论` `宽带症候群`
+1. [关于第一次相亲，感觉好累呀！ [part2]](https://www.v2ex.com/t/830021) `17条评论` `生活`
+1. [有没有用 chromium 的](https://www.v2ex.com/t/830020) `11条评论` `Linux`
 1. [想找个写日记的 App 需要完全离线 或者加密上传 iCloud](https://www.v2ex.com/t/830019) `9条评论` `iCloud`
 1. [二十岁就得了前列腺炎](https://www.v2ex.com/t/830016) `9条评论` `健康`
-1. [有没有用 chromium 的](https://www.v2ex.com/t/830020) `8条评论` `Linux`
 
-数据更新于 2022-01-23 03:55:55
+数据更新于 2022-01-23 04:20:41
 
 <!-- TODAY END -->
 
