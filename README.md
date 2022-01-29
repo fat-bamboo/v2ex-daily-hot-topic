@@ -20,7 +20,7 @@
 1. [大家都放假了，是谁还在工位上逛 v 站——啊，是我，打工人](https://www.v2ex.com/t/831234) `24条评论` `问与答`
 1. [恶心的 eclipse 在构建代码瞬间刚好断电代码变成空白](https://www.v2ex.com/t/831307) `21条评论` `Java`
 1. [学生成绩查询系统，用 golang 还是 thinkphp 写？前端是 vue](https://www.v2ex.com/t/831259) `21条评论` `问与答`
-1. [Windows 电脑重装怎么保留各种聊天记录](https://www.v2ex.com/t/831320) `19条评论` `问与答`
+1. [Windows 电脑重装怎么保留各种聊天记录](https://www.v2ex.com/t/831320) `20条评论` `问与答`
 1. [哪位在中国境内的， axios 访问 google 返回什么错误啊？](https://www.v2ex.com/t/831328) `18条评论` `API`
 1. [手机安装 Telegram 被警察叔叔教育](https://www.v2ex.com/t/831329) `18条评论` `Telegram`
 1. [19 年的 Mbp 16，可以升 Monterey 么？不知道会不会卡顿](https://www.v2ex.com/t/831312) `17条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [appid 不小心冲进去钱怎么办](https://www.v2ex.com/t/831220) `14条评论` `macOS`
 1. [小米的质量是真的差](https://www.v2ex.com/t/831324) `13条评论` `全球工单系统`
 
-数据更新于 2022-01-29 17:43:13
+数据更新于 2022-01-29 17:57:10
 
 <!-- TODAY END -->
 
