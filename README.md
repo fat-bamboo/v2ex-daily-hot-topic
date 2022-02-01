@@ -14,10 +14,10 @@
 1. [广东电信用 iOS 的大佬们，你们的微信加载慢吗？](https://www.v2ex.com/t/831571) `27条评论` `宽带症候群`
 1. [帮忙推荐净水和软路由](https://www.v2ex.com/t/831590) `26条评论` `买买买`
 1. [用 PVE 和 Win10 下开 vbox 或者 hyper-v 相比的优势在哪里？](https://www.v2ex.com/t/831564) `20条评论` `Windows`
+1. [诗词版 wordle 来啦，顺祝新春快乐](https://www.v2ex.com/t/831568) `19条评论` `分享创造`
 1. [bootcdn 挂了](https://www.v2ex.com/t/831578) `19条评论` `互联网`
 1. [我看现在有很多国产第三方的 Apple Pencil，有没有用过的老哥说说好用不](https://www.v2ex.com/t/831599) `19条评论` `iPad`
-1. [诗词版 wordle 来啦，顺祝新春快乐](https://www.v2ex.com/t/831568) `18条评论` `分享创造`
-1. [走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) `17条评论` `生活`
+1. [走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) `19条评论` `生活`
 1. [现在开一个新的 Python 项目，哪个包管理器比较合适？哪种打包分发方式（不需要编译）比较合适？](https://www.v2ex.com/t/831583) `17条评论` `Python`
 1. [可以过渡用的盗版软件 for mac](https://www.v2ex.com/t/831625) `17条评论` `macOS`
 1. [小而美 空间降不下去了啊](https://www.v2ex.com/t/831608) `15条评论` `微信`
@@ -32,7 +32,7 @@
 1. [有没有好玩的 VR 游戏推荐下](https://www.v2ex.com/t/831589) `9条评论` `虚拟现实`
 1. [iOS 如何不让 Safari 浏览器书签中显示来自运营商的内容](https://www.v2ex.com/t/831573) `9条评论` `iPhone`
 
-数据更新于 2022-02-01 21:56:14
+数据更新于 2022-02-01 22:16:47
 
 <!-- TODAY END -->
 
