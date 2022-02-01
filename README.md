@@ -19,8 +19,8 @@
 1. [我看现在有很多国产第三方的 Apple Pencil，有没有用过的老哥说说好用不](https://www.v2ex.com/t/831599) `18条评论` `iPad`
 1. [可以过渡用的盗版软件 for mac](https://www.v2ex.com/t/831625) `17条评论` `macOS`
 1. [现在开一个新的 Python 项目，哪个包管理器比较合适？哪种打包分发方式（不需要编译）比较合适？](https://www.v2ex.com/t/831583) `16条评论` `Python`
+1. [走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) `15条评论` `生活`
 1. [小而美 空间降不下去了啊](https://www.v2ex.com/t/831608) `15条评论` `微信`
-1. [走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) `14条评论` `生活`
 1. [浏览器里“运行”curl](https://www.v2ex.com/t/831597) `14条评论` `分享创造`
 1. [4 款路由器为什么最贵的一款路由器测速最慢？](https://www.v2ex.com/t/831577) `13条评论` `宽带症候群`
 1. [[1keydd inst.sh] 显进度+镜像永不失联， 1keydd 一键 DD 脚本支持一键安装纯净版 debian 与自定镜像](https://www.v2ex.com/t/831591) `11条评论` `Linux`
@@ -32,7 +32,7 @@
 1. [iOS 如何不让 Safari 浏览器书签中显示来自运营商的内容](https://www.v2ex.com/t/831573) `9条评论` `iPhone`
 1. [Python Type 返回值类型](https://www.v2ex.com/t/831630) `8条评论` `Python`
 
-数据更新于 2022-02-01 18:58:24
+数据更新于 2022-02-01 19:17:21
 
 <!-- TODAY END -->
 
