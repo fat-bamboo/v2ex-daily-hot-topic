@@ -22,8 +22,8 @@
 1. [可以过渡用的盗版软件 for mac](https://www.v2ex.com/t/831625) `17条评论` `macOS`
 1. [小而美 空间降不下去了啊](https://www.v2ex.com/t/831608) `15条评论` `微信`
 1. [浏览器里“运行”curl](https://www.v2ex.com/t/831597) `14条评论` `分享创造`
+1. [[1keydd inst.sh] 显进度+镜像永不失联， 1keydd 一键 DD 脚本支持一键安装纯净版 debian 与自定镜像](https://www.v2ex.com/t/831591) `13条评论` `Linux`
 1. [4 款路由器为什么最贵的一款路由器测速最慢？](https://www.v2ex.com/t/831577) `13条评论` `宽带症候群`
-1. [[1keydd inst.sh] 显进度+镜像永不失联， 1keydd 一键 DD 脚本支持一键安装纯净版 debian 与自定镜像](https://www.v2ex.com/t/831591) `12条评论` `Linux`
 1. [关于 BUG10 的网络共享的一些问题。](https://www.v2ex.com/t/831572) `11条评论` `问与答`
 1. [nginx 想针对不同 API 限制不同请求频次应该怎么写？](https://www.v2ex.com/t/831569) `11条评论` `NGINX`
 1. [一张好显卡，除了游戏还能干什么（非专业人士）](https://www.v2ex.com/t/831620) `10条评论` `硬件`
@@ -32,7 +32,7 @@
 1. [有没有好玩的 VR 游戏推荐下](https://www.v2ex.com/t/831589) `9条评论` `虚拟现实`
 1. [iOS 如何不让 Safari 浏览器书签中显示来自运营商的内容](https://www.v2ex.com/t/831573) `9条评论` `iPhone`
 
-数据更新于 2022-02-01 23:31:04
+数据更新于 2022-02-01 23:45:57
 
 <!-- TODAY END -->
 
