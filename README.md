@@ -32,7 +32,7 @@
 1. [m1 系列 macbook 的内存](https://www.v2ex.com/t/831645) `11条评论` `问与答`
 1. [2017 款 big sur 升级到 Monterey12.2，然后关了 ocsp，太流畅了。](https://www.v2ex.com/t/831696) `10条评论` `macOS`
 
-数据更新于 2022-02-02 21:45:47
+数据更新于 2022-02-02 21:56:13
 
 <!-- TODAY END -->
 
