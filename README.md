@@ -10,7 +10,7 @@
 
 1. [最近几年](https://www.v2ex.com/t/831756) `74条评论` `时间`
 1. [密码管理软件它最强吗？](https://www.v2ex.com/t/831755) `57条评论` `iPhone`
-1. [2022 年 2 月，两步验证登录 app，哪个好用？（Microsoft / Google Authenticator / Authy / …… ）](https://www.v2ex.com/t/831772) `54条评论` `信息安全`
+1. [2022 年 2 月，两步验证登录 app，哪个好用？（Microsoft / Google Authenticator / Authy / …… ）](https://www.v2ex.com/t/831772) `55条评论` `信息安全`
 1. [境外银行卡在国内怎么消费](https://www.v2ex.com/t/831758) `51条评论` `问与答`
 1. [滔博运动官方旗舰店，太恶心了](https://www.v2ex.com/t/831782) `45条评论` `京东`
 1. [是否存在这样一种设备 / 方案（自建小型 NAS？）](https://www.v2ex.com/t/831783) `40条评论` `NAS`
@@ -32,7 +32,7 @@
 1. [搭了个 blog，现在有五篇文章了，欢迎大佬来玩](https://www.v2ex.com/t/831817) `11条评论` `程序员`
 1. [求助：目前中国区火币钱包的 usdt 怎样兑现。](https://www.v2ex.com/t/831747) `11条评论` `问与答`
 
-数据更新于 2022-02-03 22:40:02
+数据更新于 2022-02-03 22:50:16
 
 <!-- TODAY END -->
 
