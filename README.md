@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `33条评论` `iOS`
+1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `34条评论` `iOS`
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037) `22条评论` `移动开发`
-1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `17条评论` `iPhone`
-1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043) `15条评论` `云计算`
+1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `18条评论` `iPhone`
+1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043) `16条评论` `云计算`
 1. [Windows11 不能打开 QQ，找不到原因](https://www.v2ex.com/t/832055) `13条评论` `云修电脑`
 1. [有人 25 岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) `13条评论` `生活`
 1. [问下 IPLC 和 GIA 线路的的实际区别 以及 影响网络体验的最主要因素](https://www.v2ex.com/t/832026) `13条评论` `宽带症候群`
@@ -26,7 +26,7 @@
 1. [iOS 进度管理的 app 推荐？](https://www.v2ex.com/t/832056) `6条评论` `iOS`
 1. [硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) `6条评论` `硬件`
 
-数据更新于 2022-02-06 08:49:40
+数据更新于 2022-02-06 09:00:07
 
 <!-- TODAY END -->
 
