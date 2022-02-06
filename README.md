@@ -8,29 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
-1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `39条评论` `iOS`
+1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `40条评论` `iOS`
+1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `26条评论` `iPhone`
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037) `23条评论` `移动开发`
-1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `23条评论` `iPhone`
 1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043) `16条评论` `云计算`
 1. [Windows11 不能打开 QQ，找不到原因](https://www.v2ex.com/t/832055) `15条评论` `云修电脑`
 1. [有人 25 岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) `13条评论` `生活`
 1. [问下 IPLC 和 GIA 线路的的实际区别 以及 影响网络体验的最主要因素](https://www.v2ex.com/t/832026) `13条评论` `宽带症候群`
+1. [终于体验到 inter mbp 的一个好处](https://www.v2ex.com/t/832070) `12条评论` `Apple`
 1. [提高编程效率的方法，抛砖引玉](https://www.v2ex.com/t/832061) `12条评论` `程序员`
 1. [三年前端准备辞职了，大伙看下简历行吗](https://www.v2ex.com/t/832042) `12条评论` `职场话题`
-1. [终于体验到 inter mbp 的一个好处](https://www.v2ex.com/t/832070) `10条评论` `Apple`
 1. [macOS ClashX pro 更新节点后闪退，再次启动后所有节点 fail，无法上网](https://www.v2ex.com/t/832049) `10条评论` `macOS`
 1. [据说公务员都没年终奖了](https://www.v2ex.com/t/832046) `10条评论` `分享发现`
 1. [迫于宽带下月到期，北京联通宽带现在办哪个套餐比较合适？](https://www.v2ex.com/t/832058) `9条评论` `宽带症候群`
 1. [小米手环 6 请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) `9条评论` `问与答`
 1. [分享多年使用 Nvim/Vim 总结的一些小技巧](https://www.v2ex.com/t/832068) `8条评论` `Vim`
+1. [求软路由推荐](https://www.v2ex.com/t/832092) `7条评论` `问与答`
 1. [在学校读书应该学点什么？](https://www.v2ex.com/t/832065) `7条评论` `大学`
 1. [iOS 进度管理的 app 推荐？](https://www.v2ex.com/t/832056) `7条评论` `iOS`
 1. [iPhone 用 unc0ver 越狱， Restore RootFS 后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) `7条评论` `Apple`
-1. [求软路由推荐](https://www.v2ex.com/t/832092) `6条评论` `问与答`
 1. [3 万亿刀市值的公司，一个隔空投送十几年了搞不定](https://www.v2ex.com/t/832076) `6条评论` `iOS`
 1. [硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) `6条评论` `硬件`
 
-数据更新于 2022-02-06 10:22:04
+数据更新于 2022-02-06 10:38:04
 
 <!-- TODAY END -->
 
