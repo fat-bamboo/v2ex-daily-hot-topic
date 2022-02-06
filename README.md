@@ -10,7 +10,7 @@
 
 1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `39条评论` `iOS`
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037) `23条评论` `移动开发`
-1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `21条评论` `iPhone`
+1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `22条评论` `iPhone`
 1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043) `16条评论` `云计算`
 1. [Windows11 不能打开 QQ，找不到原因](https://www.v2ex.com/t/832055) `15条评论` `云修电脑`
 1. [有人 25 岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) `13条评论` `生活`
@@ -28,7 +28,7 @@
 1. [iPhone 用 unc0ver 越狱， Restore RootFS 后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) `7条评论` `Apple`
 1. [硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) `6条评论` `硬件`
 
-数据更新于 2022-02-06 09:47:31
+数据更新于 2022-02-06 09:57:56
 
 <!-- TODAY END -->
 
