@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `37条评论` `iOS`
+1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064) `39条评论` `iOS`
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037) `23条评论` `移动开发`
 1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072) `21条评论` `iPhone`
 1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043) `16条评论` `云计算`
@@ -23,12 +23,12 @@
 1. [迫于宽带下月到期，北京联通宽带现在办哪个套餐比较合适？](https://www.v2ex.com/t/832058) `9条评论` `宽带症候群`
 1. [小米手环 6 请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) `9条评论` `问与答`
 1. [分享多年使用 Nvim/Vim 总结的一些小技巧](https://www.v2ex.com/t/832068) `8条评论` `Vim`
+1. [在学校读书应该学点什么？](https://www.v2ex.com/t/832065) `7条评论` `大学`
+1. [iOS 进度管理的 app 推荐？](https://www.v2ex.com/t/832056) `7条评论` `iOS`
 1. [iPhone 用 unc0ver 越狱， Restore RootFS 后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) `7条评论` `Apple`
-1. [在学校读书应该学点什么？](https://www.v2ex.com/t/832065) `6条评论` `大学`
-1. [iOS 进度管理的 app 推荐？](https://www.v2ex.com/t/832056) `6条评论` `iOS`
 1. [硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) `6条评论` `硬件`
 
-数据更新于 2022-02-06 09:37:08
+数据更新于 2022-02-06 09:47:31
 
 <!-- TODAY END -->
 
