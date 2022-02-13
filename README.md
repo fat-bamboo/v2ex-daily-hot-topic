@@ -8,20 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
+1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `35条评论` `Google`
 1. [纠结是否要跳槽](https://www.v2ex.com/t/833515) `34条评论` `职场话题`
-1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `34条评论` `Google`
-1. [伸手党真是烦](https://www.v2ex.com/t/833524) `31条评论` `程序员`
+1. [伸手党真是烦](https://www.v2ex.com/t/833524) `32条评论` `程序员`
 1. [学用 vim 中，发现小键盘尤其困难啊？](https://www.v2ex.com/t/833502) `27条评论` `问与答`
 1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `27条评论` `优惠信息`
-1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `18条评论` `宽带症候群`
+1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `19条评论` `宽带症候群`
 1. [Mac 电脑贴不贴膜](https://www.v2ex.com/t/833518) `14条评论` `MacBook`
 1. [想买一个妙控键盘 有第三方推荐的吗](https://www.v2ex.com/t/833504) `14条评论` `iPad`
 1. [看 Hacker News 有感](https://www.v2ex.com/t/833538) `12条评论` `随想`
 1. [一个可以在 Windows 11 状态栏上显示网速的小工具](https://www.v2ex.com/t/833527) `9条评论` `分享创造`
+1. [iOS 上第三方输入法纠结](https://www.v2ex.com/t/833535) `8条评论` `iPhone`
 1. [mx keys 和妙控键盘（剪刀脚）的手感对比有没有用过的 xd 说说](https://www.v2ex.com/t/833509) `8条评论` `Apple`
+1. [大金空调实际使用体验](https://www.v2ex.com/t/833540) `7条评论` `问与答`
 1. [原团队用的 laravel,现在需要用 Java /spring 做新项目,如何选择框架?](https://www.v2ex.com/t/833522) `6条评论` `Java`
 
-数据更新于 2022-02-13 07:48:56
+数据更新于 2022-02-13 07:59:15
 
 <!-- TODAY END -->
 
