@@ -24,15 +24,15 @@
 1. [想买一个妙控键盘 有第三方推荐的吗](https://www.v2ex.com/t/833504) `14条评论` `iPad`
 1. [为什么 Windows 没有说话或打字让系统直接做某件事的功能呢？](https://www.v2ex.com/t/833589) `13条评论` `问与答`
 1. [iOS 上第三方输入法纠结](https://www.v2ex.com/t/833535) `13条评论` `iPhone`
-1. [因为特殊原因我需要在 macOS M1 上使用 windows 版的 office 2010 全家桶，有没有啥可行的魔法方法啊](https://www.v2ex.com/t/833591) `11条评论` `macOS`
+1. [因为特殊原因我需要在 macOS M1 上使用 windows 版的 office 2010 全家桶，有没有啥可行的魔法方法啊](https://www.v2ex.com/t/833591) `12条评论` `macOS`
 1. [J1900 平台 Nas 通过 SMB potplayer 看 4k 蓝光电影卡顿](https://www.v2ex.com/t/833575) `11条评论` `NAS`
 1. [我有个朋友 母亲在外打工 马上满 50 不缴社保了 应该以怎样的方式继续缴纳呢](https://www.v2ex.com/t/833555) `10条评论` `问与答`
 1. [一个可以在 Windows 11 状态栏上显示网速的小工具](https://www.v2ex.com/t/833527) `10条评论` `分享创造`
 1. [有从开发转到产品的吗？愿意分享经验的请进来聊聊](https://www.v2ex.com/t/833587) `9条评论` `程序员`
-1. [用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) `8条评论` `服务器`
-1. [[发布] Wordle 猜单词：我们做了一款 Wordle 练习工具，快来试试吧 🎮](https://www.v2ex.com/t/833567) `8条评论` `分享创造`
+1. [用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) `9条评论` `服务器`
+1. [golang 有 array 为啥要 slice](https://www.v2ex.com/t/833583) `8条评论` `Go 编程语言`
 
-数据更新于 2022-02-13 13:19:18
+数据更新于 2022-02-13 13:29:43
 
 <!-- TODAY END -->
 
