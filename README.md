@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [纠结是否要跳槽](https://www.v2ex.com/t/833515) `33条评论` `职场话题`
-1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `32条评论` `Google`
+1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `33条评论` `Google`
+1. [伸手党真是烦](https://www.v2ex.com/t/833524) `30条评论` `程序员`
 1. [学用 vim 中，发现小键盘尤其困难啊？](https://www.v2ex.com/t/833502) `27条评论` `问与答`
-1. [伸手党真是烦](https://www.v2ex.com/t/833524) `27条评论` `程序员`
-1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `26条评论` `优惠信息`
+1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `27条评论` `优惠信息`
 1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `18条评论` `宽带症候群`
 1. [Mac 电脑贴不贴膜](https://www.v2ex.com/t/833518) `14条评论` `MacBook`
 1. [想买一个妙控键盘 有第三方推荐的吗](https://www.v2ex.com/t/833504) `14条评论` `iPad`
@@ -21,7 +21,7 @@
 1. [mx keys 和妙控键盘（剪刀脚）的手感对比有没有用过的 xd 说说](https://www.v2ex.com/t/833509) `8条评论` `Apple`
 1. [原团队用的 laravel,现在需要用 Java /spring 做新项目,如何选择框架?](https://www.v2ex.com/t/833522) `6条评论` `Java`
 
-数据更新于 2022-02-13 07:27:59
+数据更新于 2022-02-13 07:38:22
 
 <!-- TODAY END -->
 
