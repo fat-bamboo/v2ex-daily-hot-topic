@@ -9,30 +9,30 @@
 <!-- TODAY BEGIN -->
 
 1. [纠结是否要跳槽](https://www.v2ex.com/t/833515) `55条评论` `职场话题`
-1. [伸手党真是烦](https://www.v2ex.com/t/833524) `49条评论` `程序员`
+1. [伸手党真是烦](https://www.v2ex.com/t/833524) `50条评论` `程序员`
 1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `40条评论` `Google`
+1. [过去的 100 天，我尝试了每日 16/8 断食， Ask me Anything](https://www.v2ex.com/t/833554) `37条评论` `问与答`
 1. [学用 vim 中，发现小键盘尤其困难啊？](https://www.v2ex.com/t/833502) `37条评论` `Vim`
-1. [过去的 100 天，我尝试了每日 16/8 断食， Ask me Anything](https://www.v2ex.com/t/833554) `36条评论` `问与答`
+1. [看 Hacker News 有感](https://www.v2ex.com/t/833538) `33条评论` `随想`
 1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `30条评论` `优惠信息`
-1. [看 Hacker News 有感](https://www.v2ex.com/t/833538) `28条评论` `随想`
 1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `22条评论` `宽带症候群`
 1. [有一个 IPv6 防火墙总开关就够了](https://www.v2ex.com/t/833550) `17条评论` `宽带症候群`
 1. [大金空调实际使用体验](https://www.v2ex.com/t/833540) `17条评论` `问与答`
 1. [求问大家如何整理和管理自己的照片和视频](https://www.v2ex.com/t/833546) `16条评论` `问与答`
 1. [Mac 电脑贴不贴膜](https://www.v2ex.com/t/833518) `16条评论` `MacBook`
 1. [为什么 Windows 没有说话或打字让系统直接做某件事的功能呢？](https://www.v2ex.com/t/833589) `14条评论` `问与答`
+1. [J1900 平台 Nas 通过 SMB potplayer 看 4k 蓝光电影卡顿](https://www.v2ex.com/t/833575) `14条评论` `NAS`
 1. [问下微信小程序审核看代码么，有没有什么绕过审核的办法](https://www.v2ex.com/t/833552) `14条评论` `问与答`
 1. [想买一个妙控键盘 有第三方推荐的吗](https://www.v2ex.com/t/833504) `14条评论` `iPad`
 1. [因为特殊原因我需要在 macOS M1 上使用 windows 版的 office 2010 全家桶，有没有啥可行的魔法方法啊](https://www.v2ex.com/t/833591) `13条评论` `macOS`
-1. [J1900 平台 Nas 通过 SMB potplayer 看 4k 蓝光电影卡顿](https://www.v2ex.com/t/833575) `13条评论` `NAS`
 1. [iOS 上第三方输入法纠结](https://www.v2ex.com/t/833535) `13条评论` `iPhone`
 1. [golang 有 array 为啥要 slice](https://www.v2ex.com/t/833583) `11条评论` `Go 编程语言`
+1. [多年果粉，开始心动高性能 windows 游戏本](https://www.v2ex.com/t/833605) `10条评论` `硬件`
+1. [用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) `10条评论` `服务器`
 1. [我有个朋友 母亲在外打工 马上满 50 不缴社保了 应该以怎样的方式继续缴纳呢](https://www.v2ex.com/t/833555) `10条评论` `问与答`
 1. [一个可以在 Windows 11 状态栏上显示网速的小工具](https://www.v2ex.com/t/833527) `10条评论` `分享创造`
-1. [有从开发转到产品的吗？愿意分享经验的请进来聊聊](https://www.v2ex.com/t/833587) `9条评论` `程序员`
-1. [用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) `9条评论` `服务器`
 
-数据更新于 2022-02-13 14:12:56
+数据更新于 2022-02-13 14:27:17
 
 <!-- TODAY END -->
 
