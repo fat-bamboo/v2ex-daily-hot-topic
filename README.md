@@ -10,12 +10,12 @@
 
 1. [纠结是否要跳槽](https://www.v2ex.com/t/833515) `63条评论` `职场话题`
 1. [伸手党真是烦](https://www.v2ex.com/t/833524) `58条评论` `程序员`
-1. [过去的 100 天，我尝试了每日 16/8 断食， Ask me Anything](https://www.v2ex.com/t/833554) `47条评论` `生活`
+1. [过去的 100 天，我尝试了每日 16/8 断食， Ask me Anything](https://www.v2ex.com/t/833554) `48条评论` `生活`
 1. [学用 vim 中，发现小键盘尤其困难啊？](https://www.v2ex.com/t/833502) `40条评论` `Vim`
 1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `40条评论` `Google`
 1. [看 Hacker News 有感](https://www.v2ex.com/t/833538) `35条评论` `随想`
+1. [大金空调实际使用体验](https://www.v2ex.com/t/833540) `30条评论` `生活`
 1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `30条评论` `优惠信息`
-1. [大金空调实际使用体验](https://www.v2ex.com/t/833540) `29条评论` `生活`
 1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `26条评论` `宽带症候群`
 1. [求问大家如何整理和管理自己的照片和视频](https://www.v2ex.com/t/833546) `24条评论` `问与答`
 1. [J1900 平台 Nas 通过 SMB potplayer 看 4k 蓝光电影卡顿](https://www.v2ex.com/t/833575) `19条评论` `NAS`
@@ -32,7 +32,7 @@
 1. [golang 有 array 为啥要 slice](https://www.v2ex.com/t/833583) `11条评论` `Go 编程语言`
 1. [有从开发转到产品的吗？愿意分享经验的请进来聊聊](https://www.v2ex.com/t/833587) `10条评论` `程序员`
 
-数据更新于 2022-02-13 18:25:07
+数据更新于 2022-02-13 18:40:39
 
 <!-- TODAY END -->
 
