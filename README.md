@@ -9,14 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [纠结是否要跳槽](https://www.v2ex.com/t/833515) `24条评论` `职场话题`
-1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `19条评论` `优惠信息`
+1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512) `22条评论` `优惠信息`
+1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `18条评论` `Google`
 1. [学用 vim 中，发现小键盘尤其困难啊？](https://www.v2ex.com/t/833502) `18条评论` `问与答`
-1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) `15条评论` `Google`
+1. [Mac 电脑贴不贴膜](https://www.v2ex.com/t/833518) `12条评论` `MacBook`
+1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `12条评论` `宽带症候群`
 1. [想买一个妙控键盘 有第三方推荐的吗](https://www.v2ex.com/t/833504) `12条评论` `iPad`
-1. [Mac 电脑贴不贴膜](https://www.v2ex.com/t/833518) `11条评论` `MacBook`
-1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) `11条评论` `宽带症候群`
+1. [伸手党真是烦](https://www.v2ex.com/t/833524) `8条评论` `程序员`
 
-数据更新于 2022-02-13 05:27:02
+数据更新于 2022-02-13 05:37:32
 
 <!-- TODAY END -->
 
