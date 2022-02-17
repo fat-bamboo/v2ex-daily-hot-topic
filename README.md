@@ -8,14 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [神界 原罪 2 for mac](https://www.v2ex.com/t/834405) `19条评论` `macOS`
-1. [iPad 的选择](https://www.v2ex.com/t/834394) `16条评论` `Apple`
-1. [小米 pro 风扇声音大，受不了](https://www.v2ex.com/t/834395) `14条评论` `硬件`
-1. [有没有老哥做过鼓膜修复手术? 有什么需要注意的么?](https://www.v2ex.com/t/834392) `11条评论` `健康`
-1. [Google Search Is Dying](https://www.v2ex.com/t/834393) `8条评论` `搜索引擎技术研究`
-1. [在盒子里自动连接手机，并耗光电](https://www.v2ex.com/t/834397) `6条评论` `AirPods`
+1. [大部分公司的产品经理是不是都是不太聪明的脑子，瞎搞胡搞的德行？](https://www.v2ex.com/t/834415) `28条评论` `程序员`
+1. [神界 原罪 2 for mac](https://www.v2ex.com/t/834405) `22条评论` `macOS`
+1. [iPad 的选择](https://www.v2ex.com/t/834394) `19条评论` `Apple`
+1. [十年跳八次，你会如何评价呢？](https://www.v2ex.com/t/834420) `18条评论` `职场话题`
+1. [小米 pro 风扇声音大，受不了](https://www.v2ex.com/t/834395) `18条评论` `硬件`
+1. [有没有老哥做过鼓膜修复手术? 有什么需要注意的么?](https://www.v2ex.com/t/834392) `14条评论` `健康`
+1. [2.22 号出差合肥,第一次出差没经验.](https://www.v2ex.com/t/834411) `13条评论` `问与答`
+1. [Google Search Is Dying](https://www.v2ex.com/t/834393) `11条评论` `搜索引擎技术研究`
+1. [关于樊登读书，大家有什么看法？](https://www.v2ex.com/t/834409) `8条评论` `互联网`
+1. [在盒子里自动连接手机，并耗光电](https://www.v2ex.com/t/834397) `7条评论` `AirPods`
+1. [英雄联盟 对局先知 上等马下等马分析程序](https://www.v2ex.com/t/834408) `6条评论` `英雄联盟`
 
-数据更新于 2022-02-17 02:01:50
+数据更新于 2022-02-17 02:34:18
 
 <!-- TODAY END -->
 
