@@ -13,7 +13,7 @@
 1. [有好看的剧，蹲家里刷刷剧了。](https://www.v2ex.com/t/834968) `40条评论` `剧集`
 1. [170 一年升级宽带到 500mb](https://www.v2ex.com/t/835000) `35条评论` `宽带症候群`
 1. [悲报，某丁代理 Microsoft 365 了。不想给引流，就不放链接了](https://www.v2ex.com/t/834964) `29条评论` `分享发现`
-1. [mitmproxy 太慢了，有没有性能更好的替代品？](https://www.v2ex.com/t/835061) `28条评论` `Python`
+1. [mitmproxy 太慢了，有没有性能更好的替代品？](https://www.v2ex.com/t/835061) `29条评论` `Python`
 1. [AirPods 运动传感器妙用，可以用来识别跳绳计数](https://www.v2ex.com/t/834969) `26条评论` `奇思妙想`
 1. [有没有替人问诊的跑腿服务？](https://www.v2ex.com/t/835041) `26条评论` `问与答`
 1. [Apple 官网购物退货的一些疑问](https://www.v2ex.com/t/834982) `22条评论` `Apple`
@@ -21,9 +21,9 @@
 1. [windows 软件防截屏？](https://www.v2ex.com/t/835037) `19条评论` `问与答`
 1. [分享个批量压缩照片（以保存）shell。那么，有无能像 squoosh 那样可以即时对比压缩前后效果（批量）的软件？](https://www.v2ex.com/t/835023) `18条评论` `奇思妙想`
 1. [机场安检要把电脑从内胆包里拿出来吗](https://www.v2ex.com/t/835013) `18条评论` `Apple`
+1. [后端开发主机 CPU 选择](https://www.v2ex.com/t/835065) `17条评论` `问与答`
 1. [某站看到一个算法，合理吗](https://www.v2ex.com/t/834960) `17条评论` `问与答`
 1. [升级 Windows 11 后，原有的 windows.old 丢失了...](https://www.v2ex.com/t/835058) `16条评论` `Windows`
-1. [后端开发主机 CPU 选择](https://www.v2ex.com/t/835065) `15条评论` `问与答`
 1. [Snell 协议 GG 了](https://www.v2ex.com/t/835007) `15条评论` `宽带症候群`
 1. [443 端口不能处理 UDP 流量吗?](https://www.v2ex.com/t/835072) `14条评论` `Linux`
 1. [有没有可以使用服务器内存的迷你主机？](https://www.v2ex.com/t/835003) `12条评论` `硬件`
@@ -32,7 +32,7 @@
 1. [近期 iPhone 上的 Gmail 未读数总是延迟严重](https://www.v2ex.com/t/834975) `10条评论` `iOS`
 1. [脑子抽风买了张台湾 Apple Store 礼品卡](https://www.v2ex.com/t/835043) `9条评论` `外汇交易`
 
-数据更新于 2022-02-19 14:49:13
+数据更新于 2022-02-19 14:59:32
 
 <!-- TODAY END -->
 
