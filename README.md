@@ -8,11 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [LG Ultrafine 4K、Dell U2723QE 体验感受](https://www.v2ex.com/t/836529) `11条评论` `Apple`
-1. [求助 Java 大佬 synchronized 的问题](https://www.v2ex.com/t/836521) `9条评论` `Java`
-1. [周末，有什么可玩的室内场所？](https://www.v2ex.com/t/836525) `7条评论` `沈阳`
+1. [LG Ultrafine 4K、Dell U2723QE 体验感受](https://www.v2ex.com/t/836529) `12条评论` `Apple`
+1. [求助 Java 大佬 synchronized 的问题](https://www.v2ex.com/t/836521) `11条评论` `Java`
+1. [周末，有什么可玩的室内场所？](https://www.v2ex.com/t/836525) `8条评论` `沈阳`
+1. [Mac book pro 配置选择，请教各位](https://www.v2ex.com/t/836532) `7条评论` `MacBook Pro`
 
-数据更新于 2022-02-26 02:56:15
+数据更新于 2022-02-26 03:18:37
 
 <!-- TODAY END -->
 
