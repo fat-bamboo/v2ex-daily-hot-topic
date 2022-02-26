@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于女朋友看网上鸡汤感动的哭了问题 我直接怼回去](https://www.v2ex.com/t/836583) `57条评论` `程序员`
-1. [手里还有小几十万，搞点啥。。](https://www.v2ex.com/t/836548) `38条评论` `投资`
-1. [怎么用一句话证明你用的是什么语言开发?](https://www.v2ex.com/t/836593) `34条评论` `Python`
+1. [关于女朋友看网上鸡汤感动的哭了问题 我直接怼回去](https://www.v2ex.com/t/836583) `58条评论` `程序员`
+1. [手里还有小几十万，搞点啥。。](https://www.v2ex.com/t/836548) `39条评论` `投资`
+1. [怎么用一句话证明你用的是什么语言开发?](https://www.v2ex.com/t/836593) `37条评论` `Python`
 1. [LG Ultrafine 4K、Dell U2723QE 体验感受](https://www.v2ex.com/t/836529) `32条评论` `Apple`
 1. [求助 Java 大佬 synchronized 的问题](https://www.v2ex.com/t/836521) `26条评论` `Java`
 1. [连续三个周末泡图书馆了](https://www.v2ex.com/t/836585) `24条评论` `程序员`
 1. [Mac book pro 配置选择，请教各位](https://www.v2ex.com/t/836532) `21条评论` `MacBook Pro`
-1. [关于公司拖欠，然后让你开借支的操作](https://www.v2ex.com/t/836543) `16条评论` `职场话题`
+1. [关于公司拖欠，然后让你开借支的操作](https://www.v2ex.com/t/836543) `21条评论` `职场话题`
 1. [android 可以像 ios keychain 那样追踪用户吗](https://www.v2ex.com/t/836574) `15条评论` `Android`
 1. [最近想听高品质音乐，求推荐个 CD 随身听](https://www.v2ex.com/t/836573) `14条评论` `音乐`
 1. [请问有什么软件可以两个人一起记笔记咩？](https://www.v2ex.com/t/836596) `13条评论` `问与答`
@@ -28,11 +28,11 @@
 1. [请问一下各位大佬们 MacOS 下，窗口切换除了 contexts，其余哪个 app 能做到应用内切换？](https://www.v2ex.com/t/836580) `10条评论` `Apple`
 1. [iPhone 开热点给 iPad 用的体验依旧很差](https://www.v2ex.com/t/836546) `9条评论` `Apple`
 1. [关于挂梯子爬数据的疑问](https://www.v2ex.com/t/836531) `9条评论` `程序员`
+1. [如何让 Ubuntu 中的部分用户无法登录到 shell？](https://www.v2ex.com/t/836582) `8条评论` `Linux`
 1. [Git 如何根据不同远程仓库推送不同内容的 README](https://www.v2ex.com/t/836549) `8条评论` `问与答`
 1. [京粉在没签协议的情况下给我报税了，但是还不给我钱？](https://www.v2ex.com/t/836530) `8条评论` `京东`
-1. [2022 年了你还用迅雷下载吗？有推荐的电影资源站和下载方式吗？](https://www.v2ex.com/t/836551) `8条评论` `互联网`
 
-数据更新于 2022-02-26 11:14:10
+数据更新于 2022-02-26 11:28:22
 
 <!-- TODAY END -->
 
