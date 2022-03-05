@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [微软思科 VMware 都暂停了在俄罗斯服务](https://www.v2ex.com/t/838113) `15条评论` `问与答`
-1. [请教一个 H5 和 PC 上的程序通讯的问题](https://www.v2ex.com/t/838119) `6条评论` `JavaScript`
+1. [请教一个 H5 和 PC 上的程序通讯的问题](https://www.v2ex.com/t/838119) `9条评论` `JavaScript`
 
-数据更新于 2022-03-05 02:14:28
+数据更新于 2022-03-05 02:47:37
 
 <!-- TODAY END -->
 
