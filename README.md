@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [我们 v 友现在都这么没有节操了吗，随便用我帐号下单，然后还退款](https://www.v2ex.com/t/838139) `84条评论` `问与答`
+1. [现在 PowerShell 是不是没有什么用？](https://www.v2ex.com/t/838173) `37条评论` `PowerShell`
 1. [我初中学历，如何快速且有效的学习英文？](https://www.v2ex.com/t/838146) `36条评论` `English`
-1. [现在 PowerShell 是不是没有什么用？](https://www.v2ex.com/t/838173) `36条评论` `PowerShell`
 1. [关于腰痛](https://www.v2ex.com/t/838137) `31条评论` `健康`
 1. [关于女朋友的闲置 iphone11 的处理问题](https://www.v2ex.com/t/838160) `30条评论` `iPhone`
-1. [B 站这个翻译的太风骚了](https://www.v2ex.com/t/838270) `28条评论` `分享发现`
+1. [B 站这个翻译的太风骚了](https://www.v2ex.com/t/838270) `29条评论` `分享发现`
 1. [有没有 2.5G POE 万兆路由/交换机](https://www.v2ex.com/t/838130) `28条评论` `路由器`
 1. [助听器价格真的好高啊（指的是深耳道系列），这芯片技术什么时候才能发展起来，打破垄断。](https://www.v2ex.com/t/838129) `23条评论` `问与答`
 1. [苹果是不是开始走下坡路了](https://www.v2ex.com/t/838254) `22条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [win10 4K 显示器选择](https://www.v2ex.com/t/838187) `13条评论` `Windows`
 1. [请教一个 H5 和 PC 上的程序通讯的问题](https://www.v2ex.com/t/838119) `13条评论` `JavaScript`
 
-数据更新于 2022-03-05 19:28:08
+数据更新于 2022-03-05 19:38:41
 
 <!-- TODAY END -->
 
