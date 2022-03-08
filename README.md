@@ -21,8 +21,8 @@
 1. [2022 年， 0 基础想做 Android 应用开发者是否可以从 Kotlin 直接学起？](https://www.v2ex.com/t/838956) `32条评论` `Android`
 1. [中国收回台湾之时，在外企的我会失业吗？](https://www.v2ex.com/t/838943) `30条评论` `职场话题`
 1. [22 届应届生， Java 后端开发还有希望找到 1W 以上工作吗？](https://www.v2ex.com/t/838783) `29条评论` `程序员`
+1. [苹果发布 M1 Ultra](https://www.v2ex.com/t/838991) `24条评论` `Apple`
 1. [网上搜到了一个包含电话身份证住址的网站](https://www.v2ex.com/t/838844) `24条评论` `问与答`
-1. [苹果发布 M1 Ultra](https://www.v2ex.com/t/838991) `22条评论` `Apple`
 1. [nginx 反向代理 minio 的 9090 端口的控制台，报 502 错误](https://www.v2ex.com/t/838785) `21条评论` `NGINX`
 1. [明天看 apple 直播的小伙伴有多少？](https://www.v2ex.com/t/838952) `18条评论` `Apple`
 1. [不经意间了解到 MIUI 欧版，是真香还是鸡肋？](https://www.v2ex.com/t/838899) `18条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [为什么一些 js/ts 的函数工具库没有类似 optional/maybe 的东西](https://www.v2ex.com/t/838862) `17条评论` `JavaScript`
 1. [第一次申请劳动仲裁](https://www.v2ex.com/t/838815) `17条评论` `职场话题`
 
-数据更新于 2022-03-08 20:22:07
+数据更新于 2022-03-08 20:38:27
 
 <!-- TODAY END -->
 
