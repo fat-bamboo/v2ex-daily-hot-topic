@@ -13,7 +13,7 @@
 1. [我真的好喜欢 iPhone 13 mini](https://www.v2ex.com/t/838881) `75条评论` `Apple`
 1. [为知笔记是凉了吗？还是跑路了？](https://www.v2ex.com/t/838793) `71条评论` `程序员`
 1. [神经衰弱，楼上熬夜小伙天天到 2 点怎么办](https://www.v2ex.com/t/838912) `66条评论` `生活`
-1. [switch oled 游戏求推荐！](https://www.v2ex.com/t/838774) `59条评论` `Nintendo Switch`
+1. [switch oled 游戏求推荐！](https://www.v2ex.com/t/838774) `60条评论` `Nintendo Switch`
 1. [今晚要发 se3 了，有啥期待吗？](https://www.v2ex.com/t/838859) `57条评论` `iPhone`
 1. [腾讯电脑管家的软件管理出了个会员](https://www.v2ex.com/t/838800) `55条评论` `优惠信息`
 1. [妇女能顶半边天 祝所有女性同胞节日快乐](https://www.v2ex.com/t/838777) `52条评论` `生活`
@@ -26,13 +26,13 @@
 1. [明天看 apple 直播的小伙伴有多少？](https://www.v2ex.com/t/838952) `18条评论` `Apple`
 1. [不经意间了解到 MIUI 欧版，是真香还是鸡肋？](https://www.v2ex.com/t/838899) `18条评论` `问与答`
 1. [[求职] 坐标上海， 3 年 golang](https://www.v2ex.com/t/838860) `18条评论` `求职`
+1. [苹果发布 M1 Ultra](https://www.v2ex.com/t/838991) `17条评论` `Apple`
 1. [明天凌晨会出 AirPods pro 吗？](https://www.v2ex.com/t/838886) `17条评论` `Apple`
 1. [现在买房感觉只能找中介了](https://www.v2ex.com/t/838867) `17条评论` `问与答`
 1. [为什么一些 js/ts 的函数工具库没有类似 optional/maybe 的东西](https://www.v2ex.com/t/838862) `17条评论` `JavaScript`
 1. [第一次申请劳动仲裁](https://www.v2ex.com/t/838815) `17条评论` `职场话题`
-1. [苹果发布 M1 Ultra](https://www.v2ex.com/t/838991) `16条评论` `Apple`
 
-数据更新于 2022-03-08 19:13:58
+数据更新于 2022-03-08 19:25:52
 
 <!-- TODAY END -->
 
