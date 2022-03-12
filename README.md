@@ -25,14 +25,14 @@
 1. [GraphQL 有什么优缺点](https://www.v2ex.com/t/839880) `8条评论` `程序员`
 1. [想烧个音箱，桌面音箱有没有类似原道耳机这种退烧神器](https://www.v2ex.com/t/839861) `8条评论` `问与答`
 1. [taobao 的 Web 端适老化及无障碍改造做的不错，好评](https://www.v2ex.com/t/839881) `7条评论` `程序员`
+1. [Spring Boot Web 项目转 Windows 客户端程序，求工具、建议](https://www.v2ex.com/t/839869) `7条评论` `问与答`
+1. [M1 能装上 AutoCAD 的麻烦进来分享一下](https://www.v2ex.com/t/839863) `7条评论` `macOS`
 1. [mqtt 消费者并发情况下丢消息的情况](https://www.v2ex.com/t/839852) `7条评论` `程序员`
 1. [Google play 闲鱼 2022 年 2 月 23 日发布的最新版本提示无法使用](https://www.v2ex.com/t/839818) `7条评论` `全球工单系统`
 1. [PHP 原来是这么神奇的语言吗？](https://www.v2ex.com/t/839895) `6条评论` `程序员`
-1. [支付宝上线“支付宝号”](https://www.v2ex.com/t/839885) `6条评论` `分享发现`
-1. [Spring Boot Web 项目转 Windows 客户端程序，求工具、建议](https://www.v2ex.com/t/839869) `6条评论` `问与答`
-1. [M1 能装上 AutoCAD 的麻烦进来分享一下](https://www.v2ex.com/t/839863) `6条评论` `macOS`
+1. [问一下外企工作英语水平量化要求](https://www.v2ex.com/t/839891) `6条评论` `问与答`
 
-数据更新于 2022-03-12 10:19:03
+数据更新于 2022-03-12 10:35:18
 
 <!-- TODAY END -->
 
