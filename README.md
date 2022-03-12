@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [哪首音乐，你听完久久不能释怀？](https://www.v2ex.com/t/839828) `126条评论` `音乐`
-1. [为何 M1 版本的 MBA 在 V2 好评如潮？](https://www.v2ex.com/t/839816) `79条评论` `MacBook Pro`
+1. [为何 M1 版本的 MBA 在 V2 好评如潮？](https://www.v2ex.com/t/839816) `80条评论` `MacBook Pro`
 1. [买了新款 iPhone SE 3](https://www.v2ex.com/t/839864) `53条评论` `Apple`
 1. [这个电脑内存够用为啥会卡](https://www.v2ex.com/t/839826) `46条评论` `MacBook Pro`
 1. [哪本小说，你读完久久不能释怀？](https://www.v2ex.com/t/839866) `45条评论` `阅读`
@@ -32,7 +32,7 @@
 1. [中科大的源挂掉了？](https://www.v2ex.com/t/839934) `11条评论` `服务器`
 1. [Haskell 运算斐波那契数列怎么这么慢，比 JS 慢多了。。](https://www.v2ex.com/t/839924) `11条评论` `问与答`
 
-数据更新于 2022-03-12 19:28:34
+数据更新于 2022-03-12 19:38:59
 
 <!-- TODAY END -->
 
