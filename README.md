@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 13Pro 屏幕好多划痕，心里特别膈应，怎么办](https://www.v2ex.com/t/840121) `90条评论` `iPhone`
+1. [iPhone 13Pro 屏幕好多划痕，心里特别膈应，怎么办](https://www.v2ex.com/t/840121) `91条评论` `iPhone`
+1. [因为不靠谱的媳妇儿，上周末过的心力交瘁，只能来这里说说话求安慰了](https://www.v2ex.com/t/840273) `81条评论` `生活`
 1. [你以为 Studio Display 贵，可能这是未来最便宜的苹果显示器了](https://www.v2ex.com/t/840131) `72条评论` `Apple`
-1. [因为不靠谱的媳妇儿，上周末过的心力交瘁，只能来这里说说话求安慰了](https://www.v2ex.com/t/840273) `63条评论` `生活`
-1. [讲个微软/Win11 笑话](https://www.v2ex.com/t/840161) `62条评论` `Windows`
-1. [Windows11 把我逼到 MacOS 了](https://www.v2ex.com/t/840183) `52条评论` `Windows`
+1. [讲个微软/Win11 笑话](https://www.v2ex.com/t/840161) `64条评论` `Windows`
+1. [Windows11 把我逼到 MacOS 了](https://www.v2ex.com/t/840183) `55条评论` `Windows`
 1. [消息称腾讯阿里将大规模裁员，最高涉及 30%](https://www.v2ex.com/t/840177) `52条评论` `职场话题`
+1. [哪个 Linux 发行版适合 coder](https://www.v2ex.com/t/840219) `48条评论` `Linux`
 1. [有啥办法可以在更多国家交退休金么](https://www.v2ex.com/t/840220) `36条评论` `生活`
 1. [现在急用 iPad ，买哪一款？](https://www.v2ex.com/t/840139) `25条评论` `Apple`
 1. [大家还记得树下野狐这个名字么](https://www.v2ex.com/t/840215) `24条评论` `互联网`
 1. [2022 年，推荐的 React 状态管理框架是？](https://www.v2ex.com/t/840200) `23条评论` `React`
-1. [哪个 Linux 发行版适合 coder](https://www.v2ex.com/t/840219) `21条评论` `Linux`
 1. [来吧，在深圳，还上班没有居家的兄弟来互相安慰](https://www.v2ex.com/t/840127) `21条评论` `深圳`
 1. [在上海的朋友们还好吗?被隔离了十四天...](https://www.v2ex.com/t/840159) `20条评论` `上海`
 1. [腾讯云挖矿流量转发被警告了 买了三年的 vps 要吃灰了](https://www.v2ex.com/t/840221) `19条评论` `VPS`
@@ -30,9 +30,9 @@
 1. [嗨呀 洗衣机求推荐](https://www.v2ex.com/t/840218) `15条评论` `买买买`
 1. [[数据库/PostgreSQL] 真的没有完美的分页方法吗？](https://www.v2ex.com/t/840205) `15条评论` `PostgreSQL`
 1. [鉴于 iPhone 的垃圾短信拦截功能太垃圾，自己写了一个垃圾短信拦截 app，分享给各位果粉。](https://www.v2ex.com/t/840128) `15条评论` `iPhone`
-1. [公司的 ES 被攻击了，索引全被删了，怎么办？](https://www.v2ex.com/t/840193) `14条评论` `Elasticsearch`
+1. [港股啥情况？](https://www.v2ex.com/t/840254) `14条评论` `投资`
 
-数据更新于 2022-03-14 09:56:20
+数据更新于 2022-03-14 10:20:39
 
 <!-- TODAY END -->
 
