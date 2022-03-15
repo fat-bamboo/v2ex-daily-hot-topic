@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
+1. [二郎腿戒断法](https://www.v2ex.com/t/840397) `41条评论` `健康`
 1. [以后日本品牌能避就避](https://www.v2ex.com/t/840413) `39条评论` `SONY`
-1. [二郎腿戒断法](https://www.v2ex.com/t/840397) `38条评论` `健康`
 1. [[送码] 开发了一个物品记录与管理的 app (ios 端)，欢迎大家体验](https://www.v2ex.com/t/840380) `30条评论` `分享创造`
 1. [关于夫妻的这两件事，诚心争取大家意见，到底谁对谁错](https://www.v2ex.com/t/840443) `28条评论` `程序员`
 1. [送阿里云盘 200GB 一年兑换码，先到先得！](https://www.v2ex.com/t/840372) `27条评论` `分享发现`
 1. [macOS 12.3 正式版发布](https://www.v2ex.com/t/840379) `25条评论` `Apple`
-1. [《C++ Primer》关于 reference 和 pointer 部分看的人“生气”](https://www.v2ex.com/t/840451) `22条评论` `C++`
+1. [《C++ Primer》关于 reference 和 pointer 部分看的人“生气”](https://www.v2ex.com/t/840451) `24条评论` `C++`
 1. [关于 win 和 mac 的同步方案](https://www.v2ex.com/t/840381) `21条评论` `Apple`
 1. [大 A 教你做人，股灾来的更猛烈些把](https://www.v2ex.com/t/840390) `20条评论` `投资`
 1. [大家千万不要关注理想汽车的小程序](https://www.v2ex.com/t/840388) `19条评论` `分享发现`
@@ -29,10 +29,10 @@
 1. [chh 现在文章没有账号都无法看了，哎....](https://www.v2ex.com/t/840373) `11条评论` `互联网`
 1. [iPad OS 15.4 正式版支持 Face ID 口罩解锁吗？](https://www.v2ex.com/t/840369) `11条评论` `iPad`
 1. [苹果表的这个站立统计是不是有问题](https://www.v2ex.com/t/840412) `10条评论` ` WATCH`
+1. [国内小白都用了 Windows 10，为何仍要使用国内杀毒、安全类流氓程序呢？](https://www.v2ex.com/t/840449) `9条评论` `Windows`
 1. [一张主表，多张关联表，查询逻辑写在 sql 中好，还是业务代码中好？](https://www.v2ex.com/t/840423) `9条评论` `程序员`
-1. [Windows 应用商店的搜索功能还能更烂一些吗](https://www.v2ex.com/t/840419) `9条评论` `Windows`
 
-数据更新于 2022-03-15 05:20:26
+数据更新于 2022-03-15 05:36:13
 
 <!-- TODAY END -->
 
