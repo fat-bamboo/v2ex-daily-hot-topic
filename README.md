@@ -14,8 +14,8 @@
 1. [怎么理解 NFT 的价值](https://www.v2ex.com/t/841416) `67条评论` `NFT`
 1. [有什么适合家里老人用的，但是可以刷 OpenWrt 的路由（2022 年上半年）](https://www.v2ex.com/t/841405) `42条评论` `OpenWrt`
 1. [每次 OnCall 过后都掉一层皮](https://www.v2ex.com/t/841452) `42条评论` `程序员`
+1. [最后我买了 13mini...](https://www.v2ex.com/t/841471) `39条评论` `Apple`
 1. [微信这是逼人申请小号啊](https://www.v2ex.com/t/841468) `38条评论` `分享发现`
-1. [最后我买了 13mini...](https://www.v2ex.com/t/841471) `38条评论` `Apple`
 1. [C++ 和 C# 哪个容易开发出用户体验好（占用资源小&好看&稳定&反应快）的跨 macOS/Windows 平台的桌面程序？](https://www.v2ex.com/t/841554) `33条评论` `程序员`
 1. [Mac Studio 能够自己升级加硬盘](https://www.v2ex.com/t/841412) `32条评论` `Apple`
 1. [用第三方软件调高 mbp 的风扇转速对电脑有影响吗?](https://www.v2ex.com/t/841418) `28条评论` `Apple`
@@ -27,12 +27,12 @@
 1. [想搞台 32G 品牌台式电脑，发现全都是定制款，经销商会缩水配置吗？](https://www.v2ex.com/t/841464) `20条评论` `硬件`
 1. [看博客需要关注微信~](https://www.v2ex.com/t/841547) `18条评论` `分享发现`
 1. [2022 年最期待的生产力笔记本 thinkbook 14+/16+](https://www.v2ex.com/t/841409) `18条评论` `分享发现`
+1. [破防了， 2202 年 iPhone 自定义铃声流程震撼我马](https://www.v2ex.com/t/841563) `17条评论` `Apple`
 1. [开发相似的 IOS App 的疑问](https://www.v2ex.com/t/841490) `17条评论` `Apple`
 1. [为了管理我的 4 万个书签，我写了个插件](https://www.v2ex.com/t/841442) `17条评论` `分享创造`
-1. [破防了， 2202 年 iPhone 自定义铃声流程震撼我马](https://www.v2ex.com/t/841563) `16条评论` `Apple`
 1. [被怼的莫名奇妙的，这么写会出空指针？](https://www.v2ex.com/t/841447) `16条评论` `Java`
 
-数据更新于 2022-03-19 20:58:19
+数据更新于 2022-03-19 21:18:48
 
 <!-- TODAY END -->
 
