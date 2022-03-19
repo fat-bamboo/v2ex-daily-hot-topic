@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [真的有农村做酸菜用脚踩的吗？](https://www.v2ex.com/t/841413) `74条评论` `问与答`
+1. [真的有农村做酸菜用脚踩的吗？](https://www.v2ex.com/t/841413) `78条评论` `问与答`
 1. [有什么适合家里老人用的，但是可以刷 OpenWrt 的路由（2022 年上半年）](https://www.v2ex.com/t/841405) `33条评论` `OpenWrt`
-1. [怎么理解 NFT 的价值](https://www.v2ex.com/t/841416) `31条评论` `分享发现`
+1. [怎么理解 NFT 的价值](https://www.v2ex.com/t/841416) `32条评论` `分享发现`
 1. [Mac Studio 能够自己升级加硬盘](https://www.v2ex.com/t/841412) `25条评论` `Apple`
 1. [2022 年最期待的生产力笔记本 thinkbook 14+/16+](https://www.v2ex.com/t/841409) `18条评论` `分享发现`
 1. [我最近的一个哲学探讨：探讨理论的有效性](https://www.v2ex.com/t/841415) `14条评论` `随想`
@@ -18,15 +18,16 @@
 1. [懒人党的福音--顶级全自动化影音系统全方位深入剖析](https://www.v2ex.com/t/841427) `12条评论` `NAS`
 1. [每次 OnCall 过后都掉一层皮](https://www.v2ex.com/t/841452) `11条评论` `程序员`
 1. [被怼的莫名奇妙的，这么写会出空指针？](https://www.v2ex.com/t/841447) `11条评论` `Java`
+1. [2022 大家 Android 开发都用的撒](https://www.v2ex.com/t/841443) `11条评论` `Android`
 1. [外网可以访问局域网内的 NFS 吗?想访问 nas 上的电影](https://www.v2ex.com/t/841414) `11条评论` `问与答`
 1. [GitHub clone 时总是非常慢，有梯子也不管用。有无优化方案？](https://www.v2ex.com/t/841434) `10条评论` `问与答`
 1. [用第三方软件调高 mbp 的风扇转速对电脑有影响吗?](https://www.v2ex.com/t/841418) `9条评论` `Apple`
-1. [2022 大家 Android 开发都用的撒](https://www.v2ex.com/t/841443) `8条评论` `Android`
 1. [firefox 经常无法显示知乎专栏"出了一点问题"如何解决？](https://www.v2ex.com/t/841417) `8条评论` `互联网`
+1. [国外程序员更关注政治吗？](https://www.v2ex.com/t/841462) `7条评论` `程序员`
 1. [升级 macOS12.3 之后 Dock 栏莫名多了个白色的点](https://www.v2ex.com/t/841439) `6条评论` `macOS`
 1. [原样复制 GPL 协议开源项目部分文件时文件开头的版权信息可以拿掉/换成自己的，然后在 项目 Third Party Notice 中说明使用了这个项目的代码吗？](https://www.v2ex.com/t/841433) `6条评论` `程序员`
 
-数据更新于 2022-03-19 06:46:16
+数据更新于 2022-03-19 06:56:33
 
 <!-- TODAY END -->
 
