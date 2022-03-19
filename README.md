@@ -8,14 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [真的有农村做酸菜用脚踩的吗？](https://www.v2ex.com/t/841413) `46条评论` `问与答`
-1. [有什么适合家里老人用的，但是可以刷 OpenWrt 的路由（2022 年上半年）](https://www.v2ex.com/t/841405) `25条评论` `OpenWrt`
-1. [怎么理解 NFT 的价值](https://www.v2ex.com/t/841416) `21条评论` `分享发现`
-1. [2022 年最期待的生产力笔记本 thinkbook 14+/16+](https://www.v2ex.com/t/841409) `10条评论` `分享发现`
-1. [Mac Studio 能够自己升级加硬盘](https://www.v2ex.com/t/841412) `8条评论` `Apple`
+1. [真的有农村做酸菜用脚踩的吗？](https://www.v2ex.com/t/841413) `52条评论` `问与答`
+1. [有什么适合家里老人用的，但是可以刷 OpenWrt 的路由（2022 年上半年）](https://www.v2ex.com/t/841405) `28条评论` `OpenWrt`
+1. [怎么理解 NFT 的价值](https://www.v2ex.com/t/841416) `24条评论` `分享发现`
+1. [Mac Studio 能够自己升级加硬盘](https://www.v2ex.com/t/841412) `14条评论` `Apple`
+1. [2022 年最期待的生产力笔记本 thinkbook 14+/16+](https://www.v2ex.com/t/841409) `13条评论` `分享发现`
+1. [懒人党的福音--顶级全自动化影音系统全方位深入剖析](https://www.v2ex.com/t/841427) `8条评论` `NAS`
 1. [外网可以访问局域网内的 NFS 吗?想访问 nas 上的电影](https://www.v2ex.com/t/841414) `6条评论` `问与答`
 
-数据更新于 2022-03-19 03:56:05
+数据更新于 2022-03-19 04:22:01
 
 <!-- TODAY END -->
 
