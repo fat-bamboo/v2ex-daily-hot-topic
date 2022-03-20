@@ -8,25 +8,28 @@
 
 <!-- TODAY BEGIN -->
 
-1. [3 月 20 号腾讯云香港新加坡云服务器约 3 年 33 元-166 元 8 台](https://www.v2ex.com/t/841614) `24条评论` `优惠信息`
-1. [如何让抖音的推荐质量高一点？](https://www.v2ex.com/t/841583) `22条评论` `问与答`
+1. [3 月 20 号腾讯云香港新加坡云服务器约 3 年 33 元-166 元 8 台](https://www.v2ex.com/t/841614) `38条评论` `优惠信息`
+1. [如何让抖音的推荐质量高一点？](https://www.v2ex.com/t/841583) `23条评论` `问与答`
 1. [Macbook Pro 14 寸 M1 Pro CPU 的 16G 内存开发够用吗](https://www.v2ex.com/t/841572) `22条评论` `Apple`
+1. [困扰多年，终于知道为什么 macOS 用久了 iCloud 会出现上传/下载/同步卡死了，以及 icloudd、bird 进程飙升](https://www.v2ex.com/t/841605) `20条评论` `iCloud`
 1. [iOS 一个超神奇的特点](https://www.v2ex.com/t/841596) `20条评论` `问与答`
-1. [困扰多年，终于知道为什么 macOS 用久了 iCloud 会出现上传/下载/同步卡死了，以及 icloudd、bird 进程飙升](https://www.v2ex.com/t/841605) `18条评论` `iCloud`
+1. [m1 MacBook Air 一个雷电口突然无法充电了](https://www.v2ex.com/t/841581) `18条评论` `Apple`
+1. [腾讯企业邮箱成员莫名被删除，求推荐其他靠谱的企业邮箱](https://www.v2ex.com/t/841590) `17条评论` `问与答`
 1. [[头脑风暴] 未来十年互联网生态可能带来什么革命性变化？](https://www.v2ex.com/t/841589) `17条评论` `问与答`
 1. [HomePod mini 升级了降智固件 15.4](https://www.v2ex.com/t/841584) `16条评论` `Apple`
-1. [腾讯企业邮箱成员莫名被删除，求推荐其他靠谱的企业邮箱](https://www.v2ex.com/t/841590) `14条评论` `问与答`
-1. [m1 MacBook Air 一个雷电口突然无法充电了](https://www.v2ex.com/t/841581) `14条评论` `Apple`
+1. [2022 年 3 月 在合肥怎么办理宽带最便宜？](https://www.v2ex.com/t/841618) `11条评论` `宽带症候群`
+1. [关于借钱那点儿事儿](https://www.v2ex.com/t/841625) `10条评论` `程序员`
 1. [m1 air 外接键盘讨论](https://www.v2ex.com/t/841579) `10条评论` `macOS`
 1. [Mozilla 都开始了？是错觉吧？](https://www.v2ex.com/t/841600) `10条评论` `Firefox`
 1. [能在线播放白噪声的网站推荐](https://www.v2ex.com/t/841577) `9条评论` `分享发现`
 1. [用 trackpad 的各位，怎么在 lauchpad 拖拽图标](https://www.v2ex.com/t/841573) `9条评论` `Apple`
 1. [自主开发档案管理系统可能要用到哪些开发软件？](https://www.v2ex.com/t/841606) `8条评论` `程序员`
 1. [密码控件使用不规范的 APP 如何使用密码管理器？](https://www.v2ex.com/t/841574) `8条评论` `问与答`
+1. [各位有啥小众交友 App 推荐嘛？](https://www.v2ex.com/t/841621) `7条评论` `问与答`
 1. [周末跟大伙聊聊“开源项目作者的态度重要吗？”这一话题](https://www.v2ex.com/t/841588) `6条评论` `开源软件`
 1. [brew 可以切换软件安装路径吗](https://www.v2ex.com/t/841580) `6条评论` `macOS`
 
-数据更新于 2022-03-20 06:00:01
+数据更新于 2022-03-20 06:27:50
 
 <!-- TODAY END -->
 
