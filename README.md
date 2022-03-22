@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [关于 24 期免息买了三星 S22 手机，开心等待发货的近一个月时，信用卡突然提示我月底要还款 5799 的事。](https://www.v2ex.com/t/842080) `101条评论` `Android`
-1. [入门级跑鞋求推荐](https://www.v2ex.com/t/842023) `88条评论` `跑步`
-1. [15 款 MBP，退役了还能干嘛](https://www.v2ex.com/t/842040) `63条评论` `MacBook Pro`
-1. [有多少人在用 winget？](https://www.v2ex.com/t/842018) `54条评论` `Windows`
+1. [入门级跑鞋求推荐](https://www.v2ex.com/t/842023) `90条评论` `跑步`
+1. [15 款 MBP，退役了还能干嘛](https://www.v2ex.com/t/842040) `64条评论` `MacBook Pro`
+1. [有多少人在用 winget？](https://www.v2ex.com/t/842018) `56条评论` `Windows`
 1. [关于 Electron 有个想法](https://www.v2ex.com/t/842001) `47条评论` `Electron`
-1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037) `45条评论` `程序员`
+1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037) `47条评论` `程序员`
 1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083) `44条评论` `游戏`
 1. [iOS 15.4 的口罩解锁用的我血压上升](https://www.v2ex.com/t/842144) `41条评论` `iPhone`
 1. [关于此次空难有感而发，飞机真的是最安全的交通工具吗？](https://www.v2ex.com/t/842039) `33条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [年轻人在一线有孩子何去何从？](https://www.v2ex.com/t/842122) `18条评论` `问与答`
 1. [人力资源部长找我谈话要解除我的劳动合同，谈话记录要我按手印，这是什么操作？](https://www.v2ex.com/t/842067) `17条评论` `职场话题`
 
-数据更新于 2022-03-22 12:41:10
+数据更新于 2022-03-22 13:12:26
 
 <!-- TODAY END -->
 
