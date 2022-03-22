@@ -8,20 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于 24 期免息买了三星 S22 手机，开心等待发货的近一个月时，信用卡突然提示我月底要还款 5799 的事。](https://www.v2ex.com/t/842080) `107条评论` `Android`
+1. [关于 24 期免息买了三星 S22 手机，开心等待发货的近一个月时，信用卡突然提示我月底要还款 5799 的事。](https://www.v2ex.com/t/842080) `108条评论` `Android`
 1. [入门级跑鞋求推荐](https://www.v2ex.com/t/842023) `92条评论` `跑步`
 1. [15 款 MBP，退役了还能干嘛](https://www.v2ex.com/t/842040) `72条评论` `MacBook Pro`
 1. [有多少人在用 winget？](https://www.v2ex.com/t/842018) `56条评论` `Windows`
-1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083) `53条评论` `游戏`
-1. [iOS 15.4 的口罩解锁用的我血压上升](https://www.v2ex.com/t/842144) `49条评论` `iPhone`
-1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037) `48条评论` `程序员`
+1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083) `54条评论` `游戏`
+1. [iOS 15.4 的口罩解锁用的我血压上升](https://www.v2ex.com/t/842144) `50条评论` `iPhone`
+1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037) `49条评论` `程序员`
 1. [关于 Electron 有个想法](https://www.v2ex.com/t/842001) `47条评论` `Electron`
-1. [现在 GO 语言面试这么难吗？](https://www.v2ex.com/t/842175) `37条评论` `Go 编程语言`
+1. [现在 GO 语言面试这么难吗？](https://www.v2ex.com/t/842175) `38条评论` `Go 编程语言`
 1. [关于此次空难有感而发，飞机真的是最安全的交通工具吗？](https://www.v2ex.com/t/842039) `33条评论` `问与答`
 1. [想请教蓝桥杯以及寻求一些建议的问题](https://www.v2ex.com/t/842075) `29条评论` `Java`
-1. [有没有好剧推荐？](https://www.v2ex.com/t/842179) `27条评论` `剧集`
+1. [有没有好剧推荐？](https://www.v2ex.com/t/842179) `28条评论` `剧集`
 1. [如何对 Android APP 抓取 HTTPS 包？](https://www.v2ex.com/t/842130) `27条评论` `Android`
-1. [不敢用腾讯云了](https://www.v2ex.com/t/842172) `24条评论` `云计算`
+1. [不敢用腾讯云了](https://www.v2ex.com/t/842172) `25条评论` `云计算`
 1. [有没有秋裤或袜子太短会很难受的朋友？](https://www.v2ex.com/t/841994) `23条评论` `问与答`
 1. [微信群被封了如何解封？](https://www.v2ex.com/t/842056) `21条评论` `微信`
 1. [WeChat 总是显示连接中](https://www.v2ex.com/t/842006) `21条评论` `微信`
@@ -32,7 +32,7 @@
 1. [Studio Display 会不会带来 Display OS](https://www.v2ex.com/t/842057) `19条评论` `Apple`
 1. [现在是不是几乎所有 app 都支持多设备在线了？](https://www.v2ex.com/t/842156) `18条评论` `Android`
 
-数据更新于 2022-03-22 15:17:31
+数据更新于 2022-03-22 15:37:01
 
 <!-- TODAY END -->
 
