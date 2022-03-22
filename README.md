@@ -12,7 +12,7 @@
 1. [入门级跑鞋求推荐](https://www.v2ex.com/t/842023) `94条评论` `跑步`
 1. [15 款 MBP，退役了还能干嘛](https://www.v2ex.com/t/842040) `74条评论` `MacBook Pro`
 1. [有多少人在用 winget？](https://www.v2ex.com/t/842018) `61条评论` `Windows`
-1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083) `58条评论` `游戏`
+1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083) `59条评论` `游戏`
 1. [iOS 15.4 的口罩解锁用的我血压上升](https://www.v2ex.com/t/842144) `54条评论` `iPhone`
 1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037) `50条评论` `程序员`
 1. [关于 Electron 有个想法](https://www.v2ex.com/t/842001) `47条评论` `Electron`
@@ -32,7 +32,7 @@
 1. [前端开发笔记本求教](https://www.v2ex.com/t/842069) `19条评论` `程序员`
 1. [Studio Display 会不会带来 Display OS](https://www.v2ex.com/t/842057) `19条评论` `Apple`
 
-数据更新于 2022-03-22 21:37:17
+数据更新于 2022-03-22 21:47:49
 
 <!-- TODAY END -->
 
