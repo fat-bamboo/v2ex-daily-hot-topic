@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [什么样的房屋隔音好](https://www.v2ex.com/t/842253) `87条评论` `生活`
-1. [国内视频网站用户体验 B 站应该是第一了吧？](https://www.v2ex.com/t/842341) `72条评论` `问与答`
+1. [国内视频网站用户体验 B 站应该是第一了吧？](https://www.v2ex.com/t/842341) `74条评论` `问与答`
 1. [今天打算裸辞了，完成没有心情再敲代码，出路在哪里？](https://www.v2ex.com/t/842259) `52条评论` `职场话题`
 1. [猫眼浏览器的 UI 真好看](https://www.v2ex.com/t/842240) `52条评论` `分享发现`
 1. [为何 bilibili 体验如此之差？](https://www.v2ex.com/t/842283) `51条评论` `哔哩哔哩`
@@ -24,15 +24,15 @@
 1. [软件开发（主 Apple 生态）真的需要 Mac Studio 吗](https://www.v2ex.com/t/842284) `16条评论` `Apple`
 1. [iCloud 和 Dropbox 的选择问题](https://www.v2ex.com/t/842381) `15条评论` `iCloud`
 1. [为什么现在东航波音 737-800 机型航班还在正常售票？](https://www.v2ex.com/t/842242) `15条评论` `问与答`
+1. [苹果公司为什么把 siri 做的那么智障???](https://www.v2ex.com/t/842471) `14条评论` `Apple`
 1. [请各位帮忙看看这道题（Go），想了一天没想明白](https://www.v2ex.com/t/842443) `14条评论` `Go 编程语言`
 1. [新买的 k50pro 到了，有没有可能刷原生的安卓系统](https://www.v2ex.com/t/842412) `14条评论` `Android`
 1. [国内外流量分流的解决方案（系统级别）](https://www.v2ex.com/t/842390) `14条评论` `Linux`
 1. [是什么让做技术的你下定决心放弃北漂回到家乡！](https://www.v2ex.com/t/842291) `14条评论` `生活`
 1. [Studio Display 用的 ems 发货，卡在杭州萧山处理中心已经四天了。](https://www.v2ex.com/t/842260) `14条评论` `Apple`
 1. [go make 与 new 关键词的区别](https://www.v2ex.com/t/842258) `14条评论` `Go 编程语言`
-1. [苹果公司为什么把 siri 做的那么智障???](https://www.v2ex.com/t/842471) `13条评论` `Apple`
 
-数据更新于 2022-03-23 18:47:32
+数据更新于 2022-03-23 18:57:48
 
 <!-- TODAY END -->
 
