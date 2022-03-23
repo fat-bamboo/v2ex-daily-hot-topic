@@ -17,8 +17,8 @@
 1. [个人 fq 是否违法？即将开庭国内首例因 fq 被抓反诉警察局的案件](https://www.v2ex.com/t/842361) `30条评论` `程序员`
 1. [iOS 不允许用户降级真的很辣鸡](https://www.v2ex.com/t/842264) `22条评论` `iPhone`
 1. [如果有 20 天的时间，学什么技术对将来发展有利呢？](https://www.v2ex.com/t/842460) `21条评论` `程序员`
+1. [苹果公司为什么把 siri 做的那么智障???](https://www.v2ex.com/t/842471) `20条评论` `Apple`
 1. [ARM 主机的 Linux 和普通的 Linux 有什么区别吗（用途：跑 Jupyter Notebook 做数据分析）](https://www.v2ex.com/t/842237) `19条评论` `问与答`
-1. [苹果公司为什么把 siri 做的那么智障???](https://www.v2ex.com/t/842471) `18条评论` `Apple`
 1. [低工资想搞副业，不去 996 卷这样对吗...](https://www.v2ex.com/t/842330) `18条评论` `生活`
 1. [golang 有没有办法获取当前 TCP 发送缓存区剩余空间。](https://www.v2ex.com/t/842415) `17条评论` `Go 编程语言`
 1. [关于 M1 买 13 寸 还是 14 寸的选择问题...](https://www.v2ex.com/t/842394) `17条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [Studio Display 用的 ems 发货，卡在杭州萧山处理中心已经四天了。](https://www.v2ex.com/t/842260) `14条评论` `Apple`
 1. [go make 与 new 关键词的区别](https://www.v2ex.com/t/842258) `14条评论` `Go 编程语言`
 
-数据更新于 2022-03-23 19:28:03
+数据更新于 2022-03-23 19:38:48
 
 <!-- TODAY END -->
 
