@@ -21,10 +21,10 @@
 1. [低工资想搞副业，不去 996 卷这样对吗...](https://www.v2ex.com/t/842330) `18条评论` `生活`
 1. [golang 有没有办法获取当前 TCP 发送缓存区剩余空间。](https://www.v2ex.com/t/842415) `17条评论` `Go 编程语言`
 1. [关于 M1 买 13 寸 还是 14 寸的选择问题...](https://www.v2ex.com/t/842394) `17条评论` `Apple`
+1. [苹果公司为什么把 siri 做的那么智障???](https://www.v2ex.com/t/842471) `16条评论` `Apple`
 1. [软件开发（主 Apple 生态）真的需要 Mac Studio 吗](https://www.v2ex.com/t/842284) `16条评论` `Apple`
 1. [iCloud 和 Dropbox 的选择问题](https://www.v2ex.com/t/842381) `15条评论` `iCloud`
 1. [为什么现在东航波音 737-800 机型航班还在正常售票？](https://www.v2ex.com/t/842242) `15条评论` `问与答`
-1. [苹果公司为什么把 siri 做的那么智障???](https://www.v2ex.com/t/842471) `14条评论` `Apple`
 1. [请各位帮忙看看这道题（Go），想了一天没想明白](https://www.v2ex.com/t/842443) `14条评论` `Go 编程语言`
 1. [新买的 k50pro 到了，有没有可能刷原生的安卓系统](https://www.v2ex.com/t/842412) `14条评论` `Android`
 1. [国内外流量分流的解决方案（系统级别）](https://www.v2ex.com/t/842390) `14条评论` `Linux`
@@ -32,7 +32,7 @@
 1. [Studio Display 用的 ems 发货，卡在杭州萧山处理中心已经四天了。](https://www.v2ex.com/t/842260) `14条评论` `Apple`
 1. [go make 与 new 关键词的区别](https://www.v2ex.com/t/842258) `14条评论` `Go 编程语言`
 
-数据更新于 2022-03-23 18:57:48
+数据更新于 2022-03-23 19:17:37
 
 <!-- TODAY END -->
 
