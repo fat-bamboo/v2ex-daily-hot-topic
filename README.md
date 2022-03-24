@@ -27,10 +27,11 @@
 1. [Apple Watch 的心跳检测是不是非常不准？](https://www.v2ex.com/t/842527) `8条评论` ` WATCH`
 1. [请问下 iMac 2017 和 macbook pro 2020 怎么有线连接](https://www.v2ex.com/t/842526) `8条评论` `Apple`
 1. [如何禁用 Chrome 侧边栏？](https://www.v2ex.com/t/842514) `8条评论` `问与答`
+1. [开源社区有没有像 Markdown 替代 word 那样，替代 excel 的纯文本解决方案？](https://www.v2ex.com/t/842571) `6条评论` `程序员`
 1. [为什么 ping 任何网站都是 Request timeout for icmp_seq？](https://www.v2ex.com/t/842546) `6条评论` `macOS`
 1. [FastAPI-Amis-Admin: 一个拥有高性能,高效率,易拓展的 fastapi 管理后台框架](https://www.v2ex.com/t/842516) `6条评论` `Python`
 
-数据更新于 2022-03-24 05:50:09
+数据更新于 2022-03-24 06:00:39
 
 <!-- TODAY END -->
 
