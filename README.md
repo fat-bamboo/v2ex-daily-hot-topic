@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+1. [阅读源码，无意中看到这到一段，请教一下，这算是同步的还是异步的代码？](https://www.v2ex.com/t/842504) `7条评论` `JavaScript`
+
+数据更新于 2022-03-24 01:18:49
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [什么样的房屋隔音好](https://www.v2ex.com/t/842253) `90条评论` `生活`
 1. [国内视频网站用户体验 B 站应该是第一了吧？](https://www.v2ex.com/t/842341) `75条评论` `问与答`
 1. [今天打算裸辞了，完成没有心情再敲代码，出路在哪里？](https://www.v2ex.com/t/842259) `52条评论` `职场话题`
@@ -31,38 +41,6 @@
 1. [国内外流量分流的解决方案（系统级别）](https://www.v2ex.com/t/842390) `14条评论` `Linux`
 1. [是什么让做技术的你下定决心放弃北漂回到家乡！](https://www.v2ex.com/t/842291) `14条评论` `生活`
 1. [Studio Display 用的 ems 发货，卡在杭州萧山处理中心已经四天了。](https://www.v2ex.com/t/842260) `14条评论` `Apple`
-
-数据更新于 2022-03-23 23:56:11
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [关于 24 期免息买了三星 S22 手机，开心等待发货的近一个月时，信用卡突然提示我月底要还款 5799 的事。](https://www.v2ex.com/t/842080) `115条评论` `Android`
-1. [入门级跑鞋求推荐](https://www.v2ex.com/t/842023) `94条评论` `跑步`
-1. [15 款 MBP，退役了还能干嘛](https://www.v2ex.com/t/842040) `74条评论` `MacBook Pro`
-1. [有多少人在用 winget？](https://www.v2ex.com/t/842018) `61条评论` `Windows`
-1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083) `59条评论` `游戏`
-1. [iOS 15.4 的口罩解锁用的我血压上升](https://www.v2ex.com/t/842144) `55条评论` `iPhone`
-1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037) `50条评论` `程序员`
-1. [27 寸 5K Studio Display 看微信视频号 B 站画质掉渣马赛克一样,跟 YouTube 4K 8K HDR 差别也太大了](https://www.v2ex.com/t/842217) `50条评论` `Apple`
-1. [关于 Electron 有个想法](https://www.v2ex.com/t/842001) `47条评论` `Electron`
-1. [现在 GO 语言面试这么难吗？](https://www.v2ex.com/t/842175) `44条评论` `Go 编程语言`
-1. [如何对 Android APP 抓取 HTTPS 包？](https://www.v2ex.com/t/842130) `42条评论` `Android`
-1. [关于此次空难有感而发，飞机真的是最安全的交通工具吗？](https://www.v2ex.com/t/842039) `33条评论` `问与答`
-1. [有没有好剧推荐？](https://www.v2ex.com/t/842179) `32条评论` `剧集`
-1. [想请教蓝桥杯以及寻求一些建议的问题](https://www.v2ex.com/t/842075) `29条评论` `Java`
-1. [不敢用腾讯云了](https://www.v2ex.com/t/842172) `25条评论` `云计算`
-1. [有没有秋裤或袜子太短会很难受的朋友？](https://www.v2ex.com/t/841994) `23条评论` `问与答`
-1. [微信群被封了如何解封？](https://www.v2ex.com/t/842056) `21条评论` `微信`
-1. [WeChat 总是显示连接中](https://www.v2ex.com/t/842006) `21条评论` `微信`
-1. [都说游戏耳机是智商税](https://www.v2ex.com/t/842063) `20条评论` `硬件`
-1. [问一个关于 Java 线程的疑惑？](https://www.v2ex.com/t/842015) `20条评论` `Java`
-1. [wifi 居然会影响 mac 的蓝牙鼠标。。](https://www.v2ex.com/t/842097) `19条评论` `Apple`
-1. [前端开发笔记本求教](https://www.v2ex.com/t/842069) `19条评论` `程序员`
-1. [Studio Display 会不会带来 Display OS](https://www.v2ex.com/t/842057) `19条评论` `Apple`
 
 <!-- YESTERDAY END -->
 
