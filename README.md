@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [游戏本还是 switch](https://www.v2ex.com/t/843300) `69条评论` `硬件`
-1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313) `69条评论` `程序员`
+1. [游戏本还是 switch](https://www.v2ex.com/t/843300) `71条评论` `硬件`
+1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313) `71条评论` `程序员`
 1. [如何感谢 HR](https://www.v2ex.com/t/843295) `56条评论` `职场话题`
+1. [se3 价格如瀑布](https://www.v2ex.com/t/843297) `49条评论` `iPhone`
 1. [想入坑塞尔达](https://www.v2ex.com/t/843317) `49条评论` `Nintendo Switch`
-1. [se3 价格如瀑布](https://www.v2ex.com/t/843297) `48条评论` `iPhone`
 1. [苹果店归来，试用了 display studio，买了 iPad Air](https://www.v2ex.com/t/843382) `38条评论` `Apple`
 1. [AWS 上的 ubuntu 系统，/usr 以下的权限被改后无法读取了， root 没有创建，怎么解？](https://www.v2ex.com/t/843322) `37条评论` `云计算`
 1. [2022 年 3 月，想办一张信用卡，大家有什么银行的什么卡推荐么？谢谢](https://www.v2ex.com/t/843353) `27条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [百度为啥不用心做 carlife](https://www.v2ex.com/t/843316) `14条评论` `2022`
 1. [frp 的 frpc 和 frps 可以在一台电脑上么](https://www.v2ex.com/t/843279) `14条评论` `问与答`
 
-数据更新于 2022-03-28 09:45:50
+数据更新于 2022-03-28 09:56:01
 
 <!-- TODAY END -->
 
