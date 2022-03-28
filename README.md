@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313) `81条评论` `程序员`
+1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313) `82条评论` `程序员`
 1. [游戏本还是 switch](https://www.v2ex.com/t/843300) `77条评论` `硬件`
 1. [如何感谢 HR](https://www.v2ex.com/t/843295) `58条评论` `职场话题`
 1. [想入坑塞尔达](https://www.v2ex.com/t/843317) `53条评论` `Nintendo Switch`
-1. [se3 价格如瀑布](https://www.v2ex.com/t/843297) `51条评论` `iPhone`
-1. [苹果店归来，试用了 display studio，买了 iPad Air](https://www.v2ex.com/t/843382) `44条评论` `Apple`
+1. [se3 价格如瀑布](https://www.v2ex.com/t/843297) `52条评论` `iPhone`
+1. [苹果店归来，试用了 display studio，买了 iPad Air](https://www.v2ex.com/t/843382) `45条评论` `Apple`
 1. [2022 年 3 月，想办一张信用卡，大家有什么银行的什么卡推荐么？谢谢](https://www.v2ex.com/t/843353) `40条评论` `问与答`
 1. [AWS 上的 ubuntu 系统，/usr 以下的权限被改后无法读取了， root 没有创建，怎么解？](https://www.v2ex.com/t/843322) `38条评论` `云计算`
 1. [朋友要入伙了，送点什么礼物比较好？](https://www.v2ex.com/t/843404) `24条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [收到 Offer 后， HR 说 HC 调整，无法入职](https://www.v2ex.com/t/843424) `14条评论` `职场话题`
 1. [M1 Max 系统自带中文输入法打字特别卡，有遇到同样的问题吗？（macOS 12.3）](https://www.v2ex.com/t/843361) `14条评论` `MacBook Pro`
 
-数据更新于 2022-03-28 11:45:51
+数据更新于 2022-03-28 11:56:14
 
 <!-- TODAY END -->
 
