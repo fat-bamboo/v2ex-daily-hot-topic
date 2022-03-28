@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313) `86条评论` `程序员`
+1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313) `88条评论` `程序员`
 1. [游戏本还是 switch](https://www.v2ex.com/t/843300) `83条评论` `硬件`
 1. [如何感谢 HR](https://www.v2ex.com/t/843295) `60条评论` `职场话题`
 1. [想入坑塞尔达](https://www.v2ex.com/t/843317) `57条评论` `Nintendo Switch`
-1. [se3 价格如瀑布](https://www.v2ex.com/t/843297) `55条评论` `iPhone`
-1. [2022 年 3 月，想办一张信用卡，大家有什么银行的什么卡推荐么？谢谢](https://www.v2ex.com/t/843353) `47条评论` `问与答`
+1. [se3 价格如瀑布](https://www.v2ex.com/t/843297) `56条评论` `iPhone`
+1. [2022 年 3 月，想办一张信用卡，大家有什么银行的什么卡推荐么？谢谢](https://www.v2ex.com/t/843353) `49条评论` `问与答`
 1. [苹果店归来，试用了 display studio，买了 iPad Air](https://www.v2ex.com/t/843382) `47条评论` `Apple`
-1. [家里人去世了， iPhone 不知道密码怎么解锁，在线等](https://www.v2ex.com/t/843462) `43条评论` `iPhone`
-1. [GitHub 解释近期频繁宕机原因： MySQL 不堪重负](https://www.v2ex.com/t/843376) `41条评论` `数据库`
+1. [家里人去世了， iPhone 不知道密码怎么解锁，在线等](https://www.v2ex.com/t/843462) `47条评论` `iPhone`
+1. [GitHub 解释近期频繁宕机原因： MySQL 不堪重负](https://www.v2ex.com/t/843376) `43条评论` `数据库`
 1. [AWS 上的 ubuntu 系统，/usr 以下的权限被改后无法读取了， root 没有创建，怎么解？](https://www.v2ex.com/t/843322) `40条评论` `云计算`
+1. [上海的朋友你们好吗？](https://www.v2ex.com/t/843460) `26条评论` `上海`
 1. [朋友要入伙了，送点什么礼物比较好？](https://www.v2ex.com/t/843404) `24条评论` `问与答`
-1. [上海的朋友你们好吗？](https://www.v2ex.com/t/843460) `23条评论` `上海`
 1. [请教 Node.js 后端框架的选择](https://www.v2ex.com/t/843442) `23条评论` `Node.js`
 1. [原来 m1 的苹果笔记本不能打国服 lol 啊？](https://www.v2ex.com/t/843303) `21条评论` `问与答`
 1. [买二手 mac mini 和教育版纠结](https://www.v2ex.com/t/843345) `19条评论` `Apple`
@@ -30,9 +30,9 @@
 1. [收到 Offer 后， HR 说 HC 调整，无法入职](https://www.v2ex.com/t/843424) `16条评论` `职场话题`
 1. [[2022-03] GitHub 加速终极教程](https://www.v2ex.com/t/843383) `16条评论` `程序员`
 1. [怎么在公网接入内网，上传代码，类似蒲公英一样的内网穿透方案](https://www.v2ex.com/t/843284) `16条评论` `问与答`
-1. [请教一个深度学习的问题](https://www.v2ex.com/t/843403) `15条评论` `程序员`
+1. [伪需求还是好想法？](https://www.v2ex.com/t/843461) `15条评论` `奇思妙想`
 
-数据更新于 2022-03-28 14:55:59
+数据更新于 2022-03-28 15:18:45
 
 <!-- TODAY END -->
 
