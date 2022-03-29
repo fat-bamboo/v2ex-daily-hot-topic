@@ -21,18 +21,18 @@
 1. [快疯了怎么办，想变成一只甲壳虫](https://www.v2ex.com/t/843529) `46条评论` `程序员`
 1. [腾讯云孟买 cn2 线路 “5 年”只要 177 腾讯随时可能断货](https://www.v2ex.com/t/843690) `37条评论` `优惠信息`
 1. [ubuntu 22.04 更漂亮了，需要的可以升级体验了](https://www.v2ex.com/t/843663) `35条评论` `Ubuntu`
-1. [jdk9 出现比 log4j 更大的漏洞](https://www.v2ex.com/t/843724) `27条评论` `Java`
-1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720) `24条评论` `Apple`
+1. [jdk9 出现比 log4j 更大的漏洞](https://www.v2ex.com/t/843724) `30条评论` `Java`
+1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720) `25条评论` `Apple`
 1. [DDD 到底啥，有啥用](https://www.v2ex.com/t/843675) `23条评论` `程序员`
 1. [正确重装 windows10 的方式是什么](https://www.v2ex.com/t/843591) `22条评论` `Windows`
 1. [互联网最苦逼的地方在哪](https://www.v2ex.com/t/843644) `20条评论` `程序员`
 1. [吐槽一下 apple 的弱智调查问卷](https://www.v2ex.com/t/843611) `18条评论` `Apple`
 1. [快速出活的能力是否比精通某项技术更重要？](https://www.v2ex.com/t/843552) `17条评论` `互联网`
+1. [关于百度公司是如何作恶的](https://www.v2ex.com/t/843710) `16条评论` `互联网`
 1. [有大神能帮忙改个脚本吗，就 1 句话，不知道能不能实现。](https://www.v2ex.com/t/843560) `16条评论` `NAS`
 1. [求推荐挂身运动相机方案，清明扫路用来记路](https://www.v2ex.com/t/843532) `16条评论` `问与答`
-1. [吐槽一下看某些顶会论文代码留下的辛酸泪](https://www.v2ex.com/t/843712) `15条评论` `分享发现`
 
-数据更新于 2022-03-29 17:56:03
+数据更新于 2022-03-29 18:21:45
 
 <!-- TODAY END -->
 
