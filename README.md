@@ -22,7 +22,7 @@
 1. [腾讯云孟买 cn2 线路 “5 年”只要 177 腾讯随时可能断货](https://www.v2ex.com/t/843690) `37条评论` `优惠信息`
 1. [ubuntu 22.04 更漂亮了，需要的可以升级体验了](https://www.v2ex.com/t/843663) `35条评论` `Ubuntu`
 1. [jdk9 出现比 log4j 更大的漏洞](https://www.v2ex.com/t/843724) `30条评论` `Java`
-1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720) `26条评论` `Apple`
+1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720) `28条评论` `Apple`
 1. [DDD 到底啥，有啥用](https://www.v2ex.com/t/843675) `23条评论` `程序员`
 1. [正确重装 windows10 的方式是什么](https://www.v2ex.com/t/843591) `22条评论` `Windows`
 1. [互联网最苦逼的地方在哪](https://www.v2ex.com/t/843644) `20条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [有大神能帮忙改个脚本吗，就 1 句话，不知道能不能实现。](https://www.v2ex.com/t/843560) `16条评论` `NAS`
 1. [求推荐挂身运动相机方案，清明扫路用来记路](https://www.v2ex.com/t/843532) `16条评论` `问与答`
 
-数据更新于 2022-03-29 18:55:40
+数据更新于 2022-03-29 19:13:54
 
 <!-- TODAY END -->
 
