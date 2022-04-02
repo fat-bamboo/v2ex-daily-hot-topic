@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [闪电战召集。](https://www.v2ex.com/t/844466) `116条评论` `分享发现`
-1. [有多少人平时主力电脑用的 Linux ？](https://www.v2ex.com/t/844493) `90条评论` `程序员`
-1. [购房相关：次新房 vs 老破小](https://www.v2ex.com/t/844452) `64条评论` `问与答`
-1. [五年一次的 reddit 的像素大战活动又开始了，我在里面发现了不得了的东西！](https://www.v2ex.com/t/844468) `57条评论` `分享发现`
-1. [这几天的抢菜发现成功的几乎都是 ios](https://www.v2ex.com/t/844457) `56条评论` `Apple`
+1. [闪电战召集。](https://www.v2ex.com/t/844466) `126条评论` `分享发现`
+1. [有多少人平时主力电脑用的 Linux ？](https://www.v2ex.com/t/844493) `97条评论` `程序员`
+1. [购房相关：次新房 vs 老破小](https://www.v2ex.com/t/844452) `66条评论` `问与答`
+1. [五年一次的 reddit 的像素大战活动又开始了，我在里面发现了不得了的东西！](https://www.v2ex.com/t/844468) `61条评论` `分享发现`
+1. [这几天的抢菜发现成功的几乎都是 ios](https://www.v2ex.com/t/844457) `57条评论` `Apple`
+1. [你们苹果喜欢买哪个产地的呀？](https://www.v2ex.com/t/844516) `29条评论` `美酒与美食`
 1. [上海防疫发的中药液和我饮酒有冲突吗](https://www.v2ex.com/t/844513) `29条评论` `问与答`
-1. [你们苹果喜欢买哪个产地的呀？](https://www.v2ex.com/t/844516) `26条评论` `美酒与美食`
 1. [Sprint Boot 一定要写 SQL 吗？](https://www.v2ex.com/t/844480) `18条评论` `问与答`
 1. [兄弟萌，开源镜像站选择 xx 大学的好，还是选阿里云华为云腾讯云的这些好呢？](https://www.v2ex.com/t/844497) `17条评论` `程序员`
 1. [各位大佬，现在还有在玩 psp 的吗？有啥经典游戏推荐吗？](https://www.v2ex.com/t/844473) `17条评论` `PSP`
@@ -24,15 +24,15 @@
 1. [兄弟萌 docker 和 padman 哪个更好呢](https://www.v2ex.com/t/844479) `15条评论` `程序员`
 1. [reddit 的像素大战活动，为 V2EX 而战！](https://www.v2ex.com/t/844503) `14条评论` `程序员`
 1. [这个功能是不是只有自带输入法才有？](https://www.v2ex.com/t/844475) `14条评论` `iOS`
-1. [巨硬推出官方电脑管家 Microsoft PC Manager Offline](https://www.v2ex.com/t/844528) `10条评论` `分享发现`
+1. [巨硬推出官方电脑管家 Microsoft PC Manager Offline](https://www.v2ex.com/t/844528) `11条评论` `分享发现`
 1. [这几天硬盘涨价了吗？原因是什么？](https://www.v2ex.com/t/844486) `10条评论` `硬件`
+1. [生产环境选择 debian10 还是 debian11](https://www.v2ex.com/t/844527) `9条评论` `程序员`
 1. [定期性的重置 Macbook 的系统会更流畅吗?](https://www.v2ex.com/t/844495) `9条评论` `macOS`
 1. [大华监控 RTSP 流, 64 个监控视频同屏播放卡顿问题(疑似显卡瓶颈)](https://www.v2ex.com/t/844462) `9条评论` `视频技术`
-1. [生产环境选择 debian10 还是 debian11](https://www.v2ex.com/t/844527) `8条评论` `程序员`
-1. [mac mini 输入法快捷切换键](https://www.v2ex.com/t/844477) `8条评论` `Apple`
-1. [windows 桌面上 2 个同名文件的道理是啥？](https://www.v2ex.com/t/844453) `8条评论` `问与答`
+1. [[求助]在网吧玩 steam 绝地求生，账号被封禁](https://www.v2ex.com/t/844553) `8条评论` `问与答`
+1. [如果便利店装自助饮料机，卖 0.5 元一小杯就好了](https://www.v2ex.com/t/844544) `8条评论` `奇思妙想`
 
-数据更新于 2022-04-02 06:55:35
+数据更新于 2022-04-02 07:15:58
 
 <!-- TODAY END -->
 
