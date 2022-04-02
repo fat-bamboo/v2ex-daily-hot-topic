@@ -8,27 +8,28 @@
 
 <!-- TODAY BEGIN -->
 
-1. [闪电战召集。](https://www.v2ex.com/t/844466) `49条评论` `分享发现`
-1. [购房相关：次新房 vs 老破小](https://www.v2ex.com/t/844452) `47条评论` `问与答`
+1. [闪电战召集。](https://www.v2ex.com/t/844466) `54条评论` `分享发现`
+1. [购房相关：次新房 vs 老破小](https://www.v2ex.com/t/844452) `53条评论` `问与答`
+1. [有多少人平时主力电脑用的 Linux ？](https://www.v2ex.com/t/844493) `45条评论` `程序员`
 1. [这几天的抢菜发现成功的几乎都是 ios](https://www.v2ex.com/t/844457) `43条评论` `Apple`
-1. [有多少人平时主力电脑用的 Linux ？](https://www.v2ex.com/t/844493) `40条评论` `程序员`
 1. [五年一次的 reddit 的像素大战活动又开始了，我在里面发现了不得了的东西！](https://www.v2ex.com/t/844468) `35条评论` `分享发现`
-1. [Sprint Boot 一定要写 SQL 吗？](https://www.v2ex.com/t/844480) `14条评论` `问与答`
+1. [Sprint Boot 一定要写 SQL 吗？](https://www.v2ex.com/t/844480) `16条评论` `问与答`
 1. [这个功能是不是只有自带输入法才有？](https://www.v2ex.com/t/844475) `13条评论` `iOS`
 1. [各位大佬，现在还有在玩 psp 的吗？有啥经典游戏推荐吗？](https://www.v2ex.com/t/844473) `13条评论` `PSP`
 1. [父母真的有一天会离开我们](https://www.v2ex.com/t/844492) `11条评论` `生活`
 1. [gitee 图片无法外链到博客了，全部报 403](https://www.v2ex.com/t/844471) `11条评论` `程序员`
+1. [14 寸 MacBook Pro 独占 bug 是放弃了还是硬件问题,在次吐槽!](https://www.v2ex.com/t/844501) `10条评论` `MacBook Pro`
 1. [兄弟萌 docker 和 padman 哪个更好呢](https://www.v2ex.com/t/844479) `9条评论` `程序员`
 1. [大华监控 RTSP 流, 64 个监控视频同屏播放卡顿问题(疑似显卡瓶颈)](https://www.v2ex.com/t/844462) `9条评论` `视频技术`
-1. [14 寸 MacBook Pro 独占 bug 是放弃了还是硬件问题,在次吐槽!](https://www.v2ex.com/t/844501) `8条评论` `MacBook Pro`
 1. [mac mini 输入法快捷切换键](https://www.v2ex.com/t/844477) `8条评论` `Apple`
 1. [windows 桌面上 2 个同名文件的道理是啥？](https://www.v2ex.com/t/844453) `8条评论` `问与答`
 1. [spring framework 的更新日志太掩耳盗铃了吧](https://www.v2ex.com/t/844445) `8条评论` `Java`
 1. [XDR5480 的问题请教](https://www.v2ex.com/t/844444) `8条评论` `宽带症候群`
+1. [兄弟萌，开源镜像站选择 xx 大学的好，还是选阿里云华为云腾讯云的这些好呢？](https://www.v2ex.com/t/844497) `7条评论` `程序员`
+1. [这几天硬盘涨价了吗？原因是什么？](https://www.v2ex.com/t/844486) `7条评论` `硬件`
 1. [go 使用 socket 链接时 如何使用前置代理呢](https://www.v2ex.com/t/844450) `7条评论` `问与答`
-1. [这几天硬盘涨价了吗？原因是什么？](https://www.v2ex.com/t/844486) `6条评论` `硬件`
 
-数据更新于 2022-04-02 03:44:18
+数据更新于 2022-04-02 03:55:57
 
 <!-- TODAY END -->
 
