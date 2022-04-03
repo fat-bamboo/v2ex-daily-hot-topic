@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么越来越多的软件推出订阅制了？即使是使用频率较低的软件](https://www.v2ex.com/t/844695) `53条评论` `macOS`
+1. [为什么越来越多的软件推出订阅制了？即使是使用频率较低的软件](https://www.v2ex.com/t/844695) `57条评论` `macOS`
 1. [出交通事故责任怎么划分有大佬知道吗？](https://www.v2ex.com/t/844689) `34条评论` `问与答`
 1. [把 12.9 寸 iPad Pro 卖了换成 mini 6](https://www.v2ex.com/t/844708) `33条评论` `iPad`
 1. [微控制器 xiao 干扰波动大，以及传感器异常输出，怎么解决？](https://www.v2ex.com/t/844717) `32条评论` `程序员`
 1. [有抢菜程序吗](https://www.v2ex.com/t/844702) `27条评论` `程序员`
+1. [10+年更新一次系统的服务器更适合 Ubuntu 20.04 还是 CentOS7？](https://www.v2ex.com/t/844734) `27条评论` `Linux`
 1. [求一个移动 SSD 方案](https://www.v2ex.com/t/844679) `26条评论` `硬件`
-1. [10+年更新一次系统的服务器更适合 Ubuntu 20.04 还是 CentOS7？](https://www.v2ex.com/t/844734) `26条评论` `Linux`
 1. [大厂真是一个围城](https://www.v2ex.com/t/844746) `25条评论` `职场话题`
+1. [关于 mysql 并发的问题又来了](https://www.v2ex.com/t/844768) `18条评论` `MySQL`
+1. [电视上如何刷抖音，老人捧手机刷太伤眼](https://www.v2ex.com/t/844743) `15条评论` `硬件`
 1. [iPad mini 更改屏幕安装方向真是一个糟糕的决定](https://www.v2ex.com/t/844685) `15条评论` `Apple`
 1. [用 keras 搭建出一个判断今天是周几的模型？](https://www.v2ex.com/t/844757) `14条评论` `Keras`
-1. [电视上如何刷抖音，老人捧手机刷太伤眼](https://www.v2ex.com/t/844743) `14条评论` `硬件`
 1. [杭州京东貌似恢复了](https://www.v2ex.com/t/844715) `14条评论` `京东`
 1. [关于网页上的时间渲染](https://www.v2ex.com/t/844733) `13条评论` `JavaScript`
 1. [一句英语长句每个词都认识 就是不知道合起来什么意思 求分析一下分句的主语](https://www.v2ex.com/t/844686) `13条评论` `问与答`
-1. [关于 mysql 并发的问题又来了](https://www.v2ex.com/t/844768) `12条评论` `MySQL`
-1. [iPad 上的 Chrome 何时能像电脑上一样安装扩展？](https://www.v2ex.com/t/844740) `11条评论` `iPad`
+1. [iPad 上的 Chrome 何时能像电脑上一样安装扩展？](https://www.v2ex.com/t/844740) `12条评论` `iPad`
+1. [Aria2 下载百度网盘里面的文件](https://www.v2ex.com/t/844744) `11条评论` `宽带症候群`
 1. [一个油猴脚本，还我干净清爽的百度百科页面](https://www.v2ex.com/t/844697) `11条评论` `分享创造`
 1. [宽带师傅请进-公寓房想装家宽 1000M](https://www.v2ex.com/t/844696) `11条评论` `宽带症候群`
+1. [你为什么选择 Arch Linux ？](https://www.v2ex.com/t/844776) `10条评论` `程序员`
 1. [手机内存 64g，现在不够用了，可是扩展的 microsd 也没办法用到程序上，有啥不换手机的好办法吗](https://www.v2ex.com/t/844756) `10条评论` `问与答`
+1. [Nexmoe.css - 只用 HTML 就能写出具有流畅动画和漂亮界面的现代网站。](https://www.v2ex.com/t/844755) `10条评论` `分享创造`
 1. [程序员组装一台台式机](https://www.v2ex.com/t/844735) `10条评论` `问与答`
-1. [好用的 Mac 快捷指令分享](https://www.v2ex.com/t/844710) `10条评论` `macOS`
-1. [做小程序的来说说，为什么老是黑屏、闪烁或闪退？](https://www.v2ex.com/t/844678) `10条评论` `问与答`
-1. [Nexmoe.css - 只用 HTML 就能写出具有流畅动画和漂亮界面的现代网站。](https://www.v2ex.com/t/844755) `9条评论` `分享创造`
 
-数据更新于 2022-04-03 13:41:58
+数据更新于 2022-04-03 13:55:36
 
 <!-- TODAY END -->
 
