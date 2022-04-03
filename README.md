@@ -10,9 +10,9 @@
 
 1. [为什么越来越多的软件推出订阅制了？即使是使用频率较低的软件](https://www.v2ex.com/t/844695) `30条评论` `macOS`
 1. [出交通事故责任怎么划分有大佬知道吗？](https://www.v2ex.com/t/844689) `29条评论` `问与答`
-1. [把 12.9 寸 iPad Pro 卖了换成 mini 6](https://www.v2ex.com/t/844708) `27条评论` `iPad`
+1. [把 12.9 寸 iPad Pro 卖了换成 mini 6](https://www.v2ex.com/t/844708) `28条评论` `iPad`
 1. [求一个移动 SSD 方案](https://www.v2ex.com/t/844679) `23条评论` `硬件`
-1. [10+年更新一次系统的服务器更适合 Ubuntu 20.04 还是 CentOS7？](https://www.v2ex.com/t/844734) `16条评论` `Linux`
+1. [10+年更新一次系统的服务器更适合 Ubuntu 20.04 还是 CentOS7？](https://www.v2ex.com/t/844734) `17条评论` `Linux`
 1. [有抢菜程序吗](https://www.v2ex.com/t/844702) `16条评论` `程序员`
 1. [微控制器 xiao 干扰波动大，以及传感器异常输出，怎么解决？](https://www.v2ex.com/t/844717) `15条评论` `程序员`
 1. [iPad mini 更改屏幕安装方向真是一个糟糕的决定](https://www.v2ex.com/t/844685) `15条评论` `Apple`
@@ -26,13 +26,13 @@
 1. [关于网页上的时间渲染](https://www.v2ex.com/t/844733) `9条评论` `JavaScript`
 1. [老婆怀孕 34 周准备要生了，来问下各位有过经验的大哥需要准备什么与注意什么？](https://www.v2ex.com/t/844726) `9条评论` `生活`
 1. [电视上如何刷抖音，老人捧手机刷太伤眼](https://www.v2ex.com/t/844743) `7条评论` `硬件`
+1. [请问， iPhone mini 产品线的散热垃圾能成为走售后的理由吗](https://www.v2ex.com/t/844736) `7条评论` `Apple`
 1. [2022 年有什么中国和外国都能用的图床网站？](https://www.v2ex.com/t/844731) `7条评论` `互联网`
 1. [iPhone 的 safari 不显示来自 Mac 上正在打开的标签页](https://www.v2ex.com/t/844693) `7条评论` `Apple`
 1. [关于前端打包分析](https://www.v2ex.com/t/844692) `7条评论` `程序员`
 1. [程序员组装一台台式机](https://www.v2ex.com/t/844735) `6条评论` `问与答`
-1. [有关生产环境下替代 pandas 新一代的一些数据分析框架，有用过的朋友吗](https://www.v2ex.com/t/844728) `6条评论` `Python`
 
-数据更新于 2022-04-03 09:48:57
+数据更新于 2022-04-03 09:59:23
 
 <!-- TODAY END -->
 
