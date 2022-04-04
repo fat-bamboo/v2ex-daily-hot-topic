@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `138条评论` `Apple`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `139条评论` `Apple`
 1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `57条评论` `程序员`
 1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `49条评论` `宽带症候群`
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `45条评论` `职场话题`
@@ -16,7 +16,7 @@
 1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `39条评论` `macOS`
 1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884) `36条评论` `MacBook Pro`
 1. [微信红包的附言如果有“包大大”，就会被替换成默认的恭喜发财大吉大利](https://www.v2ex.com/t/844869) `32条评论` `微信`
-1. [请问：逃离微信和支付宝，代价有多大？](https://www.v2ex.com/t/844963) `21条评论` `互联网`
+1. [请问：逃离微信和支付宝，代价有多大？](https://www.v2ex.com/t/844963) `24条评论` `互联网`
 1. [小伙在国内家里搭好了 ssserver 用来反向翻墙，测速震惊了！](https://www.v2ex.com/t/844910) `21条评论` `宽带症候群`
 1. [求一个 openwrt 的 iptables 规则](https://www.v2ex.com/t/844927) `18条评论` `宽带症候群`
 1. [2022 后端笔记本推荐](https://www.v2ex.com/t/844916) `18条评论` `硬件`
@@ -32,7 +32,7 @@
 1. [关于前端收到后端返回的一组图片 url，无法预览问题。](https://www.v2ex.com/t/844947) `10条评论` `程序员`
 1. [求问 screen sharing 客户端被屏蔽端口了，服务器端正常，有没有解？](https://www.v2ex.com/t/844926) `10条评论` `macOS`
 
-数据更新于 2022-04-04 23:00:21
+数据更新于 2022-04-04 23:25:29
 
 <!-- TODAY END -->
 
