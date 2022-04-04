@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `129条评论` `Apple`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `131条评论` `Apple`
 1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `56条评论` `程序员`
-1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `45条评论` `宽带症候群`
+1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `46条评论` `宽带症候群`
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `42条评论` `职场话题`
 1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `41条评论` `健康`
 1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `37条评论` `macOS`
-1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884) `32条评论` `MacBook Pro`
+1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884) `33条评论` `MacBook Pro`
 1. [微信红包的附言如果有“包大大”，就会被替换成默认的恭喜发财大吉大利](https://www.v2ex.com/t/844869) `32条评论` `微信`
 1. [小伙在国内家里搭好了 ssserver 用来反向翻墙，测速震惊了！](https://www.v2ex.com/t/844910) `21条评论` `宽带症候群`
 1. [求一个 openwrt 的 iptables 规则](https://www.v2ex.com/t/844927) `18条评论` `宽带症候群`
@@ -32,7 +32,7 @@
 1. [关于前端收到后端返回的一组图片 url，无法预览问题。](https://www.v2ex.com/t/844947) `9条评论` `程序员`
 1. [请教一下真我手机一直开机关机](https://www.v2ex.com/t/844909) `9条评论` `问与答`
 
-数据更新于 2022-04-04 17:26:09
+数据更新于 2022-04-04 17:41:58
 
 <!-- TODAY END -->
 
