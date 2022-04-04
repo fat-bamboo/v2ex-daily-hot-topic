@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `114条评论` `Apple`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `115条评论` `Apple`
 1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `46条评论` `程序员`
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `37条评论` `职场话题`
 1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `37条评论` `健康`
@@ -21,18 +21,18 @@
 1. [ubuntu 下有什么好看的终端吗？](https://www.v2ex.com/t/844876) `16条评论` `Ubuntu`
 1. [有长期做合约稳定盈利的大佬吗？](https://www.v2ex.com/t/844860) `16条评论` `区块链`
 1. [如何使用 Python 实现特定条件抽样？](https://www.v2ex.com/t/844867) `12条评论` `Python`
+1. [求一个 openwrt 的 iptables 规则](https://www.v2ex.com/t/844927) `11条评论` `宽带症候群`
 1. [2022 后端笔记本推荐](https://www.v2ex.com/t/844916) `11条评论` `硬件`
-1. [求一个 openwrt 的 iptables 规则](https://www.v2ex.com/t/844927) `10条评论` `宽带症候群`
 1. [为什么 2022 年了 mbp 都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) `10条评论` `Apple`
 1. [开个车车。iCloud 共享空间 200g](https://www.v2ex.com/t/844838) `10条评论` `iCloud`
+1. [请教一下真我手机一直开机关机](https://www.v2ex.com/t/844909) `9条评论` `问与答`
 1. [g++ 编译⚠️returning reference to local temporary object 但是运行依然得到预期结果？](https://www.v2ex.com/t/844896) `9条评论` `C++`
 1. [怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881) `9条评论` `问与答`
 1. [如果一个软件想 支持并且推荐 用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874) `9条评论` `问与答`
 1. [如何学习期权交易呢？](https://www.v2ex.com/t/844863) `9条评论` `投资`
 1. [颈挂式音响的体验咋样啊？](https://www.v2ex.com/t/844849) `9条评论` `问与答`
-1. [域名邮箱 有谁在用 MXRoute？](https://www.v2ex.com/t/844924) `8条评论` `问与答`
 
-数据更新于 2022-04-04 13:45:27
+数据更新于 2022-04-04 13:55:43
 
 <!-- TODAY END -->
 
