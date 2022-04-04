@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `86条评论` `Apple`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `88条评论` `Apple`
 1. [微信红包的附言如果有“包大大”，就会被替换成默认的恭喜发财大吉大利](https://www.v2ex.com/t/844869) `32条评论` `微信`
-1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `28条评论` `健康`
-1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `25条评论` `程序员`
+1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `29条评论` `健康`
+1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `26条评论` `程序员`
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `23条评论` `职场话题`
-1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `19条评论` `Apple`
+1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `19条评论` `macOS`
 1. [鉴于 iPhone 没有好的 NFC 应用，自己写了免费无广告的强大 NFC 应用，读写 NFC 标签，复制门禁卡，还可以用于通信调试，欢迎使用！](https://www.v2ex.com/t/844843) `17条评论` `Apple`
 1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884) `12条评论` `MacBook Pro`
 1. [有长期做合约稳定盈利的大佬吗？](https://www.v2ex.com/t/844860) `12条评论` `区块链`
@@ -32,7 +32,7 @@
 1. [怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881) `6条评论` `问与答`
 1. [所以,,没人搞一个文本分类的自动收藏夹处理插件么?](https://www.v2ex.com/t/844859) `6条评论` `奇思妙想`
 
-数据更新于 2022-04-04 08:47:59
+数据更新于 2022-04-04 08:55:43
 
 <!-- TODAY END -->
 
