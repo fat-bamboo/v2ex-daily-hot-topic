@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `136条评论` `Apple`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `137条评论` `Apple`
 1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `57条评论` `程序员`
 1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `49条评论` `宽带症候群`
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `44条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [为什么 2022 年了 mbp 都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) `10条评论` `Apple`
 1. [开个车车。iCloud 共享空间 200g](https://www.v2ex.com/t/844838) `10条评论` `iCloud`
 
-数据更新于 2022-04-04 21:21:31
+数据更新于 2022-04-04 21:37:52
 
 <!-- TODAY END -->
 
