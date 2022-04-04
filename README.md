@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `110条评论` `Apple`
-1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `42条评论` `程序员`
-1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `34条评论` `健康`
-1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `33条评论` `职场话题`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `112条评论` `Apple`
+1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `45条评论` `程序员`
+1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `36条评论` `健康`
+1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `35条评论` `职场话题`
+1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `32条评论` `macOS`
 1. [微信红包的附言如果有“包大大”，就会被替换成默认的恭喜发财大吉大利](https://www.v2ex.com/t/844869) `32条评论` `微信`
-1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `27条评论` `macOS`
 1. [小伙在国内家里搭好了 ssserver 用来反向翻墙，测速震惊了！](https://www.v2ex.com/t/844910) `21条评论` `宽带症候群`
 1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `19条评论` `宽带症候群`
 1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884) `18条评论` `MacBook Pro`
@@ -21,18 +21,18 @@
 1. [ubuntu 下有什么好看的终端吗？](https://www.v2ex.com/t/844876) `16条评论` `Ubuntu`
 1. [有长期做合约稳定盈利的大佬吗？](https://www.v2ex.com/t/844860) `16条评论` `区块链`
 1. [如何使用 Python 实现特定条件抽样？](https://www.v2ex.com/t/844867) `12条评论` `Python`
+1. [2022 后端笔记本推荐](https://www.v2ex.com/t/844916) `11条评论` `硬件`
 1. [开个车车。iCloud 共享空间 200g](https://www.v2ex.com/t/844838) `10条评论` `iCloud`
-1. [2022 后端笔记本推荐](https://www.v2ex.com/t/844916) `9条评论` `问与答`
+1. [为什么 2022 年了 mbp 都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) `9条评论` `Apple`
 1. [g++ 编译⚠️returning reference to local temporary object 但是运行依然得到预期结果？](https://www.v2ex.com/t/844896) `9条评论` `C++`
 1. [怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881) `9条评论` `问与答`
 1. [如果一个软件想 支持并且推荐 用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874) `9条评论` `问与答`
 1. [如何学习期权交易呢？](https://www.v2ex.com/t/844863) `9条评论` `投资`
 1. [颈挂式音响的体验咋样啊？](https://www.v2ex.com/t/844849) `9条评论` `问与答`
-1. [为什么 2022 年了 mbp 都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) `8条评论` `Apple`
 1. [[分享]我自己的淘宝店](https://www.v2ex.com/t/844887) `8条评论` `淘宝`
 1. [iOS 上 Google 应用无法搜索](https://www.v2ex.com/t/844854) `8条评论` `Google`
 
-数据更新于 2022-04-04 12:07:54
+数据更新于 2022-04-04 12:50:39
 
 <!-- TODAY END -->
 
