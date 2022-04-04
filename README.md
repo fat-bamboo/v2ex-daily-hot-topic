@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `107条评论` `Apple`
+1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837) `108条评论` `Apple`
 1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846) `41条评论` `程序员`
-1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `33条评论` `健康`
+1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) `34条评论` `健康`
 1. [微信红包的附言如果有“包大大”，就会被替换成默认的恭喜发财大吉大利](https://www.v2ex.com/t/844869) `32条评论` `微信`
-1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `30条评论` `职场话题`
-1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `19条评论` `macOS`
+1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852) `31条评论` `职场话题`
+1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) `25条评论` `macOS`
 1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884) `17条评论` `MacBook Pro`
+1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `17条评论` `宽带症候群`
 1. [鉴于 iPhone 没有好的 NFC 应用，自己写了免费无广告的强大 NFC 应用，读写 NFC 标签，复制门禁卡，还可以用于通信调试，欢迎使用！](https://www.v2ex.com/t/844843) `17条评论` `Apple`
 1. [ubuntu 下有什么好看的终端吗？](https://www.v2ex.com/t/844876) `16条评论` `Ubuntu`
 1. [有长期做合约稳定盈利的大佬吗？](https://www.v2ex.com/t/844860) `16条评论` `区块链`
-1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) `15条评论` `宽带症候群`
+1. [小伙在国内家里搭好了 ssserver 用来反向翻墙，测速震惊了！](https://www.v2ex.com/t/844910) `14条评论` `宽带症候群`
 1. [如何使用 Python 实现特定条件抽样？](https://www.v2ex.com/t/844867) `12条评论` `Python`
-1. [小伙在国内家里搭好了 ssserver 用来反向翻墙，测速震惊了！](https://www.v2ex.com/t/844910) `11条评论` `宽带症候群`
 1. [开个车车。iCloud 共享空间 200g](https://www.v2ex.com/t/844838) `10条评论` `iCloud`
 1. [g++ 编译⚠️returning reference to local temporary object 但是运行依然得到预期结果？](https://www.v2ex.com/t/844896) `9条评论` `C++`
 1. [如果一个软件想 支持并且推荐 用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874) `9条评论` `问与答`
@@ -30,9 +30,9 @@
 1. [怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881) `8条评论` `问与答`
 1. [iOS 上 Google 应用无法搜索](https://www.v2ex.com/t/844854) `8条评论` `Google`
 1. [Typora 的特点或者说开发难度在哪？看了好多个开源项目，感觉用起来体验都比 Typora 差，不知道是先入为主，习惯了的原因还是？](https://www.v2ex.com/t/844833) `8条评论` `问与答`
-1. [每月几百的良心云代金券能做什么？](https://www.v2ex.com/t/844866) `7条评论` `问与答`
+1. [2022 后端笔记本推荐](https://www.v2ex.com/t/844916) `7条评论` `问与答`
 
-数据更新于 2022-04-04 11:15:40
+数据更新于 2022-04-04 11:29:43
 
 <!-- TODAY END -->
 
