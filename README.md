@@ -8,15 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [作为程序员，留在美国还是回国？](https://www.v2ex.com/t/846009) `36条评论` `问与答`
-1. [Arch Linux 图形化简易安装器已被镜像站收录](https://www.v2ex.com/t/846023) `21条评论` `Linux`
+1. [作为程序员，留在美国还是回国？](https://www.v2ex.com/t/846009) `44条评论` `问与答`
+1. [Arch Linux 图形化简易安装器已被镜像站收录](https://www.v2ex.com/t/846023) `22条评论` `Linux`
 1. [上海的朋友你们最近的宽带和蜂窝网正常吗？](https://www.v2ex.com/t/845999) `16条评论` `宽带症候群`
-1. [HomePod 总是自动连接到非 5g 频段 wifi，大佬们有办法解决吗？](https://www.v2ex.com/t/846025) `12条评论` `Apple`
-1. [戴森 v7，没用几次电池报废了](https://www.v2ex.com/t/846015) `7条评论` `问与答`
+1. [HomePod 总是自动连接到非 5g 频段 wifi，大佬们有办法解决吗？](https://www.v2ex.com/t/846025) `13条评论` `Apple`
+1. [被福建電信給氣壞了](https://www.v2ex.com/t/846020) `9条评论` `宽带症候群`
+1. [戴森 v7，没用几次电池报废了](https://www.v2ex.com/t/846015) `8条评论` `问与答`
 1. [Python sympy 里面解方程怎么会出现这种情况？要窒息了](https://www.v2ex.com/t/846005) `7条评论` `程序员`
-1. [被福建電信給氣壞了](https://www.v2ex.com/t/846020) `6条评论` `宽带症候群`
+1. [m1book 和黑苹果 可以兼用 4k144 显示器？](https://www.v2ex.com/t/846002) `6条评论` `macOS`
 
-数据更新于 2022-04-10 03:29:31
+数据更新于 2022-04-10 03:51:43
 
 <!-- TODAY END -->
 
