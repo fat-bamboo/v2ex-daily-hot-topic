@@ -8,29 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
-1. [人生中第一次被裁了](https://www.v2ex.com/t/846185) `49条评论` `职场话题`
-1. [大部分安卓手机厂商是不是对操作系统大版本的升级支持都只有一两次？](https://www.v2ex.com/t/846187) `28条评论` `Android`
+1. [人生中第一次被裁了](https://www.v2ex.com/t/846185) `52条评论` `职场话题`
+1. [大部分安卓手机厂商是不是对操作系统大版本的升级支持都只有一两次？](https://www.v2ex.com/t/846187) `34条评论` `Android`
 1. [Mac 显示器的选择之路](https://www.v2ex.com/t/846202) `27条评论` `Apple`
 1. [大家觉得哪款键盘, 称得上是键盘届的 Sony1000X](https://www.v2ex.com/t/846180) `26条评论` `问与答`
 1. [山东联通千兆宽带跑不满](https://www.v2ex.com/t/846189) `21条评论` `宽带症候群`
+1. [如何优雅地关闭“iCloud 存储空间将满”通知](https://www.v2ex.com/t/846199) `19条评论` `Apple`
 1. [单例模式 双检测问题请教](https://www.v2ex.com/t/846190) `18条评论` `Java`
-1. [品牌机或者 apple 的机箱是正压还是负压？](https://www.v2ex.com/t/846204) `16条评论` `问与答`
-1. [关于美区 Apple ID 绑定 PayPal + 中国信用卡付款的一些疑问](https://www.v2ex.com/t/846209) `15条评论` `Apple`
-1. [win10 下有个文件死活删不掉](https://www.v2ex.com/t/846198) `15条评论` `Windows`
-1. [如何优雅地关闭“iCloud 存储空间将满”通知](https://www.v2ex.com/t/846199) `13条评论` `Apple`
+1. [品牌机或者 apple 的机箱是正压还是负压？](https://www.v2ex.com/t/846204) `17条评论` `问与答`
+1. [win10 下有个文件死活删不掉](https://www.v2ex.com/t/846198) `17条评论` `Windows`
+1. [关于美区 Apple ID 绑定 PayPal + 中国信用卡付款的一些疑问](https://www.v2ex.com/t/846209) `16条评论` `Apple`
+1. [有什么提醒喝水的 app](https://www.v2ex.com/t/846229) `14条评论` `问与答`
+1. [辞职考研失败，这个交叉路口不知道往哪走了](https://www.v2ex.com/t/846237) `13条评论` `程序员`
 1. [优惠信息 腾讯云服务器香港东京等云服务器 活动最后 3 天 约 3 年 177 起 5 年 177 起 T 楼特惠](https://www.v2ex.com/t/846186) `13条评论` `优惠信息`
+1. [go 的继承和重写疑问](https://www.v2ex.com/t/846220) `12条评论` `Go 编程语言`
 1. [m1 mbp 各位有遇到，合盖使用，扩展坞外接显示器休眠无法唤醒的情况么？](https://www.v2ex.com/t/846184) `12条评论` `问与答`
-1. [有什么提醒喝水的 app](https://www.v2ex.com/t/846229) `11条评论` `问与答`
-1. [go 的继承和重写疑问](https://www.v2ex.com/t/846220) `11条评论` `Go 编程语言`
-1. [不锈钢链式表带咨询](https://www.v2ex.com/t/846208) `10条评论` ` WATCH`
+1. [不锈钢链式表带咨询](https://www.v2ex.com/t/846208) `11条评论` ` WATCH`
 1. [有没有从事网络硬件工作的，国内为什么公网带宽普遍比较低呢？](https://www.v2ex.com/t/846192) `10条评论` `问与答`
 1. [CodeTerminal: 从 vscode 中抽出来的独立 Terminal 应用](https://www.v2ex.com/t/846191) `10条评论` `分享创造`
-1. [辞职考研失败，这个交叉路口不知道往哪走了](https://www.v2ex.com/t/846237) `8条评论` `程序员`
+1. [Hugo 极简主题 Echo 2.0 版本](https://www.v2ex.com/t/846206) `7条评论` `分享创造`
 1. [帮朋友问问广州的 offer 对比， 2 年经验，岗位是测试开发，映客和 bigo](https://www.v2ex.com/t/846194) `7条评论` `职场话题`
 1. [编程语言是如何实现并发的之操作系统篇](https://www.v2ex.com/t/846178) `7条评论` `分享创造`
-1. [Hugo 极简主题 Echo 2.0 版本](https://www.v2ex.com/t/846206) `6条评论` `分享创造`
 
-数据更新于 2022-04-11 03:50:41
+数据更新于 2022-04-11 04:21:46
 
 <!-- TODAY END -->
 
