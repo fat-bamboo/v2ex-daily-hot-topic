@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有孩子以后就是一切原罪的开始](https://www.v2ex.com/t/846513) `271条评论` `随想`
+1. [有孩子以后就是一切原罪的开始](https://www.v2ex.com/t/846513) `272条评论` `随想`
 1. [你问过自己，想做什么吗？](https://www.v2ex.com/t/846485) `102条评论` `程序员`
 1. [大家的房贷提前还款么？](https://www.v2ex.com/t/846472) `98条评论` `生活`
 1. [没有房贷压力之后，人真的轻松很多](https://www.v2ex.com/t/846454) `85条评论` `随想`
 1. [speedtest 优秀，油管无法流畅 4k，求指导](https://www.v2ex.com/t/846419) `73条评论` `宽带症候群`
-1. [mac 怎样实现真全局代理](https://www.v2ex.com/t/846531) `45条评论` `macOS`
+1. [mac 怎样实现真全局代理](https://www.v2ex.com/t/846531) `46条评论` `macOS`
 1. [请教一下各位， Macbook 的 ac+还有半年到期，怎么最大化利用它？](https://www.v2ex.com/t/846412) `36条评论` `问与答`
 1. [求可刷 openwrt 的便宜的千兆路由器](https://www.v2ex.com/t/846427) `36条评论` `OpenWrt`
 1. [如果疫情期间主人不幸中招，家里的宠物有什么活命的机会吗](https://www.v2ex.com/t/846551) `33条评论` `生活`
@@ -26,13 +26,13 @@
 1. [发现一个下载 Xcode 的工具--- xcodes](https://www.v2ex.com/t/846573) `18条评论` `Xcode`
 1. [大佬们有没有类似宝塔的面板](https://www.v2ex.com/t/846535) `18条评论` `程序员`
 1. [Apple Mail 偶发性提示「Your network preferences prevent content from loading privately」](https://www.v2ex.com/t/846453) `17条评论` `Apple`
+1. [请问：我们班的女同学会不会喜欢我](https://www.v2ex.com/t/846640) `16条评论` `问与答`
 1. [笑死我了，差点把饭给喷出来 npm run](https://www.v2ex.com/t/846466) `16条评论` `Node.js`
 1. [编程语言会给它的发明者带来哪些利益？](https://www.v2ex.com/t/846590) `15条评论` `程序员`
 1. [求助：能否用 docker 来包裹网站的每个子页面？](https://www.v2ex.com/t/846493) `15条评论` `程序员`
 1. [screenshot 网站截图服务（beta）](https://www.v2ex.com/t/846481) `15条评论` `分享创造`
-1. [斗胆问个问题，不要引战，在做技术选型 ClickHouse 和 StarRocks](https://www.v2ex.com/t/846587) `14条评论` `程序员`
 
-数据更新于 2022-04-12 17:22:01
+数据更新于 2022-04-12 17:44:06
 
 <!-- TODAY END -->
 
