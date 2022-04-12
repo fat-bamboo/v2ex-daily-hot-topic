@@ -8,13 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [没有房贷压力之后，人真的轻松很多](https://www.v2ex.com/t/846454) `39条评论` `随想`
+1. [speedtest 优秀，油管无法流畅 4k，求指导](https://www.v2ex.com/t/846419) `46条评论` `宽带症候群`
+1. [没有房贷压力之后，人真的轻松很多](https://www.v2ex.com/t/846454) `41条评论` `随想`
 1. [请教一下各位， Macbook 的 ac+还有半年到期，怎么最大化利用它？](https://www.v2ex.com/t/846412) `30条评论` `问与答`
-1. [speedtest 优秀，油管无法流畅 4k，求指导](https://www.v2ex.com/t/846419) `22条评论` `宽带症候群`
 1. [Apple Mail 偶发性提示「Your network preferences prevent content from loading privately」](https://www.v2ex.com/t/846453) `17条评论` `Apple`
 1. [笑死我了，差点把饭给喷出来 npm run](https://www.v2ex.com/t/846466) `16条评论` `Node.js`
+1. [大家的房贷提前还款么？](https://www.v2ex.com/t/846472) `15条评论` `生活`
+1. [如果将后端响应时间缩短一半，则整体响应时间只能减少 5%-10% 而关注前端，同样缩短一半，则整体响应时间可减少 40%-45%](https://www.v2ex.com/t/846463) `15条评论` `程序员`
 1. [年终奖被砍](https://www.v2ex.com/t/846426) `14条评论` `职场话题`
-1. [如果将后端响应时间缩短一半，则整体响应时间只能减少 5%-10% 而关注前端，同样缩短一半，则整体响应时间可减少 40%-45%](https://www.v2ex.com/t/846463) `13条评论` `程序员`
 1. [能不能把前端的 jsdelivr 当成网盘使用?](https://www.v2ex.com/t/846461) `13条评论` `程序员`
 1. [求可刷 openwrt 的便宜的千兆路由器](https://www.v2ex.com/t/846427) `13条评论` `OpenWrt`
 1. [有没有基于团队管理者的 todolist 那样的任务管理工具？](https://www.v2ex.com/t/846404) `12条评论` `程序员`
@@ -25,13 +26,12 @@
 1. [工资条和个税 app 的数据不符合是否说明....](https://www.v2ex.com/t/846449) `9条评论` `职场话题`
 1. [MacOS 系统是否能够调用 OCR 功能？](https://www.v2ex.com/t/846410) `9条评论` `问与答`
 1. [最近想买个 NAS 存储下照片资料什么的,隐私安全这块小白不懂请教下](https://www.v2ex.com/t/846474) `8条评论` `问与答`
-1. [大家的房贷提前还款么？](https://www.v2ex.com/t/846472) `8条评论` `生活`
 1. [程序员体验——我在 RightCapital 的工作](https://www.v2ex.com/t/846430) `8条评论` `酷工作`
 1. [2022 年了，从零写一个还算好看的静态博客只需要 10 分钟](https://www.v2ex.com/t/846441) `7条评论` `程序员`
 1. [请问 m1 是否有办法可以使用 Bypass-分流抢票](https://www.v2ex.com/t/846433) `7条评论` `Apple`
 1. [数字货币钱包资产监控，有这样的软件么？](https://www.v2ex.com/t/846416) `7条评论` `问与答`
 
-数据更新于 2022-04-12 04:21:21
+数据更新于 2022-04-12 04:48:12
 
 <!-- TODAY END -->
 
