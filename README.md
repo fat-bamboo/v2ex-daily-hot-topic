@@ -16,7 +16,7 @@
 1. [mac 怎样实现真全局代理](https://www.v2ex.com/t/846531) `48条评论` `macOS`
 1. [求可刷 openwrt 的便宜的千兆路由器](https://www.v2ex.com/t/846427) `37条评论` `OpenWrt`
 1. [请教一下各位， Macbook 的 ac+还有半年到期，怎么最大化利用它？](https://www.v2ex.com/t/846412) `36条评论` `问与答`
-1. [携号转网到 Google Fi 并购买三星 S22 系列便宜 500 刀](https://www.v2ex.com/t/846408) `34条评论` `Android`
+1. [携号转网到 Google Fi 并购买三星 S22 系列便宜 500 刀](https://www.v2ex.com/t/846408) `35条评论` `Android`
 1. [如果疫情期间主人不幸中招，家里的宠物有什么活命的机会吗](https://www.v2ex.com/t/846551) `33条评论` `生活`
 1. [最近在恶补 JavaScript，对运算符这个地方不太理解](https://www.v2ex.com/t/846528) `25条评论` `JavaScript`
 1. [想找一台无线路由器做纯 AP 用，有推荐的吗？](https://www.v2ex.com/t/846559) `24条评论` `路由器`
@@ -32,7 +32,7 @@
 1. [编程语言会给它的发明者带来哪些利益？](https://www.v2ex.com/t/846590) `15条评论` `程序员`
 1. [求助：能否用 docker 来包裹网站的每个子页面？](https://www.v2ex.com/t/846493) `15条评论` `程序员`
 
-数据更新于 2022-04-12 23:18:14
+数据更新于 2022-04-12 23:34:18
 
 <!-- TODAY END -->
 
