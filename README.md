@@ -10,11 +10,11 @@
 
 1. [今日份的 GitHub Trending 真魔幻](https://www.v2ex.com/t/847082) `108条评论` `程序员`
 1. [为什么蜂窝数据按流量计费？](https://www.v2ex.com/t/847064) `92条评论` `问与答`
-1. [单身了 7 年 刚想开始 没开始就结束了](https://www.v2ex.com/t/847085) `84条评论` `杭州`
+1. [单身了 7 年 刚想开始 没开始就结束了](https://www.v2ex.com/t/847085) `87条评论` `杭州`
 1. [广电总局通知：不得直播未经主管部门批准的网络游戏](https://www.v2ex.com/t/847101) `62条评论` `游戏`
-1. [大家看了今天的 Github Trending 了吗？](https://www.v2ex.com/t/847113) `31条评论` `程序员`
-1. [有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) `24条评论` `生活`
-1. [现在 Apple Genius 吧技术水平堪忧](https://www.v2ex.com/t/847121) `20条评论` `Apple`
+1. [大家看了今天的 Github Trending 了吗？](https://www.v2ex.com/t/847113) `34条评论` `程序员`
+1. [有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) `28条评论` `生活`
+1. [现在 Apple Genius 吧技术水平堪忧](https://www.v2ex.com/t/847121) `22条评论` `Apple`
 1. [AWS Lightsail 居然会自动换 IP](https://www.v2ex.com/t/847086) `18条评论` `Amazon Web Services`
 1. [iPhone 14 是不是该提内存了？](https://www.v2ex.com/t/847092) `17条评论` `iPhone`
 1. [2022 年 Redis 最新面试题](https://www.v2ex.com/t/847076) `17条评论` `程序员`
@@ -22,17 +22,17 @@
 1. [最近在学 docker，发现掌握 docker 能顶半个运维](https://www.v2ex.com/t/847065) `17条评论` `程序员`
 1. [请问现在深圳有能坐一天的图书馆吗？](https://www.v2ex.com/t/847114) `16条评论` `深圳`
 1. [研发工程师，工作站电脑配置清单请教](https://www.v2ex.com/t/847098) `16条评论` `程序员`
+1. [安卓 和 iOS 哪个平台通知推送更好？](https://www.v2ex.com/t/847123) `15条评论` `问与答`
 1. [typora 强制更新，求推荐替代品](https://www.v2ex.com/t/847072) `15条评论` `问与答`
-1. [安卓 和 iOS 哪个平台通知推送更好？](https://www.v2ex.com/t/847123) `13条评论` `问与答`
 1. [工作原因要学 PHP ,请教下最好的 PHP 书籍是哪本?](https://www.v2ex.com/t/847122) `12条评论` `PHP`
 1. [如何开发一个网文写作软件？](https://www.v2ex.com/t/847110) `12条评论` `问与答`
 1. [支持 2.5G LAN 的光猫什么时候能普及啊](https://www.v2ex.com/t/847063) `12条评论` `宽带症候群`
 1. [[求助]ActiveMQ Artemis， shell 中可以正常启动，但使用 systemctl start 无法启动](https://www.v2ex.com/t/847066) `11条评论` `Linux`
 1. [灵感触发时刻](https://www.v2ex.com/t/847071) `9条评论` `问与答`
+1. [Mac 上用什么播放软件看 iptv（m3u8）？](https://www.v2ex.com/t/847129) `8条评论` `macOS`
 1. [PHP 下载远程图片到本地后只显示部分内容是什么情况?](https://www.v2ex.com/t/847106) `8条评论` `PHP`
-1. [covid-19 下的良心公司](https://www.v2ex.com/t/847095) `8条评论` `上海`
 
-数据更新于 2022-04-15 06:47:10
+数据更新于 2022-04-15 06:57:34
 
 <!-- TODAY END -->
 
