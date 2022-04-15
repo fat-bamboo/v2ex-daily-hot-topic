@@ -27,12 +27,12 @@
 1. [安卓 和 iOS 哪个平台通知推送更好？](https://www.v2ex.com/t/847123) `23条评论` `问与答`
 1. [base64 编码图片一般会使体积变大多少？](https://www.v2ex.com/t/847238) `22条评论` `程序员`
 1. [腾讯云香港 两个月被封了 2 次 443，是什么问题？](https://www.v2ex.com/t/847190) `21条评论` `云计算`
+1. [在大一提前学习 Java 和数据库的人占比大吗](https://www.v2ex.com/t/847251) `18条评论` `Java`
 1. [AWS Lightsail 居然会自动换 IP](https://www.v2ex.com/t/847086) `18条评论` `Amazon Web Services`
-1. [在大一提前学习 Java 和数据库的人占比大吗](https://www.v2ex.com/t/847251) `17条评论` `Java`
 1. [请问现在深圳有能坐一天的图书馆吗？](https://www.v2ex.com/t/847114) `17条评论` `深圳`
 1. [iPhone 14 是不是该提内存了？](https://www.v2ex.com/t/847092) `17条评论` `iPhone`
 
-数据更新于 2022-04-15 17:55:51
+数据更新于 2022-04-15 18:21:45
 
 <!-- TODAY END -->
 
