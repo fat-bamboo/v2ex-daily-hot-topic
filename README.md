@@ -11,14 +11,15 @@
 1. [单身了 7 年 刚想开始 没开始就结束了](https://www.v2ex.com/t/847085) `116条评论` `杭州`
 1. [今日份的 GitHub Trending 真魔幻](https://www.v2ex.com/t/847082) `108条评论` `程序员`
 1. [为什么蜂窝数据按流量计费？](https://www.v2ex.com/t/847064) `106条评论` `问与答`
-1. [有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) `62条评论` `生活`
+1. [有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) `63条评论` `生活`
+1. [大家看了今天的 Github Trending 了吗？](https://www.v2ex.com/t/847113) `62条评论` `程序员`
+1. [为什么在一些关于"AppStore 侧载"的新闻下，总能看到支持侧载的人？](https://www.v2ex.com/t/847162) `62条评论` `问与答`
 1. [广电总局通知：不得直播未经主管部门批准的网络游戏](https://www.v2ex.com/t/847101) `62条评论` `游戏`
-1. [大家看了今天的 Github Trending 了吗？](https://www.v2ex.com/t/847113) `60条评论` `程序员`
-1. [为什么在一些关于"AppStore 侧载"的新闻下，总能看到支持侧载的人？](https://www.v2ex.com/t/847162) `55条评论` `问与答`
-1. [不要放弃使用纸币的权力，你还会用现金嘛？](https://www.v2ex.com/t/847170) `48条评论` `问与答`
+1. [不要放弃使用纸币的权力，你还会用现金嘛？](https://www.v2ex.com/t/847170) `52条评论` `问与答`
 1. [这两天看某乎心中五味杂陈](https://www.v2ex.com/t/847172) `33条评论` `生活`
 1. [现在 Apple Genius 吧技术水平堪忧](https://www.v2ex.com/t/847121) `24条评论` `Apple`
 1. [安卓 和 iOS 哪个平台通知推送更好？](https://www.v2ex.com/t/847123) `23条评论` `问与答`
+1. [第三次看 Rust，感觉又快要放弃了😥](https://www.v2ex.com/t/847187) `22条评论` `程序员`
 1. [AWS Lightsail 居然会自动换 IP](https://www.v2ex.com/t/847086) `18条评论` `Amazon Web Services`
 1. [请问现在深圳有能坐一天的图书馆吗？](https://www.v2ex.com/t/847114) `17条评论` `深圳`
 1. [iPhone 14 是不是该提内存了？](https://www.v2ex.com/t/847092) `17条评论` `iPhone`
@@ -26,13 +27,12 @@
 1. [四岁小孩用的 APP 有哪些推荐的吗？画画、益智、互动动画等均可，免费、付费都可接受，最好是 iOS 系统， Android 亦可，谢谢](https://www.v2ex.com/t/847074) `17条评论` `问与答`
 1. [最近在学 docker，发现掌握 docker 能顶半个运维](https://www.v2ex.com/t/847065) `17条评论` `程序员`
 1. [研发工程师，工作站电脑配置清单请教](https://www.v2ex.com/t/847098) `16条评论` `程序员`
-1. [第三次看 Rust，感觉又快要放弃了😥](https://www.v2ex.com/t/847187) `15条评论` `程序员`
 1. [Mac 上用什么播放软件看 iptv（m3u8）？](https://www.v2ex.com/t/847129) `15条评论` `macOS`
 1. [工作原因要学 PHP ,请教下最好的 PHP 书籍是哪本?](https://www.v2ex.com/t/847122) `15条评论` `PHP`
 1. [如何开发一个网文写作软件？](https://www.v2ex.com/t/847110) `15条评论` `互联网`
 1. [typora 强制更新，求推荐替代品](https://www.v2ex.com/t/847072) `15条评论` `问与答`
 
-数据更新于 2022-04-15 09:56:27
+数据更新于 2022-04-15 10:21:44
 
 <!-- TODAY END -->
 
