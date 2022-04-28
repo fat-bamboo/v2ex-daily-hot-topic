@@ -8,15 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
+1. [感觉需要一门中文编程语言用于青少年的编程教育](https://www.v2ex.com/t/849700) `76条评论` `奇思妙想`
 1. [千万不要当舔狗，关于我当了十年舔狗一场空这件事](https://www.v2ex.com/t/849705) `76条评论` `分享发现`
-1. [感觉需要一门中文编程语言用于青少年的编程教育](https://www.v2ex.com/t/849700) `75条评论` `奇思妙想`
-1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733) `61条评论` `生活`
-1. [大家工作用 2 个显示器的多吗？](https://www.v2ex.com/t/849720) `59条评论` `程序员`
+1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733) `66条评论` `生活`
+1. [大家工作用 2 个显示器的多吗？](https://www.v2ex.com/t/849720) `62条评论` `程序员`
+1. [国内有哪些公司可以登 google, 刷 youtube 的？](https://www.v2ex.com/t/849763) `26条评论` `职场话题`
 1. [用了多年 Windows，发现还是喜欢 Mac](https://www.v2ex.com/t/849725) `25条评论` `Apple`
+1. [大家对微博强制显示所有用户 IP 所属地怎么看](https://www.v2ex.com/t/849792) `24条评论` `分享发现`
+1. [是不是战争快开始了，台海局势紧张](https://www.v2ex.com/t/849781) `22条评论` `问与答`
 1. [祖传代码](https://www.v2ex.com/t/849723) `22条评论` `职场话题`
-1. [是不是战争快开始了，台海局势紧张](https://www.v2ex.com/t/849781) `19条评论` `问与答`
-1. [国内有哪些公司可以登 google, 刷 youtube 的？](https://www.v2ex.com/t/849763) `18条评论` `职场话题`
 1. [你们的东西坏了是选择修还是换？](https://www.v2ex.com/t/849730) `18条评论` `问与答`
+1. [瑞幸咖啡加盟，有大佬来聊聊经验吗~](https://www.v2ex.com/t/849786) `16条评论` `问与答`
+1. [微信不是会校验图片的 CRC 么，为啥群里发的相同的表情/图片会在本地保存多份呢？](https://www.v2ex.com/t/849777) `16条评论` `微信`
 1. [IOS 端内网穿透方案探讨](https://www.v2ex.com/t/849754) `16条评论` `宽带症候群`
 1. [用了多年 windows/mac，发现 iPad 真香](https://www.v2ex.com/t/849748) `16条评论` `Apple`
 1. [其他获得铜币的方式？](https://www.v2ex.com/t/849722) `15条评论` `V2EX`
@@ -24,15 +27,12 @@
 1. [求一名前端实习生，做一个上 Hacker News (HN) 首页的项目](https://www.v2ex.com/t/849746) `13条评论` `酷工作`
 1. [用了多年 Mac，发现还是喜欢 Manjaro](https://www.v2ex.com/t/849742) `13条评论` `Apple`
 1. [MBP 14 寸有推荐的经济显示器吗](https://www.v2ex.com/t/849707) `13条评论` `Apple`
-1. [微信不是会校验图片的 CRC 么，为啥群里发的相同的表情/图片会在本地保存多份呢？](https://www.v2ex.com/t/849777) `12条评论` `微信`
 1. [软考系统架构设计师现在值得考吗？](https://www.v2ex.com/t/849712) `10条评论` `程序员`
-1. [mongodb update 空 object ({}) 保存为 array ([])](https://www.v2ex.com/t/849736) `9条评论` `PHP`
-1. [学校的 GPU 分配问题](https://www.v2ex.com/t/849711) `9条评论` `问与答`
-1. [AMD 5825U or Intel 1260P ?](https://www.v2ex.com/t/849773) `8条评论` `问与答`
-1. [JetBrains Fleet Early Preview.](https://www.v2ex.com/t/849759) `8条评论` `分享发现`
-1. [[我想买车] 最近有打算买车，但是没什么实际购车经验/体验，买过车的小伙伴给点意见](https://www.v2ex.com/t/849749) `8条评论` `汽车`
+1. [AMD 5825U or Intel 1260P ?](https://www.v2ex.com/t/849773) `9条评论` `问与答`
+1. [油猴脚本怎么云同步](https://www.v2ex.com/t/849770) `9条评论` `浏览器`
+1. [JetBrains Fleet Early Preview.](https://www.v2ex.com/t/849759) `9条评论` `分享发现`
 
-数据更新于 2022-04-28 05:51:38
+数据更新于 2022-04-28 06:25:34
 
 <!-- TODAY END -->
 
