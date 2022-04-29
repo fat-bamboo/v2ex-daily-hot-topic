@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 有什么让你离不开的功能吗？](https://www.v2ex.com/t/849965) `157条评论` `iPhone`
+1. [iPhone 有什么让你离不开的功能吗？](https://www.v2ex.com/t/849965) `158条评论` `iPhone`
+1. [小学背的诗词长大之后才慢慢欣赏](https://www.v2ex.com/t/850010) `125条评论` `随想`
 1. [人在银行是否要离职](https://www.v2ex.com/t/849941) `123条评论` `职场话题`
-1. [小学背的诗词长大之后才慢慢欣赏](https://www.v2ex.com/t/850010) `123条评论` `随想`
 1. [go 用来业务开发, 开发速度是不是吊打其他语言?](https://www.v2ex.com/t/849956) `113条评论` `Go 编程语言`
 1. [作为在深圳上班的程序猿狗，有必要为了好找对象而买车吗？](https://www.v2ex.com/t/850017) `92条评论` `程序员`
 1. [求推荐 Linux server 发行版](https://www.v2ex.com/t/849966) `65条评论` `Linux`
@@ -25,14 +25,14 @@
 1. [关于 ios 图片文字识别严重影响旧手机存黄图的事](https://www.v2ex.com/t/850001) `21条评论` `Apple`
 1. [大家下午摸鱼吗？](https://www.v2ex.com/t/849999) `19条评论` `生活`
 1. [关于公司长期拖欠工资， V 友们怎么处理的](https://www.v2ex.com/t/849969) `18条评论` `问与答`
-1. [🎙枫言枫语播客《Livid: 十年 V2EX，复古游戏，和未来》](https://www.v2ex.com/t/850074) `16条评论` `Podcast`
+1. [🎙枫言枫语播客《Livid: 十年 V2EX，复古游戏，和未来》](https://www.v2ex.com/t/850074) `17条评论` `Podcast`
+1. [Android 上有类似于 Surge 和 Quantumult X 的 app 吗？](https://www.v2ex.com/t/850064) `16条评论` `Android`
 1. [各位 dalao 平时都有哪些养生习惯](https://www.v2ex.com/t/850049) `16条评论` `生活`
-1. [Android 上有类似于 Surge 和 Quantumult X 的 app 吗？](https://www.v2ex.com/t/850064) `15条评论` `Android`
+1. [spotify 各方面确实比国内音乐平台要优秀](https://www.v2ex.com/t/850065) `15条评论` `音乐`
 1. [理性讨论一下，大家喜不喜欢这种靠拆分周末来拼接的“长假”？](https://www.v2ex.com/t/850033) `15条评论` `问与答`
 1. [最近发现苹果 12 和 m1 充电漏点](https://www.v2ex.com/t/849949) `15条评论` `MacBook Pro`
-1. [搭建公有云，私有地址不够用怎么办](https://www.v2ex.com/t/850070) `14条评论` `互联网`
 
-数据更新于 2022-04-29 11:31:08
+数据更新于 2022-04-29 11:45:37
 
 <!-- TODAY END -->
 
