@@ -8,15 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [用了多年 Linux 和 Windows，发现还是喜欢 Arch](https://www.v2ex.com/t/850164) `33条评论` `Linux`
+1. [用了多年 Linux 和 Windows，发现还是喜欢 Arch](https://www.v2ex.com/t/850164) `38条评论` `Linux`
 1. [村通网： iPhone 单卡比双卡信号好](https://www.v2ex.com/t/850157) `18条评论` `iPhone`
-1. [关于大数据开发的工作方向，求大佬解惑](https://www.v2ex.com/t/850167) `7条评论` `问与答`
+1. [关于大数据开发的工作方向，求大佬解惑](https://www.v2ex.com/t/850167) `8条评论` `问与答`
+1. [求一些 3-5 年 Java 的面试资源](https://www.v2ex.com/t/850159) `8条评论` `Java`
+1. [请教一个 vue3 中 ref 的问题](https://www.v2ex.com/t/850162) `7条评论` `Vue.js`
 1. [如何学习 web 3.0](https://www.v2ex.com/t/850160) `7条评论` `程序员`
-1. [求一些 3-5 年 Java 的面试资源](https://www.v2ex.com/t/850159) `7条评论` `Java`
-1. [请教一个 vue3 中 ref 的问题](https://www.v2ex.com/t/850162) `6条评论` `Vue.js`
+1. [北京常态化核酸检测，要出茧子了](https://www.v2ex.com/t/850183) `6条评论` `北京`
+1. [Redis 默认未使用 tls 协议，是否意味着传输数据可能会出错？](https://www.v2ex.com/t/850179) `6条评论` `问与答`
 1. [有两个同一家银行的账户，但是一个公众号只能绑定一个账户来查询余额，怎么办？](https://www.v2ex.com/t/850161) `6条评论` `微信`
 
-数据更新于 2022-04-30 03:19:49
+数据更新于 2022-04-30 03:53:37
 
 <!-- TODAY END -->
 
