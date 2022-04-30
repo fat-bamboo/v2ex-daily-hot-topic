@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [用了多年 Linux 和 Windows，发现还是喜欢 Arch](https://www.v2ex.com/t/850164) `68条评论` `Linux`
-1. [北京常态化核酸检测，要出茧子了](https://www.v2ex.com/t/850183) `36条评论` `北京`
+1. [用了多年 Linux 和 Windows，发现还是喜欢 Arch](https://www.v2ex.com/t/850164) `69条评论` `Linux`
+1. [北京常态化核酸检测，要出茧子了](https://www.v2ex.com/t/850183) `38条评论` `北京`
 1. [Redis 默认未使用 tls 协议，是否意味着传输数据可能会出错？](https://www.v2ex.com/t/850179) `31条评论` `问与答`
 1. [我觉得展示 ip 属地不如展示真实年龄](https://www.v2ex.com/t/850202) `31条评论` `生活`
 1. [电池充电 85%能保护电池!?](https://www.v2ex.com/t/850189) `30条评论` `Android`
 1. [看完骆驼祥子，感觉好像自己哦](https://www.v2ex.com/t/850169) `27条评论` `文学`
-1. [广州电信 2000M 宽带办理记](https://www.v2ex.com/t/850195) `18条评论` `宽带症候群`
+1. [广州电信 2000M 宽带办理记](https://www.v2ex.com/t/850195) `19条评论` `宽带症候群`
+1. [怎么安全的出二手电子产品？](https://www.v2ex.com/t/850203) `18条评论` `MacBook Pro`
 1. [村通网： iPhone 单卡比双卡信号好](https://www.v2ex.com/t/850157) `18条评论` `iPhone`
-1. [怎么安全的出二手电子产品？](https://www.v2ex.com/t/850203) `17条评论` `MacBook Pro`
+1. [windows 下最好的免费 ssh 工具是啥？](https://www.v2ex.com/t/850220) `17条评论` `问与答`
 1. [小弟打算买传闻中的 M2 Macbook Pro，寻求点意见](https://www.v2ex.com/t/850198) `16条评论` `MacBook Pro`
 1. [V2 现在流行跟风吗？](https://www.v2ex.com/t/850190) `16条评论` `问与答`
+1. [最近逛病毒吧，很多用 windows 自带和火绒的都被勒索了](https://www.v2ex.com/t/850215) `15条评论` `Windows`
 1. [索尼 9000h 和雷鸟 r645c 求推荐](https://www.v2ex.com/t/850182) `15条评论` `问与答`
-1. [windows 下最好的免费 ssh 工具是啥？](https://www.v2ex.com/t/850220) `14条评论` `问与答`
+1. [小米手机怎么快速方便传输文件到电脑？](https://www.v2ex.com/t/850221) `12条评论` `问与答`
 1. [南京电信 1000M 宽带有公网 ip，有点贵不想用了。](https://www.v2ex.com/t/850211) `12条评论` `宽带症候群`
 1. [如何学习 web 3.0](https://www.v2ex.com/t/850160) `11条评论` `程序员`
 1. [求一些 3-5 年 Java 的面试资源](https://www.v2ex.com/t/850159) `11条评论` `Java`
-1. [小米手机怎么快速方便传输文件到电脑？](https://www.v2ex.com/t/850221) `10条评论` `问与答`
 1. [大家的 5 月挑战出来了吗？都来晒下吧](https://www.v2ex.com/t/850216) `10条评论` `Apple`
-1. [最近逛病毒吧，很多用 windows 自带和火绒的都被勒索了](https://www.v2ex.com/t/850215) `10条评论` `Windows`
 1. [关于大数据开发的工作方向，求大佬解惑](https://www.v2ex.com/t/850167) `10条评论` `问与答`
 1. [美团现在已经沦落到跟 pdd 一样搞套路了](https://www.v2ex.com/t/850188) `9条评论` `互联网`
 1. [前端出差](https://www.v2ex.com/t/850213) `8条评论` `程序员`
 1. [对于 npm 包的间接依赖包升级，大家有没有比较好的做法？](https://www.v2ex.com/t/850177) `8条评论` `JavaScript`
 
-数据更新于 2022-04-30 09:56:26
+数据更新于 2022-04-30 10:20:56
 
 <!-- TODAY END -->
 
