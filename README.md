@@ -12,14 +12,14 @@
 1. [有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) `38条评论` `问与答`
 1. [记录一下自己成为密 j 到集 z 隔 l 的整个过程](https://www.v2ex.com/t/850478) `28条评论` `北京`
 1. [Win11 上，想要完整的 Linux 环境该怎么做？](https://www.v2ex.com/t/850464) `26条评论` `问与答`
-1. [大厂完善的基建对于个人发展的利弊](https://www.v2ex.com/t/850515) `24条评论` `程序员`
+1. [大厂完善的基建对于个人发展的利弊](https://www.v2ex.com/t/850515) `25条评论` `程序员`
 1. [资产到 1~2 千万的中产要不要润呢？](https://www.v2ex.com/t/850477) `23条评论` `问与答`
 1. [6 月出 macbook air 的可能性大吗？](https://www.v2ex.com/t/850460) `22条评论` `Apple`
 1. [有什么方法限制外人访问自己的 DoH 服务](https://www.v2ex.com/t/850493) `17条评论` `DNS`
 1. [谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) `17条评论` `程序员`
 1. [2022 了，光猫桥接，路由器拨号算好习惯还是臭毛病](https://www.v2ex.com/t/850519) `16条评论` `宽带症候群`
+1. [红米 k40 刷了 pixel experience android 12 ，感觉真棒呀](https://www.v2ex.com/t/850511) `16条评论` `分享发现`
 1. [宽带越来越高， AC86U 退役，求推荐 AP 路由](https://www.v2ex.com/t/850514) `15条评论` `宽带症候群`
-1. [红米 k40 刷了 pixel experience android 12 ，感觉真棒呀](https://www.v2ex.com/t/850511) `15条评论` `分享发现`
 1. [Linux 内网远程桌面 vnc xrdp teamviewer anydesk 哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) `15条评论` `程序员`
 1. [无人机蜂群设计构想](https://www.v2ex.com/t/850468) `15条评论` `奇思妙想`
 1. [一个电视机顶盒引发的 tcp 路径 mtu 问题](https://www.v2ex.com/t/850496) `13条评论` `宽带症候群`
@@ -32,7 +32,7 @@
 1. [做了一个 8-bit Assembler Simulator](https://www.v2ex.com/t/850469) `8条评论` `分享创造`
 1. [这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) `8条评论` `问与答`
 
-数据更新于 2022-05-02 11:45:46
+数据更新于 2022-05-02 11:56:08
 
 <!-- TODAY END -->
 
