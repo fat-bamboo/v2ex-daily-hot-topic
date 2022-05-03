@@ -16,23 +16,23 @@
 1. [苦于这种 bug 没见过不知道怎么处理, 特上来求助..](https://www.v2ex.com/t/850619) `33条评论` `程序员`
 1. [突发奇想，想调研下有多少 V2 好友经历过“落伍者”年代？](https://www.v2ex.com/t/850635) `33条评论` `站长`
 1. [v 友们，想给父母更新一次手机（只限 iPhone ），相对护眼 LCD 屏的 iPhone 11 是不是最优解？](https://www.v2ex.com/t/850664) `31条评论` `问与答`
+1. [2022 了 macos 还不能像 ios 那样做到应用仅限 App Store 安装吗](https://www.v2ex.com/t/850676) `29条评论` `macOS`
 1. [新装个系统，本来想安个 notpad++， qtmd](https://www.v2ex.com/t/850657) `29条评论` `问与答`
-1. [2022 了 macos 还不能像 ios 那样做到应用仅限 App Store 安装吗](https://www.v2ex.com/t/850676) `28条评论` `macOS`
 1. [求个 Arch Linux 的详细安装教程](https://www.v2ex.com/t/850666) `27条评论` `Linux`
 1. [公网 ip，需要做什么安全防范措施么？](https://www.v2ex.com/t/850616) `27条评论` `宽带症候群`
-1. [1Password 8 for Mac 正式发布了](https://www.v2ex.com/t/850700) `23条评论` `macOS`
+1. [1Password 8 for Mac 正式发布了](https://www.v2ex.com/t/850700) `25条评论` `macOS`
 1. [美国第一证券 的 app 为何 APPSotre 下架了？](https://www.v2ex.com/t/850588) `23条评论` `投资`
 1. [一个优秀程序员的标准是什么？](https://www.v2ex.com/t/850683) `21条评论` `问与答`
 1. [vscode SSL 自动登录死活设置不上](https://www.v2ex.com/t/850638) `21条评论` `Visual Studio Code`
 1. [求推荐手机与电脑（windows）无线文件快速互传软件或方案](https://www.v2ex.com/t/850625) `21条评论` `程序员`
 1. [放假一个人能去哪？](https://www.v2ex.com/t/850640) `20条评论` `问与答`
 1. [假期学习 react，写了一个查菜谱的小网站，另外还有“老饭骨”的菜谱合集可以查看～](https://www.v2ex.com/t/850677) `19条评论` `分享创造`
-1. [OpenVPN 安全性疑问](https://www.v2ex.com/t/850674) `18条评论` `问与答`
+1. [OpenVPN 安全性疑问](https://www.v2ex.com/t/850674) `19条评论` `问与答`
 1. [一年多经验 Java 后端简历求指导](https://www.v2ex.com/t/850682) `16条评论` `求职`
 1. [请问用 IINA 播放 YouTube 视频怎样指定分辨率？](https://www.v2ex.com/t/850594) `13条评论` `macOS`
 1. [现在 Java 转 go 是不是个好时机？](https://www.v2ex.com/t/850704) `12条评论` `Go 编程语言`
 
-数据更新于 2022-05-03 22:00:34
+数据更新于 2022-05-03 22:28:05
 
 <!-- TODAY END -->
 
