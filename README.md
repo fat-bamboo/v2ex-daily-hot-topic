@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2022-05-04 01:56:48
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [荣耀 60Pro 的拍照延迟你能忍的嘛：女儿秋千荡到最高处，一个抓拍，结果 3 秒后才成像，拍到却是荡到最低点的照片；女儿开心的朝你跑来，一个抓拍，结果等成像时，脸已出框！](https://www.v2ex.com/t/850593) `79条评论` `摄影`
 1. [感觉闲鱼真是越来越难淘到好东西了](https://www.v2ex.com/t/850590) `67条评论` `随想`
 1. [macos12（Monterey）目前可以升级吗？ bug 什么的修复的怎么样了？我还停留在 bigsur](https://www.v2ex.com/t/850584) `46条评论` `程序员`
@@ -31,38 +41,6 @@
 1. [一年多经验 Java 后端简历求指导](https://www.v2ex.com/t/850682) `16条评论` `求职`
 1. [现在 Java 转 go 是不是个好时机？](https://www.v2ex.com/t/850704) `13条评论` `Go 编程语言`
 1. [请问用 IINA 播放 YouTube 视频怎样指定分辨率？](https://www.v2ex.com/t/850594) `13条评论` `macOS`
-
-数据更新于 2022-05-03 23:56:58
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [大厂完善的基建对于个人发展的利弊](https://www.v2ex.com/t/850515) `62条评论` `程序员`
-1. [有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) `47条评论` `问与答`
-1. [有自己搭建低功耗迷你主机+UPS 的方案么，求推荐](https://www.v2ex.com/t/850467) `44条评论` `问与答`
-1. [2022 了，光猫桥接，路由器拨号算好习惯还是臭毛病](https://www.v2ex.com/t/850519) `34条评论` `宽带症候群`
-1. [Win11 上，想要完整的 Linux 环境该怎么做？](https://www.v2ex.com/t/850464) `31条评论` `问与答`
-1. [能否说说运维工作内容](https://www.v2ex.com/t/850507) `29条评论` `DevOps`
-1. [宽带越来越高， AC86U 退役，求推荐 AP 路由](https://www.v2ex.com/t/850514) `29条评论` `宽带症候群`
-1. [记录一下自己成为密 j 到集 z 隔 l 的整个过程](https://www.v2ex.com/t/850478) `28条评论` `北京`
-1. [红米 k40 刷了 pixel experience android 12 ，感觉真棒呀](https://www.v2ex.com/t/850511) `27条评论` `分享发现`
-1. [谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) `26条评论` `程序员`
-1. [6 月出 macbook air 的可能性大吗？](https://www.v2ex.com/t/850460) `24条评论` `Apple`
-1. [资产到 1~2 千万的中产要不要润呢？](https://www.v2ex.com/t/850477) `23条评论` `问与答`
-1. [考研为什么不建议去双非呢？](https://www.v2ex.com/t/850540) `20条评论` `程序员`
-1. [有什么方法限制外人访问自己的 DoH 服务](https://www.v2ex.com/t/850493) `17条评论` `DNS`
-1. [Linux 内网远程桌面 vnc xrdp teamviewer anydesk 哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) `15条评论` `程序员`
-1. [无人机蜂群设计构想](https://www.v2ex.com/t/850468) `15条评论` `奇思妙想`
-1. [看着 Ubuntu 22.04 新内核眼馋，目前 Debian 11 stable， 是 backports 安装新内核 还是直接升级到 testing？](https://www.v2ex.com/t/850563) `14条评论` `Linux`
-1. [25 岁，能够裸辞休息半年吗？](https://www.v2ex.com/t/850577) `13条评论` `职场话题`
-1. [一个电视机顶盒引发的 tcp 路径 mtu 问题](https://www.v2ex.com/t/850496) `13条评论` `宽带症候群`
-1. [电视的网络性能太差应该怎么解决](https://www.v2ex.com/t/850571) `12条评论` `问与答`
-1. [macOS 12.3.1 不确定是否该升级 ？](https://www.v2ex.com/t/850536) `12条评论` `Apple`
-1. [越是社恐，焦虑越要反复的练习，直到脱敏为止。](https://www.v2ex.com/t/850504) `12条评论` `分享发现`
-1. [求推荐一套 12 代 intel 装机](https://www.v2ex.com/t/850492) `12条评论` `问与答`
 
 <!-- YESTERDAY END -->
 
