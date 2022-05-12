@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `162条评论` `程序员`
-1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `76条评论` `生活`
+1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `165条评论` `程序员`
+1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `81条评论` `生活`
 1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `75条评论` `杭州`
-1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `68条评论` `程序员`
-1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `57条评论` `Python`
-1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `52条评论` `深圳`
+1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `69条评论` `程序员`
+1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `60条评论` `Python`
+1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `53条评论` `深圳`
 1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `47条评论` `Linux`
-1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `44条评论` `Bitcoin`
+1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `46条评论` `Bitcoin`
+1. [自建全套开源 DevOps 实践](https://www.v2ex.com/t/852433) `37条评论` `DevOps`
 1. [身处上海的何去何从](https://www.v2ex.com/t/852392) `35条评论` `生活`
-1. [自建全套开源 DevOps 实践](https://www.v2ex.com/t/852433) `33条评论` `DevOps`
+1. [北京要静态管理 3 天？](https://www.v2ex.com/t/852454) `34条评论` `北京`
 1. [Flutter 3 发布，支持 iOS, Android, web, Windows, macOS, Linux](https://www.v2ex.com/t/852315) `21条评论` `分享发现`
-1. [北京要静态管理 3 天？](https://www.v2ex.com/t/852454) `20条评论` `北京`
 1. [谁来给我讲讲不同语言（主要是 js 和两大框架）最新的缩进规范](https://www.v2ex.com/t/852405) `20条评论` `程序员`
 1. [减小截屏面积是为了公司省流量吗](https://www.v2ex.com/t/852401) `19条评论` `问与答`
 1. [难难难，北京社保要断了](https://www.v2ex.com/t/852380) `16条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [lastpass 信用卡支付失败，求解](https://www.v2ex.com/t/852427) `13条评论` `问与答`
 1. [关于 RUST 生命周期的疑问](https://www.v2ex.com/t/852344) `13条评论` `Rust`
 
-数据更新于 2022-05-12 09:55:38
+数据更新于 2022-05-12 10:22:48
 
 <!-- TODAY END -->
 
