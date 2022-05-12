@@ -13,7 +13,7 @@
 1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `87条评论` `生活`
 1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `85条评论` `程序员`
 1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `71条评论` `Bitcoin`
-1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `64条评论` `Python`
+1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `65条评论` `Python`
 1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `63条评论` `深圳`
 1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `61条评论` `Linux`
 1. [v 站遇事不决就是润，润不出去了这下](https://www.v2ex.com/t/852497) `46条评论` `生活`
@@ -32,7 +32,7 @@
 1. [Windows Defender 误报 VMware 虚拟机磁盘文件为木马](https://www.v2ex.com/t/852362) `16条评论` `Windows`
 1. [js 有什么优雅的方法可以在处理 json 数组的时候只改变其中一个键值对的值并且自动保留其他的键值对不变吗](https://www.v2ex.com/t/852327) `16条评论` `JavaScript`
 
-数据更新于 2022-05-12 20:41:52
+数据更新于 2022-05-12 20:55:53
 
 <!-- TODAY END -->
 
