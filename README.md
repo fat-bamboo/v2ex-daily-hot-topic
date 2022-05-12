@@ -9,30 +9,30 @@
 <!-- TODAY BEGIN -->
 
 1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `52条评论` `Python`
-1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `49条评论` `杭州`
-1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `39条评论` `生活`
-1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `32条评论` `程序员`
+1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `52条评论` `杭州`
+1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `48条评论` `生活`
+1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `46条评论` `程序员`
 1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `25条评论` `深圳`
 1. [Flutter 3 发布，支持 iOS, Android, web, Windows, macOS, Linux](https://www.v2ex.com/t/852315) `21条评论` `分享发现`
+1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `19条评论` `Linux`
+1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `16条评论` `程序员`
 1. [js 有什么优雅的方法可以在处理 json 数组的时候只改变其中一个键值对的值并且自动保留其他的键值对不变吗](https://www.v2ex.com/t/852327) `16条评论` `JavaScript`
-1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `14条评论` `Linux`
 1. [郭明琪： 2023 年 iPhone 可能会换 Type-C](https://www.v2ex.com/t/852331) `14条评论` `iPhone`
 1. [关于 RUST 生命周期的疑问](https://www.v2ex.com/t/852344) `13条评论` `Rust`
 1. [Windows Defender 误报 VMware 虚拟机磁盘文件为木马](https://www.v2ex.com/t/852362) `12条评论` `Windows`
+1. [如何安装多系统](https://www.v2ex.com/t/852350) `12条评论` `问与答`
 1. [[腾讯云史低][最后一天]新加坡等海外地区两核 2G30M 一年 96[老账号也可上车][海外特惠]新加坡等两核 2G30M 三年 288 三年还有 2H4G-2H8G 等[活动快结束]](https://www.v2ex.com/t/852324) `12条评论` `优惠信息`
-1. [如何安装多系统](https://www.v2ex.com/t/852350) `11条评论` `问与答`
+1. [身处上海的何去何从](https://www.v2ex.com/t/852392) `11条评论` `生活`
+1. [难难难，北京社保要断了](https://www.v2ex.com/t/852380) `11条评论` `职场话题`
 1. [大家有没觉得 PDD 速度非常快，比淘宝、京东快非非非多](https://www.v2ex.com/t/852328) `11条评论` `京东`
-1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `10条评论` `程序员`
 1. [局域网 Samba 速度很慢，只有 2M](https://www.v2ex.com/t/852345) `10条评论` `程序员`
-1. [难难难，北京社保要断了](https://www.v2ex.com/t/852380) `9条评论` `职场话题`
+1. [突破千兆外网的低成本思路，帮看看是否可行](https://www.v2ex.com/t/852382) `9条评论` `宽带症候群`
 1. [老哥们 都用啥大流量卡~~~](https://www.v2ex.com/t/852336) `9条评论` `问与答`
 1. [学了 3 天 Typescript 写了一个微信读书的 Obsidian 插件](https://www.v2ex.com/t/852317) `9条评论` `分享创造`
+1. [2022 年 5 月 还有必要买 M1 的 MBP 或 MBA 吗？](https://www.v2ex.com/t/852366) `8条评论` `Apple`
 1. [内网外能共用一个前端么?](https://www.v2ex.com/t/852330) `8条评论` `问与答`
-1. [2022 年 5 月 还有必要买 M1 的 MBP 或 MBA 吗？](https://www.v2ex.com/t/852366) `7条评论` `Apple`
-1. [NVIM LSP 跳转到依赖库，启动了多个 LSP 服务问题](https://www.v2ex.com/t/852325) `7条评论` `Vim`
-1. [ubuntu server 频繁更新会不会经常需要重启？](https://www.v2ex.com/t/852377) `6条评论` `Ubuntu`
 
-数据更新于 2022-05-12 05:12:35
+数据更新于 2022-05-12 05:40:31
 
 <!-- TODAY END -->
 
