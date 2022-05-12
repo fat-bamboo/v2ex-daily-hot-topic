@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `191条评论` `程序员`
+1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `192条评论` `程序员`
 1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `87条评论` `杭州`
 1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `87条评论` `生活`
 1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `82条评论` `程序员`
-1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `66条评论` `Bitcoin`
+1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `68条评论` `Bitcoin`
 1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `64条评论` `Python`
 1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `62条评论` `深圳`
 1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `55条评论` `Linux`
@@ -24,15 +24,15 @@
 1. [Flutter 3 发布，支持 iOS, Android, web, Windows, macOS, Linux](https://www.v2ex.com/t/852315) `21条评论` `分享发现`
 1. [谁来给我讲讲不同语言（主要是 js 和两大框架）最新的缩进规范](https://www.v2ex.com/t/852405) `20条评论` `程序员`
 1. [减小截屏面积是为了公司省流量吗](https://www.v2ex.com/t/852401) `19条评论` `问与答`
+1. [[吐槽]这个世界上为什么会有 Tailwind Css 这种东西？](https://www.v2ex.com/t/852519) `16条评论` `问与答`
 1. [大家如何管理 chrome 打开的那么多标签页？](https://www.v2ex.com/t/852445) `16条评论` `Chrome`
 1. [难难难，北京社保要断了](https://www.v2ex.com/t/852380) `16条评论` `职场话题`
 1. [Windows Defender 误报 VMware 虚拟机磁盘文件为木马](https://www.v2ex.com/t/852362) `16条评论` `Windows`
 1. [js 有什么优雅的方法可以在处理 json 数组的时候只改变其中一个键值对的值并且自动保留其他的键值对不变吗](https://www.v2ex.com/t/852327) `16条评论` `JavaScript`
 1. [重新开始使用 RSS 阅读器](https://www.v2ex.com/t/852451) `15条评论` `程序员`
 1. [一些语言中 String 的坑](https://www.v2ex.com/t/852409) `15条评论` `分享发现`
-1. [[吐槽]这个世界上为什么会有 Tailwind Css 这种东西？](https://www.v2ex.com/t/852519) `14条评论` `问与答`
 
-数据更新于 2022-05-12 15:41:20
+数据更新于 2022-05-12 15:56:25
 
 <!-- TODAY END -->
 
