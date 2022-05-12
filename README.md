@@ -8,9 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-空空如也
+1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `40条评论` `Python`
+1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `25条评论` `深圳`
+1. [Flutter 3 发布，支持 iOS, Android, web, Windows, macOS, Linux](https://www.v2ex.com/t/852315) `21条评论` `分享发现`
+1. [js 有什么优雅的方法可以在处理 json 数组的时候只改变其中一个键值对的值并且自动保留其他的键值对不变吗](https://www.v2ex.com/t/852327) `10条评论` `JavaScript`
+1. [学了 3 天 Typescript 写了一个微信读书的 Obsidian 插件](https://www.v2ex.com/t/852317) `9条评论` `分享创造`
+1. [[腾讯云史低][最后一天]新加坡等海外地区两核 2G30M 一年 96[老账号也可上车][海外特惠]新加坡等两核 2G30M 三年 288 三年还有 2H4G-2H8G 等[活动快结束]](https://www.v2ex.com/t/852324) `7条评论` `优惠信息`
 
-数据更新于 2022-05-12 00:26:52
+数据更新于 2022-05-12 02:30:58
 
 <!-- TODAY END -->
 
