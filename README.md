@@ -12,13 +12,13 @@
 1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `87条评论` `生活`
 1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `86条评论` `杭州`
 1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `80条评论` `程序员`
-1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `63条评论` `Python`
+1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `64条评论` `Python`
 1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `62条评论` `深圳`
-1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `60条评论` `Bitcoin`
-1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `53条评论` `Linux`
+1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `61条评论` `Bitcoin`
+1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `54条评论` `Linux`
 1. [北京要静态管理 3 天？](https://www.v2ex.com/t/852454) `41条评论` `北京`
+1. [v 站遇事不决就是润，润不出去了这下](https://www.v2ex.com/t/852497) `38条评论` `生活`
 1. [自建全套开源 DevOps 实践](https://www.v2ex.com/t/852433) `38条评论` `DevOps`
-1. [v 站遇事不决就是润，润不出去了这下](https://www.v2ex.com/t/852497) `36条评论` `生活`
 1. [身处上海的何去何从](https://www.v2ex.com/t/852392) `35条评论` `生活`
 1. [Flutter 3 发布，支持 iOS, Android, web, Windows, macOS, Linux](https://www.v2ex.com/t/852315) `21条评论` `分享发现`
 1. [谁来给我讲讲不同语言（主要是 js 和两大框架）最新的缩进规范](https://www.v2ex.com/t/852405) `20条评论` `程序员`
@@ -29,10 +29,10 @@
 1. [js 有什么优雅的方法可以在处理 json 数组的时候只改变其中一个键值对的值并且自动保留其他的键值对不变吗](https://www.v2ex.com/t/852327) `16条评论` `JavaScript`
 1. [重新开始使用 RSS 阅读器](https://www.v2ex.com/t/852451) `15条评论` `程序员`
 1. [一些语言中 String 的坑](https://www.v2ex.com/t/852409) `15条评论` `分享发现`
+1. [想买个 iPhone13pro 只用来旅拍，什么渠道最划算?](https://www.v2ex.com/t/852484) `14条评论` `iPhone`
 1. [2022 年 5 月 还有必要买 M1 的 MBP 或 MBA 吗？](https://www.v2ex.com/t/852366) `14条评论` `Apple`
-1. [郭明琪： 2023 年 iPhone 可能会换 Type-C](https://www.v2ex.com/t/852331) `14条评论` `iPhone`
 
-数据更新于 2022-05-12 14:00:56
+数据更新于 2022-05-12 14:29:03
 
 <!-- TODAY END -->
 
