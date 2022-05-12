@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `176条评论` `程序员`
+1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381) `177条评论` `程序员`
 1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356) `84条评论` `生活`
-1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `78条评论` `杭州`
+1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) `79条评论` `杭州`
 1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388) `76条评论` `程序员`
-1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `60条评论` `Python`
+1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314) `61条评论` `Python`
 1. [我是新时代四败青年](https://www.v2ex.com/t/852316) `58条评论` `深圳`
-1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `50条评论` `Bitcoin`
+1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413) `52条评论` `Bitcoin`
 1. [Linux 桌面的春天要来了？](https://www.v2ex.com/t/852363) `48条评论` `Linux`
-1. [北京要静态管理 3 天？](https://www.v2ex.com/t/852454) `40条评论` `北京`
+1. [北京要静态管理 3 天？](https://www.v2ex.com/t/852454) `41条评论` `北京`
 1. [自建全套开源 DevOps 实践](https://www.v2ex.com/t/852433) `38条评论` `DevOps`
 1. [身处上海的何去何从](https://www.v2ex.com/t/852392) `35条评论` `生活`
 1. [Flutter 3 发布，支持 iOS, Android, web, Windows, macOS, Linux](https://www.v2ex.com/t/852315) `21条评论` `分享发现`
@@ -32,7 +32,7 @@
 1. [lastpass 信用卡支付失败，求解](https://www.v2ex.com/t/852427) `13条评论` `问与答`
 1. [关于 RUST 生命周期的疑问](https://www.v2ex.com/t/852344) `13条评论` `Rust`
 
-数据更新于 2022-05-12 11:45:42
+数据更新于 2022-05-12 11:56:09
 
 <!-- TODAY END -->
 
