@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位 这样的人还有救吗](https://www.v2ex.com/t/853076) `145条评论` `程序员`
+1. [各位 这样的人还有救吗](https://www.v2ex.com/t/853076) `152条评论` `程序员`
+1. [各位，在工作或生活上有没有一直在坚持的好习惯](https://www.v2ex.com/t/853078) `80条评论` `程序员`
 1. [大家的收入到底有多高，每次看到各位发的，我都不好意思跟帖了](https://www.v2ex.com/t/853121) `79条评论` `问与答`
-1. [各位，在工作或生活上有没有一直在坚持的好习惯](https://www.v2ex.com/t/853078) `76条评论` `程序员`
-1. [抛砖引玉，有没有人关注此次 MSI 赛事](https://www.v2ex.com/t/853071) `54条评论` `英雄联盟`
+1. [抛砖引玉，有没有人关注此次 MSI 赛事](https://www.v2ex.com/t/853071) `57条评论` `英雄联盟`
 1. [你人生中最引以为豪的一件事情是什么](https://www.v2ex.com/t/853130) `27条评论` `程序员`
 1. [DNS 给 switch 加速到底啥原理？](https://www.v2ex.com/t/853106) `22条评论` `Nintendo Switch`
 1. [用电烧开的水和用煤气（火）烧开的水有什么区别？](https://www.v2ex.com/t/853079) `22条评论` `问与答`
 1. [[送码] 🎉 Eul - SwiftUI、Concurrency 简明教程](https://www.v2ex.com/t/853068) `21条评论` `分享创造`
 1. [大家头像一般都在哪里下载?](https://www.v2ex.com/t/853148) `17条评论` `问与答`
-1. [Rust 桌面程序选 Flutter 还是 Tauri？](https://www.v2ex.com/t/853174) `15条评论` `程序员`
+1. [Rust 桌面程序选 Flutter 还是 Tauri？](https://www.v2ex.com/t/853174) `16条评论` `程序员`
 1. [面试谈薪资时，用已有 xx 年薪的口头 offer 为理由开价（抬价）是否明智？](https://www.v2ex.com/t/853136) `15条评论` `职场话题`
+1. [618 求推荐 2k 显示器](https://www.v2ex.com/t/853180) `14条评论` `问与答`
 1. [关于真无线降噪耳机](https://www.v2ex.com/t/853144) `13条评论` `问与答`
 1. [阿里 dns 故意把百度域名解析到境外](https://www.v2ex.com/t/853091) `13条评论` `DNS`
-1. [618 求推荐 2k 显示器](https://www.v2ex.com/t/853180) `12条评论` `问与答`
+1. [想给 ubuntu server 配一个 ups，求推荐](https://www.v2ex.com/t/853195) `12条评论` `Linux`
+1. [即将毕业， macbook 如何选择](https://www.v2ex.com/t/853171) `12条评论` `Apple`
 1. [把小时候玩的魂斗罗，做成网页版，并且可以双人联机，会有人玩这个么](https://www.v2ex.com/t/853146) `12条评论` `奇思妙想`
 1. [[讨论] 为何 epoll_wait 有性能瓶颈？](https://www.v2ex.com/t/853120) `12条评论` `Linux`
+1. [JAR 包上线内存消耗很大如何精准定位到问题处？](https://www.v2ex.com/t/853200) `11条评论` `Java`
 1. [谁知道这种画面网页代码怎么创出出来的？](https://www.v2ex.com/t/853125) `11条评论` `问与答`
-1. [想给 ubuntu server 配一个 ups，求推荐](https://www.v2ex.com/t/853195) `9条评论` `Linux`
-1. [即将毕业， macbook 如何选择](https://www.v2ex.com/t/853171) `9条评论` `Apple`
 1. [分享一个全网独家，用谷歌礼品卡充值账户的方法，特别管用！](https://www.v2ex.com/t/853156) `9条评论` `分享创造`
 1. [不得行，必须日常骂聋子，吐槽微信](https://www.v2ex.com/t/853154) `9条评论` `微信`
 1. [现在最新的 Linux 内核支持 intel 12 代 cpu 的 Thread Director 大小核心调度了吗？](https://www.v2ex.com/t/853142) `8条评论` `Linux`
-1. [刚发现我左右耳朵听到的声音不一样](https://www.v2ex.com/t/853140) `8条评论` `分享发现`
 
-数据更新于 2022-05-16 07:55:46
+数据更新于 2022-05-16 08:25:50
 
 <!-- TODAY END -->
 
