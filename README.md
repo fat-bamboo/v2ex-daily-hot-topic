@@ -15,7 +15,7 @@
 1. [侄子 10 岁生日，送 ns 还是 xss](https://www.v2ex.com/t/853342) `84条评论` `问与答`
 1. [找工作好难](https://www.v2ex.com/t/853368) `80条评论` `职场话题`
 1. [2022 年了 ，备案还是这么繁琐](https://www.v2ex.com/t/853461) `79条评论` `站长`
-1. [G Suite 免费版将对非商用用户继续提供服务](https://www.v2ex.com/t/853418) `67条评论` `Google`
+1. [G Suite 免费版将对非商用用户继续提供服务](https://www.v2ex.com/t/853418) `68条评论` `Google`
 1. [推荐使用 Mac 的人买按键贴来解决键盘磨损打油的问题。](https://www.v2ex.com/t/853375) `58条评论` `macOS`
 1. [看了房子帖文有感.....](https://www.v2ex.com/t/853485) `45条评论` `随想`
 1. [这是我一人、半年、十万代码，实现的一个程序员社交平台](https://www.v2ex.com/t/853486) `42条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [是 618 入手 Apple Watch Series 7 还是在等等入手 Series 8](https://www.v2ex.com/t/853356) `20条评论` ` WATCH`
 1. [有必要用 Caddy 替换 Nginx 吗](https://www.v2ex.com/t/853530) `19条评论` `程序员`
 
-数据更新于 2022-05-17 18:49:47
+数据更新于 2022-05-17 19:00:12
 
 <!-- TODAY END -->
 
