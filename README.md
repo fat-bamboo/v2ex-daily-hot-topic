@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `50条评论` `Kindle`
+1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `52条评论` `Kindle`
 1. [办了一张中行 visa 单标卡，但还是不能在 google play 支付](https://www.v2ex.com/t/857088) `16条评论` `Google`
 1. [iOS 节假日日历支持显示放假日和补工作日了](https://www.v2ex.com/t/857085) `10条评论` `Apple`
+1. [关于 SwiftUI 的 MVVM](https://www.v2ex.com/t/857084) `9条评论` `问与答`
 1. [之前有人推荐了个提供免费订阅地址的 App，不知道有没有人用过，靠不靠谱](https://www.v2ex.com/t/857068) `9条评论` `iPhone`
+1. [有爬蟲外包平台？](https://www.v2ex.com/t/857081) `8条评论` `程序员`
 1. [骚操作接踵而至，腾讯真有你的！](https://www.v2ex.com/t/857072) `8条评论` `全球工单系统`
-1. [有爬蟲外包平台？](https://www.v2ex.com/t/857081) `7条评论` `程序员`
 1. [mbp 待机功耗有多大？能真正的休眠么？](https://www.v2ex.com/t/857071) `7条评论` `MacBook Pro`
-1. [关于 SwiftUI 的 MVVM](https://www.v2ex.com/t/857084) `6条评论` `问与答`
 1. [sql server 遇到的一个问题？](https://www.v2ex.com/t/857080) `6条评论` `SQL Server`
 
-数据更新于 2022-06-03 04:21:13
+数据更新于 2022-06-03 04:45:53
 
 <!-- TODAY END -->
 
