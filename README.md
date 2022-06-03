@@ -10,12 +10,13 @@
 
 1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `79条评论` `Kindle`
 1. [办了一张中行 visa 单标卡，但还是不能在 google play 支付](https://www.v2ex.com/t/857088) `27条评论` `Google`
-1. [mac 下代理软件的选择](https://www.v2ex.com/t/857123) `20条评论` `macOS`
-1. [骚操作接踵而至，腾讯真有你的！](https://www.v2ex.com/t/857072) `17条评论` `全球工单系统`
-1. [电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) `14条评论` `问与答`
-1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `12条评论` `奇思妙想`
+1. [mac 下代理软件的选择](https://www.v2ex.com/t/857123) `24条评论` `macOS`
+1. [骚操作接踵而至，腾讯真有你的！](https://www.v2ex.com/t/857072) `23条评论` `全球工单系统`
+1. [电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) `19条评论` `问与答`
+1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `18条评论` `奇思妙想`
 1. [关于 SwiftUI 的 MVVM](https://www.v2ex.com/t/857084) `12条评论` `问与答`
 1. [14/16 寸以及 16/32 内存 选不出来](https://www.v2ex.com/t/857079) `12条评论` `Apple`
+1. [2022 年 5 月选购家用路由器](https://www.v2ex.com/t/857132) `11条评论` `路由器`
 1. [分享两个比较好用的命令行快捷键](https://www.v2ex.com/t/857087) `10条评论` `分享发现`
 1. [iOS 节假日日历支持显示放假日和补工作日了](https://www.v2ex.com/t/857085) `10条评论` `Apple`
 1. [有爬蟲外包平台？](https://www.v2ex.com/t/857081) `10条评论` `程序员`
@@ -23,7 +24,6 @@
 1. [之前有人推荐了个提供免费订阅地址的 App，不知道有没有人用过，靠不靠谱](https://www.v2ex.com/t/857068) `10条评论` `iPhone`
 1. [Safari 最垃圾浏览器？我觉得是](https://www.v2ex.com/t/857110) `9条评论` `macOS`
 1. [iOS 上的 steam 令牌不能推送了，都是这样吗？](https://www.v2ex.com/t/857106) `9条评论` `问与答`
-1. [2022 年 5 月选购家用路由器](https://www.v2ex.com/t/857132) `8条评论` `路由器`
 1. [好奇剧情式游戏数据库是怎么设计的](https://www.v2ex.com/t/857127) `8条评论` `程序员`
 1. [记录类 app 有用吗](https://www.v2ex.com/t/857099) `7条评论` `分享创造`
 1. [苹果真垃圾！ M1 max 16 mbp 经常 typec 插上去不充电，但线没有问题。](https://www.v2ex.com/t/857098) `7条评论` `MacBook Pro`
@@ -32,7 +32,7 @@
 1. [socat 转发 TLS 流量如何附带上客户端 IP？](https://www.v2ex.com/t/857093) `6条评论` `云计算`
 1. [sql server 遇到的一个问题？](https://www.v2ex.com/t/857080) `6条评论` `SQL Server`
 
-数据更新于 2022-06-03 08:55:39
+数据更新于 2022-06-03 09:18:07
 
 <!-- TODAY END -->
 
