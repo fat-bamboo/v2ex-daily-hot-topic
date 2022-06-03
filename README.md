@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `64条评论` `Kindle`
+1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `67条评论` `Kindle`
 1. [办了一张中行 visa 单标卡，但还是不能在 google play 支付](https://www.v2ex.com/t/857088) `24条评论` `Google`
 1. [骚操作接踵而至，腾讯真有你的！](https://www.v2ex.com/t/857072) `17条评论` `全球工单系统`
 1. [关于 SwiftUI 的 MVVM](https://www.v2ex.com/t/857084) `12条评论` `问与答`
 1. [14/16 寸以及 16/32 内存 选不出来](https://www.v2ex.com/t/857079) `12条评论` `Apple`
-1. [mac 下代理软件的选择](https://www.v2ex.com/t/857123) `10条评论` `macOS`
+1. [mac 下代理软件的选择](https://www.v2ex.com/t/857123) `11条评论` `macOS`
 1. [iOS 节假日日历支持显示放假日和补工作日了](https://www.v2ex.com/t/857085) `10条评论` `Apple`
 1. [有爬蟲外包平台？](https://www.v2ex.com/t/857081) `10条评论` `程序员`
 1. [通过 Bash Shell 截取字符串进行字幕文件的批量重命名方便加载字幕](https://www.v2ex.com/t/857075) `10条评论` `分享创造`
 1. [之前有人推荐了个提供免费订阅地址的 App，不知道有没有人用过，靠不靠谱](https://www.v2ex.com/t/857068) `10条评论` `iPhone`
 1. [iOS 上的 steam 令牌不能推送了，都是这样吗？](https://www.v2ex.com/t/857106) `9条评论` `问与答`
+1. [分享两个比较好用的命令行快捷键](https://www.v2ex.com/t/857087) `9条评论` `分享发现`
 1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `8条评论` `奇思妙想`
-1. [分享两个比较好用的命令行快捷键](https://www.v2ex.com/t/857087) `8条评论` `分享发现`
 1. [Safari 最垃圾浏览器？我觉得是](https://www.v2ex.com/t/857110) `7条评论` `macOS`
 1. [记录类 app 有用吗](https://www.v2ex.com/t/857099) `7条评论` `分享创造`
 1. [mbp 待机功耗有多大？能真正的休眠么？](https://www.v2ex.com/t/857071) `7条评论` `MacBook Pro`
@@ -28,7 +28,7 @@
 1. [socat 转发 TLS 流量如何附带上客户端 IP？](https://www.v2ex.com/t/857093) `6条评论` `云计算`
 1. [sql server 遇到的一个问题？](https://www.v2ex.com/t/857080) `6条评论` `SQL Server`
 
-数据更新于 2022-06-03 07:45:40
+数据更新于 2022-06-03 07:56:06
 
 <!-- TODAY END -->
 
