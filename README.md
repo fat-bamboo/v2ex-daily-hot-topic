@@ -13,12 +13,12 @@
 1. [办了一张中行 visa 单标卡，但还是不能在 google play 支付](https://www.v2ex.com/t/857088) `27条评论` `Google`
 1. [电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) `24条评论` `问与答`
 1. [骚操作接踵而至，腾讯真有你的！](https://www.v2ex.com/t/857072) `23条评论` `全球工单系统`
-1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `20条评论` `奇思妙想`
+1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `22条评论` `奇思妙想`
+1. [你们真的觉得 kindle 好用吗](https://www.v2ex.com/t/857141) `19条评论` `Kindle`
 1. [2022 年 5 月选购家用路由器](https://www.v2ex.com/t/857132) `19条评论` `路由器`
-1. [你们真的觉得 kindle 好用吗](https://www.v2ex.com/t/857141) `16条评论` `Kindle`
+1. [Safari 最垃圾浏览器？我觉得是](https://www.v2ex.com/t/857110) `12条评论` `macOS`
 1. [关于 SwiftUI 的 MVVM](https://www.v2ex.com/t/857084) `12条评论` `问与答`
 1. [14/16 寸以及 16/32 内存 选不出来](https://www.v2ex.com/t/857079) `12条评论` `Apple`
-1. [Safari 最垃圾浏览器？我觉得是](https://www.v2ex.com/t/857110) `10条评论` `macOS`
 1. [分享两个比较好用的命令行快捷键](https://www.v2ex.com/t/857087) `10条评论` `分享发现`
 1. [iOS 节假日日历支持显示放假日和补工作日了](https://www.v2ex.com/t/857085) `10条评论` `Apple`
 1. [有爬蟲外包平台？](https://www.v2ex.com/t/857081) `10条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [mbp 待机功耗有多大？能真正的休眠么？](https://www.v2ex.com/t/857071) `7条评论` `MacBook Pro`
 1. [有道口袋打印机是否可以通过第三方驱动连接电脑？](https://www.v2ex.com/t/857124) `6条评论` `程序员`
 
-数据更新于 2022-06-03 10:41:54
+数据更新于 2022-06-03 10:55:42
 
 <!-- TODAY END -->
 
