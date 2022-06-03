@@ -10,7 +10,7 @@
 
 1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `112条评论` `Kindle`
 1. [电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) `35条评论` `问与答`
-1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `30条评论` `奇思妙想`
+1. [吐槽下淘宝](https://www.v2ex.com/t/857116) `31条评论` `奇思妙想`
 1. [mac 下代理软件的选择](https://www.v2ex.com/t/857123) `28条评论` `macOS`
 1. [你们真的觉得 kindle 好用吗](https://www.v2ex.com/t/857141) `28条评论` `Kindle`
 1. [办了一张中行 visa 单标卡，但还是不能在 google play 支付](https://www.v2ex.com/t/857088) `27条评论` `Google`
@@ -29,10 +29,10 @@
 1. [有爬蟲外包平台？](https://www.v2ex.com/t/857081) `10条评论` `程序员`
 1. [通过 Bash Shell 截取字符串进行字幕文件的批量重命名方便加载字幕](https://www.v2ex.com/t/857075) `10条评论` `分享创造`
 1. [之前有人推荐了个提供免费订阅地址的 App，不知道有没有人用过，靠不靠谱](https://www.v2ex.com/t/857068) `10条评论` `iPhone`
+1. [马克丁的 CrossOver 21 降价了](https://www.v2ex.com/t/857143) `9条评论` `Linux`
 1. [iOS 上的 steam 令牌不能推送了，都是这样吗？](https://www.v2ex.com/t/857106) `9条评论` `问与答`
-1. [马克丁的 CrossOver 21 降价了](https://www.v2ex.com/t/857143) `8条评论` `Linux`
 
-数据更新于 2022-06-03 13:20:50
+数据更新于 2022-06-03 13:48:49
 
 <!-- TODAY END -->
 
