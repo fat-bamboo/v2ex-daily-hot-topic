@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `52条评论` `Kindle`
+1. [说实话这次 kindle 退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) `53条评论` `Kindle`
 1. [办了一张中行 visa 单标卡，但还是不能在 google play 支付](https://www.v2ex.com/t/857088) `17条评论` `Google`
 1. [iOS 节假日日历支持显示放假日和补工作日了](https://www.v2ex.com/t/857085) `10条评论` `Apple`
 1. [关于 SwiftUI 的 MVVM](https://www.v2ex.com/t/857084) `10条评论` `问与答`
@@ -23,7 +23,7 @@
 1. [14/16 寸以及 16/32 内存 选不出来](https://www.v2ex.com/t/857079) `6条评论` `Apple`
 1. [通过 Bash Shell 截取字符串进行字幕文件的批量重命名方便加载字幕](https://www.v2ex.com/t/857075) `6条评论` `分享创造`
 
-数据更新于 2022-06-03 05:17:52
+数据更新于 2022-06-03 05:31:29
 
 <!-- TODAY END -->
 
