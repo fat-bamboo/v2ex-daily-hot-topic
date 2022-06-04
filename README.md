@@ -8,28 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [超过 30 岁戴小米手环会不会显得幼稚？](https://www.v2ex.com/t/857218) `54条评论` `小米`
+1. [超过 30 岁戴小米手环会不会显得幼稚？](https://www.v2ex.com/t/857218) `55条评论` `小米`
 1. [明天就是发布会了，我的 mbp 今天送到了，为什么我有种不详的预感，怎么办啊？](https://www.v2ex.com/t/857213) `47条评论` `Apple`
+1. [[分享]-可以分享一些自己喜欢的 Youtuber 或 Up 主](https://www.v2ex.com/t/857214) `21条评论` `YouTube`
 1. [都说电信的宽带好，今天才发现被电信骗了](https://www.v2ex.com/t/857227) `20条评论` `宽带症候群`
-1. [[分享]-可以分享一些自己喜欢的 Youtuber 或 Up 主](https://www.v2ex.com/t/857214) `20条评论` `YouTube`
 1. [为什么淘宝有卖无锁 S10 (它在全球范围都没解锁)](https://www.v2ex.com/t/857205) `20条评论` `Android`
 1. [WWDC.Playground 如约而至](https://www.v2ex.com/t/857240) `19条评论` `Apple`
 1. [求助，联想官方维修点把电脑修坏了，怎么办](https://www.v2ex.com/t/857207) `19条评论` `问与答`
+1. [ios 双开微信](https://www.v2ex.com/t/857231) `15条评论` `iPhone`
 1. [换新 mac 大家是重新装软件手动迁移，还是直接用时间机器迁移？ intel→m1，想省事直接迁移，但是担心有小问题，毕竟处理器完全不一样了](https://www.v2ex.com/t/857217) `15条评论` `macOS`
-1. [ios 双开微信](https://www.v2ex.com/t/857231) `14条评论` `iPhone`
+1. [兄弟们有没有感觉这两天网络很不稳定呀，抓包各种被阻断， syn 都给你直接干掉了，也不全部阻断 IP！](https://www.v2ex.com/t/857257) `12条评论` `宽带症候群`
 1. [这里有套路吗](https://www.v2ex.com/t/857250) `11条评论` `问与答`
 1. [感觉思否人气好低](https://www.v2ex.com/t/857216) `11条评论` `程序员`
 1. [看完 https://tour.go-zh.org/教程，求推荐短小精悍 go 源码学习](https://www.v2ex.com/t/857215) `11条评论` `Go 编程语言`
 1. [请问下腾讯的域名现在是不是不让使用 CF 的解析了啊？](https://www.v2ex.com/t/857230) `10条评论` `DNS`
-1. [兄弟们有没有感觉这两天网络很不稳定呀，抓包各种被阻断， syn 都给你直接干掉了，也不全部阻断 IP！](https://www.v2ex.com/t/857257) `9条评论` `宽带症候群`
 1. [如何解答](https://www.v2ex.com/t/857225) `9条评论` `程序员`
+1. [一堆人信誓旦旦的说 MacBook Air 根本不可能在 WWDC 上发布](https://www.v2ex.com/t/857248) `8条评论` `问与答`
 1. [寻找 Web 全栈工程师 [可远程]](https://www.v2ex.com/t/857209) `8条评论` `远程工作`
 1. [求教如何合并两台 mac](https://www.v2ex.com/t/857206) `8条评论` `Apple`
+1. [Win 平台微信双开](https://www.v2ex.com/t/857243) `7条评论` `微信`
+1. [[远程] 找几个全栈的实习同学，远程， 240～ 480/天](https://www.v2ex.com/t/857235) `7条评论` `酷工作`
 1. [京东下单了 apple tv 2021 款 32G的 想问一下大家 32G 够用吗？](https://www.v2ex.com/t/857223) `7条评论` `问与答`
 1. [4pin 12V 风扇可以剪掉 PWM 线改 3pin 么](https://www.v2ex.com/t/857244) `6条评论` `硬件`
-1. [Win 平台微信双开](https://www.v2ex.com/t/857243) `6条评论` `微信`
+1. [MenubarX 支持：语音、视频和定位啦！🎉](https://www.v2ex.com/t/857238) `6条评论` `macOS`
 
-数据更新于 2022-06-04 09:56:10
+数据更新于 2022-06-04 10:18:54
 
 <!-- TODAY END -->
 
