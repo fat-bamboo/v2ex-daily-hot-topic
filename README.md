@@ -12,12 +12,12 @@
 1. [女生用轻薄本求推荐。](https://www.v2ex.com/t/857325) `47条评论` `硬件`
 1. [昨天入手了一只小猫咪,有点后悔了](https://www.v2ex.com/t/857385) `36条评论` `宠物`
 1. [以集体为导向的价值和以个人为导向的价值观，如何选择？](https://www.v2ex.com/t/857341) `25条评论` `问与答`
-1. [各位用安卓的人们，平时是通过什么渠道更新 app 的？](https://www.v2ex.com/t/857373) `19条评论` `Android`
+1. [各位用安卓的人们，平时是通过什么渠道更新 app 的？](https://www.v2ex.com/t/857373) `21条评论` `Android`
 1. [目前有哪些云主机便宜值得入手吗？](https://www.v2ex.com/t/857342) `19条评论` `程序员`
-1. [App 内购在不同区域价格不一致](https://www.v2ex.com/t/857374) `17条评论` `Apple`
+1. [App 内购在不同区域价格不一致](https://www.v2ex.com/t/857374) `18条评论` `Apple`
 1. [现在什么状况呀 [腾讯云] 服务违规封禁.](https://www.v2ex.com/t/857334) `16条评论` `云计算`
+1. [B&H 疑似泄漏 WWDC22 即将发布的部分新品](https://www.v2ex.com/t/857369) `15条评论` `Apple`
 1. [类似 rz / sz 上传和下载文件， go 版的 trzsz ( trz / tsz ) 支持各种平台的原生终端，包括 Windows 的 cmd 等。](https://www.v2ex.com/t/857337) `15条评论` `程序员`
-1. [B&H 疑似泄漏 WWDC22 即将发布的部分新品](https://www.v2ex.com/t/857369) `14条评论` `Apple`
 1. [Yellowstone National Park - 2022 May](https://www.v2ex.com/t/857323) `14条评论` `旅行`
 1. [上海哪里验光／配镜的设备先进？](https://www.v2ex.com/t/857389) `13条评论` `程序员`
 1. [说说看大家心目中的 iPad /iPadOS](https://www.v2ex.com/t/857375) `13条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [已经确认 2021 款 mbp 有屏幕胶圈粘住 c 面导致上盖打不开的问题](https://www.v2ex.com/t/857356) `9条评论` `MacBook Pro`
 1. [看汤哥新电影有种看老程序员职场危机感觉](https://www.v2ex.com/t/857339) `9条评论` `程序员`
 
-数据更新于 2022-06-05 11:19:10
+数据更新于 2022-06-05 11:29:26
 
 <!-- TODAY END -->
 
