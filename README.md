@@ -15,6 +15,7 @@
 1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `61条评论` `macOS`
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `55条评论` `程序员`
 1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `53条评论` `Apple`
+1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776) `48条评论` `Apple`
 1. [一次有趣的尝试：用 emoji 当验证码](https://www.v2ex.com/t/857940) `33条评论` `分享创造`
 1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `30条评论` `问与答`
 1. [用 html、js、css 写客户端软件，除了 electron 还有哪些方案？](https://www.v2ex.com/t/857907) `27条评论` `程序员`
@@ -30,9 +31,8 @@
 1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 1. [万能的 v 友，大街上拍摄不特定人群是否违法，以及如何息屏拍摄？](https://www.v2ex.com/t/857983) `19条评论` `问与答`
-1. [关于提前还商贷的问题。](https://www.v2ex.com/t/857914) `19条评论` `问与答`
 
-数据更新于 2022-06-07 18:55:42
+数据更新于 2022-06-07 19:15:04
 
 <!-- TODAY END -->
 
