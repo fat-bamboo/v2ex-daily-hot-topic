@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `110条评论` `Apple`
-1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `65条评论` `macOS`
-1. [QQ 被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) `24条评论` `问与答`
-1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `24条评论` `问与答`
+1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `66条评论` `macOS`
+1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `30条评论` `问与答`
+1. [QQ 被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) `25条评论` `问与答`
+1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `23条评论` `程序员`
 1. [看惯了 Apple 高分显示屏后还能回到 1080p 吗](https://www.v2ex.com/t/857853) `20条评论` `Apple`
 1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
-1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `19条评论` `程序员`
 1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `19条评论` `Apple`
 1. [企查查、天眼查、爱企查这些网站的数据从哪里来的？](https://www.v2ex.com/t/857797) `18条评论` `程序员`
 1. [新 Macbook Pro 13 寸的尴尬定位？吐槽贴。不要买！](https://www.v2ex.com/t/857759) `18条评论` `Apple`
@@ -25,14 +25,14 @@
 1. [一旦熬夜就肾虚，有没有催睡闹钟](https://www.v2ex.com/t/857785) `15条评论` `问与答`
 1. [问问 iPad Pro 2020 这几年被连续背刺的感受如何 😂](https://www.v2ex.com/t/857817) `14条评论` `Apple`
 1. [有测试新版的 carplay 的吗](https://www.v2ex.com/t/857784) `14条评论` `Apple`
+1. [关于提前还商贷的问题。](https://www.v2ex.com/t/857914) `12条评论` `问与答`
+1. [疫情下关于隐私的胡思乱想](https://www.v2ex.com/t/857891) `12条评论` `生活`
+1. [也就是如果不在意电费，可以一半的价钱买更高性能的 i7 平台 ？](https://www.v2ex.com/t/857890) `12条评论` `问与答`
 1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776) `12条评论` `Apple`
 1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `12条评论` `macOS`
 1. [IOS16,已知 BUG](https://www.v2ex.com/t/857893) `11条评论` `iPhone`
-1. [也就是如果不在意电费，可以一半的价钱买更高性能的 i7 平台 ？](https://www.v2ex.com/t/857890) `11条评论` `问与答`
-1. [URL 的参数，长度最大的限制是多少？](https://www.v2ex.com/t/857823) `11条评论` `JavaScript`
-1. [新款 mbp13 wait...what????](https://www.v2ex.com/t/857768) `11条评论` `Apple`
 
-数据更新于 2022-06-07 06:56:47
+数据更新于 2022-06-07 07:19:36
 
 <!-- TODAY END -->
 
