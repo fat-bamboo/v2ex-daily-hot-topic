@@ -8,18 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `148条评论` `Apple`
-1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `100条评论` `程序员`
+1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `152条评论` `Apple`
+1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `102条评论` `程序员`
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `75条评论` `macOS`
-1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `64条评论` `问与答`
+1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `69条评论` `问与答`
 1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `60条评论` `macOS`
 1. [一次有趣的尝试：用 emoji 当验证码](https://www.v2ex.com/t/857940) `33条评论` `分享创造`
 1. [用 html、js、css 写客户端软件，除了 electron 还有哪些方案？](https://www.v2ex.com/t/857907) `27条评论` `程序员`
 1. [广州租房体会](https://www.v2ex.com/t/857904) `27条评论` `生活`
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `27条评论` `程序员`
+1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `25条评论` `问与答`
 1. [QQ 被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) `25条评论` `问与答`
-1. [macOS Ventura Bug 记录贴](https://www.v2ex.com/t/857962) `23条评论` `macOS`
-1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `22条评论` `问与答`
+1. [macOS Ventura Bug 记录贴](https://www.v2ex.com/t/857962) `24条评论` `macOS`
 1. [Java 线程池使用 Future,任务没完成啥意思](https://www.v2ex.com/t/857959) `21条评论` `Java`
 1. [一个 5 年经验的 Javaer，应该具备什么技能才算合格？](https://www.v2ex.com/t/857954) `21条评论` `Java`
 1. [iCloud+域名邮箱支持 Catch-all，需要非大陆 ID](https://www.v2ex.com/t/857967) `20条评论` `iCloud`
@@ -32,7 +32,7 @@
 1. [企查查、天眼查、爱企查这些网站的数据从哪里来的？](https://www.v2ex.com/t/857797) `18条评论` `程序员`
 1. [新 Macbook Pro 13 寸的尴尬定位？吐槽贴。不要买！](https://www.v2ex.com/t/857759) `18条评论` `Apple`
 
-数据更新于 2022-06-07 13:19:43
+数据更新于 2022-06-07 13:48:48
 
 <!-- TODAY END -->
 
