@@ -10,11 +10,11 @@
 
 1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `163条评论` `Apple`
 1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `125条评论` `程序员`
-1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `86条评论` `问与答`
+1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `87条评论` `问与答`
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `75条评论` `macOS`
 1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `62条评论` `macOS`
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `56条评论` `程序员`
-1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `53条评论` `Apple`
+1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `54条评论` `Apple`
 1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776) `49条评论` `Apple`
 1. [有没有能彻底禁止手机安装 APP 的办法](https://www.v2ex.com/t/857860) `48条评论` `问与答`
 1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `46条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [看惯了 Apple 高分显示屏后还能回到 1080p 吗](https://www.v2ex.com/t/857853) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 
-数据更新于 2022-06-07 23:26:07
+数据更新于 2022-06-07 23:39:05
 
 <!-- TODAY END -->
 
