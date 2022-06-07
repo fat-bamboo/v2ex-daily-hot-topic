@@ -32,7 +32,7 @@
 1. [看惯了 Apple 高分显示屏后还能回到 1080p 吗](https://www.v2ex.com/t/857853) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 
-数据更新于 2022-06-07 23:49:17
+数据更新于 2022-06-07 23:59:43
 
 <!-- TODAY END -->
 
