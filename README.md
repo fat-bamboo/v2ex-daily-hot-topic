@@ -12,7 +12,7 @@
 1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `122条评论` `程序员`
 1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `84条评论` `问与答`
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `75条评论` `macOS`
-1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `61条评论` `macOS`
+1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `62条评论` `macOS`
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `55条评论` `程序员`
 1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `53条评论` `Apple`
 1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776) `48条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 
-数据更新于 2022-06-07 19:59:51
+数据更新于 2022-06-07 20:26:25
 
 <!-- TODAY END -->
 
