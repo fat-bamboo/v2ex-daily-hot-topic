@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `156条评论` `Apple`
+1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `157条评论` `Apple`
 1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `122条评论` `程序员`
-1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `82条评论` `问与答`
+1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `83条评论` `问与答`
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `75条评论` `macOS`
 1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `61条评论` `macOS`
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `55条评论` `程序员`
@@ -21,6 +21,7 @@
 1. [广州租房体会](https://www.v2ex.com/t/857904) `27条评论` `生活`
 1. [QQ 被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) `25条评论` `问与答`
 1. [macOS Ventura Bug 记录贴](https://www.v2ex.com/t/857962) `24条评论` `macOS`
+1. [HK 的网 络 审 查首次影响到了服务器 考虑墙 Telegr am](https://www.v2ex.com/t/858020) `21条评论` `宽带症候群`
 1. [看到主机论坛上有网友说用 TX 云/bt 被审？](https://www.v2ex.com/t/857976) `21条评论` `程序员`
 1. [Java 线程池使用 Future,任务没完成啥意思](https://www.v2ex.com/t/857959) `21条评论` `Java`
 1. [一个 5 年经验的 Javaer，应该具备什么技能才算合格？](https://www.v2ex.com/t/857954) `21条评论` `Java`
@@ -28,11 +29,10 @@
 1. [看惯了 Apple 高分显示屏后还能回到 1080p 吗](https://www.v2ex.com/t/857853) `20条评论` `Apple`
 1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
-1. [HK 的网 络 审 查首次影响到了服务器 考虑墙 Telegr am](https://www.v2ex.com/t/858020) `19条评论` `宽带症候群`
 1. [万能的 v 友，大街上拍摄不特定人群是否违法，以及如何息屏拍摄？](https://www.v2ex.com/t/857983) `19条评论` `问与答`
 1. [关于提前还商贷的问题。](https://www.v2ex.com/t/857914) `19条评论` `问与答`
 
-数据更新于 2022-06-07 17:55:49
+数据更新于 2022-06-07 18:20:50
 
 <!-- TODAY END -->
 
