@@ -15,8 +15,9 @@
 1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `62条评论` `macOS`
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `55条评论` `程序员`
 1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `53条评论` `Apple`
+1. [有没有能彻底禁止手机安装 APP 的办法](https://www.v2ex.com/t/857860) `48条评论` `问与答`
 1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776) `48条评论` `Apple`
-1. [有没有能彻底禁止手机安装 APP 的办法](https://www.v2ex.com/t/857860) `47条评论` `问与答`
+1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `45条评论` `Apple`
 1. [一次有趣的尝试：用 emoji 当验证码](https://www.v2ex.com/t/857940) `33条评论` `分享创造`
 1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `30条评论` `问与答`
 1. [用 html、js、css 写客户端软件，除了 electron 还有哪些方案？](https://www.v2ex.com/t/857907) `27条评论` `程序员`
@@ -29,10 +30,9 @@
 1. [一个 5 年经验的 Javaer，应该具备什么技能才算合格？](https://www.v2ex.com/t/857954) `21条评论` `Java`
 1. [iCloud+域名邮箱支持 Catch-all，需要非大陆 ID](https://www.v2ex.com/t/857967) `20条评论` `iCloud`
 1. [看惯了 Apple 高分显示屏后还能回到 1080p 吗](https://www.v2ex.com/t/857853) `20条评论` `Apple`
-1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `20条评论` `Apple`
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 
-数据更新于 2022-06-07 22:22:42
+数据更新于 2022-06-07 22:39:53
 
 <!-- TODAY END -->
 
