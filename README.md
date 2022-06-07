@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `120条评论` `Apple`
+1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `121条评论` `Apple`
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `71条评论` `macOS`
-1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `31条评论` `程序员`
+1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `54条评论` `macOS`
+1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `41条评论` `程序员`
 1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `30条评论` `问与答`
 1. [用 html、js、css 写客户端软件，除了 electron 还有哪些方案？](https://www.v2ex.com/t/857907) `27条评论` `程序员`
 1. [广州租房体会](https://www.v2ex.com/t/857904) `27条评论` `生活`
@@ -30,9 +31,8 @@
 1. [IOS16,已知 BUG](https://www.v2ex.com/t/857893) `15条评论` `iPhone`
 1. [vue3 做响应式网站，大家用啥组件库？](https://www.v2ex.com/t/857841) `15条评论` `程序员`
 1. [一旦熬夜就肾虚，有没有催睡闹钟](https://www.v2ex.com/t/857785) `15条评论` `问与答`
-1. [问问 iPad Pro 2020 这几年被连续背刺的感受如何 😂](https://www.v2ex.com/t/857817) `14条评论` `Apple`
 
-数据更新于 2022-06-07 08:56:04
+数据更新于 2022-06-07 09:18:06
 
 <!-- TODAY END -->
 
