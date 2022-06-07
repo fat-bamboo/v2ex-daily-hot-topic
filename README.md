@@ -8,16 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `152条评论` `Apple`
+1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `153条评论` `Apple`
 1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `104条评论` `程序员`
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `75条评论` `macOS`
-1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `73条评论` `问与答`
-1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `60条评论` `macOS`
+1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `74条评论` `问与答`
+1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `61条评论` `macOS`
+1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `51条评论` `程序员`
+1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `49条评论` `Apple`
 1. [一次有趣的尝试：用 emoji 当验证码](https://www.v2ex.com/t/857940) `33条评论` `分享创造`
-1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `27条评论` `问与答`
+1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `28条评论` `问与答`
 1. [用 html、js、css 写客户端软件，除了 electron 还有哪些方案？](https://www.v2ex.com/t/857907) `27条评论` `程序员`
 1. [广州租房体会](https://www.v2ex.com/t/857904) `27条评论` `生活`
-1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `27条评论` `程序员`
 1. [QQ 被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) `25条评论` `问与答`
 1. [macOS Ventura Bug 记录贴](https://www.v2ex.com/t/857962) `24条评论` `macOS`
 1. [Java 线程池使用 Future,任务没完成啥意思](https://www.v2ex.com/t/857959) `21条评论` `Java`
@@ -28,11 +29,10 @@
 1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 1. [关于提前还商贷的问题。](https://www.v2ex.com/t/857914) `19条评论` `问与答`
 1. [疫情下关于隐私的胡思乱想](https://www.v2ex.com/t/857891) `19条评论` `生活`
-1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `19条评论` `Apple`
 1. [万能的 v 友，大街上拍摄不特定人群是否违法，以及如何息屏拍摄？](https://www.v2ex.com/t/857983) `18条评论` `问与答`
 1. [企查查、天眼查、爱企查这些网站的数据从哪里来的？](https://www.v2ex.com/t/857797) `18条评论` `程序员`
 
-数据更新于 2022-06-07 14:26:33
+数据更新于 2022-06-07 14:38:22
 
 <!-- TODAY END -->
 
