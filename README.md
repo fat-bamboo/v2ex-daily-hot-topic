@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [求私有笔记方案。有道云笔记丢失昨晚记录，猜测发生数据回滚](https://www.v2ex.com/t/858053) `69条评论` `程序员`
+1. [求私有笔记方案。有道云笔记丢失昨晚记录，猜测发生数据回滚](https://www.v2ex.com/t/858053) `72条评论` `程序员`
+1. [有没有人能给我个 MBP 2022 更具性价比的理由？或者用其他型号打醒我](https://www.v2ex.com/t/858078) `47条评论` `Apple`
 1. [怎么看英国部分企业实行一周四天工作制？](https://www.v2ex.com/t/858105) `44条评论` `职场话题`
-1. [有没有人能给我个 MBP 2022 更具性价比的理由？或者用其他型号打醒我](https://www.v2ex.com/t/858078) `42条评论` `Apple`
+1. [现在买 Mac mini 会不会年底被背刺](https://www.v2ex.com/t/858089) `41条评论` `Apple`
 1. [海外产品禁止大陆 IP 登录](https://www.v2ex.com/t/858113) `29条评论` `程序员`
-1. [发现一个视频网站的终极形态](https://www.v2ex.com/t/858134) `27条评论` `程序员`
+1. [发现一个视频网站的终极形态](https://www.v2ex.com/t/858134) `28条评论` `程序员`
 1. [请教一个电脑被爆破的问题](https://www.v2ex.com/t/858093) `21条评论` `信息安全`
-1. [现在买 Mac mini 会不会年底被背刺](https://www.v2ex.com/t/858089) `17条评论` `Apple`
 1. [想买个智障音箱给父母听歌，我是买“天猫精”还是“小爱”](https://www.v2ex.com/t/858050) `17条评论` `问与答`
 1. [你放弃过，正在进行，想要做的爱好是什么？](https://www.v2ex.com/t/858122) `14条评论` `问与答`
 1. [有什么浏览器扩展可以云同步，整合书签的？越傻瓜越好，不想因为这事儿用脑。](https://www.v2ex.com/t/858068) `14条评论` `浏览器`
 1. [大家会给 Apple watch 再配一个充电插头吗？](https://www.v2ex.com/t/858110) `13条评论` ` WATCH`
 1. [当前 kindle 是否还值得入手](https://www.v2ex.com/t/858102) `13条评论` `Kindle`
 1. [macbook 使用无线鼠标 感觉粘粘的 不跟手](https://www.v2ex.com/t/858058) `13条评论` `Apple`
-1. [2020 款 MacBook Pro 16+512 换成 2020 款 MacBook Air 会有体验上很大的改变吗？](https://www.v2ex.com/t/858152) `10条评论` `macOS`
-1. [观 新 MacBook Air m2 有感](https://www.v2ex.com/t/858151) `10条评论` `Apple`
+1. [如何将加拿大服务器上总计 200T 的文件传输到国内？](https://www.v2ex.com/t/858171) `12条评论` `宽带症候群`
+1. [2020 款 MacBook Pro 16+512 换成 2020 款 MacBook Air 会有体验上很大的改变吗？](https://www.v2ex.com/t/858152) `12条评论` `macOS`
+1. [必须要吐槽下新 macOS Ventura 的设置面板](https://www.v2ex.com/t/858138) `12条评论` `Apple`
+1. [观 新 MacBook Air m2 有感](https://www.v2ex.com/t/858151) `11条评论` `Apple`
+1. [有什么可以简单部署的 http api 后端服务吗?](https://www.v2ex.com/t/858133) `10条评论` `程序员`
 1. [有长沙的朋友吗？一起来建设家乡互联网！](https://www.v2ex.com/t/858071) `10条评论` `程序员`
-1. [必须要吐槽下新 macOS Ventura 的设置面板](https://www.v2ex.com/t/858138) `9条评论` `Apple`
 1. [Homekit 使用到现在特别火大的问题](https://www.v2ex.com/t/858136) `9条评论` `Apple`
-1. [有什么可以简单部署的 http api 后端服务吗?](https://www.v2ex.com/t/858133) `9条评论` `程序员`
 1. [昨天 typora 还可以正常使用，今天就不让用了](https://www.v2ex.com/t/858094) `9条评论` `分享发现`
 1. [企业微信打卡功能有点垃圾啊](https://www.v2ex.com/t/858064) `9条评论` `微信`
 1. [在自己微博发一个人 n 年前公开发布的微博截图，是否属于侵犯隐私](https://www.v2ex.com/t/858127) `8条评论` `问与答`
-1. [JS 使用 getYear() 获取当前年份前面返回结果前面会多个 1](https://www.v2ex.com/t/858153) `7条评论` `程序员`
 
-数据更新于 2022-06-08 05:58:27
+数据更新于 2022-06-08 06:28:33
 
 <!-- TODAY END -->
 
