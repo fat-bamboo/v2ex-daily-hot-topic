@@ -8,6 +8,27 @@
 
 <!-- TODAY BEGIN -->
 
+1. [为啥都上两个月就不想呆了](https://www.v2ex.com/t/858310) `19条评论` `职场话题`
+1. [2022 年了，安卓消息推送还需要挂后台？](https://www.v2ex.com/t/858309) `17条评论` `问与答`
+1. [旧 iPhone 当备用机一直插着充电会怎么样？](https://www.v2ex.com/t/858304) `16条评论` `iPhone`
+1. [三年职业生涯回顾](https://www.v2ex.com/t/858318) `14条评论` `程序员`
+1. [怎样才能快速增加项目经验？](https://www.v2ex.com/t/858308) `14条评论` `程序员`
+1. [路由器 TP XDR5480 今天 399 的价格, 还有更便宜的选择吗?](https://www.v2ex.com/t/858314) `12条评论` `问与答`
+1. [家人们，程序猿都是怎么找到对象的](https://www.v2ex.com/t/858333) `11条评论` `问与答`
+1. [618 过去一半了，大家都入手了什么好宝贝，有什么好玩物可以分享一下](https://www.v2ex.com/t/858319) `8条评论` `分享发现`
+1. [求推荐一个 1kg 以内的超轻薄 windows 笔记本](https://www.v2ex.com/t/858312) `8条评论` `问与答`
+1. [现在女生 10w 以下买啥电车？二手欧拉考虑么 日常通勤用](https://www.v2ex.com/t/858321) `7条评论` `问与答`
+1. [电视盒子有推荐嘛？](https://www.v2ex.com/t/858328) `6条评论` `问与答`
+1. [为什么发帖需要注册满 720 天？？](https://www.v2ex.com/t/858305) `6条评论` `V2EX`
+
+数据更新于 2022-06-09 02:06:01
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [如何将加拿大服务器上总计 200T 的文件传输到国内？](https://www.v2ex.com/t/858171) `118条评论` `宽带症候群`
 1. [求私有笔记方案。有道云笔记丢失昨晚记录，猜测发生数据回滚](https://www.v2ex.com/t/858053) `98条评论` `程序员`
 1. [有没有人能给我个 MBP 2022 更具性价比的理由？或者用其他型号打醒我](https://www.v2ex.com/t/858078) `76条评论` `Apple`
@@ -31,38 +52,6 @@
 1. [上海，被封小区 77 天后，第一天上班又被封公司？](https://www.v2ex.com/t/858216) `19条评论` `上海`
 1. [突然发现 2016 款的 MacBook Pro 被新系统 Ventura 开除了！](https://www.v2ex.com/t/858243) `14条评论` `MacBook Pro`
 1. [必须要吐槽下新 macOS Ventura 的设置面板](https://www.v2ex.com/t/858138) `14条评论` `Apple`
-
-数据更新于 2022-06-08 23:59:23
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [我对一切带刘海屏的设备都没好感](https://www.v2ex.com/t/857771) `163条评论` `Apple`
-1. [什么软件会存活一百年？](https://www.v2ex.com/t/857943) `125条评论` `程序员`
-1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) `88条评论` `问与答`
-1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754) `75条评论` `macOS`
-1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764) `62条评论` `macOS`
-1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881) `57条评论` `程序员`
-1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783) `54条评论` `Apple`
-1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776) `49条评论` `Apple`
-1. [有没有能彻底禁止手机安装 APP 的办法](https://www.v2ex.com/t/857860) `48条评论` `问与答`
-1. [咦，没有人吐槽苹果新品吗？ 我来...](https://www.v2ex.com/t/857832) `47条评论` `Apple`
-1. [一次有趣的尝试：用 emoji 当验证码](https://www.v2ex.com/t/857940) `33条评论` `分享创造`
-1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974) `30条评论` `问与答`
-1. [用 html、js、css 写客户端软件，除了 electron 还有哪些方案？](https://www.v2ex.com/t/857907) `27条评论` `程序员`
-1. [广州租房体会](https://www.v2ex.com/t/857904) `27条评论` `生活`
-1. [QQ 被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) `25条评论` `问与答`
-1. [macOS Ventura Bug 记录贴](https://www.v2ex.com/t/857962) `24条评论` `macOS`
-1. [HK 的网 络 审 查首次影响到了服务器 考虑墙 Telegr am](https://www.v2ex.com/t/858020) `21条评论` `宽带症候群`
-1. [看到主机论坛上有网友说用 TX 云/bt 被审？](https://www.v2ex.com/t/857976) `21条评论` `程序员`
-1. [Java 线程池使用 Future,任务没完成啥意思](https://www.v2ex.com/t/857959) `21条评论` `Java`
-1. [一个 5 年经验的 Javaer，应该具备什么技能才算合格？](https://www.v2ex.com/t/857954) `21条评论` `Java`
-1. [iCloud+域名邮箱支持 Catch-all，需要非大陆 ID](https://www.v2ex.com/t/857967) `20条评论` `iCloud`
-1. [看惯了 Apple 高分显示屏后还能回到 1080p 吗](https://www.v2ex.com/t/857853) `20条评论` `Apple`
-1. [[6 月 7 日的发布会！] mbp 的 m2 和 mac studio 的 m1 max 选哪个](https://www.v2ex.com/t/857794) `20条评论` `Apple`
 
 <!-- YESTERDAY END -->
 
