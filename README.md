@@ -17,9 +17,9 @@
 1. [旧 iPhone 当备用机一直插着充电会怎么样？](https://www.v2ex.com/t/858304) `50条评论` `iPhone`
 1. [纠结我是不是真的需要一台 NAS](https://www.v2ex.com/t/858400) `48条评论` `NAS`
 1. [有没有一款路由器 or 固件能满足以下要求](https://www.v2ex.com/t/858546) `29条评论` `宽带症候群`
-1. [2024 年会推出 iPhone with USB Type-C Port](https://www.v2ex.com/t/858537) `25条评论` `iPhone`
+1. [2024 年会推出 iPhone with USB Type-C Port](https://www.v2ex.com/t/858537) `27条评论` `iPhone`
 1. [关于 App Store 要求 APP 必须提供用户彻底删除的功能的一个问题](https://www.v2ex.com/t/858453) `25条评论` `iDev`
-1. [探讨一种软件收费模式](https://www.v2ex.com/t/858551) `22条评论` `问与答`
+1. [探讨一种软件收费模式](https://www.v2ex.com/t/858551) `24条评论` `问与答`
 1. [额 我的 google 账号被盗了吗?](https://www.v2ex.com/t/858508) `22条评论` `Google`
 1. [请推荐一款 macOS 上的虚拟机产品](https://www.v2ex.com/t/858341) `22条评论` `macOS`
 1. [不得不说啊， IDEA 这波作业抄的是真不错](https://www.v2ex.com/t/858337) `22条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [同事抖腿，把桌子搞得一震一震的，显示器也跟着左右晃动怎么办，非常难受](https://www.v2ex.com/t/858556) `16条评论` `问与答`
 1. [迫于丈母娘要看股票，求推荐 10000 左右笔记本一台](https://www.v2ex.com/t/858423) `16条评论` `问与答`
 
-数据更新于 2022-06-09 18:55:35
+数据更新于 2022-06-09 19:14:26
 
 <!-- TODAY END -->
 
