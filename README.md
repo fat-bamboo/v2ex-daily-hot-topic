@@ -32,7 +32,7 @@
 1. [M2 Macbook Air 没风扇对你来说是优点还是缺点？](https://www.v2ex.com/t/859108) `18条评论` `Apple`
 1. [Alfred 官方公布了下一代 Alfred 5 的新特性](https://www.v2ex.com/t/859128) `17条评论` `Apple`
 
-数据更新于 2022-06-12 22:45:42
+数据更新于 2022-06-12 22:55:58
 
 <!-- TODAY END -->
 
