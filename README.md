@@ -11,7 +11,7 @@
 1. [大家游戏机用哪一版本的的 Win10?](https://www.v2ex.com/t/859017) `80条评论` `Windows`
 1. [苹果的刀法越来越精准了，大家的选择焦虑症是增加了还是降低了？](https://www.v2ex.com/t/859055) `59条评论` `Apple`
 1. [腾讯云误封挖矿 称是监管部门通报 无任何证据 求 v 友支招](https://www.v2ex.com/t/859088) `57条评论` `程序员`
-1. [xdm 问个问题上海户口有啥用](https://www.v2ex.com/t/859060) `51条评论` `上海`
+1. [xdm 问个问题上海户口有啥用](https://www.v2ex.com/t/859060) `52条评论` `上海`
 1. [吐槽： Windows 竟然没有 rsync...](https://www.v2ex.com/t/859114) `47条评论` `Windows`
 1. [有多少人在用 Apple Fitness+ 锻炼？](https://www.v2ex.com/t/859026) `46条评论` `Apple`
 1. [想问问华为的企业文化真的如网上传的那样吗？](https://www.v2ex.com/t/859086) `43条评论` `职场话题`
@@ -32,7 +32,7 @@
 1. [M2 Macbook Air 没风扇对你来说是优点还是缺点？](https://www.v2ex.com/t/859108) `18条评论` `Apple`
 1. [Alfred 官方公布了下一代 Alfred 5 的新特性](https://www.v2ex.com/t/859128) `17条评论` `Apple`
 
-数据更新于 2022-06-12 19:38:15
+数据更新于 2022-06-12 19:48:49
 
 <!-- TODAY END -->
 
