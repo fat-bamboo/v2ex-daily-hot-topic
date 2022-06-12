@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [大家游戏机用哪一版本的的 Win10?](https://www.v2ex.com/t/859017) `41条评论` `Windows`
-1. [有多少人在用 Apple Fitness+ 锻炼？](https://www.v2ex.com/t/859026) `21条评论` `Apple`
-1. [服务器被爆破了](https://www.v2ex.com/t/859022) `20条评论` `宽带症候群`
-1. [如何在多个 iPhone 、 iPad 之间共享照片、视频](https://www.v2ex.com/t/859016) `19条评论` `Apple`
-1. [跑步 App 你们选择哪个，决赛圈](https://www.v2ex.com/t/859020) `18条评论` `跑步`
-1. [M1 Macbook air（16+256)要不要换丐版 macbook pro 14](https://www.v2ex.com/t/859030) `15条评论` `Apple`
+1. [大家游戏机用哪一版本的的 Win10?](https://www.v2ex.com/t/859017) `42条评论` `Windows`
+1. [有多少人在用 Apple Fitness+ 锻炼？](https://www.v2ex.com/t/859026) `22条评论` `Apple`
+1. [服务器被爆破了](https://www.v2ex.com/t/859022) `21条评论` `服务器`
+1. [如何在多个 iPhone 、 iPad 之间共享照片、视频](https://www.v2ex.com/t/859016) `20条评论` `Apple`
+1. [跑步 App 你们选择哪个，决赛圈](https://www.v2ex.com/t/859020) `19条评论` `跑步`
+1. [M1 Macbook air（16+256)要不要换丐版 macbook pro 14](https://www.v2ex.com/t/859030) `16条评论` `Apple`
 1. [外接硬盘盒求推荐！](https://www.v2ex.com/t/859023) `13条评论` `问与答`
 1. [2022 的 618，充电电池除了爱老婆还有什么可选的？](https://www.v2ex.com/t/859033) `12条评论` `问与答`
 1. [ubuntu 20.04 utc 时间不正确](https://www.v2ex.com/t/859035) `10条评论` `问与答`
+1. [大家平时怎么了解国外新闻的](https://www.v2ex.com/t/859034) `10条评论` `问与答`
 1. [椅子寻亲](https://www.v2ex.com/t/859018) `9条评论` `生活`
-1. [大家平时怎么了解国外新闻的](https://www.v2ex.com/t/859034) `8条评论` `问与答`
 1. [YouTube 账号的 history 和 liked 列表最近开始频繁出现大量未看过的视频](https://www.v2ex.com/t/859045) `7条评论` `YouTube`
+1. [一年经验这种情况还能苟吗](https://www.v2ex.com/t/859038) `6条评论` `职场话题`
 
-数据更新于 2022-06-12 04:53:30
+数据更新于 2022-06-12 05:14:24
 
 <!-- TODAY END -->
 
