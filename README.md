@@ -9,30 +9,30 @@
 <!-- TODAY BEGIN -->
 
 1. [Android 工作干 10 年我迷茫了](https://www.v2ex.com/t/860443) `37条评论` `天津`
-1. [跟一个同事说我可能要离职了，她就开始哭……](https://www.v2ex.com/t/860441) `35条评论` `职场话题`
-1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `34条评论` `阅读`
-1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `29条评论` `Apple`
+1. [跟一个同事说我可能要离职了，她就开始哭……](https://www.v2ex.com/t/860441) `36条评论` `职场话题`
+1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `35条评论` `阅读`
+1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `30条评论` `Apple`
 1. [折叠雨伞推荐？](https://www.v2ex.com/t/860440) `19条评论` `问与答`
 1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466) `18条评论` `Linux`
 1. [618 各位都买了啥？](https://www.v2ex.com/t/860489) `17条评论` `买买买`
 1. [旧微信号长期不登陆被设为保护状态，需要好友验证才能登录，但是这个号里没有任何好友，请问我该怎么办？](https://www.v2ex.com/t/860447) `17条评论` `问与答`
 1. [618 了大家选的哪款显示器， 27 寸还是 32 寸 体验好呢？](https://www.v2ex.com/t/860442) `14条评论` `问与答`
+1. [联想电脑 edge 浏览器主页被 baidu 劫持，如何修复？](https://www.v2ex.com/t/860470) `13条评论` `Edge`
+1. [win10 开代理就不能有个提示吗](https://www.v2ex.com/t/860487) `12条评论` `Windows`
 1. [input file 能够上传远程 url 文件吗？](https://www.v2ex.com/t/860456) `12条评论` `问与答`
-1. [win10 开代理就不能有个提示吗](https://www.v2ex.com/t/860487) `11条评论` `Windows`
 1. [没想到在腾讯云上的服务器遭受到了来自腾讯云的重放攻击](https://www.v2ex.com/t/860476) `11条评论` `程序员`
-1. [联想电脑 edge 浏览器主页被 baidu 劫持，如何修复？](https://www.v2ex.com/t/860470) `11条评论` `Edge`
-1. [有人用过 go pro 吗？ 感觉怎么样](https://www.v2ex.com/t/860462) `9条评论` `问与答`
+1. [有人用过 go pro 吗？ 感觉怎么样](https://www.v2ex.com/t/860462) `10条评论` `问与答`
 1. [只需 6 刀/月 最低价的台湾 VPS IP 线路一般 但价格真实惠](https://www.v2ex.com/t/860460) `9条评论` `VPS`
 1. [求推荐 DIY NAS ITX 板 U 套装](https://www.v2ex.com/t/860445) `9条评论` `NAS`
 1. [群晖 Cloud Sync 备份， macOS 系统 Chrome、Edge 设置密码后， key 下载出错](https://www.v2ex.com/t/860449) `8条评论` `NAS`
 1. [关于老款 MBP 蝶式键盘的种种……](https://www.v2ex.com/t/860464) `7条评论` `MacBook Pro`
 1. [关于安卓 PDA 项目开发，应该用哪种前端技术？](https://www.v2ex.com/t/860455) `7条评论` `移动开发`
+1. [用充电宝给 M1 Macbook Air 供电（不是充电）很爽](https://www.v2ex.com/t/860491) `6条评论` `Apple`
 1. [你们的海淘订单已经延误了多久？](https://www.v2ex.com/t/860482) `6条评论` `问与答`
 1. [[远程全职] 月薪 25K RMB, 招聘 Java 工程师加入我们。](https://www.v2ex.com/t/860468) `6条评论` `酷工作`
 1. [外卖骑手对于长距离》5km 全城送的态度？](https://www.v2ex.com/t/860452) `6条评论` `问与答`
-1. [大哥们， ts-564 跟 ds 920+选哪个，眼看他们价格越降越低，有点忍不住想要出手了](https://www.v2ex.com/t/860446) `6条评论` `NAS`
 
-数据更新于 2022-06-18 07:15:12
+数据更新于 2022-06-18 07:29:40
 
 <!-- TODAY END -->
 
