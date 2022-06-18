@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `49条评论` `阅读`
-1. [Android 工作干 10 年我迷茫了](https://www.v2ex.com/t/860443) `44条评论` `天津`
+1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `50条评论` `阅读`
+1. [Android 工作干 10 年我迷茫了](https://www.v2ex.com/t/860443) `45条评论` `天津`
 1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `42条评论` `Apple`
 1. [跟一个同事说我可能要离职了，她就开始哭……](https://www.v2ex.com/t/860441) `41条评论` `职场话题`
-1. [618 各位都买了啥？](https://www.v2ex.com/t/860489) `21条评论` `买买买`
+1. [618 各位都买了啥？](https://www.v2ex.com/t/860489) `25条评论` `买买买`
 1. [win10 开代理就不能有个提示吗](https://www.v2ex.com/t/860487) `20条评论` `Windows`
 1. [折叠雨伞推荐？](https://www.v2ex.com/t/860440) `19条评论` `问与答`
 1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466) `18条评论` `Linux`
@@ -32,7 +32,7 @@
 1. [你们的海淘订单已经延误了多久？](https://www.v2ex.com/t/860482) `8条评论` `问与答`
 1. [群晖 Cloud Sync 备份， macOS 系统 Chrome、Edge 设置密码后， key 下载出错](https://www.v2ex.com/t/860449) `8条评论` `NAS`
 
-数据更新于 2022-06-18 09:38:12
+数据更新于 2022-06-18 09:48:34
 
 <!-- TODAY END -->
 
