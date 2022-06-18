@@ -13,17 +13,17 @@
 1. [折叠雨伞推荐？](https://www.v2ex.com/t/860440) `19条评论` `问与答`
 1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466) `16条评论` `Linux`
 1. [旧微信号长期不登陆被设为保护状态，需要好友验证才能登录，但是这个号里没有任何好友，请问我该怎么办？](https://www.v2ex.com/t/860447) `16条评论` `问与答`
-1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `13条评论` `Apple`
+1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `15条评论` `Apple`
 1. [618 了大家选的哪款显示器， 27 寸还是 32 寸 体验好呢？](https://www.v2ex.com/t/860442) `13条评论` `问与答`
 1. [input file 能够上传远程 url 文件吗？](https://www.v2ex.com/t/860456) `11条评论` `问与答`
 1. [求推荐 DIY NAS ITX 板 U 套装](https://www.v2ex.com/t/860445) `9条评论` `NAS`
+1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `8条评论` `阅读`
 1. [群晖 Cloud Sync 备份， macOS 系统 Chrome、Edge 设置密码后， key 下载出错](https://www.v2ex.com/t/860449) `8条评论` `NAS`
 1. [有人用过 go pro 吗？ 感觉怎么样](https://www.v2ex.com/t/860462) `7条评论` `问与答`
-1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `6条评论` `阅读`
 1. [没想到在腾讯云上的服务器遭受到了来自腾讯云的重放攻击](https://www.v2ex.com/t/860476) `6条评论` `程序员`
 1. [外卖骑手对于长距离》5km 全城送的态度？](https://www.v2ex.com/t/860452) `6条评论` `问与答`
 
-数据更新于 2022-06-18 04:49:43
+数据更新于 2022-06-18 04:59:54
 
 <!-- TODAY END -->
 
