@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `79条评论` `阅读`
+1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `80条评论` `阅读`
 1. [618 各位都买了啥？](https://www.v2ex.com/t/860489) `73条评论` `买买买`
 1. [跟一个同事说我可能要离职了，她就开始哭……](https://www.v2ex.com/t/860441) `56条评论` `职场话题`
 1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `55条评论` `Apple`
@@ -19,9 +19,9 @@
 1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466) `29条评论` `Linux`
 1. [2022 年 MBP M2 256G SSD 工作够不够用？](https://www.v2ex.com/t/860528) `29条评论` `程序员`
 1. [现在有没有几百块的备用安卓机](https://www.v2ex.com/t/860566) `24条评论` `Android`
-1. [异地生活透心的孤独感](https://www.v2ex.com/t/860555) `23条评论` `生活`
+1. [异地生活透心的孤独感](https://www.v2ex.com/t/860555) `24条评论` `生活`
 1. [win10 开代理就不能有个提示吗](https://www.v2ex.com/t/860487) `20条评论` `Windows`
-1. [macbook pro 发热堪比太阳](https://www.v2ex.com/t/860599) `16条评论` `Apple`
+1. [macbook pro 发热堪比太阳](https://www.v2ex.com/t/860599) `17条评论` `Apple`
 1. [DNSPod DoH 延迟大，偶尔解析出错，包括腾讯系域名](https://www.v2ex.com/t/860576) `15条评论` `全球工单系统`
 1. [用充电宝给 M1 Macbook Air 供电（不是充电）很爽](https://www.v2ex.com/t/860491) `14条评论` `Apple`
 1. [谨慎申请，(部分？)中行招财猫全币种 JCB 不能绑定日区 Apple ID 了](https://www.v2ex.com/t/860506) `13条评论` `Apple`
@@ -32,7 +32,7 @@
 1. [没想到在腾讯云上的服务器遭受到了来自腾讯云的重放攻击](https://www.v2ex.com/t/860476) `11条评论` `程序员`
 1. [有人用过 go pro 吗？ 感觉怎么样](https://www.v2ex.com/t/860462) `11条评论` `问与答`
 
-数据更新于 2022-06-18 23:48:12
+数据更新于 2022-06-18 23:58:33
 
 <!-- TODAY END -->
 
