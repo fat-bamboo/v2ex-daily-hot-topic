@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
+1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `38条评论` `阅读`
 1. [Android 工作干 10 年我迷茫了](https://www.v2ex.com/t/860443) `37条评论` `天津`
 1. [跟一个同事说我可能要离职了，她就开始哭……](https://www.v2ex.com/t/860441) `36条评论` `职场话题`
-1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) `36条评论` `阅读`
 1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465) `30条评论` `Apple`
 1. [折叠雨伞推荐？](https://www.v2ex.com/t/860440) `19条评论` `问与答`
 1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466) `18条评论` `Linux`
@@ -24,15 +24,15 @@
 1. [有人用过 go pro 吗？ 感觉怎么样](https://www.v2ex.com/t/860462) `10条评论` `问与答`
 1. [只需 6 刀/月 最低价的台湾 VPS IP 线路一般 但价格真实惠](https://www.v2ex.com/t/860460) `9条评论` `VPS`
 1. [求推荐 DIY NAS ITX 板 U 套装](https://www.v2ex.com/t/860445) `9条评论` `NAS`
+1. [用充电宝给 M1 Macbook Air 供电（不是充电）很爽](https://www.v2ex.com/t/860491) `8条评论` `Apple`
+1. [[远程全职] 月薪 25K RMB, 招聘 Java 工程师加入我们。](https://www.v2ex.com/t/860468) `8条评论` `酷工作`
 1. [群晖 Cloud Sync 备份， macOS 系统 Chrome、Edge 设置密码后， key 下载出错](https://www.v2ex.com/t/860449) `8条评论` `NAS`
-1. [[远程全职] 月薪 25K RMB, 招聘 Java 工程师加入我们。](https://www.v2ex.com/t/860468) `7条评论` `酷工作`
+1. [谨慎申请，(部分？)中行招财猫全币种 JCB 不能绑定日区 Apple ID 了](https://www.v2ex.com/t/860506) `7条评论` `Apple`
 1. [关于老款 MBP 蝶式键盘的种种……](https://www.v2ex.com/t/860464) `7条评论` `MacBook Pro`
 1. [关于安卓 PDA 项目开发，应该用哪种前端技术？](https://www.v2ex.com/t/860455) `7条评论` `移动开发`
-1. [用充电宝给 M1 Macbook Air 供电（不是充电）很爽](https://www.v2ex.com/t/860491) `6条评论` `Apple`
 1. [你们的海淘订单已经延误了多久？](https://www.v2ex.com/t/860482) `6条评论` `问与答`
-1. [外卖骑手对于长距离》5km 全城送的态度？](https://www.v2ex.com/t/860452) `6条评论` `问与答`
 
-数据更新于 2022-06-18 07:40:02
+数据更新于 2022-06-18 07:52:19
 
 <!-- TODAY END -->
 
