@@ -22,9 +22,9 @@
 1. [VIM 如何入门](https://www.v2ex.com/t/861193) `35条评论` `Vim`
 1. [谁有空闲时间，付费找人写个小偷程序](https://www.v2ex.com/t/861105) `31条评论` `PHP`
 1. [求一个 base64 工具，市面上的全部不满足要求](https://www.v2ex.com/t/861043) `28条评论` `程序员`
+1. [Copilot 似乎要收费了](https://www.v2ex.com/t/861236) `24条评论` `GitHub Copilot`
 1. [如何追回房东欺诈的电费？](https://www.v2ex.com/t/861195) `24条评论` `生活`
 1. [程序员在公司该怎么保护自己的个人劳动成果？](https://www.v2ex.com/t/861088) `23条评论` `Coding`
-1. [Copilot 似乎要收费了](https://www.v2ex.com/t/861236) `22条评论` `GitHub Copilot`
 1. [太热了但是租的房子没有冰箱，各位有什么迷你冰箱可以推荐吗？](https://www.v2ex.com/t/861026) `22条评论` `问与答`
 1. [1 年前端， base 深圳，期望薪资 20k 以上，求内推（React + TypeScript + GraphQL）](https://www.v2ex.com/t/861064) `19条评论` `前端开发`
 1. [MacBook pro 2017 typec 外接 Aoc U27N3C ，休眠后经常唤醒不了显示器](https://www.v2ex.com/t/861034) `19条评论` `macOS`
@@ -32,7 +32,7 @@
 1. [求各位有油车的老哥分享下，平时是怎么省钱加油的](https://www.v2ex.com/t/861137) `16条评论` `问与答`
 1. [装机新人，一碗钱就要吃两碗粉， all in one](https://www.v2ex.com/t/861102) `16条评论` `硬件`
 
-数据更新于 2022-06-21 19:38:50
+数据更新于 2022-06-21 19:49:24
 
 <!-- TODAY END -->
 
