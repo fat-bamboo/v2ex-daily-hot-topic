@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果用环保为由，割各位韭菜这件事…](https://www.v2ex.com/t/861044) `203条评论` `Apple`
+1. [苹果用环保为由，割各位韭菜这件事…](https://www.v2ex.com/t/861044) `205条评论` `Apple`
 1. [超星泄露数据库（学校名单）](https://www.v2ex.com/t/861101) `161条评论` `信息安全`
 1. [还有人买了这个充电头吗🐶](https://www.v2ex.com/t/861035) `94条评论` `Apple`
 1. [你能接受平薪甚至降薪跳槽吗？](https://www.v2ex.com/t/861063) `90条评论` `职场话题`
 1. [你们的 MacBook 屏幕贴膜吗？](https://www.v2ex.com/t/861095) `86条评论` `Apple`
-1. [大家居家办公都买了什么椅子？](https://www.v2ex.com/t/861041) `80条评论` `远程工作`
+1. [大家居家办公都买了什么椅子？](https://www.v2ex.com/t/861041) `83条评论` `远程工作`
 1. [Cloudflare 刚刚这波挂得挺惨的](https://www.v2ex.com/t/861133) `75条评论` `Cloudflare`
 1. [技术博客中的「优雅」是咋来的，有没有其他适合的形容词?](https://www.v2ex.com/t/861048) `65条评论` `问与答`
 1. [有被优化的兄弟进来取暖吗 (求内推](https://www.v2ex.com/t/861040) `47条评论` `程序员`
@@ -27,12 +27,12 @@
 1. [太热了但是租的房子没有冰箱，各位有什么迷你冰箱可以推荐吗？](https://www.v2ex.com/t/861026) `22条评论` `问与答`
 1. [1 年前端， base 深圳，期望薪资 20k 以上，求内推（React + TypeScript + GraphQL）](https://www.v2ex.com/t/861064) `19条评论` `前端开发`
 1. [MacBook pro 2017 typec 外接 Aoc U27N3C ，休眠后经常唤醒不了显示器](https://www.v2ex.com/t/861034) `19条评论` `macOS`
-1. [Copilot 似乎要收费了](https://www.v2ex.com/t/861236) `16条评论` `GitHub Copilot`
+1. [Copilot 似乎要收费了](https://www.v2ex.com/t/861236) `18条评论` `GitHub Copilot`
 1. [各位老哥，准备撤离一线城市了，很多物品，请问选择什么物流快递回家比较优惠啊？](https://www.v2ex.com/t/861168) `16条评论` `问与答`
 1. [求各位有油车的老哥分享下，平时是怎么省钱加油的](https://www.v2ex.com/t/861137) `16条评论` `问与答`
 1. [装机新人，一碗钱就要吃两碗粉， all in one](https://www.v2ex.com/t/861102) `16条评论` `硬件`
 
-数据更新于 2022-06-21 17:14:22
+数据更新于 2022-06-21 17:45:24
 
 <!-- TODAY END -->
 
