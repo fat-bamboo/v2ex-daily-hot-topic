@@ -8,6 +8,27 @@
 
 <!-- TODAY BEGIN -->
 
+1. [Github Copilot 正式上线了](https://www.v2ex.com/t/861260) `82条评论` `程序员`
+1. [没人觉得 v2 新上的广告过于碍眼吗？](https://www.v2ex.com/t/861263) `32条评论` `问与答`
+1. [“全球变暖”是伪命题吗？](https://www.v2ex.com/t/861271) `24条评论` `奇思妙想`
+1. [咨询一下，目前国内手机有完整 google 框架的是哪个品牌](https://www.v2ex.com/t/861272) `14条评论` `问与答`
+1. [GitHub Student 无法通过验证](https://www.v2ex.com/t/861281) `8条评论` `问与答`
+1. [请问安卓里有没有像 shawdowrocket 能较好支持 UDP 转发的翻墙软件。](https://www.v2ex.com/t/861273) `8条评论` `Android`
+1. [多多冲了个 AirPods3，但是如何辨别真伪....](https://www.v2ex.com/t/861269) `8条评论` `问与答`
+1. [各位大佬，美区 ios 应用自带技术上网吗？](https://www.v2ex.com/t/861268) `8条评论` `问与答`
+1. [Android 系统，有没有办法让某款应用在开启 WiFi 的情况下，仍使用移动数据联网？](https://www.v2ex.com/t/861264) `7条评论` `问与答`
+1. [我该如何组建一台 Nas(已经有部分硬件了)](https://www.v2ex.com/t/861261) `7条评论` `问与答`
+1. [请问怎么设置才能让 Apple Watch 在闹钟响的时候震动](https://www.v2ex.com/t/861274) `6条评论` `Apple`
+1. [windows 下面有哪些轻量的，类似 Sequel Pro 的 Mysql GUI 工具？](https://www.v2ex.com/t/861266) `6条评论` `问与答`
+
+数据更新于 2022-06-22 02:21:04
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [苹果用环保为由，割各位韭菜这件事…](https://www.v2ex.com/t/861044) `211条评论` `Apple`
 1. [超星泄露数据库（学校名单）](https://www.v2ex.com/t/861101) `161条评论` `信息安全`
 1. [还有人买了这个充电头吗🐶](https://www.v2ex.com/t/861035) `100条评论` `Apple`
@@ -31,38 +52,6 @@
 1. [MacBook pro 2017 typec 外接 Aoc U27N3C ，休眠后经常唤醒不了显示器](https://www.v2ex.com/t/861034) `19条评论` `macOS`
 1. [各位老哥，准备撤离一线城市了，很多物品，请问选择什么物流快递回家比较优惠啊？](https://www.v2ex.com/t/861168) `16条评论` `问与答`
 1. [求各位有油车的老哥分享下，平时是怎么省钱加油的](https://www.v2ex.com/t/861137) `16条评论` `问与答`
-
-数据更新于 2022-06-21 23:57:52
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [三伏天，夏日饮料推荐与被推荐~~~~~](https://www.v2ex.com/t/860766) `176条评论` `问与答`
-1. [求个密码管理软件](https://www.v2ex.com/t/860837) `124条评论` `Apple`
-1. [现在的手机都取消呼吸灯，简直是一种倒退](https://www.v2ex.com/t/860816) `99条评论` `全球工单系统`
-1. [telegram 出会员了，大佬都准备买了么？](https://www.v2ex.com/t/860760) `91条评论` `Telegram`
-1. [淘宝居然良心了一回](https://www.v2ex.com/t/860827) `81条评论` `程序员`
-1. [PC 发展这么多年，为何不走模块化？](https://www.v2ex.com/t/860839) `74条评论` `硬件`
-1. [独自开发了一个留学/移民论坛，目前注册用户 800+， beta 期间免邀请注册](https://www.v2ex.com/t/860771) `63条评论` `分享创造`
-1. [iOS 背单词好用的 App 推荐](https://www.v2ex.com/t/860844) `63条评论` `iOS`
-1. [记一次 Apple JD 自营店换电池的垃圾体验](https://www.v2ex.com/t/860911) `63条评论` `Apple`
-1. [CSDN 为什么一直被骂还一直变大](https://www.v2ex.com/t/860940) `55条评论` `程序员`
-1. [想问问各位大佬，平日开发异常是怎么处理的。](https://www.v2ex.com/t/860900) `29条评论` `程序员`
-1. [用主 PC 做 NAS 有哪些坏处？](https://www.v2ex.com/t/860922) `28条评论` `NAS`
-1. [m1 max 用啥都快，就是辣鸡 office 还是那么卡顿](https://www.v2ex.com/t/860795) `27条评论` `MacBook Pro`
-1. [突然觉得，电自的发展也挺奇葩的，你们会选择小 1w 的电动自行车吗？](https://www.v2ex.com/t/860870) `26条评论` `自行车`
-1. [前端大佬能当场写出这道题吗？](https://www.v2ex.com/t/860936) `23条评论` `前端开发`
-1. [家用空调适合 7x24 的使用嘛？](https://www.v2ex.com/t/860907) `22条评论` `生活`
-1. [你们地区的二手房跌了多少？](https://www.v2ex.com/t/860838) `22条评论` `问与答`
-1. [刚才差点酿成大错](https://www.v2ex.com/t/860777) `21条评论` `信息安全`
-1. [在北京两年的感悟。](https://www.v2ex.com/t/860965) `20条评论` `北京`
-1. [关于降薪问题求助](https://www.v2ex.com/t/860879) `18条评论` `职场话题`
-1. [相寓租房遇到的一些问题，请大家出出主意](https://www.v2ex.com/t/860824) `18条评论` `问与答`
-1. [记一次被裁员的经历](https://www.v2ex.com/t/860902) `17条评论` `职场话题`
-1. [最近搬瓦工机场中断很严重？](https://www.v2ex.com/t/860945) `16条评论` `VPS`
 
 <!-- YESTERDAY END -->
 
