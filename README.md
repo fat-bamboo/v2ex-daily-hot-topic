@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [最近加了几个买房群，里面那些人的智商，真的配得上他们的财产？](https://www.v2ex.com/t/861583) `182条评论` `随想`
-1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578) `99条评论` `生活`
+1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578) `101条评论` `生活`
 1. [第一次玩 ps5 就被劝退](https://www.v2ex.com/t/861566) `97条评论` `PlayStation 5`
-1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619) `89条评论` `程序员`
+1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619) `92条评论` `程序员`
 1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580) `68条评论` `iPhone`
 1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570) `60条评论` `Apple`
-1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536) `55条评论` `问与答`
-1. [为什么 GitHub Copilot 收费，却不给训练用的代码作者费用？](https://www.v2ex.com/t/861734) `50条评论` `GitHub Copilot`
+1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536) `57条评论` `问与答`
+1. [为什么 GitHub Copilot 收费，却不给训练用的代码作者费用？](https://www.v2ex.com/t/861734) `52条评论` `GitHub Copilot`
 1. [突然发现，我在 windows 下面最刚需的软件，居然是这两个...](https://www.v2ex.com/t/861708) `45条评论` `Windows`
 1. [安装 TikTok 国内打开之后黑屏，如何解决？](https://www.v2ex.com/t/861636) `43条评论` `Android`
 1. [惹战贴。看了下/windows 和/macos，感觉 mac 的细碎问题好多啊，除了 mac 开发的原因，什么别的原因让人们从 windows 换到 mac 呢？](https://www.v2ex.com/t/861605) `25条评论` `随想`
@@ -32,7 +32,7 @@
 1. [PVE 纸上谈盘之买大了](https://www.v2ex.com/t/861569) `17条评论` `Linux`
 1. [在局域网中的两台电脑，如何快速的共享文件数据？](https://www.v2ex.com/t/861639) `16条评论` `问与答`
 
-数据更新于 2022-06-23 15:56:09
+数据更新于 2022-06-23 16:28:19
 
 <!-- TODAY END -->
 
