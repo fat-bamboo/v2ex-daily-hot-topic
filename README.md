@@ -8,31 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近加了几个买房群，里面那些人的智商，真的配得上他们的财产？](https://www.v2ex.com/t/861583) `119条评论` `随想`
-1. [第一次玩 ps5 就被劝退](https://www.v2ex.com/t/861566) `75条评论` `PlayStation 5`
+1. [最近加了几个买房群，里面那些人的智商，真的配得上他们的财产？](https://www.v2ex.com/t/861583) `125条评论` `随想`
+1. [第一次玩 ps5 就被劝退](https://www.v2ex.com/t/861566) `78条评论` `PlayStation 5`
 1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570) `55条评论` `Apple`
-1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536) `44条评论` `问与答`
-1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619) `36条评论` `程序员`
+1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619) `50条评论` `程序员`
+1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536) `45条评论` `问与答`
+1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578) `45条评论` `问与答`
 1. [惹战贴。看了下/windows 和/macos，感觉 mac 的细碎问题好多啊，除了 mac 开发的原因，什么别的原因让人们从 windows 换到 mac 呢？](https://www.v2ex.com/t/861605) `25条评论` `随想`
+1. [Markdown 笔记，图片怎么管理？](https://www.v2ex.com/t/861643) `22条评论` `macOS`
 1. [macbookPro 暴毙 陷入两难境地 我该怎么办](https://www.v2ex.com/t/861611) `19条评论` `Apple`
 1. [提问：在职怎么参加外企面试](https://www.v2ex.com/t/861618) `18条评论` `程序员`
-1. [Markdown 笔记，图片怎么管理？](https://www.v2ex.com/t/861643) `17条评论` `macOS`
 1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580) `17条评论` `iPhone`
 1. [PVE 纸上谈盘之买大了](https://www.v2ex.com/t/861569) `17条评论` `Linux`
+1. [各位 V2er 怎么看阿里云企业主体备案域名需要录制承诺小视频的操作](https://www.v2ex.com/t/861672) `16条评论` `程序员`
 1. [在局域网中的两台电脑，如何快速的共享文件数据？](https://www.v2ex.com/t/861639) `16条评论` `问与答`
 1. [换了新手机才发现自己不需要换手机](https://www.v2ex.com/t/861535) `16条评论` `随想`
+1. [纠结 14 和 13 寸的 MBP 了，各位大佬会怎么选？](https://www.v2ex.com/t/861659) `15条评论` `MacBook Pro`
 1. [Apple watch 的锻炼圆环时间很难记入](https://www.v2ex.com/t/861540) `15条评论` `Apple`
 1. [安装 TikTok 国内打开之后黑屏，如何解决？](https://www.v2ex.com/t/861636) `14条评论` `Android`
 1. [一个宝藏博客，不敢独享：当你文采斐然又不得不做 AI](https://www.v2ex.com/t/861630) `13条评论` `分享发现`
-1. [广州电信：万兆光猫](https://www.v2ex.com/t/861642) `10条评论` `宽带症候群`
+1. [广州电信：万兆光猫](https://www.v2ex.com/t/861642) `11条评论` `宽带症候群`
+1. [感叹，厨子的刀法愈发精细](https://www.v2ex.com/t/861656) `10条评论` `MacBook Pro`
 1. [同时兼容 NS、PC、Apple TV 的手柄存在吗？](https://www.v2ex.com/t/861627) `10条评论` `Apple`
-1. [纠结 14 和 13 寸的 MBP 了，各位大佬会怎么选？](https://www.v2ex.com/t/861659) `9条评论` `MacBook Pro`
 1. [准备阶段性退网 V2er 们进来集思广益了](https://www.v2ex.com/t/861621) `9条评论` `问与答`
-1. [坐标北京，被欠薪了，公司法人换了，强制执行没有可执行财产，还有其他方式能要回工资吗？求支招](https://www.v2ex.com/t/861620) `9条评论` `北京`
-1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578) `9条评论` `问与答`
-1. [V2 成都技术交流群又炸了？有新的吗？](https://www.v2ex.com/t/861565) `9条评论` `成都`
 
-数据更新于 2022-06-23 07:59:04
+数据更新于 2022-06-23 08:32:36
 
 <!-- TODAY END -->
 
