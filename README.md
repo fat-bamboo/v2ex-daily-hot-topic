@@ -8,27 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
-1. [第一次玩 ps5 就被劝退](https://www.v2ex.com/t/861566) `46条评论` `PlayStation 5`
-1. [最近加了几个买房群，里面那些人的智商，真的配得上他们的财产？](https://www.v2ex.com/t/861583) `44条评论` `随想`
+1. [最近加了几个买房群，里面那些人的智商，真的配得上他们的财产？](https://www.v2ex.com/t/861583) `53条评论` `随想`
+1. [第一次玩 ps5 就被劝退](https://www.v2ex.com/t/861566) `51条评论` `PlayStation 5`
 1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570) `44条评论` `Apple`
 1. [PVE 纸上谈盘之买大了](https://www.v2ex.com/t/861569) `17条评论` `Linux`
 1. [换了新手机才发现自己不需要换手机](https://www.v2ex.com/t/861535) `16条评论` `随想`
+1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580) `15条评论` `iPhone`
 1. [Apple watch 的锻炼圆环时间很难记入](https://www.v2ex.com/t/861540) `15条评论` `Apple`
-1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580) `14条评论` `iPhone`
+1. [macbookPro 暴毙 陷入两难境地 我该怎么办](https://www.v2ex.com/t/861611) `13条评论` `Apple`
+1. [惹战贴。看了下/windows 和/macos，感觉 mac 的细碎问题好多啊，除了 mac 开发的原因，什么别的原因让人们从 windows 换到 mac 呢？](https://www.v2ex.com/t/861605) `13条评论` `随想`
 1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536) `12条评论` `问与答`
-1. [惹战贴。看了下/windows 和/macos，感觉 mac 的细碎问题好多啊，除了 mac 开发的原因，什么别的原因让人们从 windows 换到 mac 呢？](https://www.v2ex.com/t/861605) `10条评论` `随想`
+1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578) `9条评论` `问与答`
 1. [V2 成都技术交流群又炸了？有新的吗？](https://www.v2ex.com/t/861565) `9条评论` `成都`
 1. [感谢大家的帮助，开新主题给大家看看🐱，附言好像没办法放图片。](https://www.v2ex.com/t/861552) `9条评论` `问与答`
+1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619) `8条评论` `程序员`
 1. [屏幕风扇有人用过吗？](https://www.v2ex.com/t/861530) `8条评论` `问与答`
 1. [在上海，因为疫情和自身原因待业了四个月，如今手里仅有一个小公司的全栈岗位，思考到底要不要去？](https://www.v2ex.com/t/861528) `7条评论` `职场话题`
-1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578) `6条评论` `问与答`
 1. [配置 CI 自动化机器， win 的构建环境应该装 windows server 吗？](https://www.v2ex.com/t/861568) `6条评论` `Windows`
 1. [App Store 充值金额可以退款吗？](https://www.v2ex.com/t/861560) `6条评论` `Apple`
 1. [升级到 iOS15.5 出现原生输入法卡顿问题](https://www.v2ex.com/t/861557) `6条评论` `iPhone`
 1. [才疏学浅，理论知识不够。请教大家一个问题。图里面的最大流问题，求的是两点之间的，那么有没有办法求出来所有节点的能够通过的？直接依次求，更新权重就可以了嘛？](https://www.v2ex.com/t/861556) `6条评论` `程序员`
 1. [Surge4 for Mac 4 周五发车，还有个 4 个位](https://www.v2ex.com/t/861534) `6条评论` `Surge`
 
-数据更新于 2022-06-23 04:19:41
+数据更新于 2022-06-23 04:57:06
 
 <!-- TODAY END -->
 
