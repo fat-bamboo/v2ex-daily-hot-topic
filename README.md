@@ -15,7 +15,7 @@
 1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580) `72条评论` `iPhone`
 1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570) `61条评论` `Apple`
 1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536) `60条评论` `问与答`
-1. [突然发现，我在 windows 下面最刚需的软件，居然是这两个...](https://www.v2ex.com/t/861708) `58条评论` `Windows`
+1. [突然发现，我在 windows 下面最刚需的软件，居然是这两个...](https://www.v2ex.com/t/861708) `59条评论` `Windows`
 1. [为什么 GitHub Copilot 收费，却不给训练用的代码作者费用？](https://www.v2ex.com/t/861734) `56条评论` `GitHub Copilot`
 1. [macbookPro 暴毙 陷入两难境地 我该怎么办](https://www.v2ex.com/t/861611) `45条评论` `Apple`
 1. [换了新手机才发现自己不需要换手机](https://www.v2ex.com/t/861535) `43条评论` `随想`
@@ -32,7 +32,7 @@
 1. [纠结 14 和 13 寸的 MBP 了，各位大佬会怎么选？](https://www.v2ex.com/t/861659) `17条评论` `MacBook Pro`
 1. [PVE 纸上谈盘之买大了](https://www.v2ex.com/t/861569) `17条评论` `Linux`
 
-数据更新于 2022-06-23 22:17:30
+数据更新于 2022-06-23 22:34:07
 
 <!-- TODAY END -->
 
