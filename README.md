@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [聊聊 intel MacBook Pro 的散热和孱弱的 WiFi 性能](https://www.v2ex.com/t/862242) `39条评论` `MacBook Pro`
+1. [聊聊 intel MacBook Pro 的散热和孱弱的 WiFi 性能](https://www.v2ex.com/t/862242) `40条评论` `MacBook Pro`
 1. [手机坏了。。咋办，外面处处得扫码](https://www.v2ex.com/t/862247) `29条评论` `问与答`
+1. [怎么控制右手小指实现盲打](https://www.v2ex.com/t/862243) `28条评论` `程序员`
 1. [想问下大家，文件太多了，怎么分类比较好，用了什么工具](https://www.v2ex.com/t/862248) `27条评论` `程序员`
-1. [怎么控制右手小指实现盲打](https://www.v2ex.com/t/862243) `26条评论` `程序员`
 1. [自己使用，有没有必要从 esxi 转到 pve？](https://www.v2ex.com/t/862240) `25条评论` `程序员`
-1. [求一个 windows 下好用的 word 软件](https://www.v2ex.com/t/862289) `24条评论` `Windows`
+1. [求一个 windows 下好用的 word 软件](https://www.v2ex.com/t/862289) `25条评论` `Windows`
 1. [TB 这种情况下，你们会给差评吗？](https://www.v2ex.com/t/862258) `18条评论` `问与答`
 1. [蚌不埠了，低学历究竟有没有出路？](https://www.v2ex.com/t/862276) `17条评论` `问与答`
 1. [自动驾驶汽车用的是什么操作系统？](https://www.v2ex.com/t/862245) `17条评论` `程序员`
+1. [找运营商拿了一个公网 IP，准备做 DDNS](https://www.v2ex.com/t/862279) `14条评论` `宽带症候群`
 1. [找一个熟练使用 Python 合作的兼职伙伴](https://www.v2ex.com/t/862257) `14条评论` `Python`
 1. [如何限制 go 代码引用模块的目录？](https://www.v2ex.com/t/862236) `14条评论` `程序员`
 1. [抛砖引玉交流下, 有啥共享存储方案, 客户端可以搞成本地磁盘那种](https://www.v2ex.com/t/862233) `14条评论` `问与答`
-1. [找运营商拿了一个公网 IP，准备做 DDNS](https://www.v2ex.com/t/862279) `12条评论` `宽带症候群`
 1. [个人博客 搜索博文](https://www.v2ex.com/t/862270) `12条评论` `程序员`
 1. [买房最重要的是处理邻居的问题吗？](https://www.v2ex.com/t/862286) `11条评论` `问与答`
 1. [论文写作构图问题](https://www.v2ex.com/t/862260) `11条评论` `问与答`
@@ -29,10 +29,10 @@
 1. [iPad 型号好乱，如何快速理清连七八糟的型号？](https://www.v2ex.com/t/862263) `10条评论` `iPad`
 1. [请问不用 logi+，如何利用罗技 anywhere3 的侧键？](https://www.v2ex.com/t/862269) `9条评论` `Apple`
 1. [12 代 itx 放一个独显（短卡，半高或者全高）现在有什么比较好的方案吗](https://www.v2ex.com/t/862251) `9条评论` `硬件`
+1. [Linux 高分屏缩放方案(分数缩放)](https://www.v2ex.com/t/862295) `8条评论` `Linux`
 1. [看到手机坏掉的帖子，想到一个老问题](https://www.v2ex.com/t/862256) `8条评论` `问与答`
-1. [出国，是中年程序员的解药吗？](https://www.v2ex.com/t/862238) `8条评论` `程序员`
 
-数据更新于 2022-06-26 09:59:23
+数据更新于 2022-06-26 10:25:04
 
 <!-- TODAY END -->
 
