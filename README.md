@@ -16,7 +16,7 @@
 1. [打算在币安买一些个小币种，不清楚风险](https://www.v2ex.com/t/862393) `86条评论` `问与答`
 1. [小米电视 kodi 无法流畅播放 nas 里的 4k 电影！](https://www.v2ex.com/t/862484) `77条评论` `NAS`
 1. [新人写的网站，望大佬提供意见](https://www.v2ex.com/t/862397) `71条评论` `程序员`
-1. [别买 M2 MacBook Pro 的低配版（8GB+256GB）](https://www.v2ex.com/t/862381) `66条评论` `MacBook Pro`
+1. [别买 M2 MacBook Pro 的低配版（8GB+256GB）](https://www.v2ex.com/t/862381) `67条评论` `MacBook Pro`
 1. [我们是否会和疫情斗争十年以上](https://www.v2ex.com/t/862546) `44条评论` `问与答`
 1. [故事一则](https://www.v2ex.com/t/862515) `31条评论` `程序员`
 1. [OpenSumi 国产 IDE 发布，由阿里研发，完全开源](https://www.v2ex.com/t/862392) `31条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [研磨 Macbook 磕碰痕迹的骚操作...](https://www.v2ex.com/t/862430) `20条评论` `Apple`
 1. [分享自建的 tg 频道，微博热搜实时推送](https://www.v2ex.com/t/862391) `20条评论` `Telegram`
 
-数据更新于 2022-06-27 23:46:03
+数据更新于 2022-06-27 23:56:26
 
 <!-- TODAY END -->
 
