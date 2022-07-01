@@ -8,29 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你觉得国内哪个城市适合长期远程办公？](https://www.v2ex.com/t/863366) `113条评论` `问与答`
-1. [有人对创业感兴趣吗，我们的团队目前需要有经验的后端开发人员。](https://www.v2ex.com/t/863374) `67条评论` `创业组队`
-1. [大家的七月 Apple Fitness 挑战是啥？](https://www.v2ex.com/t/863358) `48条评论` `Apple`
-1. [[南京]有没有对女性开发者友好的公司？](https://www.v2ex.com/t/863380) `27条评论` `求职`
+1. [你觉得国内哪个城市适合长期远程办公？](https://www.v2ex.com/t/863366) `132条评论` `问与答`
+1. [有人对创业感兴趣吗，我们的团队目前需要有经验的后端开发人员。](https://www.v2ex.com/t/863374) `75条评论` `创业组队`
+1. [大家的七月 Apple Fitness 挑战是啥？](https://www.v2ex.com/t/863358) `51条评论` `Apple`
+1. [蚊子在人深度睡眠时期太猖狂了怎么办？](https://www.v2ex.com/t/863357) `44条评论` `生活`
+1. [[南京]有没有对女性开发者友好的公司？](https://www.v2ex.com/t/863380) `44条评论` `求职`
 1. [想配个小主机， Desk Mini 看起来很不错](https://www.v2ex.com/t/863354) `23条评论` `硬件`
-1. [蚊子在人深度睡眠时期太猖狂了怎么办？](https://www.v2ex.com/t/863357) `20条评论` `问与答`
+1. [苹果要求 App 必须内置删除账号功能！ 6 月 30 日是最后期限！](https://www.v2ex.com/t/863389) `22条评论` `Apple`
 1. [请教有没有这样一款管控 iPad 的软件？](https://www.v2ex.com/t/863362) `18条评论` `iDev`
-1. [苹果要求 App 必须内置删除账号功能！ 6 月 30 日是最后期限！](https://www.v2ex.com/t/863389) `14条评论` `Apple`
 1. [建议 QQ 取消 QQ 钱包功能](https://www.v2ex.com/t/863352) `14条评论` `分享发现`
 1. [是不是 gc 过程都会导致应用暂停](https://www.v2ex.com/t/863363) `12条评论` `程序员`
 1. [关于付费 APP 加密方式的一些疑问](https://www.v2ex.com/t/863351) `12条评论` `程序员`
 1. [现在保存数据，买硬盘是选择机械的好，还是固态好？](https://www.v2ex.com/t/863395) `11条评论` `问与答`
+1. [macOS 13 Ventura 怎么手动修改 WiFi 的 IP 地址和 DNS 地址](https://www.v2ex.com/t/863385) `11条评论` `macOS`
 1. [有没有什么比较好的 mysql to oracle 的实时同步工具](https://www.v2ex.com/t/863368) `11条评论` `程序员`
 1. [涉及支付的 APP，都需要 IPC 经营许可吗？有没有办法不需要？](https://www.v2ex.com/t/863356) `11条评论` `问与答`
 1. [问一个终端 adb root 问题](https://www.v2ex.com/t/863361) `10条评论` `Android`
 1. [云计算（运维）的认证，选择哪家好](https://www.v2ex.com/t/863360) `10条评论` `云计算`
-1. [macOS 13 Ventura 怎么手动修改 WiFi 的 IP 地址和 DNS 地址](https://www.v2ex.com/t/863385) `9条评论` `macOS`
 1. [iPhone 如何禁止删除 esim 卡号？](https://www.v2ex.com/t/863350) `9条评论` `Apple`
 1. [想试试有回复么，发了几个贴都石沉大海](https://www.v2ex.com/t/863340) `9条评论` `问与答`
+1. [[ MacOS ] 强迫症难受啊(1 像素之差)](https://www.v2ex.com/t/863410) `7条评论` `macOS`
 1. [DropBox 一个 23G 的压缩包下着下着就断了，有什么好办法吗](https://www.v2ex.com/t/863388) `7条评论` `问与答`
 1. [迅雷这是认真的吗？](https://www.v2ex.com/t/863341) `7条评论` `分享发现`
+1. [分享我的低成本润拿下绿卡经历](https://www.v2ex.com/t/863413) `6条评论` `生活`
 
-数据更新于 2022-07-01 03:59:17
+数据更新于 2022-07-01 05:01:02
 
 <!-- TODAY END -->
 
