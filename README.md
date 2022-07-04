@@ -12,7 +12,7 @@
 1. [如何评价把 accesid 写在博客里](https://www.v2ex.com/t/863864) `108条评论` `程序员`
 1. [在 gitee，你的代码里不能包含 SAVE。。。](https://www.v2ex.com/t/864017) `101条评论` `程序员`
 1. [内向的人有哪些优势?](https://www.v2ex.com/t/863912) `96条评论` `问与答`
-1. [堂妹上大学了，送 macbook pro14 怎么样？](https://www.v2ex.com/t/863981) `81条评论` `MacBook Pro`
+1. [堂妹上大学了，送 macbook pro14 怎么样？](https://www.v2ex.com/t/863981) `82条评论` `MacBook Pro`
 1. [你们的工作时间是 8 小时吗?](https://www.v2ex.com/t/863950) `72条评论` `问与答`
 1. [常用的一个笔记软件在 7 月 1 号突然个人版空间只有 200M 了。](https://www.v2ex.com/t/863869) `71条评论` `程序员`
 1. [软件自由保护组织 SFC 呼吁所有 FOSS 放弃使用 Github](https://www.v2ex.com/t/863865) `57条评论` `程序员`
@@ -32,7 +32,7 @@
 1. [MacStudio 和 MBP 的选择 求指点](https://www.v2ex.com/t/864045) `15条评论` `MacBook Pro`
 1. [孤独的人有哪些优势?](https://www.v2ex.com/t/864032) `15条评论` `问与答`
 
-数据更新于 2022-07-04 20:55:45
+数据更新于 2022-07-04 21:15:29
 
 <!-- TODAY END -->
 
