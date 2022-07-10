@@ -13,7 +13,7 @@
 1. [程序员的最终归宿是什么](https://www.v2ex.com/t/865217) `67条评论` `职场话题`
 1. [两家人的烦恼](https://www.v2ex.com/t/865210) `64条评论` `生活`
 1. [迫于小区 2 台电梯装监控需要 1 万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266) `47条评论` `问与答`
-1. [微软发布 VS Code Server 了~ 目前是 private preview 阶段](https://www.v2ex.com/t/865250) `36条评论` `Visual Studio Code`
+1. [微软发布 VS Code Server 了~ 目前是 private preview 阶段](https://www.v2ex.com/t/865250) `37条评论` `Visual Studio Code`
 1. [成都第一次租房子有什么注意事项和推荐的房子吗](https://www.v2ex.com/t/865226) `34条评论` `成都`
 1. [国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233) `30条评论` `程序员`
 1. [WI-FI6 多客户端速率疑问](https://www.v2ex.com/t/865261) `29条评论` `宽带症候群`
@@ -25,14 +25,14 @@
 1. [头条搜索（m.toutiao.com）最近攻占了 Google 中文结果页？](https://www.v2ex.com/t/865254) `18条评论` `Google`
 1. [网易云音乐账号突然被封禁。。](https://www.v2ex.com/t/865295) `15条评论` `音乐`
 1. [为什么 Anker 的无线充电器这么贵](https://www.v2ex.com/t/865248) `15条评论` `硬件`
+1. [账户验证真的上头](https://www.v2ex.com/t/865306) `13条评论` `Google`
 1. [m1 air 外接显示器为啥感觉字体模糊](https://www.v2ex.com/t/865225) `13条评论` `Apple`
 1. [Electron 的打包体积有点大](https://www.v2ex.com/t/865312) `12条评论` `程序员`
-1. [账户验证真的上头](https://www.v2ex.com/t/865306) `12条评论` `Google`
 1. [寻找类似数据库的文件管理软件， window 平台下。](https://www.v2ex.com/t/865264) `12条评论` `问与答`
 1. [2021 mbp14 屏幕胶垫粘 c 面](https://www.v2ex.com/t/865221) `12条评论` `MacBook Pro`
 1. [现在大家都用什么软件或者工具存储和使用 Code Snippets?](https://www.v2ex.com/t/865283) `11条评论` `问与答`
 
-数据更新于 2022-07-10 18:21:32
+数据更新于 2022-07-10 18:44:04
 
 <!-- TODAY END -->
 
