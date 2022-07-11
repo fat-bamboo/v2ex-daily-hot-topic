@@ -8,11 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
+1. [想换电脑了，旧 macbook 怎么伪装成坏掉的样子](https://www.v2ex.com/t/865354) `53条评论` `macOS`
+1. [招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361) `33条评论` `问与答`
+1. [RedFish: 一款便捷、跨平台、专注于数据的 Redis GUI 客户端](https://www.v2ex.com/t/865341) `29条评论` `分享创造`
+1. [如何看待 WPS 会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365) `27条评论` `程序员`
+1. [MacOS finder 替代品有什么推荐的吗](https://www.v2ex.com/t/865346) `20条评论` `macOS`
+1. [修改后的 EVA 初号机 VS Code 主题 各位提点意见](https://www.v2ex.com/t/865339) `17条评论` `Visual Studio Code`
 1. [我已经疯了](https://www.v2ex.com/t/865342) `17条评论` `生活`
-1. [修改后的 EVA 初号机 VS Code 主题 各位提点意见](https://www.v2ex.com/t/865339) `8条评论` `Visual Studio Code`
+1. [原本就是 Markdown 语法的文本，复制到 Notion 中如何让它解析？](https://www.v2ex.com/t/865355) `14条评论` `问与答`
+1. [国内真的有人深度使用 Telegram（除币圈和搞 H 色](https://www.v2ex.com/t/865378) `13条评论` `Telegram`
+1. [吐槽贴， 618 天猫官方买的 iPhone13 后摄像头有粒灰尘。](https://www.v2ex.com/t/865360) `13条评论` `iPhone`
+1. [m1 mac 上的 chrome 滑动列表的时候会卡顿](https://www.v2ex.com/t/865348) `11条评论` `macOS`
+1. [既然轻薄本和游戏本，最大的区别是散热，那为什么不外接一根金属导热管，把热量排走呢？](https://www.v2ex.com/t/865364) `10条评论` `硬件`
+1. [租房赶上暑期，节奏确实比平时快不少](https://www.v2ex.com/t/865343) `7条评论` `生活`
+1. [基于 Django 框架开发了一个 CURD 低代码生成功能](https://www.v2ex.com/t/865345) `6条评论` `分享创造`
 1. [Linux 由于系统问题，求快速迁移数据库，网站，中间件的办法。](https://www.v2ex.com/t/865335) `6条评论` `问与答`
 
-数据更新于 2022-07-11 01:56:10
+数据更新于 2022-07-11 03:39:36
 
 <!-- TODAY END -->
 
