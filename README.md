@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新品发布：支持中文的 AI 生成绘画作品工具](https://www.v2ex.com/t/865457) `224条评论` `分享创造`
+1. [新品发布：支持中文的 AI 生成绘画作品工具](https://www.v2ex.com/t/865457) `229条评论` `分享创造`
 1. [国内真的有人深度使用 Telegram（除币圈和搞 H 色](https://www.v2ex.com/t/865378) `174条评论` `Telegram`
 1. [如何看待 WPS 会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365) `119条评论` `程序员`
 1. [分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375) `111条评论` `分享创造`
 1. [招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361) `90条评论` `问与答`
 1. [想换电脑了，旧 macbook 怎么伪装成坏掉的样子](https://www.v2ex.com/t/865354) `85条评论` `macOS`
-1. [JDK17 都出来了，感觉现在很多资深程序员 Stream 不会， Lambda 不会， Java .time 包不会](https://www.v2ex.com/t/865425) `61条评论` `Java`
-1. [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464) `58条评论` `MySQL`
+1. [JDK17 都出来了，感觉现在很多资深程序员 Stream 不会， Lambda 不会， Java .time 包不会](https://www.v2ex.com/t/865425) `62条评论` `Java`
+1. [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464) `60条评论` `MySQL`
 1. [前端和后端中间的部分一般习惯叫做什么](https://www.v2ex.com/t/865407) `57条评论` `程序员`
 1. [RedFish: 一款便捷、跨平台、专注于数据的 Redis GUI 客户端](https://www.v2ex.com/t/865341) `29条评论` `分享创造`
 1. [老哥们现在写简历都用什么](https://www.v2ex.com/t/865423) `24条评论` `求职`
-1. [微信聊天记录导出，这个需求大吗？](https://www.v2ex.com/t/865510) `22条评论` `Android`
-1. [码农想入手个游戏主机 PS 还是 XBOX](https://www.v2ex.com/t/865505) `20条评论` `程序员`
+1. [微信聊天记录导出，这个需求大吗？](https://www.v2ex.com/t/865510) `23条评论` `Android`
+1. [码农想入手个游戏主机 PS 还是 XBOX](https://www.v2ex.com/t/865505) `21条评论` `程序员`
 1. [12 代 cpu 做 nas 现在合适吗？](https://www.v2ex.com/t/865467) `20条评论` `NAS`
 1. [怎么买金条划算？](https://www.v2ex.com/t/865437) `20条评论` `问与答`
 1. [现在的生产力是否已经能够支持全人类过上物质充足的生活？](https://www.v2ex.com/t/865415) `20条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [请教如何打 log，性能最好](https://www.v2ex.com/t/865470) `18条评论` `C++`
 1. [ffmpeg.wasm 关于 rtsp 推流](https://www.v2ex.com/t/865431) `17条评论` `程序员`
 
-数据更新于 2022-07-11 14:23:53
+数据更新于 2022-07-11 14:40:59
 
 <!-- TODAY END -->
 
