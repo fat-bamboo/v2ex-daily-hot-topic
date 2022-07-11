@@ -8,30 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想换电脑了，旧 macbook 怎么伪装成坏掉的样子](https://www.v2ex.com/t/865354) `63条评论` `macOS`
-1. [如何看待 WPS 会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365) `53条评论` `程序员`
-1. [国内真的有人深度使用 Telegram（除币圈和搞 H 色](https://www.v2ex.com/t/865378) `50条评论` `Telegram`
-1. [招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361) `38条评论` `问与答`
+1. [想换电脑了，旧 macbook 怎么伪装成坏掉的样子](https://www.v2ex.com/t/865354) `65条评论` `macOS`
+1. [如何看待 WPS 会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365) `65条评论` `程序员`
+1. [国内真的有人深度使用 Telegram（除币圈和搞 H 色](https://www.v2ex.com/t/865378) `57条评论` `Telegram`
+1. [招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361) `42条评论` `问与答`
 1. [RedFish: 一款便捷、跨平台、专注于数据的 Redis GUI 客户端](https://www.v2ex.com/t/865341) `29条评论` `分享创造`
 1. [MacOS finder 替代品有什么推荐的吗](https://www.v2ex.com/t/865346) `20条评论` `macOS`
+1. [既然轻薄本和游戏本，最大的区别是散热，那为什么不外接一根金属导热管，把热量排走呢？](https://www.v2ex.com/t/865364) `18条评论` `硬件`
+1. [分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375) `17条评论` `分享创造`
 1. [修改后的 EVA 初号机 VS Code 主题 各位提点意见](https://www.v2ex.com/t/865339) `17条评论` `Visual Studio Code`
 1. [我已经疯了](https://www.v2ex.com/t/865342) `17条评论` `生活`
-1. [既然轻薄本和游戏本，最大的区别是散热，那为什么不外接一根金属导热管，把热量排走呢？](https://www.v2ex.com/t/865364) `16条评论` `硬件`
 1. [吐槽贴， 618 天猫官方买的 iPhone13 后摄像头有粒灰尘。](https://www.v2ex.com/t/865360) `16条评论` `iPhone`
 1. [原本就是 Markdown 语法的文本，复制到 Notion 中如何让它解析？](https://www.v2ex.com/t/865355) `15条评论` `问与答`
-1. [分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375) `12条评论` `分享创造`
 1. [m1 mac 上的 chrome 滑动列表的时候会卡顿](https://www.v2ex.com/t/865348) `12条评论` `macOS`
-1. [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386) `8条评论` `程序员`
-1. [求个 ROS 网关掉线自动切换的脚本呀！](https://www.v2ex.com/t/865368) `8条评论` `路由器`
-1. [在预算有限的情况下，服务器放在哪里能兼顾全球用户啊？](https://www.v2ex.com/t/865374) `7条评论` `云计算`
+1. [在预算有限的情况下，服务器放在哪里能兼顾全球用户啊？](https://www.v2ex.com/t/865374) `11条评论` `云计算`
+1. [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386) `10条评论` `程序员`
+1. [求个 ROS 网关掉线自动切换的脚本呀！](https://www.v2ex.com/t/865368) `9条评论` `路由器`
+1. [熊猫吃短信不能吃 Apple Watch 上的辣鸡短信？](https://www.v2ex.com/t/865382) `8条评论` `iPhone`
+1. [一个 nginx 的问题好奇是怎么做到的，比如 node.js 不是访问 js 文件而是跳转到指定页面](https://www.v2ex.com/t/865395) `7条评论` `问与答`
 1. [租房赶上暑期，节奏确实比平时快不少](https://www.v2ex.com/t/865343) `7条评论` `生活`
-1. [一个 nginx 的问题好奇是怎么做到的，比如 node.js 不是访问 js 文件而是跳转到指定页面](https://www.v2ex.com/t/865395) `6条评论` `问与答`
-1. [熊猫吃短信不能吃 Apple Watch 上的辣鸡短信？](https://www.v2ex.com/t/865382) `6条评论` `iPhone`
+1. [Apple Watch 进水失控？](https://www.v2ex.com/t/865363) `6条评论` `Apple`
 1. [有什么快速从 macOS 到 Windows（BootCamp）的快速切换的方法？](https://www.v2ex.com/t/865351) `6条评论` `MacBook Pro`
 1. [基于 Django 框架开发了一个 CURD 低代码生成功能](https://www.v2ex.com/t/865345) `6条评论` `分享创造`
 1. [Linux 由于系统问题，求快速迁移数据库，网站，中间件的办法。](https://www.v2ex.com/t/865335) `6条评论` `问与答`
 
-数据更新于 2022-07-11 05:03:13
+数据更新于 2022-07-11 05:32:57
 
 <!-- TODAY END -->
 
