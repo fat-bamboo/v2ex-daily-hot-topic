@@ -14,7 +14,7 @@
 1. [现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648) `49条评论` `上海`
 1. [百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574) `44条评论` `Apple`
 1. [youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565) `35条评论` `Apple`
-1. [普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625) `31条评论` `问与答`
+1. [普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625) `32条评论` `问与答`
 1. [日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577) `30条评论` `问与答`
 1. [群的二维码设置有效期的目的是什么？](https://www.v2ex.com/t/866644) `25条评论` `问与答`
 1. [刚撸 Python ，问个问题](https://www.v2ex.com/t/866690) `24条评论` `Python`
@@ -27,12 +27,12 @@
 1. [前端用 VUE3 打包静态文件，后端 API 是否需要考虑安全保护？](https://www.v2ex.com/t/866571) `17条评论` `Vue.js`
 1. [代码生成](https://www.v2ex.com/t/866573) `15条评论` `Java`
 1. [Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581) `14条评论` `Windows`
-1. [求助！能推荐个 5~8 K 的笔记本嘛](https://www.v2ex.com/t/866702) `12条评论` `问与答`
+1. [求助！能推荐个 5~8 K 的笔记本嘛](https://www.v2ex.com/t/866702) `13条评论` `问与答`
 1. [如何优雅地把一个 10g 左右的 zip 文件从 mac 系统放到 ios 系统里呢？](https://www.v2ex.com/t/866607) `12条评论` `macOS`
 1. [macos 上的 QQ 居然需要手机扫码，什么毛病了](https://www.v2ex.com/t/866652) `11条评论` `互联网`
 1. [现在换 M1，还是等九月发布会？](https://www.v2ex.com/t/866605) `11条评论` `Apple`
 
-数据更新于 2022-07-16 21:58:42
+数据更新于 2022-07-16 22:23:11
 
 <!-- TODAY END -->
 
