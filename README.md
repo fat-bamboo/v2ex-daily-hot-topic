@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [朋友要润日本，这样的方法靠谱吗？](https://www.v2ex.com/t/866725) `231条评论` `移民`
-1. [感叹选择 macbook 无法续航、便携、性能兼得](https://www.v2ex.com/t/866764) `66条评论` `Apple`
+1. [朋友要润日本，这样的方法靠谱吗？](https://www.v2ex.com/t/866725) `233条评论` `移民`
+1. [感叹选择 macbook 无法续航、便携、性能兼得](https://www.v2ex.com/t/866764) `68条评论` `Apple`
 1. [如何更改资料让美区 App Store 免税？](https://www.v2ex.com/t/866775) `32条评论` `iOS`
 1. [上海找工作太难了](https://www.v2ex.com/t/866762) `26条评论` `随想`
-1. [目前主流 PCIe NVMe 协议的固态硬盘寿命能有多长？](https://www.v2ex.com/t/866773) `25条评论` `硬件`
-1. [nodejs 中文网要开 vip 收费了，会员费用为 199 元/年。](https://www.v2ex.com/t/866787) `25条评论` `Node.js`
+1. [目前主流 PCIe NVMe 协议的固态硬盘寿命能有多长？](https://www.v2ex.com/t/866773) `26条评论` `硬件`
+1. [nodejs 中文网要开 vip 收费了，会员费用为 199 元/年。](https://www.v2ex.com/t/866787) `26条评论` `Node.js`
 1. [v 友们，外接显示器选择 27 寸 2k 还是 27 寸 4k 的好一些？](https://www.v2ex.com/t/866804) `19条评论` `问与答`
 1. [Java 初学问题](https://www.v2ex.com/t/866739) `18条评论` `Java`
 1. [问一下大家，大家是如何阅读英文文档的？](https://www.v2ex.com/t/866769) `17条评论` `问与答`
@@ -26,13 +26,13 @@
 1. [下午中介给我发了小区同一房型今年的租金，从$2500 涨到$3500，疯了](https://www.v2ex.com/t/866818) `12条评论` `程序员`
 1. [速速 V 我 50](https://www.v2ex.com/t/866754) `11条评论` `分享创造`
 1. [requests 能不能优雅地配置全局代理？](https://www.v2ex.com/t/866749) `11条评论` `Python`
+1. [mac 即时翻译 app 有推荐么？](https://www.v2ex.com/t/866786) `10条评论` `问与答`
 1. [能不能实现脱离微信给公众号发消息？](https://www.v2ex.com/t/866727) `10条评论` `问与答`
-1. [mac 即时翻译 app 有推荐么？](https://www.v2ex.com/t/866786) `9条评论` `问与答`
 1. [JS 混淆后的代码扒到本地无法运行](https://www.v2ex.com/t/866735) `9条评论` `问与答`
-1. [surface pro8 还是蹲一下等 pro9?](https://www.v2ex.com/t/866805) `6条评论` `程序员`
-1. [为了支持 Bob 购买了 pro 版，但是遇到了一个问题](https://www.v2ex.com/t/866802) `6条评论` `macOS`
+1. [surface pro8 还是蹲一下等 pro9?](https://www.v2ex.com/t/866805) `7条评论` `程序员`
+1. [为了支持 Bob 购买了 pro 版，但是遇到了一个问题](https://www.v2ex.com/t/866802) `7条评论` `macOS`
 
-数据更新于 2022-07-17 11:39:27
+数据更新于 2022-07-17 11:49:54
 
 <!-- TODAY END -->
 
