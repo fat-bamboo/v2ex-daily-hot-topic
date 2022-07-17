@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [朋友要润日本，这样的方法靠谱吗？](https://www.v2ex.com/t/866725) `225条评论` `移民`
-1. [感叹选择 macbook 无法续航、便携、性能兼得](https://www.v2ex.com/t/866764) `64条评论` `Apple`
-1. [如何更改资料让美区 App Store 免税？](https://www.v2ex.com/t/866775) `31条评论` `iOS`
+1. [朋友要润日本，这样的方法靠谱吗？](https://www.v2ex.com/t/866725) `228条评论` `移民`
+1. [感叹选择 macbook 无法续航、便携、性能兼得](https://www.v2ex.com/t/866764) `65条评论` `Apple`
+1. [如何更改资料让美区 App Store 免税？](https://www.v2ex.com/t/866775) `32条评论` `iOS`
+1. [上海找工作太难了](https://www.v2ex.com/t/866762) `25条评论` `随想`
 1. [目前主流 PCIe NVMe 协议的固态硬盘寿命能有多长？](https://www.v2ex.com/t/866773) `25条评论` `硬件`
-1. [上海找工作太难了](https://www.v2ex.com/t/866762) `24条评论` `随想`
 1. [nodejs 中文网要开 vip 收费了，会员费用为 199 元/年。](https://www.v2ex.com/t/866787) `24条评论` `Node.js`
 1. [v 友们，外接显示器选择 27 寸 2k 还是 27 寸 4k 的好一些？](https://www.v2ex.com/t/866804) `19条评论` `问与答`
 1. [Java 初学问题](https://www.v2ex.com/t/866739) `18条评论` `Java`
@@ -32,7 +32,7 @@
 1. [请问有什么适合搜索峰值的算法吗？](https://www.v2ex.com/t/866781) `6条评论` `问与答`
 1. [HP Dev One Linux 笔记本有老哥感兴趣的吗](https://www.v2ex.com/t/866723) `6条评论` `硬件`
 
-数据更新于 2022-07-17 11:13:35
+数据更新于 2022-07-17 11:28:49
 
 <!-- TODAY END -->
 
