@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [iPhone 没有通话录音快把我逼疯了](https://www.v2ex.com/t/867435) `99条评论` `问与答`
+1. [公积金避税很常见？](https://www.v2ex.com/t/867510) `89条评论` `职场话题`
 1. [有对象之后，急剧减少与异性的沟通交流](https://www.v2ex.com/t/867447) `89条评论` `生活`
-1. [公积金避税很常见？](https://www.v2ex.com/t/867510) `88条评论` `程序员`
 1. [nodejs 中文网 开始收费了，已经付费了的同学举个爪](https://www.v2ex.com/t/867461) `74条评论` `程序员`
 1. [微信账号废了](https://www.v2ex.com/t/867428) `59条评论` `微信`
 1. [请问有好看耐用的背包推荐吗](https://www.v2ex.com/t/867431) `57条评论` `生活`
@@ -33,7 +33,7 @@
 1. [VirtualBox 竟然不支持 M1 Pro](https://www.v2ex.com/t/867551) `17条评论` `MacBook Pro`
 1. [Apple ID 提醒升级 paypal 付款，结果 paypal 无法绑定新发的招行 AE 卡，怎么办？](https://www.v2ex.com/t/867503) `15条评论` `Apple`
 
-数据更新于 2022-07-20 11:14:15
+数据更新于 2022-07-20 11:29:43
 
 <!-- TODAY END -->
 
