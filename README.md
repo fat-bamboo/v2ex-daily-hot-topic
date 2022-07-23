@@ -17,8 +17,8 @@
 1. [正经人谁写日记？不正经人请进来领 30 个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) `29条评论` `分享创造`
 1. [公司这么搞是违法的吗](https://www.v2ex.com/t/868199) `28条评论` `职场话题`
 1. [求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) `24条评论` `问与答`
-1. [阿里通信 阿里小号 你做尽坏事 投诉无门 只能法院起诉 守规矩的人最受欺负](https://www.v2ex.com/t/868217) `19条评论` `分享发现`
-1. [仍然怀念 Intel CPU 的 mac](https://www.v2ex.com/t/868205) `17条评论` `Apple`
+1. [阿里通信 阿里小号 你做尽坏事 投诉无门 只能法院起诉 守规矩的人最受欺负](https://www.v2ex.com/t/868217) `21条评论` `分享发现`
+1. [仍然怀念 Intel CPU 的 mac](https://www.v2ex.com/t/868205) `18条评论` `Apple`
 1. [Youtube 博主为 M2 MacBook Air 主板贴上 15 美元散热片后发现性能和 M2 Pro 相同](https://www.v2ex.com/t/868169) `17条评论` `MacBook Air`
 1. [[北京/高瓴投资/明星创业公司] 🛰 dora 测试岗位 / 后端岗位开放申请](https://www.v2ex.com/t/868173) `15条评论` `酷工作`
 1. [线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151) `15条评论` `Java`
@@ -28,12 +28,12 @@
 1. [咨询-深圳好玩的地方推荐](https://www.v2ex.com/t/868211) `9条评论` `深圳`
 1. [不小心买了丐版 m2 pro 该怎么安慰自己](https://www.v2ex.com/t/868152) `9条评论` `MacBook Pro`
 1. [关于 defer 的案例有点不太理解（新手）](https://www.v2ex.com/t/868146) `9条评论` `Go 编程语言`
+1. [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228) `8条评论` `程序员`
 1. [搜索英文技术问题的技巧](https://www.v2ex.com/t/868191) `8条评论` `问与答`
 1. [typescript 里, 从后端接口获取的数据类型, 是声明全局类型呢, 还是模块类型呢](https://www.v2ex.com/t/868154) `8条评论` `程序员`
-1. [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228) `7条评论` `程序员`
 1. [为什么 Minecraft for Windows（基岩版）显示所有成就已锁定？](https://www.v2ex.com/t/868148) `7条评论` `问与答`
 
-数据更新于 2022-07-23 10:41:51
+数据更新于 2022-07-23 10:55:43
 
 <!-- TODAY END -->
 
