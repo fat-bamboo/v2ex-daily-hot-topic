@@ -8,16 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
+1. [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) `21条评论` `程序员`
 1. [刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140) `20条评论` `程序员`
-1. [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) `16条评论` `程序员`
-1. [新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) `12条评论` `Apple`
-1. [在 115 已经几乎无法使用的今天 你是怎么办的](https://www.v2ex.com/t/868145) `12条评论` `问与答`
-1. [线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151) `10条评论` `Java`
-1. [吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153) `7条评论` `Apple`
+1. [吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153) `16条评论` `Apple`
+1. [线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151) `14条评论` `Java`
+1. [在 115 已经几乎无法使用的今天 你是怎么办的](https://www.v2ex.com/t/868145) `14条评论` `问与答`
+1. [新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) `13条评论` `Apple`
+1. [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167) `12条评论` `程序员`
 1. [关于 defer 的案例有点不太理解（新手）](https://www.v2ex.com/t/868146) `7条评论` `Go 编程语言`
+1. [typescript 里, 从后端接口获取的数据类型, 是声明全局类型呢, 还是模块类型呢](https://www.v2ex.com/t/868154) `6条评论` `程序员`
 1. [不小心买了丐版 m2 pro 该怎么安慰自己](https://www.v2ex.com/t/868152) `6条评论` `MacBook Pro`
+1. [为什么 Minecraft for Windows（基岩版）显示所有成就已锁定？](https://www.v2ex.com/t/868148) `6条评论` `问与答`
 
-数据更新于 2022-07-23 03:43:18
+数据更新于 2022-07-23 04:17:18
 
 <!-- TODAY END -->
 
