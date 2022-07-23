@@ -8,29 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) `51条评论` `程序员`
-1. [吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153) `48条评论` `Apple`
-1. [刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140) `30条评论` `程序员`
+1. [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) `52条评论` `程序员`
+1. [吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153) `51条评论` `Apple`
+1. [刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140) `31条评论` `程序员`
 1. [新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) `28条评论` `Apple`
-1. [正经人谁写日记？不正经人请进来领 30 个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) `25条评论` `分享创造`
-1. [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167) `24条评论` `程序员`
+1. [正经人谁写日记？不正经人请进来领 30 个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) `26条评论` `分享创造`
+1. [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167) `25条评论` `程序员`
 1. [Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182) `23条评论` `程序员`
 1. [求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) `17条评论` `问与答`
 1. [Youtube 博主为 M2 MacBook Air 主板贴上 15 美元散热片后发现性能和 M2 Pro 相同](https://www.v2ex.com/t/868169) `17条评论` `MacBook Air`
 1. [线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151) `15条评论` `Java`
 1. [在 115 已经几乎无法使用的今天 你是怎么办的](https://www.v2ex.com/t/868145) `15条评论` `问与答`
 1. [[北京/高瓴投资/明星创业公司] 🛰 dora 测试岗位 / 后端岗位开放申请](https://www.v2ex.com/t/868173) `14条评论` `酷工作`
-1. [仍然怀念 Intel CPU 的 mac](https://www.v2ex.com/t/868205) `11条评论` `Apple`
-1. [公司这么搞是违法的吗](https://www.v2ex.com/t/868199) `10条评论` `程序员`
-1. [大学生国际信用卡推荐](https://www.v2ex.com/t/868209) `9条评论` `程序员`
+1. [仍然怀念 Intel CPU 的 mac](https://www.v2ex.com/t/868205) `13条评论` `Apple`
+1. [公司这么搞是违法的吗](https://www.v2ex.com/t/868199) `12条评论` `程序员`
+1. [大学生国际信用卡推荐](https://www.v2ex.com/t/868209) `10条评论` `程序员`
 1. [不小心买了丐版 m2 pro 该怎么安慰自己](https://www.v2ex.com/t/868152) `9条评论` `MacBook Pro`
 1. [关于 defer 的案例有点不太理解（新手）](https://www.v2ex.com/t/868146) `9条评论` `Go 编程语言`
 1. [typescript 里, 从后端接口获取的数据类型, 是声明全局类型呢, 还是模块类型呢](https://www.v2ex.com/t/868154) `8条评论` `程序员`
 1. [为什么 Minecraft for Windows（基岩版）显示所有成就已锁定？](https://www.v2ex.com/t/868148) `7条评论` `问与答`
+1. [咨询-深圳好玩的地方推荐](https://www.v2ex.com/t/868211) `6条评论` `深圳`
+1. [你们的苹果 27 寸苹果开启什么分辨率？](https://www.v2ex.com/t/868200) `6条评论` `Apple`
 1. [搜索英文技术问题的技巧](https://www.v2ex.com/t/868191) `6条评论` `问与答`
 1. [为什么 iMessage 回顾之前消息这么卡](https://www.v2ex.com/t/868147) `6条评论` `Apple`
 
-数据更新于 2022-07-23 08:30:45
+数据更新于 2022-07-23 08:51:52
 
 <!-- TODAY END -->
 
