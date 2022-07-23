@@ -12,17 +12,17 @@
 1. [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) `61条评论` `程序员`
 1. [刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140) `43条评论` `程序员`
 1. [正经人谁写日记？不正经人请进来领 30 个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) `43条评论` `分享创造`
-1. [求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242) `38条评论` `Windows`
+1. [求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242) `41条评论` `Windows`
 1. [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167) `36条评论` `程序员`
 1. [Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182) `34条评论` `程序员`
 1. [公司这么搞是违法的吗](https://www.v2ex.com/t/868199) `34条评论` `职场话题`
+1. [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228) `32条评论` `程序员`
 1. [新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) `31条评论` `Apple`
-1. [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228) `31条评论` `程序员`
 1. [像这种事业单位该去吗](https://www.v2ex.com/t/868229) `27条评论` `职场话题`
 1. [仍然怀念 Intel CPU 的 mac](https://www.v2ex.com/t/868205) `25条评论` `Apple`
 1. [求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) `24条评论` `问与答`
 1. [阿里通信 阿里小号 你做尽坏事 投诉无门 只能法院起诉 守规矩的人最受欺负](https://www.v2ex.com/t/868217) `23条评论` `分享发现`
-1. [用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?](https://www.v2ex.com/t/868238) `19条评论` `Apple`
+1. [用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?](https://www.v2ex.com/t/868238) `20条评论` `Apple`
 1. [Youtube 博主为 M2 MacBook Air 主板贴上 15 美元散热片后发现性能和 M2 Pro 相同](https://www.v2ex.com/t/868169) `17条评论` `MacBook Air`
 1. [你们的苹果 27 寸苹果开启什么分辨率？](https://www.v2ex.com/t/868200) `16条评论` `Apple`
 1. [咨询-深圳好玩的地方推荐](https://www.v2ex.com/t/868211) `15条评论` `深圳`
@@ -30,10 +30,10 @@
 1. [线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151) `15条评论` `Java`
 1. [在 115 已经几乎无法使用的今天 你是怎么办的](https://www.v2ex.com/t/868145) `15条评论` `问与答`
 1. [什么样的公司适合远程办公？](https://www.v2ex.com/t/868219) `13条评论` `职场话题`
+1. [Hi，来试试 web3 的文件永存吧](https://www.v2ex.com/t/868264) `12条评论` `分享创造`
 1. [V2 为什么屏蔽了我的 IP 地址](https://www.v2ex.com/t/868260) `10条评论` `问与答`
-1. [日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259) `10条评论` `问与答`
 
-数据更新于 2022-07-23 14:38:37
+数据更新于 2022-07-23 14:49:06
 
 <!-- TODAY END -->
 
