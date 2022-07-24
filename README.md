@@ -13,8 +13,8 @@
 1. [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389) `34条评论` `NAS`
 1. [zero Tier 卸载之后依然残留进程联网](https://www.v2ex.com/t/868314) `34条评论` `宽带症候群`
 1. [Linux 用了半个月还是逃回 macos 的几个疑问](https://www.v2ex.com/t/868307) `33条评论` `Linux`
-1. [i225 网卡日志不太对](https://www.v2ex.com/t/868318) `23条评论` `宽带症候群`
-1. [免费的半年 IPv4 / IPv6 和通配符域名 acme SSL 证书 HiCA](https://www.v2ex.com/t/868344) `23条评论` `SSL`
+1. [i225 网卡日志不太对](https://www.v2ex.com/t/868318) `24条评论` `宽带症候群`
+1. [免费的半年 IPv4 / IPv6 和通配符域名 acme SSL 证书 HiCA](https://www.v2ex.com/t/868344) `24条评论` `SSL`
 1. [关于是否跳槽，大家给点建议](https://www.v2ex.com/t/868327) `19条评论` `程序员`
 1. [求教数据库设计思路](https://www.v2ex.com/t/868322) `18条评论` `问与答`
 1. [8 月 10 日到 8 月 30 日新疆游](https://www.v2ex.com/t/868342) `16条评论` `旅行`
@@ -25,15 +25,15 @@
 1. [求， iPad 控制 macOS 最好的远程控制软件](https://www.v2ex.com/t/868373) `12条评论` `macOS`
 1. [如何设置微软远程桌面内的缩放为 200%](https://www.v2ex.com/t/868317) `12条评论` `Windows`
 1. [请如何独立推广自己的动漫网站，达到百万用户量](https://www.v2ex.com/t/868400) `11条评论` `问与答`
+1. [在 2022 年的今天， HomePod mini 的使用体验是怎样的？](https://www.v2ex.com/t/868408) `10条评论` `Apple`
 1. [求教下运维的朋友如果方便快捷维护多台不同配置电脑的系统？](https://www.v2ex.com/t/868367) `10条评论` `问与答`
 1. [据猜测 M2 iPad 将使用 Macbook air 的主板](https://www.v2ex.com/t/868365) `10条评论` `iPad`
-1. [在 2022 年的今天， HomePod mini 的使用体验是怎样的？](https://www.v2ex.com/t/868408) `9条评论` `Apple`
 1. [万行原生 Javascript 该如何维护？](https://www.v2ex.com/t/868366) `9条评论` `问与答`
 1. [凉心云的 Serverless 云函数如果不用，记得冻结服务不然每天都会扣费](https://www.v2ex.com/t/868328) `9条评论` `云计算`
-1. [Mac 端 新版 onedrive 无法选择系统盘之外的盘存储文件，有没有大佬遇到相同情况的，求个解决方案](https://www.v2ex.com/t/868361) `8条评论` `问与答`
-1. [想要个 MT 的 PT 邀请，不知可否方便？](https://www.v2ex.com/t/868393) `8条评论` `剧集`
+1. [能分享一下你觉得好用的网站/服务吗](https://www.v2ex.com/t/868405) `8条评论` `分享发现`
+1. [宽带没到期有办法停掉吗？](https://www.v2ex.com/t/868390) `8条评论` `宽带症候群`
 
-数据更新于 2022-07-24 14:15:47
+数据更新于 2022-07-24 14:31:12
 
 <!-- TODAY END -->
 
