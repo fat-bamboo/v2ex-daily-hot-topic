@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [软件开发中 国外管理者 跟 国内管理者一个很明显的区别](https://www.v2ex.com/t/868301) `33条评论` `职场话题`
-1. [七年的恋爱结束了](https://www.v2ex.com/t/868362) `30条评论` `生活`
+1. [七年的恋爱结束了](https://www.v2ex.com/t/868362) `32条评论` `生活`
 1. [Linux 用了半个月还是逃回 macos 的几个疑问](https://www.v2ex.com/t/868307) `27条评论` `Linux`
 1. [zero Tier 卸载之后依然残留进程联网](https://www.v2ex.com/t/868314) `23条评论` `宽带症候群`
 1. [免费的半年 IPv4 / IPv6 和通配符域名 acme SSL 证书 HiCA](https://www.v2ex.com/t/868344) `19条评论` `SSL`
@@ -20,9 +20,10 @@
 1. [国内视频平台 爱优腾 选哪个平台](https://www.v2ex.com/t/868336) `14条评论` `问与答`
 1. [买新房一定要带上中介吗？](https://www.v2ex.com/t/868354) `13条评论` `问与答`
 1. [如何设置微软远程桌面内的缩放为 200%](https://www.v2ex.com/t/868317) `12条评论` `Windows`
+1. [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389) `10条评论` `NAS`
 1. [据猜测 M2 iPad 将使用 Macbook air 的主板](https://www.v2ex.com/t/868365) `10条评论` `iPad`
-1. [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389) `9条评论` `NAS`
 1. [凉心云的 Serverless 云函数如果不用，记得冻结服务不然每天都会扣费](https://www.v2ex.com/t/868328) `9条评论` `云计算`
+1. [C++中的数组寻址，是线性时间还是固定时间](https://www.v2ex.com/t/868384) `8条评论` `C++`
 1. [学习 React+TypeScript 应该怎么上手？](https://www.v2ex.com/t/868346) `8条评论` `程序员`
 1. [是不是不买 TG 的会员就不给开受限群组了?](https://www.v2ex.com/t/868313) `8条评论` `问与答`
 1. [有没有现成的班级地图？](https://www.v2ex.com/t/868305) `8条评论` `程序员`
@@ -30,10 +31,9 @@
 1. [这个正则要怎么写呢？一个不标准的 json 字符串，想要手动给他修改正确](https://www.v2ex.com/t/868341) `7条评论` `程序员`
 1. [iCloud 云上贵州共享相簿的公共网站功能被关闭？](https://www.v2ex.com/t/868309) `7条评论` `iCloud`
 1. [海外版 XSX 你们在哪里买](https://www.v2ex.com/t/868300) `7条评论` `Xbox Series X/S`
-1. [C++中的数组寻址，是线性时间还是固定时间](https://www.v2ex.com/t/868384) `6条评论` `C++`
 1. [airpod pro Apple Care 还有几天就到期了。还没用过。该做点什么呀](https://www.v2ex.com/t/868352) `6条评论` `问与答`
 
-数据更新于 2022-07-24 10:38:18
+数据更新于 2022-07-24 10:50:09
 
 <!-- TODAY END -->
 
