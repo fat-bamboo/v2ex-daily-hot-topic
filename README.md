@@ -8,9 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [软件开发中 国外管理者 跟 国内管理者一个很明显的区别](https://www.v2ex.com/t/868301) `10条评论` `职场话题`
+1. [软件开发中 国外管理者 跟 国内管理者一个很明显的区别](https://www.v2ex.com/t/868301) `15条评论` `职场话题`
+1. [Linux 用了半个月还是逃回 macos 的几个疑问](https://www.v2ex.com/t/868307) `10条评论` `Linux`
+1. [hashmap, i'll use a hashmap](https://www.v2ex.com/t/868315) `6条评论` `分享发现`
+1. [海外版 XSX 你们在哪里买](https://www.v2ex.com/t/868300) `6条评论` `Xbox Series X/S`
+1. [求教大佬们都是如何润的？](https://www.v2ex.com/t/868298) `6条评论` `问与答`
 
-数据更新于 2022-07-24 02:11:49
+数据更新于 2022-07-24 03:44:41
 
 <!-- TODAY END -->
 
