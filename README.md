@@ -8,6 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
+1. [刚入职就想跑路了。](https://www.v2ex.com/t/868453) `25条评论` `酷工作`
+1. [大家有没有感觉到，变频空调反而没老式空调制冷效果好？](https://www.v2ex.com/t/868451) `17条评论` `问与答`
+1. [iptables-web 一个基于 web ui 管理 iptables 的工具](https://www.v2ex.com/t/868445) `15条评论` `分享创造`
+1. [8 月 4 日七夕。送什么给女朋友呢？](https://www.v2ex.com/t/868457) `14条评论` `生活`
+1. [研究生导师打分网站](https://www.v2ex.com/t/868447) `14条评论` `分享发现`
+1. [请问大家公司都是用什么工具来处理部署时 Python 包的版本问题呢](https://www.v2ex.com/t/868456) `9条评论` `Python`
+1. [新房装修，大家把路由器放在哪的？](https://www.v2ex.com/t/868452) `9条评论` `问与答`
+1. [美区 PayPal 登不上了 求解](https://www.v2ex.com/t/868455) `8条评论` `PayPal`
+
+数据更新于 2022-07-25 02:14:17
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389) `61条评论` `NAS`
 1. [zero Tier 卸载之后依然残留进程联网](https://www.v2ex.com/t/868314) `48条评论` `宽带症候群`
 1. [软件开发中 国外管理者 跟 国内管理者一个很明显的区别](https://www.v2ex.com/t/868301) `41条评论` `职场话题`
@@ -32,39 +49,6 @@
 1. [2022 年了, 还在用 yarn 吗?](https://www.v2ex.com/t/868418) `10条评论` `JavaScript`
 1. [在 2022 年的今天， HomePod mini 的使用体验是怎样的？](https://www.v2ex.com/t/868408) `10条评论` `Apple`
 1. [宽带没到期有办法停掉吗？](https://www.v2ex.com/t/868390) `10条评论` `宽带症候群`
-
-数据更新于 2022-07-24 23:57:34
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153) `74条评论` `Apple`
-1. [求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242) `68条评论` `Windows`
-1. [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) `66条评论` `程序员`
-1. [正经人谁写日记？不正经人请进来领 30 个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) `47条评论` `分享创造`
-1. [刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140) `45条评论` `程序员`
-1. [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228) `44条评论` `程序员`
-1. [Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182) `37条评论` `程序员`
-1. [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167) `36条评论` `程序员`
-1. [公司这么搞是违法的吗](https://www.v2ex.com/t/868199) `35条评论` `职场话题`
-1. [新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) `32条评论` `Apple`
-1. [Hi，来试试 web3 的文件永存吧](https://www.v2ex.com/t/868264) `28条评论` `分享创造`
-1. [像这种事业单位该去吗](https://www.v2ex.com/t/868229) `28条评论` `职场话题`
-1. [日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259) `26条评论` `问与答`
-1. [仍然怀念 Intel CPU 的 mac](https://www.v2ex.com/t/868205) `25条评论` `Apple`
-1. [用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?](https://www.v2ex.com/t/868238) `24条评论` `Apple`
-1. [求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) `24条评论` `问与答`
-1. [阿里通信 阿里小号 你做尽坏事 投诉无门 只能法院起诉 守规矩的人最受欺负](https://www.v2ex.com/t/868217) `23条评论` `分享发现`
-1. [关于这个时间段买 iphone11](https://www.v2ex.com/t/868253) `22条评论` `iPhone`
-1. [V2 为什么屏蔽了我的 IP 地址](https://www.v2ex.com/t/868260) `18条评论` `问与答`
-1. [Youtube 博主为 M2 MacBook Air 主板贴上 15 美元散热片后发现性能和 M2 Pro 相同](https://www.v2ex.com/t/868169) `17条评论` `MacBook Air`
-1. [你们的苹果 27 寸苹果开启什么分辨率？](https://www.v2ex.com/t/868200) `16条评论` `Apple`
-1. [咨询-深圳好玩的地方推荐](https://www.v2ex.com/t/868211) `15条评论` `深圳`
-1. [[北京/高瓴投资/明星创业公司] 🛰 dora 测试岗位 / 后端岗位开放申请](https://www.v2ex.com/t/868173) `15条评论` `酷工作`
-1. [线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151) `15条评论` `Java`
 
 <!-- YESTERDAY END -->
 
