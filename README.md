@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [卖掉一件物品后 “回血” 若干元，用英文哪个词表示最准确？](https://www.v2ex.com/t/870345) `67条评论` `问与答`
-1. [二本计算机求一个努力方向](https://www.v2ex.com/t/870369) `58条评论` `问与答`
+1. [二本计算机求一个努力方向](https://www.v2ex.com/t/870369) `59条评论` `问与答`
 1. [Chrome 104 Mac 终于支持硬解 HEVC 了](https://www.v2ex.com/t/870362) `52条评论` `macOS`
-1. [明天七夕，你们给女生送的啥？](https://www.v2ex.com/t/870459) `49条评论` `问与答`
-1. [我又来啦， SwiftUI 开发的第 3 个 app，熊猫私密相册 ｜ 附永久码](https://www.v2ex.com/t/870471) `48条评论` `分享创造`
+1. [明天七夕，你们给女生送的啥？](https://www.v2ex.com/t/870459) `50条评论` `问与答`
+1. [我又来啦， SwiftUI 开发的第 3 个 app，熊猫私密相册 ｜ 附永久码](https://www.v2ex.com/t/870471) `49条评论` `分享创造`
 1. [Python 能不能像 node 一样管理包](https://www.v2ex.com/t/870375) `48条评论` `Python`
-1. [电报会员降价土区只要 13.49TRY 一个月了](https://www.v2ex.com/t/870349) `43条评论` `Telegram`
-1. [iPhone 的双卡信号感觉有点拉垮](https://www.v2ex.com/t/870397) `36条评论` `iPhone`
+1. [电报会员降价土区只要 13.49TRY 一个月了](https://www.v2ex.com/t/870349) `44条评论` `Telegram`
+1. [iPhone 的双卡信号感觉有点拉垮](https://www.v2ex.com/t/870397) `40条评论` `iPhone`
 1. [写代码用的 4K 60Hz 显示器，预算 1500 有没有推荐的？](https://www.v2ex.com/t/870373) `34条评论` `问与答`
 1. [冲突不可避免, 如何在那时保全自己和家人以及现在能做什么准备?](https://www.v2ex.com/t/870372) `31条评论` `奇思妙想`
 1. [珠三角旅游推荐](https://www.v2ex.com/t/870447) `27条评论` `旅行`
@@ -29,11 +29,11 @@
 1. [Java switch 为什么比 for 循环快？](https://www.v2ex.com/t/870434) `15条评论` `Java`
 1. [想入手一个断头的 mac pro，老哥们有没有什么靠谱的渠道](https://www.v2ex.com/t/870415) `15条评论` `MacBook Pro`
 1. [这个电视剧用一个截图说明 AI 的本质是什么](https://www.v2ex.com/t/870385) `15条评论` `剧集`
+1. [设计个开发者专用的手机浏览器，会有这个需求吗？](https://www.v2ex.com/t/870467) `14条评论` `问与答`
 1. [go proto3 过滤零值](https://www.v2ex.com/t/870412) `14条评论` `Go 编程语言`
-1. [设计个开发者专用的手机浏览器，会有这个需求吗？](https://www.v2ex.com/t/870467) `13条评论` `问与答`
-1. [求教， Excel 存储的题库，怎么快速生成题本和解析](https://www.v2ex.com/t/870445) `13条评论` `程序员`
+1. [如何配置一台小型 server](https://www.v2ex.com/t/870492) `13条评论` `程序员`
 
-数据更新于 2022-08-03 12:39:31
+数据更新于 2022-08-03 13:25:57
 
 <!-- TODAY END -->
 
