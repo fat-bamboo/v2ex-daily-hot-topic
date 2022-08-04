@@ -20,7 +20,7 @@
 1. [用 Go 写 Web 后端合适吗？](https://www.v2ex.com/t/870659) `51条评论` `Go 编程语言`
 1. [有个金额数据加千分位是应该前端处理还是后端处理好？](https://www.v2ex.com/t/870578) `46条评论` `程序员`
 1. [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724) `34条评论` `程序员`
-1. [windows 12 pro](https://www.v2ex.com/t/870752) `29条评论` `Windows`
+1. [windows 12 pro](https://www.v2ex.com/t/870752) `30条评论` `Windows`
 1. [有没有公司是使用 VsCode 来开发 Spring 项目的？](https://www.v2ex.com/t/870600) `29条评论` `问与答`
 1. [你们多久洗一次牙？](https://www.v2ex.com/t/870642) `27条评论` `问与答`
 1. [你们的 iPad Pro 买妙控键盘吗？](https://www.v2ex.com/t/870622) `25条评论` `iPad`
@@ -33,7 +33,7 @@
 1. [有人买 Zenfone9 吗？](https://www.v2ex.com/t/870732) `17条评论` `Android`
 1. [如何优雅的在多个网盘间同步文件？](https://www.v2ex.com/t/870617) `17条评论` `问与答`
 
-数据更新于 2022-08-04 19:30:59
+数据更新于 2022-08-04 19:45:38
 
 <!-- TODAY END -->
 
