@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [🎉 🎉 🎉 又来送兑换码咯~ macOS 效率应用 iPreview - Powerful Quick Look 祝大家七夕快乐~](https://www.v2ex.com/t/870662) `391条评论` `分享创造`
+1. [🎉 🎉 🎉 又来送兑换码咯~ macOS 效率应用 iPreview - Powerful Quick Look 祝大家七夕快乐~](https://www.v2ex.com/t/870662) `392条评论` `分享创造`
 1. [手机的 128G 内从是真的不够用了。](https://www.v2ex.com/t/870607) `161条评论` `程序员`
 1. [你们手机带壳吗](https://www.v2ex.com/t/870547) `149条评论` `Apple`
 1. [相忍为国](https://www.v2ex.com/t/870554) `142条评论` `问与答`
@@ -19,7 +19,7 @@
 1. [为了买套 Java 的交易所，上当了， 1000U 已经离我而去。](https://www.v2ex.com/t/870610) `53条评论` `分享发现`
 1. [用 Go 写 Web 后端合适吗？](https://www.v2ex.com/t/870659) `51条评论` `Go 编程语言`
 1. [有个金额数据加千分位是应该前端处理还是后端处理好？](https://www.v2ex.com/t/870578) `46条评论` `程序员`
-1. [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724) `36条评论` `程序员`
+1. [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724) `37条评论` `程序员`
 1. [windows 12 pro](https://www.v2ex.com/t/870752) `31条评论` `Windows`
 1. [有没有公司是使用 VsCode 来开发 Spring 项目的？](https://www.v2ex.com/t/870600) `29条评论` `问与答`
 1. [你们多久洗一次牙？](https://www.v2ex.com/t/870642) `27条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [有人买 Zenfone9 吗？](https://www.v2ex.com/t/870732) `17条评论` `Android`
 1. [苹果还没办法解决共享相册，家庭里的垃圾广告吗？是不打算解决了吗？](https://www.v2ex.com/t/870725) `17条评论` `Apple`
 
-数据更新于 2022-08-04 21:16:49
+数据更新于 2022-08-04 21:32:44
 
 <!-- TODAY END -->
 
