@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [🎉 🎉 🎉 又来送兑换码咯~ macOS 效率应用 iPreview - Powerful Quick Look 祝大家七夕快乐~](https://www.v2ex.com/t/870662) `386条评论` `分享创造`
+1. [🎉 🎉 🎉 又来送兑换码咯~ macOS 效率应用 iPreview - Powerful Quick Look 祝大家七夕快乐~](https://www.v2ex.com/t/870662) `388条评论` `分享创造`
 1. [手机的 128G 内从是真的不够用了。](https://www.v2ex.com/t/870607) `160条评论` `程序员`
 1. [你们手机带壳吗](https://www.v2ex.com/t/870547) `149条评论` `Apple`
 1. [相忍为国](https://www.v2ex.com/t/870554) `142条评论` `问与答`
@@ -21,7 +21,7 @@
 1. [有个金额数据加千分位是应该前端处理还是后端处理好？](https://www.v2ex.com/t/870578) `46条评论` `程序员`
 1. [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724) `32条评论` `程序员`
 1. [有没有公司是使用 VsCode 来开发 Spring 项目的？](https://www.v2ex.com/t/870600) `29条评论` `问与答`
-1. [windows 12 pro](https://www.v2ex.com/t/870752) `27条评论` `Windows`
+1. [windows 12 pro](https://www.v2ex.com/t/870752) `28条评论` `Windows`
 1. [你们多久洗一次牙？](https://www.v2ex.com/t/870642) `27条评论` `问与答`
 1. [你们的 iPad Pro 买妙控键盘吗？](https://www.v2ex.com/t/870622) `25条评论` `iPad`
 1. [[iOS | 送码] 回首一刻 —— 极简好用的目标管理，努力记录工具](https://www.v2ex.com/t/870580) `24条评论` `分享创造`
@@ -30,10 +30,10 @@
 1. [有点头秃的感觉，不知道怎么办](https://www.v2ex.com/t/870561) `19条评论` `问与答`
 1. [nginx 响应时间太久](https://www.v2ex.com/t/870670) `18条评论` `Python`
 1. [有什么类似 casdoor 的开源认证系统推荐吗？](https://www.v2ex.com/t/870546) `18条评论` `程序员`
+1. [有人买 Zenfone9 吗？](https://www.v2ex.com/t/870732) `17条评论` `Android`
 1. [如何优雅的在多个网盘间同步文件？](https://www.v2ex.com/t/870617) `17条评论` `问与答`
-1. [炒股亏了大半年的工资，肉痛！](https://www.v2ex.com/t/870588) `17条评论` `问与答`
 
-数据更新于 2022-08-04 17:33:47
+数据更新于 2022-08-04 17:50:58
 
 <!-- TODAY END -->
 
