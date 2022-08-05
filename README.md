@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [首付不够，有什么靠谱的借钱渠道吗](https://www.v2ex.com/t/870798) `59条评论` `上海`
-1. [一个大龄大厂搬砖工的叹息](https://www.v2ex.com/t/870825) `49条评论` `职场话题`
-1. [程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855) `30条评论` `程序员`
+1. [首付不够，有什么靠谱的借钱渠道吗](https://www.v2ex.com/t/870798) `61条评论` `上海`
+1. [一个大龄大厂搬砖工的叹息](https://www.v2ex.com/t/870825) `50条评论` `职场话题`
+1. [程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855) `32条评论` `程序员`
 1. [妙控板个人向劝退解毒](https://www.v2ex.com/t/870807) `28条评论` `Apple`
 1. [辞职了，想问问去哪旅行好？](https://www.v2ex.com/t/870834) `25条评论` `旅行`
 1. [广州的二楼能不能租哇](https://www.v2ex.com/t/870794) `24条评论` `广州`
@@ -24,16 +24,16 @@
 1. [有没有办法禁止健康宝扫码后的语音播报？](https://www.v2ex.com/t/870776) `13条评论` `问与答`
 1. [Java 转 Go](https://www.v2ex.com/t/870824) `12条评论` `Go 编程语言`
 1. [寻找北京摩托车轻松骑行朋友](https://www.v2ex.com/t/870796) `11条评论` `北京`
+1. [MacBook Pro (15-inch, 2018) 想换 M1](https://www.v2ex.com/t/870846) `9条评论` `MacBook Pro`
 1. [求助电视盒子去 VIP、免费观看的方法](https://www.v2ex.com/t/870822) `9条评论` `问与答`
 1. [IDEA Spring Boot 插件收费了吗](https://www.v2ex.com/t/870791) `9条评论` `程序员`
 1. [有无需梯子下载油管的方法吗？](https://www.v2ex.com/t/870851) `8条评论` `问与答`
-1. [MacBook Pro (15-inch, 2018) 想换 M1](https://www.v2ex.com/t/870846) `8条评论` `MacBook Pro`
 1. [想支持 Telegram，又感觉太贵，开通了土区 Tele 会员](https://www.v2ex.com/t/870809) `7条评论` `Telegram`
 1. [华为云越来越优惠了啊， 100 块两台 2H4G4M 服务器](https://www.v2ex.com/t/870793) `7条评论` `分享创造`
 1. [交流下大上行的家宽，收集与推荐](https://www.v2ex.com/t/870861) `6条评论` `宽带症候群`
 1. [北京眼镜店推荐](https://www.v2ex.com/t/870840) `6条评论` `生活`
 
-数据更新于 2022-08-05 05:46:17
+数据更新于 2022-08-05 05:56:40
 
 <!-- TODAY END -->
 
