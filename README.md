@@ -8,6 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
+1. [有没有办法禁止健康宝扫码后的语音播报？](https://www.v2ex.com/t/870776) `13条评论` `问与答`
+1. [obsidian 每次启动好慢呀，总是加载工作区中](https://www.v2ex.com/t/870775) `6条评论` `Markdown`
+
+数据更新于 2022-08-05 01:51:39
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [🎉 🎉 🎉 又来送兑换码咯~ macOS 效率应用 iPreview - Powerful Quick Look 祝大家七夕快乐~](https://www.v2ex.com/t/870662) `395条评论` `分享创造`
 1. [手机的 128G 内从是真的不够用了。](https://www.v2ex.com/t/870607) `163条评论` `程序员`
 1. [你们手机带壳吗](https://www.v2ex.com/t/870547) `149条评论` `Apple`
@@ -32,39 +43,6 @@
 1. [有什么类似 casdoor 的开源认证系统推荐吗？](https://www.v2ex.com/t/870546) `18条评论` `程序员`
 1. [有人买 Zenfone9 吗？](https://www.v2ex.com/t/870732) `17条评论` `Android`
 1. [苹果还没办法解决共享相册，家庭里的垃圾广告吗？是不打算解决了吗？](https://www.v2ex.com/t/870725) `17条评论` `Apple`
-
-数据更新于 2022-08-04 23:55:56
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [卖掉一件物品后 “回血” 若干元，用英文哪个词表示最准确？](https://www.v2ex.com/t/870345) `77条评论` `问与答`
-1. [明天七夕，你们给女生送的啥？](https://www.v2ex.com/t/870459) `73条评论` `问与答`
-1. [二本计算机求一个努力方向](https://www.v2ex.com/t/870369) `71条评论` `问与答`
-1. [Chrome 104 Mac 终于支持硬解 HEVC 了](https://www.v2ex.com/t/870362) `53条评论` `macOS`
-1. [Python 能不能像 node 一样管理包](https://www.v2ex.com/t/870375) `51条评论` `Python`
-1. [我又来啦， SwiftUI 开发的第 3 个 app，熊猫私密相册 ｜ 附永久码](https://www.v2ex.com/t/870471) `50条评论` `分享创造`
-1. [电报会员降价土区只要 13.49TRY 一个月了](https://www.v2ex.com/t/870349) `46条评论` `Telegram`
-1. [写代码用的 4K 60Hz 显示器，预算 1500 有没有推荐的？](https://www.v2ex.com/t/870373) `46条评论` `问与答`
-1. [iPhone 的双卡信号感觉有点拉垮](https://www.v2ex.com/t/870397) `44条评论` `iPhone`
-1. [冲突不可避免, 如何在那时保全自己和家人以及现在能做什么准备?](https://www.v2ex.com/t/870372) `31条评论` `奇思妙想`
-1. [珠三角旅游推荐](https://www.v2ex.com/t/870447) `27条评论` `旅行`
-1. [2021 款 MBP14 官网定制 延期这么久还没到货，大家知道啥情况吗？有没有什么办法催催啊](https://www.v2ex.com/t/870407) `26条评论` `MacBook Pro`
-1. [请问 win 有类似快照的功能吗](https://www.v2ex.com/t/870356) `24条评论` `Windows`
-1. [如何配置一台小型 server](https://www.v2ex.com/t/870492) `22条评论` `服务器`
-1. [意外发现 macOS 自带的词典还挺好用。](https://www.v2ex.com/t/870443) `21条评论` `macOS`
-1. [大家在闲鱼卖过什么有意思的二手商品？](https://www.v2ex.com/t/870428) `19条评论` `问与答`
-1. [设计个开发者专用的手机浏览器，会有这个需求吗？](https://www.v2ex.com/t/870467) `18条评论` `问与答`
-1. [有什么较为通用的办法解决两个实体类传递相同参数?](https://www.v2ex.com/t/870449) `18条评论` `Java`
-1. [本科计算机毕业多年，最近想在想职硕士可以读什么专业](https://www.v2ex.com/t/870420) `18条评论` `职场话题`
-1. [有玩血缘的朋友吗？ PS4 主机玩家](https://www.v2ex.com/t/870396) `17条评论` `魂系游戏`
-1. [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480) `15条评论` `程序员`
-1. [Java switch 为什么比 for 循环快？](https://www.v2ex.com/t/870434) `15条评论` `Java`
-1. [想入手一个断头的 mac pro，老哥们有没有什么靠谱的渠道](https://www.v2ex.com/t/870415) `15条评论` `MacBook Pro`
-1. [这个电视剧用一个截图说明 AI 的本质是什么](https://www.v2ex.com/t/870385) `15条评论` `剧集`
 
 <!-- YESTERDAY END -->
 
