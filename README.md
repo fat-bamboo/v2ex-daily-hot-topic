@@ -14,7 +14,7 @@
 1. [为什么小米要自己发明 USB 接口啊？](https://www.v2ex.com/t/872394) `75条评论` `硬件`
 1. [你们公司还能按时发工资么？](https://www.v2ex.com/t/872355) `72条评论` `问与答`
 1. [打羽毛球的大佬们](https://www.v2ex.com/t/872332) `62条评论` `问与答`
-1. [关于 Go 在 `Return Nil or Pointer to Empty Struct on Error` 上的讨论？](https://www.v2ex.com/t/872400) `60条评论` `Go 编程语言`
+1. [关于 Go 在 `Return Nil or Pointer to Empty Struct on Error` 上的讨论？](https://www.v2ex.com/t/872400) `61条评论` `Go 编程语言`
 1. [刑不刑？](https://www.v2ex.com/t/872331) `33条评论` `职场话题`
 1. [旧文连载-来了不是深圳人 1:拜拜了深圳](https://www.v2ex.com/t/872425) `32条评论` `深圳`
 1. [突如其来的多愁善感，差点没忍住在工位上泪崩了](https://www.v2ex.com/t/872445) `27条评论` `生活`
@@ -33,7 +33,7 @@
 1. [我一个朋友想离开深圳，但是舍不得罗湖](https://www.v2ex.com/t/872535) `17条评论` `深圳`
 1. [趁老婆在加班发点感想！](https://www.v2ex.com/t/872515) `17条评论` `随想`
 
-数据更新于 2022-08-12 17:59:32
+数据更新于 2022-08-12 18:30:35
 
 <!-- TODAY END -->
 
