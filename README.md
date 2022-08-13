@@ -33,7 +33,7 @@
 1. [忍不住了，喷喷 chrome](https://www.v2ex.com/t/872694) `12条评论` `Chrome`
 1. [自定义 Clash 代理规则的方案（使用 github actions 缓存到 CDN，提升访问速度）](https://www.v2ex.com/t/872662) `12条评论` `程序员`
 
-数据更新于 2022-08-13 20:25:02
+数据更新于 2022-08-13 20:39:53
 
 <!-- TODAY END -->
 
