@@ -23,8 +23,8 @@
 1. [3A 大作蜘蛛侠 PC 重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) `22条评论` `游戏`
 1. [想开发一个 windows 平台对标 Dash 的应用，用什么技术栈效率高](https://www.v2ex.com/t/872565) `22条评论` `程序员`
 1. [如何看待 Disney+ 的订阅用户数量已经超过了 Netflix？](https://www.v2ex.com/t/872614) `21条评论` `互联网`
+1. [笔记本厂商预装 Ubuntu 不需要付费吗？](https://www.v2ex.com/t/872658) `20条评论` `Ubuntu`
 1. [要给 50 岁的爸爸买一台手机](https://www.v2ex.com/t/872580) `20条评论` `问与答`
-1. [笔记本厂商预装 Ubuntu 不需要付费吗？](https://www.v2ex.com/t/872658) `19条评论` `Ubuntu`
 1. [vscode 的邮件插件](https://www.v2ex.com/t/872571) `19条评论` `程序员`
 1. [这种情况如何科学的润？](https://www.v2ex.com/t/872576) `18条评论` `问与答`
 1. [brave browser](https://www.v2ex.com/t/872670) `14条评论` `浏览器`
@@ -33,7 +33,7 @@
 1. [忍不住了，喷喷 chrome](https://www.v2ex.com/t/872694) `12条评论` `Chrome`
 1. [自定义 Clash 代理规则的方案（使用 github actions 缓存到 CDN，提升访问速度）](https://www.v2ex.com/t/872662) `12条评论` `程序员`
 
-数据更新于 2022-08-13 18:44:29
+数据更新于 2022-08-13 18:55:35
 
 <!-- TODAY END -->
 
