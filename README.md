@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [现在买 MBP 14 是 49 年入国军吗？](https://www.v2ex.com/t/874315) `25条评论` `MacBook Pro`
+1. [现在买 MBP 14 是 49 年入国军吗？](https://www.v2ex.com/t/874315) `26条评论` `MacBook Pro`
+1. [Chrome OS 或为最大赢家](https://www.v2ex.com/t/874317) `21条评论` `信息安全`
 1. [Windows 資料夾權限設置](https://www.v2ex.com/t/874292) `21条评论` `信息安全`
-1. [Chrome OS 或为最大赢家](https://www.v2ex.com/t/874317) `20条评论` `信息安全`
-1. [望远镜有了解吗，住 19 层，不远处有座山 该买什么样的望远镜呀？](https://www.v2ex.com/t/874314) `19条评论` `问与答`
+1. [望远镜有了解吗，住 19 层，不远处有座山 该买什么样的望远镜呀？](https://www.v2ex.com/t/874314) `20条评论` `问与答`
 1. [求推荐靠谱线上 iPhone 内存升级商家](https://www.v2ex.com/t/874308) `17条评论` `Apple`
 1. [上海电信 国际精品网停售](https://www.v2ex.com/t/874330) `16条评论` `宽带症候群`
 1. [一二线的工作选择，想听听水友们的意见](https://www.v2ex.com/t/874304) `15条评论` `职场话题`
@@ -26,14 +26,14 @@
 1. [求 PHP 、js 通用 url 加密](https://www.v2ex.com/t/874324) `7条评论` `Web Dev`
 1. [MBP14 爆音，怎么解决？](https://www.v2ex.com/t/874323) `7条评论` `MacBook Pro`
 1. [Apple One Premium：国区 iCloud，美区 App Store 可行么](https://www.v2ex.com/t/874322) `7条评论` `iCloud`
+1. [滴滴跑路了？](https://www.v2ex.com/t/874349) `6条评论` `云计算`
 1. [关于 ESXI 下想把群晖 6.1 升级到 7.1 的问题。](https://www.v2ex.com/t/874332) `6条评论` `NAS`
 1. [android 相册开发问题](https://www.v2ex.com/t/874303) `6条评论` `Android`
 1. [求教 nginx 配置](https://www.v2ex.com/t/874296) `6条评论` `程序员`
 1. [如何防止自己的显示设备被入侵](https://www.v2ex.com/t/874290) `6条评论` `信息安全`
 1. [送个 vps](https://www.v2ex.com/t/874287) `6条评论` `VPS`
-1. [关于“新冠康复者求职困难” 雇主是如何得知是新冠康复者？](https://www.v2ex.com/t/874310) `6条评论` `上海`
 
-数据更新于 2022-08-21 08:44:19
+数据更新于 2022-08-21 08:55:39
 
 <!-- TODAY END -->
 
