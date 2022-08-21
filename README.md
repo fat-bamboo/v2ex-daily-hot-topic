@@ -15,7 +15,7 @@
 1. [现在买 MBP 14 是 49 年入国军吗？](https://www.v2ex.com/t/874315) `10条评论` `MacBook Pro`
 1. [Chrome OS 或为最大赢家](https://www.v2ex.com/t/874317) `9条评论` `信息安全`
 1. [一夜醒来本地局域网从 192.168.1.X 变成 192.168.71.X？](https://www.v2ex.com/t/874300) `9条评论` `宽带症候群`
-1. [MBP14 爆音，怎么解决？](https://www.v2ex.com/t/874323) `6条评论` `MacBook Pro`
+1. [MBP14 爆音，怎么解决？](https://www.v2ex.com/t/874323) `7条评论` `MacBook Pro`
 1. [android 相册开发问题](https://www.v2ex.com/t/874303) `6条评论` `Android`
 1. [求教 nginx 配置](https://www.v2ex.com/t/874296) `6条评论` `程序员`
 1. [如何防止自己的显示设备被入侵](https://www.v2ex.com/t/874290) `6条评论` `信息安全`
@@ -23,7 +23,7 @@
 1. [关于“新冠康复者求职困难” 雇主是如何得知是新冠康复者？](https://www.v2ex.com/t/874310) `6条评论` `上海`
 1. [权力与义务得平衡？](https://www.v2ex.com/t/874298) `6条评论` `问与答`
 
-数据更新于 2022-08-21 05:45:46
+数据更新于 2022-08-21 05:56:09
 
 <!-- TODAY END -->
 
