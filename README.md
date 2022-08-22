@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [公司同事为什么可以做到事情没做完就回家的心态](https://www.v2ex.com/t/874454) `166条评论` `问与答`
-1. [沃趣 QFusion：盖楼送礼品，安装体验还送 150 京东卡](https://www.v2ex.com/t/874578) `154条评论` `推广`
+1. [沃趣 QFusion：盖楼送礼品，安装体验还送 150 京东卡](https://www.v2ex.com/t/874578) `155条评论` `推广`
 1. [关于北京医保个人账户改动](https://www.v2ex.com/t/874456) `145条评论` `北京`
-1. [求推荐一款好用+耐用的机械键盘](https://www.v2ex.com/t/874446) `105条评论` `程序员`
-1. [近来全球高温，分享大家能为可持续环保做的事情](https://www.v2ex.com/t/874495) `105条评论` `问与答`
-1. [2022 年了，移动端岗位需求已经无了吧？](https://www.v2ex.com/t/874461) `80条评论` `Android`
+1. [近来全球高温，分享大家能为可持续环保做的事情](https://www.v2ex.com/t/874495) `114条评论` `问与答`
+1. [求推荐一款好用+耐用的机械键盘](https://www.v2ex.com/t/874446) `106条评论` `程序员`
+1. [2022 年了，移动端岗位需求已经无了吧？](https://www.v2ex.com/t/874461) `81条评论` `Android`
 1. [工作一年，发现自己不太想写代码了，有点麻了](https://www.v2ex.com/t/874441) `68条评论` `程序员`
 1. [子弹应该飞很久了，请问 MIUI 的反诈现在是什么情况？](https://www.v2ex.com/t/874457) `62条评论` `MIUI`
 1. [一个全自动管理 Brook 的 Web UI](https://www.v2ex.com/t/874442) `55条评论` `分享创造`
@@ -27,13 +27,13 @@
 1. [为什么我总是不能和自己和解](https://www.v2ex.com/t/874566) `16条评论` `问与答`
 1. [如何优雅的解这个题？](https://www.v2ex.com/t/874486) `16条评论` `Python`
 1. [🎨 仿微信配色 Telegram 主题分享 —— 小而美 8.0](https://www.v2ex.com/t/874435) `16条评论` `Telegram`
+1. [github copilot 值得买吗？](https://www.v2ex.com/t/874624) `15条评论` `程序员`
 1. [M1 Mac mini 这一个月的读写量是不是有点吓人？](https://www.v2ex.com/t/874522) `15条评论` `Apple`
 1. [Windows 商店里搜索不到 Firefox？](https://www.v2ex.com/t/874436) `15条评论` `Windows`
-1. [建议停止使用 Todesk](https://www.v2ex.com/t/874618) `13条评论` `问与答`
+1. [建议停止使用 Todesk](https://www.v2ex.com/t/874618) `14条评论` `问与答`
 1. [MacBook Pro 电池健康 不到一年 只剩 92%了](https://www.v2ex.com/t/874536) `13条评论` `Apple`
-1. [有没有强迫症所有 err 必须处理的？](https://www.v2ex.com/t/874530) `13条评论` `Go 编程语言`
 
-数据更新于 2022-08-22 10:55:42
+数据更新于 2022-08-22 11:15:41
 
 <!-- TODAY END -->
 
