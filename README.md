@@ -10,9 +10,9 @@
 
 1. [被初中生 C 语言考住了，尴了个尬](https://www.v2ex.com/t/875942) `56条评论` `程序员`
 1. [阿里的产品经理,脑子被砸了吗?](https://www.v2ex.com/t/875957) `52条评论` `程序员`
+1. [换成 iPhone12 后，我再也找不到流畅打字的感觉了。](https://www.v2ex.com/t/875954) `32条评论` `Apple`
 1. [彩云天气 Pro 吃相难看 再次出现](https://www.v2ex.com/t/875963) `32条评论` `分享发现`
-1. [换成 iPhone12 后，我再也找不到流畅打字的感觉了。](https://www.v2ex.com/t/875954) `31条评论` `Apple`
-1. [发现 LastPass 是个坑](https://www.v2ex.com/t/875964) `21条评论` `分享发现`
+1. [发现 LastPass 是个坑](https://www.v2ex.com/t/875964) `22条评论` `分享发现`
 1. [ShadowTLS：更好用的 TLS 伪装代理](https://www.v2ex.com/t/875975) `19条评论` `分享创造`
 1. [问：大家读书时主要是那种阅读媒介呢？](https://www.v2ex.com/t/875948) `19条评论` `问与答`
 1. [电报被永久禁言不能发群消息和私聊怎么办](https://www.v2ex.com/t/875938) `18条评论` `问与答`
@@ -25,15 +25,15 @@
 1. [薄膜键盘与机械键盘那个对手指的伤害小一点。](https://www.v2ex.com/t/875987) `12条评论` `问与答`
 1. [关于 IINA 的听音乐费电测试](https://www.v2ex.com/t/875926) `12条评论` `macOS`
 1. [中信 MasterCard 苹果官网购买美区礼品卡失败](https://www.v2ex.com/t/875996) `11条评论` `Apple`
+1. [求助 分配到了 IPv6 地址，但上不了 IPv6 网络](https://www.v2ex.com/t/875981) `11条评论` `宽带症候群`
 1. [android UI 还原](https://www.v2ex.com/t/875925) `11条评论` `问与答`
-1. [求助 分配到了 IPv6 地址，但上不了 IPv6 网络](https://www.v2ex.com/t/875981) `10条评论` `宽带症候群`
+1. [问个 Ultrafine 5K 的问题](https://www.v2ex.com/t/875961) `10条评论` `Apple`
 1. [脑机接口是啥东东？](https://www.v2ex.com/t/875984) `9条评论` `问与答`
-1. [问个 Ultrafine 5K 的问题](https://www.v2ex.com/t/875961) `9条评论` `Apple`
 1. [为啥 M2Air 的菜单栏不能和刘海平行啊？](https://www.v2ex.com/t/875959) `9条评论` `macOS`
 1. [真是多少台显示器，都不嫌多。。](https://www.v2ex.com/t/875998) `8条评论` `程序员`
 1. [iPhone 拍视频规格，你选择哪个？](https://www.v2ex.com/t/875971) `8条评论` `Apple`
 
-数据更新于 2022-08-28 11:29:36
+数据更新于 2022-08-28 11:40:25
 
 <!-- TODAY END -->
 
