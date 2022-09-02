@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [从安卓转到 IOS 来，发现想要科学上网居然那么麻烦](https://www.v2ex.com/t/877193) `114条评论` `Apple`
-1. [Github 要把 Trending 关了？](https://www.v2ex.com/t/877153) `62条评论` `git`
+1. [从安卓转到 IOS 来，发现想要科学上网居然那么麻烦](https://www.v2ex.com/t/877193) `133条评论` `Apple`
+1. [Github 要把 Trending 关了？](https://www.v2ex.com/t/877153) `65条评论` `git`
 1. [风力发电，风经过扇叶被拦截，对整个大自然来说会有什么后遗症？](https://www.v2ex.com/t/877212) `58条评论` `问与答`
 1. [关于处女情结](https://www.v2ex.com/t/877229) `39条评论` `随想`
 1. [我来送自家种的秋月梨啦，分子集合](https://www.v2ex.com/t/877196) `34条评论` `推广`
@@ -23,17 +23,17 @@
 1. [VSCode 不吃 Windows 7 了!](https://www.v2ex.com/t/877151) `14条评论` `Visual Studio Code`
 1. [有没有 Codepilot 的替代/接近的免费方案](https://www.v2ex.com/t/877214) `13条评论` `程序员`
 1. [DOTA2 今年的勇士令状出了](https://www.v2ex.com/t/877155) `12条评论` `DotA`
+1. [telegram web 端 没有使用 websocket 是如何接收消息呢？](https://www.v2ex.com/t/877227) `10条评论` `程序员`
 1. [世界杯级别的售票网站，用 UI 组件库写会不会有点 low?](https://www.v2ex.com/t/877207) `10条评论` `问与答`
 1. [普通人能读完 Linux 的源码么](https://www.v2ex.com/t/877250) `9条评论` `问与答`
-1. [telegram web 端 没有使用 websocket 是如何接收消息呢？](https://www.v2ex.com/t/877227) `9条评论` `程序员`
 1. [搜索知识/攻略，现在你们在用啥](https://www.v2ex.com/t/877185) `9条评论` `问与答`
 1. [笔记本屏幕可以很薄，为什么台式显示器都那么厚重](https://www.v2ex.com/t/877167) `9条评论` `程序员`
 1. [请问各位用手机看奈飞发热掉电严重吗？](https://www.v2ex.com/t/877156) `9条评论` `问与答`
 1. [请教一下获取最后一次数据的 sql 写法](https://www.v2ex.com/t/877210) `8条评论` `SQL Server`
 1. [要怎么才能找回 QQ 号？](https://www.v2ex.com/t/877195) `8条评论` `问与答`
-1. [自从买了 copilot 之后，发现没那么智能了](https://www.v2ex.com/t/877219) `7条评论` `程序员`
+1. [毫无疑问， 区块链就是互联网乃至 IT 技术发展史上的一段弯路！](https://www.v2ex.com/t/877254) `7条评论` `问与答`
 
-数据更新于 2022-09-02 07:05:21
+数据更新于 2022-09-02 07:32:21
 
 <!-- TODAY END -->
 
