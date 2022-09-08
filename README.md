@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `227条评论` `Apple`
+1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `229条评论` `Apple`
 1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `110条评论` `Apple`
 1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `108条评论` `Apple`
 1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `105条评论` `Apple`
@@ -20,8 +20,8 @@
 1. [海外回国冲浪 求方案](https://www.v2ex.com/t/878701) `32条评论` `宽带症候群`
 1. [问题来了，就这个灵动岛，安卓会不会抄？](https://www.v2ex.com/t/878645) `32条评论` `Apple`
 1. [ios 有什么可以屏蔽境外来电的方法](https://www.v2ex.com/t/878675) `31条评论` `问与答`
+1. [Dynamic Island 灵动岛💊 软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) `30条评论` `Apple`
 1. [华为云存储 AS6020 的一些疑问](https://www.v2ex.com/t/878605) `30条评论` `NAS`
-1. [Dynamic Island 灵动岛💊 软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) `29条评论` `Apple`
 1. [运营商这波会不会配合美版开通 esim](https://www.v2ex.com/t/878596) `22条评论` `iPhone`
 1. [去深圳益田 apple 天才吧需要携带什么？](https://www.v2ex.com/t/878736) `21条评论` `Apple`
 1. [库克是不能、不愿还是不想 Face ID 从 iPhone 正面消失？](https://www.v2ex.com/t/878660) `21条评论` `Apple`
@@ -33,7 +33,7 @@
 1. [Xbox series 手柄亚马逊海外购好价](https://www.v2ex.com/t/878609) `17条评论` `游戏`
 1. [灵动岛的出现，苹果短期还会做无挖孔的真全面屏吗？](https://www.v2ex.com/t/878618) `16条评论` `Apple`
 
-数据更新于 2022-09-08 14:38:53
+数据更新于 2022-09-08 14:49:15
 
 <!-- TODAY END -->
 
