@@ -8,22 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `223条评论` `Apple`
+1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `225条评论` `Apple`
 1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `110条评论` `Apple`
-1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `107条评论` `Apple`
+1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `108条评论` `Apple`
 1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `105条评论` `Apple`
 1. [进来聊一聊你对这次苹果发布会的看法](https://www.v2ex.com/t/878516) `97条评论` `Apple`
-1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `84条评论` `程序员`
+1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `85条评论` `程序员`
 1. [在 i2ex 只要指责 Apple 就会有人开 Huawei 是事实吗🤔](https://www.v2ex.com/t/878630) `64条评论` `Apple`
-1. [暴论：销售出身的老板是研发人员的灾难](https://www.v2ex.com/t/878534) `57条评论` `职场话题`
+1. [暴论：销售出身的老板是研发人员的灾难](https://www.v2ex.com/t/878534) `59条评论` `职场话题`
 1. [各路大神确之凿凿说的感叹号 , 结果是💊 , 说明了什么](https://www.v2ex.com/t/878615) `34条评论` `iPhone`
+1. [海外回国冲浪 求方案](https://www.v2ex.com/t/878701) `32条评论` `宽带症候群`
 1. [问题来了，就这个灵动岛，安卓会不会抄？](https://www.v2ex.com/t/878645) `32条评论` `Apple`
 1. [ios 有什么可以屏蔽境外来电的方法](https://www.v2ex.com/t/878675) `31条评论` `问与答`
 1. [华为云存储 AS6020 的一些疑问](https://www.v2ex.com/t/878605) `30条评论` `NAS`
-1. [Dynamic Island 灵动岛💊 软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) `26条评论` `Apple`
+1. [Dynamic Island 灵动岛💊 软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) `28条评论` `Apple`
 1. [运营商这波会不会配合美版开通 esim](https://www.v2ex.com/t/878596) `22条评论` `iPhone`
-1. [海外回国冲浪 求方案](https://www.v2ex.com/t/878701) `21条评论` `宽带症候群`
 1. [库克是不能、不愿还是不想 Face ID 从 iPhone 正面消失？](https://www.v2ex.com/t/878660) `21条评论` `Apple`
+1. [去深圳益田 apple 天才吧需要携带什么？](https://www.v2ex.com/t/878736) `20条评论` `Apple`
 1. [今年的苹果发布会似乎没有一个中国元素了](https://www.v2ex.com/t/878601) `20条评论` `Apple`
 1. [反人性的灵动岛, 让人心慌的灵动岛](https://www.v2ex.com/t/878598) `20条评论` `iPhone`
 1. [有大佬知道 14 系列的运存吗？](https://www.v2ex.com/t/878578) `20条评论` `Apple`
@@ -31,9 +32,8 @@
 1. [Java 游戏后端开发入门， 涉及 quarkus vertx 最近一些思考](https://www.v2ex.com/t/878539) `18条评论` `程序员`
 1. [Xbox series 手柄亚马逊海外购好价](https://www.v2ex.com/t/878609) `17条评论` `游戏`
 1. [灵动岛的出现，苹果短期还会做无挖孔的真全面屏吗？](https://www.v2ex.com/t/878618) `16条评论` `Apple`
-1. [有什么方法能够实现： Linux 监控日志文件，若出现关键词就发消息提醒？](https://www.v2ex.com/t/878614) `16条评论` `程序员`
 
-数据更新于 2022-09-08 13:59:36
+数据更新于 2022-09-08 14:25:13
 
 <!-- TODAY END -->
 
