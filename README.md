@@ -12,7 +12,7 @@
 1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `104条评论` `Apple`
 1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `92条评论` `Apple`
 1. [进来聊一聊你对这次苹果发布会的看法](https://www.v2ex.com/t/878516) `89条评论` `Apple`
-1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `77条评论` `Apple`
+1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `80条评论` `Apple`
 1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `75条评论` `程序员`
 1. [在 i2ex 只要指责 Apple 就会有人开 Huawei 是事实吗🤔](https://www.v2ex.com/t/878630) `36条评论` `Apple`
 1. [各路大神确之凿凿说的感叹号 , 结果是💊 , 说明了什么](https://www.v2ex.com/t/878615) `34条评论` `iPhone`
@@ -33,7 +33,7 @@
 1. [Apple 商店出了个挂绳 98 元](https://www.v2ex.com/t/878528) `15条评论` `问与答`
 1. [国庆节之前买手机 13ProMax 还是 14 plus 14 ProMax](https://www.v2ex.com/t/878648) `14条评论` `Apple`
 
-数据更新于 2022-09-08 10:24:39
+数据更新于 2022-09-08 10:46:06
 
 <!-- TODAY END -->
 
