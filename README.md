@@ -8,24 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `210条评论` `Apple`
-1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `93条评论` `Apple`
-1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `89条评论` `Apple`
-1. [进来聊一聊你对这次苹果发布会的看法](https://www.v2ex.com/t/878516) `87条评论` `Apple`
-1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `73条评论` `程序员`
-1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `62条评论` `Apple`
+1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `214条评论` `Apple`
+1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `96条评论` `Apple`
+1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `91条评论` `Apple`
+1. [进来聊一聊你对这次苹果发布会的看法](https://www.v2ex.com/t/878516) `89条评论` `Apple`
+1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `75条评论` `程序员`
+1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `71条评论` `Apple`
 1. [在 i2ex 只要指责 Apple 就会有人开 Huawei 是事实吗🤔](https://www.v2ex.com/t/878630) `36条评论` `Apple`
 1. [各路大神确之凿凿说的感叹号 , 结果是💊 , 说明了什么](https://www.v2ex.com/t/878615) `34条评论` `iPhone`
-1. [问题来了，就这个灵动岛，安卓会不会抄？](https://www.v2ex.com/t/878645) `30条评论` `Apple`
+1. [问题来了，就这个灵动岛，安卓会不会抄？](https://www.v2ex.com/t/878645) `32条评论` `Apple`
 1. [华为云存储 AS6020 的一些疑问](https://www.v2ex.com/t/878605) `30条评论` `NAS`
+1. [ios 有什么可以屏蔽境外来电的方法](https://www.v2ex.com/t/878675) `25条评论` `问与答`
 1. [运营商这波会不会配合美版开通 esim](https://www.v2ex.com/t/878596) `22条评论` `iPhone`
+1. [库克是不能、不愿还是不想 Face ID 从 iPhone 正面消失？](https://www.v2ex.com/t/878660) `20条评论` `Apple`
 1. [今年的苹果发布会似乎没有一个中国元素了](https://www.v2ex.com/t/878601) `20条评论` `Apple`
 1. [反人性的灵动岛, 让人心慌的灵动岛](https://www.v2ex.com/t/878598) `20条评论` `iPhone`
 1. [有大佬知道 14 系列的运存吗？](https://www.v2ex.com/t/878578) `20条评论` `Apple`
 1. [开发了一个记录车辆保养历史、提醒下一次保养的小程序](https://www.v2ex.com/t/878574) `20条评论` `分享创造`
 1. [Java 游戏后端开发入门， 涉及 quarkus vertx 最近一些思考](https://www.v2ex.com/t/878539) `18条评论` `程序员`
-1. [ios 有什么可以屏蔽境外来电的方法](https://www.v2ex.com/t/878675) `17条评论` `问与答`
-1. [库克是不能、不愿还是不想 Face ID 从 iPhone 正面消失？](https://www.v2ex.com/t/878660) `17条评论` `Apple`
 1. [Xbox series 手柄亚马逊海外购好价](https://www.v2ex.com/t/878609) `17条评论` `游戏`
 1. [灵动岛的出现，苹果短期还会做无挖孔的真全面屏吗？](https://www.v2ex.com/t/878618) `16条评论` `Apple`
 1. [有什么方法能够实现： Linux 监控日志文件，若出现关键词就发消息提醒？](https://www.v2ex.com/t/878614) `16条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [Apple 商店出了个挂绳 98 元](https://www.v2ex.com/t/878528) `15条评论` `问与答`
 1. [知道吗？新的 Apple Watch 和 Airpods Pro 有可能是越南生产](https://www.v2ex.com/t/878631) `14条评论` `问与答`
 
-数据更新于 2022-09-08 09:20:37
+数据更新于 2022-09-08 09:44:47
 
 <!-- TODAY END -->
 
