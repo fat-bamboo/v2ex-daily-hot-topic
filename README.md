@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `204条评论` `Apple`
-1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `87条评论` `Apple`
+1. [苹果开了一个很不好的头！水军这么多吗， 14 也香？](https://www.v2ex.com/t/878513) `207条评论` `Apple`
+1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) `88条评论` `Apple`
 1. [进来聊一聊你对这次苹果发布会的看法](https://www.v2ex.com/t/878516) `87条评论` `Apple`
-1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `86条评论` `Apple`
-1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `63条评论` `程序员`
-1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `48条评论` `Apple`
+1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517) `87条评论` `Apple`
+1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532) `70条评论` `程序员`
+1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634) `58条评论` `Apple`
+1. [在 i2ex 只要指责 Apple 就会有人开 Huawei 是事实吗🤔](https://www.v2ex.com/t/878630) `36条评论` `Apple`
 1. [各路大神确之凿凿说的感叹号 , 结果是💊 , 说明了什么](https://www.v2ex.com/t/878615) `34条评论` `iPhone`
 1. [华为云存储 AS6020 的一些疑问](https://www.v2ex.com/t/878605) `30条评论` `NAS`
-1. [在 i2ex 只要指责 Apple 就会有人开 Huawei 是事实吗🤔](https://www.v2ex.com/t/878630) `26条评论` `Apple`
-1. [问题来了，就这个灵动岛，安卓会不会抄？](https://www.v2ex.com/t/878645) `25条评论` `Apple`
+1. [问题来了，就这个灵动岛，安卓会不会抄？](https://www.v2ex.com/t/878645) `27条评论` `Apple`
 1. [运营商这波会不会配合美版开通 esim](https://www.v2ex.com/t/878596) `22条评论` `iPhone`
 1. [今年的苹果发布会似乎没有一个中国元素了](https://www.v2ex.com/t/878601) `20条评论` `Apple`
 1. [反人性的灵动岛, 让人心慌的灵动岛](https://www.v2ex.com/t/878598) `20条评论` `iPhone`
@@ -29,11 +29,11 @@
 1. [有什么方法能够实现： Linux 监控日志文件，若出现关键词就发消息提醒？](https://www.v2ex.com/t/878614) `16条评论` `程序员`
 1. [纯吐槽，自从用了苹果全家桶，我再没能安安静静听会儿歌了。](https://www.v2ex.com/t/878611) `16条评论` `分享发现`
 1. [Apple 商店出了个挂绳 98 元](https://www.v2ex.com/t/878528) `15条评论` `问与答`
+1. [库克是不能、不愿还是不想 Face ID 从 iPhone 正面消失？](https://www.v2ex.com/t/878660) `14条评论` `Apple`
+1. [知道吗？新的 Apple Watch 和 Airpods Pro 有可能是越南生产](https://www.v2ex.com/t/878631) `14条评论` `问与答`
 1. [你们单手操作手机拇指够得到顶部吗](https://www.v2ex.com/t/878560) `14条评论` `问与答`
-1. [知道吗？新的 Apple Watch 和 Airpods Pro 有可能是越南生产](https://www.v2ex.com/t/878631) `13条评论` `问与答`
-1. [发现阿里云国际站有一个坑!](https://www.v2ex.com/t/878584) `13条评论` `云计算`
 
-数据更新于 2022-09-08 08:32:13
+数据更新于 2022-09-08 08:55:43
 
 <!-- TODAY END -->
 
