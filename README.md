@@ -16,8 +16,8 @@
 1. [v 友帮我看看 这种情况要不要出去](https://www.v2ex.com/t/878826) `90条评论` `问与答`
 1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845) `85条评论` ` WATCH`
 1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881) `70条评论` `程序员`
-1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935) `65条评论` `iPhone`
-1. [iPhone 不用全面屏的原因是什么？](https://www.v2ex.com/t/878857) `54条评论` `iPhone`
+1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935) `68条评论` `iPhone`
+1. [iPhone 不用全面屏的原因是什么？](https://www.v2ex.com/t/878857) `55条评论` `iPhone`
 1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983) `54条评论` `Apple`
 1. [navicat 凭什么这么贵？](https://www.v2ex.com/t/878918) `33条评论` `问与答`
 1. [适合程序员 or 计算机研究生的轻薄笔记本选择](https://www.v2ex.com/t/878913) `33条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [Windows 下的 QoS 限速软件有么？](https://www.v2ex.com/t/878997) `21条评论` `宽带症候群`
 1. [朋友进公司领电脑，帮忙对比一下两套 mbp。。](https://www.v2ex.com/t/878946) `21条评论` `Apple`
 
-数据更新于 2022-09-09 23:21:06
+数据更新于 2022-09-09 23:46:16
 
 <!-- TODAY END -->
 
