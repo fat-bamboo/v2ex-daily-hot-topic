@@ -14,8 +14,9 @@
 1. [最近每天都能收到招嫖短信……](https://www.v2ex.com/t/878831) `113条评论` `生活`
 1. [v 友帮我看看 这种情况要不要出去](https://www.v2ex.com/t/878826) `87条评论` `问与答`
 1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845) `75条评论` ` WATCH`
-1. [各种讨论 esim，我问一个问题：到底是不开放 esim 有错，还是去卡槽有错](https://www.v2ex.com/t/878855) `67条评论` `Apple`
+1. [各种讨论 esim，我问一个问题：到底是不开放 esim 有错，还是去卡槽有错](https://www.v2ex.com/t/878855) `71条评论` `Apple`
 1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881) `65条评论` `程序员`
+1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983) `35条评论` `Apple`
 1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935) `33条评论` `iPhone`
 1. [navicat 凭什么这么贵？](https://www.v2ex.com/t/878918) `33条评论` `问与答`
 1. [适合程序员 or 计算机研究生的轻薄笔记本选择](https://www.v2ex.com/t/878913) `33条评论` `程序员`
@@ -27,13 +28,12 @@
 1. [兄弟们，自己做了个 app，求提点意见： iOS 应用双开，边刷抖音边学习](https://www.v2ex.com/t/878866) `24条评论` `程序员`
 1. [win10 右下最近总弹出这个，点开就是广告，我该怎么找到相关进程？](https://www.v2ex.com/t/878870) `23条评论` `Windows`
 1. [QSpace Pro 还是 ForkLift](https://www.v2ex.com/t/878836) `23条评论` `macOS`
+1. [朋友进公司领电脑，帮忙对比一下两套 mbp。。](https://www.v2ex.com/t/878946) `21条评论` `Apple`
 1. [专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887) `21条评论` `职场话题`
-1. [朋友进公司领电脑，帮忙对比一下两套 mbp。。](https://www.v2ex.com/t/878946) `20条评论` `Apple`
 1. [有几大云厂商的低价资源，在思考如何获利？](https://www.v2ex.com/t/878896) `20条评论` `云计算`
 1. [有多少人准备买 iPhone 14 系列](https://www.v2ex.com/t/878895) `20条评论` `Apple`
-1. [灵动岛的讨论很多，真的算是创新吗](https://www.v2ex.com/t/878941) `18条评论` `Apple`
 
-数据更新于 2022-09-09 11:55:45
+数据更新于 2022-09-09 12:39:36
 
 <!-- TODAY END -->
 
