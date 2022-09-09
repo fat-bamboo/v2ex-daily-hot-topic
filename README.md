@@ -12,12 +12,12 @@
 1. [一觉醒来。又见证历史了。](https://www.v2ex.com/t/878785) `224条评论` `问与答`
 1. [你都是通过哪些渠道获取相对中立且正确的新闻？](https://www.v2ex.com/t/878787) `184条评论` `问与答`
 1. [最近每天都能收到招嫖短信……](https://www.v2ex.com/t/878831) `125条评论` `生活`
-1. [各种讨论 esim，我问一个问题：到底是不开放 esim 有错，还是去卡槽有错](https://www.v2ex.com/t/878855) `94条评论` `Apple`
+1. [各种讨论 esim，我问一个问题：到底是不开放 esim 有错，还是去卡槽有错](https://www.v2ex.com/t/878855) `95条评论` `Apple`
 1. [v 友帮我看看 这种情况要不要出去](https://www.v2ex.com/t/878826) `90条评论` `问与答`
-1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845) `84条评论` ` WATCH`
+1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845) `85条评论` ` WATCH`
 1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881) `68条评论` `程序员`
+1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935) `63条评论` `iPhone`
 1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983) `54条评论` `Apple`
-1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935) `33条评论` `iPhone`
 1. [navicat 凭什么这么贵？](https://www.v2ex.com/t/878918) `33条评论` `问与答`
 1. [适合程序员 or 计算机研究生的轻薄笔记本选择](https://www.v2ex.com/t/878913) `33条评论` `程序员`
 1. [工位上有小蟑螂怎么办](https://www.v2ex.com/t/878824) `30条评论` `问与答`
@@ -30,10 +30,10 @@
 1. [兄弟们，自己做了个 app，求提点意见： iOS 应用双开，边刷抖音边学习](https://www.v2ex.com/t/878866) `24条评论` `程序员`
 1. [win10 右下最近总弹出这个，点开就是广告，我该怎么找到相关进程？](https://www.v2ex.com/t/878870) `23条评论` `Windows`
 1. [QSpace Pro 还是 ForkLift](https://www.v2ex.com/t/878836) `23条评论` `macOS`
+1. [Windows 下的 QoS 限速软件有么？](https://www.v2ex.com/t/878997) `21条评论` `宽带症候群`
 1. [朋友进公司领电脑，帮忙对比一下两套 mbp。。](https://www.v2ex.com/t/878946) `21条评论` `Apple`
-1. [专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887) `21条评论` `职场话题`
 
-数据更新于 2022-09-09 19:31:24
+数据更新于 2022-09-09 19:45:40
 
 <!-- TODAY END -->
 
