@@ -18,9 +18,9 @@
 1. [可以别推荐 IINA 这款播放器么](https://www.v2ex.com/t/879106) `25条评论` `MacBook Pro`
 1. [今年的被年年焕新割韭菜了](https://www.v2ex.com/t/879122) `25条评论` `Apple`
 1. [求美国到中国转运公司推荐](https://www.v2ex.com/t/879098) `24条评论` `问与答`
+1. [今天中秋结果用 iPhone 拍个照片也不行啊](https://www.v2ex.com/t/879174) `22条评论` `Apple`
 1. [数字人民币的智能合约是用什么语言写的？](https://www.v2ex.com/t/879073) `22条评论` `问与答`
 1. [macOS 下载推特视频](https://www.v2ex.com/t/879170) `21条评论` `Apple`
-1. [今天中秋结果用 iPhone 拍个照片也不行啊](https://www.v2ex.com/t/879174) `20条评论` `Apple`
 1. [我这种情况是否属于强迫症？你们有类似情况嘛？](https://www.v2ex.com/t/879183) `19条评论` `iPhone`
 1. [刚看到个灵动半岛的创意， apple 可以给刘海也优化下啊](https://www.v2ex.com/t/879161) `14条评论` `Apple`
 1. [Emby Android 客户端免费而 iOS 客户端要 30 元解锁？](https://www.v2ex.com/t/879103) `14条评论` `iPhone`
@@ -33,7 +33,7 @@
 1. [领导要求在非工作时间处理工作，应不应该拒绝](https://www.v2ex.com/t/879206) `11条评论` `程序员`
 1. [日了狗了，上海浦东低风险地区回家被集中隔离了](https://www.v2ex.com/t/879208) `10条评论` `分享发现`
 
-数据更新于 2022-09-10 21:34:24
+数据更新于 2022-09-10 21:48:19
 
 <!-- TODAY END -->
 
