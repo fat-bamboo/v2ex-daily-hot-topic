@@ -16,11 +16,11 @@
 1. [请问下心理咨询软件有用吗？或者有没有推荐的](https://www.v2ex.com/t/879077) `32条评论` `问与答`
 1. [以后我们都会是 Java /kotlin 程序员吗？学了下 kotlin，感觉 kotlin 啥都能干](https://www.v2ex.com/t/879059) `26条评论` `编程`
 1. [今年的被年年焕新割韭菜了](https://www.v2ex.com/t/879122) `25条评论` `Apple`
-1. [可以别推荐 IINA 这款播放器么](https://www.v2ex.com/t/879106) `23条评论` `MacBook Pro`
+1. [可以别推荐 IINA 这款播放器么](https://www.v2ex.com/t/879106) `24条评论` `MacBook Pro`
 1. [求美国到中国转运公司推荐](https://www.v2ex.com/t/879098) `23条评论` `问与答`
 1. [数字人民币的智能合约是用什么语言写的？](https://www.v2ex.com/t/879073) `22条评论` `问与答`
+1. [今天中秋结果用 iPhone 拍个照片也不行啊](https://www.v2ex.com/t/879174) `20条评论` `Apple`
 1. [macOS 下载推特视频](https://www.v2ex.com/t/879170) `20条评论` `Apple`
-1. [今天中秋结果用 iPhone 拍个照片也不行啊](https://www.v2ex.com/t/879174) `19条评论` `Apple`
 1. [我这种情况是否属于强迫症？你们有类似情况嘛？](https://www.v2ex.com/t/879183) `15条评论` `iPhone`
 1. [刚看到个灵动半岛的创意， apple 可以给刘海也优化下啊](https://www.v2ex.com/t/879161) `14条评论` `Apple`
 1. [Emby Android 客户端免费而 iOS 客户端要 30 元解锁？](https://www.v2ex.com/t/879103) `14条评论` `iPhone`
@@ -33,7 +33,7 @@
 1. [准备把手上的 note11tpro 刷 MIUI eu，问问大神几个问题](https://www.v2ex.com/t/879160) `10条评论` `Android`
 1. [RSS 监测工具 RSSPush 最新版整合了 Apprise，可以推送 Telegram, Discord, Slack, Amazon SNS, Gotify 在内的上百种消息通道了](https://www.v2ex.com/t/879112) `10条评论` `分享创造`
 
-数据更新于 2022-09-10 17:32:44
+数据更新于 2022-09-10 17:50:06
 
 <!-- TODAY END -->
 
