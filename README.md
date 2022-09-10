@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [刘海挺好的， 把他换了干嘛](https://www.v2ex.com/t/879058) `50条评论` `iPhone`
-1. [用了三年的 Airpods Pro，好像依旧没必要换 2 代](https://www.v2ex.com/t/879052) `32条评论` `Apple`
-1. [大家有什么管道能买到外版苹果产品吗？](https://www.v2ex.com/t/879053) `31条评论` `Apple`
+1. [用了三年的 Airpods Pro，好像依旧没必要换 2 代](https://www.v2ex.com/t/879052) `33条评论` `Apple`
+1. [大家有什么管道能买到外版苹果产品吗？](https://www.v2ex.com/t/879053) `32条评论` `Apple`
 1. [[送码] [推出小组件] Mac 远程锁 SimpleLock](https://www.v2ex.com/t/879062) `31条评论` `Apple`
 1. [Opera 浏览器真没有让我失望，再也不能碰和 360 有关的任何产品了！](https://www.v2ex.com/t/879133) `24条评论` `分享发现`
 1. [以后我们都会是 Java /kotlin 程序员吗？学了下 kotlin，感觉 kotlin 啥都能干](https://www.v2ex.com/t/879059) `24条评论` `编程`
@@ -21,19 +21,19 @@
 1. [Emby Android 客户端免费而 iOS 客户端要 30 元解锁？](https://www.v2ex.com/t/879103) `14条评论` `iPhone`
 1. [微信视频通话支持画中画了](https://www.v2ex.com/t/879078) `13条评论` `iPhone`
 1. [还建房到底能不能买？](https://www.v2ex.com/t/879070) `12条评论` `问与答`
-1. [明天第一次去郑州万象城检测 AirPods Pro，怎么样才能让天才们以为我是常去的样子](https://www.v2ex.com/t/879151) `10条评论` `Apple`
+1. [明天第一次去郑州万象城检测 AirPods Pro，怎么样才能让天才们以为我是常去的样子](https://www.v2ex.com/t/879151) `11条评论` `Apple`
 1. [RSS 监测工具 RSSPush 最新版整合了 Apprise，可以推送 Telegram, Discord, Slack, Amazon SNS, Gotify 在内的上百种消息通道了](https://www.v2ex.com/t/879112) `10条评论` `分享创造`
 1. [国内开源环境](https://www.v2ex.com/t/879105) `10条评论` `问与答`
 1. [求美国到中国转运公司推荐](https://www.v2ex.com/t/879098) `9条评论` `问与答`
 1. [有什么开源工具能自动分析 nginx 日志，发现 sqlmap 这类漏洞扫描工具构造的 payload 就自动调 iptables 拉黑 IP 吗？](https://www.v2ex.com/t/879087) `9条评论` `信息安全`
+1. [被要求在非工作时间联系其他同事协助处理问题，该怎么应对？](https://www.v2ex.com/t/879154) `8条评论` `程序员`
 1. [我把一个大型 C++ 库移植到了浏览器！](https://www.v2ex.com/t/879113) `8条评论` `程序员`
 1. [如何判断一个代理软件有没有安全风险](https://www.v2ex.com/t/879079) `8条评论` `软件`
 1. [Macbook Air M1 进水无法开机，还能救活吗？](https://www.v2ex.com/t/879056) `8条评论` `Apple`
 1. [普天同庆 pixel 4 终于把 DRM 的问题修复拉,Netflix YouTube 都能看高清+HDR](https://www.v2ex.com/t/879084) `7条评论` `Pixel`
 1. [OpenWrt 如何修改 IPv6 的默认 router](https://www.v2ex.com/t/879072) `7条评论` `宽带症候群`
-1. [M2 Air edge 隔一段时间就会 cpu 占用 100%，强制退出才能恢复](https://www.v2ex.com/t/879057) `7条评论` `问与答`
 
-数据更新于 2022-09-10 11:32:46
+数据更新于 2022-09-10 11:45:43
 
 <!-- TODAY END -->
 
