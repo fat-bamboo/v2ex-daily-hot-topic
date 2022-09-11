@@ -8,10 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [苹果当前的设计是分裂且令人失望的](https://www.v2ex.com/t/879228) `10条评论` `Apple`
-1. [请问有使用群晖内置 DDNS 的朋友吗？现在有哪些域名不在防火墙名单里？](https://www.v2ex.com/t/879224) `8条评论` `NAS`
+1. [苹果当前的设计是分裂且令人失望的](https://www.v2ex.com/t/879228) `35条评论` `Apple`
+1. [请问有使用群晖内置 DDNS 的朋友吗？现在有哪些域名不在防火墙名单里？](https://www.v2ex.com/t/879224) `19条评论` `NAS`
+1. [宝宝有必要吃 DHA 吗？](https://www.v2ex.com/t/879232) `14条评论` `问与答`
+1. [iPhone 14 时间](https://www.v2ex.com/t/879234) `10条评论` `iPhone`
+1. [14 Pro Max 和 Plus，哪个适合老年人？](https://www.v2ex.com/t/879246) `8条评论` `iPhone`
+1. [有啥网站能看 nhk 等日本电视台的直播吗？](https://www.v2ex.com/t/879249) `6条评论` `问与答`
+1. [发明一种新的聊天方式： Send post as chat（即时帖）](https://www.v2ex.com/t/879245) `6条评论` `分享创造`
+1. [在国内用原生邮件客户端收发各种邮件属实让人抓狂](https://www.v2ex.com/t/879244) `6条评论` `Apple`
 
-数据更新于 2022-09-11 01:58:59
+数据更新于 2022-09-11 04:10:15
 
 <!-- TODAY END -->
 
