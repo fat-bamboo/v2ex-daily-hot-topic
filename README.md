@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381) `42条评论` `奇思妙想`
-1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424) `22条评论` `问与答`
-1. [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419) `19条评论` ` WATCH`
+1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381) `43条评论` `奇思妙想`
+1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424) `24条评论` `问与答`
+1. [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419) `20条评论` ` WATCH`
+1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442) `19条评论` `问与答`
 1. [国区 iPhone + Apple Care+在美国 Apple Store 不能享受服务](https://www.v2ex.com/t/879388) `18条评论` `Apple`
+1. [迅雷无限制网速绿色版](https://www.v2ex.com/t/879422) `16条评论` `问与答`
 1. [人为什么害怕关系的缺失？](https://www.v2ex.com/t/879407) `15条评论` `生活`
-1. [迅雷无限制网速绿色版](https://www.v2ex.com/t/879422) `14条评论` `问与答`
-1. [求助：应该等下一代 MacBook Pro 吗？](https://www.v2ex.com/t/879438) `12条评论` `Apple`
+1. [屠嗷嗷发现了青蒿素造福了人类，如果说这是中医的贡献，这个说法成立吗？](https://www.v2ex.com/t/879451) `14条评论` `问与答`
+1. [求助：应该等下一代 MacBook Pro 吗？](https://www.v2ex.com/t/879438) `14条评论` `Apple`
+1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441) `13条评论` `Apple`
+1. [如何优雅地给国内长辈分享 APK 文件](https://www.v2ex.com/t/879445) `12条评论` `问与答`
 1. [看了站内洗牙帖后，也去洗了个牙，分享下流程和感受](https://www.v2ex.com/t/879390) `12条评论` `生活`
-1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441) `11条评论` `Apple`
 1. [OPENWRT 怎么全新编译呀？](https://www.v2ex.com/t/879386) `10条评论` `OpenWrt`
-1. [如何优雅地给国内长辈分享 APK 文件](https://www.v2ex.com/t/879445) `9条评论` `问与答`
-1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442) `8条评论` `问与答`
+1. [[硬核研讨会] 日复一日学习技术目的是为了提高研发效率](https://www.v2ex.com/t/879420) `9条评论` `随想`
+1. [macOS 如何阻止 edge 不停的把自己加到开机自启项里？](https://www.v2ex.com/t/879416) `8条评论` `问与答`
 1. [IPoE 认证开源自建方案](https://www.v2ex.com/t/879403) `8条评论` `宽带症候群`
 1. [iPhone 14 Pro Max 电池容量不增反降](https://www.v2ex.com/t/879402) `8条评论` `Apple`
 1. [PM 保护壳有推荐的么](https://www.v2ex.com/t/879387) `8条评论` `Apple`
 1. [是否有类似 Spotify 同步播放功能的音乐播放器 app？](https://www.v2ex.com/t/879383) `8条评论` `问与答`
+1. [jellyfin 转码，为什么多卡 3090 只有一张卡能被利用？](https://www.v2ex.com/t/879452) `7条评论` `问与答`
 1. [路由器长时间使用后是否会老化](https://www.v2ex.com/t/879439) `7条评论` `路由器`
-1. [[硬核研讨会] 日复一日学习技术目的是为了提高研发效率](https://www.v2ex.com/t/879420) `7条评论` `随想`
+1. [有没有帮助国外中小公司入海的解决方案？](https://www.v2ex.com/t/879418) `7条评论` `奇思妙想`
 1. [战 66 笔记本散热怎么样？](https://www.v2ex.com/t/879414) `7条评论` `硬件`
 1. [在北京没有户口，没有工作居住证，只有房子和五年社保，小朋友能入托入学吗？](https://www.v2ex.com/t/879393) `7条评论` `问与答`
-1. [新版本的 K8s 在使用 nodeport 类型的 Servive 时在 node 上看不到监听的端口了，请问是做过什么改动吗？](https://www.v2ex.com/t/879389) `7条评论` `Kubernetes`
-1. [有没有帮助国外中小公司入海的解决方案？](https://www.v2ex.com/t/879418) `6条评论` `奇思妙想`
-1. [macOS 如何阻止 edge 不停的把自己加到开机自启项里？](https://www.v2ex.com/t/879416) `6条评论` `问与答`
-1. [iOS 15.6.1 断流严重](https://www.v2ex.com/t/879415) `6条评论` `Apple`
 
-数据更新于 2022-09-12 08:01:36
+数据更新于 2022-09-12 08:44:38
 
 <!-- TODAY END -->
 
