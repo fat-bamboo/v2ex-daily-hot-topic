@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486) `119条评论` `程序员`
-1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381) `53条评论` `奇思妙想`
-1. [你手里的苹果设备数量？](https://www.v2ex.com/t/879466) `53条评论` `Apple`
+1. [鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486) `123条评论` `程序员`
+1. [你手里的苹果设备数量？](https://www.v2ex.com/t/879466) `56条评论` `Apple`
+1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381) `54条评论` `奇思妙想`
 1. [人为什么害怕关系的缺失？](https://www.v2ex.com/t/879407) `47条评论` `生活`
 1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424) `39条评论` `问与答`
+1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441) `39条评论` `Apple`
 1. [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419) `38条评论` ` WATCH`
-1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441) `38条评论` `Apple`
 1. [还是 iPhone 背部好看，跟 Mate 50 比，你觉得呢？](https://www.v2ex.com/t/879467) `31条评论` `iPhone`
-1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442) `29条评论` `问与答`
+1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442) `30条评论` `问与答`
 1. [无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试?](https://www.v2ex.com/t/879471) `26条评论` `程序员`
 1. [国区 iPhone + Apple Care+在美国 Apple Store 不能享受服务](https://www.v2ex.com/t/879388) `18条评论` `Apple`
 1. [有没有带代理功能的浏览器 APP？](https://www.v2ex.com/t/879505) `16条评论` `iOS`
@@ -33,7 +33,7 @@
 1. [看了站内洗牙帖后，也去洗了个牙，分享下流程和感受](https://www.v2ex.com/t/879390) `12条评论` `生活`
 1. [只写代码不打游戏，需要独显，这种需求怎么配 itx](https://www.v2ex.com/t/879458) `11条评论` `程序员`
 
-数据更新于 2022-09-12 15:49:52
+数据更新于 2022-09-12 16:08:08
 
 <!-- TODAY END -->
 
