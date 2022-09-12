@@ -8,24 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486) `52条评论` `程序员`
+1. [鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486) `56条评论` `程序员`
 1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381) `48条评论` `奇思妙想`
 1. [人为什么害怕关系的缺失？](https://www.v2ex.com/t/879407) `38条评论` `生活`
 1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424) `35条评论` `问与答`
 1. [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419) `28条评论` ` WATCH`
 1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442) `21条评论` `问与答`
 1. [无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试?](https://www.v2ex.com/t/879471) `20条评论` `程序员`
-1. [你手里的苹果设备数量？](https://www.v2ex.com/t/879466) `19条评论` `Apple`
+1. [你手里的苹果设备数量？](https://www.v2ex.com/t/879466) `20条评论` `Apple`
+1. [还是 iPhone 背部好看，跟 Mate 50 比，你觉得呢？](https://www.v2ex.com/t/879467) `19条评论` `iPhone`
 1. [国区 iPhone + Apple Care+在美国 Apple Store 不能享受服务](https://www.v2ex.com/t/879388) `18条评论` `Apple`
 1. [迅雷无限制网速绿色版](https://www.v2ex.com/t/879422) `16条评论` `问与答`
-1. [还是 iPhone 背部好看，跟 Mate 50 比，你觉得呢？](https://www.v2ex.com/t/879467) `15条评论` `iPhone`
 1. [求助：应该等下一代 MacBook Pro 吗？](https://www.v2ex.com/t/879438) `15条评论` `Apple`
 1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441) `14条评论` `Apple`
 1. [屠嗷嗷发现了青蒿素造福了人类，如果说这是中医的贡献，这个说法成立吗？](https://www.v2ex.com/t/879451) `14条评论` `问与答`
 1. [如何优雅地给国内长辈分享 APK 文件](https://www.v2ex.com/t/879445) `13条评论` `问与答`
+1. [有什么月付 1 刀，可以绑自己域名 catch-all 的邮箱吗？](https://www.v2ex.com/t/879457) `12条评论` `问与答`
 1. [jellyfin 转码，为什么多卡 3090 只有一张卡能被利用？](https://www.v2ex.com/t/879452) `12条评论` `问与答`
 1. [看了站内洗牙帖后，也去洗了个牙，分享下流程和感受](https://www.v2ex.com/t/879390) `12条评论` `生活`
-1. [有什么月付 1 刀，可以绑自己域名 catch-all 的邮箱吗？](https://www.v2ex.com/t/879457) `11条评论` `问与答`
 1. [M1/M2 用户有福了，最近火热的语意成图项目 stable diffusion 出 GUI 包了](https://www.v2ex.com/t/879454) `10条评论` `分享发现`
 1. [OPENWRT 怎么全新编译呀？](https://www.v2ex.com/t/879386) `10条评论` `OpenWrt`
 1. [路由器长时间使用后是否会老化](https://www.v2ex.com/t/879439) `9条评论` `路由器`
@@ -33,7 +33,7 @@
 1. [macOS 如何阻止 edge 不停的把自己加到开机自启项里？](https://www.v2ex.com/t/879416) `8条评论` `问与答`
 1. [IPoE 认证开源自建方案](https://www.v2ex.com/t/879403) `8条评论` `宽带症候群`
 
-数据更新于 2022-09-12 11:40:27
+数据更新于 2022-09-12 11:55:53
 
 <!-- TODAY END -->
 
