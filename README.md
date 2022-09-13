@@ -8,29 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iOS 16 更新反馈](https://www.v2ex.com/t/879577) `111条评论` `Apple`
-1. [市场给出了正确答案， 14 和 14p 预购不及 13mini](https://www.v2ex.com/t/879618) `63条评论` `Apple`
-1. [大家会没事偶尔点击价格保护吗？](https://www.v2ex.com/t/879615) `50条评论` `京东`
-1. [请教我哪里搞错了？美国人买 美版 14 无实体卡 插槽，出国旅行怎么办？](https://www.v2ex.com/t/879658) `46条评论` `iPhone`
-1. [从希望用久一点角度， ipone12 有必要升 ios16 吗](https://www.v2ex.com/t/879646) `23条评论` `iPhone`
+1. [iOS 16 更新反馈](https://www.v2ex.com/t/879577) `119条评论` `Apple`
+1. [市场给出了正确答案， 14 和 14p 预购不及 13mini](https://www.v2ex.com/t/879618) `71条评论` `Apple`
+1. [请教我哪里搞错了？美国人买 美版 14 无实体卡 插槽，出国旅行怎么办？](https://www.v2ex.com/t/879658) `58条评论` `iPhone`
+1. [大家会没事偶尔点击价格保护吗？](https://www.v2ex.com/t/879615) `58条评论` `京东`
+1. [从希望用久一点角度， ipone12 有必要升 ios16 吗](https://www.v2ex.com/t/879646) `46条评论` `iPhone`
+1. [昨天老爸去菜市场买菜骑电瓶从 一个老太旁边经过,老太自己没注意撞到我爸电频车上了, 怎么定责？](https://www.v2ex.com/t/879679) `22条评论` `问与答`
 1. [🎉 [送码] 瓦尔登 适配 iOS 16 小组件啦！这是一款主打待办计划，同时支持进度管理和笔记的个人管理应用，欢迎免费下载体验](https://www.v2ex.com/t/879648) `17条评论` `分享创造`
+1. [好家伙， iPhone X 升级 iOS 16，流畅度大幅提升！](https://www.v2ex.com/t/879699) `14条评论` `iPhone`
 1. [下单了华为 MateBook E Go](https://www.v2ex.com/t/879653) `14条评论` `程序员`
+1. [个性化空间音频录入实在难用](https://www.v2ex.com/t/879684) `13条评论` `iPhone`
+1. [想换个城市发展了，大家聊聊城市推荐](https://www.v2ex.com/t/879714) `12条评论` `问与答`
 1. [怎么让 discord 走 clash 代理](https://www.v2ex.com/t/879655) `12条评论` `问与答`
 1. [现在买 ipadpro2021 款是不是有点亏了](https://www.v2ex.com/t/879639) `11条评论` `Apple`
 1. [现在京东买苹果设备还要开个会员？？](https://www.v2ex.com/t/879609) `11条评论` `京东`
-1. [个性化空间音频录入实在难用](https://www.v2ex.com/t/879684) `10条评论` `iPhone`
+1. [watchOS 9 有人升级了吗？](https://www.v2ex.com/t/879705) `10条评论` ` WATCH`
 1. [if(C#==落后) 前端就是牛！](https://www.v2ex.com/t/879671) `10条评论` `前端开发`
 1. [有多少人是只用一个笔记本（不外接显示器和键盘）开发的？](https://www.v2ex.com/t/879605) `10条评论` `问与答`
+1. [内网多产品单点登录一般用的是什么方案？](https://www.v2ex.com/t/879695) `9条评论` `程序员`
 1. [iOS 16 的壁纸功能感觉都可以做成一个超级壁纸 APP 了，相比之前太复杂](https://www.v2ex.com/t/879664) `9条评论` `Apple`
 1. [16 寸 macbook pro 哪个配置性价比最高？](https://www.v2ex.com/t/879620) `9条评论` `MacBook Pro`
-1. [昨天老爸去菜市场买菜骑电瓶从 一个老太旁边经过,老太自己没注意撞到我爸电频车上了, 怎么定责？](https://www.v2ex.com/t/879679) `8条评论` `问与答`
+1. [这个 app 是模仿 surge 的么？](https://www.v2ex.com/t/879706) `8条评论` `分享发现`
 1. [台式机整机购买](https://www.v2ex.com/t/879645) `8条评论` `问与答`
 1. [AirPods Pro2 一出， AirPods Max H1 是不是成了鸡肋？](https://www.v2ex.com/t/879632) `8条评论` `Apple`
 1. [IOS14 系统的软件更新页面今天还能显示 ios15.7 的升级么](https://www.v2ex.com/t/879603) `8条评论` `iPhone`
-1. [XS 适合升级 IOS16 吗？](https://www.v2ex.com/t/879682) `7条评论` `Apple`
-1. [腾讯轻量云 frp 被封](https://www.v2ex.com/t/879629) `7条评论` `云计算`
 
-数据更新于 2022-09-13 06:05:06
+数据更新于 2022-09-13 07:04:03
 
 <!-- TODAY END -->
 
