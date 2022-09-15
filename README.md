@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有人利用苹果 14 天无理由退货体验新款 iPhone 吗](https://www.v2ex.com/t/880171) `94条评论` `Apple`
-1. [从「京东学生认证诈骗」，看防不胜防的诈骗手段](https://www.v2ex.com/t/880154) `86条评论` `生活`
-1. [v2er 们，你们的电池健康还剩多少，去年 5 月份购入的 12 电池健康就剩 90 了](https://www.v2ex.com/t/880194) `74条评论` `iPhone`
+1. [有人利用苹果 14 天无理由退货体验新款 iPhone 吗](https://www.v2ex.com/t/880171) `102条评论` `Apple`
+1. [从「京东学生认证诈骗」，看防不胜防的诈骗手段](https://www.v2ex.com/t/880154) `92条评论` `生活`
+1. [v2er 们，你们的电池健康还剩多少，去年 5 月份购入的 12 电池健康就剩 90 了](https://www.v2ex.com/t/880194) `82条评论` `iPhone`
 1. [为什么苹果产品测评评论区全是安卓用户，而安卓产品测评评论区没有苹果用户？](https://www.v2ex.com/t/880137) `62条评论` `Apple`
 1. [羊了个羊！](https://www.v2ex.com/t/880136) `36条评论` `问与答`
+1. [微信充值 AppStore 九折来啦](https://www.v2ex.com/t/880238) `35条评论` `Apple`
 1. [被优化了](https://www.v2ex.com/t/880174) `27条评论` `程序员`
+1. [水贴 - 首发 14 pro 已经发货啦](https://www.v2ex.com/t/880236) `24条评论` `Apple`
 1. [为什么这个简单的查询在 MySQL 8.0.25 这么慢？](https://www.v2ex.com/t/880186) `24条评论` `MySQL`
 1. [内网传大文件夹的工具](https://www.v2ex.com/t/880175) `22条评论` `问与答`
 1. [所以为什么大陆要阉割 FaceTime Autio， FaceTime 会议链接和 CallKit？](https://www.v2ex.com/t/880224) `21条评论` `Apple`
 1. [现安卓手机信号这块哪个品牌好一点](https://www.v2ex.com/t/880204) `20条评论` `Android`
 1. [举报供应商舞弊，苹果罚款多少？](https://www.v2ex.com/t/880181) `20条评论` `Apple`
-1. [微信充值 AppStore 九折来啦](https://www.v2ex.com/t/880238) `19条评论` `Apple`
-1. [水贴 - 首发 14 pro 已经发货啦](https://www.v2ex.com/t/880236) `19条评论` `Apple`
 1. [大家平时都怎么命名 split 后的变量](https://www.v2ex.com/t/880180) `18条评论` `Python`
+1. [港版 iPhone 13 pro 和国行有什么显著区别？](https://www.v2ex.com/t/880239) `17条评论` `Apple`
 1. [Apple 官网挂了？](https://www.v2ex.com/t/880197) `16条评论` `全球工单系统`
 1. [看完极客湾的评测后，瞬间购买欲望下降。。](https://www.v2ex.com/t/880165) `15条评论` `Apple`
 1. [YouTube 在线字幕](https://www.v2ex.com/t/880178) `13条评论` `问与答`
 1. [有没有不支持删除记录的管理软件？](https://www.v2ex.com/t/880153) `12条评论` `问与答`
 1. [OneDriver 同步 iPhone 照片不完整，求方案](https://www.v2ex.com/t/880139) `12条评论` `程序员`
+1. [小米这个 12 的型号为什么有这么多版本](https://www.v2ex.com/t/880235) `11条评论` `Android`
 1. [有无网站可以在线查询各种 Linux 命令的，比如 docker， redis，当然也包括系统类的](https://www.v2ex.com/t/880220) `11条评论` `问与答`
 1. [签名算法中的 密钥来自哪里？](https://www.v2ex.com/t/880213) `11条评论` `程序员`
-1. [小米这个 12 的型号为什么有这么多版本](https://www.v2ex.com/t/880235) `10条评论` `Android`
 1. [Airpods pro 2 的降噪怎么样](https://www.v2ex.com/t/880207) `10条评论` `Apple`
-1. [极客湾 A16 评测](https://www.v2ex.com/t/880158) `9条评论` `Apple`
 
-数据更新于 2022-09-15 06:42:08
+数据更新于 2022-09-15 07:19:39
 
 <!-- TODAY END -->
 
