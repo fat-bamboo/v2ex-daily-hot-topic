@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [如何说服一个平时不戴手表的人用 apple watch？](https://www.v2ex.com/t/880950) `36条评论` `Apple`
-1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004) `29条评论` `iPhone`
+1. [如何说服一个平时不戴手表的人用 apple watch？](https://www.v2ex.com/t/880950) `38条评论` `Apple`
+1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004) `34条评论` `iPhone`
 1. [各位 bloger 互换友链么?](https://www.v2ex.com/t/880945) `27条评论` `生活`
 1. [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985) `25条评论` `Linux`
 1. [iPhone 手机膜](https://www.v2ex.com/t/880975) `20条评论` `Apple`
-1. [EVGA 退出显卡市场，这公司是怎么想的？](https://www.v2ex.com/t/880996) `17条评论` `问与答`
-1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990) `15条评论` `阅读`
+1. [EVGA 退出显卡市场，这公司是怎么想的？](https://www.v2ex.com/t/880996) `18条评论` `问与答`
+1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990) `17条评论` `阅读`
 1. [PikPak 蛮不错啊...](https://www.v2ex.com/t/880963) `15条评论` `分享发现`
 1. [想买 GitHub Copilot，申请哪家银行的双币卡好？](https://www.v2ex.com/t/880961) `15条评论` `程序员`
 1. [百年未有之大变局](https://www.v2ex.com/t/881001) `13条评论` `奇思妙想`
@@ -24,16 +24,16 @@
 1. [mbp 何时有望换掉刘海屏](https://www.v2ex.com/t/880958) `9条评论` `MacBook Pro`
 1. [现阶段应该入手哪一款 mac](https://www.v2ex.com/t/880949) `9条评论` `MacBook Pro`
 1. [对于超大数 1 后 N 个 0 的整数的加减乘除,node 是否真的没办法了? 我尝试了好几个库最后都转成科学计数法了, 而 Python 就尼玛离谱, 原生支持](https://www.v2ex.com/t/881017) `8条评论` `问与答`
+1. [想放弃刚入职的前端工作回二线城市，求建议](https://www.v2ex.com/t/881006) `8条评论` `职场话题`
 1. [iOS16 一个 Bug 导致无线充电过热而无法充电](https://www.v2ex.com/t/880982) `8条评论` `iPhone`
 1. [今天看 iPhone 输入法多了一个常用双拼,这个双拼的码表是自然码吗?](https://www.v2ex.com/t/880979) `8条评论` `Apple`
+1. [有人看过米哈游员工手册吗？](https://www.v2ex.com/t/881008) `7条评论` `职场话题`
 1. [Fleet 发布了](https://www.v2ex.com/t/880984) `7条评论` `分享发现`
 1. [safari 有没有插件可以做到 cmd+t 的时候弹出搜索框而不是新起页面？](https://www.v2ex.com/t/880973) `7条评论` `macOS`
 1. [BRAS 能获取到哪些下游信息](https://www.v2ex.com/t/880956) `7条评论` `宽带症候群`
 1. [Apple Music 有第三方客户端嘛？](https://www.v2ex.com/t/881024) `6条评论` `Apple`
-1. [有人看过米哈游员工手册吗？](https://www.v2ex.com/t/881008) `6条评论` `职场话题`
-1. [想放弃刚入职的前端工作回二线城市，求建议](https://www.v2ex.com/t/881006) `6条评论` `职场话题`
 
-数据更新于 2022-09-18 07:40:36
+数据更新于 2022-09-18 07:55:42
 
 <!-- TODAY END -->
 
