@@ -11,12 +11,12 @@
 1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004) `46条评论` `iPhone`
 1. [各位 bloger 互换友链么?](https://www.v2ex.com/t/880945) `44条评论` `Blogger`
 1. [如何说服一个平时不戴手表的人用 apple watch？](https://www.v2ex.com/t/880950) `43条评论` `Apple`
+1. [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985) `32条评论` `Linux`
 1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990) `32条评论` `阅读`
 1. [iPhone 手机膜](https://www.v2ex.com/t/880975) `31条评论` `Apple`
-1. [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985) `31条评论` `Linux`
-1. [想买 GitHub Copilot，申请哪家银行的双币卡好？](https://www.v2ex.com/t/880961) `28条评论` `程序员`
+1. [想买 GitHub Copilot，申请哪家银行的双币卡好？](https://www.v2ex.com/t/880961) `29条评论` `程序员`
+1. [抖音真的是电子毒品啊~](https://www.v2ex.com/t/881063) `18条评论` `互联网`
 1. [EVGA 退出显卡市场，这公司是怎么想的？](https://www.v2ex.com/t/880996) `18条评论` `问与答`
-1. [抖音真的是电子毒品啊~](https://www.v2ex.com/t/881063) `17条评论` `互联网`
 1. [PikPak 蛮不错啊...](https://www.v2ex.com/t/880963) `15条评论` `分享发现`
 1. [请问你是如何认识另一半的？](https://www.v2ex.com/t/881062) `13条评论` `问与答`
 1. [关于 iPhone14 系列运存大小的友情提醒](https://www.v2ex.com/t/881040) `13条评论` `iPhone`
@@ -33,7 +33,7 @@
 1. [VirtualBox 的虚拟机能克隆到实体电脑上吗？](https://www.v2ex.com/t/880997) `10条评论` `程序员`
 1. [mbp 何时有望换掉刘海屏](https://www.v2ex.com/t/880958) `9条评论` `MacBook Pro`
 
-数据更新于 2022-09-18 11:46:05
+数据更新于 2022-09-18 11:56:35
 
 <!-- TODAY END -->
 
