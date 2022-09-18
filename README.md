@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位 bloger 互换友链么?](https://www.v2ex.com/t/880945) `43条评论` `Blogger`
-1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004) `43条评论` `iPhone`
+1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004) `45条评论` `iPhone`
+1. [各位 bloger 互换友链么?](https://www.v2ex.com/t/880945) `44条评论` `Blogger`
 1. [如何说服一个平时不戴手表的人用 apple watch？](https://www.v2ex.com/t/880950) `42条评论` `Apple`
+1. [iPhone 手机膜](https://www.v2ex.com/t/880975) `30条评论` `Apple`
 1. [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985) `30条评论` `Linux`
-1. [iPhone 手机膜](https://www.v2ex.com/t/880975) `28条评论` `Apple`
+1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990) `27条评论` `阅读`
 1. [EVGA 退出显卡市场，这公司是怎么想的？](https://www.v2ex.com/t/880996) `18条评论` `问与答`
-1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990) `17条评论` `阅读`
 1. [PikPak 蛮不错啊...](https://www.v2ex.com/t/880963) `15条评论` `分享发现`
 1. [想买 GitHub Copilot，申请哪家银行的双币卡好？](https://www.v2ex.com/t/880961) `15条评论` `程序员`
 1. [百年未有之大变局](https://www.v2ex.com/t/881001) `13条评论` `奇思妙想`
 1. [英雄联盟在 4K 分辨率下鼠标太小有没有办法解决](https://www.v2ex.com/t/880955) `13条评论` `问与答`
+1. [关于 ETC](https://www.v2ex.com/t/881023) `12条评论` `汽车`
 1. [对于超大数 1 后 N 个 0 的整数的加减乘除,node 是否真的没办法了? 我尝试了好几个库最后都转成科学计数法了, 而 Python 就尼玛离谱, 原生支持](https://www.v2ex.com/t/881017) `12条评论` `问与答`
 1. [想放弃刚入职的前端工作回二线城市，求建议](https://www.v2ex.com/t/881006) `12条评论` `职场话题`
 1. [关于 iPhone14 系列运存大小的友情提醒](https://www.v2ex.com/t/881040) `11条评论` `iPhone`
-1. [关于 ETC](https://www.v2ex.com/t/881023) `11条评论` `汽车`
 1. [有没有自动记录位置的软件](https://www.v2ex.com/t/881010) `11条评论` `问与答`
 1. [iPhone 14 512GB 黑色未拆封 转手](https://www.v2ex.com/t/881056) `10条评论` `iPhone`
 1. [有无渠道找到便宜黄牛](https://www.v2ex.com/t/881037) `10条评论` `iPhone`
 1. [VirtualBox 的虚拟机能克隆到实体电脑上吗？](https://www.v2ex.com/t/880997) `10条评论` `程序员`
+1. [上海相亲交友交流群](https://www.v2ex.com/t/881027) `9条评论` `上海`
 1. [mbp 何时有望换掉刘海屏](https://www.v2ex.com/t/880958) `9条评论` `MacBook Pro`
 1. [现阶段应该入手哪一款 mac](https://www.v2ex.com/t/880949) `9条评论` `MacBook Pro`
 1. [有人看过米哈游员工手册吗？](https://www.v2ex.com/t/881008) `8条评论` `职场话题`
 1. [iOS16 一个 Bug 导致无线充电过热而无法充电](https://www.v2ex.com/t/880982) `8条评论` `iPhone`
-1. [今天看 iPhone 输入法多了一个常用双拼,这个双拼的码表是自然码吗?](https://www.v2ex.com/t/880979) `8条评论` `Apple`
 
-数据更新于 2022-09-18 10:20:58
+数据更新于 2022-09-18 10:44:36
 
 <!-- TODAY END -->
 
