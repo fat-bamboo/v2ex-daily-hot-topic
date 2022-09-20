@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [各位来分享下目前使用的 Linux 发行版吧](https://www.v2ex.com/t/881571) `141条评论` `Linux`
+1. [各位来分享下目前使用的 Linux 发行版吧](https://www.v2ex.com/t/881571) `142条评论` `Linux`
 1. [相约九年， 2022 大闸蟹已上市，欢迎新老 V 友尝鲜](https://www.v2ex.com/t/881455) `116条评论` `推广`
-1. [2022 年了，阻碍你离开 iPhone 的原因是？](https://www.v2ex.com/t/881633) `104条评论` `Apple`
+1. [2022 年了，阻碍你离开 iPhone 的原因是？](https://www.v2ex.com/t/881633) `105条评论` `Apple`
 1. [之前一起做生意亏了的朋友现在让我还钱](https://www.v2ex.com/t/881449) `99条评论` `生活`
 1. [实在是迷茫，有什么捞‘偏门’的方式吗？](https://www.v2ex.com/t/881576) `96条评论` `问与答`
 1. [你与魔鬼为伍，你就是我们的敌人！字节](https://www.v2ex.com/t/881483) `92条评论` `生活`
@@ -33,7 +33,7 @@
 1. [腾讯 LemonCleaner 在 Ventura 13 beta 存在严重 bug，请勿使用](https://www.v2ex.com/t/881497) `15条评论` `macOS`
 1. [看了 B 站评测， iPhone14 pro max 频闪问题似乎没解决，请问真实体感如何](https://www.v2ex.com/t/881652) `14条评论` `Apple`
 
-数据更新于 2022-09-20 14:46:14
+数据更新于 2022-09-20 14:59:47
 
 <!-- TODAY END -->
 
