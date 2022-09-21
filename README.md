@@ -8,6 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
+1. [一级注册建筑师求私活，小建筑或者室内装修均可，也可以免费咨询一些问题](https://www.v2ex.com/t/881735) `46条评论` `上海`
+1. [老黄这次的 40 系显卡定价就离谱](https://www.v2ex.com/t/881739) `41条评论` `NVIDIA`
+1. [iOS 16.1 Beta 2 已修复频繁粘贴许可弹窗](https://www.v2ex.com/t/881736) `28条评论` `iPhone`
+1. [有没有基于 http 的内网穿透技术?](https://www.v2ex.com/t/881734) `23条评论` `问与答`
+1. [Windows 上除了 Powershell 还有好用的 shell 吗？](https://www.v2ex.com/t/881741) `22条评论` `问与答`
+1. [肺癌晚期能活多久？](https://www.v2ex.com/t/881757) `21条评论` `问与答`
+1. [java19 ga](https://www.v2ex.com/t/881738) `15条评论` `Java`
+1. [大家分享一下公司或个人现在用的服务器是什么 Linux 发行版吧](https://www.v2ex.com/t/881742) `12条评论` `问与答`
+1. [话说 iPhone14 Pro 的息屏显示，到底会不会导致后面烧屏🤔？](https://www.v2ex.com/t/881758) `11条评论` `iPhone`
+1. [工作中的项目，业务重写并开源合法吗？](https://www.v2ex.com/t/881749) `9条评论` `问与答`
+1. [Microsoft Edge Mac 版 CPU 占用高](https://www.v2ex.com/t/881774) `8条评论` `macOS`
+1. [Rust + Flutter 桌面开发实践](https://www.v2ex.com/t/881737) `7条评论` `Rust`
+1. [大神帮我看下电信经理是不是在骗我](https://www.v2ex.com/t/881754) `6条评论` `程序员`
+1. [10 个月修成正果，发布一个『完全自研』的网页笔记插件~希望能帮到你](https://www.v2ex.com/t/881745) `6条评论` `程序员`
+
+数据更新于 2022-09-21 02:31:13
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [各位来分享下目前使用的 Linux 发行版吧](https://www.v2ex.com/t/881571) `170条评论` `Linux`
 1. [2022 年了，阻碍你离开 iPhone 的原因是？](https://www.v2ex.com/t/881633) `124条评论` `Apple`
 1. [相约九年， 2022 大闸蟹已上市，欢迎新老 V 友尝鲜](https://www.v2ex.com/t/881455) `121条评论` `推广`
@@ -32,39 +55,6 @@
 1. [想搭建个人博客，请大家帮忙出出主意](https://www.v2ex.com/t/881696) `15条评论` `问与答`
 1. [眼睛一单一双，拍照时会显得眼睛一大一小？](https://www.v2ex.com/t/881689) `15条评论` `问与答`
 1. [iPhone 密码不对锁住了，怎么看当前登录的 icloud 账号是什么](https://www.v2ex.com/t/881640) `15条评论` `iCloud`
-
-数据更新于 2022-09-20 23:56:29
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [云南大理突尼斯石榴抽奖送 1 整箱😋👌🧺，最后一次抽奖（吆喝）](https://www.v2ex.com/t/881149) `203条评论` `推广`
-1. [炒菜偶尔翻车，一翻车就被说，导致每次炒菜都很焦虑怎么办。](https://www.v2ex.com/t/881155) `151条评论` `问与答`
-1. [新手司机怎么练车感](https://www.v2ex.com/t/881185) `102条评论` `汽车`
-1. [ios 除了小火箭还有其他好用的吗](https://www.v2ex.com/t/881159) `84条评论` `VPS`
-1. [IPhone14pro 的灵动岛，不会用一年就弃了吧？](https://www.v2ex.com/t/881194) `80条评论` `Apple`
-1. [你正在研究些什么有趣的问题？](https://www.v2ex.com/t/881227) `71条评论` `问与答`
-1. [Apple 是不是傻屌， iOS16 允许粘贴，不允许粘贴。。。。烦都烦死了](https://www.v2ex.com/t/881363) `60条评论` `iPhone`
-1. [同部门同事真的不能深交，大家引以为戒吧](https://www.v2ex.com/t/881210) `53条评论` `职场话题`
-1. [资本让这个世界变得糟透了](https://www.v2ex.com/t/881410) `38条评论` `随想`
-1. [香港数据显示新冠死亡率是流感的 6 倍，以及放开之后预测的代价，大家怎么看？](https://www.v2ex.com/t/881239) `37条评论` `问与答`
-1. [和女朋友出去旅游，费用怎么算的？](https://www.v2ex.com/t/881409) `26条评论` `问与答`
-1. [动画《赛博朋克边缘行者》好看，强烈推荐](https://www.v2ex.com/t/881276) `23条评论` `剧集`
-1. [NAS 新手问题](https://www.v2ex.com/t/881382) `22条评论` `NAS`
-1. [ios 外区有什么值得下载的 app](https://www.v2ex.com/t/881330) `21条评论` `Apple`
-1. [WSJ 促销 1 年$4/月](https://www.v2ex.com/t/881387) `20条评论` `优惠信息`
-1. [要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426) `19条评论` `程序员`
-1. [30 岁落户城市推荐](https://www.v2ex.com/t/881335) `19条评论` `生活`
-1. [请教个问题， 89 平的房子两室一厅，装个华为吸顶 ap 够用吗？](https://www.v2ex.com/t/881397) `18条评论` `宽带症候群`
-1. [等 JetBrains 全家桶到 10 月续费的，现在是不是变成小丑了](https://www.v2ex.com/t/881309) `18条评论` `JetBrains`
-1. [新 IPhone14 PRO 到手，没有充电器，突发奇想看是否可行？](https://www.v2ex.com/t/881180) `18条评论` `iPhone`
-1. [上班族自己做饭有什么省钱省时间的操作?](https://www.v2ex.com/t/881352) `17条评论` `问与答`
-1. [微软的 MAUI 有可能支持 Linux 吗？](https://www.v2ex.com/t/881283) `17条评论` `程序员`
-1. [现在 iPhone 的屏幕硬度，不带壳耐摔吗？](https://www.v2ex.com/t/881336) `16条评论` `iPhone`
-1. [请教 ubuntu 如何让 cpu 全速运行？](https://www.v2ex.com/t/881344) `15条评论` `程序员`
 
 <!-- YESTERDAY END -->
 
