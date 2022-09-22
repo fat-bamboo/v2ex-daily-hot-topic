@@ -9,18 +9,18 @@
 <!-- TODAY BEGIN -->
 
 1. [疑似遭遇小黄鱼杀猪盘诈骗！麻烦各位 V 友看下帮忙解答！](https://www.v2ex.com/t/882020) `140条评论` `MacBook Pro`
-1. [小米 12s ultra 和华为 mate50 怎么选](https://www.v2ex.com/t/882053) `130条评论` `Android`
-1. [应届入了教师编，感觉每天都很累](https://www.v2ex.com/t/882102) `125条评论` `职场话题`
+1. [小米 12s ultra 和华为 mate50 怎么选](https://www.v2ex.com/t/882053) `132条评论` `Android`
+1. [应届入了教师编，感觉每天都很累](https://www.v2ex.com/t/882102) `129条评论` `职场话题`
 1. [首付没付，钥匙拿到了](https://www.v2ex.com/t/882021) `116条评论` `问与答`
-1. [V2EX.bit](https://www.v2ex.com/t/882082) `81条评论` `V2EX`
-1. [是什么吸引你升级 win11 的？](https://www.v2ex.com/t/882017) `79条评论` `问与答`
+1. [V2EX.bit](https://www.v2ex.com/t/882082) `83条评论` `V2EX`
+1. [是什么吸引你升级 win11 的？](https://www.v2ex.com/t/882017) `80条评论` `问与答`
 1. [集思广益：地铁通勤阅读的最佳姿势是什么？](https://www.v2ex.com/t/882070) `57条评论` `问与答`
 1. [开 shadowrocket 微信加载图片视频就变慢](https://www.v2ex.com/t/882023) `54条评论` `宽带症候群`
 1. [你们是把 mac 桌面全部放在 icloud 的吗](https://www.v2ex.com/t/882126) `51条评论` `iCloud`
 1. [[全职居家办公].NET 开发工程师，能写增删改查就行](https://www.v2ex.com/t/882039) `46条评论` `酷工作`
 1. [我想问一下大家，为什么都这么讨厌安卓？安卓的缺点有哪些](https://www.v2ex.com/t/882163) `30条评论` `问与答`
 1. [现在 5G 还是鸡肋吗](https://www.v2ex.com/t/882178) `29条评论` `iPhone`
-1. [你是否愿意几乎平薪从国内大厂 996 到外企 965 远程？](https://www.v2ex.com/t/882172) `27条评论` `职场话题`
+1. [你是否愿意几乎平薪从国内大厂 996 到外企 965 远程？](https://www.v2ex.com/t/882172) `28条评论` `职场话题`
 1. [律师去小城市专做劳动纠纷案是不是很好赚钱？](https://www.v2ex.com/t/882155) `22条评论` `问与答`
 1. [WSL2 现已支持 Systemd](https://www.v2ex.com/t/882117) `22条评论` `Windows`
 1. [关于在北京工作天津落户的问题](https://www.v2ex.com/t/882069) `21条评论` `问与答`
@@ -30,10 +30,10 @@
 1. [老婆被裁了，需要注意哪些事项？](https://www.v2ex.com/t/882077) `18条评论` `职场话题`
 1. [[提问]有没有那种股价触达指定价格，然后邮箱告警的](https://www.v2ex.com/t/882125) `17条评论` `投资`
 1. [你们觉得 watch 的睡眠检测是自带的准还是 autosleep 的准](https://www.v2ex.com/t/882123) `15条评论` `macOS`
+1. [微软弄一个 wsl 可以理解，现在又弄出一个 wsa 意欲何为？](https://www.v2ex.com/t/882207) `14条评论` `程序员`
 1. [推荐一下 mac 上面 ide 吧](https://www.v2ex.com/t/882050) `14条评论` `Apple`
-1. [准备入手 apple watch 有几个问题想问坛友](https://www.v2ex.com/t/882083) `13条评论` ` WATCH`
 
-数据更新于 2022-09-22 10:58:02
+数据更新于 2022-09-22 11:23:09
 
 <!-- TODAY END -->
 
