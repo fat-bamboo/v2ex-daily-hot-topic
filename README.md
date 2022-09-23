@@ -8,17 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [像我前女友这样的是不是现在女生的常态？](https://www.v2ex.com/t/882353) `176条评论` `生活`
-1. [Web 会取代操作系统吗？](https://www.v2ex.com/t/882341) `45条评论` `Web Dev`
+1. [像我前女友这样的是不是现在女生的常态？](https://www.v2ex.com/t/882353) `237条评论` `生活`
+1. [AirPods Pro2 初体验](https://www.v2ex.com/t/882311) `51条评论` `Apple`
+1. [Web 会取代操作系统吗？](https://www.v2ex.com/t/882341) `50条评论` `Web Dev`
+1. [迷茫，是否离开上海，回济南，求交流](https://www.v2ex.com/t/882291) `49条评论` `问与答`
 1. [这两天早上 14pro 大量补货啊，可惜没有 max](https://www.v2ex.com/t/882284) `43条评论` `Apple`
 1. [羊了个羊只要发请求就可以通关，如何在设计层面避免这种情况](https://www.v2ex.com/t/882304) `41条评论` `问与答`
-1. [AirPods Pro2 初体验](https://www.v2ex.com/t/882311) `41条评论` `Apple`
+1. [如果人生是网游，重开一局你们会选什么性别？](https://www.v2ex.com/t/882380) `32条评论` `生活`
+1. [自问自答，为什么用苹果？](https://www.v2ex.com/t/882376) `30条评论` `问与答`
 1. [请教下 Java 热替换代码的技术](https://www.v2ex.com/t/882334) `28条评论` `Java`
-1. [迷茫，是否离开上海，回济南，求交流](https://www.v2ex.com/t/882291) `28条评论` `问与答`
 1. [哈啰电动车能不能不要广告满天飞](https://www.v2ex.com/t/882292) `25条评论` `全球工单系统`
+1. [我是如何失去团队掌控的？(转)](https://www.v2ex.com/t/882400) `24条评论` `程序员`
 1. [美区充值问题咨询](https://www.v2ex.com/t/882301) `21条评论` `Apple`
-1. [自问自答，为什么用苹果？](https://www.v2ex.com/t/882376) `20条评论` `问与答`
-1. [如果人生是网游，重开一局你们会选什么性别？](https://www.v2ex.com/t/882380) `19条评论` `生活`
+1. [130 平的房子，软硬装下来， 20 个能搞定不](https://www.v2ex.com/t/882395) `19条评论` `问与答`
 1. [图像识别在红绿灯调度上的应用猜想](https://www.v2ex.com/t/882288) `19条评论` `奇思妙想`
 1. [车型：汉 dmi、A4L、CT5、雅阁选择建议](https://www.v2ex.com/t/882331) `16条评论` `汽车`
 1. [IOS 推送了 16.0.2](https://www.v2ex.com/t/882299) `16条评论` `Apple`
@@ -27,13 +29,11 @@
 1. [nginx 反代网站的服务器，对硬件配置有哪些要求？](https://www.v2ex.com/t/882289) `13条评论` `程序员`
 1. [刚到的 iPhone 14，面部识别好蛋疼，经常识别不了](https://www.v2ex.com/t/882366) `11条评论` `iPhone`
 1. [第一个开源链上博客系统 xLog](https://www.v2ex.com/t/882349) `11条评论` `分享创造`
+1. [Python re 正则匹配，表达式作为条件，但不获取条件内容的问题](https://www.v2ex.com/t/882385) `10条评论` `Python`
 1. [WebStrom 真香](https://www.v2ex.com/t/882337) `10条评论` `前端开发`
 1. [Android 手机是不是可以安装 windows 了？](https://www.v2ex.com/t/882336) `10条评论` `Android`
-1. [冲浪在 NGA 上看到一个有关太吾正式版技术架构的贴](https://www.v2ex.com/t/882310) `10条评论` `太吾绘卷`
-1. [[高难度求助] M1 Pro/Max 外接 4K@144 + 4K@60 总功耗/CPU/GPU/温度如何？](https://www.v2ex.com/t/882302) `10条评论` `MacBook Pro`
-1. [请问 ddns 能否报告一个内网 ip 地址上去。](https://www.v2ex.com/t/882298) `10条评论` `宽带症候群`
 
-数据更新于 2022-09-23 05:54:13
+数据更新于 2022-09-23 06:47:15
 
 <!-- TODAY END -->
 
