@@ -12,28 +12,28 @@
 1. [红米 8A(低端安卓)，活路何在？](https://www.v2ex.com/t/882766) `55条评论` `问与答`
 1. [求一个自建打洞方案](https://www.v2ex.com/t/882721) `45条评论` `程序员`
 1. [华侨华人华裔的个人理解](https://www.v2ex.com/t/882730) `40条评论` `问与答`
-1. [美元今年大概会涨到多少？](https://www.v2ex.com/t/882732) `32条评论` `问与答`
+1. [美元今年大概会涨到多少？](https://www.v2ex.com/t/882732) `35条评论` `问与答`
 1. [特斯拉辅助驾驶，没准确识别出车道线，忽然打方向往外窜。这条路走了七八回了至少，第一次这样。](https://www.v2ex.com/t/882762) `22条评论` `生活`
+1. [怎么挣 500 块钱？](https://www.v2ex.com/t/882795) `20条评论` `问与答`
 1. [菜鸡互啄,怎么选](https://www.v2ex.com/t/882729) `20条评论` `职场话题`
 1. [救命啊大佬们，帮帮忙各位， bitlocker 加密了硬盘，但是在重装系统的时候不小心删除了卷](https://www.v2ex.com/t/882765) `19条评论` `Windows`
-1. [怎么挣 500 块钱？](https://www.v2ex.com/t/882795) `18条评论` `问与答`
+1. [iPhone 14 MagSafe 充电发烫？](https://www.v2ex.com/t/882802) `18条评论` `Apple`
 1. [东南沿海某 985 本科大三学生留学疑问若干](https://www.v2ex.com/t/882779) `17条评论` `问与答`
 1. [你们买的 airpods pro 2 盒盖子松吗？是我中奖了还是都是这样?](https://www.v2ex.com/t/882776) `17条评论` `Apple`
 1. [拿到一个美国的 offer，准备居家办公，英语不太好，有什么好的视频会议实时字幕软件推荐？](https://www.v2ex.com/t/882774) `16条评论` `职场话题`
 1. [为什么 applewatch 解锁手机时灵时不灵啊，烦躁死了，设置没问题， Watch 也解锁了](https://www.v2ex.com/t/882753) `16条评论` `Apple`
-1. [iPhone 14 MagSafe 充电发烫？](https://www.v2ex.com/t/882802) `15条评论` `Apple`
 1. [公司的电脑禁止安装微信 有什么好的办法](https://www.v2ex.com/t/882761) `15条评论` `微信`
 1. [知乎网友爆料 iMessage 国内有审查](https://www.v2ex.com/t/882763) `14条评论` `Apple`
 1. [IP14 的 wifi 芯片，还是万年不变的 80hz 2x2 吗？](https://www.v2ex.com/t/882735) `13条评论` `Apple`
+1. [为什么 Java 在 Windows 上编译比 Linux 慢这么多](https://www.v2ex.com/t/882781) `12条评论` `程序员`
 1. [J4125 长期保持 60 度+，求推荐一款 USB 散热风扇](https://www.v2ex.com/t/882754) `12条评论` `宽带症候群`
-1. [为什么 Java 在 Windows 上编译比 Linux 慢这么多](https://www.v2ex.com/t/882781) `11条评论` `程序员`
 1. [微信安卓版弹出式广告，只有我的这样吗？](https://www.v2ex.com/t/882743) `11条评论` `微信`
 1. [刚刚好像 OpenDns 的 DoH 服务被阻断](https://www.v2ex.com/t/882817) `9条评论` `DNS`
 1. [apple watch 4 升 8 体验](https://www.v2ex.com/t/882786) `9条评论` ` WATCH`
 1. [MySQL 单表上亿条数据有必要考虑分表吗？目前已经 8400 万条了，感觉查询耗时也没有明显提升，就是 CPU 不查询占用也在 20%以上，不知道在干什么。如果有必要的话求推荐下 EF Core 上安全、好用的分表方法。](https://www.v2ex.com/t/882773) `8条评论` `数据库`
 1. [macos 下挂载 samba，休眠后就要重新挂载，大家是如何解决的？](https://www.v2ex.com/t/882747) `8条评论` `macOS`
 
-数据更新于 2022-09-25 09:52:46
+数据更新于 2022-09-25 10:20:57
 
 <!-- TODAY END -->
 
