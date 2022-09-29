@@ -8,21 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有人开车上班带同事吗? 收多少一月比较好](https://www.v2ex.com/t/883740) `24条评论` `问与答`
+1. [有人开车上班带同事吗? 收多少一月比较好](https://www.v2ex.com/t/883740) `64条评论` `问与答`
+1. [请教一下聊天消息应该用什么数据库存储？](https://www.v2ex.com/t/883731) `49条评论` `数据库`
+1. [想搞一个社交 APP，但是没什么好思路](https://www.v2ex.com/t/883737) `23条评论` `奇思妙想`
 1. [［假如］ Linus 不在了，将会对 Linux 发展产生怎样的影响](https://www.v2ex.com/t/883696) `23条评论` `Linux`
-1. [请教一下聊天消息应该用什么数据库存储？](https://www.v2ex.com/t/883731) `22条评论` `数据库`
+1. [m2 MacBook Air CPU 莫名高温](https://www.v2ex.com/t/883741) `17条评论` `Apple`
 1. [诚心问：后端大佬们都是怎么做网页设计的？](https://www.v2ex.com/t/883733) `16条评论` `程序员`
 1. [现在买 iphone13promax 是好的时机吗](https://www.v2ex.com/t/883709) `15条评论` `Apple`
 1. [阿里云已购的域名如何退款](https://www.v2ex.com/t/883703) `15条评论` `问与答`
+1. [android studio 首次编译太慢](https://www.v2ex.com/t/883751) `14条评论` `Android`
+1. [请问客厅采光不足,如何能够改善呢](https://www.v2ex.com/t/883758) `13条评论` `问与答`
 1. [寻几个 C++练手的项目](https://www.v2ex.com/t/883697) `11条评论` `C++`
+1. [Python 多层 for 循环性能如何提高](https://www.v2ex.com/t/883749) `9条评论` `Python`
 1. [苹果 11 换了第三方电池, 发现没办法更新系统了..](https://www.v2ex.com/t/883726) `9条评论` `问与答`
 1. [群晖 DS220+安装 plex,jellyfin 播放杜比视界 偏绿偏紫，还有点卡顿 这 。。。](https://www.v2ex.com/t/883718) `9条评论` `NAS`
 1. [windows10 系统卡顿，已经使用了 SSD，依旧卡顿，如何解决？](https://www.v2ex.com/t/883706) `9条评论` `问与答`
+1. [请教，合并 remote 的分支，出现遗漏情况，是什么问题？](https://www.v2ex.com/t/883736) `8条评论` `git`
+1. [新手请教， springboot 框架下，哪种初始化变量的方法更好](https://www.v2ex.com/t/883764) `7条评论` `程序员`
+1. [json 离线 可视化 数据提取工具推荐？](https://www.v2ex.com/t/883757) `7条评论` `问与答`
+1. [安卓地图导航语音是否可以取消压低音乐播放？](https://www.v2ex.com/t/883738) `7条评论` `问与答`
 1. [关于键盘](https://www.v2ex.com/t/883713) `7条评论` `机械键盘`
 1. [在别人那见到一个装了 XP 系统的 U 盘，这种 U 盘是用什么工具制作的](https://www.v2ex.com/t/883705) `7条评论` `问与答`
 1. [吐槽向，刚买两天的 AW8 发现个坏点...](https://www.v2ex.com/t/883707) `6条评论` `Apple`
 
-数据更新于 2022-09-29 02:49:42
+数据更新于 2022-09-29 04:41:12
 
 <!-- TODAY END -->
 
