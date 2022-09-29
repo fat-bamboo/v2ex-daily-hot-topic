@@ -33,7 +33,7 @@
 1. [m2 MacBook Air CPU 莫名高温](https://www.v2ex.com/t/883741) `17条评论` `Apple`
 1. [Python2 已经很熟练了，想要学习 Python3，有没有专门的书籍或教程？](https://www.v2ex.com/t/883886) `15条评论` `Python`
 
-数据更新于 2022-09-29 22:48:51
+数据更新于 2022-09-29 22:59:10
 
 <!-- TODAY END -->
 
