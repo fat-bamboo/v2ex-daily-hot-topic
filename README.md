@@ -9,31 +9,31 @@
 <!-- TODAY BEGIN -->
 
 1. [地铁查身份证](https://www.v2ex.com/t/883966) `80条评论` `问与答`
-1. [iPhone 上如何对付 APP 的开屏广告](https://www.v2ex.com/t/883972) `69条评论` `Apple`
-1. [内推前同事入职现公司应该谁请谁吃饭？](https://www.v2ex.com/t/883977) `64条评论` `问与答`
-1. [打算做个网站, 需要画个极其潦草的草图告诉 UI, 一般用什么工具比较好?](https://www.v2ex.com/t/883946) `57条评论` `程序员`
-1. [买手机求助。](https://www.v2ex.com/t/883957) `54条评论` `Android`
-1. [用 iPhone 的同志们，信号问题咋解决的啊](https://www.v2ex.com/t/883961) `49条评论` `iPhone`
-1. [写了一个匹配交友的公众号，运营了一周，结果..](https://www.v2ex.com/t/884029) `41条评论` `分享创造`
-1. [现在是羡慕时间~](https://www.v2ex.com/t/884016) `41条评论` `问与答`
+1. [iPhone 上如何对付 APP 的开屏广告](https://www.v2ex.com/t/883972) `74条评论` `Apple`
+1. [内推前同事入职现公司应该谁请谁吃饭？](https://www.v2ex.com/t/883977) `65条评论` `问与答`
+1. [打算做个网站, 需要画个极其潦草的草图告诉 UI, 一般用什么工具比较好?](https://www.v2ex.com/t/883946) `60条评论` `程序员`
+1. [买手机求助。](https://www.v2ex.com/t/883957) `56条评论` `Android`
+1. [用 iPhone 的同志们，信号问题咋解决的啊](https://www.v2ex.com/t/883961) `50条评论` `iPhone`
+1. [现在是羡慕时间~](https://www.v2ex.com/t/884016) `48条评论` `问与答`
+1. [写了一个匹配交友的公众号，运营了一周，结果..](https://www.v2ex.com/t/884029) `47条评论` `分享创造`
 1. [在什么情况下一定要放弃 SQLite 采用 MySQL 呢？](https://www.v2ex.com/t/884005) `27条评论` `SQLite`
+1. [国内除了大厂还有哪些公司在招聘 Linux 内核开发的岗位？](https://www.v2ex.com/t/884025) `26条评论` `Linux`
 1. [新手求教，获取 bean 可以 return this 么](https://www.v2ex.com/t/883960) `25条评论` `程序员`
-1. [国内除了大厂还有哪些公司在招聘 Linux 内核开发的岗位？](https://www.v2ex.com/t/884025) `23条评论` `Linux`
+1. [你最近买的纸质书是什么](https://www.v2ex.com/t/884039) `24条评论` `阅读`
 1. [求个馒头的药](https://www.v2ex.com/t/883968) `23条评论` `宽带症候群`
 1. [PHP 编译器 BPC 5.0 发布了](https://www.v2ex.com/t/883959) `23条评论` `PHP`
+1. [为什么女生很反感男生抽烟喝酒泡吧？](https://www.v2ex.com/t/884066) `21条评论` `问与答`
+1. [家中网线布线头疼不已，有没有运维大佬能给个方案](https://www.v2ex.com/t/884033) `20条评论` `问与答`
+1. [为什么 Linux 现在对硬件的需求和 windows 对硬件的需求差别越来越大](https://www.v2ex.com/t/884049) `19条评论` `Windows`
 1. [c#转 c++，各位觉得如何](https://www.v2ex.com/t/884038) `19条评论` `问与答`
 1. [看了几篇 iOS、 iPhone 的文章，我来细说细说](https://www.v2ex.com/t/883956) `19条评论` `Apple`
 1. [上海电信云宽带，强制分配 ip 到 192.168.71.x](https://www.v2ex.com/t/883938) `19条评论` `宽带症候群`
-1. [家中网线布线头疼不已，有没有运维大佬能给个方案](https://www.v2ex.com/t/884033) `18条评论` `问与答`
+1. [试用期没过，迷茫了，想躺平了](https://www.v2ex.com/t/884040) `18条评论` `职场话题`
+1. [已有 MacBook-m1 版本。想要换手机，更换 iPhone 有哪些优势么](https://www.v2ex.com/t/884032) `18条评论` `iPhone`
 1. [想问下矿盘能买嘛 所谓的国行版本 挂了去厂家保修，有没有可能拒保](https://www.v2ex.com/t/883942) `18条评论` `问与答`
-1. [已有 MacBook-m1 版本。想要换手机，更换 iPhone 有哪些优势么](https://www.v2ex.com/t/884032) `17条评论` `iPhone`
 1. [iPhone 相册的迁移问题](https://www.v2ex.com/t/883954) `17条评论` `iPhone`
-1. [[求助] 科学的环境下，打不开 github](https://www.v2ex.com/t/883991) `16条评论` `宽带症候群`
-1. [你最近买的纸质书是什么](https://www.v2ex.com/t/884039) `15条评论` `阅读`
-1. [今年唯一想买的就是 M2 芯片的 mac mini 了](https://www.v2ex.com/t/884002) `15条评论` `Mac mini`
-1. [现在买 30 系显卡环境怎么样？](https://www.v2ex.com/t/883978) `15条评论` `问与答`
 
-数据更新于 2022-09-30 08:43:27
+数据更新于 2022-09-30 09:14:30
 
 <!-- TODAY END -->
 
