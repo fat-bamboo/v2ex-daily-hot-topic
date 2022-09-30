@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 上如何对付 APP 的开屏广告](https://www.v2ex.com/t/883972) `96条评论` `Apple`
+1. [iPhone 上如何对付 APP 的开屏广告](https://www.v2ex.com/t/883972) `98条评论` `Apple`
 1. [为什么 Linux 现在对硬件的需求和 windows 对硬件的需求差别越来越大](https://www.v2ex.com/t/884049) `92条评论` `Windows`
+1. [你最近买的纸质书是什么](https://www.v2ex.com/t/884039) `81条评论` `阅读`
 1. [地铁查身份证](https://www.v2ex.com/t/883966) `80条评论` `问与答`
 1. [写了一个匹配交友的公众号，运营了一周，结果..](https://www.v2ex.com/t/884029) `79条评论` `分享创造`
-1. [你最近买的纸质书是什么](https://www.v2ex.com/t/884039) `78条评论` `阅读`
 1. [内推前同事入职现公司应该谁请谁吃饭？](https://www.v2ex.com/t/883977) `76条评论` `问与答`
 1. [为什么女生很反感男生抽烟喝酒泡吧？](https://www.v2ex.com/t/884066) `71条评论` `问与答`
 1. [买手机求助。](https://www.v2ex.com/t/883957) `67条评论` `Android`
@@ -24,16 +24,16 @@
 1. [在什么情况下一定要放弃 SQLite 采用 MySQL 呢？](https://www.v2ex.com/t/884005) `27条评论` `SQLite`
 1. [国内除了大厂还有哪些公司在招聘 Linux 内核开发的岗位？](https://www.v2ex.com/t/884025) `26条评论` `Linux`
 1. [新手求教，获取 bean 可以 return this 么](https://www.v2ex.com/t/883960) `25条评论` `程序员`
+1. [CloudFlare 发放 $10 的 yubikey 优惠券](https://www.v2ex.com/t/884118) `24条评论` `优惠信息`
 1. [求个馒头的药](https://www.v2ex.com/t/883968) `23条评论` `宽带症候群`
 1. [PHP 编译器 BPC 5.0 发布了](https://www.v2ex.com/t/883959) `23条评论` `PHP`
-1. [CloudFlare 发放 $10 的 yubikey 优惠券](https://www.v2ex.com/t/884118) `21条评论` `优惠信息`
 1. [家中网线布线头疼不已，有没有运维大佬能给个方案](https://www.v2ex.com/t/884033) `21条评论` `问与答`
 1. [面对屎山代码，有没有好的解决办法](https://www.v2ex.com/t/884071) `20条评论` `问与答`
 1. [试用期没过，迷茫了，想躺平了](https://www.v2ex.com/t/884040) `20条评论` `职场话题`
 1. [坐高铁,被手机气到了!](https://www.v2ex.com/t/884080) `19条评论` `分享发现`
 1. [[内推] 币圈大厂急招](https://www.v2ex.com/t/884057) `19条评论` `酷工作`
 
-数据更新于 2022-09-30 16:33:00
+数据更新于 2022-09-30 17:21:14
 
 <!-- TODAY END -->
 
