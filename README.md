@@ -9,13 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [地铁查身份证](https://www.v2ex.com/t/883966) `80条评论` `问与答`
-1. [打算做个网站, 需要画个极其潦草的草图告诉 UI, 一般用什么工具比较好?](https://www.v2ex.com/t/883946) `39条评论` `程序员`
+1. [打算做个网站, 需要画个极其潦草的草图告诉 UI, 一般用什么工具比较好?](https://www.v2ex.com/t/883946) `55条评论` `程序员`
 1. [内推前同事入职现公司应该谁请谁吃饭？](https://www.v2ex.com/t/883977) `33条评论` `问与答`
 1. [买手机求助。](https://www.v2ex.com/t/883957) `32条评论` `Android`
 1. [用 iPhone 的同志们，信号问题咋解决的啊](https://www.v2ex.com/t/883961) `29条评论` `iPhone`
 1. [新手求教，获取 bean 可以 return this 么](https://www.v2ex.com/t/883960) `25条评论` `程序员`
 1. [求个馒头的药](https://www.v2ex.com/t/883968) `23条评论` `宽带症候群`
 1. [PHP 编译器 BPC 5.0 发布了](https://www.v2ex.com/t/883959) `23条评论` `PHP`
+1. [在什么情况下一定要放弃 SQLite 采用 MySQL 呢？](https://www.v2ex.com/t/884005) `22条评论` `SQLite`
+1. [现在是羡慕时间~](https://www.v2ex.com/t/884016) `21条评论` `问与答`
 1. [iPhone 上如何对付 APP 的开屏广告](https://www.v2ex.com/t/883972) `20条评论` `Apple`
 1. [看了几篇 iOS、 iPhone 的文章，我来细说细说](https://www.v2ex.com/t/883956) `19条评论` `Apple`
 1. [上海电信云宽带，强制分配 ip 到 192.168.71.x](https://www.v2ex.com/t/883938) `19条评论` `宽带症候群`
@@ -24,16 +26,14 @@
 1. [现在买 30 系显卡环境怎么样？](https://www.v2ex.com/t/883978) `15条评论` `问与答`
 1. [M2 外接显示器睡眠后频繁唤醒](https://www.v2ex.com/t/883949) `14条评论` `macOS`
 1. [nginx 反代高并发时，偶尔出现 upstream timed out 该怎么排查原因？](https://www.v2ex.com/t/883940) `13条评论` `程序员`
+1. [[求助] 科学的环境下，打不开 github](https://www.v2ex.com/t/883991) `12条评论` `宽带症候群`
+1. [今年唯一想买的就是 M2 芯片的 mac mini 了](https://www.v2ex.com/t/884002) `11条评论` `Mac mini`
 1. [PHPSTORM 、小皮、vscode 使用后吃内存](https://www.v2ex.com/t/883953) `11条评论` `问与答`
 1. [内外网请求跨域问题](https://www.v2ex.com/t/883941) `11条评论` `程序员`
 1. [微博新注册账户现在无法设置密码了。](https://www.v2ex.com/t/883958) `10条评论` `微博`
 1. [有人用过 rfid 贴纸么？](https://www.v2ex.com/t/883936) `10条评论` `问与答`
-1. [深圳哪里有卖二手自行车的专卖店](https://www.v2ex.com/t/883965) `9条评论` `深圳`
-1. [《航拍中国》第四季即将开播，首次从“天宫”空间站拍摄](https://www.v2ex.com/t/883937) `9条评论` `分享发现`
-1. [为什么除 Vue 3 外的主流前端框架不使用 Proxy 来跟踪响应式对象的改变？](https://www.v2ex.com/t/883988) `7条评论` `前端开发`
-1. [Google Voice 号码意外过期了，有啥办法可以取回吗？](https://www.v2ex.com/t/883975) `7条评论` `问与答`
 
-数据更新于 2022-09-30 05:09:18
+数据更新于 2022-09-30 06:31:42
 
 <!-- TODAY END -->
 
