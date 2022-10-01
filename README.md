@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228) `78条评论` `问与答`
-1. [请教关于函数式编程的优势](https://www.v2ex.com/t/884185) `41条评论` `Java`
+1. [回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228) `88条评论` `问与答`
+1. [请教关于函数式编程的优势](https://www.v2ex.com/t/884185) `42条评论` `Java`
 1. [ReVanced 真好用，买什么高级会员](https://www.v2ex.com/t/884175) `41条评论` `分享发现`
 1. [今天不会还有人在上班吧！](https://www.v2ex.com/t/884171) `37条评论` `职场话题`
 1. [想通过 winrar 定期压缩一些文件，有没有除了自己 win7 自带的计划程序外的方法呢？](https://www.v2ex.com/t/884166) `28条评论` `程序员`
@@ -21,9 +21,10 @@
 1. [一部 iPhone 能同时使用支付宝和 Apple Pay 坐地铁吗](https://www.v2ex.com/t/884210) `15条评论` `iPhone`
 1. [怎样阉割智能手机功能](https://www.v2ex.com/t/884189) `15条评论` `随想`
 1. [有没有比较容易上手,傻瓜式的图片,视频处理工具大家可以推荐下?](https://www.v2ex.com/t/884160) `15条评论` `程序员`
+1. [gpu-accelerated 对于 terminal 在日常使用中有明显效果吗？](https://www.v2ex.com/t/884229) `14条评论` `Linux`
+1. [把父母手机越狱用微信 callkit 会被封号吗？](https://www.v2ex.com/t/884262) `13条评论` `Apple`
 1. [国庆渐变头像小程序秒上线](https://www.v2ex.com/t/884193) `13条评论` `程序员`
 1. [想尝试下 dota2](https://www.v2ex.com/t/884230) `12条评论` `DotA`
-1. [gpu-accelerated 对于 terminal 在日常使用中有明显效果吗？](https://www.v2ex.com/t/884229) `12条评论` `Linux`
 1. [ios16 地图选择交通方式的改版有点拉胯了吧](https://www.v2ex.com/t/884194) `12条评论` `Apple`
 1. [农业银行养老社保卡安全问题](https://www.v2ex.com/t/884161) `12条评论` `问与答`
 1. [刚刚到货的官翻 m1 air，这个磁盘数据正常么](https://www.v2ex.com/t/884172) `11条评论` `MacBook Pro`
@@ -31,9 +32,8 @@
 1. [现在有什么路由支持开光挂着 clash，还有 1000M 的，我的网件 R8500 原系统只支持 600M](https://www.v2ex.com/t/884202) `10条评论` `问与答`
 1. [Alaska - Late Autumn 2022](https://www.v2ex.com/t/884201) `10条评论` `旅行`
 1. [大家的 Chrome 翻译功能还正常吗？](https://www.v2ex.com/t/884186) `10条评论` `Google`
-1. [把父母手机越狱用微信 callkit 会被封号吗？](https://www.v2ex.com/t/884262) `9条评论` `Apple`
 
-数据更新于 2022-10-01 14:05:54
+数据更新于 2022-10-01 14:32:28
 
 <!-- TODAY END -->
 
