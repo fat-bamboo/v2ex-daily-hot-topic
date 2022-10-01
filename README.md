@@ -8,6 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
+1. [今天在上班的 V 友，一定没有休假吧？](https://www.v2ex.com/t/884163) `13条评论` `问与答`
+1. [今天不会还有人在上班吧！](https://www.v2ex.com/t/884171) `8条评论` `程序员`
+1. [iPhone 经常弹出重要运营商信息，怎么能让它不提醒？](https://www.v2ex.com/t/884165) `8条评论` `iPhone`
+1. [农业银行养老社保卡安全问题](https://www.v2ex.com/t/884161) `7条评论` `问与答`
+1. [vmware 虚拟网卡干扰主机网络，有什么完美解决办法？](https://www.v2ex.com/t/884159) `6条评论` `问与答`
+
+数据更新于 2022-10-01 03:08:59
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [iPhone 上如何对付 APP 的开屏广告](https://www.v2ex.com/t/883972) `103条评论` `Apple`
 1. [为什么 Linux 现在对硬件的需求和 windows 对硬件的需求差别越来越大](https://www.v2ex.com/t/884049) `92条评论` `Windows`
 1. [你最近买的纸质书是什么](https://www.v2ex.com/t/884039) `89条评论` `阅读`
@@ -32,39 +46,6 @@
 1. [试用期没过，迷茫了，想躺平了](https://www.v2ex.com/t/884040) `20条评论` `职场话题`
 1. [鸿雁拼音输入法在最新的评测中取得准确率全球第二的好成绩](https://www.v2ex.com/t/884145) `19条评论` `软件`
 1. [家用千兆软路由求推荐](https://www.v2ex.com/t/884107) `19条评论` `宽带症候群`
-
-数据更新于 2022-09-30 23:58:17
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [有人开车上班带同事吗? 收多少一月比较好](https://www.v2ex.com/t/883740) `140条评论` `职场话题`
-1. [提神饮料哪家强？东方树叶、美式咖啡、氨基酸饮料经验分享](https://www.v2ex.com/t/883794) `85条评论` `咖啡`
-1. [请教一下聊天消息应该用什么数据库存储？](https://www.v2ex.com/t/883731) `80条评论` `数据库`
-1. [兼职了一个晚上的情感咨询，给整 emo 了](https://www.v2ex.com/t/883821) `74条评论` `分享发现`
-1. [看见东方树叶躺枪，过来分享一下我的饮料榜](https://www.v2ex.com/t/883860) `62条评论` `咖啡`
-1. [为什么没有欲望了](https://www.v2ex.com/t/883842) `59条评论` `问与答`
-1. [想搞一个社交 APP，但是没什么好思路](https://www.v2ex.com/t/883737) `57条评论` `奇思妙想`
-1. [诚心问：后端大佬们都是怎么做网页设计的？](https://www.v2ex.com/t/883733) `52条评论` `程序员`
-1. [请完成实名认证以便使用 Gitee Pages 服务](https://www.v2ex.com/t/883814) `50条评论` `程序员`
-1. [谷歌翻译疑似退出中国内地市场](https://www.v2ex.com/t/883802) `36条评论` `Google`
-1. [打算给孩子买个 pad 用， 最近看好了华为的 matepadpro 11 和 iPad 很难选](https://www.v2ex.com/t/883862) `33条评论` `生活`
-1. [请问客厅采光不足,如何能够改善呢](https://www.v2ex.com/t/883758) `27条评论` `问与答`
-1. [android studio 首次编译太慢](https://www.v2ex.com/t/883751) `23条评论` `Android`
-1. [［假如］ Linus 不在了，将会对 Linux 发展产生怎样的影响](https://www.v2ex.com/t/883696) `23条评论` `Linux`
-1. [iPhone12PM 被偷，只能持续看着位置更新](https://www.v2ex.com/t/883819) `22条评论` `iPhone`
-1. [4000 个 [国际远程工作]+一个小小调研](https://www.v2ex.com/t/883792) `20条评论` `酷工作`
-1. [刚续费了 Jetbrains 全家桶三年](https://www.v2ex.com/t/883905) `19条评论` `程序员`
-1. [谷歌翻译用不了](https://www.v2ex.com/t/883853) `19条评论` `Google`
-1. [你们会不会经常纠结自己的手机续航](https://www.v2ex.com/t/883828) `19条评论` `问与答`
-1. [请问存在类似于[diskgenius.efi]或者[分区助手.efi]这种东西嘛?](https://www.v2ex.com/t/883893) `18条评论` `Linux`
-1. [大家换手机号记得注销绑定的相关平台帐号](https://www.v2ex.com/t/883866) `18条评论` `全球工单系统`
-1. [[广州]-[不加班]-[可部分居家办公]-[外企]-招各种中高级职位](https://www.v2ex.com/t/883873) `17条评论` `酷工作`
-1. [m2 MacBook Air CPU 莫名高温](https://www.v2ex.com/t/883741) `17条评论` `Apple`
-1. [Python2 已经很熟练了，想要学习 Python3，有没有专门的书籍或教程？](https://www.v2ex.com/t/883886) `16条评论` `Python`
 
 <!-- YESTERDAY END -->
 
