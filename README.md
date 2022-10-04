@@ -33,7 +33,7 @@
 1. [美区 app store 全面支持中文了](https://www.v2ex.com/t/884604) `11条评论` `Apple`
 1. [iPhone 14 Pro Max 充电自动关机?害人啊](https://www.v2ex.com/t/884601) `11条评论` `Apple`
 
-数据更新于 2022-10-04 21:04:34
+数据更新于 2022-10-04 21:31:11
 
 <!-- TODAY END -->
 
