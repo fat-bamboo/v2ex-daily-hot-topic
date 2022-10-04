@@ -9,31 +9,31 @@
 <!-- TODAY BEGIN -->
 
 1. [想弄个个人 blog，有推荐的服务器提供商么？](https://www.v2ex.com/t/884582) `37条评论` `问与答`
-1. [我真的好爱杭州这城市 到处在修路](https://www.v2ex.com/t/884596) `32条评论` `杭州`
-1. [esim 的一些隐藏成本](https://www.v2ex.com/t/884574) `30条评论` `分享发现`
-1. [想入手一个 Mac，求推荐](https://www.v2ex.com/t/884562) `28条评论` `Apple`
-1. [想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) `26条评论` `宽带症候群`
-1. [手机推送新闻，有必要吗？](https://www.v2ex.com/t/884564) `20条评论` `互联网`
-1. [iOS16 控制中心 WI-FI 点灰之后，会自己打开](https://www.v2ex.com/t/884624) `19条评论` `Apple`
+1. [我真的好爱杭州这城市 到处在修路](https://www.v2ex.com/t/884596) `33条评论` `杭州`
+1. [esim 的一些隐藏成本](https://www.v2ex.com/t/884574) `31条评论` `分享发现`
+1. [想入手一个 Mac，求推荐](https://www.v2ex.com/t/884562) `29条评论` `Apple`
+1. [想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) `29条评论` `宽带症候群`
+1. [手机推送新闻，有必要吗？](https://www.v2ex.com/t/884564) `21条评论` `互联网`
+1. [iOS16 控制中心 WI-FI 点灰之后，会自己打开](https://www.v2ex.com/t/884624) `21条评论` `Apple`
 1. [学生党想入门一款 iPad ，寻求一些建议。](https://www.v2ex.com/t/884606) `13条评论` `问与答`
 1. [App Store 申请退款失败怎么办](https://www.v2ex.com/t/884578) `12条评论` `Apple`
 1. [新买的笔记本，有滋滋电流声算质量问题吗？](https://www.v2ex.com/t/884569) `12条评论` `问与答`
+1. [有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？](https://www.v2ex.com/t/884619) `11条评论` `MacBook Pro`
 1. [iPhone 14 Pro Max 充电自动关机?害人啊](https://www.v2ex.com/t/884601) `11条评论` `Apple`
 1. [V 友要的取快递 App 有人做出来啦！](https://www.v2ex.com/t/884580) `11条评论` `分享创造`
 1. [有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600) `10条评论` `Linux`
 1. [手贱把 win11 的一个 90M 的硬盘分区删了。不能开机了。还有救吗。](https://www.v2ex.com/t/884579) `10条评论` `问与答`
+1. [美区 app store 全面支持中文了](https://www.v2ex.com/t/884604) `9条评论` `Apple`
 1. [冬天有什么利用咖啡和茶叶的好喝特调吗](https://www.v2ex.com/t/884583) `9条评论` `咖啡`
 1. [Java 小白提问，这段代码是标准 RSA 加密吗](https://www.v2ex.com/t/884572) `9条评论` `Java`
+1. [Google 翻译退出中国后如何正常使用其 Chrome 插件](https://www.v2ex.com/t/884631) `8条评论` `Google`
 1. [MacBook Pro Retina 越看越觉得老设计更有内涵和耐看](https://www.v2ex.com/t/884602) `8条评论` `Apple`
 1. [iTelevision：更好用的直播流播放器，开放 TestFlight 测试，欢迎占坑。](https://www.v2ex.com/t/884568) `8条评论` `iPhone`
-1. [Google 翻译退出中国后如何正常使用其 Chrome 插件](https://www.v2ex.com/t/884631) `7条评论` `Google`
 1. [BT 速度被限制的问题](https://www.v2ex.com/t/884616) `7条评论` `宽带症候群`
-1. [美区 app store 全面支持中文了](https://www.v2ex.com/t/884604) `7条评论` `Apple`
 1. [请问现在远程控制 GUI 桌面的方案还是 VNC 吗?](https://www.v2ex.com/t/884597) `7条评论` `程序员`
 1. [不建议更新 edge 最新 106 版本](https://www.v2ex.com/t/884592) `7条评论` `Windows`
-1. [普通消费者应该如何投诉 [京东] ？](https://www.v2ex.com/t/884587) `7条评论` `问与答`
 
-数据更新于 2022-10-04 09:00:57
+数据更新于 2022-10-04 09:36:33
 
 <!-- TODAY END -->
 
