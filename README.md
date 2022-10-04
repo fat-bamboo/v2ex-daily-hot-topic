@@ -15,7 +15,7 @@
 1. [想入手一个 Mac，求推荐](https://www.v2ex.com/t/884562) `30条评论` `Apple`
 1. [iOS16 控制中心 WI-FI 点灰之后，会自己打开](https://www.v2ex.com/t/884624) `25条评论` `Apple`
 1. [手机推送新闻，有必要吗？](https://www.v2ex.com/t/884564) `24条评论` `互联网`
-1. [有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？](https://www.v2ex.com/t/884619) `20条评论` `MacBook Pro`
+1. [有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？](https://www.v2ex.com/t/884619) `22条评论` `MacBook Pro`
 1. [分享一次被墙](https://www.v2ex.com/t/884639) `13条评论` `VPS`
 1. [M1 MACmini 空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612) `13条评论` `macOS`
 1. [学生党想入门一款 iPad ，寻求一些建议。](https://www.v2ex.com/t/884606) `13条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [冬天有什么利用咖啡和茶叶的好喝特调吗](https://www.v2ex.com/t/884583) `9条评论` `咖啡`
 1. [Java 小白提问，这段代码是标准 RSA 加密吗](https://www.v2ex.com/t/884572) `9条评论` `Java`
 
-数据更新于 2022-10-04 11:30:16
+数据更新于 2022-10-04 11:46:47
 
 <!-- TODAY END -->
 
