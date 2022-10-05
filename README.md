@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下 Pixel、一加和三星了？](https://www.v2ex.com/t/884716) `80条评论` `Android`
-1. [USB Type C 统治世界](https://www.v2ex.com/t/884719) `51条评论` `奇思妙想`
+1. [USB Type C 统治世界](https://www.v2ex.com/t/884719) `52条评论` `奇思妙想`
 1. [码农使用，预算 1.5 万求推荐配置， cpu13900k，内存 128g，磁盘纯固态 1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) `50条评论` `硬件`
 1. [各位 lnmp 是怎么装的](https://www.v2ex.com/t/884682) `46条评论` `Linux`
 1. [价格差不多，买 iPhone 还是 Mac？](https://www.v2ex.com/t/884689) `45条评论` `Apple`
@@ -21,7 +21,7 @@
 1. [据说 macwk 关站了？](https://www.v2ex.com/t/884794) `23条评论` `macOS`
 1. [旧手机当 Linux 服务器的吐槽和讨论](https://www.v2ex.com/t/884743) `22条评论` `Android`
 1. [2022 年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757) `21条评论` `云计算`
-1. [诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) `19条评论` `分享发现`
+1. [诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) `20条评论` `分享发现`
 1. [为什么微信 / QQ 在 iOS 关闭后台刷新功能，进多任务界面上划关掉的情况下还能在后台消耗大量电量？用了什么黑科技保活的？](https://www.v2ex.com/t/884729) `19条评论` `iOS`
 1. [网站加 SSL 证书后打不开](https://www.v2ex.com/t/884694) `18条评论` `分享发现`
 1. [你们的键盘都用多久了？](https://www.v2ex.com/t/884766) `17条评论` `问与答`
@@ -29,11 +29,11 @@
 1. [Apple ID 国区转外区 iCloud 迁移问题](https://www.v2ex.com/t/884782) `14条评论` `iCloud`
 1. [因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) `13条评论` `问与答`
 1. [RMB 求助 Java 支持 WEBP](https://www.v2ex.com/t/884714) `13条评论` `问与答`
-1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `10条评论` `Python`
+1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `11条评论` `Python`
 1. [mysql 容器崩溃，连接未正常关闭，会损坏数据卷，那 redis 呢](https://www.v2ex.com/t/884767) `10条评论` `Docker`
 1. [AirPods Pro 2 体验下来的主要提升点](https://www.v2ex.com/t/884728) `10条评论` `Apple`
 
-数据更新于 2022-10-05 18:38:23
+数据更新于 2022-10-05 19:08:43
 
 <!-- TODAY END -->
 
