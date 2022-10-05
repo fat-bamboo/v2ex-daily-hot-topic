@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下 Pixel、一加和三星了？](https://www.v2ex.com/t/884716) `80条评论` `Android`
-1. [码农使用，预算 1.5 万求推荐配置， cpu13900k，内存 128g，磁盘纯固态 1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) `46条评论` `硬件`
+1. [码农使用，预算 1.5 万求推荐配置， cpu13900k，内存 128g，磁盘纯固态 1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) `50条评论` `硬件`
+1. [USB Type C 统治世界](https://www.v2ex.com/t/884719) `50条评论` `奇思妙想`
 1. [各位 lnmp 是怎么装的](https://www.v2ex.com/t/884682) `46条评论` `Linux`
-1. [USB Type C 统治世界](https://www.v2ex.com/t/884719) `46条评论` `奇思妙想`
-1. [价格差不多，买 iPhone 还是 Mac？](https://www.v2ex.com/t/884689) `44条评论` `Apple`
+1. [价格差不多，买 iPhone 还是 Mac？](https://www.v2ex.com/t/884689) `45条评论` `Apple`
 1. [Bitwarden 支持把密码本和 TOTP 放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) `42条评论` `问与答`
 1. [个人电脑装 Linux ，文件系统选 ext4 还是 btrfs](https://www.v2ex.com/t/884693) `36条评论` `Linux`
 1. [像 天眼查 企查查 这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) `33条评论` `程序员`
@@ -29,11 +29,11 @@
 1. [Apple ID 国区转外区 iCloud 迁移问题](https://www.v2ex.com/t/884782) `14条评论` `iCloud`
 1. [因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) `13条评论` `问与答`
 1. [RMB 求助 Java 支持 WEBP](https://www.v2ex.com/t/884714) `13条评论` `问与答`
+1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `10条评论` `Python`
 1. [mysql 容器崩溃，连接未正常关闭，会损坏数据卷，那 redis 呢](https://www.v2ex.com/t/884767) `10条评论` `Docker`
 1. [AirPods Pro 2 体验下来的主要提升点](https://www.v2ex.com/t/884728) `10条评论` `Apple`
-1. [有没有面板 AP 不用 AC 实现无缝漫游的方案？](https://www.v2ex.com/t/884712) `10条评论` `宽带症候群`
 
-数据更新于 2022-10-05 17:08:58
+数据更新于 2022-10-05 17:56:19
 
 <!-- TODAY END -->
 
