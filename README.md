@@ -8,6 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
+1. [各位 lnmp 是怎么装的](https://www.v2ex.com/t/884682) `16条评论` `Linux`
+1. [Bitwarden 支持把密码本和 TOTP 放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) `9条评论` `问与答`
+1. [价格差不多，买 iPhone 还是 Mac？](https://www.v2ex.com/t/884689) `6条评论` `Apple`
+
+数据更新于 2022-10-05 02:12:04
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [想弄个个人 blog，有推荐的服务器提供商么？](https://www.v2ex.com/t/884582) `56条评论` `Blogger`
 1. [我真的好爱杭州这城市 到处在修路](https://www.v2ex.com/t/884596) `54条评论` `杭州`
 1. [想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) `54条评论` `宽带症候群`
@@ -32,39 +44,6 @@
 1. [三季度过去了，截止当前，本年度（2022）你们的股票（基金）收益怎么样了？欢迎分享投资收益和感悟](https://www.v2ex.com/t/884661) `11条评论` `问与答`
 1. [美区 app store 全面支持中文了](https://www.v2ex.com/t/884604) `11条评论` `Apple`
 1. [iPhone 14 Pro Max 充电自动关机?害人啊](https://www.v2ex.com/t/884601) `11条评论` `Apple`
-
-数据更新于 2022-10-04 23:56:52
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [搬瓦工 gia 日本服务器 443 端口突然被封，墙又高了？](https://www.v2ex.com/t/884476) `75条评论` `VPS`
-1. [找女朋友真的靠缘分吗](https://www.v2ex.com/t/884447) `73条评论` `杭州`
-1. [想換 NAS 系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) `64条评论` `NAS`
-1. [有没有发现今天 WALL 特别高](https://www.v2ex.com/t/884527) `60条评论` `程序员`
-1. [小孩子从几岁开始学计算机编程比较好？](https://www.v2ex.com/t/884505) `45条评论` `程序员`
-1. [Airpods Pro 2， bug 也太多了！](https://www.v2ex.com/t/884461) `40条评论` `Apple`
-1. [讨论一下 iPhone 的游戏表现](https://www.v2ex.com/t/884465) `36条评论` `Apple`
-1. [Ios 还原网络设置后，只有微信没有网络，该怎么办](https://www.v2ex.com/t/884517) `27条评论` `问与答`
-1. [B 站是怎么能给我的小号推送到现实生活中朋友的几乎没人看的视频的？](https://www.v2ex.com/t/884442) `21条评论` `问与答`
-1. [解决 Y 电容漏电流（充电时手机外壳、笔记本金属面微微麻手）的充电方案有哪些？](https://www.v2ex.com/t/884451) `19条评论` `Apple`
-1. [wifi6 路由器选哪个 刚升级了电信千兆网](https://www.v2ex.com/t/884508) `18条评论` `问与答`
-1. [Google 搜索时发现居然有假的 GitHub，还是 gov.cn](https://www.v2ex.com/t/884510) `16条评论` `分享发现`
-1. [AirPods pro 二代有必要买 ac+吗？奔着两年后换新](https://www.v2ex.com/t/884489) `14条评论` `Apple`
-1. [良品铺子坚果 VS 山姆坚果](https://www.v2ex.com/t/884485) `14条评论` `分享发现`
-1. [万里归途 怎么网上没有看的呀](https://www.v2ex.com/t/884537) `13条评论` `电影`
-1. [twitter 上关注账户到达上限了，大家是怎么弄可以继续关注的](https://www.v2ex.com/t/884536) `13条评论` `Twitter`
-1. [如何才能让 esxi 下的 windows 虚拟机显示正常呢？](https://www.v2ex.com/t/884498) `12条评论` `程序员`
-1. [win11 史诗级更新，右键任务栏打开任务管理器功能回归！](https://www.v2ex.com/t/884547) `11条评论` `分享发现`
-1. [海外求职怎么联系猎头](https://www.v2ex.com/t/884523) `10条评论` `求职`
-1. [iPhone ‘文件’系统失灵有没有人遇到过？](https://www.v2ex.com/t/884507) `10条评论` `iPhone`
-1. [单机游戏管理软件](https://www.v2ex.com/t/884439) `10条评论` `问与答`
-1. [用无刻键盘的话，能相对比较熟练的定位特殊符号吗？](https://www.v2ex.com/t/884545) `8条评论` `问与答`
-1. [微软邮箱被人频繁尝试登陆几年从不间断](https://www.v2ex.com/t/884544) `8条评论` `问与答`
-1. [打电话给爷爷，聊天的时候说想见我找个女朋友了，哎](https://www.v2ex.com/t/884525) `8条评论` `生活`
 
 <!-- YESTERDAY END -->
 
