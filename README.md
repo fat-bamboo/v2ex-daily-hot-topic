@@ -14,7 +14,7 @@
 1. [各位 lnmp 是怎么装的](https://www.v2ex.com/t/884682) `46条评论` `Linux`
 1. [价格差不多，买 iPhone 还是 Mac？](https://www.v2ex.com/t/884689) `45条评论` `Apple`
 1. [Bitwarden 支持把密码本和 TOTP 放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) `42条评论` `问与答`
-1. [个人电脑装 Linux ，文件系统选 ext4 还是 btrfs](https://www.v2ex.com/t/884693) `36条评论` `Linux`
+1. [个人电脑装 Linux ，文件系统选 ext4 还是 btrfs](https://www.v2ex.com/t/884693) `37条评论` `Linux`
 1. [像 天眼查 企查查 这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) `33条评论` `程序员`
 1. [突发奇想，国内是不是需要一个 好思路？](https://www.v2ex.com/t/884717) `27条评论` `奇思妙想`
 1. [乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) `24条评论` `分享创造`
@@ -33,7 +33,7 @@
 1. [mysql 容器崩溃，连接未正常关闭，会损坏数据卷，那 redis 呢](https://www.v2ex.com/t/884767) `10条评论` `Docker`
 1. [AirPods Pro 2 体验下来的主要提升点](https://www.v2ex.com/t/884728) `10条评论` `Apple`
 
-数据更新于 2022-10-05 20:47:46
+数据更新于 2022-10-05 20:59:44
 
 <!-- TODAY END -->
 
