@@ -29,11 +29,11 @@
 1. [Apple ID 国区转外区 iCloud 迁移问题](https://www.v2ex.com/t/884782) `14条评论` `iCloud`
 1. [因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) `13条评论` `问与答`
 1. [RMB 求助 Java 支持 WEBP](https://www.v2ex.com/t/884714) `13条评论` `问与答`
-1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `11条评论` `Python`
+1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `12条评论` `Python`
 1. [mysql 容器崩溃，连接未正常关闭，会损坏数据卷，那 redis 呢](https://www.v2ex.com/t/884767) `10条评论` `Docker`
 1. [AirPods Pro 2 体验下来的主要提升点](https://www.v2ex.com/t/884728) `10条评论` `Apple`
 
-数据更新于 2022-10-05 20:22:27
+数据更新于 2022-10-05 20:47:46
 
 <!-- TODAY END -->
 
