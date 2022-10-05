@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下 Pixel、一加和三星了？](https://www.v2ex.com/t/884716) `82条评论` `Android`
-1. [USB Type C 统治世界](https://www.v2ex.com/t/884719) `55条评论` `奇思妙想`
+1. [USB Type C 统治世界](https://www.v2ex.com/t/884719) `56条评论` `奇思妙想`
 1. [码农使用，预算 1.5 万求推荐配置， cpu13900k，内存 128g，磁盘纯固态 1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) `51条评论` `硬件`
 1. [各位 lnmp 是怎么装的](https://www.v2ex.com/t/884682) `46条评论` `Linux`
 1. [价格差不多，买 iPhone 还是 Mac？](https://www.v2ex.com/t/884689) `45条评论` `Apple`
@@ -26,14 +26,14 @@
 1. [网站加 SSL 证书后打不开](https://www.v2ex.com/t/884694) `18条评论` `分享发现`
 1. [你们的键盘都用多久了？](https://www.v2ex.com/t/884766) `17条评论` `问与答`
 1. [沿海地区买房考虑战争因素是多虑了嘛？](https://www.v2ex.com/t/884790) `16条评论` `问与答`
+1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `14条评论` `Python`
 1. [Apple ID 国区转外区 iCloud 迁移问题](https://www.v2ex.com/t/884782) `14条评论` `iCloud`
-1. [我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的 ai 程序需要多久](https://www.v2ex.com/t/884804) `13条评论` `Python`
 1. [因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) `13条评论` `问与答`
 1. [RMB 求助 Java 支持 WEBP](https://www.v2ex.com/t/884714) `13条评论` `问与答`
+1. [绝对自由后是否还存在欲望？欲望是否有止境？](https://www.v2ex.com/t/884826) `10条评论` `奇思妙想`
 1. [原来 AirPods Pro 一代的硬件是会“老化”的](https://www.v2ex.com/t/884817) `10条评论` `Apple`
-1. [mysql 容器崩溃，连接未正常关闭，会损坏数据卷，那 redis 呢](https://www.v2ex.com/t/884767) `10条评论` `Docker`
 
-数据更新于 2022-10-05 21:57:41
+数据更新于 2022-10-05 22:29:43
 
 <!-- TODAY END -->
 
