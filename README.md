@@ -16,13 +16,13 @@
 1. [来来来，让大学生看看这道二年级的题怎么做](https://www.v2ex.com/t/884835) `35条评论` `问与答`
 1. [搜自建 NAS 网盘，头晕眼花，求各位前辈答疑解惑并分享下可靠方案。](https://www.v2ex.com/t/884857) `33条评论` `问与答`
 1. [刚让小孩学用 mac，推荐下 MAC 应用网站？](https://www.v2ex.com/t/884915) `31条评论` `macOS`
-1. [分享一个纽约本地博主的油管频道](https://www.v2ex.com/t/884851) `26条评论` `YouTube`
+1. [分享一个纽约本地博主的油管频道](https://www.v2ex.com/t/884851) `27条评论` `YouTube`
 1. [ios16.1beta4 新增“从其他 App 粘贴”开关](https://www.v2ex.com/t/884865) `26条评论` `iOS`
 1. [关于 mysql count 太慢的问题](https://www.v2ex.com/t/884917) `26条评论` `MySQL`
 1. [求 WiFi5(150 元)便宜的千兆路由器推荐](https://www.v2ex.com/t/884902) `24条评论` `路由器`
 1. [Explorer Patcher 治好了我的强迫症](https://www.v2ex.com/t/884861) `19条评论` `Windows`
+1. [介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950) `17条评论` `问与答`
 1. [昆仑神宫完了，感觉还不错，没网上评论的糟糕， 10 分能给 7-8 分。](https://www.v2ex.com/t/884876) `17条评论` `剧集`
-1. [介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950) `16条评论` `问与答`
 1. [嵌入式软件工程师有什么前景吗？](https://www.v2ex.com/t/884910) `16条评论` `职场话题`
 1. [很多博主说的 K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940) `15条评论` `Kubernetes`
 1. [AWS/Azure/GCP Kubernetes 服务性价比比较](https://www.v2ex.com/t/884864) `15条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [C++一个指针，我怎么知道传进来的地址是在堆上还是在栈上？](https://www.v2ex.com/t/884939) `12条评论` `程序员`
 1. [一个 Acfun 客户端，基于 compose 跨平台技术，支持 Desktop 和 Android。](https://www.v2ex.com/t/884920) `12条评论` `分享创造`
 
-数据更新于 2022-10-06 20:22:49
+数据更新于 2022-10-06 20:48:08
 
 <!-- TODAY END -->
 
