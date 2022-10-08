@@ -8,6 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
+1. [国庆收获了什么？](https://www.v2ex.com/t/885130) `55条评论` `随想`
+1. [纯吐槽， IOS 自带闹钟不能加入节假日功能吗](https://www.v2ex.com/t/885133) `35条评论` `Apple`
+1. [讲一次爬虫基础课，欢迎收看](https://www.v2ex.com/t/885125) `21条评论` `程序员`
+1. [是不是大城市打工的衰老的特别快](https://www.v2ex.com/t/885126) `18条评论` `生活`
+1. [车尾有没有必要安装行车记录仪？](https://www.v2ex.com/t/885135) `11条评论` `问与答`
+1. [国庆完了还是没收到 win11 22h2 推送，用微软官方助手更新显示不兼容，但原因又不明，是有什么 bug 还没解决吗？](https://www.v2ex.com/t/885131) `11条评论` `问与答`
+1. [[ Java 笑话]public static void main(String[] args){}](https://www.v2ex.com/t/885128) `9条评论` `Java`
+1. [国庆 7 天长假你们内卷了吗？](https://www.v2ex.com/t/885137) `6条评论` `程序员`
+1. [如何禁止支付宝自动刷脸😅](https://www.v2ex.com/t/885134) `6条评论` `Android`
+
+数据更新于 2022-10-08 02:01:33
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [用了很久的微信被封了](https://www.v2ex.com/t/885018) `180条评论` `微信`
 1. [十一回上海被封](https://www.v2ex.com/t/884961) `70条评论` `生活`
 1. [如今国产 android，都这样明目张胆了嘛](https://www.v2ex.com/t/885075) `47条评论` `Android`
@@ -32,39 +50,6 @@
 1. [Linux 系统上如何设置让某一个用户创建的进程几乎完全不影响到系统上其它用户进程的调度？](https://www.v2ex.com/t/885004) `12条评论` `Linux`
 1. [北京的朋友们有用移动的吗移动玩游戏现在怎么样?](https://www.v2ex.com/t/884980) `12条评论` `宽带症候群`
 1. [有什么适合职场新人看的电视剧吗？](https://www.v2ex.com/t/885097) `11条评论` `问与答`
-
-数据更新于 2022-10-07 23:56:55
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？](https://www.v2ex.com/t/884871) `73条评论` `问与答`
-1. [带宽马上破千兆了，墙里的网线怎么办](https://www.v2ex.com/t/884849) `45条评论` `问与答`
-1. [大家觉得程序员三十岁前税前年薪多少能在北上广深扎根？](https://www.v2ex.com/t/884858) `44条评论` `问与答`
-1. [天气凉了，有需要毛衣的吗？款式还是挺多的。](https://www.v2ex.com/t/884846) `40条评论` `推广`
-1. [参加活动认识的妹纸，要找个啥理由从微信群去加对方微信](https://www.v2ex.com/t/884889) `40条评论` `问与答`
-1. [来来来，让大学生看看这道二年级的题怎么做](https://www.v2ex.com/t/884835) `35条评论` `问与答`
-1. [搜自建 NAS 网盘，头晕眼花，求各位前辈答疑解惑并分享下可靠方案。](https://www.v2ex.com/t/884857) `33条评论` `问与答`
-1. [刚让小孩学用 mac，推荐下 MAC 应用网站？](https://www.v2ex.com/t/884915) `33条评论` `macOS`
-1. [分享一个纽约本地博主的油管频道](https://www.v2ex.com/t/884851) `27条评论` `YouTube`
-1. [ios16.1beta4 新增“从其他 App 粘贴”开关](https://www.v2ex.com/t/884865) `26条评论` `iOS`
-1. [关于 mysql count 太慢的问题](https://www.v2ex.com/t/884917) `26条评论` `MySQL`
-1. [求 WiFi5(150 元)便宜的千兆路由器推荐](https://www.v2ex.com/t/884902) `24条评论` `路由器`
-1. [介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950) `19条评论` `问与答`
-1. [Explorer Patcher 治好了我的强迫症](https://www.v2ex.com/t/884861) `19条评论` `Windows`
-1. [昆仑神宫完了，感觉还不错，没网上评论的糟糕， 10 分能给 7-8 分。](https://www.v2ex.com/t/884876) `17条评论` `剧集`
-1. [嵌入式软件工程师有什么前景吗？](https://www.v2ex.com/t/884910) `16条评论` `职场话题`
-1. [很多博主说的 K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940) `15条评论` `Kubernetes`
-1. [M1 MacBook Air 外接 24 寸显示器分辨率该怎么选，有推荐的型号吗？](https://www.v2ex.com/t/884930) `15条评论` `Apple`
-1. [AWS/Azure/GCP Kubernetes 服务性价比比较](https://www.v2ex.com/t/884864) `15条评论` `程序员`
-1. [请问 Mac 上有没有推荐的移动硬盘，想入手一个，谢谢大家。](https://www.v2ex.com/t/884898) `14条评论` `macOS`
-1. [有什么框架能够把本地命令包装成 web api 的吗？](https://www.v2ex.com/t/884848) `14条评论` `程序员`
-1. [x86 架构的多 cpu 服务器是否就是 NUMA 架构？](https://www.v2ex.com/t/884899) `13条评论` `Linux`
-1. [C++一个指针，我怎么知道传进来的地址是在堆上还是在栈上？](https://www.v2ex.com/t/884939) `12条评论` `程序员`
-1. [一个 Acfun 客户端，基于 compose 跨平台技术，支持 Desktop 和 Android。](https://www.v2ex.com/t/884920) `12条评论` `分享创造`
 
 <!-- YESTERDAY END -->
 
