@@ -8,6 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
+1. [国庆七天假期没睡觉！终于上线 iTelevision，现在分享给大家。感谢大家支持。](https://www.v2ex.com/t/885414) `119条评论` `iPhone`
+1. [请问 Mojave 15 款 MacBook pro 是否支持 AirPlay 到 Apple TV4k 2021](https://www.v2ex.com/t/885415) `8条评论` `Apple`
+1. [HTML 修改 css 属性问题](https://www.v2ex.com/t/885418) `7条评论` `问与答`
+
+数据更新于 2022-10-09 01:57:11
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [国庆收获了什么？](https://www.v2ex.com/t/885130) `181条评论` `随想`
 1. [纯吐槽， IOS 自带闹钟不能加入节假日功能吗](https://www.v2ex.com/t/885133) `132条评论` `Apple`
 1. [正确的指法应该成为职场人的基本要求吗？](https://www.v2ex.com/t/885230) `126条评论` `程序员`
@@ -32,39 +44,6 @@
 1. [windows 环境，有无绿色的 markdown 编辑器？](https://www.v2ex.com/t/885311) `16条评论` `Markdown`
 1. [程序员的六边形会是哪六个维度？](https://www.v2ex.com/t/885153) `16条评论` `程序员`
 1. [求推荐个双 C 口的充电头](https://www.v2ex.com/t/885344) `15条评论` `问与答`
-
-数据更新于 2022-10-08 23:55:11
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [用了很久的微信被封了](https://www.v2ex.com/t/885018) `180条评论` `微信`
-1. [十一回上海被封](https://www.v2ex.com/t/884961) `70条评论` `生活`
-1. [如今国产 android，都这样明目张胆了嘛](https://www.v2ex.com/t/885075) `47条评论` `Android`
-1. [[提问]大家是如何解决电子 ED 的？](https://www.v2ex.com/t/884992) `45条评论` `问与答`
-1. [有没有这样一个开源应用？可以存储 epub， mobi 等格式的书籍，然后拿起任何一部设备都能读？](https://www.v2ex.com/t/884988) `42条评论` `问与答`
-1. [每年看到类似的视频都会有点感慨](https://www.v2ex.com/t/884975) `37条评论` `Apple`
-1. [求推荐壳子、膜](https://www.v2ex.com/t/884997) `34条评论` `Apple`
-1. [五年前的笔记本， i5-8300H，请问有必要把内存加到 64G 吗？](https://www.v2ex.com/t/885071) `33条评论` `问与答`
-1. [`ad hoc`到底是什么意思](https://www.v2ex.com/t/884985) `33条评论` `程序员`
-1. [近日使用 v2ray 节点遇到的问题 ，拿出来探讨一下](https://www.v2ex.com/t/885062) `26条评论` `Linux`
-1. [求推荐几本程序员读的书](https://www.v2ex.com/t/885054) `18条评论` `程序员`
-1. [请教 满减算法](https://www.v2ex.com/t/884974) `17条评论` `程序员`
-1. [百度网盘可以借鉴 PT 的玩法的，人人辅种，提供差异化服务策略](https://www.v2ex.com/t/884967) `17条评论` `分享发现`
-1. [为什么没有云磁带归档备份服务？](https://www.v2ex.com/t/885079) `16条评论` `奇思妙想`
-1. [请问多装一条宽带应该怎么办呢](https://www.v2ex.com/t/885014) `15条评论` `宽带症候群`
-1. [为什么一直有 iPhone 13/14 Pro 锁 80Hz 的传言？](https://www.v2ex.com/t/885002) `15条评论` `iPhone`
-1. [节后要从深圳去北京，但北京健康宝显示弹框 3，如何解决？](https://www.v2ex.com/t/884970) `15条评论` `深圳`
-1. [求教个 PHP 的 substr 问题 ....](https://www.v2ex.com/t/884964) `15条评论` `PHP`
-1. [24 岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109) `14条评论` `程序员`
-1. [iMac 5K 屏幕被搞坏了 😅](https://www.v2ex.com/t/885083) `13条评论` `iMac`
-1. [内网主机通过域名访问路由器流量会过外网吗？](https://www.v2ex.com/t/884972) `13条评论` `问与答`
-1. [Linux 系统上如何设置让某一个用户创建的进程几乎完全不影响到系统上其它用户进程的调度？](https://www.v2ex.com/t/885004) `12条评论` `Linux`
-1. [北京的朋友们有用移动的吗移动玩游戏现在怎么样?](https://www.v2ex.com/t/884980) `12条评论` `宽带症候群`
-1. [有什么适合职场新人看的电视剧吗？](https://www.v2ex.com/t/885097) `11条评论` `问与答`
 
 <!-- YESTERDAY END -->
 
