@@ -8,11 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [把每一 bug 都当最后一 bug 来修, 然后也不要重构](https://www.v2ex.com/t/886806) `68条评论` `程序员`
-1. [心心念的千兆办下来了，现在很空虚](https://www.v2ex.com/t/886823) `68条评论` `宽带症候群`
-1. [v 友们分享一下你的 Twitter 账号， 大家互相认识。](https://www.v2ex.com/t/886860) `44条评论` `分享发现`
+1. [心心念的千兆办下来了，现在很空虚](https://www.v2ex.com/t/886823) `73条评论` `宽带症候群`
+1. [把每一 bug 都当最后一 bug 来修, 然后也不要重构](https://www.v2ex.com/t/886806) `72条评论` `程序员`
+1. [求助 卖了个 mbp M1pro 14 寸，现在买家要退货](https://www.v2ex.com/t/886881) `50条评论` `问与答`
+1. [v 友们分享一下你的 Twitter 账号， 大家互相认识。](https://www.v2ex.com/t/886860) `49条评论` `分享发现`
 1. [[送兑换码] API 测试工具 Gotcha HTTP Client 更新 1.5.3 版本 🎉🎉🎉 macOS 上最好用的 API 测试工具，现已支持 Request Chain， Base64 编码和 MD5 计算功能](https://www.v2ex.com/t/886868) `31条评论` `分享创造`
-1. [求助 卖了个 mbp M1pro 14 寸，现在买家要退货](https://www.v2ex.com/t/886881) `29条评论` `问与答`
+1. [为了公司发展，需要我们软件部门全员改合约到老板的一家新公司，会有什么风险吗](https://www.v2ex.com/t/886929) `29条评论` `程序员`
 1. [这个 gitee 项目的 REMDME.md 哪个会是敏感词](https://www.v2ex.com/t/886895) `22条评论` `程序员`
 1. [求前端入门视频教程；最好是整套的；](https://www.v2ex.com/t/886871) `18条评论` `程序员`
 1. [兄弟们给推荐个台灯吧](https://www.v2ex.com/t/886861) `18条评论` `程序员`
@@ -26,14 +27,13 @@
 1. [就业状况这么严峻了么？](https://www.v2ex.com/t/886896) `12条评论` `酷工作`
 1. [Windows 睡眠唤醒只能按开机键吗？](https://www.v2ex.com/t/886873) `11条评论` `Windows`
 1. [闲置搬瓦工 2018 Black Friday Special V3 CN2 GIA 出售询价](https://www.v2ex.com/t/886858) `11条评论` `VPS`
-1. [为了公司发展，需要我们软件部门全员改合约到老板的一家新公司，会有什么风险吗](https://www.v2ex.com/t/886929) `10条评论` `程序员`
 1. [IDEA 如何查询筛选子类调用父类方法？](https://www.v2ex.com/t/886828) `10条评论` `Java`
 1. [iPhone 14 如何实现充电时候开启 AOD，不充电的时候自动关闭 AOD？](https://www.v2ex.com/t/886817) `10条评论` `iPhone`
 1. [Github 学生包认证失败](https://www.v2ex.com/t/886883) `9条评论` `GitHub`
 1. [关于显示器选购与眼屏距离、桌面深度的调查](https://www.v2ex.com/t/886824) `9条评论` `分享发现`
 1. [个人开源的 pcl.js 上了阮一峰的科技爱好者周刊](https://www.v2ex.com/t/886814) `8条评论` `程序员`
 
-数据更新于 2022-10-14 07:05:01
+数据更新于 2022-10-14 07:46:01
 
 <!-- TODAY END -->
 
