@@ -8,18 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [什么设计鬼才，什么电子垃圾](https://www.v2ex.com/t/887984) `46条评论` `Apple`
+1. [什么设计鬼才，什么电子垃圾](https://www.v2ex.com/t/887984) `90条评论` `Apple`
+1. [试问一头猪怎么找对象](https://www.v2ex.com/t/888017) `63条评论` `杭州`
+1. [看最近 V 站上几个结婚帖子有感](https://www.v2ex.com/t/888031) `41条评论` `生活`
 1. [什么 iPad10 啊？叫它砍一刀版 Air4](https://www.v2ex.com/t/887985) `27条评论` `Apple`
 1. [2022 年了，买什么净水器比较好？](https://www.v2ex.com/t/887996) `20条评论` `问与答`
+1. [用过很多笔记，最终回到了 obsidian](https://www.v2ex.com/t/888029) `19条评论` `分享发现`
 1. [或者程序员需要这个域名](https://www.v2ex.com/t/887990) `18条评论` `程序员`
 1. [用“氮化镓+诱骗线”给软路由供电的可行性疑问](https://www.v2ex.com/t/887987) `18条评论` `问与答`
+1. [杭州有购房资格或者想投资的朋友么？](https://www.v2ex.com/t/888051) `17条评论` `杭州`
 1. [watch 在家木地板弄出了划痕= =](https://www.v2ex.com/t/887999) `14条评论` `Apple`
 1. [http://liangshan.gov.cn:5555/login](https://www.v2ex.com/t/887986) `14条评论` `全球工单系统`
 1. [今年 mbp 还有希望更新么](https://www.v2ex.com/t/887991) `12条评论` `Apple`
+1. [想问问各位一般把大量照片储存在哪里，云盘？本地？求推荐](https://www.v2ex.com/t/888054) `11条评论` `问与答`
+1. [Type C 有无可能取消公母？](https://www.v2ex.com/t/888046) `11条评论` `奇思妙想`
+1. [恋爱中的人生活中会感觉孤单吗](https://www.v2ex.com/t/888039) `11条评论` `生活`
 1. [Apple TV 4K 出来了，有什么购买渠道？](https://www.v2ex.com/t/887994) `11条评论` `Apple TV`
+1. [iPad 涨价和汇率有关系么，不会后面 mac 和 iPhone 也涨价吧](https://www.v2ex.com/t/888025) `10条评论` `Apple`
+1. [熊孩子打篮球噪音扰民，用液压钳暴力剪掉篮筐是否合适？](https://www.v2ex.com/t/888056) `8条评论` `生活`
+1. [iPad Pro 更新了，库克他真的温柔。](https://www.v2ex.com/t/888030) `8条评论` `Apple`
+1. [Let's encrypt 的 SSL 证书最近有啥问题吗](https://www.v2ex.com/t/888044) `7条评论` `问与答`
+1. [[北京]瓴岳科技内推~](https://www.v2ex.com/t/888028) `6条评论` `酷工作`
 1. [看着手里每次发布新 iPad 都会升值的 iPad Pro 2018 ，陷入了沉思](https://www.v2ex.com/t/888009) `6条评论` `Apple`
 
-数据更新于 2022-10-19 02:01:46
+数据更新于 2022-10-19 04:27:50
 
 <!-- TODAY END -->
 
