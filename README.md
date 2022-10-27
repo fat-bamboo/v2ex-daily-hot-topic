@@ -33,7 +33,7 @@
 1. [求一个 yubikey 优惠码](https://www.v2ex.com/t/890369) `12条评论` `YubiKey`
 1. [求推荐 > mbp 相对适用的外接显示器](https://www.v2ex.com/t/890301) `12条评论` `MacBook Pro`
 
-数据更新于 2022-10-27 21:34:56
+数据更新于 2022-10-27 21:48:05
 
 <!-- TODAY END -->
 
