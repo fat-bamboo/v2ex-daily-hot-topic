@@ -13,7 +13,7 @@
 1. [我终究还是小看了 AI](https://www.v2ex.com/t/890250) `97条评论` `随想`
 1. [老婆是证券公司职员，能不能把自己的股票账户借给老婆炒股](https://www.v2ex.com/t/890244) `97条评论` `生活`
 1. [2022 找不到理由续费 Jetbrains 全家桶](https://www.v2ex.com/t/890315) `79条评论` `程序员`
-1. [苹果全球营销副总裁表示，为遵守欧盟新规，苹果将将 iPhone 和其他 Lightning 接口的设备改为 USB-C。](https://www.v2ex.com/t/890242) `70条评论` `Apple`
+1. [苹果全球营销副总裁表示，为遵守欧盟新规，苹果将将 iPhone 和其他 Lightning 接口的设备改为 USB-C。](https://www.v2ex.com/t/890242) `71条评论` `Apple`
 1. [怎么看待请求参数 JSON 数据包里再包 JSON 数据](https://www.v2ex.com/t/890284) `55条评论` `程序员`
 1. [丛集性头疼又发作了](https://www.v2ex.com/t/890279) `52条评论` `程序员`
 1. [共享厨师计划有人入场吗](https://www.v2ex.com/t/890349) `52条评论` `奇思妙想`
@@ -33,7 +33,7 @@
 1. [求一个 yubikey 优惠码](https://www.v2ex.com/t/890369) `12条评论` `YubiKey`
 1. [求推荐 > mbp 相对适用的外接显示器](https://www.v2ex.com/t/890301) `12条评论` `MacBook Pro`
 
-数据更新于 2022-10-27 20:43:12
+数据更新于 2022-10-27 20:55:51
 
 <!-- TODAY END -->
 
