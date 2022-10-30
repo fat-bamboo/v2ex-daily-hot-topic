@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131) `46条评论` `程序员`
+1. [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131) `49条评论` `程序员`
+1. [大家现在手头上最古老还服役的 Apple 产品](https://www.v2ex.com/t/891165) `47条评论` `Apple`
 1. [虎躯一震：升降桌内暗藏摄像头](https://www.v2ex.com/t/891101) `45条评论` `分享发现`
-1. [大家现在手头上最古老还服役的 Apple 产品](https://www.v2ex.com/t/891165) `41条评论` `Apple`
-1. [安卓手机怎么选](https://www.v2ex.com/t/891114) `38条评论` `问与答`
-1. [聊一下 “小而精” 的 C++方向，或者说是 ”不易被替代“ IT 方向](https://www.v2ex.com/t/891097) `30条评论` `程序员`
+1. [安卓手机怎么选](https://www.v2ex.com/t/891114) `43条评论` `问与答`
+1. [聊一下 “小而精” 的 C++方向，或者说是 ”不易被替代“ IT 方向](https://www.v2ex.com/t/891097) `31条评论` `程序员`
 1. [M1 游戏性能牛逼了，原生的生化危机 8 好稳](https://www.v2ex.com/t/891152) `25条评论` `Apple`
 1. [iPad pro 2020 12.9 还是 iPad air 5](https://www.v2ex.com/t/891082) `22条评论` `Apple`
+1. [标准指法适合编程吗](https://www.v2ex.com/t/891157) `18条评论` `程序员`
 1. [决赛圈了！麻烦大佬们来帮我做一下 4K 显示器的最后选择](https://www.v2ex.com/t/891141) `18条评论` `问与答`
-1. [重度使用整一年 MacBook Pro 14，总结下遇到的所有通病（损耗）](https://www.v2ex.com/t/891176) `15条评论` `Apple`
+1. [重度使用整一年 MacBook Pro 14，总结下遇到的所有通病（损耗）](https://www.v2ex.com/t/891176) `16条评论` `Apple`
 1. [如何在三个月内将 Linux 学到能找到工作的程度](https://www.v2ex.com/t/891120) `15条评论` `Linux`
 1. [难道没有人像我一样喜欢极简风格的网站导航？](https://www.v2ex.com/t/891086) `15条评论` `分享发现`
-1. [标准指法适合编程吗](https://www.v2ex.com/t/891157) `14条评论` `程序员`
 1. [网络工程师交流群](https://www.v2ex.com/t/891098) `14条评论` `分享发现`
 1. [李哥要活出第四世了吧](https://www.v2ex.com/t/891089) `14条评论` `英雄联盟`
 1. [人是会变的，而且大部分是往下堕落](https://www.v2ex.com/t/891172) `13条评论` `随想`
 1. [RustDesk 远程桌面服务端手动搭建，完美替代 Todesk](https://www.v2ex.com/t/891123) `13条评论` `云计算`
+1. [周末摆烂综合征](https://www.v2ex.com/t/891175) `12条评论` `程序员`
 1. [吐个槽， Lastpass 我真服了，艾玛](https://www.v2ex.com/t/891116) `11条评论` `分享发现`
 1. [这个贼船套餐值吗？丐吗？](https://www.v2ex.com/t/891091) `11条评论` `硬件`
 1. [人在国内年入 12 万美元欧洲远程工作四年经验分享（二）](https://www.v2ex.com/t/891169) `10条评论` `职场话题`
 1. [马上都要过兔年了，想买个台式机用的 Windows hello 摄像头，为什么这么难？](https://www.v2ex.com/t/891130) `10条评论` `问与答`
 1. [请推荐和 TailwindCSS 配合的 UI 组件库](https://www.v2ex.com/t/891088) `10条评论` `程序员`
-1. [周末摆烂综合征](https://www.v2ex.com/t/891175) `9条评论` `程序员`
 1. [也来询价：闲置搬瓦工 SPECIAL 20G KVM PROMO V5 - LOS ANGELES - CN2 GIA ECOMMERCE](https://www.v2ex.com/t/891168) `8条评论` `VPS`
 1. [美区 App Store 充值方式推荐](https://www.v2ex.com/t/891136) `8条评论` `App Store`
 
-数据更新于 2022-10-30 09:59:14
+数据更新于 2022-10-30 10:27:56
 
 <!-- TODAY END -->
 
