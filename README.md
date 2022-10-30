@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [虎躯一震：升降桌内暗藏摄像头](https://www.v2ex.com/t/891101) `38条评论` `分享发现`
-1. [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131) `37条评论` `程序员`
-1. [安卓手机怎么选](https://www.v2ex.com/t/891114) `29条评论` `问与答`
-1. [聊一下 “小而精” 的 C++方向，或者说是 ”不易被替代“ IT 方向](https://www.v2ex.com/t/891097) `26条评论` `程序员`
-1. [大家现在手头上最古老还服役的 Apple 产品](https://www.v2ex.com/t/891165) `24条评论` `Apple`
-1. [M1 游戏性能牛逼了，原生的生化危机 8 好稳](https://www.v2ex.com/t/891152) `22条评论` `Apple`
+1. [虎躯一震：升降桌内暗藏摄像头](https://www.v2ex.com/t/891101) `41条评论` `分享发现`
+1. [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131) `38条评论` `程序员`
+1. [安卓手机怎么选](https://www.v2ex.com/t/891114) `31条评论` `问与答`
+1. [大家现在手头上最古老还服役的 Apple 产品](https://www.v2ex.com/t/891165) `29条评论` `Apple`
+1. [聊一下 “小而精” 的 C++方向，或者说是 ”不易被替代“ IT 方向](https://www.v2ex.com/t/891097) `28条评论` `程序员`
+1. [M1 游戏性能牛逼了，原生的生化危机 8 好稳](https://www.v2ex.com/t/891152) `23条评论` `Apple`
 1. [iPad pro 2020 12.9 还是 iPad air 5](https://www.v2ex.com/t/891082) `22条评论` `Apple`
 1. [决赛圈了！麻烦大佬们来帮我做一下 4K 显示器的最后选择](https://www.v2ex.com/t/891141) `18条评论` `问与答`
 1. [如何在三个月内将 Linux 学到能找到工作的程度](https://www.v2ex.com/t/891120) `15条评论` `Linux`
@@ -26,14 +26,14 @@
 1. [这个贼船套餐值吗？丐吗？](https://www.v2ex.com/t/891091) `11条评论` `硬件`
 1. [马上都要过兔年了，想买个台式机用的 Windows hello 摄像头，为什么这么难？](https://www.v2ex.com/t/891130) `10条评论` `问与答`
 1. [请推荐和 TailwindCSS 配合的 UI 组件库](https://www.v2ex.com/t/891088) `10条评论` `程序员`
+1. [人在国内年入 12 万美元欧洲远程工作四年经验分享（二）](https://www.v2ex.com/t/891169) `9条评论` `职场话题`
 1. [也来询价：闲置搬瓦工 SPECIAL 20G KVM PROMO V5 - LOS ANGELES - CN2 GIA ECOMMERCE](https://www.v2ex.com/t/891168) `8条评论` `VPS`
 1. [美区 App Store 充值方式推荐](https://www.v2ex.com/t/891136) `8条评论` `App Store`
 1. [免登录查看全球 App Store 应用信息，新开了一个 TestFlight 链接，坑位先到先得。](https://www.v2ex.com/t/891093) `8条评论` `iPhone`
+1. [人是会变的，而且大部分是往下堕落](https://www.v2ex.com/t/891172) `7条评论` `随想`
 1. [OpenWrt 多网口桥接配置求助](https://www.v2ex.com/t/891158) `7条评论` `OpenWrt`
-1. [调查贴：你们的 nas 是局域网访问还是公网访问呀？](https://www.v2ex.com/t/891126) `7条评论` `问与答`
-1. [用 wordpress 建了一个博客，直接就能用了吗，买服务器那个步骤在哪个环节呀！](https://www.v2ex.com/t/891108) `7条评论` `问与答`
 
-数据更新于 2022-10-30 08:31:29
+数据更新于 2022-10-30 08:51:52
 
 <!-- TODAY END -->
 
