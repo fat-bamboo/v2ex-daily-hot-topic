@@ -8,24 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么有的人目光短浅](https://www.v2ex.com/t/891321) `49条评论` `问与答`
-1. [深圳的办公楼一直 24 小时，好烦啊！](https://www.v2ex.com/t/891356) `41条评论` `深圳`
+1. [深圳的办公楼一直 24 小时，好烦啊！](https://www.v2ex.com/t/891356) `61条评论` `深圳`
+1. [为什么有的人目光短浅](https://www.v2ex.com/t/891321) `53条评论` `问与答`
 1. [女朋友让我陪她去法国工作](https://www.v2ex.com/t/891341) `30条评论` `问与答`
+1. [一直搞不懂，为什么不能用火药 or 炸药来为汽车气缸做功？](https://www.v2ex.com/t/891369) `24条评论` `问与答`
+1. [帮忙推荐几款 68 键的机械键盘？](https://www.v2ex.com/t/891351) `23条评论` `问与答`
 1. [由于体检的息肉问题想请教下百万医保的问题](https://www.v2ex.com/t/891311) `22条评论` `问与答`
-1. [帮忙推荐几款 68 键的机械键盘？](https://www.v2ex.com/t/891351) `21条评论` `问与答`
-1. [一直搞不懂，为什么不能用火药 or 炸药来为汽车气缸做功？](https://www.v2ex.com/t/891369) `16条评论` `问与答`
 1. [你们的 iwatchs7 电池容量还剩多少](https://www.v2ex.com/t/891344) `15条评论` `Apple`
 1. [日常吐槽张小龙拍一拍](https://www.v2ex.com/t/891298) `15条评论` `微信`
 1. [在 MAC 上使用的 SSH 客户端](https://www.v2ex.com/t/891314) `14条评论` `问与答`
 1. [并夕夕 pro 14 上车了， 10690](https://www.v2ex.com/t/891294) `13条评论` `MacBook Pro`
+1. [这 Ventura 就是一个半成品](https://www.v2ex.com/t/891359) `10条评论` `macOS`
+1. [为什么汽车的油门不设计成“油门踩到底 === 急刹/松油门”？（周一摸鱼）](https://www.v2ex.com/t/891394) `9条评论` `问与答`
+1. [你们闭上眼睛看到的是啥？。。](https://www.v2ex.com/t/891392) `9条评论` `问与答`
 1. [我与某人因是否应该记住代码而发生挣执[The conflict between me and somebody over whether to remember codes]](https://www.v2ex.com/t/891338) `9条评论` `程序员`
-1. [这 Ventura 就是一个半成品](https://www.v2ex.com/t/891359) `8条评论` `macOS`
+1. [练了 4 个月八部金刚功](https://www.v2ex.com/t/891381) `8条评论` `生活`
+1. [项目中使用的服务到期/资源耗尽应该谁负责处理](https://www.v2ex.com/t/891373) `7条评论` `问与答`
+1. [Python 的多层嵌套循环如何优化？](https://www.v2ex.com/t/891370) `7条评论` `Python`
 1. [如何实现付费下载功能？](https://www.v2ex.com/t/891301) `7条评论` `程序员`
 1. [如何加入一个读书互助圈子](https://www.v2ex.com/t/891299) `7条评论` `问与答`
-1. [项目中使用的服务到期/资源耗尽应该谁负责处理](https://www.v2ex.com/t/891373) `6条评论` `问与答`
+1. [你们会娶一穷二白的女生吗？](https://www.v2ex.com/t/891399) `6条评论` `知乎`
+1. [有没有 apple news 平替产品？](https://www.v2ex.com/t/891393) `6条评论` `Apple`
 1. [980 PRO 1T SSD 京东 799](https://www.v2ex.com/t/891300) `6条评论` `京东`
 
-数据更新于 2022-10-31 03:50:47
+数据更新于 2022-10-31 04:51:39
 
 <!-- TODAY END -->
 
