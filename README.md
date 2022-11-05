@@ -10,7 +10,7 @@
 
 1. [现在这个时间点入 MBA M1 算不算 49 入国军](https://www.v2ex.com/t/892864) `45条评论` `MacBook Air`
 1. [马斯克开始在推特 996 了…](https://www.v2ex.com/t/892844) `31条评论` `分享发现`
-1. [今天开始学习双拼](https://www.v2ex.com/t/892873) `28条评论` `随想`
+1. [今天开始学习双拼](https://www.v2ex.com/t/892873) `31条评论` `随想`
 1. [酷安官方：“部分酷友信息已被取证，后续可能会被提起法律诉讼。”](https://www.v2ex.com/t/892874) `25条评论` `分享发现`
 1. [求推荐用于学习虚拟机的迷你 Linux 主机](https://www.v2ex.com/t/892858) `18条评论` `问与答`
 1. [Today is your last working day at the company](https://www.v2ex.com/t/892836) `18条评论` `Twitter`
@@ -23,6 +23,7 @@
 1. [内燃机为啥最终被设计成了活塞往复这种形态](https://www.v2ex.com/t/892896) `10条评论` `问与答`
 1. [东北大米选购指北](https://www.v2ex.com/t/892869) `10条评论` `分享发现`
 1. [[开源] 博客系统](https://www.v2ex.com/t/892851) `10条评论` `分享创造`
+1. [macbook air m2 用线单接显示器可以吗？](https://www.v2ex.com/t/892897) `9条评论` `MacBook Air`
 1. [YubiKey 优惠组队](https://www.v2ex.com/t/892876) `9条评论` `YubiKey`
 1. [想组装一台 8 代顶配的台式机，有推荐的渠道吗？](https://www.v2ex.com/t/892870) `9条评论` `问与答`
 1. [天文遐想，近一年接触摄影和拍摄星空银河之后，一直很好奇，银河的全貌到底长啥样](https://www.v2ex.com/t/892853) `9条评论` `问与答`
@@ -31,9 +32,8 @@
 1. [[内推] [知名外企] Cloud System Engineer 系统工程师](https://www.v2ex.com/t/892854) `7条评论` `酷工作`
 1. [出 USDT，要的来？](https://www.v2ex.com/t/892850) `7条评论` `Bitcoin`
 1. [向大佬们请教下 http 协议](https://www.v2ex.com/t/892900) `6条评论` `问与答`
-1. [[远程/兼职] Listary 招聘啦，桌面端/全栈，一起打造精品桌面应用](https://www.v2ex.com/t/892856) `6条评论` `酷工作`
 
-数据更新于 2022-11-05 08:23:48
+数据更新于 2022-11-05 08:44:11
 
 <!-- TODAY END -->
 
