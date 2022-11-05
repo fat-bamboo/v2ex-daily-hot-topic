@@ -8,9 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Today is your last working day at the company](https://www.v2ex.com/t/892836) `7条评论` `Twitter`
+1. [Today is your last working day at the company](https://www.v2ex.com/t/892836) `13条评论` `Twitter`
+1. [有没有可能把一个数据库的 text field 变成可拓展、易阅读的数据格式？](https://www.v2ex.com/t/892842) `11条评论` `程序员`
+1. [马斯克开始在推特 996 了…](https://www.v2ex.com/t/892844) `8条评论` `分享发现`
+1. [🎉 用 Pake 打包了一个极简 Twitter Mac 版本](https://www.v2ex.com/t/892840) `8条评论` `分享创造`
 
-数据更新于 2022-11-05 01:46:05
+数据更新于 2022-11-05 03:13:57
 
 <!-- TODAY END -->
 
