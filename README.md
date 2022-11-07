@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [看看程序员鱼皮的嘴脸](https://www.v2ex.com/t/893205) `122条评论` `程序员`
+1. [看看程序员鱼皮的嘴脸](https://www.v2ex.com/t/893205) `130条评论` `程序员`
 1. [Meta 将启动史上首次大规模裁员， v 站上赛博润人的梦碎了](https://www.v2ex.com/t/893254) `97条评论` `程序员`
+1. [黑五预热贴，都来分享大家准备购买的物品吧](https://www.v2ex.com/t/893193) `35条评论` `分享发现`
 1. [其他的 json 在线编辑广告有点多，俺就自己搭了一个。。](https://www.v2ex.com/t/893202) `30条评论` `程序员`
 1. [二十七八不想待在小县城](https://www.v2ex.com/t/893256) `29条评论` `问与答`
-1. [看了这么多帖子，最终要组一台 NAS+家用服务器还是纠结](https://www.v2ex.com/t/893273) `18条评论` `硬件`
+1. [看了这么多帖子，最终要组一台 NAS+家用服务器还是纠结](https://www.v2ex.com/t/893273) `20条评论` `硬件`
+1. [Stash for Mac 正式版本发布了，一周限时折扣（三种付费方式）](https://www.v2ex.com/t/893291) `18条评论` `macOS`
+1. [Twitter 貌似出了问题又在把裁掉的人请回来。](https://www.v2ex.com/t/893298) `17条评论` `程序员`
 1. [老爹 60 大寿，不知道准备什么礼物，想给他整个帝王蟹吃吃，打算去河马买只大一点的，有没有什么适合家用的帝王蟹做法](https://www.v2ex.com/t/893217) `17条评论` `问与答`
-1. [我天， Ventura 简直是个半成品吧！](https://www.v2ex.com/t/893263) `14条评论` `Apple`
+1. [我天， Ventura 简直是个半成品吧！](https://www.v2ex.com/t/893263) `16条评论` `Apple`
 1. [无线路由器的标称速率完完全是理论值,怎么让实际使用接近呢?](https://www.v2ex.com/t/893210) `14条评论` `问与答`
-1. [Stash for Mac 正式版本发布了，一周限时折扣（三种付费方式）](https://www.v2ex.com/t/893291) `13条评论` `macOS`
+1. [K8S 入门大家是从何开始的？](https://www.v2ex.com/t/893296) `13条评论` `Kubernetes`
 1. [github 上看到的，男性沙文主义资源](https://www.v2ex.com/t/893244) `13条评论` `分享发现`
 1. [如何看待 Fleet 公测版依旧问题不断、插件体系不可用等现象？](https://www.v2ex.com/t/893251) `12条评论` `程序员`
 1. [文件存储服务搭建建议](https://www.v2ex.com/t/893211) `12条评论` `NAS`
 1. [11pro 港版支持 eSIM 吗？](https://www.v2ex.com/t/893208) `11条评论` `iPhone`
-1. [Twitter 貌似出了问题又在把裁掉的人请回来。](https://www.v2ex.com/t/893298) `10条评论` `程序员`
 1. [因产研沟通低效率,求推荐产研沟通相关的书籍](https://www.v2ex.com/t/893255) `10条评论` `程序员`
 1. [电瓶车过 T 字形路口可以直接过么？](https://www.v2ex.com/t/893242) `10条评论` `问与答`
 1. [现在还有比较好的携转或联通套餐可以转吗](https://www.v2ex.com/t/893212) `10条评论` `分享发现`
+1. [大家 iPhone 14 Pro Max 距离传感器失灵了没？](https://www.v2ex.com/t/893283) `9条评论` `iPhone`
 1. [typec 线之间的区别，是不是和 DP/HDMI 一样，不区分版本，只是传输速度的差异，功能上没区别？](https://www.v2ex.com/t/893259) `9条评论` `Apple`
 1. [怎么往前推出正确地址（不是往后）](https://www.v2ex.com/t/893207) `9条评论` `Python`
 1. [iOS 现在还无法下载滴滴 App 吧？](https://www.v2ex.com/t/893197) `9条评论` `iPhone`
 1. [连接 wireguard 节点刷视频卡顿严重](https://www.v2ex.com/t/893189) `9条评论` `NAS`
-1. [大家 iPhone 14 Pro Max 距离传感器失灵了没？](https://www.v2ex.com/t/893283) `7条评论` `iPhone`
-1. [K8S 入门大家是从何开始的？](https://www.v2ex.com/t/893296) `6条评论` `Kubernetes`
-1. [招游戏测试和游戏数值策划各一名](https://www.v2ex.com/t/893258) `6条评论` `酷工作`
 
-数据更新于 2022-11-07 05:50:12
+数据更新于 2022-11-07 06:08:01
 
 <!-- TODAY END -->
 
