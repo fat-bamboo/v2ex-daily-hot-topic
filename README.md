@@ -9,31 +9,31 @@
 <!-- TODAY BEGIN -->
 
 1. [发现线上买不到感冒药，去药店买被签了 4 个文件](https://www.v2ex.com/t/893490) `106条评论` `生活`
+1. [老年版才是 并夕夕 的正确打开方式](https://www.v2ex.com/t/893484) `45条评论` `分享发现`
 1. [你们上一次笑是什么时候？](https://www.v2ex.com/t/893544) `38条评论` `生活`
 1. [建议在京东购买食品饮料时，一定要问好生产日期](https://www.v2ex.com/t/893547) `25条评论` `京东`
 1. [京东上买 Macbook 的售后体验太烂了，警醒下大家](https://www.v2ex.com/t/893521) `25条评论` `Apple`
 1. [感觉自己快活不下去了，兄弟们给指条路吧](https://www.v2ex.com/t/893514) `24条评论` `生活`
-1. [日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) `22条评论` `硬件`
-1. [老年版才是 并夕夕 的正确打开方式](https://www.v2ex.com/t/893484) `22条评论` `分享发现`
-1. [想换电脑了， MAC or ThinkPad](https://www.v2ex.com/t/893577) `21条评论` `程序员`
+1. [想换电脑了， MAC or ThinkPad](https://www.v2ex.com/t/893577) `23条评论` `程序员`
+1. [日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) `23条评论` `硬件`
 1. [有第三方看 NBA 的网站或者 app 么 企鹅付费很难受](https://www.v2ex.com/t/893479) `20条评论` `问与答`
 1. [使用 autohotkey 让 87 键键盘快速输入数字键盘](https://www.v2ex.com/t/893559) `19条评论` `问与答`
+1. [M 芯片外接 Dell S2721Qs 闪屏](https://www.v2ex.com/t/893553) `18条评论` `Apple`
 1. [🎉 Gopeed 下载器 v1.1.0 发布，支持 HTTP、BT 协议，全平台可用并且开源免费](https://www.v2ex.com/t/893505) `18条评论` `分享创造`
 1. [不知不觉，独立博客已经十周年了](https://www.v2ex.com/t/893488) `18条评论` `Blogger`
-1. [M 芯片外接 Dell S2721Qs 闪屏](https://www.v2ex.com/t/893553) `17条评论` `Apple`
 1. [求各位推荐一下平民级电脑桌](https://www.v2ex.com/t/893516) `17条评论` `问与答`
 1. [代码中乘 1.0f/72 和直接除 72f 有什么区别呢？](https://www.v2ex.com/t/893510) `16条评论` `程序员`
+1. [产品离职了，开摸](https://www.v2ex.com/t/893570) `15条评论` `程序员`
 1. [MacBook Air 怎么清洁屏幕和键盘比较好](https://www.v2ex.com/t/893513) `15条评论` `MacBook Air`
 1. [Appletv 简易使用指南](https://www.v2ex.com/t/893480) `15条评论` `分享发现`
-1. [产品离职了，开摸](https://www.v2ex.com/t/893570) `14条评论` `程序员`
 1. [平安信贷天天打贷款电话，有什么办法解决？](https://www.v2ex.com/t/893539) `14条评论` `问与答`
+1. [苹果 14 蜂窝网络经常没网，信号有](https://www.v2ex.com/t/893572) `11条评论` `Apple`
 1. [请教广州租房子](https://www.v2ex.com/t/893530) `11条评论` `广州`
 1. [这个例子里的 component 总是重新挂载](https://www.v2ex.com/t/893491) `11条评论` `React`
 1. [低配的二手的 Mac mini 慎重购买](https://www.v2ex.com/t/893489) `11条评论` `Mac mini`
-1. [苹果 14 蜂窝网络经常没网，信号有](https://www.v2ex.com/t/893572) `10条评论` `Apple`
-1. [iPhone 除了微信，其他软件都没网，有没有遇到过并解决的？](https://www.v2ex.com/t/893524) `10条评论` `问与答`
+1. [如何拯救被人遗忘的老代码？](https://www.v2ex.com/t/893558) `10条评论` `随想`
 
-数据更新于 2022-11-08 07:16:46
+数据更新于 2022-11-08 07:31:53
 
 <!-- TODAY END -->
 
