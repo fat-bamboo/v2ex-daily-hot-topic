@@ -10,30 +10,30 @@
 
 1. [通勤 50 分钟，费用 7.2 元有必要买一辆小电驴吗](https://www.v2ex.com/t/894028) `194条评论` `问与答`
 1. [怎么才能接受自己的平凡](https://www.v2ex.com/t/894016) `107条评论` `问与答`
-1. [用了六年 Keepass 了，发现大家都在推荐 Bitwarden](https://www.v2ex.com/t/894022) `85条评论` `程序员`
+1. [你的手机不是你的手机](https://www.v2ex.com/t/894105) `87条评论` `iPhone`
+1. [用了六年 Keepass 了，发现大家都在推荐 Bitwarden](https://www.v2ex.com/t/894022) `86条评论` `程序员`
 1. [为什么有些大龄程序员去跑滴滴，送外卖？](https://www.v2ex.com/t/894161) `83条评论` `程序员`
-1. [你的手机不是你的手机](https://www.v2ex.com/t/894105) `81条评论` `iPhone`
 1. [airdrop 以后不能给所有人发了么？](https://www.v2ex.com/t/894044) `77条评论` `问与答`
 1. [想买一台笔记本应急用，有什么好的建议](https://www.v2ex.com/t/894036) `62条评论` `程序员`
 1. [大家在飞机上是如何打发时间的？](https://www.v2ex.com/t/894050) `52条评论` `问与答`
 1. [想问一下大家的单程开车通勤时长都是多少](https://www.v2ex.com/t/894152) `34条评论` `生活`
 1. [通货膨胀为什么要裁员, 不是应该猛招人把钱用掉吗?](https://www.v2ex.com/t/894092) `34条评论` `程序员`
+1. [苹果那么贵，为什么不用安卓？](https://www.v2ex.com/t/894244) `27条评论` `Apple`
 1. [一个暧昧好几年的女生闪婚了，这几天好难受怎么办？](https://www.v2ex.com/t/894201) `24条评论` `问与答`
 1. [chrome 如何像 vscode 那样进行 remote 操作？](https://www.v2ex.com/t/894193) `23条评论` `程序员`
+1. [目前苹果国行所有设备一共有多少限制？](https://www.v2ex.com/t/894249) `22条评论` `Apple`
 1. [做了一个简单的 Todo 应用,Todobird](https://www.v2ex.com/t/894096) `22条评论` `分享创造`
-1. [苹果那么贵，为什么不用安卓？](https://www.v2ex.com/t/894244) `21条评论` `Apple`
 1. [关于是否开窗睡觉](https://www.v2ex.com/t/894061) `20条评论` `问与答`
 1. [求推荐一对便宜音箱看电影用](https://www.v2ex.com/t/894054) `20条评论` `问与答`
 1. [有没有发现日本屏蔽了中国的访问](https://www.v2ex.com/t/894100) `19条评论` `问与答`
 1. [预算两三百 JD 上能买到什么机械键盘。](https://www.v2ex.com/t/894221) `18条评论` `问与答`
+1. [没有 party 的全民投票?](https://www.v2ex.com/t/894229) `17条评论` `问与答`
 1. [去哪买水货 iPhone](https://www.v2ex.com/t/894112) `16条评论` `Apple`
 1. [React.useEffect 的效果，为什么还跟帧率有关？ bug 到底出在哪里？](https://www.v2ex.com/t/894109) `16条评论` `React`
 1. [CPU 坏了，能修吗？](https://www.v2ex.com/t/894068) `16条评论` `硬件`
-1. [没有 party 的全民投票?](https://www.v2ex.com/t/894229) `15条评论` `问与答`
 1. [PC 机全固态硬盘，除系统盘用 NTFS 格式之外。其他盘符可否采用 exfat?](https://www.v2ex.com/t/894064) `15条评论` `硬件`
-1. [Mac 使用软件分享，抛砖引玉](https://www.v2ex.com/t/894110) `14条评论` `macOS`
 
-数据更新于 2022-11-10 12:44:18
+数据更新于 2022-11-10 13:38:42
 
 <!-- TODAY END -->
 
