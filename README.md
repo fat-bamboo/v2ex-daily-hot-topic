@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [通勤 50 分钟，费用 7.2 元有必要买一辆小电驴吗](https://www.v2ex.com/t/894028) `121条评论` `问与答`
-1. [怎么才能接受自己的平凡](https://www.v2ex.com/t/894016) `79条评论` `问与答`
+1. [通勤 50 分钟，费用 7.2 元有必要买一辆小电驴吗](https://www.v2ex.com/t/894028) `128条评论` `问与答`
+1. [怎么才能接受自己的平凡](https://www.v2ex.com/t/894016) `81条评论` `问与答`
+1. [用了六年 Keepass 了，发现大家都在推荐 Bitwarden](https://www.v2ex.com/t/894022) `71条评论` `程序员`
 1. [大家在飞机上是如何打发时间的？](https://www.v2ex.com/t/894050) `37条评论` `问与答`
+1. [你的手机不是你的手机](https://www.v2ex.com/t/894105) `35条评论` `iPhone`
 1. [通货膨胀为什么要裁员, 不是应该猛招人把钱用掉吗?](https://www.v2ex.com/t/894092) `34条评论` `程序员`
-1. [你的手机不是你的手机](https://www.v2ex.com/t/894105) `27条评论` `iPhone`
+1. [做了一个简单的 Todo 应用,Todobird](https://www.v2ex.com/t/894096) `22条评论` `分享创造`
 1. [想买一台笔记本应急用，有什么好的建议](https://www.v2ex.com/t/894036) `22条评论` `程序员`
 1. [关于是否开窗睡觉](https://www.v2ex.com/t/894061) `20条评论` `问与答`
 1. [求推荐一对便宜音箱看电影用](https://www.v2ex.com/t/894054) `20条评论` `问与答`
-1. [有没有发现日本屏蔽了中国的访问](https://www.v2ex.com/t/894100) `18条评论` `问与答`
-1. [做了一个简单的 Todo 应用,Todobird](https://www.v2ex.com/t/894096) `18条评论` `分享创造`
-1. [用了六年 Keepass 了，发现大家都在推荐 Bitwarden](https://www.v2ex.com/t/894022) `17条评论` `程序员`
+1. [有没有发现日本屏蔽了中国的访问](https://www.v2ex.com/t/894100) `19条评论` `问与答`
 1. [CPU 坏了，能修吗？](https://www.v2ex.com/t/894068) `16条评论` `硬件`
+1. [去哪买水货 iPhone](https://www.v2ex.com/t/894112) `15条评论` `Apple`
 1. [PC 机全固态硬盘，除系统盘用 NTFS 格式之外。其他盘符可否采用 exfat?](https://www.v2ex.com/t/894064) `15条评论` `硬件`
-1. [去哪买水货 iPhone](https://www.v2ex.com/t/894112) `14条评论` `Apple`
 1. [Mac 使用软件分享，抛砖引玉](https://www.v2ex.com/t/894110) `14条评论` `macOS`
+1. [React.useEffect 的效果，为什么还跟帧率有关？ bug 到底出在哪里？](https://www.v2ex.com/t/894109) `14条评论` `React`
 1. [苹果说激活 siri 的语音指令由“Hey Siri”换成“Siri”有很大的技术难度](https://www.v2ex.com/t/894081) `14条评论` `程序员`
 1. [给老妈换个 2k 左右的安卓手机，求推荐](https://www.v2ex.com/t/894055) `14条评论` `问与答`
 1. [airdrop 以后不能给所有人发了么？](https://www.v2ex.com/t/894044) `14条评论` `问与答`
-1. [React.useEffect 的效果，为什么还跟帧率有关？ bug 到底出在哪里？](https://www.v2ex.com/t/894109) `12条评论` `React`
 1. [[求助] 这种在线 CS 是什么神仙技术？](https://www.v2ex.com/t/894091) `12条评论` `游戏开发`
 1. [保养去 4s 还是途虎？](https://www.v2ex.com/t/894017) `12条评论` `汽车`
 1. [Apple TV 4K 2022 香港官网转运](https://www.v2ex.com/t/894075) `11条评论` `Apple TV`
 1. [现在躺床上不玩手机直接睡觉的算超强自制力了吗？](https://www.v2ex.com/t/894034) `11条评论` `程序员`
 1. [✅双 11 必备！ [85％高佣] ✅淘宝高佣返利机器人,京东唯品会抖音返利](https://www.v2ex.com/t/894102) `7条评论` `推广`
 
-数据更新于 2022-11-10 06:23:53
+数据更新于 2022-11-10 06:48:11
 
 <!-- TODAY END -->
 
