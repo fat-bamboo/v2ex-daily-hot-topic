@@ -10,7 +10,7 @@
 
 1. [IOS Airdrop 10 分钟限制将在明年向全球推送。](https://www.v2ex.com/t/894644) `85条评论` `Apple`
 1. [被北京联通无通知停机，浪费 2 个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669) `44条评论` `北京`
-1. [有没有发现 Android 系统的性能缺陷被硬件的发展给掩盖了](https://www.v2ex.com/t/894703) `29条评论` `Android`
+1. [有没有发现 Android 系统的性能缺陷被硬件的发展给掩盖了](https://www.v2ex.com/t/894703) `30条评论` `Android`
 1. [不认识字的 60 岁左右的人怎么快速找到对应号码的车厢?](https://www.v2ex.com/t/894654) `28条评论` `问与答`
 1. [想去法罗群岛养羊，有希望吗？](https://www.v2ex.com/t/894692) `24条评论` `问与答`
 1. [昨晚天猫放量那么大，抢到茅子了吗](https://www.v2ex.com/t/894646) `24条评论` `生活`
@@ -21,19 +21,19 @@
 1. [Apple 官方网站真漂亮，是自己内部设计制作的 还是委托第三方](https://www.v2ex.com/t/894652) `17条评论` `Apple`
 1. [大佬们 编程真的就像搭乐高 盖房子吗](https://www.v2ex.com/t/894695) `14条评论` `问与答`
 1. [双十一昨晚什么都没买 有没有 v 友和我一样的](https://www.v2ex.com/t/894655) `14条评论` `问与答`
+1. [使用 win11 两周，感觉微软的调整还是很正向的。](https://www.v2ex.com/t/894708) `13条评论` `Windows`
 1. [实际应用， win11 的重置，还是 OEM 重置，不是干净重装](https://www.v2ex.com/t/894690) `13条评论` `Windows`
 1. [Windows11 永远点不中托盘的小图标](https://www.v2ex.com/t/894653) `13条评论` `Windows`
 1. [为什么现在的 wsl2 还是无法挂载 ext4 文件系统](https://www.v2ex.com/t/894670) `12条评论` `Windows`
 1. [IOS 怎么设置让用户不能使用 某些 app？一分钟都不行](https://www.v2ex.com/t/894709) `10条评论` `iOS`
 1. [Docker 能否直通网卡](https://www.v2ex.com/t/894659) `10条评论` `Docker`
-1. [使用 win11 两周，感觉微软的调整还是很正向的。](https://www.v2ex.com/t/894708) `9条评论` `Windows`
 1. [Python 里不使用 def 而是简单粘贴对程序有影响吗](https://www.v2ex.com/t/894673) `9条评论` `问与答`
+1. [github 新推出了 codespaces 大家觉得怎么样？](https://www.v2ex.com/t/894706) `8条评论` `程序员`
+1. [询问一下 clash relay 代理模式是否为层层加密](https://www.v2ex.com/t/894700) `8条评论` `问与答`
 1. [有没有能修改医院支付宝小程序 saas 版本的，有偿找个人帮修改下](https://www.v2ex.com/t/894676) `8条评论` `程序员`
-1. [github 新推出了 codespaces 大家觉得怎么样？](https://www.v2ex.com/t/894706) `7条评论` `程序员`
-1. [询问一下 clash relay 代理模式是否为层层加密](https://www.v2ex.com/t/894700) `7条评论` `问与答`
-1. [CF 跑满宽带； Cloudflare 优选 IP 台湾；大陆 Ping 延迟 45ms；下载 70MB/S。](https://www.v2ex.com/t/894682) `7条评论` `Cloudflare`
+1. [IOS 上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725) `7条评论` `Apple`
 
-数据更新于 2022-11-12 10:21:43
+数据更新于 2022-11-12 10:41:42
 
 <!-- TODAY END -->
 
