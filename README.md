@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [IOS Airdrop 10 分钟限制将在明年向全球推送。](https://www.v2ex.com/t/894644) `85条评论` `Apple`
-1. [被北京联通无通知停机，浪费 2 个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669) `44条评论` `北京`
+1. [被北京联通无通知停机，浪费 2 个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669) `45条评论` `北京`
 1. [有没有发现 Android 系统的性能缺陷被硬件的发展给掩盖了](https://www.v2ex.com/t/894703) `30条评论` `Android`
 1. [不认识字的 60 岁左右的人怎么快速找到对应号码的车厢?](https://www.v2ex.com/t/894654) `28条评论` `问与答`
 1. [想去法罗群岛养羊，有希望吗？](https://www.v2ex.com/t/894692) `24条评论` `问与答`
@@ -26,14 +26,14 @@
 1. [Windows11 永远点不中托盘的小图标](https://www.v2ex.com/t/894653) `13条评论` `Windows`
 1. [为什么现在的 wsl2 还是无法挂载 ext4 文件系统](https://www.v2ex.com/t/894670) `12条评论` `Windows`
 1. [IOS 怎么设置让用户不能使用 某些 app？一分钟都不行](https://www.v2ex.com/t/894709) `10条评论` `iOS`
+1. [github 新推出了 codespaces 大家觉得怎么样？](https://www.v2ex.com/t/894706) `10条评论` `程序员`
 1. [Docker 能否直通网卡](https://www.v2ex.com/t/894659) `10条评论` `Docker`
+1. [IOS 上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725) `9条评论` `Apple`
 1. [Python 里不使用 def 而是简单粘贴对程序有影响吗](https://www.v2ex.com/t/894673) `9条评论` `问与答`
-1. [github 新推出了 codespaces 大家觉得怎么样？](https://www.v2ex.com/t/894706) `8条评论` `程序员`
-1. [询问一下 clash relay 代理模式是否为层层加密](https://www.v2ex.com/t/894700) `8条评论` `问与答`
-1. [有没有能修改医院支付宝小程序 saas 版本的，有偿找个人帮修改下](https://www.v2ex.com/t/894676) `8条评论` `程序员`
-1. [IOS 上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725) `7条评论` `Apple`
+1. [西部某 211 研 深处迷茫焦虑 求职业规划建议](https://www.v2ex.com/t/894726) `8条评论` `职场话题`
+1. [想跑赢银行定期,现在该买股票型/债券型/货币型基金?](https://www.v2ex.com/t/894717) `8条评论` `投资`
 
-数据更新于 2022-11-12 10:41:42
+数据更新于 2022-11-12 10:55:55
 
 <!-- TODAY END -->
 
