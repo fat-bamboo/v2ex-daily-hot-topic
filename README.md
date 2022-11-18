@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [地库里差点撞到人，记录分享一下](https://www.v2ex.com/t/896102) `97条评论` `汽车`
-1. [不会真的是 49 年入国军吧？😭iPhone14 系列 对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132) `70条评论` `iPhone`
-1. [iPhone 信号真的这么拉嚒？](https://www.v2ex.com/t/896159) `55条评论` `Apple`
-1. [话说为什么公路的井盖总是不平，明明按理论是可以做的和道路齐平](https://www.v2ex.com/t/896118) `51条评论` `问与答`
-1. [为什么很多公司测试和产品比开发更有话语权？](https://www.v2ex.com/t/896101) `48条评论` `问与答`
+1. [地库里差点撞到人，记录分享一下](https://www.v2ex.com/t/896102) `100条评论` `汽车`
+1. [不会真的是 49 年入国军吧？😭iPhone14 系列 对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132) `71条评论` `iPhone`
+1. [iPhone 信号真的这么拉嚒？](https://www.v2ex.com/t/896159) `61条评论` `Apple`
+1. [话说为什么公路的井盖总是不平，明明按理论是可以做的和道路齐平](https://www.v2ex.com/t/896118) `53条评论` `问与答`
+1. [为什么很多公司测试和产品比开发更有话语权？](https://www.v2ex.com/t/896101) `49条评论` `问与答`
 1. [求教：装机的乐趣在哪里？](https://www.v2ex.com/t/896181) `33条评论` `硬件`
 1. [分享一款 AppleTV 直播软件 — tv+](https://www.v2ex.com/t/896152) `30条评论` `Apple TV`
 1. [现在微信群过滤消息都过滤成筛子了](https://www.v2ex.com/t/896169) `28条评论` `问与答`
@@ -28,12 +28,12 @@
 1. [分享一下把 USB 线改装成网线经历。](https://www.v2ex.com/t/896120) `16条评论` `硬件`
 1. [要买 MacBook Pro 的看过来](https://www.v2ex.com/t/896165) `14条评论` `Apple`
 1. [有大佬熟悉高并发技术吗？有空进来交流一下](https://www.v2ex.com/t/896200) `13条评论` `程序员`
-1. [为什么我的 twitter web 版没了翻译按钮？](https://www.v2ex.com/t/896196) `12条评论` `Twitter`
+1. [为什么我的 twitter web 版没了翻译按钮？](https://www.v2ex.com/t/896196) `13条评论` `Twitter`
 1. [亚马逊全球购接近 1 个月不发货，还要继续等吗？](https://www.v2ex.com/t/896164) `11条评论` `问与答`
 1. [有 Stash for Mac 拼车的老哥或者拼车群吗](https://www.v2ex.com/t/896161) `11条评论` `程序员`
-1. [Angular 15 发布](https://www.v2ex.com/t/896188) `9条评论` `Angular`
+1. [Angular 15 发布](https://www.v2ex.com/t/896188) `10条评论` `Angular`
 
-数据更新于 2022-11-18 07:30:36
+数据更新于 2022-11-18 07:45:39
 
 <!-- TODAY END -->
 
