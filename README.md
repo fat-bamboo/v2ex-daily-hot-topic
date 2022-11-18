@@ -8,25 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [地库里差点撞到人，记录分享一下](https://www.v2ex.com/t/896102) `60条评论` `汽车`
-1. [不会真的是 49 年入国军吧？😭iPhone14 系列 对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132) `33条评论` `iPhone`
+1. [地库里差点撞到人，记录分享一下](https://www.v2ex.com/t/896102) `75条评论` `汽车`
+1. [不会真的是 49 年入国军吧？😭iPhone14 系列 对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132) `44条评论` `iPhone`
 1. [话说为什么公路的井盖总是不平，明明按理论是可以做的和道路齐平](https://www.v2ex.com/t/896118) `27条评论` `问与答`
 1. [为什么很多公司测试和产品比开发更有话语权？](https://www.v2ex.com/t/896101) `22条评论` `问与答`
+1. [iPhone 信号真的这么拉嚒？](https://www.v2ex.com/t/896159) `19条评论` `Apple`
 1. [Linux 系统做备份该怎么做](https://www.v2ex.com/t/896119) `18条评论` `Linux`
+1. [怎么才能让公司开除我，而且不扣钱](https://www.v2ex.com/t/896133) `17条评论` `问与答`
 1. [分享一下把 USB 线改装成网线经历。](https://www.v2ex.com/t/896120) `16条评论` `硬件`
-1. [怎么才能让公司开除我，而且不扣钱](https://www.v2ex.com/t/896133) `13条评论` `问与答`
+1. [分享一款 AppleTV 直播软件 — tv+](https://www.v2ex.com/t/896152) `15条评论` `Apple TV`
+1. [求解 bash zsh fish 的区别以及会有的影响](https://www.v2ex.com/t/896148) `13条评论` `Linux`
+1. [现在微信群过滤消息都过滤成筛子了](https://www.v2ex.com/t/896169) `9条评论` `问与答`
 1. [有偿求助两个深度学习相关问题](https://www.v2ex.com/t/896115) `9条评论` `程序员`
 1. [推荐《她和她的她》](https://www.v2ex.com/t/896096) `9条评论` `剧集`
 1. [电视端支持 webdav 的播放器](https://www.v2ex.com/t/896095) `9条评论` `问与答`
-1. [分享一款 AppleTV 直播软件 — tv+](https://www.v2ex.com/t/896152) `8条评论` `Apple TV`
-1. [求解 bash zsh fish 的区别以及会有的影响](https://www.v2ex.com/t/896148) `8条评论` `Linux`
+1. [招 remote working 运维， 2-3 个 HC，全职， web3 赛道](https://www.v2ex.com/t/896156) `8条评论` `酷工作`
+1. [甲骨文实例无故消失了](https://www.v2ex.com/t/896128) `8条评论` `云计算`
+1. [新买的小米 K50 至尊版一天三充，快疯了](https://www.v2ex.com/t/896170) `7条评论` `问与答`
+1. [刚入职场，工作了半年现在很迷茫，想问问前辈们一些问题。](https://www.v2ex.com/t/896149) `7条评论` `问与答`
 1. [寻一个 old school 的 table 组件 (vue2)](https://www.v2ex.com/t/896142) `7条评论` `Vue.js`
+1. [在哪里可以买到这种形状的电脑桌？](https://www.v2ex.com/t/896140) `7条评论` `问与答`
 1. [iptables 如何屏蔽所有端口但是自身能上网](https://www.v2ex.com/t/896124) `7条评论` `Linux`
-1. [iPhone 信号真的这么拉嚒？](https://www.v2ex.com/t/896159) `6条评论` `Apple`
-1. [甲骨文实例无故消失了](https://www.v2ex.com/t/896128) `6条评论` `云计算`
+1. [Win11 22H2 如何禁止 IE 打开跳转?](https://www.v2ex.com/t/896147) `6条评论` `问与答`
+1. [买耳机好像是个玄学的东西，没实际试听之前，都不知道自己喜不喜欢。](https://www.v2ex.com/t/896146) `6条评论` `硬件`
 1. [分享一个手机上 wireguard 同时可以回家和去国外的方法](https://www.v2ex.com/t/896122) `6条评论` `WireGuard`
 
-数据更新于 2022-11-18 03:19:19
+数据更新于 2022-11-18 03:52:14
 
 <!-- TODAY END -->
 
