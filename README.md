@@ -13,7 +13,7 @@
 1. [大家有没有什么跟进热点的知识 up 主推荐呀？](https://www.v2ex.com/t/896370) `57条评论` `问与答`
 1. [问下各位对国产操作系统的看法](https://www.v2ex.com/t/896404) `57条评论` `问与答`
 1. [我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) `52条评论` `问与答`
-1. [macOS 虚拟机软件 VMware Fusion 13 正式发布：支持 TPM 2.0、 Apple Silicon Mac](https://www.v2ex.com/t/896350) `36条评论` `Apple`
+1. [macOS 虚拟机软件 VMware Fusion 13 正式发布：支持 TPM 2.0、 Apple Silicon Mac](https://www.v2ex.com/t/896350) `37条评论` `Apple`
 1. [公司要求写 Linux 故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393) `36条评论` `Linux`
 1. [请教下 nas 用 windows 有啥坑](https://www.v2ex.com/t/896363) `35条评论` `NAS`
 1. [AirPods Pro 2 续航](https://www.v2ex.com/t/896366) `35条评论` `Apple`
@@ -33,7 +33,7 @@
 1. [索尼 Xperia 1 III 换到 Moto X30 Pro 的使用感受记录](https://www.v2ex.com/t/896439) `14条评论` `Android`
 1. [询问： iPad mini6 64g，官网售价 3899，为啥其他店铺能卖到 3378？官换机？翻新机？](https://www.v2ex.com/t/896355) `14条评论` `问与答`
 
-数据更新于 2022-11-19 22:59:53
+数据更新于 2022-11-19 23:23:59
 
 <!-- TODAY END -->
 
