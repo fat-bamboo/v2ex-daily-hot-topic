@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [兄弟们，来吹爆东哥](https://www.v2ex.com/t/897106) `139条评论` `程序员`
+1. [兄弟们，来吹爆东哥](https://www.v2ex.com/t/897106) `141条评论` `程序员`
 1. [各位大哥都在用啥面霜](https://www.v2ex.com/t/897009) `117条评论` `问与答`
 1. [需要带父亲去北京做手术，但是北京健康宝一直弹窗 3，已经申诉多次无果。有什么办法吗？](https://www.v2ex.com/t/896998) `103条评论` `问与答`
 1. [94 年的程序员未来的路该怎么走？感觉到迷茫，有人给点建议吗？](https://www.v2ex.com/t/897015) `82条评论` `职场话题`
 1. [iPhone 弃坑](https://www.v2ex.com/t/897024) `79条评论` `Android`
 1. [程序员白头发问题，有人解决了吗](https://www.v2ex.com/t/897005) `78条评论` `问与答`
-1. [13 pro max 用了一年了，电池掉到 91%了](https://www.v2ex.com/t/896984) `64条评论` `iPhone`
+1. [13 pro max 用了一年了，电池掉到 91%了](https://www.v2ex.com/t/896984) `65条评论` `iPhone`
 1. [珍爱生命，远离 ToDesk](https://www.v2ex.com/t/897040) `63条评论` `分享发现`
-1. [为什么我们不用 git 当数据库呢?](https://www.v2ex.com/t/897127) `43条评论` `程序员`
+1. [为什么我们不用 git 当数据库呢?](https://www.v2ex.com/t/897127) `44条评论` `程序员`
 1. [重庆好久解封哟](https://www.v2ex.com/t/896972) `42条评论` `重庆`
 1. [2023 PHPer 路在何方？](https://www.v2ex.com/t/897074) `35条评论` `程序员`
 1. [都在墙外了本站还自我审查这么厉害。。。](https://www.v2ex.com/t/897039) `33条评论` `问与答`
@@ -27,13 +27,13 @@
 1. [最近有人提“国产”，我也说说我的感受，抛砖引玉](https://www.v2ex.com/t/897090) `17条评论` `程序员`
 1. [请问选 Unity 还是 Godot](https://www.v2ex.com/t/897079) `17条评论` `游戏开发`
 1. [Edge 浏览器没有下限](https://www.v2ex.com/t/896986) `17条评论` `Edge`
+1. [效率神器 Alfred 和 utools 大家用的哪款](https://www.v2ex.com/t/897145) `16条评论` `问与答`
 1. [公网域名能否不带端口访问家庭网络应用](https://www.v2ex.com/t/897097) `16条评论` `OpenWrt`
 1. [Macbook air 有必要上 16G 吗？](https://www.v2ex.com/t/897054) `16条评论` `MacBook Air`
 1. [中国广播电视运营商手机卡信号可以吗？](https://www.v2ex.com/t/896995) `16条评论` `问与答`
-1. [毛子某网站上的 ADOBE 全家桶靠谱吗？一年才 50 刀。](https://www.v2ex.com/t/897149) `14条评论` `macOS`
-1. [效率神器 Alfred 和 utools 大家用的哪款](https://www.v2ex.com/t/897145) `14条评论` `问与答`
+1. [毛子某网站上的 ADOBE 全家桶靠谱吗？一年才 50 刀。](https://www.v2ex.com/t/897149) `15条评论` `macOS`
 
-数据更新于 2022-11-22 11:45:51
+数据更新于 2022-11-22 11:56:09
 
 <!-- TODAY END -->
 
