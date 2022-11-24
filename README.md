@@ -8,21 +8,27 @@
 
 <!-- TODAY BEGIN -->
 
-1. [faceid 解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506) `33条评论` `Apple`
+1. [faceid 解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506) `36条评论` `Apple`
+1. [Apple TV 128GB 初体验](https://www.v2ex.com/t/897508) `19条评论` `Apple TV`
 1. [再次认真的探讨 IT 行业的其它盈利方式，以及我做出的一次尝试](https://www.v2ex.com/t/897487) `19条评论` `分享创造`
-1. [Apple TV 128GB 初体验](https://www.v2ex.com/t/897508) `17条评论` `Apple TV`
 1. [大家黑五都买啥了?](https://www.v2ex.com/t/897497) `16条评论` `问与答`
+1. [2022 年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) `13条评论` `问与答`
 1. [出一个 CC VPS](https://www.v2ex.com/t/897493) `13条评论` `VPS`
+1. [idea 2022.2.4 正式版发布](https://www.v2ex.com/t/897518) `12条评论` `macOS`
 1. [小米加湿器的电源线，被狗子咬断了。这个能单独配吗？](https://www.v2ex.com/t/897500) `12条评论` `问与答`
 1. [Windows 的 Microsoft 账号现在这么拉胯了？](https://www.v2ex.com/t/897494) `12条评论` `Windows`
-1. [idea 2022.2.4 正式版发布](https://www.v2ex.com/t/897518) `11条评论` `macOS`
-1. [2022 年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) `9条评论` `问与答`
-1. [请问： Typora 和 Total Commander 不注册也不影响使用？](https://www.v2ex.com/t/897514) `7条评论` `问与答`
-1. [更换蜗牛星际的主板并重装 Ubuntu20.04 ， zfs 硬盘需要重新 rebuild 吗？](https://www.v2ex.com/t/897517) `6条评论` `NAS`
+1. [请问： Typora 和 Total Commander 不注册也不影响使用？](https://www.v2ex.com/t/897514) `8条评论` `问与答`
+1. [国足为啥这么烂?](https://www.v2ex.com/t/897544) `7条评论` `绿茵场`
+1. [推荐下能买到的速度最快的 U 盘](https://www.v2ex.com/t/897534) `7条评论` `问与答`
+1. [请教一下，金粉与雏黄](https://www.v2ex.com/t/897529) `7条评论` `问与答`
+1. [两室一厅标户，吸顶 ap 效果如何？](https://www.v2ex.com/t/897527) `7条评论` `路由器`
+1. [分享一个简单的提高工作效率的方法](https://www.v2ex.com/t/897523) `7条评论` `分享发现`
+1. [你们 M1 有没有碰到更新 macOS13 后电脑给手机/pad 充电速率很慢](https://www.v2ex.com/t/897521) `7条评论` `Apple`
+1. [更换蜗牛星际的主板并重装 Ubuntu20.04 ， zfs 硬盘需要重新 rebuild 吗？](https://www.v2ex.com/t/897517) `7条评论` `NAS`
 1. [『咨询』大家 apple.com.cn 能正常打开吗](https://www.v2ex.com/t/897512) `6条评论` `Apple`
 1. [有没有快捷搜索框类的浏览器扩展](https://www.v2ex.com/t/897490) `6条评论` `奇思妙想`
 
-数据更新于 2022-11-24 03:16:27
+数据更新于 2022-11-24 03:40:35
 
 <!-- TODAY END -->
 
