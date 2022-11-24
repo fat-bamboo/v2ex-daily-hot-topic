@@ -8,11 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Windows 的 Microsoft 账号现在这么拉胯了？](https://www.v2ex.com/t/897494) `9条评论` `Windows`
-1. [出一个 CC VPS](https://www.v2ex.com/t/897493) `7条评论` `VPS`
-1. [再次认真的探讨 IT 行业的其它盈利方式，以及我做出的一次尝试](https://www.v2ex.com/t/897487) `7条评论` `分享创造`
+1. [faceid 解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506) `26条评论` `Apple`
+1. [再次认真的探讨 IT 行业的其它盈利方式，以及我做出的一次尝试](https://www.v2ex.com/t/897487) `19条评论` `分享创造`
+1. [Apple TV 128GB 初体验](https://www.v2ex.com/t/897508) `13条评论` `Apple TV`
+1. [出一个 CC VPS](https://www.v2ex.com/t/897493) `13条评论` `VPS`
+1. [Windows 的 Microsoft 账号现在这么拉胯了？](https://www.v2ex.com/t/897494) `12条评论` `Windows`
+1. [大家黑五都买啥了?](https://www.v2ex.com/t/897497) `11条评论` `问与答`
+1. [idea 2022.2.4 正式版发布](https://www.v2ex.com/t/897518) `9条评论` `macOS`
+1. [小米加湿器的电源线，被狗子咬断了。这个能单独配吗？](https://www.v2ex.com/t/897500) `9条评论` `问与答`
+1. [更换蜗牛星际的主板并重装 Ubuntu20.04 ， zfs 硬盘需要重新 rebuild 吗？](https://www.v2ex.com/t/897517) `6条评论` `NAS`
+1. [『咨询』大家 apple.com.cn 能正常打开吗](https://www.v2ex.com/t/897512) `6条评论` `Apple`
+1. [有没有快捷搜索框类的浏览器扩展](https://www.v2ex.com/t/897490) `6条评论` `奇思妙想`
 
-数据更新于 2022-11-24 01:37:10
+数据更新于 2022-11-24 02:45:39
 
 <!-- TODAY END -->
 
