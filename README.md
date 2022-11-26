@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [现在招人真难啊](https://www.v2ex.com/t/898050) `32条评论` `职场话题`
+1. [现在招人真难啊](https://www.v2ex.com/t/898050) `39条评论` `职场话题`
+1. [想搞个设备，求推荐](https://www.v2ex.com/t/898042) `33条评论` `宽带症候群`
 1. [年底了，国内的病毒会变强吗？好担心](https://www.v2ex.com/t/898010) `32条评论` `问与答`
-1. [想搞个设备，求推荐](https://www.v2ex.com/t/898042) `31条评论` `宽带症候群`
 1. [2018 至 2020 年我国有超 12 万儿童和青少年被诊断为癌症](https://www.v2ex.com/t/898022) `25条评论` `健康`
 1. [2.5 机械盘适合做 nas 吗 读写只有 100 不到 会不会太慢 看个视频都拖不动进度条？](https://www.v2ex.com/t/898015) `18条评论` `NAS`
 1. [慎买黑色 iPhone ，竟然掉漆](https://www.v2ex.com/t/898012) `18条评论` `macOS`
@@ -19,12 +19,13 @@
 1. [知道酸酸为啥这么赚钱了。。。](https://www.v2ex.com/t/898057) `12条评论` `分享创造`
 1. [covid 以来互联网行业的震动相比于 2000 年互联网泡沫和 2008 年次贷危机有什么区别？](https://www.v2ex.com/t/898025) `11条评论` `随想`
 1. [想入手个 iPad Pro 不知道怎么选](https://www.v2ex.com/t/898052) `9条评论` `iPad`
+1. [是哪个始作俑者把 out of memory 翻译成内存溢出的？](https://www.v2ex.com/t/898069) `7条评论` `问与答`
 1. [Chrome extension: IPTV 播放器和 7000+ 電視頻道播放 被 Google 接納為 Featured](https://www.v2ex.com/t/898047) `7条评论` `分享创造`
 1. [macOS 下， idea 不能打开，且不显示菜单栏,请问有什么办法恢复吗](https://www.v2ex.com/t/898037) `7条评论` `macOS`
 1. [优豆云免费云主机真好用](https://www.v2ex.com/t/898020) `6条评论` `VPS`
 1. [问大家一个关于 tomcat 项目启动报 ClassNotFoundException: com.mysql.jdbc.Driver 的问题](https://www.v2ex.com/t/898018) `6条评论` `问与答`
 
-数据更新于 2022-11-26 05:59:48
+数据更新于 2022-11-26 06:27:16
 
 <!-- TODAY END -->
 
