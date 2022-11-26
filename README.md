@@ -14,7 +14,7 @@
 1. [2018 至 2020 年我国有超 12 万儿童和青少年被诊断为癌症](https://www.v2ex.com/t/898022) `25条评论` `健康`
 1. [2.5 机械盘适合做 nas 吗 读写只有 100 不到 会不会太慢 看个视频都拖不动进度条？](https://www.v2ex.com/t/898015) `18条评论` `NAS`
 1. [慎买黑色 iPhone ，竟然掉漆](https://www.v2ex.com/t/898012) `18条评论` `macOS`
-1. [各位大佬对云游戏的前景都持什么看法](https://www.v2ex.com/t/898074) `16条评论` `宽带症候群`
+1. [各位大佬对云游戏的前景都持什么看法](https://www.v2ex.com/t/898074) `17条评论` `宽带症候群`
 1. [广州静默了，下周全公司远程办公，关于 CodeWithMe 的问题](https://www.v2ex.com/t/898043) `16条评论` `程序员`
 1. [为何使用 inline 函数并不能达到真正 inline 写代码的性能？](https://www.v2ex.com/t/898026) `13条评论` `C++`
 1. [是哪个始作俑者把 out of memory 翻译成内存溢出的？](https://www.v2ex.com/t/898069) `12条评论` `问与答`
@@ -28,7 +28,7 @@
 1. [优豆云免费云主机真好用](https://www.v2ex.com/t/898020) `6条评论` `VPS`
 1. [问大家一个关于 tomcat 项目启动报 ClassNotFoundException: com.mysql.jdbc.Driver 的问题](https://www.v2ex.com/t/898018) `6条评论` `问与答`
 
-数据更新于 2022-11-26 07:37:28
+数据更新于 2022-11-26 07:47:45
 
 <!-- TODAY END -->
 
