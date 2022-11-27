@@ -17,22 +17,23 @@
 1. [一百多年来，论辩的魂灵从未改变](https://www.v2ex.com/t/898225) `22条评论` `分享发现`
 1. [iphone11 电池 72%了！](https://www.v2ex.com/t/898229) `15条评论` `iPhone`
 1. [工地到设计院！？](https://www.v2ex.com/t/898204) `15条评论` `问与答`
-1. [突然发现 edge 相比 chrome 占用内存更大](https://www.v2ex.com/t/898253) `11条评论` `浏览器`
+1. [突然发现 edge 相比 chrome 占用内存更大](https://www.v2ex.com/t/898253) `13条评论` `浏览器`
+1. [如何评价既要还要](https://www.v2ex.com/t/898247) `13条评论` `问与答`
+1. [想为 sci-hub 与 zlibrary 做一点什么，除了捐款，还能干啥？](https://www.v2ex.com/t/898236) `12条评论` `问与答`
 1. [求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) `11条评论` `美酒与美食`
-1. [如何评价既要还要](https://www.v2ex.com/t/898247) `10条评论` `问与答`
+1. [使用电信网络无法从 AppStore 下载 telegram](https://www.v2ex.com/t/898242) `10条评论` `Telegram`
 1. [小 tips，《乌合之众》并非圭臬，仅是作者的观念集](https://www.v2ex.com/t/898237) `10条评论` `分享发现`
-1. [想为 sci-hub 与 zlibrary 做一点什么，除了捐款，还能干啥？](https://www.v2ex.com/t/898236) `10条评论` `问与答`
 1. [世界杯 PC 在哪看高清回放](https://www.v2ex.com/t/898230) `10条评论` `问与答`
-1. [使用电信网络无法从 AppStore 下载 telegram](https://www.v2ex.com/t/898242) `9条评论` `Telegram`
 1. [[ Swift ] 请问为什么 Swift Playground 打印结果会自动加上一对半角圆括号？](https://www.v2ex.com/t/898227) `9条评论` `Swift`
 1. [（Ctrl - a, e, p, n, b, f）可以模拟（Cmd - 左右）和方向键，那可以用什么组合键模拟（Option - 左右）？](https://www.v2ex.com/t/898220) `9条评论` `macOS`
 1. [Win11 有没有什么方法能简单有效的避免 UAC 弹窗](https://www.v2ex.com/t/898213) `8条评论` `问与答`
 1. [office 365 家庭五年](https://www.v2ex.com/t/898216) `8条评论` `Microsoft Office`
 1. [荷兰 Job Seeking Visa 申请组队？](https://www.v2ex.com/t/898211) `7条评论` `职场话题`
 1. [早上吃了个包子，发现是黑芝麻馅儿的](https://www.v2ex.com/t/898214) `7条评论` `分享发现`
+1. [不懂就问， mac Appstore 上架的应用还在允许不支持 apple silicon 吗？](https://www.v2ex.com/t/898246) `6条评论` `Apple`
 1. [红米手机屏幕未点亮收不到微信视频提醒](https://www.v2ex.com/t/898238) `6条评论` `问与答`
 
-数据更新于 2022-11-27 07:37:42
+数据更新于 2022-11-27 07:48:00
 
 <!-- TODAY END -->
 
