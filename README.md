@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么大家这么讨厌 Electron?](https://www.v2ex.com/t/899773) `37条评论` `程序员`
-1. [v 友们，头发偏软，有方法使得头发变硬吗？](https://www.v2ex.com/t/899768) `14条评论` `问与答`
-1. [关于 mac 上的播放器](https://www.v2ex.com/t/899756) `14条评论` `macOS`
+1. [为什么大家这么讨厌 Electron?](https://www.v2ex.com/t/899773) `42条评论` `程序员`
+1. [v 友们，头发偏软，有方法使得头发变硬吗？](https://www.v2ex.com/t/899768) `16条评论` `问与答`
+1. [关于 mac 上的播放器](https://www.v2ex.com/t/899756) `15条评论` `macOS`
 1. [各位大佬是如何完成外币支付的？](https://www.v2ex.com/t/899754) `13条评论` `问与答`
 1. [天冷就是老款 MBP 的福音，再也不担心发热导致降频了](https://www.v2ex.com/t/899753) `13条评论` `Apple`
-1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752) `11条评论` `分享发现`
+1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752) `12条评论` `分享发现`
 1. [求个馒头账号](https://www.v2ex.com/t/899766) `8条评论` `宽带症候群`
 1. [关于 jwt 做认证，有些疑问](https://www.v2ex.com/t/899780) `7条评论` `程序员`
 1. [有办法恢复各大直播平台的弹幕吗？](https://www.v2ex.com/t/899774) `6条评论` `程序员`
 1. [求助， vmware fusion 无法和 mac 之间复制文件](https://www.v2ex.com/t/899757) `6条评论` `Apple`
 1. [关于 angular 中依赖包莫名其妙的错误](https://www.v2ex.com/t/899755) `6条评论` `问与答`
 
-数据更新于 2022-12-03 05:17:09
+数据更新于 2022-12-03 05:28:29
 
 <!-- TODAY END -->
 
