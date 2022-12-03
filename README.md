@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么大家这么讨厌 Electron?](https://www.v2ex.com/t/899773) `72条评论` `程序员`
-1. [v 友们，头发偏软，有方法使得头发变硬吗？](https://www.v2ex.com/t/899768) `30条评论` `问与答`
+1. [为什么大家这么讨厌 Electron?](https://www.v2ex.com/t/899773) `75条评论` `程序员`
+1. [v 友们，头发偏软，有方法使得头发变硬吗？](https://www.v2ex.com/t/899768) `32条评论` `问与答`
+1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752) `22条评论` `分享发现`
 1. [天冷就是老款 MBP 的福音，再也不担心发热导致降频了](https://www.v2ex.com/t/899753) `18条评论` `Apple`
 1. [关于 mac 上的播放器](https://www.v2ex.com/t/899756) `17条评论` `macOS`
-1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752) `17条评论` `分享发现`
+1. [为啥不见女生晒桌面](https://www.v2ex.com/t/899792) `15条评论` `问与答`
 1. [各位大佬是如何完成外币支付的？](https://www.v2ex.com/t/899754) `15条评论` `问与答`
-1. [为啥不见女生晒桌面](https://www.v2ex.com/t/899792) `14条评论` `问与答`
-1. [volatile 有个疑惑](https://www.v2ex.com/t/899799) `13条评论` `Android`
+1. [volatile 有个疑惑](https://www.v2ex.com/t/899799) `14条评论` `Android`
 1. [阳了之后工时怎么算？](https://www.v2ex.com/t/899785) `13条评论` `职场话题`
+1. [求可以指定速率播放的 pc 播放器](https://www.v2ex.com/t/899787) `12条评论` `程序员`
 1. [小弟请教一个 amd 的问题， amd 玩游戏会有周期性卡顿](https://www.v2ex.com/t/899796) `11条评论` `问与答`
-1. [求可以指定速率播放的 pc 播放器](https://www.v2ex.com/t/899787) `11条评论` `程序员`
 1. [有办法恢复各大直播平台的弹幕吗？](https://www.v2ex.com/t/899774) `11条评论` `程序员`
 1. [问一个软路由上面 uu 加速器的问题](https://www.v2ex.com/t/899761) `10条评论` `宽带症候群`
 1. [关于 jwt 做认证，有些疑问](https://www.v2ex.com/t/899780) `9条评论` `程序员`
@@ -26,10 +26,12 @@
 1. [学生小弟求教，请问想学习写一个桌面应用，什么工具/框架最推荐？谢谢！](https://www.v2ex.com/t/899788) `8条评论` `问与答`
 1. [求个馒头账号](https://www.v2ex.com/t/899766) `8条评论` `宽带症候群`
 1. [自动识别购物网站上刷单严重的产品](https://www.v2ex.com/t/899793) `7条评论` `奇思妙想`
+1. [请教数据库请求与 rpc 之间的差异](https://www.v2ex.com/t/899811) `6条评论` `程序员`
+1. [chrome ext manifest v3 的 service worker (Inactive) 问题](https://www.v2ex.com/t/899797) `6条评论` `JavaScript`
 1. [求助， vmware fusion 无法和 mac 之间复制文件](https://www.v2ex.com/t/899757) `6条评论` `Apple`
 1. [关于 angular 中依赖包莫名其妙的错误](https://www.v2ex.com/t/899755) `6条评论` `问与答`
 
-数据更新于 2022-12-03 08:21:49
+数据更新于 2022-12-03 08:38:46
 
 <!-- TODAY END -->
 
