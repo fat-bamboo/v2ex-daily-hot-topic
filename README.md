@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934) `122条评论` `生活方式`
+1. [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934) `124条评论` `生活方式`
 1. [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016) `73条评论` `程序员`
-1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `63条评论` `分享发现`
+1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `64条评论` `分享发现`
 1. [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924) `55条评论` `程序员`
 1. [没有国外手机号,好想玩 CHATGPT🥺](https://www.v2ex.com/t/899956) `50条评论` `问与答`
 1. [shell 对于符号的要求好严格啊，有没有智能的 IDE 啊](https://www.v2ex.com/t/900033) `48条评论` `Linux`
@@ -24,8 +24,8 @@
 1. [hostiger 这么便宜，靠谱吗？](https://www.v2ex.com/t/899928) `21条评论` `VPS`
 1. [帮忙看看这份电脑配置单怎么样](https://www.v2ex.com/t/900002) `19条评论` `硬件`
 1. [关于国行的水果跟外国销售的苹果区别](https://www.v2ex.com/t/899946) `19条评论` `Apple`
+1. [ddl 看到这个英文词，大家想到什么？](https://www.v2ex.com/t/900051) `17条评论` `分享发现`
 1. [Google Photos 是 iOS 的绝配](https://www.v2ex.com/t/900014) `17条评论` `iOS`
-1. [ddl 看到这个英文词，大家想到什么？](https://www.v2ex.com/t/900051) `15条评论` `分享发现`
 1. [给老妈换个新的安卓手机，求推荐](https://www.v2ex.com/t/900024) `15条评论` `问与答`
 1. [为什么要通过 mask 的位运算才能判断 flag](https://www.v2ex.com/t/900022) `14条评论` `Android`
 1. [问了几个脑筋急转弯，看到 ChatGPT 的回答我就放心了](https://www.v2ex.com/t/900009) `14条评论` `分享发现`
@@ -33,7 +33,7 @@
 1. [这会是 gen10 plus 可以用的最低功耗 cpu 吗?](https://www.v2ex.com/t/899963) `13条评论` `硬件`
 1. [Ubuntu 22.04 RDP 远程提高帧率](https://www.v2ex.com/t/899922) `12条评论` `程序员`
 
-数据更新于 2022-12-04 17:59:32
+数据更新于 2022-12-04 18:24:41
 
 <!-- TODAY END -->
 
