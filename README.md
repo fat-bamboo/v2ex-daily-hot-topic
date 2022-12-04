@@ -31,9 +31,9 @@
 1. [问了几个脑筋急转弯，看到 ChatGPT 的回答我就放心了](https://www.v2ex.com/t/900009) `14条评论` `分享发现`
 1. [Next.JS 可以作为 fullstack 框架吗？](https://www.v2ex.com/t/899993) `13条评论` `JavaScript`
 1. [这会是 gen10 plus 可以用的最低功耗 cpu 吗?](https://www.v2ex.com/t/899963) `13条评论` `硬件`
-1. [Ubuntu 22.04 RDP 远程提高帧率](https://www.v2ex.com/t/899922) `12条评论` `程序员`
+1. [文件加密后体积膨胀](https://www.v2ex.com/t/900074) `12条评论` `程序员`
 
-数据更新于 2022-12-04 20:20:13
+数据更新于 2022-12-04 20:30:29
 
 <!-- TODAY END -->
 
