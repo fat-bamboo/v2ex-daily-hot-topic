@@ -10,7 +10,7 @@
 
 1. [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934) `122条评论` `生活方式`
 1. [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016) `72条评论` `程序员`
-1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `61条评论` `分享发现`
+1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `62条评论` `分享发现`
 1. [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924) `55条评论` `程序员`
 1. [没有国外手机号,好想玩 CHATGPT🥺](https://www.v2ex.com/t/899956) `50条评论` `问与答`
 1. [shell 对于符号的要求好严格啊，有没有智能的 IDE 啊](https://www.v2ex.com/t/900033) `48条评论` `Linux`
@@ -18,10 +18,10 @@
 1. [既然查手机，来个一劳永逸的办法](https://www.v2ex.com/t/899929) `37条评论` `问与答`
 1. [私人和重要数据不要存放在笔记软件 Craft 中](https://www.v2ex.com/t/899957) `34条评论` `macOS`
 1. [苹果开始准备撤出大陆](https://www.v2ex.com/t/899953) `33条评论` `Apple`
+1. [如何摆脱原始家庭带来的 emo？](https://www.v2ex.com/t/900038) `22条评论` `问与答`
 1. [挺佩服我一个高中同学和他的父母的](https://www.v2ex.com/t/900058) `21条评论` `随想`
 1. [🤖 普通人如何不被 OpenAI 取代？](https://www.v2ex.com/t/900031) `21条评论` `奇思妙想`
 1. [hostiger 这么便宜，靠谱吗？](https://www.v2ex.com/t/899928) `21条评论` `VPS`
-1. [如何摆脱原始家庭带来的 emo？](https://www.v2ex.com/t/900038) `20条评论` `问与答`
 1. [帮忙看看这份电脑配置单怎么样](https://www.v2ex.com/t/900002) `19条评论` `硬件`
 1. [关于国行的水果跟外国销售的苹果区别](https://www.v2ex.com/t/899946) `19条评论` `Apple`
 1. [Google Photos 是 iOS 的绝配](https://www.v2ex.com/t/900014) `17条评论` `iOS`
@@ -33,7 +33,7 @@
 1. [这会是 gen10 plus 可以用的最低功耗 cpu 吗?](https://www.v2ex.com/t/899963) `13条评论` `硬件`
 1. [Ubuntu 22.04 RDP 远程提高帧率](https://www.v2ex.com/t/899922) `12条评论` `程序员`
 
-数据更新于 2022-12-04 17:14:02
+数据更新于 2022-12-04 17:28:32
 
 <!-- TODAY END -->
 
