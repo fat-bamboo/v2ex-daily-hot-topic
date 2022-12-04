@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934) `93条评论` `生活方式`
+1. [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934) `97条评论` `生活方式`
 1. [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924) `46条评论` `程序员`
-1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `39条评论` `分享发现`
+1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `43条评论` `分享发现`
 1. [既然查手机，来个一劳永逸的办法](https://www.v2ex.com/t/899929) `37条评论` `问与答`
 1. [苹果开始准备撤出大陆](https://www.v2ex.com/t/899953) `33条评论` `Apple`
 1. [私人和重要数据不要存放在笔记软件 Craft 中](https://www.v2ex.com/t/899957) `32条评论` `macOS`
-1. [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016) `23条评论` `程序员`
+1. [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016) `30条评论` `程序员`
 1. [2022 年大家年终奖怎么样？](https://www.v2ex.com/t/899988) `22条评论` `问与答`
 1. [hostiger 这么便宜，靠谱吗？](https://www.v2ex.com/t/899928) `21条评论` `VPS`
 1. [关于国行的水果跟外国销售的苹果区别](https://www.v2ex.com/t/899946) `19条评论` `Apple`
 1. [没有国外手机号,好想玩 CHATGPT🥺](https://www.v2ex.com/t/899956) `14条评论` `问与答`
+1. [Next.JS 可以作为 fullstack 框架吗？](https://www.v2ex.com/t/899993) `13条评论` `JavaScript`
 1. [这会是 gen10 plus 可以用的最低功耗 cpu 吗?](https://www.v2ex.com/t/899963) `13条评论` `硬件`
-1. [Next.JS 可以作为 fullstack 框架吗？](https://www.v2ex.com/t/899993) `12条评论` `JavaScript`
 1. [Ubuntu 22.04 RDP 远程提高帧率](https://www.v2ex.com/t/899922) `12条评论` `程序员`
 1. [为什么要通过 mask 的位运算才能判断 flag](https://www.v2ex.com/t/900022) `11条评论` `Android`
 1. [刚在浙里办民呼我为平台上，举报公司强制 996，会暴露我自己的身份吗？](https://www.v2ex.com/t/899973) `11条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [关于阿里 Codeup 的云端 IDEA 是如何实现的？](https://www.v2ex.com/t/900006) `8条评论` `程序员`
 1. [请问 MackBook Air 16G 可以做移动开发（Android, iOS, Flutter）吗？流畅吗？](https://www.v2ex.com/t/899990) `8条评论` `问与答`
 
-数据更新于 2022-12-04 10:56:19
+数据更新于 2022-12-04 11:12:55
 
 <!-- TODAY END -->
 
