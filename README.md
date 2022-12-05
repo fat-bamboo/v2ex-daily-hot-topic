@@ -30,10 +30,10 @@
 1. [关于 AI 如何看待人类](https://www.v2ex.com/t/900158) `20条评论` `分享发现`
 1. [ubuntu 做日常办公可行么？](https://www.v2ex.com/t/900318) `17条评论` `Ubuntu`
 1. [探讨 ChatGPT 对软件行业和程序员工作的影响](https://www.v2ex.com/t/900213) `17条评论` `问与答`
+1. [都在关心 ai 会不会让程序员失业，最头疼不应该是 google 吗？](https://www.v2ex.com/t/900339) `15条评论` `程序员`
 1. [请教如何排查 nginx 未响应情况](https://www.v2ex.com/t/900260) `15条评论` `NGINX`
-1. [如何看待鸿蒙 OS 3.0 切换到英语由 HarmonyOS 变成了 Android System？](https://www.v2ex.com/t/900189) `15条评论` `分享发现`
 
-数据更新于 2022-12-05 23:47:00
+数据更新于 2022-12-05 23:57:33
 
 <!-- TODAY END -->
 
