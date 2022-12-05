@@ -15,17 +15,17 @@
 1. [NAS 伴侣，电费不便宜，能省一点是一点吧](https://www.v2ex.com/t/900105) `81条评论` `NAS`
 1. [请问有没有办法在 V2EX 屏蔽 chatGPT 回复？](https://www.v2ex.com/t/900131) `80条评论` `问与答`
 1. [为什么我看到 chatGPT 的回复就恶心？](https://www.v2ex.com/t/900177) `78条评论` `问与答`
+1. [淘宝更换 AirPods 电池，耳机被掉包](https://www.v2ex.com/t/900178) `64条评论` `程序员`
 1. [怎么看因放开都在屯感冒药](https://www.v2ex.com/t/900111) `64条评论` `问与答`
-1. [淘宝更换 AirPods 电池，耳机被掉包](https://www.v2ex.com/t/900178) `63条评论` `程序员`
 1. [ChatGPT 讲故事的能力真的很恐怖](https://www.v2ex.com/t/900264) `32条评论` `分享创造`
 1. [太遗憾了，即使在程序员这么多社区，也充斥着破坏软件的帖子](https://www.v2ex.com/t/900112) `30条评论` `程序员`
 1. [怎么看“鸿蒙 OS”3.0 切换到英语由 HarmonyOS 变成了 Android System？](https://www.v2ex.com/t/900312) `29条评论` `程序员`
 1. [朋友打算跑滴滴去了，问我选啥手机合适？](https://www.v2ex.com/t/900118) `27条评论` `问与答`
 1. [前端失业人员，请问在抖音做自媒体可行吗？](https://www.v2ex.com/t/900270) `25条评论` `问与答`
 1. [为什么用 Python 保存的图片色彩不对呢](https://www.v2ex.com/t/900227) `22条评论` `Python`
+1. [一针疫苗都没打，选什么种类好？](https://www.v2ex.com/t/900370) `21条评论` `问与答`
 1. [这个牛逼的 ChatGPT 是索引了全网内容，还是有自己独特的对语言的理解能力？](https://www.v2ex.com/t/900269) `21条评论` `程序员`
 1. [Infuse Pro 永久版](https://www.v2ex.com/t/900100) `21条评论` `Apple TV`
-1. [一针疫苗都没打，选什么种类好？](https://www.v2ex.com/t/900370) `20条评论` `问与答`
 1. [大家有过厌班症的状态吗？](https://www.v2ex.com/t/900273) `20条评论` `问与答`
 1. [关于 AI 如何看待人类](https://www.v2ex.com/t/900158) `20条评论` `分享发现`
 1. [ubuntu 做日常办公可行么？](https://www.v2ex.com/t/900318) `17条评论` `Ubuntu`
@@ -33,7 +33,7 @@
 1. [请教如何排查 nginx 未响应情况](https://www.v2ex.com/t/900260) `15条评论` `NGINX`
 1. [如何看待鸿蒙 OS 3.0 切换到英语由 HarmonyOS 变成了 Android System？](https://www.v2ex.com/t/900189) `15条评论` `分享发现`
 
-数据更新于 2022-12-05 22:57:56
+数据更新于 2022-12-05 23:20:46
 
 <!-- TODAY END -->
 
