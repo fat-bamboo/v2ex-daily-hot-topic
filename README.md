@@ -8,9 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-空空如也
+1. [NAS 伴侣，电费不便宜，能省一点是一点吧](https://www.v2ex.com/t/900105) `18条评论` `NAS`
+1. [Infuse Pro 永久版](https://www.v2ex.com/t/900100) `14条评论` `Apple TV`
 
-数据更新于 2022-12-05 00:00:02
+数据更新于 2022-12-05 01:46:31
 
 <!-- TODAY END -->
 
