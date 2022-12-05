@@ -25,15 +25,15 @@
 1. [为什么用 Python 保存的图片色彩不对呢](https://www.v2ex.com/t/900227) `22条评论` `Python`
 1. [这个牛逼的 ChatGPT 是索引了全网内容，还是有自己独特的对语言的理解能力？](https://www.v2ex.com/t/900269) `21条评论` `程序员`
 1. [Infuse Pro 永久版](https://www.v2ex.com/t/900100) `21条评论` `Apple TV`
+1. [一针疫苗都没打，选什么种类好？](https://www.v2ex.com/t/900370) `20条评论` `问与答`
 1. [大家有过厌班症的状态吗？](https://www.v2ex.com/t/900273) `20条评论` `问与答`
 1. [关于 AI 如何看待人类](https://www.v2ex.com/t/900158) `20条评论` `分享发现`
-1. [一针疫苗都没打，选什么种类好？](https://www.v2ex.com/t/900370) `19条评论` `问与答`
 1. [ubuntu 做日常办公可行么？](https://www.v2ex.com/t/900318) `17条评论` `Ubuntu`
 1. [探讨 ChatGPT 对软件行业和程序员工作的影响](https://www.v2ex.com/t/900213) `17条评论` `问与答`
 1. [请教如何排查 nginx 未响应情况](https://www.v2ex.com/t/900260) `15条评论` `NGINX`
 1. [如何看待鸿蒙 OS 3.0 切换到英语由 HarmonyOS 变成了 Android System？](https://www.v2ex.com/t/900189) `15条评论` `分享发现`
 
-数据更新于 2022-12-05 22:47:28
+数据更新于 2022-12-05 22:57:56
 
 <!-- TODAY END -->
 
