@@ -8,6 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
+1. [骑摩托车走中国母亲河黄河,心灵放松与自媒体结合，有可能火](https://www.v2ex.com/t/900388) `25条评论` `程序员`
+1. [几个朋友玩七日杀，我一直帮着搞服务器，现在云服务器配置不够，想买个二手服务器](https://www.v2ex.com/t/900387) `13条评论` `问与答`
+1. [QQ 为啥需要手机确认才能登陆，而我只想使用电脑上的 QQ 啊](https://www.v2ex.com/t/900392) `8条评论` `问与答`
+1. [Stack Overflow 禁用 ChatGPT](https://www.v2ex.com/t/900393) `7条评论` `程序员`
+1. [CPU 总是降频到 0.4Ghz，大家有什么排查方法吗？](https://www.v2ex.com/t/900395) `6条评论` `Windows`
+
+数据更新于 2022-12-06 01:38:12
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [OpenAI 推出超神 ChatGPT 注册攻略来了](https://www.v2ex.com/t/900126) `170条评论` `程序员`
 1. [2022 就要过去了， 各位怎么评价今年的自己？](https://www.v2ex.com/t/900169) `145条评论` `问与答`
 1. [昨天杭州不再开展常态化核酸了，现在全国疫情防控慢慢放开了，那些企业会不会有开始动作找人，那我在想明年的招聘需求会不会多起来了，有没有专业人士出来说两句](https://www.v2ex.com/t/900109) `132条评论` `问与答`
@@ -32,39 +46,6 @@
 1. [探讨 ChatGPT 对软件行业和程序员工作的影响](https://www.v2ex.com/t/900213) `17条评论` `问与答`
 1. [都在关心 ai 会不会让程序员失业，最头疼不应该是 google 吗？](https://www.v2ex.com/t/900339) `15条评论` `程序员`
 1. [请教如何排查 nginx 未响应情况](https://www.v2ex.com/t/900260) `15条评论` `NGINX`
-
-数据更新于 2022-12-05 23:57:33
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934) `127条评论` `生活方式`
-1. [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016) `81条评论` `程序员`
-1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927) `69条评论` `分享发现`
-1. [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924) `55条评论` `程序员`
-1. [没有国外手机号,好想玩 CHATGPT🥺](https://www.v2ex.com/t/899956) `52条评论` `问与答`
-1. [shell 对于符号的要求好严格啊，有没有智能的 IDE 啊](https://www.v2ex.com/t/900033) `49条评论` `Linux`
-1. [2022 年大家年终奖怎么样？](https://www.v2ex.com/t/899988) `42条评论` `问与答`
-1. [既然查手机，来个一劳永逸的办法](https://www.v2ex.com/t/899929) `37条评论` `问与答`
-1. [私人和重要数据不要存放在笔记软件 Craft 中](https://www.v2ex.com/t/899957) `35条评论` `macOS`
-1. [苹果开始准备撤出大陆](https://www.v2ex.com/t/899953) `33条评论` `Apple`
-1. [挺佩服我一个高中同学和他的父母的](https://www.v2ex.com/t/900058) `26条评论` `随想`
-1. [如何摆脱原始家庭带来的 emo？](https://www.v2ex.com/t/900038) `22条评论` `问与答`
-1. [🤖 普通人如何不被 OpenAI 取代？](https://www.v2ex.com/t/900031) `21条评论` `奇思妙想`
-1. [hostiger 这么便宜，靠谱吗？](https://www.v2ex.com/t/899928) `21条评论` `VPS`
-1. [帮忙看看这份电脑配置单怎么样](https://www.v2ex.com/t/900002) `19条评论` `硬件`
-1. [关于国行的水果跟外国销售的苹果区别](https://www.v2ex.com/t/899946) `19条评论` `Apple`
-1. [ddl 看到这个英文词，大家想到什么？](https://www.v2ex.com/t/900051) `18条评论` `分享发现`
-1. [Google Photos 是 iOS 的绝配](https://www.v2ex.com/t/900014) `17条评论` `iOS`
-1. [给老妈换个新的安卓手机，求推荐](https://www.v2ex.com/t/900024) `15条评论` `问与答`
-1. [为什么要通过 mask 的位运算才能判断 flag](https://www.v2ex.com/t/900022) `14条评论` `Android`
-1. [问了几个脑筋急转弯，看到 ChatGPT 的回答我就放心了](https://www.v2ex.com/t/900009) `14条评论` `分享发现`
-1. [Next.JS 可以作为 fullstack 框架吗？](https://www.v2ex.com/t/899993) `13条评论` `JavaScript`
-1. [这会是 gen10 plus 可以用的最低功耗 cpu 吗?](https://www.v2ex.com/t/899963) `13条评论` `硬件`
-1. [文件加密后体积膨胀](https://www.v2ex.com/t/900074) `12条评论` `程序员`
 
 <!-- YESTERDAY END -->
 
