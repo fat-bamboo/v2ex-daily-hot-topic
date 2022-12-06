@@ -13,7 +13,7 @@
 1. [骑摩托车走中国母亲河黄河,心灵放松与自媒体结合，有可能火](https://www.v2ex.com/t/900388) `122条评论` `程序员`
 1. [真的受不了 AC+AP 了，我要回 MESH，请问该选购哪款路由器？](https://www.v2ex.com/t/900467) `90条评论` `宽带症候群`
 1. [第一年送老丈人什么酒？大家觉得梦 6 怎么样？我是滴酒不沾的小白](https://www.v2ex.com/t/900506) `87条评论` `问与答`
-1. [如何评价本次 github 被大范围 dns 污染](https://www.v2ex.com/t/900605) `81条评论` `宽带症候群`
+1. [如何评价本次 github 被大范围 dns 污染](https://www.v2ex.com/t/900605) `82条评论` `宽带症候群`
 1. [头痛后续](https://www.v2ex.com/t/900399) `69条评论` `健康`
 1. [终于能在 macOS 上愉快的使用鼠标了](https://www.v2ex.com/t/900408) `61条评论` `macOS`
 1. [如何检测一段文本是否是 ChatGPT 等 AI 生成的？](https://www.v2ex.com/t/900403) `59条评论` `OpenAI`
@@ -33,7 +33,7 @@
 1. [好想换 m1 pro 的 Mac，求打醒](https://www.v2ex.com/t/900629) `17条评论` `MacBook Pro`
 1. [icloud 云上贵州版无法连接服务器， find my 无法连接服务器](https://www.v2ex.com/t/900515) `17条评论` `iCloud`
 
-数据更新于 2022-12-06 17:39:48
+数据更新于 2022-12-06 17:50:16
 
 <!-- TODAY END -->
 
