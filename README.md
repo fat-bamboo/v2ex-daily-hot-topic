@@ -15,7 +15,7 @@
 1. [真的受不了 AC+AP 了，我要回 MESH，请问该选购哪款路由器？](https://www.v2ex.com/t/900467) `91条评论` `宽带症候群`
 1. [第一年送老丈人什么酒？大家觉得梦 6 怎么样？我是滴酒不沾的小白](https://www.v2ex.com/t/900506) `87条评论` `问与答`
 1. [头痛后续](https://www.v2ex.com/t/900399) `69条评论` `健康`
-1. [从 Microsoft Edge 又切换到 Chrome 了。](https://www.v2ex.com/t/900563) `63条评论` `浏览器`
+1. [从 Microsoft Edge 又切换到 Chrome 了。](https://www.v2ex.com/t/900563) `64条评论` `浏览器`
 1. [终于能在 macOS 上愉快的使用鼠标了](https://www.v2ex.com/t/900408) `61条评论` `macOS`
 1. [如何检测一段文本是否是 ChatGPT 等 AI 生成的？](https://www.v2ex.com/t/900403) `59条评论` `OpenAI`
 1. [也写个常备药建议：个人/家庭应对奥密克戎备忘录（仅西药）](https://www.v2ex.com/t/900404) `57条评论` `文学`
@@ -33,7 +33,7 @@
 1. [虽说是要放开了 但是医护人员检测更严格了](https://www.v2ex.com/t/900428) `18条评论` `生活`
 1. [icloud 云上贵州版无法连接服务器， find my 无法连接服务器](https://www.v2ex.com/t/900515) `17条评论` `iCloud`
 
-数据更新于 2022-12-06 20:18:47
+数据更新于 2022-12-06 20:30:01
 
 <!-- TODAY END -->
 
