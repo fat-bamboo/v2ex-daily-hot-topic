@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [既然不喜欢小猫，为什么要摸小猫的头呢🥺](https://www.v2ex.com/t/900666) `68条评论` `生活`
+1. [既然不喜欢小猫，为什么要摸小猫的头呢🥺](https://www.v2ex.com/t/900666) `71条评论` `生活`
 1. [刚开始减肥，预算 2000，安卓手表有啥可以推荐的？](https://www.v2ex.com/t/900675) `34条评论` `问与答`
 1. [2 年半的 iPhone11 健康度 86 正常吗](https://www.v2ex.com/t/900667) `34条评论` `问与答`
 1. [关于努力就会有回报](https://www.v2ex.com/t/900689) `31条评论` `分享发现`
@@ -17,19 +17,21 @@
 1. [什么方式可以下载 onlyfans 的视频吗？](https://www.v2ex.com/t/900694) `22条评论` `问与答`
 1. [请教 Springboot 接口 RPS 优化问题](https://www.v2ex.com/t/900684) `22条评论` `程序员`
 1. [试试用它来写工作日报，生成代码等](https://www.v2ex.com/t/900669) `20条评论` `分享创造`
+1. [卷不动了，想干点副业，我去楼下卖烤肠靠谱不](https://www.v2ex.com/t/900711) `15条评论` `杭州`
 1. [如果你对 MacBook Pro 的屏幕亮度不满意](https://www.v2ex.com/t/900721) `13条评论` `Apple`
-1. [卷不动了，想干点副业，我去楼下卖烤肠靠谱不](https://www.v2ex.com/t/900711) `13条评论` `杭州`
 1. [让 chatGPT 做饭，感觉 AI 还不会合理地拒绝](https://www.v2ex.com/t/900674) `13条评论` `OpenAI`
 1. [chaGPT 不仅可以写代码，还可以"跑"代码](https://www.v2ex.com/t/900683) `12条评论` `OpenAI`
 1. [微信 UI 可用性也太差了，还是说放弃了小屏幕用户？](https://www.v2ex.com/t/900676) `12条评论` `程序员`
 1. [b 站这是给我推了些啥呀…](https://www.v2ex.com/t/900713) `10条评论` `哔哩哔哩`
 1. [为什么 iPad 连 wifi 比 mac 和 iPhone 要差？](https://www.v2ex.com/t/900670) `10条评论` `iPad`
+1. [关于 ChatGPT 我们也许理解错了](https://www.v2ex.com/t/900733) `9条评论` `OpenAI`
 1. [chatgpt telegram 机器人, 可以聊天测试 ChatGPT 啦](https://www.v2ex.com/t/900716) `7条评论` `程序员`
 1. [chatGPT 官方网页端的回答显示不全，怎么破？](https://www.v2ex.com/t/900703) `7条评论` `问与答`
 1. [长沙的冬天真的太冷了](https://www.v2ex.com/t/900665) `7条评论` `问与答`
+1. [市面上有哪些聊天或者说工作聊天软件有几个人拉个群讨论工作问题，讨论完自动解散的功能？](https://www.v2ex.com/t/900730) `6条评论` `问与答`
 1. [有没有 Sentry 的开源替代品？可以自己部署的，只要错误管理，不需要性能监控。感觉 Sentry 现在很臃肿。](https://www.v2ex.com/t/900700) `6条评论` `Sentry`
 
-数据更新于 2022-12-07 03:56:14
+数据更新于 2022-12-07 04:20:22
 
 <!-- TODAY END -->
 
