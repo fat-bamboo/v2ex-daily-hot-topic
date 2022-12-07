@@ -17,23 +17,23 @@
 1. [什么方式可以下载 onlyfans 的视频吗？](https://www.v2ex.com/t/900694) `22条评论` `问与答`
 1. [请教 Springboot 接口 RPS 优化问题](https://www.v2ex.com/t/900684) `22条评论` `程序员`
 1. [试试用它来写工作日报，生成代码等](https://www.v2ex.com/t/900669) `20条评论` `分享创造`
-1. [如果你对 MacBook Pro 的屏幕亮度不满意](https://www.v2ex.com/t/900721) `17条评论` `Apple`
+1. [如果你对 MacBook Pro 的屏幕亮度不满意](https://www.v2ex.com/t/900721) `19条评论` `Apple`
 1. [卷不动了，想干点副业，我去楼下卖烤肠靠谱不](https://www.v2ex.com/t/900711) `15条评论` `杭州`
+1. [关于 ChatGPT 我们也许理解错了](https://www.v2ex.com/t/900733) `13条评论` `OpenAI`
 1. [让 chatGPT 做饭，感觉 AI 还不会合理地拒绝](https://www.v2ex.com/t/900674) `13条评论` `OpenAI`
-1. [关于 ChatGPT 我们也许理解错了](https://www.v2ex.com/t/900733) `12条评论` `OpenAI`
+1. [市面上有哪些聊天或者说工作聊天软件有几个人拉个群讨论工作问题，讨论完自动解散的功能？](https://www.v2ex.com/t/900730) `12条评论` `问与答`
 1. [chaGPT 不仅可以写代码，还可以"跑"代码](https://www.v2ex.com/t/900683) `12条评论` `OpenAI`
 1. [微信 UI 可用性也太差了，还是说放弃了小屏幕用户？](https://www.v2ex.com/t/900676) `12条评论` `程序员`
-1. [市面上有哪些聊天或者说工作聊天软件有几个人拉个群讨论工作问题，讨论完自动解散的功能？](https://www.v2ex.com/t/900730) `11条评论` `问与答`
+1. [看到一个去掉 app 开屏广告的方法](https://www.v2ex.com/t/900726) `11条评论` `分享发现`
 1. [b 站这是给我推了些啥呀…](https://www.v2ex.com/t/900713) `10条评论` `哔哩哔哩`
 1. [为什么 iPad 连 wifi 比 mac 和 iPhone 要差？](https://www.v2ex.com/t/900670) `10条评论` `iPad`
-1. [看到一个去掉 app 开屏广告的方法](https://www.v2ex.com/t/900726) `8条评论` `分享发现`
+1. [如何给 OPEN AI 账户充值](https://www.v2ex.com/t/900745) `7条评论` `OpenAI`
 1. [chatgpt telegram 机器人, 可以聊天测试 ChatGPT 啦](https://www.v2ex.com/t/900716) `7条评论` `程序员`
 1. [chatGPT 官方网页端的回答显示不全，怎么破？](https://www.v2ex.com/t/900703) `7条评论` `问与答`
 1. [长沙的冬天真的太冷了](https://www.v2ex.com/t/900665) `7条评论` `问与答`
-1. [如何给 OPEN AI 账户充值](https://www.v2ex.com/t/900745) `6条评论` `OpenAI`
-1. [控制安卓的远程桌面工具有吗？](https://www.v2ex.com/t/900725) `6条评论` `问与答`
+1. [下午绩效面谈，完全不知道有何意义](https://www.v2ex.com/t/900748) `6条评论` `职场话题`
 
-数据更新于 2022-12-07 04:48:12
+数据更新于 2022-12-07 04:58:44
 
 <!-- TODAY END -->
 
