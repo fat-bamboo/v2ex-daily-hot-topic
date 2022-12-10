@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么不在保证药物供应后再放开呢](https://www.v2ex.com/t/901531) `112条评论` `问与答`
+1. [为什么不在保证药物供应后再放开呢](https://www.v2ex.com/t/901531) `113条评论` `问与答`
 1. [买不到布洛芬怎么办](https://www.v2ex.com/t/901507) `82条评论` `问与答`
 1. [过年反而不敢回家了](https://www.v2ex.com/t/901483) `56条评论` `问与答`
 1. [今天加班的报个到🙋‍](https://www.v2ex.com/t/901489) `52条评论` `程序员`
@@ -17,9 +17,9 @@
 1. [AlDente Pro 那里有车](https://www.v2ex.com/t/901505) `35条评论` `macOS`
 1. [刚看了 B 站《三体》前两集，谈谈感想。有剧透，注意！](https://www.v2ex.com/t/901528) `35条评论` `剧集`
 1. [求问各位大佬如何选择学习用的发行版](https://www.v2ex.com/t/901479) `34条评论` `Linux`
+1. [TG 虚拟号值得买吗？](https://www.v2ex.com/t/901581) `34条评论` `问与答`
 1. [如果我设计了一款能打败 Salesforce 的 SaaS 平台，占多少股份比较合适](https://www.v2ex.com/t/901529) `33条评论` `Daydream`
-1. [TG 虚拟号值得买吗？](https://www.v2ex.com/t/901581) `33条评论` `问与答`
-1. [潮州特斯拉肯定是 bug](https://www.v2ex.com/t/901595) `24条评论` `电动汽车`
+1. [潮州特斯拉肯定是 bug](https://www.v2ex.com/t/901595) `26条评论` `电动汽车`
 1. [新版 Mac QQ 上架 App Store 了](https://www.v2ex.com/t/901526) `20条评论` `Apple`
 1. [京东现在乱到了无以复加的程度，从招商到售后客服都乱](https://www.v2ex.com/t/901537) `17条评论` `全球工单系统`
 1. [js 判断 id 改变 input 中 value 的部分内容，怎么弄啊。](https://www.v2ex.com/t/901476) `17条评论` `JavaScript`
@@ -33,7 +33,7 @@
 1. [Setapp 似乎要有大动作🤔](https://www.v2ex.com/t/901532) `9条评论` `Apple`
 1. [go-sql-driver/mysql 支持读写分离吗](https://www.v2ex.com/t/901500) `9条评论` `Go 编程语言`
 
-数据更新于 2022-12-10 14:16:21
+数据更新于 2022-12-10 14:28:08
 
 <!-- TODAY END -->
 
