@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [买不到布洛芬怎么办](https://www.v2ex.com/t/901507) `65条评论` `问与答`
+1. [买不到布洛芬怎么办](https://www.v2ex.com/t/901507) `68条评论` `问与答`
+1. [为什么不在保证药物供应后再放开呢](https://www.v2ex.com/t/901531) `58条评论` `问与答`
 1. [过年反而不敢回家了](https://www.v2ex.com/t/901483) `54条评论` `问与答`
-1. [为什么不在保证药物供应后再放开呢](https://www.v2ex.com/t/901531) `51条评论` `问与答`
-1. [今天加班的报个到🙋‍](https://www.v2ex.com/t/901489) `49条评论` `程序员`
-1. [三体动画马上在 b 站首播，还有不到一个小时，看了下 pv，感觉和小说差别很大](https://www.v2ex.com/t/901482) `37条评论` `分享发现`
+1. [今天加班的报个到🙋‍](https://www.v2ex.com/t/901489) `50条评论` `程序员`
+1. [三体动画马上在 b 站首播，还有不到一个小时，看了下 pv，感觉和小说差别很大](https://www.v2ex.com/t/901482) `38条评论` `分享发现`
 1. [防止 PayPal 风控经验分享](https://www.v2ex.com/t/901493) `37条评论` `分享发现`
 1. [如果我设计了一款能打败 Salesforce 的 SaaS 平台，占多少股份比较合适](https://www.v2ex.com/t/901529) `33条评论` `Daydream`
 1. [刚看了 B 站《三体》前两集，谈谈感想。有剧透，注意！](https://www.v2ex.com/t/901528) `30条评论` `剧集`
 1. [求问各位大佬如何选择学习用的发行版](https://www.v2ex.com/t/901479) `29条评论` `Linux`
 1. [新版 Mac QQ 上架 App Store 了](https://www.v2ex.com/t/901526) `20条评论` `Apple`
 1. [js 判断 id 改变 input 中 value 的部分内容，怎么弄啊。](https://www.v2ex.com/t/901476) `17条评论` `JavaScript`
-1. [京东现在乱到了无以复加的程度，从招商到售后客服都乱](https://www.v2ex.com/t/901537) `15条评论` `全球工单系统`
+1. [京东现在乱到了无以复加的程度，从招商到售后客服都乱](https://www.v2ex.com/t/901537) `16条评论` `全球工单系统`
 1. [你们都是如何管理控制微信存储空间的？](https://www.v2ex.com/t/901478) `14条评论` `问与答`
 1. [求熟悉 git 大佬，遇到一个 git 问题阻塞](https://www.v2ex.com/t/901504) `12条评论` `git`
 1. [域名解析到海外 VPS，再反代回腾讯云，可行吗](https://www.v2ex.com/t/901494) `12条评论` `VPS`
 1. [域名绑定 ipv6 解析无效](https://www.v2ex.com/t/901554) `10条评论` `宽带症候群`
 1. [决赛圈 酷狗音乐和 QQ 音乐哪家最强？](https://www.v2ex.com/t/901523) `10条评论` `Apple`
+1. [Setapp 似乎要有大动作🤔](https://www.v2ex.com/t/901532) `9条评论` `Apple`
 1. [AlDente Pro 那里有车](https://www.v2ex.com/t/901505) `9条评论` `macOS`
 1. [go-sql-driver/mysql 支持读写分离吗](https://www.v2ex.com/t/901500) `9条评论` `Go 编程语言`
 1. [吸尘器，戴森 v8 or 博世 s8?](https://www.v2ex.com/t/901485) `9条评论` `问与答`
-1. [Setapp 似乎要有大动作🤔](https://www.v2ex.com/t/901532) `8条评论` `Apple`
+1. [MBP 的屏幕是不是没救了？怎么都擦不干净](https://www.v2ex.com/t/901572) `8条评论` `MacBook Pro`
 1. [想做个一站式应用运维平台，你们怎么看](https://www.v2ex.com/t/901520) `8条评论` `奇思妙想`
 1. [怎么把原来的 url 得到的某个地址，替换其中的域名呢？](https://www.v2ex.com/t/901497) `8条评论` `PHP`
-1. [Redis cluster 每次请求都会请求两次 Redis 吧，感觉好浪费](https://www.v2ex.com/t/901488) `8条评论` `程序员`
 
-数据更新于 2022-12-10 11:13:26
+数据更新于 2022-12-10 11:25:37
 
 <!-- TODAY END -->
 
