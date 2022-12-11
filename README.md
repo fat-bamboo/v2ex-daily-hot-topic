@@ -8,14 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [身份 ID 未来能否改成二维码，有什么难点？](https://www.v2ex.com/t/901663) `32条评论` `问与答`
+1. [身份 ID 未来能否改成二维码，有什么难点？](https://www.v2ex.com/t/901663) `36条评论` `问与答`
 1. [我阳了](https://www.v2ex.com/t/901667) `27条评论` `生活`
-1. [问下 V 友们，你们手机内存多少？](https://www.v2ex.com/t/901660) `23条评论` `问与答`
-1. [pdd 百亿补贴买的 macbook pro 如何添加 applecare+](https://www.v2ex.com/t/901662) `19条评论` `Apple`
-1. [索尼 zv 1f 相机怎么样](https://www.v2ex.com/t/901670) `14条评论` `问与答`
+1. [问下 V 友们，你们手机内存多少？](https://www.v2ex.com/t/901660) `24条评论` `问与答`
+1. [pdd 百亿补贴买的 macbook pro 如何添加 applecare+](https://www.v2ex.com/t/901662) `20条评论` `Apple`
+1. [知乎上看到一个对为什么放开的猜想，绷不住了](https://www.v2ex.com/t/901686) `18条评论` `生活`
+1. [索尼 zv 1f 相机怎么样](https://www.v2ex.com/t/901670) `18条评论` `问与答`
+1. [关于我在 v 友群里买脐橙被搞无语的那点事](https://www.v2ex.com/t/901685) `14条评论` `随想`
 1. [ios 的下次询问定位权限的设计有点多余啊](https://www.v2ex.com/t/901671) `7条评论` `iOS`
 
-数据更新于 2022-12-11 03:56:09
+数据更新于 2022-12-11 04:20:46
 
 <!-- TODAY END -->
 
