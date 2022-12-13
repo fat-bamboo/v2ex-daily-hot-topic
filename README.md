@@ -23,17 +23,17 @@
 1. [😂喜闻乐见系列之： iPhone14pro 512G 到手不到一个月，已经丢失了](https://www.v2ex.com/t/902226) `37条评论` `Apple`
 1. [公司电脑不准 Google ，下软件得要申请](https://www.v2ex.com/t/902273) `32条评论` `职场话题`
 1. [现在是不是申请不到电信固定的公网 v4 的 IP 了](https://www.v2ex.com/t/902133) `28条评论` `程序员`
-1. [2022 年冬月, Java 后端工程师拒绝使用 kotlin 的技术原因有哪些?](https://www.v2ex.com/t/902298) `25条评论` `Java`
+1. [2022 年冬月, Java 后端工程师拒绝使用 kotlin 的技术原因有哪些?](https://www.v2ex.com/t/902298) `26条评论` `Java`
 1. [微信突然被封号](https://www.v2ex.com/t/902266) `24条评论` `微信`
 1. [安卓上有可以后台播放 YouTube 的浏览器吗？除了 firefox](https://www.v2ex.com/t/902103) `24条评论` `问与答`
 1. [一台预装了正版 windows 的笔记本，格式化硬盘之后，还能找回原 windows 正版授权吗？](https://www.v2ex.com/t/902272) `22条评论` `Windows`
 1. [「燃油宝」真的有用，还是智商税？](https://www.v2ex.com/t/902251) `21条评论` `汽车`
 1. [个人项目蹲一位后端大佬](https://www.v2ex.com/t/902221) `20条评论` `求职`
 1. [要想不被裁员还是需要增加被替代的成本](https://www.v2ex.com/t/902253) `19条评论` `生活`
+1. [小作文:脱离群众的人在为民请命](https://www.v2ex.com/t/902297) `18条评论` `问与答`
 1. [K40s 刷了 PixelExperience os 开启代理还是访问不了 Google](https://www.v2ex.com/t/902259) `18条评论` `Android`
-1. [小作文:脱离群众的人在为民请命](https://www.v2ex.com/t/902297) `17条评论` `问与答`
 
-数据更新于 2022-12-13 17:30:19
+数据更新于 2022-12-13 17:40:48
 
 <!-- TODAY END -->
 
