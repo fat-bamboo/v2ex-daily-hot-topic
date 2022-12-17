@@ -8,18 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有没什么治疗咳嗽的灵药？](https://www.v2ex.com/t/903094) `22条评论` `问与答`
-1. [真的是珍爱生命，远离 todesk，动不动就不给你连接](https://www.v2ex.com/t/903102) `20条评论` `程序员`
+1. [有没什么治疗咳嗽的灵药？](https://www.v2ex.com/t/903094) `25条评论` `问与答`
+1. [真的是珍爱生命，远离 todesk，动不动就不给你连接](https://www.v2ex.com/t/903102) `22条评论` `程序员`
 1. [安卓对于两个重名的 Wifi 是如何处理并连接的？](https://www.v2ex.com/t/903082) `14条评论` `Android`
+1. [请问各位大大为何大陆几乎没有人用 Zorin distro 的？](https://www.v2ex.com/t/903099) `13条评论` `Linux`
 1. [怎么区分西药中药](https://www.v2ex.com/t/903098) `13条评论` `问与答`
-1. [请问各位大大为何大陆几乎没有人用 Zorin distro 的？](https://www.v2ex.com/t/903099) `12条评论` `Linux`
-1. [bitwarden 的两个功能缺陷：导出，同步](https://www.v2ex.com/t/903105) `10条评论` `程序员`
-1. [Macbook Pro 14 电池容量只剩 82%了](https://www.v2ex.com/t/903090) `7条评论` `Apple`
+1. [如何看待上海中小学校自 12 月 19 日起，除初三、高三年级外，全部调整为线上教学](https://www.v2ex.com/t/903116) `11条评论` `上海`
+1. [bitwarden 的两个功能缺陷：导出，同步](https://www.v2ex.com/t/903105) `11条评论` `程序员`
+1. [Macbook Pro 14 电池容量只剩 82%了](https://www.v2ex.com/t/903090) `9条评论` `Apple`
+1. [tesila.org 弄个非盈利论坛会不会被特斯拉告了？](https://www.v2ex.com/t/903096) `7条评论` `问与答`
 1. [小宇宙 fm 没有网页版么？想在电脑上收听](https://www.v2ex.com/t/903101) `6条评论` `问与答`
-1. [tesila.org 弄个非盈利论坛会不会被特斯拉告了？](https://www.v2ex.com/t/903096) `6条评论` `问与答`
 1. [Windows 上能不能做到:覆盖正在运行中的 exe?或者删除运行中的 EXE?](https://www.v2ex.com/t/903087) `6条评论` `Windows`
 
-数据更新于 2022-12-17 03:59:58
+数据更新于 2022-12-17 04:24:59
 
 <!-- TODAY END -->
 
