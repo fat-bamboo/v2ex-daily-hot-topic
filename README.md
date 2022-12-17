@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有没什么治疗咳嗽的灵药？](https://www.v2ex.com/t/903094) `20条评论` `问与答`
-1. [真的是珍爱生命，远离 todesk，动不动就不给你连接](https://www.v2ex.com/t/903102) `13条评论` `程序员`
+1. [有没什么治疗咳嗽的灵药？](https://www.v2ex.com/t/903094) `21条评论` `问与答`
+1. [真的是珍爱生命，远离 todesk，动不动就不给你连接](https://www.v2ex.com/t/903102) `15条评论` `程序员`
+1. [怎么区分西药中药](https://www.v2ex.com/t/903098) `12条评论` `问与答`
 1. [请问各位大大为何大陆几乎没有人用 Zorin distro 的？](https://www.v2ex.com/t/903099) `11条评论` `Linux`
-1. [bitwarden 的两个功能缺陷：导出，同步](https://www.v2ex.com/t/903105) `9条评论` `程序员`
-1. [怎么区分西药中药](https://www.v2ex.com/t/903098) `8条评论` `问与答`
-1. [安卓对于两个重名的 Wifi 是如何处理并连接的？](https://www.v2ex.com/t/903082) `7条评论` `Android`
+1. [bitwarden 的两个功能缺陷：导出，同步](https://www.v2ex.com/t/903105) `10条评论` `程序员`
+1. [安卓对于两个重名的 Wifi 是如何处理并连接的？](https://www.v2ex.com/t/903082) `8条评论` `Android`
 1. [小宇宙 fm 没有网页版么？想在电脑上收听](https://www.v2ex.com/t/903101) `6条评论` `问与答`
 1. [Windows 上能不能做到:覆盖正在运行中的 exe?或者删除运行中的 EXE?](https://www.v2ex.com/t/903087) `6条评论` `Windows`
 
-数据更新于 2022-12-17 03:28:56
+数据更新于 2022-12-17 03:39:16
 
 <!-- TODAY END -->
 
