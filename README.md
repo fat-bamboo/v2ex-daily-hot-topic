@@ -33,7 +33,7 @@
 1. [Linux suspend 之后无法唤起](https://www.v2ex.com/t/904420) `8条评论` `Linux`
 1. [Java 的泛型能够向 golang 一样， T 可以表示多个类型？](https://www.v2ex.com/t/904511) `7条评论` `程序员`
 
-数据更新于 2022-12-24 21:27:00
+数据更新于 2022-12-24 21:37:33
 
 <!-- TODAY END -->
 
