@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. ["Sorry, I'm bearish on China's financial and tech sectors for the next decade."](https://www.v2ex.com/t/904536) `35条评论` `随想`
+1. ["Sorry, I'm bearish on China's financial and tech sectors for the next decade."](https://www.v2ex.com/t/904536) `37条评论` `随想`
+1. [小孩阳了一直没啥明显症状，需不需要做个检查](https://www.v2ex.com/t/904533) `18条评论` `问与答`
 1. [大家来谈谈自己 [新冠] 之后，身体，工作，生活，人生各种感受](https://www.v2ex.com/t/904541) `18条评论` `远程工作`
-1. [小孩阳了一直没啥明显症状，需不需要做个检查](https://www.v2ex.com/t/904533) `17条评论` `问与答`
 1. [兼顾国内外访问的域名和 dns](https://www.v2ex.com/t/904540) `15条评论` `程序员`
+1. [自从 Jony Ive 走了苹果就再也没有创新精神了](https://www.v2ex.com/t/904555) `14条评论` `Apple`
 1. [博朗耳温枪电池](https://www.v2ex.com/t/904531) `14条评论` `问与答`
-1. [自从 Jony Ive 走了苹果就再也没有创新精神了](https://www.v2ex.com/t/904555) `12条评论` `Apple`
 1. [个人信息被盗后, 挂失重办身份证是否有用处? 如何较小成本防止被盗信息被滥用?](https://www.v2ex.com/t/904552) `9条评论` `信息安全`
 1. [聊天工具，好像缺少一个 @列表，用来查看 @我的，@所有人 的消息](https://www.v2ex.com/t/904535) `9条评论` `全球工单系统`
 1. [考研人问问还有多的药品资源吗？](https://www.v2ex.com/t/904527) `9条评论` `深圳`
@@ -23,7 +23,7 @@
 1. [macOS 上使用 webdav 连群晖速度是 smb 的几十倍](https://www.v2ex.com/t/904554) `6条评论` `NAS`
 1. [有什么适合搭配网盘使用的加密文件系统推荐吗？](https://www.v2ex.com/t/904538) `6条评论` `问与答`
 
-数据更新于 2022-12-25 05:39:09
+数据更新于 2022-12-25 05:49:39
 
 <!-- TODAY END -->
 
