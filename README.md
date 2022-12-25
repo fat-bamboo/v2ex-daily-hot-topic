@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. ["Sorry, I'm bearish on China's financial and tech sectors for the next decade."](https://www.v2ex.com/t/904536) `38条评论` `随想`
-1. [大家来谈谈自己 [新冠] 之后，身体，工作，生活，人生各种感受](https://www.v2ex.com/t/904541) `25条评论` `远程工作`
-1. [小孩阳了一直没啥明显症状，需不需要做个检查](https://www.v2ex.com/t/904533) `21条评论` `问与答`
+1. ["Sorry, I'm bearish on China's financial and tech sectors for the next decade."](https://www.v2ex.com/t/904536) `42条评论` `随想`
+1. [大家来谈谈自己 [新冠] 之后，身体，工作，生活，人生各种感受](https://www.v2ex.com/t/904541) `26条评论` `远程工作`
+1. [小孩阳了一直没啥明显症状，需不需要做个检查](https://www.v2ex.com/t/904533) `22条评论` `问与答`
 1. [自从 Jony Ive 走了苹果就再也没有创新精神了](https://www.v2ex.com/t/904555) `15条评论` `Apple`
 1. [兼顾国内外访问的域名和 dns](https://www.v2ex.com/t/904540) `15条评论` `程序员`
 1. [博朗耳温枪电池](https://www.v2ex.com/t/904531) `15条评论` `问与答`
@@ -25,7 +25,7 @@
 1. [fork 的进程怎么自动 attach 到当前的 os.Std{in/out/err}而不是自动退出](https://www.v2ex.com/t/904546) `6条评论` `Go 编程语言`
 1. [有什么适合搭配网盘使用的加密文件系统推荐吗？](https://www.v2ex.com/t/904538) `6条评论` `问与答`
 
-数据更新于 2022-12-25 06:24:28
+数据更新于 2022-12-25 06:38:05
 
 <!-- TODAY END -->
 
