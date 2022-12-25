@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [大家来谈谈自己 [新冠] 之后，身体，工作，生活，人生各种感受](https://www.v2ex.com/t/904541) `58条评论` `远程工作`
+1. [大家来谈谈自己 [新冠] 之后，身体，工作，生活，人生各种感受](https://www.v2ex.com/t/904541) `59条评论` `远程工作`
+1. [该来的还是来了：北京殡仪馆爆满，火化遗体数量翻三倍](https://www.v2ex.com/t/904582) `58条评论` `北京`
 1. ["Sorry, I'm bearish on China's financial and tech sectors for the next decade."](https://www.v2ex.com/t/904536) `58条评论` `随想`
-1. [该来的还是来了：北京殡仪馆爆满，火化遗体数量翻三倍](https://www.v2ex.com/t/904582) `54条评论` `北京`
 1. [新冠真的大概率会得肺炎吗？](https://www.v2ex.com/t/904572) `46条评论` `问与答`
 1. [求推荐油管上讲国内未来经济发展的靠谱的博主及视频](https://www.v2ex.com/t/904564) `44条评论` `问与答`
 1. [自从 Jony Ive 走了苹果就再也没有创新精神了](https://www.v2ex.com/t/904555) `31条评论` `Apple`
@@ -33,7 +33,7 @@
 1. [iOS 有油管的第三方客户端吗？](https://www.v2ex.com/t/904547) `8条评论` `Apple`
 1. [M1 Air 外接显示器突然只能 4K 30 帧，重启换线都无解](https://www.v2ex.com/t/904526) `8条评论` `Apple`
 
-数据更新于 2022-12-25 10:46:03
+数据更新于 2022-12-25 10:56:27
 
 <!-- TODAY END -->
 
