@@ -9,14 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [Sublime 弹窗](https://www.v2ex.com/t/905745) `17条评论` `Sublime Text`
-1. [mac 上有适合 4 岁小朋友学习电脑的软件吗？](https://www.v2ex.com/t/905734) `12条评论` `程序员`
-1. [聊聊我的 12 岁](https://www.v2ex.com/t/905733) `12条评论` `生活`
+1. [mac 上有适合 4 岁小朋友学习电脑的软件吗？](https://www.v2ex.com/t/905734) `14条评论` `程序员`
+1. [聊聊我的 12 岁](https://www.v2ex.com/t/905733) `14条评论` `生活`
 1. [开发了一款 ATV 下的阿里云盘视频播放器](https://www.v2ex.com/t/905728) `9条评论` `Apple TV`
 1. [求大佬们推荐一款摄像头](https://www.v2ex.com/t/905727) `9条评论` `问与答`
-1. [网易邮箱大师 mac 版支持 m1 了](https://www.v2ex.com/t/905746) `7条评论` `Apple`
-1. [有什么好的音乐客户端或者平台推荐的吗](https://www.v2ex.com/t/905749) `6条评论` `音乐`
+1. [网易邮箱大师 mac 版支持 m1 了](https://www.v2ex.com/t/905746) `8条评论` `Apple`
+1. [有什么好的音乐客户端或者平台推荐的吗](https://www.v2ex.com/t/905749) `7条评论` `音乐`
+1. [求 Linux 的跳转代码](https://www.v2ex.com/t/905744) `6条评论` `程序员`
 
-数据更新于 2022-12-31 04:25:09
+数据更新于 2022-12-31 04:38:43
 
 <!-- TODAY END -->
 
