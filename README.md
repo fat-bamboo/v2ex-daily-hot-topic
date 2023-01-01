@@ -31,9 +31,9 @@
 1. [为何 Java 从配置文件读取的时间参数会被强制认为是 Date 类型？设置 Object 类型会被强制转换成完整的 Date 格式？](https://www.v2ex.com/t/905904) `12条评论` `Java`
 1. [上海联通原始速率 1000m 宽带现在可以去叠加 1 元/月的 100m 上行提速包了](https://www.v2ex.com/t/905888) `12条评论` `宽带症候群`
 1. [iOS 16.2 正式版值得刷入吗？](https://www.v2ex.com/t/905874) `12条评论` `iOS`
-1. [求推荐 mbp 14 m1 外接显示器～](https://www.v2ex.com/t/905939) `11条评论` `MacBook Pro`
+1. [Python 折腾 web 交互的痛](https://www.v2ex.com/t/905941) `11条评论` `Python`
 
-数据更新于 2023-01-01 15:39:19
+数据更新于 2023-01-01 15:49:38
 
 <!-- TODAY END -->
 
