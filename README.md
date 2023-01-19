@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [兔年送码大福利！这一次来真的： iNFC Pro / iTelevision Pro / iSMS Pro / iContact Pro / iDraft Pro 五选 1，留下 [邮箱+选项] ，全部送完，送完为止！](https://www.v2ex.com/t/909811) `183条评论` `推广`
+1. [兔年送码大福利！这一次来真的： iNFC Pro / iTelevision Pro / iSMS Pro / iContact Pro / iDraft Pro 五选 1，留下 [邮箱+选项] ，全部送完，送完为止！](https://www.v2ex.com/t/909811) `185条评论` `推广`
 1. [问界 m7 投诉车辆问题结果接到单位领导电话](https://www.v2ex.com/t/909816) `71条评论` `汽车`
-1. [请问如何保存网上看到的好帖子、文章等？](https://www.v2ex.com/t/909823) `56条评论` `问与答`
-1. [大家今年都拿了几个月年终奖？](https://www.v2ex.com/t/909860) `54条评论` `职场话题`
-1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814) `47条评论` `HomePod`
+1. [请问如何保存网上看到的好帖子、文章等？](https://www.v2ex.com/t/909823) `58条评论` `问与答`
+1. [大家今年都拿了几个月年终奖？](https://www.v2ex.com/t/909860) `55条评论` `职场话题`
+1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814) `50条评论` `HomePod`
 1. [如果养宠物总是要分别伤心难受，为什么还要养？](https://www.v2ex.com/t/909871) `30条评论` `问与答`
 1. [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851) `30条评论` `程序员`
 1. [小县城低学历运维人员生存指南](https://www.v2ex.com/t/909824) `30条评论` `分享发现`
@@ -28,12 +28,12 @@
 1. [MBP M1Pro 14 寸 trade-in 这么不值钱的吗？](https://www.v2ex.com/t/909818) `16条评论` `Apple`
 1. [微服务就是模块化？](https://www.v2ex.com/t/909835) `15条评论` `程序员`
 1. [如何搭建这样的订阅转换网站？](https://www.v2ex.com/t/909812) `15条评论` `问与答`
+1. [想买个 Mac mini 放家里](https://www.v2ex.com/t/909890) `14条评论` `Apple`
 1. [看到新的 MacBook Pro M2 终于集成了 HDMI 2.1 接口输出 4k@144hz，那么下次系统升级终于可以解锁 HDMI 2.1 了吧？](https://www.v2ex.com/t/909878) `14条评论` `macOS`
-1. [想买个 Mac mini 放家里](https://www.v2ex.com/t/909890) `13条评论` `Apple`
 1. [不懂就问，为什么解决问题到单位领导头上这么好使？](https://www.v2ex.com/t/909887) `12条评论` `问与答`
 1. [有人邮政包裹在路上么，卡在哪里了，被卡几天了](https://www.v2ex.com/t/909846) `12条评论` `生活`
 
-数据更新于 2023-01-19 09:57:18
+数据更新于 2023-01-19 10:20:39
 
 <!-- TODAY END -->
 
