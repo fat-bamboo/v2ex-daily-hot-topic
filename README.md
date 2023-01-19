@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [兔年送码大福利！这一次来真的： iNFC Pro / iTelevision Pro / iSMS Pro / iContact Pro / iDraft Pro 五选 1，留下 [邮箱+选项] ，全部送完，送完为止！](https://www.v2ex.com/t/909811) `204条评论` `推广`
+1. [兔年送码大福利！这一次来真的： iNFC Pro / iTelevision Pro / iSMS Pro / iContact Pro / iDraft Pro 五选 1，留下 [邮箱+选项] ，全部送完，送完为止！](https://www.v2ex.com/t/909811) `205条评论` `推广`
 1. [大家今年都拿了几个月年终奖？](https://www.v2ex.com/t/909860) `74条评论` `职场话题`
 1. [请问如何保存网上看到的好帖子、文章等？](https://www.v2ex.com/t/909823) `74条评论` `问与答`
 1. [问界 m7 投诉车辆问题结果接到单位领导电话](https://www.v2ex.com/t/909816) `71条评论` `汽车`
-1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814) `59条评论` `HomePod`
+1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814) `60条评论` `HomePod`
 1. [小县城低学历运维人员生存指南](https://www.v2ex.com/t/909824) `47条评论` `分享发现`
 1. [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851) `43条评论` `程序员`
+1. [大过年了，和老婆吵了一架，年饭都不想准备了](https://www.v2ex.com/t/909948) `40条评论` `生活`
 1. [我在高速上追尾了别人，家人们, 路上开车一定要注意安全](https://www.v2ex.com/t/909810) `40条评论` `程序员`
 1. [如果养宠物总是要分别伤心难受，为什么还要养？](https://www.v2ex.com/t/909871) `39条评论` `问与答`
-1. [大过年了，和老婆吵了一架，年饭都不想准备了](https://www.v2ex.com/t/909948) `38条评论` `生活`
 1. [装个畅玩巫师三的主机，但是 1700 块](https://www.v2ex.com/t/909856) `29条评论` `游戏`
 1. [有没有懂心理学的大哥老弟看看我这是什么病？](https://www.v2ex.com/t/909884) `25条评论` `问与答`
 1. [非 MacOS 用户值得入手这次学生优惠的 MacMini 吗？](https://www.v2ex.com/t/909914) `23条评论` `macOS`
 1. [加油卡值得办理么？](https://www.v2ex.com/t/909813) `22条评论` `汽车`
 1. [十多年的 windows 技术栈程序员怎么入门 Linux （国产系统）？](https://www.v2ex.com/t/909815) `21条评论` `问与答`
+1. [你们用 JetBrains 家的产品是付费购买?邮箱?还是插件.](https://www.v2ex.com/t/909962) `19条评论` `程序员`
 1. [iPhone 为何会有"无法提供峰值导致意外关机"的设计？](https://www.v2ex.com/t/909875) `19条评论` `Apple`
-1. [你们用 JetBrains 家的产品是付费购买?邮箱?还是插件.](https://www.v2ex.com/t/909962) `18条评论` `程序员`
 1. [还有多少人在玩《帝国时代 2》？我六七岁的时候开始接触，但最近才刚刚入门。](https://www.v2ex.com/t/909847) `18条评论` `游戏`
 1. [有什么稍后阅读应用推荐的吗？](https://www.v2ex.com/t/909825) `18条评论` `程序员`
 1. [类原生系统在大陆境内 NFC 支付还有解吗](https://www.v2ex.com/t/909942) `17条评论` `Android`
 1. [apple airpods pro 2 代出来这么久了，还有跟 1 代一样出现降噪减弱的情况吗？](https://www.v2ex.com/t/909920) `17条评论` `Apple`
 1. [哪个大佬给个馒头的药](https://www.v2ex.com/t/909822) `16条评论` `宽带症候群`
 1. [MBP M1Pro 14 寸 trade-in 这么不值钱的吗？](https://www.v2ex.com/t/909818) `16条评论` `Apple`
-1. [想买个 Mac mini 放家里](https://www.v2ex.com/t/909890) `15条评论` `Apple`
+1. [大家会把日记和笔记分开吗？](https://www.v2ex.com/t/909943) `15条评论` `问与答`
 
-数据更新于 2023-01-19 15:33:51
+数据更新于 2023-01-19 15:45:58
 
 <!-- TODAY END -->
 
