@@ -29,11 +29,11 @@
 1. [想买个 Mac mini 放家里](https://www.v2ex.com/t/909890) `15条评论` `Apple`
 1. [微服务就是模块化？](https://www.v2ex.com/t/909835) `15条评论` `程序员`
 1. [如何搭建这样的订阅转换网站？](https://www.v2ex.com/t/909812) `15条评论` `问与答`
+1. [非 MacOS 用户值得入手这次学生优惠的 MacMini 吗？](https://www.v2ex.com/t/909914) `14条评论` `macOS`
 1. [不懂就问，为什么解决问题到单位领导头上这么好使？](https://www.v2ex.com/t/909887) `14条评论` `问与答`
 1. [看到新的 MacBook Pro M2 终于集成了 HDMI 2.1 接口输出 4k@144hz，那么下次系统升级终于可以解锁 HDMI 2.1 了吧？](https://www.v2ex.com/t/909878) `14条评论` `macOS`
-1. [非 MacOS 用户值得入手这次学生优惠的 MacMini 吗？](https://www.v2ex.com/t/909914) `13条评论` `macOS`
 
-数据更新于 2023-01-19 11:49:13
+数据更新于 2023-01-19 11:59:32
 
 <!-- TODAY END -->
 
