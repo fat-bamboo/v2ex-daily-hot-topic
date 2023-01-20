@@ -22,7 +22,7 @@
 1. [Mac 每隔 10s 卡顿一次，疑难杂症请求各位大神给点思路](https://www.v2ex.com/t/910082) `21条评论` `macOS`
 1. [如何让 Google Map 在插国内 SIM 卡时显示图片和评论？](https://www.v2ex.com/t/910017) `21条评论` `Apple`
 1. [上架 App Store 流程中遇到一个奇怪的 Bug](https://www.v2ex.com/t/909988) `20条评论` `程序员`
-1. [如果发现一位关系很要好的朋友信 xie 教，你会怎么办？](https://www.v2ex.com/t/910104) `16条评论` `问与答`
+1. [如果发现一位关系很要好的朋友信 xie 教，你会怎么办？](https://www.v2ex.com/t/910104) `17条评论` `问与答`
 1. [有没有像我一样今年春节学精了不更新各种 app](https://www.v2ex.com/t/910085) `13条评论` `程序员`
 1. [macbook pro 刘海问题让我觉得苹果真的是爸爸。](https://www.v2ex.com/t/910067) `13条评论` `MacBook Pro`
 1. [HDTime 限时开放注册](https://www.v2ex.com/t/910026) `13条评论` `分享发现`
@@ -33,7 +33,7 @@
 1. [安卓有什么可以代替 iOS 提醒事项的 APP](https://www.v2ex.com/t/910060) `11条评论` `Apple`
 1. [SQLite 的文艺复兴](https://www.v2ex.com/t/910008) `11条评论` `分享创造`
 
-数据更新于 2023-01-20 19:36:12
+数据更新于 2023-01-20 19:46:38
 
 <!-- TODAY END -->
 
