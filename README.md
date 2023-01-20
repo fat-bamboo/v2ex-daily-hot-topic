@@ -16,15 +16,15 @@
 1. [2023 年了，有什么性价比高、既要又要还要的路由器推荐？](https://www.v2ex.com/t/909995) `44条评论` `问与答`
 1. [学费生活费预算 20w，现在还有合适的水硕项目吗](https://www.v2ex.com/t/910025) `40条评论` `程序员`
 1. [有没有好吃 吃起来方便 饱肚子 健康的食物推荐？](https://www.v2ex.com/t/910081) `36条评论` `问与答`
-1. [wCaptcha, 一个基于工作量证明的 CAPTCHA](https://www.v2ex.com/t/910042) `29条评论` `分享创造`
+1. [wCaptcha, 一个基于工作量证明的 CAPTCHA](https://www.v2ex.com/t/910042) `30条评论` `分享创造`
 1. [服务最好是无状态的是什么意思](https://www.v2ex.com/t/910002) `28条评论` `程序员`
 1. [小米手机使用 UPnP 协议，这是要干嘛?](https://www.v2ex.com/t/910000) `23条评论` `程序员`
 1. [如果发现一位关系很要好的朋友信 xie 教，你会怎么办？](https://www.v2ex.com/t/910104) `22条评论` `问与答`
 1. [Mac 每隔 10s 卡顿一次，疑难杂症请求各位大神给点思路](https://www.v2ex.com/t/910082) `22条评论` `macOS`
 1. [如何让 Google Map 在插国内 SIM 卡时显示图片和评论？](https://www.v2ex.com/t/910017) `21条评论` `Apple`
 1. [上架 App Store 流程中遇到一个奇怪的 Bug](https://www.v2ex.com/t/909988) `20条评论` `程序员`
+1. [macbook pro 刘海问题让我觉得苹果真的是爸爸。](https://www.v2ex.com/t/910067) `14条评论` `MacBook Pro`
 1. [有没有像我一样今年春节学精了不更新各种 app](https://www.v2ex.com/t/910085) `13条评论` `程序员`
-1. [macbook pro 刘海问题让我觉得苹果真的是爸爸。](https://www.v2ex.com/t/910067) `13条评论` `MacBook Pro`
 1. [HDTime 限时开放注册](https://www.v2ex.com/t/910026) `13条评论` `分享发现`
 1. [软考高级考哪个？](https://www.v2ex.com/t/909994) `13条评论` `问与答`
 1. [站在 2023 年这个时间点，选一个 Vue3 的 UI 组件库，哪个最成熟？](https://www.v2ex.com/t/909993) `13条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [五年“老”司机，不敢开车正常吗](https://www.v2ex.com/t/910100) `11条评论` `问与答`
 1. [安卓有什么可以代替 iOS 提醒事项的 APP](https://www.v2ex.com/t/910060) `11条评论` `Apple`
 
-数据更新于 2023-01-20 21:58:00
+数据更新于 2023-01-20 22:18:53
 
 <!-- TODAY END -->
 
