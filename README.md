@@ -14,9 +14,9 @@
 1. [吐槽下现在的羞羞视频](https://www.v2ex.com/t/910418) `37条评论` `问与答`
 1. [为什么最近国外科技公司裁员消息那么多😶‍🌫️](https://www.v2ex.com/t/910414) `36条评论` `问与答`
 1. [过年都是怎么应付亲戚的](https://www.v2ex.com/t/910415) `36条评论` `生活`
-1. [jellyfin/emby/plex/kodi 的最佳实践是什么?](https://www.v2ex.com/t/910440) `31条评论` `问与答`
+1. [jellyfin/emby/plex/kodi 的最佳实践是什么?](https://www.v2ex.com/t/910440) `32条评论` `问与答`
 1. [大厂里都有哪些基础设施是小厂难见到的？](https://www.v2ex.com/t/910430) `25条评论` `程序员`
-1. [在众多新能源车企中，为何特斯拉受到了如此多的争议？](https://www.v2ex.com/t/910443) `22条评论` `汽车`
+1. [在众多新能源车企中，为何特斯拉受到了如此多的争议？](https://www.v2ex.com/t/910443) `23条评论` `汽车`
 1. [Mac mini 较 Macbook 的一个优势](https://www.v2ex.com/t/910421) `21条评论` `Apple`
 1. [需要 32G 内存，现在这个节点，苹果设备该怎么选](https://www.v2ex.com/t/910434) `20条评论` `macOS`
 1. [Mac mini 的 10Gb 以太网有哪些家庭使用场景？](https://www.v2ex.com/t/910449) `15条评论` `Apple`
@@ -24,7 +24,7 @@
 1. [别的地方没人讨论流浪地球 2 中的 550 系列量子计算机，所以我来这里发个贴。](https://www.v2ex.com/t/910450) `13条评论` `程序员`
 1. [国内电脑用户相比手机用户都有哪些特点？](https://www.v2ex.com/t/910420) `13条评论` `问与答`
 1. [我写了 scheme-langserver，大家有什么想要问的问题么？](https://www.v2ex.com/t/910417) `13条评论` `Visual Studio Code`
-1. [如何劝说家里迷信和传统的人](https://www.v2ex.com/t/910469) `11条评论` `随想`
+1. [如何劝说家里迷信和传统的人](https://www.v2ex.com/t/910469) `12条评论` `随想`
 1. [海外版 iPhone 和实体卡购买请教](https://www.v2ex.com/t/910444) `11条评论` `程序员`
 1. [我办的广州 500m 游戏宽带不走 cn2 了，该怎么办？](https://www.v2ex.com/t/910426) `9条评论` `宽带症候群`
 1. [如何对抗控评](https://www.v2ex.com/t/910423) `9条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [Apple Mac mini 的“巧妙”价格分级设置，大家选 Studio 还是选 mini 呢？](https://www.v2ex.com/t/910454) `7条评论` `Apple`
 1. [注册 Google 跳过手机的方法](https://www.v2ex.com/t/910437) `7条评论` `分享发现`
 
-数据更新于 2023-01-24 10:45:53
+数据更新于 2023-01-24 10:56:25
 
 <!-- TODAY END -->
 
