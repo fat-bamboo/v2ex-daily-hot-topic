@@ -11,14 +11,15 @@
 1. [十几二十年没联系的一班同学找你开同学会](https://www.v2ex.com/t/910411) `29条评论` `问与答`
 1. [过年都是怎么应付亲戚的](https://www.v2ex.com/t/910415) `29条评论` `生活`
 1. [为什么最近国外科技公司裁员消息那么多😶‍🌫️](https://www.v2ex.com/t/910414) `25条评论` `问与答`
-1. [iOS 和 mac OS 都有新版本了](https://www.v2ex.com/t/910409) `20条评论` `Apple`
-1. [吐槽下现在的羞羞视频](https://www.v2ex.com/t/910418) `17条评论` `问与答`
-1. [即将第一次看车、买车，求点经验](https://www.v2ex.com/t/910425) `13条评论` `汽车`
+1. [iOS 和 mac OS 都有新版本了](https://www.v2ex.com/t/910409) `21条评论` `Apple`
+1. [吐槽下现在的羞羞视频](https://www.v2ex.com/t/910418) `18条评论` `问与答`
+1. [即将第一次看车、买车，求点经验](https://www.v2ex.com/t/910425) `16条评论` `汽车`
+1. [Mac mini 较 Macbook 的一个优势](https://www.v2ex.com/t/910421) `12条评论` `Apple`
 1. [有什么开源的可以自建的歌曲和电影库程序？](https://www.v2ex.com/t/910412) `11条评论` `问与答`
-1. [Mac mini 较 Macbook 的一个优势](https://www.v2ex.com/t/910421) `9条评论` `Apple`
 1. [我写了 scheme-langserver，大家有什么想要问的问题么？](https://www.v2ex.com/t/910417) `6条评论` `Visual Studio Code`
+1. [问：传统单体项目（SSH 自研框架，未做业务拆分，阅读困难），新团队微服务改造，该基于老代码改造，还是？](https://www.v2ex.com/t/910413) `6条评论` `问与答`
 
-数据更新于 2023-01-24 04:55:38
+数据更新于 2023-01-24 05:13:32
 
 <!-- TODAY END -->
 
