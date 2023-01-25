@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [这个年过的，真不舒服](https://www.v2ex.com/t/910529) `78条评论` `程序员`
-1. [想问一下大家服务器都装的什么系统](https://www.v2ex.com/t/910554) `61条评论` `问与答`
-1. [windows 11 固态硬盘 大内存, pagefile.sys swapfile.sys 和 hiberfil.sys 能删吗?](https://www.v2ex.com/t/910542) `34条评论` `Windows`
+1. [这个年过的，真不舒服](https://www.v2ex.com/t/910529) `79条评论` `程序员`
+1. [想问一下大家服务器都装的什么系统](https://www.v2ex.com/t/910554) `62条评论` `问与答`
+1. [windows 11 固态硬盘 大内存, pagefile.sys swapfile.sys 和 hiberfil.sys 能删吗?](https://www.v2ex.com/t/910542) `35条评论` `Windows`
 1. [新产品求赐名](https://www.v2ex.com/t/910532) `28条评论` `问与答`
 1. [现在买个什么魅族手机？](https://www.v2ex.com/t/910528) `19条评论` `问与答`
 1. [3 年多 iPhone11 电池健康降到 79 了，现在耗电非常快，问下官方换电池要多久 价格多少，靠谱吗，不开国产软件一点不卡，还打算再当主力机用 3 年](https://www.v2ex.com/t/910561) `18条评论` `iPhone`
@@ -33,7 +33,7 @@
 1. [V 友们入户防盗门如何防止夹手？过年手指差点被夹断](https://www.v2ex.com/t/910568) `8条评论` `问与答`
 1. [MPV 播放器 UI 相对好看的第三方版本是？](https://www.v2ex.com/t/910564) `8条评论` `问与答`
 
-数据更新于 2023-01-25 11:36:00
+数据更新于 2023-01-25 11:46:14
 
 <!-- TODAY END -->
 
