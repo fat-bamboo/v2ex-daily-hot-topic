@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [和一位 art director 聊了一下，感觉目前的 AI 已经很可怕了](https://www.v2ex.com/t/910801) `29条评论` `分享发现`
-1. [农村居住环境的改善](https://www.v2ex.com/t/910807) `26条评论` `分享发现`
-1. [看测评 Mac Mini M2 最基础版果然是个坑呀](https://www.v2ex.com/t/910841) `25条评论` `Apple`
+1. [农村居住环境的改善](https://www.v2ex.com/t/910807) `27条评论` `分享发现`
+1. [看测评 Mac Mini M2 最基础版果然是个坑呀](https://www.v2ex.com/t/910841) `26条评论` `Apple`
 1. [Google ONE VPN 折腾记录](https://www.v2ex.com/t/910836) `22条评论` `分享发现`
 1. [新的安卓系统的“内存拓展”有意义吗？](https://www.v2ex.com/t/910834) `16条评论` `Android`
 1. [ipad9 还是 air5](https://www.v2ex.com/t/910831) `16条评论` `问与答`
@@ -23,7 +23,7 @@
 1. [开脑洞： AI for pets](https://www.v2ex.com/t/910804) `7条评论` `问与答`
 1. [有关于 DNS 优先级的疑问。](https://www.v2ex.com/t/910833) `6条评论` `DNS`
 
-数据更新于 2023-01-27 06:45:42
+数据更新于 2023-01-27 06:56:00
 
 <!-- TODAY END -->
 
