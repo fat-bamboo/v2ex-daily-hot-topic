@@ -10,17 +10,18 @@
 
 1. [和一位 art director 聊了一下，感觉目前的 AI 已经很可怕了](https://www.v2ex.com/t/910801) `26条评论` `分享发现`
 1. [农村居住环境的改善](https://www.v2ex.com/t/910807) `23条评论` `分享发现`
+1. [看测评 Mac Mini M2 最基础版果然是个坑呀](https://www.v2ex.com/t/910841) `17条评论` `Apple`
+1. [Google ONE VPN 折腾记录](https://www.v2ex.com/t/910836) `12条评论` `分享发现`
 1. [什么是思想开放，什么是思想保守？](https://www.v2ex.com/t/910826) `12条评论` `问与答`
-1. [看测评 Mac Mini M2 最基础版果然是个坑呀](https://www.v2ex.com/t/910841) `11条评论` `Apple`
+1. [新的安卓系统的“内存拓展”有意义吗？](https://www.v2ex.com/t/910834) `11条评论` `Android`
+1. [ipad9 还是 air5](https://www.v2ex.com/t/910831) `11条评论` `问与答`
 1. [大佬们实体图书消毒有什么好办法吗？](https://www.v2ex.com/t/910808) `11条评论` `程序员`
-1. [ipad9 还是 air5](https://www.v2ex.com/t/910831) `10条评论` `问与答`
 1. [以后我要让我孩子和所有所谓的亲戚断亲](https://www.v2ex.com/t/910816) `10条评论` `生活`
 1. [升级了 win11](https://www.v2ex.com/t/910803) `10条评论` `生活方式`
-1. [Google ONE VPN 折腾记录](https://www.v2ex.com/t/910836) `9条评论` `分享发现`
-1. [新的安卓系统的“内存拓展”有意义吗？](https://www.v2ex.com/t/910834) `8条评论` `Android`
+1. [我在 freeSSL.cn 申请 SSL 证书，拿到了专属的 ACME 链接，但我没有服务器，该怎么获取证书并让 github pages 开启 HTTPS 呢？](https://www.v2ex.com/t/910843) `6条评论` `问与答`
 1. [有关于 DNS 优先级的疑问。](https://www.v2ex.com/t/910833) `6条评论` `DNS`
 
-数据更新于 2023-01-27 05:40:13
+数据更新于 2023-01-27 05:50:44
 
 <!-- TODAY END -->
 
