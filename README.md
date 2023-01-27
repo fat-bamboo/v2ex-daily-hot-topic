@@ -11,7 +11,7 @@
 1. [看测评 Mac Mini M2 最基础版果然是个坑呀](https://www.v2ex.com/t/910841) `50条评论` `Apple`
 1. [农村居住环境的改善](https://www.v2ex.com/t/910807) `42条评论` `分享发现`
 1. [和一位 art director 聊了一下，感觉目前的 AI 已经很可怕了](https://www.v2ex.com/t/910801) `40条评论` `分享发现`
-1. [新的安卓系统的“内存拓展”有意义吗？](https://www.v2ex.com/t/910834) `37条评论` `Android`
+1. [新的安卓系统的“内存拓展”有意义吗？](https://www.v2ex.com/t/910834) `38条评论` `Android`
 1. [Google ONE VPN 折腾记录](https://www.v2ex.com/t/910836) `37条评论` `分享发现`
 1. [什么是思想开放，什么是思想保守？](https://www.v2ex.com/t/910826) `35条评论` `问与答`
 1. [如果我在 sz 有一套 250 平的房子，会怎么样](https://www.v2ex.com/t/910854) `30条评论` `奇思妙想`
@@ -33,7 +33,7 @@
 1. [我在 freeSSL.cn 申请 SSL 证书，拿到了专属的 ACME 链接，但我没有服务器，该怎么获取证书并让 github pages 开启 HTTPS 呢？](https://www.v2ex.com/t/910843) `8条评论` `问与答`
 1. [在移动硬盘中写代码怎么样](https://www.v2ex.com/t/910828) `8条评论` `问与答`
 
-数据更新于 2023-01-27 15:36:38
+数据更新于 2023-01-27 15:47:04
 
 <!-- TODAY END -->
 
