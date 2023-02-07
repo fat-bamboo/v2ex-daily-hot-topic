@@ -8,6 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
+1. [为啥欧美穿瑜伽紧身裤上街的女生那么普遍](https://www.v2ex.com/t/913786) `24条评论` `问与答`
+1. [Max Tech: 不要买 M2 Max 的 14” MacBook Pro](https://www.v2ex.com/t/913792) `13条评论` `MacBook Pro`
+1. [而立之年已近，打算明年在合肥买房（主要目标），包括考虑去合肥发展，合肥有什么值得进的企业吗？](https://www.v2ex.com/t/913788) `12条评论` `程序员`
+1. [大家来推荐一下自己现在喜欢听的播客](https://www.v2ex.com/t/913799) `11条评论` `问与答`
+1. [无限循环的动漫作品](https://www.v2ex.com/t/913801) `8条评论` `ACG`
+1. [注册 ChatGPT 验证手机号时有人遇到过这个问题吗](https://www.v2ex.com/t/913794) `7条评论` `问与答`
+1. [zlibrary 可以领个人三级域名了](https://www.v2ex.com/t/913795) `6条评论` `分享发现`
+
+数据更新于 2023-02-07 01:45:33
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [人一出生下来，命运全都是定了的吗？](https://www.v2ex.com/t/913472) `257条评论` `问与答`
 1. [M2 的 Mac 标配 8G 内存的行为，等于 iPhone13 配上 XS 祖传 4G 内存，吃相难看。](https://www.v2ex.com/t/913678) `151条评论` `Apple`
 1. [你们开车喜欢用哪个导航，为什么？](https://www.v2ex.com/t/913486) `144条评论` `问与答`
@@ -32,39 +48,6 @@
 1. [坐标 SZ，这水还能喝吗？想喝口水真不容易](https://www.v2ex.com/t/913516) `21条评论` `程序员`
 1. [特别好奇 35 岁以上的程序员都去哪里了？](https://www.v2ex.com/t/913764) `20条评论` `程序员`
 1. [PDD 消费者黑名单应用](https://www.v2ex.com/t/913709) `20条评论` `奇思妙想`
-
-数据更新于 2023-02-06 23:59:37
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [长期招靠谱前端、后端 3-5 年经验。25-30 岁](https://www.v2ex.com/t/913339) `130条评论` `酷工作`
-1. [我来检查 V 友的余额了！你们有多少铜币？](https://www.v2ex.com/t/913305) `89条评论` `问与答`
-1. [[打折+抽奖]DZ Reader Discuz X 论坛 通用阅读器](https://www.v2ex.com/t/913297) `74条评论` `分享创造`
-1. [大家来预测一下 MacBook 系列什么时候可以干掉刘海？](https://www.v2ex.com/t/913314) `69条评论` `Apple`
-1. [[求助] 如何搜索一张以前看过的图片](https://www.v2ex.com/t/913386) `44条评论` `问与答`
-1. [关于交友软件](https://www.v2ex.com/t/913278) `40条评论` `问与答`
-1. [今年怎么赚一辆 911？](https://www.v2ex.com/t/913358) `40条评论` `问与答`
-1. [教我妈用电脑随想](https://www.v2ex.com/t/913276) `39条评论` `随想`
-1. [内存能像硬盘那样被分区吗？](https://www.v2ex.com/t/913266) `28条评论` `问与答`
-1. [iCloud 被要求强制送中](https://www.v2ex.com/t/913413) `20条评论` `Apple`
-1. [如何最大可能发挥 apple watch 的作用](https://www.v2ex.com/t/913363) `18条评论` ` WATCH`
-1. [关于 mac 外接 27 4k 的疑问](https://www.v2ex.com/t/913342) `17条评论` `Apple`
-1. [pt.btschool.club 今天 Feb 5th 开放注册。同时作为 PT 萌新请教几个问题。](https://www.v2ex.com/t/913270) `16条评论` `问与答`
-1. [android 上有什么比较好的局域网共享文件方案？](https://www.v2ex.com/t/913410) `15条评论` `Android`
-1. [怎么预估退休后每一个月能领到多少退休金？](https://www.v2ex.com/t/913296) `15条评论` `问与答`
-1. [非全日学历实习焦虑](https://www.v2ex.com/t/913419) `14条评论` `程序员`
-1. [程序员养生建议有无](https://www.v2ex.com/t/913357) `14条评论` `问与答`
-1. [老玩家最近想上些新站所以求个馒头的药](https://www.v2ex.com/t/913411) `13条评论` `宽带症候群`
-1. [我的小电驴失踪了](https://www.v2ex.com/t/913377) `13条评论` `生活`
-1. [不懂就问，小米手环 6 无法复制加密卡](https://www.v2ex.com/t/913271) `13条评论` `问与答`
-1. [卸载微信可以提升手机速度](https://www.v2ex.com/t/913374) `12条评论` `问与答`
-1. [大家生产环境的 docker/k8s 跑在什么上？](https://www.v2ex.com/t/913409) `11条评论` `Kubernetes`
-1. [M2 Mac Mini 内存硬盘容量选择](https://www.v2ex.com/t/913446) `10条评论` `程序员`
-1. [关于 iPhone 的极致省电使用](https://www.v2ex.com/t/913406) `10条评论` `iPhone`
 
 <!-- YESTERDAY END -->
 
