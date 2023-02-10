@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Kafka GUI 客户端， Kafka Assistant 一年激活码抽送](https://www.v2ex.com/t/914776) `61条评论` `分享创造`
+1. [Kafka GUI 客户端， Kafka Assistant 一年激活码抽送](https://www.v2ex.com/t/914776) `63条评论` `分享创造`
 1. [QQ 挂了](https://www.v2ex.com/t/914814) `45条评论` `程序员`
 1. [目前已知唯一一个可以更改社交平台发言 IP 的软件](https://www.v2ex.com/t/914803) `44条评论` `杭州`
 1. [烘干机好用吗？](https://www.v2ex.com/t/914827) `37条评论` `问与答`
@@ -28,12 +28,12 @@
 1. [观“好物”帖有感，想问问 V 友们，有什么设备可以方便家里老人日常生活的](https://www.v2ex.com/t/914782) `9条评论` `问与答`
 1. [m1 mac 安装最新版 idea（2023.3.1）卡的飞起](https://www.v2ex.com/t/914779) `9条评论` `问与答`
 1. [如何通过技术手段发现对象出轨？](https://www.v2ex.com/t/914771) `9条评论` `问与答`
+1. [不懂就问， xr 和 11 怎么换电池靠谱一些？](https://www.v2ex.com/t/914828) `8条评论` `问与答`
 1. [ChatGPT Plus 有人体验了吗](https://www.v2ex.com/t/914769) `8条评论` `OpenAI`
-1. [不懂就问， xr 和 11 怎么换电池靠谱一些？](https://www.v2ex.com/t/914828) `7条评论` `问与答`
+1. [求推非文本文件版本控制方案](https://www.v2ex.com/t/914813) `7条评论` `问与答`
 1. [chatGPT 验证码问题](https://www.v2ex.com/t/914765) `7条评论` `问与答`
-1. [QQ 手机版登录不上去了](https://www.v2ex.com/t/914824) `6条评论` `问与答`
 
-数据更新于 2023-02-10 04:37:14
+数据更新于 2023-02-10 04:47:41
 
 <!-- TODAY END -->
 
