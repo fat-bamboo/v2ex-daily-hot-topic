@@ -8,25 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [收到邮件，带 ChatGPT 的新版 Bing 可以用了！](https://www.v2ex.com/t/915087) `33条评论` `微软`
+1. [收到邮件，带 ChatGPT 的新版 Bing 可以用了！](https://www.v2ex.com/t/915087) `34条评论` `微软`
 1. [全球通，神州行还有动感地带？移动你是真会玩啊](https://www.v2ex.com/t/915085) `32条评论` `宽带症候群`
 1. [智能 SQL 分析系统（我的新作品）](https://www.v2ex.com/t/915090) `19条评论` `程序员`
 1. [有没有便宜，方便操作的 NAS 存储设备推荐](https://www.v2ex.com/t/915083) `19条评论` `问与答`
 1. [pdd 百亿补贴的券是个什么原理？](https://www.v2ex.com/t/915082) `18条评论` `问与答`
 1. [推荐一个当下性价比高的电视盒子](https://www.v2ex.com/t/915108) `16条评论` `问与答`
-1. [我好像重阳了](https://www.v2ex.com/t/915097) `15条评论` `生活`
+1. [我好像重阳了](https://www.v2ex.com/t/915097) `16条评论` `生活`
 1. [求和 G304 体验相当的蓝牙鼠标推荐](https://www.v2ex.com/t/915098) `12条评论` `问与答`
 1. [打算卖掉用了 4 年的 MacBook 换 Mac mini](https://www.v2ex.com/t/915119) `11条评论` `Apple`
 1. [百度网盘好像抽风了？](https://www.v2ex.com/t/915084) `10条评论` `问与答`
 1. [最近遇到的一个需求](https://www.v2ex.com/t/915110) `9条评论` `问与答`
 1. [项目管理问题，老哥们是 gradle 用的多还是 maven 用的多](https://www.v2ex.com/t/915089) `9条评论` `问与答`
+1. [大佬们，推荐下 NAS 系统呗](https://www.v2ex.com/t/915115) `8条评论` `NAS`
 1. [我感觉在开源项目的基础上继续开发很麻烦，是段位太低了吗？](https://www.v2ex.com/t/915111) `8条评论` `问与答`
-1. [大佬们，推荐下 NAS 系统呗](https://www.v2ex.com/t/915115) `7条评论` `NAS`
-1. [icloud 土区被退大家遇到过这种情况吗？](https://www.v2ex.com/t/915103) `6条评论` `iCloud`
+1. [icloud 土区被退大家遇到过这种情况吗？](https://www.v2ex.com/t/915103) `7条评论` `iCloud`
 1. [Edge 地址栏如何提示浏览过的历史记录](https://www.v2ex.com/t/915101) `6条评论` `问与答`
 1. [我怀疑 ChatGPT 代码是抄来的，但是 Github 里根本没有用"ip2asn-v4.tsv"的代码](https://www.v2ex.com/t/915081) `6条评论` `OpenAI`
 
-数据更新于 2023-02-11 05:23:29
+数据更新于 2023-02-11 05:36:07
 
 <!-- TODAY END -->
 
