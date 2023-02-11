@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [全球通，神州行还有动感地带？移动你是真会玩啊](https://www.v2ex.com/t/915085) `44条评论` `宽带症候群`
-1. [收到邮件，带 ChatGPT 的新版 Bing 可以用了！](https://www.v2ex.com/t/915087) `41条评论` `微软`
+1. [全球通，神州行还有动感地带？移动你是真会玩啊](https://www.v2ex.com/t/915085) `47条评论` `宽带症候群`
+1. [收到邮件，带 ChatGPT 的新版 Bing 可以用了！](https://www.v2ex.com/t/915087) `42条评论` `微软`
 1. [pdd 百亿补贴的券是个什么原理？](https://www.v2ex.com/t/915082) `26条评论` `问与答`
 1. [推荐一个当下性价比高的电视盒子](https://www.v2ex.com/t/915108) `23条评论` `问与答`
 1. [请问在家怎么让两台电脑通过 NAS 快速同步代码](https://www.v2ex.com/t/915142) `22条评论` `NAS`
@@ -21,19 +21,19 @@
 1. [最近遇到的一个需求](https://www.v2ex.com/t/915110) `13条评论` `问与答`
 1. [打算卖掉用了 4 年的 MacBook 换 Mac mini](https://www.v2ex.com/t/915119) `12条评论` `Apple`
 1. [我感觉在开源项目的基础上继续开发很麻烦，是段位太低了吗？](https://www.v2ex.com/t/915111) `12条评论` `问与答`
+1. [学生现在有办法申请 visa 卡吗](https://www.v2ex.com/t/915161) `10条评论` `问与答`
 1. [假如算力,训练方法,数据都一样,训练出来的 ai 是否完全一样,是复制品还是双胞胎?](https://www.v2ex.com/t/915135) `10条评论` `问与答`
 1. [百度网盘好像抽风了？](https://www.v2ex.com/t/915084) `10条评论` `问与答`
 1. [预算 50 万买车求建议](https://www.v2ex.com/t/915160) `9条评论` `汽车`
 1. [功德箱问题请教](https://www.v2ex.com/t/915102) `9条评论` `问与答`
 1. [项目管理问题，老哥们是 gradle 用的多还是 maven 用的多](https://www.v2ex.com/t/915089) `9条评论` `问与答`
-1. [学生现在有办法申请 visa 卡吗](https://www.v2ex.com/t/915161) `7条评论` `问与答`
+1. [macbook — 电池没有在充电 🤔](https://www.v2ex.com/t/915151) `8条评论` `Apple`
 1. [icloud 土区被退大家遇到过这种情况吗？](https://www.v2ex.com/t/915103) `7条评论` `iCloud`
+1. [在不想备案的情况下，有没有什么可以用的图片存储和 CDN 方案？](https://www.v2ex.com/t/915169) `6条评论` `问与答`
 1. [AppleTV 一对 HomePod+一对 HomePodMini 想换成三星 Q990B](https://www.v2ex.com/t/915158) `6条评论` `Apple`
-1. [ChatGPT 共享账号 [分享 20 个 ChatGPT 账号] chatgptjc.com 分享 OpenAI 和 ChatGPT 的各种玩法](https://www.v2ex.com/t/915128) `6条评论` `分享创造`
-1. [Edge 地址栏如何提示浏览过的历史记录](https://www.v2ex.com/t/915101) `6条评论` `问与答`
-1. [雷子是真不行，东哥快回来吧](https://www.v2ex.com/t/915092) `6条评论` `京东`
+1. [Mac Everything 文件搜索工具，优惠券码发放(一期)](https://www.v2ex.com/t/915134) `6条评论` `macOS`
 
-数据更新于 2023-02-11 08:25:29
+数据更新于 2023-02-11 08:38:51
 
 <!-- TODAY END -->
 
