@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [全球通，神州行还有动感地带？移动你是真会玩啊](https://www.v2ex.com/t/915085) `48条评论` `宽带症候群`
+1. [全球通，神州行还有动感地带？移动你是真会玩啊](https://www.v2ex.com/t/915085) `49条评论` `宽带症候群`
 1. [收到邮件，带 ChatGPT 的新版 Bing 可以用了！](https://www.v2ex.com/t/915087) `42条评论` `微软`
 1. [pdd 百亿补贴的券是个什么原理？](https://www.v2ex.com/t/915082) `26条评论` `问与答`
 1. [有没有便宜，方便操作的 NAS 存储设备推荐](https://www.v2ex.com/t/915083) `26条评论` `问与答`
@@ -23,17 +23,17 @@
 1. [打算卖掉用了 4 年的 MacBook 换 Mac mini](https://www.v2ex.com/t/915119) `12条评论` `Apple`
 1. [我感觉在开源项目的基础上继续开发很麻烦，是段位太低了吗？](https://www.v2ex.com/t/915111) `12条评论` `问与答`
 1. [学生现在有办法申请 visa 卡吗](https://www.v2ex.com/t/915161) `10条评论` `问与答`
+1. [macbook — 电池没有在充电 🤔](https://www.v2ex.com/t/915151) `10条评论` `Apple`
 1. [百度网盘好像抽风了？](https://www.v2ex.com/t/915084) `10条评论` `问与答`
 1. [预算 50 万买车求建议](https://www.v2ex.com/t/915160) `9条评论` `汽车`
-1. [macbook — 电池没有在充电 🤔](https://www.v2ex.com/t/915151) `9条评论` `Apple`
 1. [功德箱问题请教](https://www.v2ex.com/t/915102) `9条评论` `问与答`
 1. [项目管理问题，老哥们是 gradle 用的多还是 maven 用的多](https://www.v2ex.com/t/915089) `9条评论` `问与答`
 1. [icloud 土区被退大家遇到过这种情况吗？](https://www.v2ex.com/t/915103) `7条评论` `iCloud`
 1. [在不想备案的情况下，有没有什么可以用的图片存储和 CDN 方案？](https://www.v2ex.com/t/915169) `6条评论` `问与答`
 1. [AppleTV 一对 HomePod+一对 HomePodMini 想换成三星 Q990B](https://www.v2ex.com/t/915158) `6条评论` `Apple`
-1. [Mac Everything 文件搜索工具，优惠券码发放(一期)](https://www.v2ex.com/t/915134) `6条评论` `macOS`
+1. [企业盘炒豆子声音可咋整](https://www.v2ex.com/t/915149) `6条评论` `宽带症候群`
 
-数据更新于 2023-02-11 08:49:31
+数据更新于 2023-02-11 08:59:43
 
 <!-- TODAY END -->
 
