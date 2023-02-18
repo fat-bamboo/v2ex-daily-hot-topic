@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [今天还在刷 V2EX 的，是不是都是周六还要工作的可怜虫](https://www.v2ex.com/t/917154) `87条评论` `问与答`
-1. [打算建立一个博客写点文章，有推荐的么](https://www.v2ex.com/t/917124) `37条评论` `问与答`
-1. [时隔十天，终于拿到了 New Bing 体验资格](https://www.v2ex.com/t/917107) `31条评论` `OpenAI`
+1. [今天还在刷 V2EX 的，是不是都是周六还要工作的可怜虫](https://www.v2ex.com/t/917154) `89条评论` `问与答`
+1. [打算建立一个博客写点文章，有推荐的么](https://www.v2ex.com/t/917124) `38条评论` `问与答`
+1. [时隔十天，终于拿到了 New Bing 体验资格](https://www.v2ex.com/t/917107) `32条评论` `OpenAI`
 1. [GitHub 疑似解封](https://www.v2ex.com/t/917108) `29条评论` `分享发现`
 1. [把双显示器升级成单显示器 LG C2，太舒服了](https://www.v2ex.com/t/917110) `29条评论` `分享发现`
+1. [go websocket rps, cpu, latency 全面测评](https://www.v2ex.com/t/917122) `27条评论` `程序员`
 1. [如何正确理解通货膨胀？](https://www.v2ex.com/t/917150) `27条评论` `投资`
-1. [go websocket rps, cpu, latency 全面测评](https://www.v2ex.com/t/917122) `26条评论` `程序员`
+1. [18 年的 Macbook Pro 回收能有 4700 感觉值了](https://www.v2ex.com/t/917116) `24条评论` `MacBook Pro`
 1. [github 学生包 邮件 绷不住了](https://www.v2ex.com/t/917119) `24条评论` `程序员`
 1. [有使用 realme 手机的，国际版和国行版 rom 可以互刷吗（咨询客服说不支持）？](https://www.v2ex.com/t/917159) `20条评论` `Android`
-1. [18 年的 Macbook Pro 回收能有 4700 感觉值了](https://www.v2ex.com/t/917116) `17条评论` `MacBook Pro`
 1. [上海联通内部线下可以办理 27 元套餐送 300 宽带](https://www.v2ex.com/t/917184) `16条评论` `宽带症候群`
 1. [广州电信融合套餐 2 年优惠到期后能续期吗？有没有过来人说一下？](https://www.v2ex.com/t/917118) `16条评论` `宽带症候群`
 1. [接下来应该如何安排疫苗的接种时间？](https://www.v2ex.com/t/917178) `15条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [开车感觉有点脚抖是坐姿问题，和喜欢抖腿有关系吗？](https://www.v2ex.com/t/917143) `7条评论` `汽车`
 1. [睡眠质量问题](https://www.v2ex.com/t/917120) `7条评论` `问与答`
 
-数据更新于 2023-02-18 11:13:44
+数据更新于 2023-02-18 11:25:40
 
 <!-- TODAY END -->
 
