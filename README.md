@@ -9,12 +9,15 @@
 <!-- TODAY BEGIN -->
 
 1. [时隔十天，终于拿到了 New Bing 体验资格](https://www.v2ex.com/t/917107) `16条评论` `OpenAI`
-1. [GitHub 疑似解封](https://www.v2ex.com/t/917108) `12条评论` `分享发现`
-1. [100M 宽带电脑连 wifi 为什么有的网页打开很慢](https://www.v2ex.com/t/917115) `8条评论` `宽带症候群`
-1. [把双显示器升级成单显示器 LG C2，太舒服了](https://www.v2ex.com/t/917110) `8条评论` `分享发现`
+1. [GitHub 疑似解封](https://www.v2ex.com/t/917108) `13条评论` `分享发现`
+1. [100M 宽带电脑连 wifi 为什么有的网页打开很慢](https://www.v2ex.com/t/917115) `11条评论` `宽带症候群`
+1. [把双显示器升级成单显示器 LG C2，太舒服了](https://www.v2ex.com/t/917110) `10条评论` `分享发现`
 1. [github 学生包 邮件 绷不住了](https://www.v2ex.com/t/917119) `6条评论` `程序员`
+1. [广州电信融合套餐 2 年优惠到期后能续期吗？有没有过来人说一下？](https://www.v2ex.com/t/917118) `6条评论` `宽带症候群`
+1. [18 年的 Macbook Pro 回收能有 4700 感觉值了](https://www.v2ex.com/t/917116) `6条评论` `MacBook Pro`
+1. [奇安信 VPN 有 Linux 版吗](https://www.v2ex.com/t/917112) `6条评论` `问与答`
 
-数据更新于 2023-02-18 02:37:46
+数据更新于 2023-02-18 02:58:50
 
 <!-- TODAY END -->
 
