@@ -13,13 +13,13 @@
 1. [GitHub 疑似解封](https://www.v2ex.com/t/917108) `45条评论` `分享发现`
 1. [把双显示器升级成单显示器 LG C2，太舒服了](https://www.v2ex.com/t/917110) `42条评论` `分享发现`
 1. [如何正确理解通货膨胀？](https://www.v2ex.com/t/917150) `37条评论` `投资`
-1. [go websocket rps, cpu, latency 全面测评](https://www.v2ex.com/t/917122) `35条评论` `程序员`
+1. [go websocket rps, cpu, latency 全面测评](https://www.v2ex.com/t/917122) `36条评论` `程序员`
 1. [时隔十天，终于拿到了 New Bing 体验资格](https://www.v2ex.com/t/917107) `34条评论` `OpenAI`
 1. [笔记本选购求助](https://www.v2ex.com/t/917128) `32条评论` `程序员`
 1. [上海联通内部线下可以办理 27 元套餐送 300 宽带](https://www.v2ex.com/t/917184) `27条评论` `宽带症候群`
+1. [喜欢的人和自己的某些观念不合该怎么办](https://www.v2ex.com/t/917265) `25条评论` `生活`
 1. [18 年的 Macbook Pro 回收能有 4700 感觉值了](https://www.v2ex.com/t/917116) `25条评论` `MacBook Pro`
 1. [github 学生包 邮件 绷不住了](https://www.v2ex.com/t/917119) `25条评论` `程序员`
-1. [喜欢的人和自己的某些观念不合该怎么办](https://www.v2ex.com/t/917265) `24条评论` `生活`
 1. [为什么 tg 的亚洲数据中心选在新加坡而不是日本？](https://www.v2ex.com/t/917245) `20条评论` `程序员`
 1. [请教一下，老外让我代注册 qq 是什么新型骗局？](https://www.v2ex.com/t/917222) `20条评论` `分享发现`
 1. [有使用 realme 手机的，国际版和国行版 rom 可以互刷吗（咨询客服说不支持）？](https://www.v2ex.com/t/917159) `20条评论` `Android`
@@ -33,7 +33,7 @@
 1. [明天周日有人上班么？请让我知道我并不孤单，哈哈](https://www.v2ex.com/t/917213) `12条评论` `问与答`
 1. [100M 宽带电脑连 wifi 为什么有的网页打开很慢](https://www.v2ex.com/t/917115) `12条评论` `宽带症候群`
 
-数据更新于 2023-02-18 23:27:35
+数据更新于 2023-02-18 23:38:29
 
 <!-- TODAY END -->
 
