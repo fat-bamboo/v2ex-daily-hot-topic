@@ -12,7 +12,7 @@
 1. [打算建立一个博客写点文章，有推荐的么](https://www.v2ex.com/t/917124) `51条评论` `问与答`
 1. [GitHub 疑似解封](https://www.v2ex.com/t/917108) `45条评论` `分享发现`
 1. [把双显示器升级成单显示器 LG C2，太舒服了](https://www.v2ex.com/t/917110) `42条评论` `分享发现`
-1. [如何正确理解通货膨胀？](https://www.v2ex.com/t/917150) `36条评论` `投资`
+1. [如何正确理解通货膨胀？](https://www.v2ex.com/t/917150) `37条评论` `投资`
 1. [go websocket rps, cpu, latency 全面测评](https://www.v2ex.com/t/917122) `35条评论` `程序员`
 1. [时隔十天，终于拿到了 New Bing 体验资格](https://www.v2ex.com/t/917107) `34条评论` `OpenAI`
 1. [笔记本选购求助](https://www.v2ex.com/t/917128) `32条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [100M 宽带电脑连 wifi 为什么有的网页打开很慢](https://www.v2ex.com/t/917115) `12条评论` `宽带症候群`
 1. [如何在打开 powershell 脚本的时候， cd 到脚本所在目录](https://www.v2ex.com/t/917240) `11条评论` `PowerShell`
 
-数据更新于 2023-02-18 21:47:01
+数据更新于 2023-02-18 21:57:25
 
 <!-- TODAY END -->
 
