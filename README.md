@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [去中国做一两个月数字游民的话，哪个地方比较好？](https://www.v2ex.com/t/917282) `58条评论` `程序员`
-1. [用了一会 MacOS 10.15，感觉真好啊。希望苹果开倒车能回来一次](https://www.v2ex.com/t/917284) `51条评论` `Apple`
+1. [用了一会 MacOS 10.15，感觉真好啊。希望苹果开倒车能回来一次](https://www.v2ex.com/t/917284) `52条评论` `Apple`
+1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306) `46条评论` `程序员`
 1. [互联网是双休最多的行业吗？](https://www.v2ex.com/t/917294) `45条评论` `问与答`
-1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306) `43条评论` `程序员`
 1. [是不是几乎现在中国的程序员，都是搞 web 的？](https://www.v2ex.com/t/917340) `43条评论` `编程`
 1. [消磨时间游戏推荐下吧](https://www.v2ex.com/t/917320) `39条评论` `问与答`
 1. [小米 13 pro 还是 pixel 7 pro？](https://www.v2ex.com/t/917289) `36条评论` `Android`
@@ -33,7 +33,7 @@
 1. [Hyper-V 好像还不支持 USB 设备吧?](https://www.v2ex.com/t/917365) `7条评论` `Windows`
 1. [有大佬能讲讲 Java 后端每天的工作流程吗？](https://www.v2ex.com/t/917350) `7条评论` `程序员`
 
-数据更新于 2023-02-19 10:45:53
+数据更新于 2023-02-19 10:56:10
 
 <!-- TODAY END -->
 
