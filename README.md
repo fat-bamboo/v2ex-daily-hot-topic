@@ -10,9 +10,9 @@
 
 1. [去中国做一两个月数字游民的话，哪个地方比较好？](https://www.v2ex.com/t/917282) `79条评论` `程序员`
 1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306) `73条评论` `程序员`
-1. [消磨时间游戏推荐下吧](https://www.v2ex.com/t/917320) `69条评论` `问与答`
+1. [消磨时间游戏推荐下吧](https://www.v2ex.com/t/917320) `70条评论` `问与答`
 1. [用了一会 MacOS 10.15，感觉真好啊。希望苹果开倒车能回来一次](https://www.v2ex.com/t/917284) `62条评论` `Apple`
-1. [是不是几乎现在中国的程序员，都是搞 web 的？](https://www.v2ex.com/t/917340) `60条评论` `编程`
+1. [是不是几乎现在中国的程序员，都是搞 web 的？](https://www.v2ex.com/t/917340) `61条评论` `编程`
 1. [互联网是双休最多的行业吗？](https://www.v2ex.com/t/917294) `53条评论` `问与答`
 1. [小米 13 pro 还是 pixel 7 pro？](https://www.v2ex.com/t/917289) `49条评论` `Android`
 1. [macOS 本地音乐播放器用的最舒服的还是 foobar2000……](https://www.v2ex.com/t/917339) `37条评论` `macOS`
@@ -33,7 +33,7 @@
 1. [来这里提问一个 Windows ISO 下载页](https://www.v2ex.com/t/917321) `13条评论` `Windows`
 1. [为什么买 Google Pixel？](https://www.v2ex.com/t/917439) `12条评论` `问与答`
 
-数据更新于 2023-02-19 22:30:10
+数据更新于 2023-02-19 22:40:37
 
 <!-- TODAY END -->
 
