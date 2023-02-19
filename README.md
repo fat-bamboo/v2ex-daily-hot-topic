@@ -11,27 +11,27 @@
 1. [去中国做一两个月数字游民的话，哪个地方比较好？](https://www.v2ex.com/t/917282) `47条评论` `程序员`
 1. [互联网是双休最多的行业吗？](https://www.v2ex.com/t/917294) `36条评论` `问与答`
 1. [用了一会 MacOS 10.15，感觉真好啊。希望苹果开倒车能回来一次](https://www.v2ex.com/t/917284) `34条评论` `Apple`
-1. [小米 13 pro 还是 pixel 7 pro？](https://www.v2ex.com/t/917289) `23条评论` `Android`
+1. [小米 13 pro 还是 pixel 7 pro？](https://www.v2ex.com/t/917289) `24条评论` `Android`
 1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306) `23条评论` `程序员`
+1. [是不是几乎现在中国的程序员，都是搞 web 的？](https://www.v2ex.com/t/917340) `18条评论` `编程`
 1. [消磨时间游戏推荐下吧](https://www.v2ex.com/t/917320) `18条评论` `问与答`
 1. [各位有在豆瓣小组租房过吗？](https://www.v2ex.com/t/917290) `18条评论` `深圳`
-1. [是不是几乎现在中国的程序员，都是搞 web 的？](https://www.v2ex.com/t/917340) `17条评论` `编程`
 1. [想要一个功能简单的电话手表，感觉好难找](https://www.v2ex.com/t/917281) `15条评论` `问与答`
 1. [2023-安卓有线投屏功能-大部分国内厂商取消了](https://www.v2ex.com/t/917313) `13条评论` `分享发现`
+1. [关于红米 4K 显示器刺眼问题](https://www.v2ex.com/t/917326) `10条评论` `Apple`
 1. [来这里提问一个 Windows ISO 下载页](https://www.v2ex.com/t/917321) `10条评论` `Windows`
 1. [如何告诉大数据，我对某件事情不想也不感兴趣？](https://www.v2ex.com/t/917296) `10条评论` `问与答`
-1. [关于红米 4K 显示器刺眼问题](https://www.v2ex.com/t/917326) `9条评论` `Apple`
 1. [问个概念问题，服务之间 feign 调用 算不算 rpc](https://www.v2ex.com/t/917312) `9条评论` `程序员`
 1. [小白询问， NAS 怎么玩](https://www.v2ex.com/t/917304) `9条评论` `问与答`
+1. [发现新大陆：年付 30 元 stardust 的 ipv6 only 小鸡](https://www.v2ex.com/t/917335) `8条评论` `分享发现`
 1. [提离职后是否应该继续安排工作的讨论](https://www.v2ex.com/t/917324) `8条评论` `职场话题`
 1. [遇到不错的内容如何保存整理好链接？有 app 么](https://www.v2ex.com/t/917297) `8条评论` `问与答`
-1. [发现新大陆：年付 30 元 stardust 的 ipv6 only 小鸡](https://www.v2ex.com/t/917335) `7条评论` `分享发现`
 1. [bing ai 这两天提示出错，用不了了](https://www.v2ex.com/t/917311) `7条评论` `OpenAI`
 1. [hyper-v 是否支持 Linux 客户机并启用显卡直通?如果不行的话,wsl2 是否可以?](https://www.v2ex.com/t/917286) `7条评论` `问与答`
 1. [快速将 ChatGPT 接入飞书，作为私人工作助理或者企业员工助理](https://www.v2ex.com/t/917278) `7条评论` `OpenAI`
 1. [辉瑞的💊还有需要的吗](https://www.v2ex.com/t/917331) `6条评论` `问与答`
 
-数据更新于 2023-02-19 06:50:19
+数据更新于 2023-02-19 07:00:43
 
 <!-- TODAY END -->
 
