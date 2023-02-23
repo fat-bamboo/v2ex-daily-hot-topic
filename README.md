@@ -8,30 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [后端开发人员中真的有人愿意用 js？](https://www.v2ex.com/t/918433) `49条评论` `程序员`
-1. [10 万左右的混动有推荐的吗？](https://www.v2ex.com/t/918439) `44条评论` `汽车`
+1. [后端开发人员中真的有人愿意用 js？](https://www.v2ex.com/t/918433) `52条评论` `程序员`
+1. [10 万左右的混动有推荐的吗？](https://www.v2ex.com/t/918439) `46条评论` `汽车`
+1. [情感问题，求解惑](https://www.v2ex.com/t/918442) `29条评论` `生活`
+1. [springboot 项目可以动态获取数据库配置吗？](https://www.v2ex.com/t/918435) `25条评论` `程序员`
 1. [闲鱼被封号了，申述不通过，有什么其他救济途径吗？](https://www.v2ex.com/t/918407) `25条评论` `问与答`
-1. [情感问题，求解惑](https://www.v2ex.com/t/918442) `23条评论` `生活`
-1. [springboot 项目可以动态获取数据库配置吗？](https://www.v2ex.com/t/918435) `23条评论` `程序员`
+1. [请问各位有没有什么好的旅行计划软件啊](https://www.v2ex.com/t/918438) `22条评论` `旅行`
 1. [[坐标杭州] 老破小小区竟然要收物业费了](https://www.v2ex.com/t/918426) `22条评论` `杭州`
-1. [请问各位有没有什么好的旅行计划软件啊](https://www.v2ex.com/t/918438) `17条评论` `旅行`
 1. [[彷徨] Linux 技术变现问题](https://www.v2ex.com/t/918421) `15条评论` `Linux`
-1. [纠结买 iPad mini 6 和 iPad Pro 11 寸，想咨询大家一些问题](https://www.v2ex.com/t/918450) `13条评论` `iPad`
+1. [纠结买 iPad mini 6 和 iPad Pro 11 寸，想咨询大家一些问题](https://www.v2ex.com/t/918450) `14条评论` `iPad`
 1. [在同一个局域网内能选择部分设备开启 ipv6](https://www.v2ex.com/t/918412) `13条评论` `宽带症候群`
+1. [Apple Music 在 iPhone 上能播放本地音乐吗？](https://www.v2ex.com/t/918434) `12条评论` `Apple`
 1. [2023 招聘 | 外海公司 | 薪资 18-30K ｜远程办公｜基本英文](https://www.v2ex.com/t/918427) `12条评论` `酷工作`
 1. [基于爬虫的原理的方式制作的秒杀程序，多点部署秒杀，违法吗？](https://www.v2ex.com/t/918424) `12条评论` `问与答`
-1. [Apple Music 在 iPhone 上能播放本地音乐吗？](https://www.v2ex.com/t/918434) `11条评论` `Apple`
-1. [自建 Nas 还是?](https://www.v2ex.com/t/918458) `9条评论` `NAS`
-1. [分享一个毫秒级响应的 ChatGPT](https://www.v2ex.com/t/918448) `8条评论` `分享发现`
+1. [自建 Nas 还是?](https://www.v2ex.com/t/918458) `10条评论` `NAS`
+1. [分享一个毫秒级响应的 ChatGPT](https://www.v2ex.com/t/918448) `10条评论` `分享发现`
+1. [嫁接狂魔 chatgpt，现阶段还远远不能替代搜索引擎](https://www.v2ex.com/t/918467) `9条评论` `程序员`
+1. [js 如何重写库代码](https://www.v2ex.com/t/918440) `9条评论` `问与答`
+1. [为什么突然 v 站收不到别人 @我的提醒了？](https://www.v2ex.com/t/918479) `8条评论` `问与答`
 1. [ChatGPT 编造的错误信息被投喂给 BingAI](https://www.v2ex.com/t/918457) `7条评论` `OpenAI`
+1. [人工智能崛起，以后世界还需要程序员吗](https://www.v2ex.com/t/918445) `7条评论` `问与答`
 1. [有没有一种聚合搜索引擎可以搜索到中文互联网各个 app 内部内容](https://www.v2ex.com/t/918443) `7条评论` `问与答`
-1. [js 如何重写库代码](https://www.v2ex.com/t/918440) `7条评论` `问与答`
 1. [关于目前市场的 BI 供应商选择](https://www.v2ex.com/t/918459) `6条评论` `问与答`
 1. [想组装一台家用服务器,求各位 V 友指点一下](https://www.v2ex.com/t/918456) `6条评论` `问与答`
-1. [人工智能崛起，以后世界还需要程序员吗](https://www.v2ex.com/t/918445) `6条评论` `问与答`
-1. [请问入手二手 macboock 怎么做 降低翻车几率？](https://www.v2ex.com/t/918410) `6条评论` `问与答`
+1. [各位大佬,求一个 Arc 浏览器邀请码,感谢!](https://www.v2ex.com/t/918444) `6条评论` `Apple`
 
-数据更新于 2023-02-23 03:26:48
+数据更新于 2023-02-23 03:38:57
 
 <!-- TODAY END -->
 
