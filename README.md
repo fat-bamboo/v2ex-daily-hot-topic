@@ -9,31 +9,31 @@
 <!-- TODAY BEGIN -->
 
 1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `49条评论` `分享创造`
+1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `33条评论` `YouTube`
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `32条评论` `Android`
-1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `31条评论` `YouTube`
+1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `21条评论` `Java`
 1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091) `19条评论` `iPhone`
 1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068) `19条评论` `问与答`
 1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054) `19条评论` `旅行`
 1. [能不能弄个 shoppingGPT，高效购物，对大家都好](https://www.v2ex.com/t/919077) `18条评论` `OpenAI`
 1. [玩 PT 很久了，一直向往馒头，希望这个数据有资格求个馒头药](https://www.v2ex.com/t/919059) `18条评论` `宽带症候群`
-1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `16条评论` `Java`
+1. [大家如何实现编程能力的进阶，从学习完语法到能够写项目](https://www.v2ex.com/t/919109) `16条评论` `问与答`
 1. [苹果家 iOS Mac os 看 rss 正确姿势](https://www.v2ex.com/t/919087) `16条评论` `Apple`
-1. [大家如何实现编程能力的进阶，从学习完语法到能够写项目](https://www.v2ex.com/t/919109) `15条评论` `问与答`
 1. [蓝牙突然挂了，怎么排查？](https://www.v2ex.com/t/919102) `15条评论` `Linux`
 1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `15条评论` `酷工作`
 1. [Q: 大家使用 Markdown 写静态博客的时候是如何插入图片素材的？](https://www.v2ex.com/t/919130) `14条评论` `问与答`
+1. [XPS 13 CPU 6/7/8 代 i5 8GB 内存现在能流畅办公么](https://www.v2ex.com/t/919131) `13条评论` `问与答`
 1. [遇到这种同事，你会怎么做](https://www.v2ex.com/t/919062) `13条评论` `问与答`
-1. [XPS 13 CPU 6/7/8 代 i5 8GB 内存现在能流畅办公么](https://www.v2ex.com/t/919131) `12条评论` `问与答`
+1. [今天 new bing 申请通过了](https://www.v2ex.com/t/919122) `12条评论` `分享发现`
 1. [英语字典革命，谁来做个 chatGPT 英语字典](https://www.v2ex.com/t/919114) `12条评论` `程序员`
 1. [Python 可以实现图片自动拼贴吗？](https://www.v2ex.com/t/919105) `12条评论` `Python`
-1. [今天 new bing 申请通过了](https://www.v2ex.com/t/919122) `11条评论` `分享发现`
 1. [新安装 windows11 后，使用 edge 浏览器下载 chrome 安装包提示“ChromeSetup.exe 可能会损害你的设备。是否仍要保留？”](https://www.v2ex.com/t/919103) `11条评论` `Windows`
 1. [棋牌游戏，游戏过程中用的啥协议](https://www.v2ex.com/t/919089) `11条评论` `问与答`
 1. [一个 web3 相关的小项目](https://www.v2ex.com/t/919115) `10条评论` `酷工作`
 1. [各位等 new bing 的不用等了，还不如 chatgpt，就是个智障](https://www.v2ex.com/t/919107) `10条评论` `分享发现`
 1. [弱智 Siri 有米有可能接入 openai 呢](https://www.v2ex.com/t/919069) `9条评论` `Apple`
 
-数据更新于 2023-02-25 09:57:25
+数据更新于 2023-02-25 10:19:07
 
 <!-- TODAY END -->
 
