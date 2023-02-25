@@ -10,13 +10,15 @@
 
 1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054) `17条评论` `旅行`
 1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068) `13条评论` `问与答`
+1. [能不能弄个 shoppingGPT，高效购物，对大家都好](https://www.v2ex.com/t/919077) `12条评论` `OpenAI`
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `12条评论` `Android`
 1. [遇到这种同事，你会怎么做](https://www.v2ex.com/t/919062) `11条评论` `问与答`
-1. [能不能弄个 shoppingGPT，高效购物，对大家都好](https://www.v2ex.com/t/919077) `8条评论` `OpenAI`
+1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `9条评论` `分享创造`
+1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `8条评论` `酷工作`
 1. [弱智 Siri 有米有可能接入 openai 呢](https://www.v2ex.com/t/919069) `6条评论` `Apple`
 1. [win11 是不是有远程桌面的 bug](https://www.v2ex.com/t/919058) `6条评论` `宽带症候群`
 
-数据更新于 2023-02-25 03:09:39
+数据更新于 2023-02-25 03:30:23
 
 <!-- TODAY END -->
 
