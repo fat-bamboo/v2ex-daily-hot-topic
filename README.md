@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `64条评论` `分享创造`
-1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `53条评论` `YouTube`
-1. [退伍还是留队](https://www.v2ex.com/t/919165) `50条评论` `问与答`
+1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `54条评论` `YouTube`
+1. [退伍还是留队](https://www.v2ex.com/t/919165) `51条评论` `问与答`
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `44条评论` `Android`
 1. [想用的名字 .com .net 都被注册了， .org 适合用来做商业产品吗？面向国外的产品，不能,备,案无所谓，刚注册了 10 年。本来想用 .cc .app 这样的非主流后缀，但产品面向的是不了解技术的用户，怕他们看不出来这是域名。](https://www.v2ex.com/t/919144) `40条评论` `程序员`
 1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `38条评论` `Java`
@@ -30,10 +30,10 @@
 1. [今天 new bing 申请通过了](https://www.v2ex.com/t/919122) `17条评论` `分享发现`
 1. [大家如何实现编程能力的进阶，从学习完语法到能够写项目](https://www.v2ex.com/t/919109) `17条评论` `问与答`
 1. [苹果家 iOS Mac os 看 rss 正确姿势](https://www.v2ex.com/t/919087) `16条评论` `Apple`
+1. [chatgpt 能类比蒸汽机么？](https://www.v2ex.com/t/919191) `15条评论` `问与答`
 1. [蓝牙突然挂了，怎么排查？](https://www.v2ex.com/t/919102) `15条评论` `Linux`
-1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `15条评论` `酷工作`
 
-数据更新于 2023-02-25 23:16:28
+数据更新于 2023-02-25 23:28:45
 
 <!-- TODAY END -->
 
