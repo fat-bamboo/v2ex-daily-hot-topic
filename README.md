@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `59条评论` `分享创造`
-1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `48条评论` `YouTube`
+1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `60条评论` `分享创造`
+1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `49条评论` `YouTube`
+1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `39条评论` `Android`
 1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `37条评论` `Java`
-1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `35条评论` `Android`
-1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054) `30条评论` `旅行`
-1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091) `30条评论` `iPhone`
+1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054) `31条评论` `旅行`
+1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091) `31条评论` `iPhone`
 1. [退伍还是留队](https://www.v2ex.com/t/919165) `30条评论` `问与答`
 1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068) `29条评论` `问与答`
 1. [Q: 大家使用 Markdown 写静态博客的时候是如何插入图片素材的？](https://www.v2ex.com/t/919130) `26条评论` `问与答`
@@ -26,14 +26,14 @@
 1. [今天 new bing 申请通过了](https://www.v2ex.com/t/919122) `17条评论` `分享发现`
 1. [大家如何实现编程能力的进阶，从学习完语法到能够写项目](https://www.v2ex.com/t/919109) `17条评论` `问与答`
 1. [新人入门后端,目前优先学什么语言好](https://www.v2ex.com/t/919163) `16条评论` `程序员`
+1. [已有驾照，求助新手学车/用车计划](https://www.v2ex.com/t/919151) `16条评论` `问与答`
 1. [苹果家 iOS Mac os 看 rss 正确姿势](https://www.v2ex.com/t/919087) `16条评论` `Apple`
-1. [已有驾照，求助新手学车/用车计划](https://www.v2ex.com/t/919151) `15条评论` `问与答`
 1. [蓝牙突然挂了，怎么排查？](https://www.v2ex.com/t/919102) `15条评论` `Linux`
 1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `15条评论` `酷工作`
 1. [英语字典革命，谁来做个 chatGPT 英语字典](https://www.v2ex.com/t/919114) `14条评论` `程序员`
 1. [遇到这种同事，你会怎么做](https://www.v2ex.com/t/919062) `13条评论` `问与答`
 
-数据更新于 2023-02-25 14:28:14
+数据更新于 2023-02-25 14:38:36
 
 <!-- TODAY END -->
 
