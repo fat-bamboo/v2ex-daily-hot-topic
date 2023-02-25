@@ -23,17 +23,17 @@
 1. [大家如何实现编程能力的进阶，从学习完语法到能够写项目](https://www.v2ex.com/t/919109) `12条评论` `问与答`
 1. [新安装 windows11 后，使用 edge 浏览器下载 chrome 安装包提示“ChromeSetup.exe 可能会损害你的设备。是否仍要保留？”](https://www.v2ex.com/t/919103) `11条评论` `Windows`
 1. [棋牌游戏，游戏过程中用的啥协议](https://www.v2ex.com/t/919089) `11条评论` `问与答`
+1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `9条评论` `Java`
+1. [英语字典革命，谁来做个 chatGPT 英语字典](https://www.v2ex.com/t/919114) `9条评论` `程序员`
 1. [各位等 new bing 的不用等了，还不如 chatgpt，就是个智障](https://www.v2ex.com/t/919107) `9条评论` `分享发现`
 1. [Python 可以实现图片自动拼贴吗？](https://www.v2ex.com/t/919105) `9条评论` `Python`
 1. [弱智 Siri 有米有可能接入 openai 呢](https://www.v2ex.com/t/919069) `9条评论` `Apple`
-1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `8条评论` `Java`
 1. [Q: 大家使用 Markdown 写静态博客的时候是如何插入图片素材的？](https://www.v2ex.com/t/919130) `8条评论` `问与答`
 1. [一个 web3 相关的小项目](https://www.v2ex.com/t/919115) `8条评论` `酷工作`
 1. [2023 年了，携号转网还有坑吗？](https://www.v2ex.com/t/919093) `8条评论` `宽带症候群`
-1. [英语字典革命，谁来做个 chatGPT 英语字典](https://www.v2ex.com/t/919114) `7条评论` `程序员`
 1. [New Bing 強制使用 Microsoft Edge](https://www.v2ex.com/t/919086) `7条评论` `Bing`
 
-数据更新于 2023-02-25 08:23:24
+数据更新于 2023-02-25 08:39:14
 
 <!-- TODAY END -->
 
