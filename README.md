@@ -11,7 +11,7 @@
 1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `62条评论` `分享创造`
 1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `52条评论` `YouTube`
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `43条评论` `Android`
-1. [退伍还是留队](https://www.v2ex.com/t/919165) `40条评论` `问与答`
+1. [退伍还是留队](https://www.v2ex.com/t/919165) `42条评论` `问与答`
 1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133) `37条评论` `Java`
 1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054) `36条评论` `旅行`
 1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091) `34条评论` `iPhone`
@@ -33,7 +33,7 @@
 1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `15条评论` `酷工作`
 1. [为什么很多 Linux 发行版要搞 2 个 initramfs？](https://www.v2ex.com/t/919171) `14条评论` `Linux`
 
-数据更新于 2023-02-25 17:13:45
+数据更新于 2023-02-25 17:28:49
 
 <!-- TODAY END -->
 
