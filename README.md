@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `63条评论` `分享创造`
+1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `64条评论` `分享创造`
 1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `52条评论` `YouTube`
 1. [退伍还是留队](https://www.v2ex.com/t/919165) `47条评论` `问与答`
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `44条评论` `Android`
@@ -33,7 +33,7 @@
 1. [蓝牙突然挂了，怎么排查？](https://www.v2ex.com/t/919102) `15条评论` `Linux`
 1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `15条评论` `酷工作`
 
-数据更新于 2023-02-25 19:18:51
+数据更新于 2023-02-25 19:29:25
 
 <!-- TODAY END -->
 
