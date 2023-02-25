@@ -8,21 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `24条评论` `分享创造`
-1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068) `18条评论` `问与答`
+1. [V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083) `26条评论` `分享创造`
+1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068) `19条评论` `问与答`
 1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054) `18条评论` `旅行`
 1. [玩 PT 很久了，一直向往馒头，希望这个数据有资格求个馒头药](https://www.v2ex.com/t/919059) `18条评论` `宽带症候群`
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070) `17条评论` `Android`
 1. [遇到这种同事，你会怎么做](https://www.v2ex.com/t/919062) `13条评论` `问与答`
+1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `12条评论` `YouTube`
 1. [找人教 Java SPRING BOOT，时新 200](https://www.v2ex.com/t/919084) `12条评论` `酷工作`
 1. [能不能弄个 shoppingGPT，高效购物，对大家都好](https://www.v2ex.com/t/919077) `12条评论` `OpenAI`
-1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096) `11条评论` `YouTube`
-1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091) `8条评论` `iPhone`
+1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091) `10条评论` `iPhone`
+1. [弱智 Siri 有米有可能接入 openai 呢](https://www.v2ex.com/t/919069) `9条评论` `Apple`
 1. [苹果家 iOS Mac os 看 rss 正确姿势](https://www.v2ex.com/t/919087) `8条评论` `Apple`
-1. [弱智 Siri 有米有可能接入 openai 呢](https://www.v2ex.com/t/919069) `8条评论` `Apple`
 1. [win11 是不是有远程桌面的 bug](https://www.v2ex.com/t/919058) `7条评论` `宽带症候群`
 
-数据更新于 2023-02-25 04:47:23
+数据更新于 2023-02-25 04:57:40
 
 <!-- TODAY END -->
 
