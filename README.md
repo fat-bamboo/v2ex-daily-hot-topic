@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [T 楼！ T 楼！ 送 YouTube Premium 会员 一年](https://www.v2ex.com/t/920425) `580条评论` `推广`
+1. [T 楼！ T 楼！ 送 YouTube Premium 会员 一年](https://www.v2ex.com/t/920425) `588条评论` `推广`
 1. [和室友沟通完了，汇报一下结果顺便解答一些大家好奇的问题](https://www.v2ex.com/t/920421) `181条评论` `问与答`
 1. [从苹果全家桶逃离](https://www.v2ex.com/t/920407) `163条评论` `程序员`
-1. [ChatGPT 新发布的 API 好快，免费的套壳网站也出来了](https://www.v2ex.com/t/920519) `97条评论` `程序员`
+1. [ChatGPT 新发布的 API 好快，免费的套壳网站也出来了](https://www.v2ex.com/t/920519) `99条评论` `程序员`
 1. [租房想提前解约房东不愿意咋办](https://www.v2ex.com/t/920355) `74条评论` `程序员`
 1. [工作半年，关于工作的迷茫](https://www.v2ex.com/t/920361) `66条评论` `职场话题`
 1. [3 个打科兴的同事都有结节了](https://www.v2ex.com/t/920426) `65条评论` `程序员`
-1. [跟进最新的 gpt-3.5-turbo 模型，写了一个套壳 ChatGPT](https://www.v2ex.com/t/920489) `62条评论` `分享创造`
-1. [ChatGPT 3.5API 发布了](https://www.v2ex.com/t/920333) `53条评论` `分享发现`
+1. [跟进最新的 gpt-3.5-turbo 模型，写了一个套壳 ChatGPT](https://www.v2ex.com/t/920489) `64条评论` `分享创造`
+1. [ChatGPT 3.5API 发布了](https://www.v2ex.com/t/920333) `53条评论` `OpenAI`
 1. [工作一直被晾着怎么办？](https://www.v2ex.com/t/920366) `53条评论` `职场话题`
 1. [40 了，长期失业，还长得丑，怎么找工作？](https://www.v2ex.com/t/920552) `46条评论` `程序员`
 1. [没用过 aw，想体验的话，哪个型号性价比高](https://www.v2ex.com/t/920340) `46条评论` ` WATCH`
@@ -33,7 +33,7 @@
 1. [分布式文件系统是否可以解决 docker 集群服务数据持久化的问题？](https://www.v2ex.com/t/920384) `15条评论` `Kubernetes`
 1. [想考个摩托车驾照，有考过的吗？](https://www.v2ex.com/t/920572) `14条评论` `杭州`
 
-数据更新于 2023-03-02 11:14:22
+数据更新于 2023-03-02 11:26:50
 
 <!-- TODAY END -->
 
