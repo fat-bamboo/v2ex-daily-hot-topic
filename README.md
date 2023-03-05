@@ -13,9 +13,9 @@
 1. [在 v 站看了一段时间以后感觉现在人心理疾病真的很严重](https://www.v2ex.com/t/921271) `46条评论` `问与答`
 1. [B 站全站又崩了？](https://www.v2ex.com/t/921359) `44条评论` `全球工单系统`
 1. [有过一些经历，决定输出知识](https://www.v2ex.com/t/921287) `41条评论` `分享发现`
-1. [All in one 系统 GPU 虚拟化](https://www.v2ex.com/t/921243) `29条评论` `NAS`
+1. [All in one 系统 GPU 虚拟化](https://www.v2ex.com/t/921243) `30条评论` `NAS`
+1. [你是如何看待 3 月 5 日 B 站 bilibili 大死机？](https://www.v2ex.com/t/921368) `25条评论` `程序员`
 1. [想润个轻松点 965 的公司，会不会被 hr 压薪资](https://www.v2ex.com/t/921248) `25条评论` `职场话题`
-1. [你是如何看待 3 月 5 日 B 站 bilibili 大死机？](https://www.v2ex.com/t/921368) `24条评论` `程序员`
 1. [有些 chatGPT 的账号有 120 美金 有人申请过吗](https://www.v2ex.com/t/921232) `24条评论` `OpenAI`
 1. [前几天被声称“AWS 客服”的的电话问小鸡的用途了](https://www.v2ex.com/t/921227) `23条评论` `Amazon Web Services`
 1. [如果你喜欢用英文在 google 进行搜索，我开发的这款 chrome 插件也许能帮到你](https://www.v2ex.com/t/921322) `21条评论` `Google`
@@ -33,7 +33,7 @@
 1. [腾讯云域名年审问题~（每年都打电话 问你是不是 xxx， xxx 名下是不是有个 xxxx 的域名）](https://www.v2ex.com/t/921241) `12条评论` `问与答`
 1. [Linux 软件有时会忘记是从哪个源安装的，升级时不知道该使用哪个命令](https://www.v2ex.com/t/921307) `11条评论` `Linux`
 
-数据更新于 2023-03-05 17:38:48
+数据更新于 2023-03-05 17:49:21
 
 <!-- TODAY END -->
 
