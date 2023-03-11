@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Gmail 邮箱申请 NewBing 秒批，只有 outlook 邮箱受伤的世界达成](https://www.v2ex.com/t/923079) `45条评论` `分享发现`
-1. [由“文身女孩”讨论帖想到的 Bayes 经验](https://www.v2ex.com/t/923074) `43条评论` `生活`
-1. [我开发的微信小程序「恋上古诗词」上线了，还请帮忙多提些意见](https://www.v2ex.com/t/923086) `39条评论` `分享创造`
+1. [Gmail 邮箱申请 NewBing 秒批，只有 outlook 邮箱受伤的世界达成](https://www.v2ex.com/t/923079) `47条评论` `分享发现`
+1. [由“文身女孩”讨论帖想到的 Bayes 经验](https://www.v2ex.com/t/923074) `45条评论` `生活`
+1. [我开发的微信小程序「恋上古诗词」上线了，还请帮忙多提些意见](https://www.v2ex.com/t/923086) `42条评论` `分享创造`
 1. [我的 C 盘被 QQ 拼音输入法占了 27 个 G！](https://www.v2ex.com/t/923072) `27条评论` `分享发现`
 1. [2023 年往后 5 年会沿着 2015 的节奏发展吗](https://www.v2ex.com/t/923103) `24条评论` `生活`
 1. [Android 开发为什么需要苹果电脑？](https://www.v2ex.com/t/923096) `23条评论` `职场话题`
@@ -19,21 +19,21 @@
 1. [深圳宽带有什么推荐，科学为主](https://www.v2ex.com/t/923124) `16条评论` `深圳`
 1. [纯吐槽： iPhone OTA 升级系统把我电话通话记录清空了](https://www.v2ex.com/t/923099) `15条评论` `iPhone`
 1. [新装修，弱电柜和机柜如何设计？](https://www.v2ex.com/t/923069) `15条评论` `NAS`
-1. [微软 New Bing 秒过，无需等待⌛️](https://www.v2ex.com/t/923135) `11条评论` `分享发现`
+1. [微软 New Bing 秒过，无需等待⌛️](https://www.v2ex.com/t/923135) `14条评论` `分享发现`
+1. [做了一款文字节点的密室逃脱小游戏](https://www.v2ex.com/t/923146) `11条评论` `分享发现`
+1. [edge 浏览器在 Mac 上堪称流氓软件](https://www.v2ex.com/t/923136) `10条评论` `macOS`
 1. [请问各位大佬，这 2 款显示器该怎么选？](https://www.v2ex.com/t/923084) `10条评论` `问与答`
 1. [买了块希捷银河 x16 16T 的硬盘，装到 nas 上好吵啊......](https://www.v2ex.com/t/923073) `10条评论` `NAS`
-1. [做了一款文字节点的密室逃脱小游戏](https://www.v2ex.com/t/923146) `9条评论` `分享发现`
+1. [如果 ZF 能操控城市的天气，那么周末下雨对他们有什么好处？](https://www.v2ex.com/t/923153) `9条评论` `问与答`
 1. [请教两个小问题](https://www.v2ex.com/t/923068) `9条评论` `Python`
-1. [edge 浏览器在 Mac 上堪称流氓软件](https://www.v2ex.com/t/923136) `8条评论` `macOS`
 1. [发现可以在 metamask 上直接用信用卡买 crypto 了](https://www.v2ex.com/t/923104) `8条评论` `程序员`
 1. [你们有没有感觉 iPhone 双卡开着网络信号比较单卡差很多](https://www.v2ex.com/t/923088) `8条评论` `iPhone`
 1. [求个馒头药~~~](https://www.v2ex.com/t/923085) `7条评论` `宽带症候群`
 1. [为啥我总有一种被 AI 忽悠的感觉？](https://www.v2ex.com/t/923140) `6条评论` `OpenAI`
+1. [堂食吃出异物，大家会怎么处理？](https://www.v2ex.com/t/923130) `6条评论` `问与答`
 1. [搭建 ChatGPT 私有代理最简单的办法！](https://www.v2ex.com/t/923110) `6条评论` `OpenAI`
-1. [话说，有 macos 下 usb 的 5g 上网卡托吗？不要有 wifi 功能的，只需要 usb 连接。](https://www.v2ex.com/t/923080) `6条评论` `macOS`
-1. [如何不在 edge 浏览器使用 bing chat?](https://www.v2ex.com/t/923067) `6条评论` `OpenAI`
 
-数据更新于 2023-03-11 07:58:37
+数据更新于 2023-03-11 08:24:32
 
 <!-- TODAY END -->
 
