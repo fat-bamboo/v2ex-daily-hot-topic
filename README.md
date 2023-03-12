@@ -8,22 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [祸从口出，千万不要跟别人表露自己！](https://www.v2ex.com/t/923313) `33条评论` `分享发现`
+1. [祸从口出，千万不要跟别人表露自己！](https://www.v2ex.com/t/923313) `36条评论` `分享发现`
+1. [和女生聊了一个月，昨天见了一面](https://www.v2ex.com/t/923339) `16条评论` `问与答`
 1. [求推荐一个给父母用的电脑配置单](https://www.v2ex.com/t/923296) `16条评论` `问与答`
+1. [iPhone 用户想试试 Android 机求推荐](https://www.v2ex.com/t/923324) `15条评论` `Android`
 1. [怎么判断机场节点是不是真专线？](https://www.v2ex.com/t/923290) `14条评论` `宽带症候群`
-1. [和女生聊了一个月，昨天见了一面](https://www.v2ex.com/t/923339) `12条评论` `问与答`
-1. [iPhone 用户想试试 Android 机求推荐](https://www.v2ex.com/t/923324) `12条评论` `Android`
 1. [Google one 的最便宜套餐也支持 Google one VPN 了](https://www.v2ex.com/t/923301) `12条评论` `Google`
 1. [没人发现每日签到没了吗?](https://www.v2ex.com/t/923293) `12条评论` `分享发现`
 1. [内地移动号漫游 hk，谷歌可用？](https://www.v2ex.com/t/923297) `10条评论` `宽带症候群`
 1. [求推荐一款三四千左右的电动自行车](https://www.v2ex.com/t/923298) `8条评论` `问与答`
 1. [Q: 关于数据库管理的软件有什么好的推荐](https://www.v2ex.com/t/923328) `7条评论` `问与答`
-1. [Apple 的 ALAC 是基于 Apache 开源的，为什么 Chrome 不内建 ALAC 解码器？我的用 ALAC 编码的视频都没声音（ALAC 是 mp4 容器唯一支持的无损压缩音频流格式）](https://www.v2ex.com/t/923323) `6条评论` `程序员`
-1. [自学转码的程序员，现在想深入了解下网络相关知识，求指条明路](https://www.v2ex.com/t/923322) `6条评论` `问与答`
+1. [Apple 的 ALAC 是基于 Apache 开源的，为什么 Chrome 不内建 ALAC 解码器？我的用 ALAC 编码的视频都没声音（ALAC 是 mp4 容器唯一支持的无损压缩音频流格式）](https://www.v2ex.com/t/923323) `7条评论` `程序员`
+1. [自学转码的程序员，现在想深入了解下网络相关知识，求指条明路](https://www.v2ex.com/t/923322) `7条评论` `问与答`
 1. [有没有使用 JetBrains Gateway 开发的聊聊最佳使用实践](https://www.v2ex.com/t/923315) `6条评论` `程序员`
 1. [阿里很多的 app 更新和他的大厂定位完全不符----比如阿里云](https://www.v2ex.com/t/923310) `6条评论` `分享发现`
 
-数据更新于 2023-03-12 04:59:34
+数据更新于 2023-03-12 05:18:44
 
 <!-- TODAY END -->
 
