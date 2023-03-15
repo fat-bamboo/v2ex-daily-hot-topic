@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [真心不明白求教， GPT 真的能编程？](https://www.v2ex.com/t/924080) `101条评论` `程序员`
-1. [运维同事离职，领导让我兼任运维工作，该怎么办？](https://www.v2ex.com/t/924055) `54条评论` `Kubernetes`
-1. [关于跑步后膝盖痛](https://www.v2ex.com/t/924096) `44条评论` `生活`
+1. [真心不明白求教， GPT 真的能编程？](https://www.v2ex.com/t/924080) `104条评论` `程序员`
+1. [运维同事离职，领导让我兼任运维工作，该怎么办？](https://www.v2ex.com/t/924055) `55条评论` `Kubernetes`
+1. [关于跑步后膝盖痛](https://www.v2ex.com/t/924096) `45条评论` `生活`
+1. [android 怎么方便的和 iPhone Mac 互传文件](https://www.v2ex.com/t/924140) `21条评论` `Android`
+1. [我朋友因为房子加名字问题和三年多女友分手](https://www.v2ex.com/t/924149) `20条评论` `问与答`
 1. [让 chatGPT 对十万级数据批处理的 Excel 插件，我后悔免费了 ！](https://www.v2ex.com/t/924065) `20条评论` `分享创造`
-1. [我朋友因为房子加名字问题和三年多女友分手](https://www.v2ex.com/t/924149) `18条评论` `问与答`
-1. [android 怎么方便的和 iPhone Mac 互传文件](https://www.v2ex.com/t/924140) `17条评论` `Android`
 1. [坐标合肥，地铁二维码全面崩盘](https://www.v2ex.com/t/924066) `17条评论` `问与答`
 1. [pdd 的 apple 产品是不是更重小坑？购买日期，电池续航，电池使用次数](https://www.v2ex.com/t/924056) `17条评论` `Apple`
 1. [请教下在苏州的各位](https://www.v2ex.com/t/924094) `15条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [种草索尼 70-200GM2 代，摄友们有必要买吗哈哈](https://www.v2ex.com/t/924105) `7条评论` `摄影`
 1. [请教个 win11 日程问题](https://www.v2ex.com/t/924088) `7条评论` `Windows`
 
-数据更新于 2023-03-15 05:24:11
+数据更新于 2023-03-15 05:36:00
 
 <!-- TODAY END -->
 
