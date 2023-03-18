@@ -20,11 +20,13 @@
 1. [我又来了，我带着更新到 chatgpt 网页接口 4.0 的站回来了](https://www.v2ex.com/t/925022) `9条评论` `推广`
 1. [因为 ChatGPT web 不好用，自己开发了一款原生 macOS ChatGPT 客户端](https://www.v2ex.com/t/925016) `8条评论` `程序员`
 1. [为啥这个网站的视频用安卓 Chrome 打开 100%卡死](https://www.v2ex.com/t/925014) `8条评论` `程序员`
+1. [我这个 16 寸 M1 Pro 的 MBP 续航很差](https://www.v2ex.com/t/925060) `7条评论` `macOS`
 1. [📝 xLog - 链上开源博客社区和创作者激励计划](https://www.v2ex.com/t/925034) `7条评论` `分享创造`
+1. [GPT-4 又又又缩水了 只剩 3 小时 25 条了](https://www.v2ex.com/t/925033) `7条评论` `OpenAI`
+1. [用 vue3 写了一个模仿 windows 系统的 UI 框架](https://www.v2ex.com/t/925027) `7条评论` `分享创造`
 1. [有没有 Android 上使用自己的 API 的 ChatGPT 客户端推荐？](https://www.v2ex.com/t/925026) `7条评论` `问与答`
-1. [用 vue3 写了一个模仿 windows 系统的 UI 框架](https://www.v2ex.com/t/925027) `6条评论` `分享创造`
 
-数据更新于 2023-03-18 04:49:06
+数据更新于 2023-03-18 04:59:32
 
 <!-- TODAY END -->
 
