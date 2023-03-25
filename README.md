@@ -11,9 +11,9 @@
 1. [最近魔怔了，天天在 github 上数星星](https://www.v2ex.com/t/927016) `49条评论` `程序员`
 1. [头发剪的过短，无限接近光头，去公司上班会不会有什么问题？](https://www.v2ex.com/t/927075) `31条评论` `问与答`
 1. [v 友们，台式机主机关机，显示器还有必要手动关吗](https://www.v2ex.com/t/927059) `20条评论` `问与答`
-1. [折腾了很久我发现，我的需求并不需要一台 NAS 来完成](https://www.v2ex.com/t/927088) `15条评论` `NAS`
-1. [两台笔记本共用一个外接显示器，怎么能方便的切换？](https://www.v2ex.com/t/927091) `14条评论` `程序员`
-1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087) `13条评论` `Android`
+1. [两台笔记本共用一个外接显示器，怎么能方便的切换？](https://www.v2ex.com/t/927091) `16条评论` `程序员`
+1. [折腾了很久我发现，我的需求并不需要一台 NAS 来完成](https://www.v2ex.com/t/927088) `16条评论` `NAS`
+1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087) `14条评论` `Android`
 1. [求推荐适合在 mac 下码字的键盘](https://www.v2ex.com/t/927076) `13条评论` `问与答`
 1. [求助， k40 刷了 pixel experience 后信号差](https://www.v2ex.com/t/927028) `13条评论` `Android`
 1. [想搭个 ChatGPT 的服务练练手。但是没看懂 chatgpt-api 这个项目里 ChatGPTUnofficialProxyAPI 的说明. 大家能帮帮我吗。](https://www.v2ex.com/t/927108) `12条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [IPV6 级联时，从设备如何 打通 lan 到 wan 接口的 ipv6 数据包转发](https://www.v2ex.com/t/927032) `7条评论` `问与答`
 1. [请问各位大佬，如何申请的 plus 以及 midjourney 会员](https://www.v2ex.com/t/927023) `7条评论` `问与答`
 
-数据更新于 2023-03-25 09:25:52
+数据更新于 2023-03-25 09:36:24
 
 <!-- TODAY END -->
 
