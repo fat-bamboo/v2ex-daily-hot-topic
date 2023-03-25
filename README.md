@@ -8,12 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近魔怔了，天天在 github 上数星星](https://www.v2ex.com/t/927016) `22条评论` `程序员`
+1. [最近魔怔了，天天在 github 上数星星](https://www.v2ex.com/t/927016) `25条评论` `程序员`
 1. [收到不明来源的快递、如何查找下单人呀？](https://www.v2ex.com/t/927014) `10条评论` `问与答`
 1. [注册了个 store 域名， 12 小时过去了，还是 pending 状态](https://www.v2ex.com/t/927019) `7条评论` `问与答`
+1. [几乎完全由 ChatGPT 生成的 App“5 Movies”上架 App Store](https://www.v2ex.com/t/927018) `7条评论` `分享发现`
 1. [别在用 GPT 的 API 了，自己训练一个 GPT3 LIKE 吧，成本几十美金](https://www.v2ex.com/t/927026) `6条评论` `OpenAI`
 
-数据更新于 2023-03-25 02:40:26
+数据更新于 2023-03-25 02:55:50
 
 <!-- TODAY END -->
 
