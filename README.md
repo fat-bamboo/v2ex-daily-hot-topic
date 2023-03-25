@@ -9,18 +9,18 @@
 <!-- TODAY BEGIN -->
 
 1. [最近魔怔了，天天在 github 上数星星](https://www.v2ex.com/t/927016) `53条评论` `程序员`
+1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087) `38条评论` `Android`
 1. [头发剪的过短，无限接近光头，去公司上班会不会有什么问题？](https://www.v2ex.com/t/927075) `37条评论` `问与答`
-1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087) `37条评论` `Android`
 1. [腾讯云轻量应用服务器香港地区要涨价了](https://www.v2ex.com/t/927116) `37条评论` `云计算`
+1. [28 岁，我还想生猛下去](https://www.v2ex.com/t/927096) `32条评论` `程序员`
 1. [折腾了很久我发现，我的需求并不需要一台 NAS 来完成](https://www.v2ex.com/t/927088) `29条评论` `NAS`
-1. [28 岁，我还想生猛下去](https://www.v2ex.com/t/927096) `29条评论` `程序员`
 1. [v 友们，台式机主机关机，显示器还有必要手动关吗](https://www.v2ex.com/t/927059) `27条评论` `问与答`
+1. [几乎完全由 ChatGPT 生成的 App“5 Movies”上架 App Store](https://www.v2ex.com/t/927018) `21条评论` `分享发现`
 1. [MacBook 官方换电池涨价至 2000，想换电池还有其他路子吗？](https://www.v2ex.com/t/927055) `21条评论` `MacBook Pro`
-1. [几乎完全由 ChatGPT 生成的 App“5 Movies”上架 App Store](https://www.v2ex.com/t/927018) `20条评论` `分享发现`
 1. [ChatGPT 编程实现文心一言界面所使用的 Web 数字水印技术](https://www.v2ex.com/t/927165) `18条评论` `分享创造`
+1. [有谁爬取过工商部或者天眼查， Boss, 拉钩之类的数据](https://www.v2ex.com/t/927163) `18条评论` `奇思妙想`
 1. [看病的时候忘记和医生说有高血压了，医生开了盐酸安非他酮，感觉自己要死了，要停药吗？](https://www.v2ex.com/t/927130) `18条评论` `问与答`
 1. [感觉 ai 未来可以取代大部分的非体力工作](https://www.v2ex.com/t/927129) `17条评论` `OpenAI`
-1. [有谁爬取过工商部或者天眼查， Boss, 拉钩之类的数据](https://www.v2ex.com/t/927163) `16条评论` `奇思妙想`
 1. [两台笔记本共用一个外接显示器，怎么能方便的切换？](https://www.v2ex.com/t/927091) `16条评论` `程序员`
 1. [为什么 ffmpeg 的体积会这么大？多复杂的算法编译后也不会有几十 MB 吧？](https://www.v2ex.com/t/927148) `15条评论` `程序员`
 1. [想搭个 ChatGPT 的服务练练手。但是没看懂 chatgpt-api 这个项目里 ChatGPTUnofficialProxyAPI 的说明. 大家能帮帮我吗。](https://www.v2ex.com/t/927108) `14条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [PixStory AI：图片、漫画、电子书神器 for iOS](https://www.v2ex.com/t/927082) `10条评论` `分享创造`
 1. [个人搭建 gitlab 服务器，全盘加密方法如何选择。](https://www.v2ex.com/t/927114) `9条评论` `程序员`
 
-数据更新于 2023-03-25 14:58:17
+数据更新于 2023-03-25 15:18:11
 
 <!-- TODAY END -->
 
