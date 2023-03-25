@@ -14,14 +14,15 @@
 1. [折腾了很久我发现，我的需求并不需要一台 NAS 来完成](https://www.v2ex.com/t/927088) `15条评论` `NAS`
 1. [求推荐适合在 mac 下码字的键盘](https://www.v2ex.com/t/927076) `13条评论` `问与答`
 1. [求助， k40 刷了 pixel experience 后信号差](https://www.v2ex.com/t/927028) `13条评论` `Android`
+1. [想搭个 ChatGPT 的服务练练手。但是没看懂 chatgpt-api 这个项目里 ChatGPTUnofficialProxyAPI 的说明. 大家能帮帮我吗。](https://www.v2ex.com/t/927108) `12条评论` `程序员`
 1. [[教程带广告] 越狱行动：我是怎么逃离 996，开始自由职业的](https://www.v2ex.com/t/927067) `12条评论` `酷工作`
 1. [几乎完全由 ChatGPT 生成的 App“5 Movies”上架 App Store](https://www.v2ex.com/t/927018) `12条评论` `分享发现`
 1. [收到不明来源的快递、如何查找下单人呀？](https://www.v2ex.com/t/927014) `12条评论` `问与答`
-1. [想搭个 ChatGPT 的服务练练手。但是没看懂 chatgpt-api 这个项目里 ChatGPTUnofficialProxyAPI 的说明. 大家能帮帮我吗。](https://www.v2ex.com/t/927108) `11条评论` `程序员`
 1. [两台笔记本共用一个外接显示器，怎么能方便的切换？](https://www.v2ex.com/t/927091) `11条评论` `程序员`
+1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087) `11条评论` `Android`
 1. [28 岁，我还想生猛下去](https://www.v2ex.com/t/927096) `10条评论` `程序员`
-1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087) `10条评论` `Android`
 1. [PixStory AI：图片、漫画、电子书神器 for iOS](https://www.v2ex.com/t/927082) `10条评论` `分享创造`
+1. [个人搭建 gitlab 服务器，全盘加密方法如何选择。](https://www.v2ex.com/t/927114) `9条评论` `程序员`
 1. [MacBook 官方换电池涨价至 2000，想换电池还有其他路子吗？](https://www.v2ex.com/t/927055) `8条评论` `MacBook Pro`
 1. [求助！软件专利交底书有偿代写！迫于公司工作压力，没时间撰写](https://www.v2ex.com/t/927050) `8条评论` `程序员`
 1. [RIME 网页版](https://www.v2ex.com/t/927027) `8条评论` `中州韻`
@@ -31,9 +32,8 @@
 1. [iPhone 钱包 的问题 会不会和硬件有关？](https://www.v2ex.com/t/927034) `7条评论` `Apple`
 1. [IPV6 级联时，从设备如何 打通 lan 到 wan 接口的 ipv6 数据包转发](https://www.v2ex.com/t/927032) `7条评论` `问与答`
 1. [请问各位大佬，如何申请的 plus 以及 midjourney 会员](https://www.v2ex.com/t/927023) `7条评论` `问与答`
-1. [注册了个 store 域名， 12 小时过去了，还是 pending 状态](https://www.v2ex.com/t/927019) `7条评论` `问与答`
 
-数据更新于 2023-03-25 08:57:11
+数据更新于 2023-03-25 09:15:33
 
 <!-- TODAY END -->
 
