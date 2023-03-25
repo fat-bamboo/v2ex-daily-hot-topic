@@ -15,8 +15,10 @@
 1. [RIME 网页版](https://www.v2ex.com/t/927027) `8条评论` `中州韻`
 1. [别在用 GPT 的 API 了，自己训练一个 GPT3 LIKE 吧，成本几十美金](https://www.v2ex.com/t/927026) `8条评论` `OpenAI`
 1. [注册了个 store 域名， 12 小时过去了，还是 pending 状态](https://www.v2ex.com/t/927019) `7条评论` `问与答`
+1. [IPV6 级联时，从设备如何 打通 lan 到 wan 接口的 ipv6 数据包转发](https://www.v2ex.com/t/927032) `6条评论` `问与答`
+1. [请问各位大佬，如何申请的 plus 以及 midjourney 会员](https://www.v2ex.com/t/927023) `6条评论` `问与答`
 
-数据更新于 2023-03-25 04:47:26
+数据更新于 2023-03-25 04:57:53
 
 <!-- TODAY END -->
 
