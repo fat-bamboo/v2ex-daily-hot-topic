@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最近魔怔了，天天在 github 上数星星](https://www.v2ex.com/t/927016) `35条评论` `程序员`
+1. [最近魔怔了，天天在 github 上数星星](https://www.v2ex.com/t/927016) `36条评论` `程序员`
 1. [求助， k40 刷了 pixel experience 后信号差](https://www.v2ex.com/t/927028) `13条评论` `Android`
 1. [几乎完全由 ChatGPT 生成的 App“5 Movies”上架 App Store](https://www.v2ex.com/t/927018) `12条评论` `分享发现`
 1. [收到不明来源的快递、如何查找下单人呀？](https://www.v2ex.com/t/927014) `12条评论` `问与答`
-1. [v 友们，台式机主机关机，显示器还有必要手动关吗](https://www.v2ex.com/t/927059) `9条评论` `问与答`
+1. [v 友们，台式机主机关机，显示器还有必要手动关吗](https://www.v2ex.com/t/927059) `10条评论` `问与答`
 1. [RIME 网页版](https://www.v2ex.com/t/927027) `8条评论` `中州韻`
 1. [别在用 GPT 的 API 了，自己训练一个 GPT3 LIKE 吧，成本几十美金](https://www.v2ex.com/t/927026) `8条评论` `OpenAI`
 1. [请问各位大佬，如何申请的 plus 以及 midjourney 会员](https://www.v2ex.com/t/927023) `7条评论` `问与答`
@@ -21,7 +21,7 @@
 1. [iPhone 钱包 的问题 会不会和硬件有关？](https://www.v2ex.com/t/927034) `6条评论` `Apple`
 1. [IPV6 级联时，从设备如何 打通 lan 到 wan 接口的 ipv6 数据包转发](https://www.v2ex.com/t/927032) `6条评论` `问与答`
 
-数据更新于 2023-03-25 05:27:28
+数据更新于 2023-03-25 05:38:01
 
 <!-- TODAY END -->
 
