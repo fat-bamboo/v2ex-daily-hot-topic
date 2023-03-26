@@ -8,23 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [ChatGPT、new Bing 的网络封锁越来越严格了，还怎么用？](https://www.v2ex.com/t/927207) `51条评论` `宽带症候群`
+1. [ChatGPT、new Bing 的网络封锁越来越严格了，还怎么用？](https://www.v2ex.com/t/927207) `54条评论` `宽带症候群`
 1. [想不通 2023 年了还有人在用 iPhone ，简直一坨答辩，一坨谢特](https://www.v2ex.com/t/927240) `30条评论` `iPhone`
-1. [为什么马上四月了，坐地铁还要戴口罩](https://www.v2ex.com/t/927226) `24条评论` `生活`
-1. [这以后哪还需要看啥网上的美女 AI 随便生成](https://www.v2ex.com/t/927232) `16条评论` `OpenAI`
-1. [日语学习](https://www.v2ex.com/t/927221) `11条评论` `程序员`
+1. [为什么马上四月了，坐地铁还要戴口罩](https://www.v2ex.com/t/927226) `28条评论` `生活`
+1. [这以后哪还需要看啥网上的美女 AI 随便生成](https://www.v2ex.com/t/927232) `18条评论` `OpenAI`
+1. [日语学习](https://www.v2ex.com/t/927221) `12条评论` `程序员`
+1. [有没有点关机按钮就自动同步 C 盘所有到 D 盘然后再关机的软件？](https://www.v2ex.com/t/927212) `12条评论` `问与答`
 1. [新手使用 uni-app，请教一些 uni-app 的一些问题](https://www.v2ex.com/t/927209) `11条评论` `程序员`
-1. [有没有点关机按钮就自动同步 C 盘所有到 D 盘然后再关机的软件？](https://www.v2ex.com/t/927212) `10条评论` `问与答`
 1. [朋友二手 mbp 1w4 卖我价格合适不？](https://www.v2ex.com/t/927233) `9条评论` `MacBook Pro`
+1. [对 QQ 邮箱失去了信心，准备换一家，各位有推荐服务商吗？](https://www.v2ex.com/t/927213) `9条评论` `问与答`
 1. [pixel experience 和 X evolver 哪个类原生系统更稳定？](https://www.v2ex.com/t/927215) `8条评论` `Android`
+1. [我要把游戏宽带退了](https://www.v2ex.com/t/927210) `8条评论` `宽带症候群`
+1. [打算组装一台无核显的 13 代机器用于编程，目前卡在亮机卡的选择上，求推荐](https://www.v2ex.com/t/927251) `7条评论` `问与答`
+1. [DS220+安装套件版 emby 卡得要命](https://www.v2ex.com/t/927231) `7条评论` `NAS`
 1. [ChatPDF 订阅问题](https://www.v2ex.com/t/927228) `7条评论` `问与答`
-1. [对 QQ 邮箱失去了信心，准备换一家，各位有推荐服务商吗？](https://www.v2ex.com/t/927213) `7条评论` `问与答`
-1. [DS220+安装套件版 emby 卡得要命](https://www.v2ex.com/t/927231) `6条评论` `NAS`
 1. [k3s 如何解决 ErrImagePull 拉取镜像超时](https://www.v2ex.com/t/927224) `6条评论` `Kubernetes`
 1. [fireball 为啥要不定期上架 app store？](https://www.v2ex.com/t/927218) `6条评论` `问与答`
-1. [我要把游戏宽带退了](https://www.v2ex.com/t/927210) `6条评论` `宽带症候群`
 
-数据更新于 2023-03-26 04:58:34
+数据更新于 2023-03-26 05:17:38
 
 <!-- TODAY END -->
 
