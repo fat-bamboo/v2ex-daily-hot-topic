@@ -9,15 +9,16 @@
 <!-- TODAY BEGIN -->
 
 1. [ChatGPT、new Bing 的网络封锁越来越严格了，还怎么用？](https://www.v2ex.com/t/927207) `69条评论` `宽带症候群`
-1. [为什么马上四月了，坐地铁还要戴口罩](https://www.v2ex.com/t/927226) `40条评论` `生活`
+1. [为什么马上四月了，坐地铁还要戴口罩](https://www.v2ex.com/t/927226) `41条评论` `生活`
 1. [打算组装一台无核显的 13 代机器用于编程，目前卡在亮机卡的选择上，求推荐](https://www.v2ex.com/t/927251) `38条评论` `硬件`
 1. [想不通 2023 年了还有人在用 iPhone ，简直一坨答辩，一坨谢特](https://www.v2ex.com/t/927240) `30条评论` `iPhone`
-1. [这以后哪还需要看啥网上的美女 AI 随便生成](https://www.v2ex.com/t/927232) `27条评论` `OpenAI`
+1. [这以后哪还需要看啥网上的美女 AI 随便生成](https://www.v2ex.com/t/927232) `28条评论` `OpenAI`
 1. [日语学习](https://www.v2ex.com/t/927221) `27条评论` `程序员`
 1. [关于“想投奔亲戚，去寻一份差使”的困境。](https://www.v2ex.com/t/927252) `24条评论` `求职`
 1. [总线长什么样？](https://www.v2ex.com/t/927253) `19条评论` `硬件`
 1. [朋友二手 mbp 1w4 卖我价格合适不？](https://www.v2ex.com/t/927233) `18条评论` `MacBook Pro`
 1. [macOS 上 C++ 开发选择什么 IDE 更好： CLion, Xcode, Visual Studio？](https://www.v2ex.com/t/927241) `14条评论` `问与答`
+1. [AI 画图成熟，会不会严重影响设计师、插画师的收入？ nft 还值钱么？](https://www.v2ex.com/t/927269) `13条评论` `问与答`
 1. [为什么笔记本不内置一个无线键鼠接收器？](https://www.v2ex.com/t/927262) `13条评论` `问与答`
 1. [有没有点关机按钮就自动同步 C 盘所有到 D 盘然后再关机的软件？](https://www.v2ex.com/t/927212) `13条评论` `问与答`
 1. [C 中访问不对齐的数据有什么优雅的方案？](https://www.v2ex.com/t/927247) `12条评论` `C`
@@ -26,14 +27,13 @@
 1. [大家买过最不值的 APP/服务是什么？分享避坑](https://www.v2ex.com/t/927250) `10条评论` `软件`
 1. [如果有 27 寸的触摸屏 是不是就能代替鼠标和触摸板了](https://www.v2ex.com/t/927246) `10条评论` `硬件`
 1. [我要把游戏宽带退了](https://www.v2ex.com/t/927210) `10条评论` `宽带症候群`
-1. [AI 画图成熟，会不会严重影响设计师、插画师的收入？ nft 还值钱么？](https://www.v2ex.com/t/927269) `9条评论` `问与答`
 1. [DS220+安装套件版 emby 卡得要命](https://www.v2ex.com/t/927231) `9条评论` `NAS`
 1. [k3s 如何解决 ErrImagePull 拉取镜像超时](https://www.v2ex.com/t/927224) `9条评论` `Kubernetes`
 1. [请教会议室预定系统的设计](https://www.v2ex.com/t/927274) `8条评论` `问与答`
+1. [Freemon 服务暂停之后，目前便宜的域名哪里可以注册？](https://www.v2ex.com/t/927265) `8条评论` `问与答`
 1. [pixel experience 和 X evolver 哪个类原生系统更稳定？](https://www.v2ex.com/t/927215) `8条评论` `Android`
-1. [Freemon 服务暂停之后，目前便宜的域名哪里可以注册？](https://www.v2ex.com/t/927265) `7条评论` `问与答`
 
-数据更新于 2023-03-26 09:46:23
+数据更新于 2023-03-26 09:56:45
 
 <!-- TODAY END -->
 
