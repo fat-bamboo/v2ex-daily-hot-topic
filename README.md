@@ -14,7 +14,7 @@
 1. [我在上海用友汽车所遭遇的职场迫害](https://www.v2ex.com/t/928067) `104条评论` `职场话题`
 1. [前端现在这么恶心的吗](https://www.v2ex.com/t/928203) `99条评论` `程序员`
 1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027) `86条评论` `分享创造`
-1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `79条评论` `MacBook Pro`
+1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `80条评论` `MacBook Pro`
 1. [[🎉 福利] 我开源了一个和 ChatGPT 练习口语的网站，支持多种语音 API](https://www.v2ex.com/t/928200) `76条评论` `分享创造`
 1. [各位有没有偶尔胸口刺痛，同时伴随手指尖也刺痛，但一会就正常的经历？](https://www.v2ex.com/t/928110) `73条评论` `健康`
 1. [怎样让父母知道最近 AI 的突飞猛进？](https://www.v2ex.com/t/928131) `73条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [想做 IOS 程序开发， Mac Mini M2 丐版够用吗？](https://www.v2ex.com/t/928058) `20条评论` `Apple`
 1. [iOS 16.4 来了](https://www.v2ex.com/t/928026) `20条评论` `iOS`
 
-数据更新于 2023-03-29 21:21:06
+数据更新于 2023-03-29 21:36:05
 
 <!-- TODAY END -->
 
