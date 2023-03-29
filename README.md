@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我在上海用友汽车所遭遇的职场迫害](https://www.v2ex.com/t/928067) `77条评论` `职场话题`
-1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027) `72条评论` `分享创造`
-1. [打工人，看到这样的言论，我震惊了](https://www.v2ex.com/t/928102) `59条评论` `职场话题`
-1. [各位有没有偶尔胸口刺痛，同时伴随手指尖也刺痛，但一会就正常的经历？](https://www.v2ex.com/t/928110) `30条评论` `问与答`
-1. [怎样让父母知道最近 AI 的突飞猛进？](https://www.v2ex.com/t/928131) `25条评论` `问与答`
+1. [我在上海用友汽车所遭遇的职场迫害](https://www.v2ex.com/t/928067) `79条评论` `职场话题`
+1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027) `73条评论` `分享创造`
+1. [打工人，看到这样的言论，我震惊了](https://www.v2ex.com/t/928102) `64条评论` `职场话题`
+1. [怎样让父母知道最近 AI 的突飞猛进？](https://www.v2ex.com/t/928131) `31条评论` `问与答`
+1. [各位有没有偶尔胸口刺痛，同时伴随手指尖也刺痛，但一会就正常的经历？](https://www.v2ex.com/t/928110) `31条评论` `问与答`
+1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145) `28条评论` `Android`
 1. [得益于 v 站讨论 搞了台 5999 的机械革命 code01 ver2. 用了 2 天，真香！](https://www.v2ex.com/t/928117) `24条评论` `分享发现`
 1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `23条评论` `MacBook Pro`
 1. [Apple Watch 换 Garmin 体验如何？](https://www.v2ex.com/t/928048) `23条评论` `生活`
 1. [21 款 14 寸 mbp，需要升级到 32g 内存吗](https://www.v2ex.com/t/928040) `23条评论` `Apple`
 1. [想做 IOS 程序开发， Mac Mini M2 丐版够用吗？](https://www.v2ex.com/t/928058) `20条评论` `Apple`
 1. [iOS 16.4 来了](https://www.v2ex.com/t/928026) `20条评论` `iOS`
-1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145) `19条评论` `Android`
 1. [打算把东莞房子卖了，还完剩余的房贷估计手里有 100 万。现在 100 万怎么投资保值啊？](https://www.v2ex.com/t/928104) `19条评论` `问与答`
 1. [说干就干 搞了一个 AI 图片社区 生成好看的图片 然后把关键词丢上去](https://www.v2ex.com/t/928028) `18条评论` `程序员`
 1. [2023 年了，微博还有能用的第三方安卓客户端吗](https://www.v2ex.com/t/928084) `17条评论` `微博`
 1. [为什么你们还在开 ChatGPT Plus](https://www.v2ex.com/t/928124) `15条评论` `OpenAI`
+1. [appletv 有必要买 128G 吗？](https://www.v2ex.com/t/928137) `14条评论` `Apple TV`
 1. [ChatGPT Plus 国内 VISA 信用卡无法充值，怎么解决呢](https://www.v2ex.com/t/928072) `14条评论` `问与答`
 1. [求推荐可以用 ChatGPT 的🪜](https://www.v2ex.com/t/928074) `13条评论` `程序员`
 1. [离线字幕提取，基于 Whisper 封装了一个小工具，支持 GPU](https://www.v2ex.com/t/928031) `13条评论` `分享创造`
-1. [appletv 有必要买 128G 吗？](https://www.v2ex.com/t/928137) `12条评论` `Apple TV`
 1. [有人 gpt-4 API 申请通过了的吗？](https://www.v2ex.com/t/928024) `12条评论` `问与答`
 1. [当下选择 2018 Mac mini，谈一谈](https://www.v2ex.com/t/928121) `11条评论` `Apple`
 1. [三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！](https://www.v2ex.com/t/928105) `11条评论` `程序员`
 1. [起名是一种艺术，关于智能插座 api](https://www.v2ex.com/t/928066) `11条评论` `问与答`
 
-数据更新于 2023-03-29 06:34:19
+数据更新于 2023-03-29 06:45:56
 
 <!-- TODAY END -->
 
