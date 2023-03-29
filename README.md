@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [打工人，看到这样的言论，我震惊了](https://www.v2ex.com/t/928102) `133条评论` `职场话题`
+1. [打工人，看到这样的言论，我震惊了](https://www.v2ex.com/t/928102) `135条评论` `职场话题`
 1. [大家怎么看暂停 AI 大模型研究的呼吁](https://www.v2ex.com/t/928150) `111条评论` `程序员`
-1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145) `108条评论` `Android`
+1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145) `110条评论` `Android`
 1. [我在上海用友汽车所遭遇的职场迫害](https://www.v2ex.com/t/928067) `104条评论` `职场话题`
 1. [前端现在这么恶心的吗](https://www.v2ex.com/t/928203) `90条评论` `程序员`
-1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027) `85条评论` `分享创造`
-1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `68条评论` `MacBook Pro`
+1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027) `86条评论` `分享创造`
+1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `70条评论` `MacBook Pro`
 1. [各位有没有偶尔胸口刺痛，同时伴随手指尖也刺痛，但一会就正常的经历？](https://www.v2ex.com/t/928110) `66条评论` `问与答`
-1. [怎样让父母知道最近 AI 的突飞猛进？](https://www.v2ex.com/t/928131) `55条评论` `问与答`
+1. [怎样让父母知道最近 AI 的突飞猛进？](https://www.v2ex.com/t/928131) `56条评论` `问与答`
 1. [20~30 RMB /月的机场有推荐吗？](https://www.v2ex.com/t/928177) `53条评论` `宽带症候群`
 1. [说干就干 搞了一个 AI 图片社区 生成好看的图片 然后把关键词丢上去](https://www.v2ex.com/t/928028) `43条评论` `程序员`
 1. [[🎉 福利] 我开源了一个和 ChatGPT 练习口语的网站，支持多种语音 API](https://www.v2ex.com/t/928200) `33条评论` `分享创造`
@@ -26,14 +26,14 @@
 1. [21 款 14 寸 mbp，需要升级到 32g 内存吗](https://www.v2ex.com/t/928040) `23条评论` `Apple`
 1. [appletv 有必要买 128G 吗？](https://www.v2ex.com/t/928137) `22条评论` `Apple TV`
 1. [为什么你们还在开 ChatGPT Plus](https://www.v2ex.com/t/928124) `22条评论` `OpenAI`
+1. [后端程序员进入前端为啥是进了迷宫一样](https://www.v2ex.com/t/928258) `21条评论` `程序员`
 1. [树莓派为啥现在价格这么离谱？](https://www.v2ex.com/t/928157) `21条评论` `程序员`
-1. [后端程序员进入前端为啥是进了迷宫一样](https://www.v2ex.com/t/928258) `20条评论` `程序员`
 1. [24 届找后端实习，简历全过，一面全挂，该怎么办](https://www.v2ex.com/t/928195) `20条评论` `程序员`
 1. [想做 IOS 程序开发， Mac Mini M2 丐版够用吗？](https://www.v2ex.com/t/928058) `20条评论` `Apple`
 1. [iOS 16.4 来了](https://www.v2ex.com/t/928026) `20条评论` `iOS`
 1. [怎样快速卖掉老破小？](https://www.v2ex.com/t/928189) `19条评论` `问与答`
 
-数据更新于 2023-03-29 13:29:18
+数据更新于 2023-03-29 13:40:09
 
 <!-- TODAY END -->
 
