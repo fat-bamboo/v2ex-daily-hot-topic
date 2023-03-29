@@ -9,21 +9,26 @@
 <!-- TODAY BEGIN -->
 
 1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027) `25条评论` `分享创造`
+1. [21 款 14 寸 mbp，需要升级到 32g 内存吗](https://www.v2ex.com/t/928040) `22条评论` `Apple`
 1. [iOS 16.4 来了](https://www.v2ex.com/t/928026) `20条评论` `iOS`
+1. [Apple Watch 换 Garmin 体验如何？](https://www.v2ex.com/t/928048) `18条评论` `生活`
 1. [说干就干 搞了一个 AI 图片社区 生成好看的图片 然后把关键词丢上去](https://www.v2ex.com/t/928028) `18条评论` `程序员`
-1. [21 款 14 寸 mbp，需要升级到 32g 内存吗](https://www.v2ex.com/t/928040) `16条评论` `Apple`
+1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `14条评论` `MacBook Pro`
 1. [离线字幕提取，基于 Whisper 封装了一个小工具，支持 GPU](https://www.v2ex.com/t/928031) `13条评论` `分享创造`
+1. [想做 IOS 程序开发， Mac Mini M2 丐版够用吗？](https://www.v2ex.com/t/928058) `12条评论` `Apple`
 1. [有人 gpt-4 API 申请通过了的吗？](https://www.v2ex.com/t/928024) `12条评论` `问与答`
 1. [Typora 怎么像 VS Code 那样多标签显示？](https://www.v2ex.com/t/928038) `11条评论` `程序员`
 1. [微信 PC 版部分用户扫码登录失败](https://www.v2ex.com/t/928029) `11条评论` `全球工单系统`
-1. [Apple Watch 换 Garmin 体验如何？](https://www.v2ex.com/t/928048) `10条评论` `生活`
+1. [起名是一种艺术，关于智能插座 api](https://www.v2ex.com/t/928066) `10条评论` `问与答`
 1. [新人首帖，问问大家关于公司拖欠工资和强制解除劳动关系](https://www.v2ex.com/t/928039) `10条评论` `问与答`
-1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049) `9条评论` `MacBook Pro`
+1. [我在上海用友汽车所遭遇的职场迫害](https://www.v2ex.com/t/928067) `8条评论` `职场话题`
+1. [求助，想获得一些关于 C++学习的建议](https://www.v2ex.com/t/928055) `7条评论` `C++`
 1. [使用 Flutter 动画框架 Zerker 开发了一款动画时钟应用](https://www.v2ex.com/t/928033) `7条评论` `分享创造`
 1. [现在还有没有方法能生成任意微信小程序页面路径的二维码](https://www.v2ex.com/t/928042) `6条评论` `微信`
+1. [jenkins 如何在一个任务中创建多个构建触发器，并且每个构建触发器对应的步骤是不同的](https://www.v2ex.com/t/928036) `6条评论` `DevOps`
 1. [电脑微信登陆不上，扫码报查找失败(4,-2)，咋整](https://www.v2ex.com/t/928035) `6条评论` `问与答`
 
-数据更新于 2023-03-29 02:28:39
+数据更新于 2023-03-29 02:55:17
 
 <!-- TODAY END -->
 
