@@ -17,7 +17,7 @@
 1. [我发现，在网上买东西的时候，人们对价格特别敏感？？](https://www.v2ex.com/t/928346) `69条评论` `问与答`
 1. [后端仔的傲慢与偏见](https://www.v2ex.com/t/928384) `63条评论` `程序员`
 1. [求推荐稳定的 x86 软路由](https://www.v2ex.com/t/928360) `59条评论` `问与答`
-1. [Github 间谍项目 vpstoolbox，避雷，有用的小伙伴记得改密码](https://www.v2ex.com/t/928400) `57条评论` `VPS`
+1. [Github 间谍项目 vpstoolbox，避雷，有用的小伙伴记得改密码](https://www.v2ex.com/t/928400) `58条评论` `VPS`
 1. [古代农名 VS 互联网工人，哪个工作时间长？](https://www.v2ex.com/t/928348) `36条评论` `生活`
 1. [node js 应用部署，一定要停机，才能 npm install 么？](https://www.v2ex.com/t/928456) `33条评论` `Node.js`
 1. [你会歧视少数群体吗？](https://www.v2ex.com/t/928597) `31条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [关于 windows11 ipv6 的一个问题](https://www.v2ex.com/t/928571) `18条评论` `宽带症候群`
 1. [[🎉 福利开源] 我开源 ChatGPT 客户端](https://www.v2ex.com/t/928497) `18条评论` `分享创造`
 
-数据更新于 2023-03-30 23:20:25
+数据更新于 2023-03-30 23:30:54
 
 <!-- TODAY END -->
 
