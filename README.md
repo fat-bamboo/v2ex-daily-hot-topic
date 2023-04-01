@@ -26,7 +26,7 @@
 1. [Copilot 是修改了地区检测方式么](https://www.v2ex.com/t/928923) `7条评论` `GitHub Copilot`
 1. [全球首款 AI-native 操作系统： FydeOS AI](https://www.v2ex.com/t/928971) `6条评论` `奇思妙想`
 
-数据更新于 2023-04-01 07:46:36
+数据更新于 2023-04-01 07:56:53
 
 <!-- TODAY END -->
 
