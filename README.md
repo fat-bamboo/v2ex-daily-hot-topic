@@ -8,24 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么 ip4 不改成 999.999.999.999 的形式？](https://www.v2ex.com/t/929294) `86条评论` `随想`
-1. [能否给低学历者一个机会，看到“收到 offer 了，学历造假了，感觉有点慌”有感](https://www.v2ex.com/t/929300) `52条评论` `职场话题`
-1. [已经支持 chatgpt4.0 && Midjourney 制图！欢迎体验](https://www.v2ex.com/t/929311) `39条评论` `分享创造`
-1. [大伙都在用什么牌子的剃须刀?](https://www.v2ex.com/t/929312) `34条评论` `问与答`
-1. [B 站 UP 主发起停更潮](https://www.v2ex.com/t/929310) `30条评论` `哔哩哔哩`
+1. [为什么 ip4 不改成 999.999.999.999 的形式？](https://www.v2ex.com/t/929294) `88条评论` `随想`
+1. [能否给低学历者一个机会，看到“收到 offer 了，学历造假了，感觉有点慌”有感](https://www.v2ex.com/t/929300) `59条评论` `职场话题`
+1. [已经支持 chatgpt4.0 && Midjourney 制图！欢迎体验](https://www.v2ex.com/t/929311) `45条评论` `分享创造`
+1. [大伙都在用什么牌子的剃须刀?](https://www.v2ex.com/t/929312) `39条评论` `问与答`
+1. [B 站 UP 主发起停更潮](https://www.v2ex.com/t/929310) `33条评论` `哔哩哔哩`
 1. [原来 ChatGPT API 送的免费额度是会过期的啊](https://www.v2ex.com/t/929295) `24条评论` `程序员`
 1. [xdm， win 本有没有可以代替物理开机按键的方法。](https://www.v2ex.com/t/929290) `21条评论` `问与答`
-1. [你们的 open AI 账号被封了没？](https://www.v2ex.com/t/929319) `14条评论` `程序员`
+1. [你们的 open AI 账号被封了没？](https://www.v2ex.com/t/929319) `20条评论` `程序员`
 1. [求解 vite+vue3 项目中关于动态图标的问题](https://www.v2ex.com/t/929289) `13条评论` `Vue.js`
-1. [感谢论坛里大佬们的支持，目前汇总了些业务需求](https://www.v2ex.com/t/929317) `11条评论` `程序员`
+1. [感谢论坛里大佬们的支持，目前汇总了些业务需求](https://www.v2ex.com/t/929317) `12条评论` `程序员`
+1. [2023 大家 Watch 表盘用哪个？](https://www.v2ex.com/t/929303) `12条评论` ` WATCH`
 1. [关于开源的一些困惑，求解答～](https://www.v2ex.com/t/929305) `11条评论` `问与答`
 1. [如何出手旧 iPhone 比较安全？](https://www.v2ex.com/t/929298) `10条评论` `问与答`
-1. [2023 大家 Watch 表盘用哪个？](https://www.v2ex.com/t/929303) `9条评论` ` WATCH`
-1. [有啥好点的正规便宜租车的](https://www.v2ex.com/t/929304) `8条评论` `问与答`
-1. [m2 pro 的 14 寸 Mac 感觉使用 word 卡卡的](https://www.v2ex.com/t/929296) `8条评论` `MacBook Pro`
+1. [有啥好点的正规便宜租车的](https://www.v2ex.com/t/929304) `9条评论` `问与答`
+1. [m2 pro 的 14 寸 Mac 感觉使用 word 卡卡的](https://www.v2ex.com/t/929296) `9条评论` `MacBook Pro`
 1. [有一台闲置笔记本，可以用来做什么？可以分享一下吗](https://www.v2ex.com/t/929292) `8条评论` `问与答`
+1. [怎么最大限度地使用 chatgpt 来写 vue 代码，提升日常开发效率](https://www.v2ex.com/t/929321) `7条评论` `Vue.js`
 
-数据更新于 2023-04-03 02:47:49
+数据更新于 2023-04-03 02:58:12
 
 <!-- TODAY END -->
 
