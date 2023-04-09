@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [最强 AI 字幕软件来了， V2sub - AI 字幕机（原创软件）](https://www.v2ex.com/t/930940) `27条评论` `分享创造`
+1. [最强 AI 字幕软件来了， V2sub - AI 字幕机（原创软件）](https://www.v2ex.com/t/930940) `29条评论` `分享创造`
 1. [尊敬的客户，为降低您遭受噪音流言伤害风险，将在 24 小时后为您关闭“听力”功能](https://www.v2ex.com/t/930926) `15条评论` `奇思妙想`
 1. [有独立方向键, pageUP, pageDown, home, end 键的小于 87 键的机械键盘或者套件推荐吗？](https://www.v2ex.com/t/930925) `14条评论` `问与答`
+1. [分享一个脚本，可以一键激活 Windows/Office。](https://www.v2ex.com/t/930945) `12条评论` `Windows`
 1. [想买个能放下 2 个 27 寸显示器的桌面升降台，求推荐](https://www.v2ex.com/t/930928) `11条评论` `问与答`
-1. [分享一个脚本，可以一键激活 Windows/Office。](https://www.v2ex.com/t/930945) `10条评论` `Windows`
 1. [分享一个自建的 FreshRss 站点 FeedFolder](https://www.v2ex.com/t/930932) `10条评论` `RSS`
 1. [请问有没有记录物品所在位置的 iOS APP](https://www.v2ex.com/t/930952) `8条评论` `问与答`
 1. [局域网，电脑共享电影，用电视播放会卡顿，有什么成本低的改进方式吗？](https://www.v2ex.com/t/930948) `8条评论` `问与答`
@@ -20,7 +20,7 @@
 1. [MacOS 13.3.1 无法修改 /usr/bin 权限](https://www.v2ex.com/t/930939) `8条评论` `程序员`
 1. [求推荐一些能够私有化部署的 ChatGPT 项目](https://www.v2ex.com/t/930953) `6条评论` `OpenAI`
 
-数据更新于 2023-04-09 05:26:14
+数据更新于 2023-04-09 05:36:43
 
 <!-- TODAY END -->
 
