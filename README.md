@@ -9,14 +9,14 @@
 <!-- TODAY BEGIN -->
 
 1. [待业中的老婆怀孕了](https://www.v2ex.com/t/932114) `124条评论` `问与答`
-1. [程序员鼠标求推荐](https://www.v2ex.com/t/932112) `121条评论` `问与答`
+1. [程序员鼠标求推荐](https://www.v2ex.com/t/932112) `122条评论` `问与答`
 1. [现在国内资金出去实在是困难重重](https://www.v2ex.com/t/932155) `116条评论` `移民`
 1. [有没有大佬出域名的？](https://www.v2ex.com/t/932165) `106条评论` `程序员`
 1. [作为程序猿居然投域名，亏到姥姥家了](https://www.v2ex.com/t/932122) `101条评论` `程序员`
 1. [新冠溯源，你们是怎么看的？](https://www.v2ex.com/t/932211) `83条评论` `问与答`
 1. [免费送 50 万中文字符的 GPT-3.5 支持 GPT-4](https://www.v2ex.com/t/932200) `78条评论` `优惠信息`
-1. [New York City, early April 2023](https://www.v2ex.com/t/932113) `75条评论` `旅行`
-1. [感觉阴阳怪气的人越来越多了](https://www.v2ex.com/t/932235) `75条评论` `问与答`
+1. [感觉阴阳怪气的人越来越多了](https://www.v2ex.com/t/932235) `77条评论` `问与答`
+1. [New York City, early April 2023](https://www.v2ex.com/t/932113) `76条评论` `旅行`
 1. [写在 Kubernetes1.24 正式弃用 Docker 一年后](https://www.v2ex.com/t/932173) `68条评论` `Kubernetes`
 1. [技术使用感受： JQuery 和 Vue](https://www.v2ex.com/t/932298) `48条评论` `程序员`
 1. [AI 时代程序员的价值会被逐步弱化](https://www.v2ex.com/t/932168) `46条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [一时着急，没有用 brew 安装.net，用了官网下的 pkg。呜呜，我干净的 mac 就这样被弄脏了？很难卸载干净了吧？](https://www.v2ex.com/t/932320) `24条评论` `程序员`
 1. [蜂窝版 iPad 居然不能接收短信](https://www.v2ex.com/t/932212) `23条评论` `iPad`
 
-数据更新于 2023-04-13 16:45:55
+数据更新于 2023-04-13 16:56:13
 
 <!-- TODAY END -->
 
