@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912) `72条评论` `问与答`
-1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `46条评论` `程序员`
+1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912) `75条评论` `问与答`
+1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `47条评论` `程序员`
 1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862) `40条评论` `问与答`
 1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869) `29条评论` `macOS`
-1. [2023 今年最好赚的是中国股票市场](https://www.v2ex.com/t/932880) `23条评论` `投资`
+1. [2023 今年最好赚的是中国股票市场](https://www.v2ex.com/t/932880) `24条评论` `投资`
+1. [想学英语，英孚英语有人了解吗？](https://www.v2ex.com/t/932909) `21条评论` `北京`
 1. [cf 的 warp 真的能访问 chatgpt 吗？是在本地电脑安装还是在服务器上安装？](https://www.v2ex.com/t/932868) `21条评论` `云计算`
-1. [想学英语，英孚英语有人了解吗？](https://www.v2ex.com/t/932909) `20条评论` `北京`
 1. [为什么很少见用 MessagePack 代替 JSON 的 Web 服务，不是更省流量吗？去一个 Discord 群问了 /t/932789 的问题，有个美国老外给我推荐这种方案。](https://www.v2ex.com/t/932879) `19条评论` `程序员`
 1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930) `18条评论` `OpenAI`
 1. [mac Silicon 平台 ，现在本地 ai 图片生成的方案有了么？](https://www.v2ex.com/t/932870) `16条评论` `macOS`
@@ -33,7 +33,7 @@
 1. [有没有 v 友觉得使用 mac 看的眼睛好累](https://www.v2ex.com/t/932937) `8条评论` `macOS`
 1. [[4-16] chatgpt 访问限制是不是又增强了？](https://www.v2ex.com/t/932913) `8条评论` `OpenAI`
 
-数据更新于 2023-04-16 10:38:42
+数据更新于 2023-04-16 10:49:18
 
 <!-- TODAY END -->
 
