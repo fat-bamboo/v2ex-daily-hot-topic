@@ -8,12 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `11条评论` `程序员`
+1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `12条评论` `程序员`
+1. [mac Silicon 平台 ，现在本地 ai 图片生成的方案有了么？](https://www.v2ex.com/t/932870) `11条评论` `macOS`
+1. [functional programming 应该翻译成泛函编程](https://www.v2ex.com/t/932856) `10条评论` `程序员`
+1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869) `9条评论` `macOS`
+1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862) `9条评论` `问与答`
 1. [✨ V2EX 周报 本周热门主题及高赞回复 04.08-04.14](https://www.v2ex.com/t/932854) `7条评论` `分享发现`
-1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862) `6条评论` `问与答`
-1. [functional programming 应该翻译成泛函编程](https://www.v2ex.com/t/932856) `6条评论` `程序员`
 
-数据更新于 2023-04-16 02:28:46
+数据更新于 2023-04-16 02:48:13
 
 <!-- TODAY END -->
 
