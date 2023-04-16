@@ -8,17 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912) `91条评论` `问与答`
+1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912) `92条评论` `问与答`
 1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `49条评论` `程序员`
 1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862) `43条评论` `问与答`
 1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869) `29条评论` `macOS`
+1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930) `27条评论` `OpenAI`
 1. [2023 今年最好赚的是中国股票市场](https://www.v2ex.com/t/932880) `26条评论` `投资`
-1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930) `25条评论` `OpenAI`
 1. [cf 的 warp 真的能访问 chatgpt 吗？是在本地电脑安装还是在服务器上安装？](https://www.v2ex.com/t/932868) `22条评论` `云计算`
 1. [想学英语，英孚英语有人了解吗？](https://www.v2ex.com/t/932909) `21条评论` `北京`
 1. [为什么很少见用 MessagePack 代替 JSON 的 Web 服务，不是更省流量吗？去一个 Discord 群问了 /t/932789 的问题，有个美国老外给我推荐这种方案。](https://www.v2ex.com/t/932879) `19条评论` `程序员`
 1. [很难想象今年夏天四川重庆会有多热...](https://www.v2ex.com/t/932917) `16条评论` `问与答`
 1. [mac Silicon 平台 ，现在本地 ai 图片生成的方案有了么？](https://www.v2ex.com/t/932870) `16条评论` `macOS`
+1. [类似 Bob 翻译软件](https://www.v2ex.com/t/932954) `15条评论` `macOS`
 1. [还有做独立站点或者写博客的人吗？](https://www.v2ex.com/t/932931) `14条评论` `问与答`
 1. [大四春招，校招公司要求先实习一个月才能签三方，是否合理？](https://www.v2ex.com/t/932865) `12条评论` `问与答`
 1. [functional programming 应该翻译成泛函编程](https://www.v2ex.com/t/932856) `12条评论` `程序员`
@@ -30,10 +31,9 @@
 1. [AWS LightSail 的 CPU 似乎非常弱？](https://www.v2ex.com/t/932867) `11条评论` `云计算`
 1. [✨ V2EX 周报 本周热门主题及高赞回复 04.08-04.14](https://www.v2ex.com/t/932854) `10条评论` `分享发现`
 1. [自建在线云浏览器教程](https://www.v2ex.com/t/932851) `10条评论` `分享发现`
-1. [类似 Bob 翻译软件](https://www.v2ex.com/t/932954) `9条评论` `macOS`
 1. [现在有使用 android 原生系统+双卡双待的方案么？](https://www.v2ex.com/t/932905) `9条评论` `Android`
 
-数据更新于 2023-04-16 12:29:05
+数据更新于 2023-04-16 12:51:28
 
 <!-- TODAY END -->
 
