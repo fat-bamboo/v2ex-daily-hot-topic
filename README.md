@@ -8,22 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912) `62条评论` `问与答`
-1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `44条评论` `程序员`
+1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912) `64条评论` `问与答`
+1. [我再也不敢装逼了](https://www.v2ex.com/t/932863) `46条评论` `程序员`
 1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862) `40条评论` `问与答`
-1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869) `28条评论` `macOS`
+1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869) `29条评论` `macOS`
 1. [cf 的 warp 真的能访问 chatgpt 吗？是在本地电脑安装还是在服务器上安装？](https://www.v2ex.com/t/932868) `21条评论` `云计算`
 1. [想学英语，英孚英语有人了解吗？](https://www.v2ex.com/t/932909) `19条评论` `北京`
 1. [为什么很少见用 MessagePack 代替 JSON 的 Web 服务，不是更省流量吗？去一个 Discord 群问了 /t/932789 的问题，有个美国老外给我推荐这种方案。](https://www.v2ex.com/t/932879) `19条评论` `程序员`
-1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930) `17条评论` `OpenAI`
+1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930) `18条评论` `OpenAI`
 1. [mac Silicon 平台 ，现在本地 ai 图片生成的方案有了么？](https://www.v2ex.com/t/932870) `16条评论` `macOS`
 1. [大四春招，校招公司要求先实习一个月才能签三方，是否合理？](https://www.v2ex.com/t/932865) `12条评论` `问与答`
 1. [functional programming 应该翻译成泛函编程](https://www.v2ex.com/t/932856) `12条评论` `程序员`
+1. [还有做独立站点或者写博客的人吗？](https://www.v2ex.com/t/932931) `11条评论` `问与答`
 1. [发现 mbp 14 m1 京东百亿补贴第三方店铺价格非常低，可以入手吗？](https://www.v2ex.com/t/932900) `11条评论` `Apple`
 1. [问：有个充值资源，怎么利用？](https://www.v2ex.com/t/932890) `11条评论` `程序员`
 1. [[数仓交流帖] 数仓职业交流贴](https://www.v2ex.com/t/932875) `11条评论` `程序员`
 1. [AWS LightSail 的 CPU 似乎非常弱？](https://www.v2ex.com/t/932867) `11条评论` `云计算`
-1. [还有做独立站点或者写博客的人吗？](https://www.v2ex.com/t/932931) `10条评论` `问与答`
 1. [很难想象今年夏天四川重庆会有多热...](https://www.v2ex.com/t/932917) `10条评论` `问与答`
 1. [2023 今年最好赚的是中国股票市场](https://www.v2ex.com/t/932880) `10条评论` `投资`
 1. [✨ V2EX 周报 本周热门主题及高赞回复 04.08-04.14](https://www.v2ex.com/t/932854) `10条评论` `分享发现`
@@ -33,7 +33,7 @@
 1. [[4-16] chatgpt 访问限制是不是又增强了？](https://www.v2ex.com/t/932913) `8条评论` `OpenAI`
 1. [[杭州] 不正经的一年前端经验，求职 & 求指导，附简历和项目预览图](https://www.v2ex.com/t/932853) `8条评论` `求职`
 
-数据更新于 2023-04-16 09:56:16
+数据更新于 2023-04-16 10:14:59
 
 <!-- TODAY END -->
 
