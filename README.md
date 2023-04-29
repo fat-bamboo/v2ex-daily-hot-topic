@@ -10,19 +10,19 @@
 
 1. [不是我看不起国内所谓搞 AI 的](https://www.v2ex.com/t/936404) `106条评论` `程序员`
 1. [重装系统 Win 后如何快速批量安装软件？](https://www.v2ex.com/t/936376) `34条评论` `Windows`
-1. [抖音是否会成为控制人类思想的工具?](https://www.v2ex.com/t/936400) `30条评论` `问与答`
+1. [抖音是否会成为控制人类思想的工具?](https://www.v2ex.com/t/936400) `31条评论` `问与答`
 1. [这几天假期有什么新鲜玩意玩玩呢， 程序， 框架等等](https://www.v2ex.com/t/936379) `26条评论` `程序员`
+1. [寻找 steam 多人游戏推荐](https://www.v2ex.com/t/936413) `25条评论` `Steam`
 1. [男女身高差太大会有什么问题](https://www.v2ex.com/t/936423) `15条评论` `分享发现`
 1. [最近这种垃圾短信为什么这么多？](https://www.v2ex.com/t/936391) `14条评论` `问与答`
 1. [35 岁的程序员转行有什么方向和职业可以推荐?](https://www.v2ex.com/t/936380) `14条评论` `问与答`
-1. [寻找 steam 多人游戏推荐](https://www.v2ex.com/t/936413) `12条评论` `Steam`
+1. [自己的开源项目申请到了 JetBrains 全家桶证书，允许我开心一下](https://www.v2ex.com/t/936440) `13条评论` `程序员`
 1. [（欢乐）售卖汉化破解版 Advanced Installer 的奸商，竟是国内 Powershell 编程大神？](https://www.v2ex.com/t/936434) `12条评论` `程序员`
 1. [有没有跟我一样在等 win 11 ltsc 版本的](https://www.v2ex.com/t/936409) `12条评论` `Windows`
 1. [小白请教 docker](https://www.v2ex.com/t/936385) `12条评论` `问与答`
 1. [2023.5.1,早安](https://www.v2ex.com/t/936375) `12条评论` `宁波`
 1. [其实这个世界从来就没有对你温柔过](https://www.v2ex.com/t/936419) `11条评论` `随想`
 1. [当问 gpt 不太熟悉得领域时，如何不被误导或者如何将错误降到最低？](https://www.v2ex.com/t/936449) `10条评论` `程序员`
-1. [自己的开源项目申请到了 JetBrains 全家桶证书，允许我开心一下](https://www.v2ex.com/t/936440) `10条评论` `程序员`
 1. [win 转 mac](https://www.v2ex.com/t/936426) `10条评论` `问与答`
 1. [想到了上初中时候遇到的一个 Bug 分享给大家看看](https://www.v2ex.com/t/936393) `10条评论` `问与答`
 1. [如何在 cloudflare 上彻底屏蔽一个指定的爬虫/bot?](https://www.v2ex.com/t/936381) `9条评论` `程序员`
@@ -31,8 +31,9 @@
 1. [为什么有的 app 打开提示要升级，但是进入 app store 又没有升级要求？](https://www.v2ex.com/t/936410) `8条评论` `iOS`
 1. [有可能实现用 PHP 写 iOS 应用（客户端 ！不是服务端！）吗？](https://www.v2ex.com/t/936394) `8条评论` `iDev`
 1. [ac+快到期了， 19 款 mbp16 电池健康 82%，可以去申请免费换电池吗？](https://www.v2ex.com/t/936390) `8条评论` `Apple`
+1. [Apple store 里面的余额咋用啊](https://www.v2ex.com/t/936430) `7条评论` `Apple`
 
-数据更新于 2023-04-29 10:59:17
+数据更新于 2023-04-29 11:14:50
 
 <!-- TODAY END -->
 
