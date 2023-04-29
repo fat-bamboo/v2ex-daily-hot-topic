@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [不是我看不起国内所谓搞 AI 的](https://www.v2ex.com/t/936404) `104条评论` `程序员`
+1. [不是我看不起国内所谓搞 AI 的](https://www.v2ex.com/t/936404) `105条评论` `程序员`
 1. [重装系统 Win 后如何快速批量安装软件？](https://www.v2ex.com/t/936376) `34条评论` `Windows`
-1. [抖音是否会成为控制人类思想的工具?](https://www.v2ex.com/t/936400) `29条评论` `问与答`
+1. [抖音是否会成为控制人类思想的工具?](https://www.v2ex.com/t/936400) `30条评论` `问与答`
 1. [这几天假期有什么新鲜玩意玩玩呢， 程序， 框架等等](https://www.v2ex.com/t/936379) `26条评论` `程序员`
 1. [男女身高差太大会有什么问题](https://www.v2ex.com/t/936423) `15条评论` `分享发现`
 1. [最近这种垃圾短信为什么这么多？](https://www.v2ex.com/t/936391) `14条评论` `问与答`
@@ -26,13 +26,13 @@
 1. [寻找 steam 多人游戏推荐](https://www.v2ex.com/t/936413) `10条评论` `Steam`
 1. [想到了上初中时候遇到的一个 Bug 分享给大家看看](https://www.v2ex.com/t/936393) `10条评论` `问与答`
 1. [如何在 cloudflare 上彻底屏蔽一个指定的爬虫/bot?](https://www.v2ex.com/t/936381) `9条评论` `程序员`
+1. [想把 Switch 卖了，求估个价](https://www.v2ex.com/t/936436) `8条评论` `Nintendo Switch`
 1. [预算 5000 以内，听日本 ACG 音乐适合用什么耳机？带声卡出门太不方便了，要 M2 Max 的 Macbook 能直接推的。](https://www.v2ex.com/t/936415) `8条评论` `音乐`
 1. [为什么有的 app 打开提示要升级，但是进入 app store 又没有升级要求？](https://www.v2ex.com/t/936410) `8条评论` `iOS`
 1. [有可能实现用 PHP 写 iOS 应用（客户端 ！不是服务端！）吗？](https://www.v2ex.com/t/936394) `8条评论` `iDev`
 1. [ac+快到期了， 19 款 mbp16 电池健康 82%，可以去申请免费换电池吗？](https://www.v2ex.com/t/936390) `8条评论` `Apple`
-1. [想把 Switch 卖了，求估个价](https://www.v2ex.com/t/936436) `6条评论` `Nintendo Switch`
 
-数据更新于 2023-04-29 10:38:30
+数据更新于 2023-04-29 10:49:00
 
 <!-- TODAY END -->
 
