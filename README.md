@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [为什么明知道五一到处都是人，大家还是不顾一切的出门？](https://www.v2ex.com/t/936567) `107条评论` `问与答`
-1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `78条评论` `Android`
+1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `79条评论` `Android`
 1. [没有爱过！你爱过几次？](https://www.v2ex.com/t/936549) `40条评论` `问与答`
 1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580) `37条评论` `问与答`
 1. [同价位选择 Mac 还是 win](https://www.v2ex.com/t/936555) `36条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [ChatGPT 关于 nftables 的端口集合回答错误](https://www.v2ex.com/t/936634) `9条评论` `程序员`
 1. [ChatGPT 国内还有什么办法使用？](https://www.v2ex.com/t/936590) `9条评论` `OpenAI`
 
-数据更新于 2023-04-30 22:26:57
+数据更新于 2023-04-30 22:37:29
 
 <!-- TODAY END -->
 
