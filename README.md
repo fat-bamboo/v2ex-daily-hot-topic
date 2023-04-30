@@ -9,14 +9,14 @@
 <!-- TODAY BEGIN -->
 
 1. [为什么明知道五一到处都是人，大家还是不顾一切的出门？](https://www.v2ex.com/t/936567) `105条评论` `问与答`
-1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `72条评论` `Android`
-1. [没有爱过！你爱过几次？](https://www.v2ex.com/t/936549) `36条评论` `问与答`
-1. [同价位选择 Mac 还是 win](https://www.v2ex.com/t/936555) `35条评论` `问与答`
+1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `73条评论` `Android`
+1. [没有爱过！你爱过几次？](https://www.v2ex.com/t/936549) `38条评论` `问与答`
+1. [同价位选择 Mac 还是 win](https://www.v2ex.com/t/936555) `36条评论` `问与答`
 1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580) `35条评论` `问与答`
+1. [有人使用 GraalVM 编译 SpringBoot 程序了吗？](https://www.v2ex.com/t/936538) `27条评论` `Java`
 1. [判断 IP 是否为境内，有什么推荐的方案](https://www.v2ex.com/t/936578) `27条评论` `程序员`
 1. [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639) `27条评论` `问与答`
-1. [有人使用 GraalVM 编译 SpringBoot 程序了吗？](https://www.v2ex.com/t/936538) `26条评论` `Java`
-1. [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616) `25条评论` `Windows`
+1. [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616) `26条评论` `Windows`
 1. [压力给到了前端这边： app 如何获取应用唯一标识？](https://www.v2ex.com/t/936530) `24条评论` `问与答`
 1. [树莓派 4b 太贵了，买了个 arduino uno rev3 主板](https://www.v2ex.com/t/936614) `18条评论` `分享发现`
 1. [如何除掉纸箱上面印刷的字?](https://www.v2ex.com/t/936585) `15条评论` `问与答`
@@ -29,11 +29,11 @@
 1. [2023 4 月交友记录](https://www.v2ex.com/t/936551) `10条评论` `生活`
 1. [有开源的人脸识别程序吗?](https://www.v2ex.com/t/936535) `10条评论` `程序员`
 1. [为什么 Scoop 不出图形界面？](https://www.v2ex.com/t/936531) `10条评论` `问与答`
+1. [ChatGPT 关于 nftables 的端口集合回答错误](https://www.v2ex.com/t/936634) `9条评论` `程序员`
 1. [ChatGPT 国内还有什么办法使用？](https://www.v2ex.com/t/936590) `9条评论` `OpenAI`
 1. [大龄程序员还有机会润日本吗？](https://www.v2ex.com/t/936564) `9条评论` `职场话题`
-1. [读后感怎么写？](https://www.v2ex.com/t/936544) `9条评论` `问与答`
 
-数据更新于 2023-04-30 16:56:05
+数据更新于 2023-04-30 17:12:22
 
 <!-- TODAY END -->
 
