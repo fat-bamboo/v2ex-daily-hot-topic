@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [为什么明知道五一到处都是人，大家还是不顾一切的出门？](https://www.v2ex.com/t/936567) `106条评论` `问与答`
-1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `74条评论` `Android`
+1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `77条评论` `Android`
 1. [没有爱过！你爱过几次？](https://www.v2ex.com/t/936549) `40条评论` `问与答`
 1. [同价位选择 Mac 还是 win](https://www.v2ex.com/t/936555) `36条评论` `问与答`
 1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580) `36条评论` `问与答`
+1. [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639) `29条评论` `问与答`
 1. [有人使用 GraalVM 编译 SpringBoot 程序了吗？](https://www.v2ex.com/t/936538) `27条评论` `Java`
 1. [判断 IP 是否为境内，有什么推荐的方案](https://www.v2ex.com/t/936578) `27条评论` `程序员`
-1. [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639) `27条评论` `问与答`
 1. [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616) `26条评论` `Windows`
 1. [压力给到了前端这边： app 如何获取应用唯一标识？](https://www.v2ex.com/t/936530) `24条评论` `问与答`
 1. [树莓派 4b 太贵了，买了个 arduino uno rev3 主板](https://www.v2ex.com/t/936614) `18条评论` `分享发现`
@@ -33,7 +33,7 @@
 1. [ChatGPT 国内还有什么办法使用？](https://www.v2ex.com/t/936590) `9条评论` `OpenAI`
 1. [大龄程序员还有机会润日本吗？](https://www.v2ex.com/t/936564) `9条评论` `职场话题`
 
-数据更新于 2023-04-30 17:58:14
+数据更新于 2023-04-30 18:21:11
 
 <!-- TODAY END -->
 
