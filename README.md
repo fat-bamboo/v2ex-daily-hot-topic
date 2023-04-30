@@ -33,7 +33,7 @@
 1. [ChatGPT 关于 nftables 的端口集合回答错误](https://www.v2ex.com/t/936634) `9条评论` `程序员`
 1. [ChatGPT 国内还有什么办法使用？](https://www.v2ex.com/t/936590) `9条评论` `OpenAI`
 
-数据更新于 2023-04-30 22:47:50
+数据更新于 2023-04-30 22:58:04
 
 <!-- TODAY END -->
 
