@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [为什么明知道五一到处都是人，大家还是不顾一切的出门？](https://www.v2ex.com/t/936567) `107条评论` `问与答`
-1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `80条评论` `Android`
+1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581) `81条评论` `Android`
 1. [没有爱过！你爱过几次？](https://www.v2ex.com/t/936549) `40条评论` `问与答`
 1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580) `37条评论` `问与答`
 1. [同价位选择 Mac 还是 win](https://www.v2ex.com/t/936555) `36条评论` `问与答`
-1. [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639) `30条评论` `问与答`
+1. [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639) `31条评论` `问与答`
 1. [有人使用 GraalVM 编译 SpringBoot 程序了吗？](https://www.v2ex.com/t/936538) `27条评论` `Java`
 1. [判断 IP 是否为境内，有什么推荐的方案](https://www.v2ex.com/t/936578) `27条评论` `程序员`
 1. [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616) `27条评论` `Windows`
@@ -31,9 +31,9 @@
 1. [为什么 Scoop 不出图形界面？](https://www.v2ex.com/t/936531) `10条评论` `问与答`
 1. [校招接了 OPPO 的 offer，现在不想去了](https://www.v2ex.com/t/936672) `9条评论` `职场话题`
 1. [ChatGPT 关于 nftables 的端口集合回答错误](https://www.v2ex.com/t/936634) `9条评论` `程序员`
-1. [ChatGPT 国内还有什么办法使用？](https://www.v2ex.com/t/936590) `9条评论` `OpenAI`
+1. [yiyi，又一个套壳 GPT 来了](https://www.v2ex.com/t/936626) `9条评论` `OpenAI`
 
-数据更新于 2023-04-30 22:58:04
+数据更新于 2023-04-30 23:17:39
 
 <!-- TODAY END -->
 
