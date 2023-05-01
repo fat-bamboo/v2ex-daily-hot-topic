@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [现在国内消费水平这么高了吗？](https://www.v2ex.com/t/936713) `70条评论` `问与答`
-1. [什么值得买凉透了么](https://www.v2ex.com/t/936711) `35条评论` `问与答`
+1. [现在国内消费水平这么高了吗？](https://www.v2ex.com/t/936713) `74条评论` `问与答`
+1. [什么值得买凉透了么](https://www.v2ex.com/t/936711) `36条评论` `问与答`
 1. [为啥 js 语言里面 那么喜欢嵌套，匿名](https://www.v2ex.com/t/936734) `33条评论` `程序员`
-1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `29条评论` `JavaScript`
-1. [领导无脑 ssr、ssg](https://www.v2ex.com/t/936720) `26条评论` `程序员`
-1. [最近关于放假调休有不少争论](https://www.v2ex.com/t/936693) `24条评论` `生活`
+1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `30条评论` `JavaScript`
+1. [领导无脑 ssr、ssg](https://www.v2ex.com/t/936720) `27条评论` `程序员`
+1. [最近关于放假调休有不少争论](https://www.v2ex.com/t/936693) `25条评论` `生活`
 1. [HDR 电影的正确打开方式](https://www.v2ex.com/t/936690) `23条评论` `问与答`
 1. [现在千兆快的只有 50 兆上行？](https://www.v2ex.com/t/936736) `22条评论` `宽带症候群`
 1. [DDD 持久化的时候如何避免无效 DB 操作？](https://www.v2ex.com/t/936712) `21条评论` `程序员`
-1. [你们是在什么背景下决定买车的？](https://www.v2ex.com/t/936750) `19条评论` `问与答`
-1. [四线城市的电信 it 岗能久待吗？还是去大城市更好？](https://www.v2ex.com/t/936728) `15条评论` `职场话题`
+1. [你们是在什么背景下决定买车的？](https://www.v2ex.com/t/936750) `20条评论` `问与答`
+1. [四线城市的电信 it 岗能久待吗？还是去大城市更好？](https://www.v2ex.com/t/936728) `16条评论` `职场话题`
 1. [iCloud 用来备份照片性价比太低， icloudpd 实现释放 iCloud 空间的方法](https://www.v2ex.com/t/936692) `14条评论` `Apple`
 1. [求推荐小容量固态 U 盘](https://www.v2ex.com/t/936687) `14条评论` `问与答`
 1. [快 22 世纪了，有两块外接硬盘，互相备份硬是没找到好办法](https://www.v2ex.com/t/936681) `13条评论` `问与答`
@@ -29,11 +29,11 @@
 1. [JavaScript 的哪本书相当于 Python 的《流畅的 Python 》](https://www.v2ex.com/t/936706) `9条评论` `JavaScript`
 1. [电脑城线下回收手机靠谱吗？](https://www.v2ex.com/t/936701) `9条评论` `问与答`
 1. [申请 Azure OpenAI 球指导，初审已过，回复域名资料没回音](https://www.v2ex.com/t/936686) `9条评论` `OpenAI`
+1. [如何配置 openclash 使得 new bing 使用代理？](https://www.v2ex.com/t/936764) `8条评论` `宽带症候群`
 1. [某云依旧能用齿轮加速，服务端至今未修复？](https://www.v2ex.com/t/936691) `8条评论` `程序员`
 1. [midjourney 拼车，已开年付， 26 刀一月的标准版](https://www.v2ex.com/t/936726) `7条评论` `问与答`
-1. [（求教）如何使用 U.2 接口的企业级固态硬碟做 Mac 的 Time Machine 备份？](https://www.v2ex.com/t/936719) `7条评论` `硬件`
 
-数据更新于 2023-05-01 13:58:29
+数据更新于 2023-05-01 14:17:28
 
 <!-- TODAY END -->
 
