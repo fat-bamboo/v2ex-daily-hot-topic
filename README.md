@@ -11,7 +11,7 @@
 1. [现在国内消费水平这么高了吗？](https://www.v2ex.com/t/936713) `42条评论` `问与答`
 1. [什么值得买凉透了么](https://www.v2ex.com/t/936711) `28条评论` `问与答`
 1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `23条评论` `JavaScript`
-1. [最近关于放假调休有不少争论](https://www.v2ex.com/t/936693) `20条评论` `生活`
+1. [最近关于放假调休有不少争论](https://www.v2ex.com/t/936693) `21条评论` `生活`
 1. [DDD 持久化的时候如何避免无效 DB 操作？](https://www.v2ex.com/t/936712) `18条评论` `程序员`
 1. [HDR 电影的正确打开方式](https://www.v2ex.com/t/936690) `16条评论` `问与答`
 1. [iCloud 用来备份照片性价比太低， icloudpd 实现释放 iCloud 空间的方法](https://www.v2ex.com/t/936692) `14条评论` `Apple`
@@ -23,10 +23,11 @@
 1. [申请 Azure OpenAI 球指导，初审已过，回复域名资料没回音](https://www.v2ex.com/t/936686) `9条评论` `OpenAI`
 1. [为啥 js 语言里面 那么喜欢嵌套，匿名](https://www.v2ex.com/t/936734) `8条评论` `程序员`
 1. [某云依旧能用齿轮加速，服务端至今未修复？](https://www.v2ex.com/t/936691) `8条评论` `程序员`
+1. [四线城市的电信 it 岗能久待吗？还是去大城市更好？](https://www.v2ex.com/t/936728) `6条评论` `职场话题`
 1. [JavaScript 的哪本书相当于 Python 的《流畅的 Python 》](https://www.v2ex.com/t/936706) `6条评论` `JavaScript`
 1. [如何解决日历中重复出现的节假日？](https://www.v2ex.com/t/936688) `6条评论` `iPhone`
 
-数据更新于 2023-05-01 09:15:34
+数据更新于 2023-05-01 09:26:03
 
 <!-- TODAY END -->
 
