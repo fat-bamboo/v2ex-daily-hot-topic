@@ -9,21 +9,22 @@
 <!-- TODAY BEGIN -->
 
 1. [现在国内消费水平这么高了吗？](https://www.v2ex.com/t/936713) `33条评论` `问与答`
+1. [什么值得买凉透了么](https://www.v2ex.com/t/936711) `18条评论` `问与答`
+1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `18条评论` `JavaScript`
 1. [最近关于放假调休有不少争论](https://www.v2ex.com/t/936693) `18条评论` `生活`
-1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `17条评论` `JavaScript`
-1. [什么值得买凉透了么](https://www.v2ex.com/t/936711) `15条评论` `问与答`
-1. [iCloud 用来备份照片性价比太低， icloudpd 实现释放 iCloud 空间的方法](https://www.v2ex.com/t/936692) `13条评论` `Apple`
+1. [iCloud 用来备份照片性价比太低， icloudpd 实现释放 iCloud 空间的方法](https://www.v2ex.com/t/936692) `14条评论` `Apple`
 1. [快 22 世纪了，有两块外接硬盘，互相备份硬是没找到好办法](https://www.v2ex.com/t/936681) `13条评论` `问与答`
+1. [HDR 电影的正确打开方式](https://www.v2ex.com/t/936690) `12条评论` `问与答`
 1. [求推荐小容量固态 U 盘](https://www.v2ex.com/t/936687) `12条评论` `问与答`
-1. [HDR 电影的正确打开方式](https://www.v2ex.com/t/936690) `11条评论` `问与答`
-1. [DDD 持久化的时候如何避免无效 DB 操作？](https://www.v2ex.com/t/936712) `9条评论` `程序员`
+1. [DDD 持久化的时候如何避免无效 DB 操作？](https://www.v2ex.com/t/936712) `10条评论` `程序员`
 1. [电脑城线下回收手机靠谱吗？](https://www.v2ex.com/t/936701) `9条评论` `问与答`
 1. [申请 Azure OpenAI 球指导，初审已过，回复域名资料没回音](https://www.v2ex.com/t/936686) `9条评论` `OpenAI`
+1. [领导无脑 ssr、ssg](https://www.v2ex.com/t/936720) `8条评论` `程序员`
+1. [各位大佬们，宽带速度只有一半是为啥](https://www.v2ex.com/t/936705) `8条评论` `宽带症候群`
 1. [某云依旧能用齿轮加速，服务端至今未修复？](https://www.v2ex.com/t/936691) `8条评论` `程序员`
-1. [领导无脑 ssr、ssg](https://www.v2ex.com/t/936720) `7条评论` `程序员`
 1. [如何解决日历中重复出现的节假日？](https://www.v2ex.com/t/936688) `6条评论` `iPhone`
 
-数据更新于 2023-05-01 07:27:22
+数据更新于 2023-05-01 07:37:56
 
 <!-- TODAY END -->
 
