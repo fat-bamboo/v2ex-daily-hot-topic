@@ -8,9 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `11条评论` `JavaScript`
+1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685) `12条评论` `JavaScript`
+1. [iCloud 用来备份照片性价比太低， icloudpd 实现释放 iCloud 空间的方法](https://www.v2ex.com/t/936692) `6条评论` `Apple`
+1. [申请 Azure OpenAI 球指导，初审已过，回复域名资料没回音](https://www.v2ex.com/t/936686) `6条评论` `OpenAI`
 
-数据更新于 2023-05-01 03:37:51
+数据更新于 2023-05-01 03:48:15
 
 <!-- TODAY END -->
 
