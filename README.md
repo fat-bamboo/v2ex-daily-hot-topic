@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [免费共享一下我的 Midjourney 订阅，快来玩🤣](https://www.v2ex.com/t/936818) `38条评论` `OpenAI`
-1. [不知道 为啥亲戚（长辈）总是喜欢批评我 不知道做错了什么~](https://www.v2ex.com/t/936843) `23条评论` `问与答`
+1. [免费共享一下我的 Midjourney 订阅，快来玩🤣](https://www.v2ex.com/t/936818) `39条评论` `OpenAI`
+1. [不知道 为啥亲戚（长辈）总是喜欢批评我 不知道做错了什么~](https://www.v2ex.com/t/936843) `24条评论` `问与答`
 1. [Apple 有没有可能在 10 年内解决 iCloud 诡异的同步逻辑问题](https://www.v2ex.com/t/936826) `23条评论` `iCloud`
 1. [塞尔达 王国之泪偷跑](https://www.v2ex.com/t/936821) `17条评论` `塞尔达传说`
 1. [PT 新手考核疑问-平均做种时间不增长](https://www.v2ex.com/t/936832) `16条评论` `NAS`
@@ -25,7 +25,7 @@
 1. [ultramobile paygo 的资费，收短信收破产？](https://www.v2ex.com/t/936837) `6条评论` `问与答`
 1. [兄弟们，手机/sdcard 目录下突然出现好几个相同 Android 文件夹，咋办](https://www.v2ex.com/t/936825) `6条评论` `Android`
 
-数据更新于 2023-05-02 06:47:23
+数据更新于 2023-05-02 06:57:44
 
 <!-- TODAY END -->
 
