@@ -8,20 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
-1. [现在是买房好还是回村自建二层好](https://www.v2ex.com/t/937436) `28条评论` `问与答`
-1. [几年的记账就这样被删了... Money Pro 可真牛🍺](https://www.v2ex.com/t/937429) `25条评论` `分享发现`
-1. [开心，我的 gpt-4 api 申请通过了](https://www.v2ex.com/t/937426) `19条评论` `OpenAI`
-1. [openai 真奇怪](https://www.v2ex.com/t/937433) `13条评论` `问与答`
+1. [现在是买房好还是回村自建二层好](https://www.v2ex.com/t/937436) `46条评论` `问与答`
+1. [我又来送码了！ DLPlay， Apple TV 上的 DLNA 投屏神器，可以在 Apple TV 上看球赛了](https://www.v2ex.com/t/937450) `42条评论` `分享创造`
+1. [几年的记账就这样被删了... Money Pro 可真牛🍺](https://www.v2ex.com/t/937429) `34条评论` `分享发现`
+1. [openai 真奇怪](https://www.v2ex.com/t/937433) `20条评论` `问与答`
+1. [开心，我的 gpt-4 api 申请通过了](https://www.v2ex.com/t/937426) `20条评论` `OpenAI`
+1. [由“上海 7 年前端”想问问，用 base64 转码联系方式是出于什么想法？](https://www.v2ex.com/t/937430) `19条评论` `问与答`
 1. [树莓派的一点信息](https://www.v2ex.com/t/937419) `13条评论` `Raspberry Pi`
-1. [由“上海 7 年前端”想问问，用 base64 转码联系方式是出于什么想法？](https://www.v2ex.com/t/937430) `12条评论` `问与答`
-1. [QQ 的产品经理是怎么想的。](https://www.v2ex.com/t/937440) `10条评论` `macOS`
-1. [到底现在目前哪种方法能打开 new bing 中的聊天？](https://www.v2ex.com/t/937425) `9条评论` `macOS`
+1. [QQ 的产品经理是怎么想的。](https://www.v2ex.com/t/937440) `12条评论` `macOS`
+1. [到底现在目前哪种方法能打开 new bing 中的聊天？](https://www.v2ex.com/t/937425) `11条评论` `macOS`
+1. [debian.im 有人收不？](https://www.v2ex.com/t/937435) `10条评论` `程序员`
 1. [windows11 如何通过 clash 分享热点给移动设备上网?要求非代理](https://www.v2ex.com/t/937423) `9条评论` `问与答`
-1. [debian.im 有人收不？](https://www.v2ex.com/t/937435) `8条评论` `程序员`
-1. [有什么批量转换文件编码的工具推荐吗？](https://www.v2ex.com/t/937422) `7条评论` `程序员`
-1. [Firefox 无法打开 TradingView 的超级图表页面](https://www.v2ex.com/t/937416) `7条评论` `问与答`
+1. [有什么批量转换文件编码的工具推荐吗？](https://www.v2ex.com/t/937422) `8条评论` `程序员`
+1. [Firefox 无法打开 TradingView 的超级图表页面](https://www.v2ex.com/t/937416) `8条评论` `问与答`
+1. [Swift 和 LLVM 作者的新项目， 35000 倍快的升级版 Python](https://www.v2ex.com/t/937415) `7条评论` `Python`
+1. [有什么岗位是比较好找到远程工作机会的？](https://www.v2ex.com/t/937418) `6条评论` `酷工作`
 
-数据更新于 2023-05-05 02:06:10
+数据更新于 2023-05-05 02:35:19
 
 <!-- TODAY END -->
 
