@@ -13,27 +13,27 @@
 1. [[🎁 产品自荐+送码] OpenBox ChaGPT 快捷指令](https://www.v2ex.com/t/937994) `37条评论` `分享创造`
 1. [“国产化” 大家选择什么数据库？人大金仓？](https://www.v2ex.com/t/937986) `32条评论` `程序员`
 1. [想知道欧美说中文人的比例有多高，外贸网站频繁有同行恶意下单，屏蔽国内 IP 后他们买了家宽代理池继续捣乱（IP 段 76.188.115.x 等，确认是美国家宽），目前特征只找到 accept-language 有中文](https://www.v2ex.com/t/938044) `31条评论` `程序员`
-1. [window 云服务器如何防止被黑被勒索](https://www.v2ex.com/t/937991) `28条评论` `服务器`
-1. [北京移动宽带 407.7 一年，真香](https://www.v2ex.com/t/937998) `21条评论` `宽带症候群`
+1. [window 云服务器如何防止被黑被勒索](https://www.v2ex.com/t/937991) `29条评论` `服务器`
+1. [北京移动宽带 407.7 一年，真香](https://www.v2ex.com/t/937998) `22条评论` `宽带症候群`
 1. [广州电信宽带￥ 149，老打电话来。](https://www.v2ex.com/t/937993) `20条评论` `宽带症候群`
 1. [studio display 还是 Ultrafine 5k 还是 5k iMac](https://www.v2ex.com/t/937987) `18条评论` `Apple`
 1. [大文件下载的开发方案怎么设计？](https://www.v2ex.com/t/938051) `16条评论` `程序员`
 1. [M2 MBA 播放本地杜比视界视频问题](https://www.v2ex.com/t/938045) `16条评论` `Apple`
-1. [诸位是如何打造个人知识库的？ wiki 还是笔记软件？](https://www.v2ex.com/t/938037) `15条评论` `问与答`
+1. [诸位是如何打造个人知识库的？ wiki 还是笔记软件？](https://www.v2ex.com/t/938037) `16条评论` `问与答`
+1. [[送码和 Testflight 链接] 敲木鱼 Apple TV 版本，大屏音效台，解压小工具](https://www.v2ex.com/t/938048) `15条评论` `分享创造`
 1. [openwrt+ssr plus+ 上网问题](https://www.v2ex.com/t/938014) `14条评论` `OpenWrt`
 1. [iOS 有支持 clash 规则的 app 吗？](https://www.v2ex.com/t/938016) `12条评论` `问与答`
 1. [效率最高的编程快捷键](https://www.v2ex.com/t/937997) `12条评论` `程序员`
-1. [[送码和 Testflight 链接] 敲木鱼 Apple TV 版本，大屏音效台，解压小工具](https://www.v2ex.com/t/938048) `11条评论` `分享创造`
-1. [退休金怎么算的？](https://www.v2ex.com/t/938053) `10条评论` `问与答`
+1. [退休金怎么算的？](https://www.v2ex.com/t/938053) `11条评论` `问与答`
+1. [求推荐显示器， 4k 27 寸](https://www.v2ex.com/t/938032) `10条评论` `问与答`
 1. [Bing Chat 也不是特别准确？🤐](https://www.v2ex.com/t/938001) `10条评论` `程序员`
-1. [求推荐显示器， 4k 27 寸](https://www.v2ex.com/t/938032) `9条评论` `问与答`
+1. [入手了 pixel7 想问一下 play store 哪个国家的国内 app 最全呀](https://www.v2ex.com/t/938056) `7条评论` `Android`
 1. [国产 NVMEe 硬盘质量如何？](https://www.v2ex.com/t/938035) `7条评论` `SSD`
 1. [tf 卡用读卡器插入电脑完全不识别，插入安卓手机提示必须格式化才能使用，如何修复？](https://www.v2ex.com/t/938027) `7条评论` `问与答`
 1. [现在建站如果只针对谷歌做 SEO,还有必要特地做服务端渲染吗](https://www.v2ex.com/t/938018) `7条评论` `程序员`
 1. [为什么第一批买 pepe 的能翻这么多倍](https://www.v2ex.com/t/938015) `7条评论` `加密货币`
-1. [求软件：不解压缩一键将压缩文件挂载成只读目录或磁盘的软件，如当前 ZipMagic98](https://www.v2ex.com/t/938002) `7条评论` `问与答`
 
-数据更新于 2023-05-07 11:14:48
+数据更新于 2023-05-07 11:25:49
 
 <!-- TODAY END -->
 
