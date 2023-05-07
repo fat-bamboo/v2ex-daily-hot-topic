@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [[🎁 产品自荐+送码] OpenBox ChaGPT 快捷指令](https://www.v2ex.com/t/937994) `17条评论` `分享创造`
-1. [“国产化” 大家选择什么数据库？人大金仓？](https://www.v2ex.com/t/937986) `15条评论` `程序员`
+1. [[🎁 产品自荐+送码] OpenBox ChaGPT 快捷指令](https://www.v2ex.com/t/937994) `23条评论` `分享创造`
+1. [“国产化” 大家选择什么数据库？人大金仓？](https://www.v2ex.com/t/937986) `16条评论` `程序员`
 1. [studio display 还是 Ultrafine 5k 还是 5k iMac](https://www.v2ex.com/t/937987) `13条评论` `Apple`
 1. [广州电信宽带￥ 149，老打电话来。](https://www.v2ex.com/t/937993) `7条评论` `宽带症候群`
 1. [可以通过 NAS（e.g., 群晖相册）实现 iPhone / iPad /macOS 之间的照片同步么？](https://www.v2ex.com/t/937982) `7条评论` `问与答`
 1. [window 云服务器如何防止被黑被勒索](https://www.v2ex.com/t/937991) `6条评论` `服务器`
 
-数据更新于 2023-05-07 03:29:55
+数据更新于 2023-05-07 03:40:16
 
 <!-- TODAY END -->
 
