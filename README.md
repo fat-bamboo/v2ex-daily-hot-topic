@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [鉴于好多人对境外手机卡有兴趣，开个答疑帖，为大家服务](https://www.v2ex.com/t/939849) `102条评论` `互联网`
+1. [鉴于好多人对境外手机卡有兴趣，开个答疑帖，为大家服务](https://www.v2ex.com/t/939849) `104条评论` `互联网`
 1. [裸辞折腾了一年，要重新出发了](https://www.v2ex.com/t/939844) `68条评论` `职场话题`
 1. [[求助] 互联网开发职位与宁波市直事业单位，如何抉择？](https://www.v2ex.com/t/939873) `46条评论` `职场话题`
 1. [我是 V2EX Plus 作者，关于扩展中 vDaily (分布式爬虫)功能的情况说明](https://www.v2ex.com/t/939852) `41条评论` `程序员`
@@ -26,14 +26,14 @@
 1. [深圳惠民保这是挂羊头卖狗肉？](https://www.v2ex.com/t/939896) `11条评论` `深圳`
 1. [最近 github 是不是总是出现 kex_exchange_identification 的报错 ？](https://www.v2ex.com/t/939869) `11条评论` `程序员`
 1. [### ✨ V2EX 周报 本周热门主题及高赞回复 05.06-05.12](https://www.v2ex.com/t/939837) `11条评论` `分享发现`
+1. [2023 年 5 月，有推荐的路由器选择吗？](https://www.v2ex.com/t/939918) `10条评论` `路由器`
+1. [aiproxy.io 为专业开发和团队提供 openai api 等 llm 应用平台](https://www.v2ex.com/t/939926) `9条评论` `OpenAI`
 1. [用 Youtube Vanced 的朋友有没有发现最近开始经常断流](https://www.v2ex.com/t/939912) `9条评论` `Android`
 1. [POE 推出了 Claude-instant-100k，能一次处理 10 万 Token(约 7.5 万个单词)](https://www.v2ex.com/t/939876) `9条评论` `OpenAI`
 1. [国内能够正常无限漫游的美帝卡有哪些？](https://www.v2ex.com/t/939843) `9条评论` `问与答`
-1. [2023 年 5 月，有推荐的路由器选择吗？](https://www.v2ex.com/t/939918) `8条评论` `路由器`
-1. [aiproxy.io 为专业开发和团队提供 openai api 等 llm 应用平台](https://www.v2ex.com/t/939926) `7条评论` `OpenAI`
 1. [怎么实现把所有依赖都通过 docker image 加载，为不同的开发提供依赖基础](https://www.v2ex.com/t/939919) `7条评论` `程序员`
 
-数据更新于 2023-05-14 12:29:14
+数据更新于 2023-05-14 12:50:25
 
 <!-- TODAY END -->
 
