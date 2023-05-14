@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [鉴于好多人对境外手机卡有兴趣，开个答疑帖，为大家服务](https://www.v2ex.com/t/939849) `108条评论` `互联网`
+1. [鉴于好多人对境外手机卡有兴趣，开个答疑帖，为大家服务](https://www.v2ex.com/t/939849) `109条评论` `互联网`
 1. [裸辞折腾了一年，要重新出发了](https://www.v2ex.com/t/939844) `78条评论` `职场话题`
 1. [[求助] 互联网开发职位与宁波市直事业单位，如何抉择？](https://www.v2ex.com/t/939873) `55条评论` `职场话题`
 1. [我是 V2EX Plus 作者，关于扩展中 vDaily (分布式爬虫)功能的情况说明](https://www.v2ex.com/t/939852) `41条评论` `程序员`
@@ -24,16 +24,16 @@
 1. [怎么合理避税](https://www.v2ex.com/t/939866) `15条评论` `职场话题`
 1. [大家的安卓机怎么传文件到 Mac？](https://www.v2ex.com/t/939881) `14条评论` `macOS`
 1. [GPT4-plugin 放号了？](https://www.v2ex.com/t/939835) `14条评论` `OpenAI`
+1. [大家怎么看睡前消息第 588 期？](https://www.v2ex.com/t/939961) `13条评论` `随想`
 1. [深圳惠民保这是挂羊头卖狗肉？](https://www.v2ex.com/t/939896) `12条评论` `深圳`
 1. [请问 MIUI 14 如何安装 Chrome？](https://www.v2ex.com/t/939836) `12条评论` `Android`
 1. [最近 github 是不是总是出现 kex_exchange_identification 的报错 ？](https://www.v2ex.com/t/939869) `11条评论` `程序员`
 1. [### ✨ V2EX 周报 本周热门主题及高赞回复 05.06-05.12](https://www.v2ex.com/t/939837) `11条评论` `分享发现`
 1. [用 Youtube Vanced 的朋友有没有发现最近开始经常断流](https://www.v2ex.com/t/939912) `10条评论` `Android`
+1. [有没有 IOS 端的“买药提醒”的 app？](https://www.v2ex.com/t/939943) `9条评论` `问与答`
 1. [POE 推出了 Claude-instant-100k，能一次处理 10 万 Token(约 7.5 万个单词)](https://www.v2ex.com/t/939876) `9条评论` `OpenAI`
-1. [国内能够正常无限漫游的美帝卡有哪些？](https://www.v2ex.com/t/939843) `9条评论` `问与答`
-1. [大家怎么看睡前消息第 588 期？](https://www.v2ex.com/t/939961) `8条评论` `随想`
 
-数据更新于 2023-05-14 14:57:07
+数据更新于 2023-05-14 15:15:26
 
 <!-- TODAY END -->
 
