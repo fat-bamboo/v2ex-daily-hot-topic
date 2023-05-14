@@ -17,9 +17,9 @@
 1. [如何阻止 app 访问我的 sim 数据上网内网 ip 地址实现一键登录？](https://www.v2ex.com/t/939831) `35条评论` `iOS`
 1. [如果你在用一个叫做 V2EX Plus 的插件，我需要你的帮助](https://www.v2ex.com/t/939839) `28条评论` `V2EX`
 1. [大家的安卓机怎么传文件到 Mac？](https://www.v2ex.com/t/939881) `27条评论` `macOS`
+1. [[抽奖 4 斤樱桃] 烟台大樱桃 - 感谢 - 感悟](https://www.v2ex.com/t/939979) `25条评论` `程序员`
 1. [GPT4-plugin 放号了？](https://www.v2ex.com/t/939835) `25条评论` `OpenAI`
 1. [我有种感觉， 移动端也不火了啊](https://www.v2ex.com/t/939842) `25条评论` `程序员`
-1. [[抽奖 4 斤樱桃] 烟台大樱桃 - 感谢 - 感悟](https://www.v2ex.com/t/939979) `24条评论` `程序员`
 1. [aiproxy.io 为专业开发和团队提供 openai api 等 llm 应用平台](https://www.v2ex.com/t/939926) `22条评论` `OpenAI`
 1. [2023 年 5 月，有推荐的路由器选择吗？](https://www.v2ex.com/t/939918) `18条评论` `路由器`
 1. [在一片对 V2EX Plus 作者的口诛笔伐中，还是可以听一下他的解释的](https://www.v2ex.com/t/939872) `18条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [最近 github 是不是总是出现 kex_exchange_identification 的报错 ？](https://www.v2ex.com/t/939869) `11条评论` `程序员`
 1. [### ✨ V2EX 周报 本周热门主题及高赞回复 05.06-05.12](https://www.v2ex.com/t/939837) `11条评论` `分享发现`
 
-数据更新于 2023-05-14 18:29:21
+数据更新于 2023-05-14 18:39:41
 
 <!-- TODAY END -->
 
