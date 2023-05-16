@@ -13,7 +13,7 @@
 1. [HHKB 是不是程序员必备键盘？人手一把？](https://www.v2ex.com/t/940375) `145条评论` `程序员`
 1. [喝咖啡到底好不好](https://www.v2ex.com/t/940287) `129条评论` `咖啡`
 1. [Appstore 3w+ 儿童游戏内消费退款被拒](https://www.v2ex.com/t/940416) `115条评论` `Apple`
-1. [新手入坑 Linux 有啥推荐的系统么](https://www.v2ex.com/t/940408) `78条评论` `Linux`
+1. [新手入坑 Linux 有啥推荐的系统么](https://www.v2ex.com/t/940408) `79条评论` `Linux`
 1. [有没有过来人说说，应该选择怎样的伴侣结婚，还是随缘？](https://www.v2ex.com/t/940286) `72条评论` `问与答`
 1. [2023-618 快到了, 请各位大佬出手来些 实用 潜在目标物](https://www.v2ex.com/t/940353) `70条评论` `程序员`
 1. [最后选择了理想 L8 pro](https://www.v2ex.com/t/940304) `69条评论` `汽车`
@@ -28,12 +28,12 @@
 1. [请教一下使用 VSCode 连接 WSL 开发，怎么将 WSL 中的端口号转发出来以在 win 下访问？](https://www.v2ex.com/t/940456) `18条评论` `Visual Studio Code`
 1. [2023 年入门 iOS 开发，请问有什么推荐的路径吗？](https://www.v2ex.com/t/940349) `18条评论` `程序员`
 1. [老台式求推荐升级](https://www.v2ex.com/t/940298) `18条评论` `问与答`
+1. [求教如何在 .gitignore_global 配置只忽略 github.com 目录下项目的 vendor 目录？](https://www.v2ex.com/t/940541) `17条评论` `git`
 1. [之前 m1 才出来时，铺天盖地地可以运行 ios app，今天想在 mac 上面刷下闲鱼，怎么就没看到一篇可用的教程了呢？](https://www.v2ex.com/t/940501) `17条评论` `Apple`
 1. [现在房东自己出租房，不经过中介，用什么平台？](https://www.v2ex.com/t/940381) `17条评论` `问与答`
-1. [求教如何在 .gitignore_global 配置只忽略 github.com 目录下项目的 vendor 目录？](https://www.v2ex.com/t/940541) `16条评论` `git`
 1. [想转运维， Linux 应该怎么学](https://www.v2ex.com/t/940467) `16条评论` `问与答`
 
-数据更新于 2023-05-16 18:46:23
+数据更新于 2023-05-16 18:56:49
 
 <!-- TODAY END -->
 
