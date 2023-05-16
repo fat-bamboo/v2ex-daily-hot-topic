@@ -25,15 +25,15 @@
 1. [2023 年玩美股如何入金？](https://www.v2ex.com/t/940292) `22条评论` `生活`
 1. [国内有一家灵活用工平台叫做，云账户， 6 年破 1000 亿营收，新时代的互联网标杆，有人深入了解的吗？](https://www.v2ex.com/t/940362) `21条评论` `问与答`
 1. [💫 [AIGC] 小红书博文生成器：创造内容更进一步。](https://www.v2ex.com/t/940419) `19条评论` `分享创造`
+1. [求教如何在 .gitignore_global 配置只忽略 github.com 目录下项目的 vendor 目录？](https://www.v2ex.com/t/940541) `18条评论` `git`
 1. [请教一下使用 VSCode 连接 WSL 开发，怎么将 WSL 中的端口号转发出来以在 win 下访问？](https://www.v2ex.com/t/940456) `18条评论` `Visual Studio Code`
 1. [2023 年入门 iOS 开发，请问有什么推荐的路径吗？](https://www.v2ex.com/t/940349) `18条评论` `程序员`
 1. [老台式求推荐升级](https://www.v2ex.com/t/940298) `18条评论` `问与答`
-1. [求教如何在 .gitignore_global 配置只忽略 github.com 目录下项目的 vendor 目录？](https://www.v2ex.com/t/940541) `17条评论` `git`
 1. [之前 m1 才出来时，铺天盖地地可以运行 ios app，今天想在 mac 上面刷下闲鱼，怎么就没看到一篇可用的教程了呢？](https://www.v2ex.com/t/940501) `17条评论` `Apple`
 1. [现在房东自己出租房，不经过中介，用什么平台？](https://www.v2ex.com/t/940381) `17条评论` `问与答`
 1. [赴美工作一年回顾](https://www.v2ex.com/t/940560) `16条评论` `程序员`
 
-数据更新于 2023-05-16 23:28:09
+数据更新于 2023-05-16 23:38:52
 
 <!-- TODAY END -->
 
