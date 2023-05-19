@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [艹，垃圾小米是不是存在系统级别监听啊](https://www.v2ex.com/t/941185) `87条评论` `Android`
+1. [艹，垃圾小米是不是存在系统级别监听啊](https://www.v2ex.com/t/941185) `93条评论` `Android`
 1. [前女友跟共同好友交往了，总之就是很不爽](https://www.v2ex.com/t/941242) `85条评论` `程序员`
+1. [ChatGPT iOS 的接口可以重放……](https://www.v2ex.com/t/941230) `23条评论` `iOS`
 1. [这个插件真是太好用了：沉浸式翻译](https://www.v2ex.com/t/941217) `22条评论` `分享发现`
 1. [刚刚 V 站是挂了一下吗？我领了两次签到奖励？](https://www.v2ex.com/t/941192) `22条评论` `V2EX`
 1. [联通宽带凌晨 1 点 15 分左右，突然由公网切换成内网 ip](https://www.v2ex.com/t/941160) `21条评论` `宽带症候群`
-1. [iPhone 要不要更新 IOS16 呢](https://www.v2ex.com/t/941238) `19条评论` `iPhone`
+1. [iPhone 要不要更新 IOS16 呢](https://www.v2ex.com/t/941238) `20条评论` `iPhone`
 1. [科目三挂了 挂在了很煞笔的地方](https://www.v2ex.com/t/941203) `19条评论` `生活`
 1. [V 友们，你们简历会附上照片吗，为什么？](https://www.v2ex.com/t/941219) `18条评论` `职场话题`
-1. [ChatGPT iOS 的接口可以重放……](https://www.v2ex.com/t/941230) `17条评论` `iOS`
 1. [分享刚发现的一个独立摄影师](https://www.v2ex.com/t/941159) `15条评论` `分享发现`
 1. [做了一系列视频教程，手把手教你从零配置 Neovim](https://www.v2ex.com/t/941208) `14条评论` `程序员`
 1. [怎么强制性给父母存一笔钱备不时之需?](https://www.v2ex.com/t/941212) `13条评论` `问与答`
 1. [什么情况下可以考虑开通 ChatGPT Plus？](https://www.v2ex.com/t/941162) `13条评论` `OpenAI`
+1. [用什么输入法](https://www.v2ex.com/t/941251) `12条评论` `Apple`
+1. [求助一个可行的隔音方案](https://www.v2ex.com/t/941237) `12条评论` `生活`
 1. [各位 V 友友，请问怎么可以搞多个抖音号](https://www.v2ex.com/t/941169) `12条评论` `程序员`
-1. [求助一个可行的隔音方案](https://www.v2ex.com/t/941237) `11条评论` `生活`
+1. [iPhone14 PLUS 电池健康容量只有 90%了](https://www.v2ex.com/t/941260) `11条评论` `Apple`
 1. [如何评价华为昨天发布的新品？](https://www.v2ex.com/t/941223) `11条评论` `问与答`
 1. [求助, 有没有这样一个工具能够展示内网的服务](https://www.v2ex.com/t/941218) `11条评论` `程序员`
 1. [重新发一贴，关于上一篇 C++ 代码中，结构体析构导致内存异常的问题，我做了更多的测试](https://www.v2ex.com/t/941209) `10条评论` `C++`
 1. [V 友们， Mac 怎么选？？](https://www.v2ex.com/t/941193) `10条评论` `MacBook Pro`
+1. [有没有人和我一样，只要系统自带，就懒得下第三方 app](https://www.v2ex.com/t/941234) `9条评论` `iOS`
 1. [因为 PayPal 账户锁了需要手机号激活](https://www.v2ex.com/t/941224) `9条评论` `iPhone`
 1. [有没有一款分享生活作息的软件](https://www.v2ex.com/t/941164) `9条评论` `程序员`
-1. [粗算连续签到 10 年了](https://www.v2ex.com/t/941210) `8条评论` `V2EX`
-1. [微信被封后自助解封无果，问如何联系腾讯真正地人工客服？](https://www.v2ex.com/t/941207) `8条评论` `微信`
-1. [chatgpt 移动端发布了，但是没有 cloudfare 检测](https://www.v2ex.com/t/941173) `8条评论` `V2EX`
 
-数据更新于 2023-05-19 06:57:00
+数据更新于 2023-05-19 07:14:20
 
 <!-- TODAY END -->
 
