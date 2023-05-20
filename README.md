@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [来聊点出国的问题吧](https://www.v2ex.com/t/941463) `137条评论` `随想`
+1. [来聊点出国的问题吧](https://www.v2ex.com/t/941463) `138条评论` `随想`
 1. [求推荐超稳定路由器](https://www.v2ex.com/t/941489) `85条评论` `路由器`
 1. [有多少人从 edge 又换回 chrome 了](https://www.v2ex.com/t/941504) `60条评论` `问与答`
 1. [湿气是真实存在的东西吗？](https://www.v2ex.com/t/941543) `53条评论` `问与答`
@@ -24,16 +24,16 @@
 1. [大家用什么内核的桌面浏览器？ Firefox？ Chromium？ WebKit/Safari？](https://www.v2ex.com/t/941587) `20条评论` `浏览器`
 1. [遇到职场里面情商低沟通态度差的人，该怎么办，很痛苦。](https://www.v2ex.com/t/941479) `20条评论` `问与答`
 1. [我们用的是真的 GPT 4 模型吗？](https://www.v2ex.com/t/941544) `19条评论` `OpenAI`
+1. [为什么我们搞不出 ChatGPT？](https://www.v2ex.com/t/941606) `17条评论` `算法`
 1. [过去的一年里，为了节省房租，我住在洛杉矶，每天坐飞机去洛杉矶上课。（转帖译文）](https://www.v2ex.com/t/941576) `17条评论` `分享发现`
 1. [只有我认为 mbp 扬声器很烂吗](https://www.v2ex.com/t/941570) `17条评论` `MacBook Pro`
-1. [为什么我们搞不出 ChatGPT？](https://www.v2ex.com/t/941606) `16条评论` `算法`
 1. [golang 做了一个批量重命名桌面软件](https://www.v2ex.com/t/941594) `16条评论` `分享创造`
 1. [求助物理机 SSH 连上后无法执行任何命令是什么原因](https://www.v2ex.com/t/941522) `16条评论` `程序员`
 1. [关于外链图片带来的问题的思考](https://www.v2ex.com/t/941497) `16条评论` `程序员`
 1. [用 mac 几年了，基本从来没用过这个键](https://www.v2ex.com/t/941537) `15条评论` `MacBook Pro`
 1. [如何不用魔法上 chatGPT？](https://www.v2ex.com/t/941548) `14条评论` `OpenAI`
 
-数据更新于 2023-05-20 18:29:01
+数据更新于 2023-05-20 18:39:17
 
 <!-- TODAY END -->
 
