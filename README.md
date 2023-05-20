@@ -13,8 +13,8 @@
 1. [有多少人从 edge 又换回 chrome 了](https://www.v2ex.com/t/941504) `60条评论` `问与答`
 1. [湿气是真实存在的东西吗？](https://www.v2ex.com/t/941543) `49条评论` `问与答`
 1. [公司 35 岁以上的优化完了，现在开始优化 30-35](https://www.v2ex.com/t/941475) `47条评论` `程序员`
-1. [人是不是高级商品](https://www.v2ex.com/t/941524) `43条评论` `随想`
-1. [ptt 开放注册，适合新手入门的 pt 站](https://www.v2ex.com/t/941465) `42条评论` `NAS`
+1. [人是不是高级商品](https://www.v2ex.com/t/941524) `45条评论` `随想`
+1. [ptt 开放注册，适合新手入门的 pt 站](https://www.v2ex.com/t/941465) `43条评论` `NAS`
 1. [你们用纵向标签页吗？](https://www.v2ex.com/t/941476) `39条评论` `程序员`
 1. [明明是在创业，我爸却以为我不务正业](https://www.v2ex.com/t/941572) `36条评论` `分享发现`
 1. [Java 开发效率很低啊](https://www.v2ex.com/t/941452) `30条评论` `问与答`
@@ -25,15 +25,15 @@
 1. [大家用什么内核的桌面浏览器？ Firefox？ Chromium？ WebKit/Safari？](https://www.v2ex.com/t/941587) `19条评论` `浏览器`
 1. [我们用的是真的 GPT 4 模型吗？](https://www.v2ex.com/t/941544) `19条评论` `OpenAI`
 1. [只有我认为 mbp 扬声器很烂吗](https://www.v2ex.com/t/941570) `17条评论` `MacBook Pro`
+1. [golang 做了一个批量重命名桌面软件](https://www.v2ex.com/t/941594) `16条评论` `分享创造`
 1. [求助物理机 SSH 连上后无法执行任何命令是什么原因](https://www.v2ex.com/t/941522) `16条评论` `程序员`
 1. [关于外链图片带来的问题的思考](https://www.v2ex.com/t/941497) `16条评论` `程序员`
-1. [golang 做了一个批量重命名桌面软件](https://www.v2ex.com/t/941594) `15条评论` `分享创造`
 1. [用 mac 几年了，基本从来没用过这个键](https://www.v2ex.com/t/941537) `15条评论` `MacBook Pro`
 1. [如何不用魔法上 chatGPT？](https://www.v2ex.com/t/941548) `14条评论` `OpenAI`
 1. [第一次装机配置，请大佬们帮忙看看](https://www.v2ex.com/t/941500) `14条评论` `程序员`
 1. [求一款笔记软件（可以快递导出为 ppt/word 的）](https://www.v2ex.com/t/941459) `13条评论` `程序员`
 
-数据更新于 2023-05-20 16:47:13
+数据更新于 2023-05-20 16:57:37
 
 <!-- TODAY END -->
 
