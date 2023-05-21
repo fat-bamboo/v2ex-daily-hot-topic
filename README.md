@@ -31,9 +31,9 @@
 1. [想学习 wordpress 二次开发](https://www.v2ex.com/t/941727) `13条评论` `WordPress`
 1. [让 chatgpt 讲解 Go 的核心源代码](https://www.v2ex.com/t/941688) `13条评论` `Go 编程语言`
 1. [你们怎么保存助记词？](https://www.v2ex.com/t/941664) `13条评论` `问与答`
-1. [mbp 13 寸 24g 还是 mbp 14 寸 32g，老哥们给点建议](https://www.v2ex.com/t/941710) `12条评论` `MacBook Pro`
+1. [有 1 万美元余额，但是 CHATGPT API 的限额怎么办呢？](https://www.v2ex.com/t/941780) `12条评论` `程序员`
 
-数据更新于 2023-05-21 23:17:39
+数据更新于 2023-05-21 23:28:24
 
 <!-- TODAY END -->
 
