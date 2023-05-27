@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [腾讯云海外版竟然要求上传护照](https://www.v2ex.com/t/943347) `47条评论` `VPS`
+1. [腾讯云海外版竟然要求上传护照](https://www.v2ex.com/t/943347) `48条评论` `VPS`
+1. [用 depay 续费的号直接没了](https://www.v2ex.com/t/943370) `34条评论` `OpenAI`
 1. [大家如何看待宝德发布的暴芯 X86 国产 CPU 神似 10 代酷睿？](https://www.v2ex.com/t/943346) `34条评论` `问与答`
-1. [用 depay 续费的号直接没了](https://www.v2ex.com/t/943370) `33条评论` `OpenAI`
 1. [拿 H1B 长期在国内工作有什么风险么](https://www.v2ex.com/t/943404) `23条评论` `职场话题`
-1. [OpenAI 账号今天突然被封了](https://www.v2ex.com/t/943395) `19条评论` `OpenAI`
-1. [npm 用淘宝源替换官方源，会不会有资安问题啊？](https://www.v2ex.com/t/943410) `18条评论` `程序员`
+1. [npm 用淘宝源替换官方源，会不会有资安问题啊？](https://www.v2ex.com/t/943410) `21条评论` `程序员`
+1. [OpenAI 账号今天突然被封了](https://www.v2ex.com/t/943395) `20条评论` `OpenAI`
 1. [Shadowrocket 小火煎支持 Reality 协议了](https://www.v2ex.com/t/943345) `17条评论` `VPS`
 1. [好用的国外冷门网盘求推荐](https://www.v2ex.com/t/943372) `16条评论` `互联网`
 1. [腾讯大王卡 - 有什么优惠的套餐推荐吗？](https://www.v2ex.com/t/943356) `16条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [鼠标没必要瞄准关闭按钮，盲甩就挺酷，电脑实操小技巧分享给大家。](https://www.v2ex.com/t/943362) `8条评论` `分享发现`
 1. [关于 web server 项目的接口测试](https://www.v2ex.com/t/943352) `8条评论` `Go 编程语言`
 
-数据更新于 2023-05-27 08:29:17
+数据更新于 2023-05-27 08:39:48
 
 <!-- TODAY END -->
 
