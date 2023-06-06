@@ -12,11 +12,11 @@
 1. [Vision Pro 注定又是一个吃灰玩物而已](https://www.v2ex.com/t/946129) `114条评论` `Apple`
 1. [为什么要接盘老破小](https://www.v2ex.com/t/946215) `92条评论` `生活`
 1. [MacBook Air 新 15 寸怎么样，值得入手吗？](https://www.v2ex.com/t/946126) `78条评论` `Apple`
+1. [库克的内存和存储还是那么抠，可吐了](https://www.v2ex.com/t/946144) `74条评论` `Apple`
 1. [生娃还是需要冷静点想一想](https://www.v2ex.com/t/946334) `73条评论` `生活`
-1. [库克的内存和存储还是那么抠，可吐了](https://www.v2ex.com/t/946144) `73条评论` `Apple`
+1. [15 寸 MacBook air 真是个超级大败笔， 12 寸 MacBook 才是刚需啊！](https://www.v2ex.com/t/946284) `69条评论` `macOS`
 1. [为什么裤子的裤腿设计要那么长啊？](https://www.v2ex.com/t/946197) `68条评论` `程序员`
 1. [钟文泽已经佩戴体验了 Vision pro 唉，居然和宣传片里大致一样，好兴奋。](https://www.v2ex.com/t/946308) `67条评论` `Apple`
-1. [15 寸 MacBook air 真是个超级大败笔， 12 寸 MacBook 才是刚需啊！](https://www.v2ex.com/t/946284) `34条评论` `macOS`
 1. [Mac Pro 凭啥比 Mac studio 贵 4w 啊？](https://www.v2ex.com/t/946150) `29条评论` `Apple`
 1. [最近满脑子都是想买一辆 B 型房车](https://www.v2ex.com/t/946123) `28条评论` `问与答`
 1. [[WWDC.Playground] 今日直播： WWDC23 的第一印象](https://www.v2ex.com/t/946380) `26条评论` `WWDC`
@@ -33,7 +33,7 @@
 1. [想做一个小区闲置物品交换网站，方便邻里将旧书、旧校服，旧家具给需要得邻居。能不能推荐一个现成源码可用。](https://www.v2ex.com/t/946290) `14条评论` `PHP`
 1. [CTF 比赛有人投勒索病毒](https://www.v2ex.com/t/946161) `14条评论` `信息安全`
 
-数据更新于 2023-06-06 16:39:02
+数据更新于 2023-06-06 16:49:22
 
 <!-- TODAY END -->
 
