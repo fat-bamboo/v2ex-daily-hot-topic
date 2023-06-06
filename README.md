@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Vision Pro 注定又是一个吃灰玩物而已](https://www.v2ex.com/t/946129) `81条评论` `Apple`
+1. [Vision Pro 注定又是一个吃灰玩物而已](https://www.v2ex.com/t/946129) `82条评论` `Apple`
 1. [MacBook Air 新 15 寸怎么样，值得入手吗？](https://www.v2ex.com/t/946126) `33条评论` `Apple`
-1. [为什么裤子的裤腿设计要那么长啊？](https://www.v2ex.com/t/946197) `30条评论` `程序员`
+1. [为什么裤子的裤腿设计要那么长啊？](https://www.v2ex.com/t/946197) `31条评论` `程序员`
 1. [Mac Pro 凭啥比 Mac studio 贵 4w 啊？](https://www.v2ex.com/t/946150) `29条评论` `Apple`
 1. [最近满脑子都是想买一辆 B 型房车](https://www.v2ex.com/t/946123) `28条评论` `问与答`
 1. [推特、油管上有哪些值得关注的大佬，包括但不限于技术，科技，财经，深度观点等](https://www.v2ex.com/t/946156) `22条评论` `问与答`
@@ -32,7 +32,7 @@
 1. [Apple Vision 的目标应该是取代手机](https://www.v2ex.com/t/946188) `6条评论` `分享发现`
 1. [微软持续作死，再来一次真👋🏻了您内](https://www.v2ex.com/t/946180) `6条评论` `分享发现`
 
-数据更新于 2023-06-06 04:29:47
+数据更新于 2023-06-06 04:40:00
 
 <!-- TODAY END -->
 
