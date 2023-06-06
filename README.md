@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Vision Pro 注定又是一个吃灰玩物而已](https://www.v2ex.com/t/946129) `87条评论` `Apple`
+1. [Vision Pro 注定又是一个吃灰玩物而已](https://www.v2ex.com/t/946129) `90条评论` `Apple`
+1. [MacBook Air 新 15 寸怎么样，值得入手吗？](https://www.v2ex.com/t/946126) `60条评论` `Apple`
 1. [为什么裤子的裤腿设计要那么长啊？](https://www.v2ex.com/t/946197) `35条评论` `程序员`
-1. [MacBook Air 新 15 寸怎么样，值得入手吗？](https://www.v2ex.com/t/946126) `33条评论` `Apple`
 1. [Mac Pro 凭啥比 Mac studio 贵 4w 啊？](https://www.v2ex.com/t/946150) `29条评论` `Apple`
 1. [最近满脑子都是想买一辆 B 型房车](https://www.v2ex.com/t/946123) `28条评论` `问与答`
 1. [推特、油管上有哪些值得关注的大佬，包括但不限于技术，科技，财经，深度观点等](https://www.v2ex.com/t/946156) `22条评论` `问与答`
 1. [北邮偷外卖事件，出后续了](https://www.v2ex.com/t/946182) `18条评论` `分享发现`
+1. [为什么要接盘老破小](https://www.v2ex.com/t/946215) `14条评论` `生活`
 1. [CTF 比赛有人投勒索病毒](https://www.v2ex.com/t/946161) `14条评论` `信息安全`
-1. [为什么要接盘老破小](https://www.v2ex.com/t/946215) `13条评论` `生活`
 1. [现在买 m2 的 mba 是 49 年入国军嘛？](https://www.v2ex.com/t/946179) `13条评论` `Apple`
 1. [什么样的用户会需要新款 Mac Pro？](https://www.v2ex.com/t/946174) `13条评论` `Apple`
+1. [macOS 14 不建议升级](https://www.v2ex.com/t/946229) `11条评论` `macOS`
 1. [想换主力机大家给个意见啊？](https://www.v2ex.com/t/946198) `11条评论` `Apple`
-1. [macOS 14 不建议升级](https://www.v2ex.com/t/946229) `9条评论` `macOS`
 1. [求推荐一个硬盘盒](https://www.v2ex.com/t/946183) `9条评论` `问与答`
 1. [说下对 vision pro 的看法](https://www.v2ex.com/t/946140) `9条评论` `Apple`
 1. [11 年 Java 开发，二线股份制城商行和私企互金公司怎么选？](https://www.v2ex.com/t/946138) `9条评论` `程序员`
@@ -29,10 +29,11 @@
 1. [3 年 Java ，坐标深圳求职，也接受上海，也希望站友能提出点意见](https://www.v2ex.com/t/946176) `7条评论` `酷工作`
 1. [请问各位大佬，这套装机配置符合需求吗？](https://www.v2ex.com/t/946152) `7条评论` `问与答`
 1. [iOS17 与 iPadOS17 测试版 bug 汇总](https://www.v2ex.com/t/946125) `7条评论` `Apple`
+1. [梅西中国行，有大佬可以抢到票么，有偿](https://www.v2ex.com/t/946217) `6条评论` `问与答`
 1. [Apple Vision 的目标应该是取代手机](https://www.v2ex.com/t/946188) `6条评论` `分享发现`
 1. [微软持续作死，再来一次真👋🏻了您内](https://www.v2ex.com/t/946180) `6条评论` `分享发现`
 
-数据更新于 2023-06-06 05:23:31
+数据更新于 2023-06-06 05:35:42
 
 <!-- TODAY END -->
 
