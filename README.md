@@ -27,13 +27,13 @@
 1. [约不到面试，是不是简历写得有啥问题呀？🥹](https://www.v2ex.com/t/946688) `23条评论` `酷工作`
 1. [机械键盘真的好用吗，我怎么用不惯啊](https://www.v2ex.com/t/946596) `23条评论` `机械键盘`
 1. [情侣去看演唱会](https://www.v2ex.com/t/946654) `22条评论` `问与答`
-1. [关于 apple vision pro 的一些想法](https://www.v2ex.com/t/946766) `20条评论` `Apple`
+1. [关于 apple vision pro 的一些想法](https://www.v2ex.com/t/946766) `21条评论` `Apple`
 1. [大前端开发， 24+1T MacBook Air 15 or 16+512 MacBook Pro 14](https://www.v2ex.com/t/946638) `20条评论` `Apple`
 1. [M1 体验，不要升级 Mac OS 14.0 Sonoma！ 卡到出神经病](https://www.v2ex.com/t/946661) `19条评论` `macOS`
 1. [[感想]-从 3 月份辞职失业至今](https://www.v2ex.com/t/946625) `19条评论` `程序员`
 1. [618 上车了一台 nas，寻求组织](https://www.v2ex.com/t/946649) `18条评论` `NAS`
 
-数据更新于 2023-06-07 19:36:20
+数据更新于 2023-06-07 19:46:44
 
 <!-- TODAY END -->
 
