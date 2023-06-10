@@ -28,12 +28,12 @@
 1. [Windows 怎么部署开发环境？](https://www.v2ex.com/t/947562) `16条评论` `问与答`
 1. [大菠萝 4 在 M1max 上运行好流畅](https://www.v2ex.com/t/947522) `16条评论` `macOS`
 1. [自动泡妞机有没有前途](https://www.v2ex.com/t/947473) `16条评论` `OpenAI`
+1. [有适合没事就开着播放的直播么？](https://www.v2ex.com/t/947619) `13条评论` `问与答`
 1. [如何制定旅行计划](https://www.v2ex.com/t/947607) `13条评论` `旅行`
-1. [有适合没事就开着播放的直播么？](https://www.v2ex.com/t/947619) `12条评论` `问与答`
 1. [Sonoma 都出了，现在这个时间点，在 Ventura 之前的系统上有什么能模拟 stage manager 的软件吗？](https://www.v2ex.com/t/947503) `12条评论` `macOS`
 1. [iOS 开发小白请教一下 iCloud 存储](https://www.v2ex.com/t/947479) `12条评论` `iCloud`
 
-数据更新于 2023-06-10 18:56:52
+数据更新于 2023-06-10 19:12:14
 
 <!-- TODAY END -->
 
