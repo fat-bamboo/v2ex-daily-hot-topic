@@ -17,7 +17,7 @@
 1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469) `40条评论` `分享发现`
 1. [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532) `40条评论` `Visual Studio Code`
 1. [Java 应届生要不要换行](https://www.v2ex.com/t/947515) `35条评论` `程序员`
-1. [在 pdd 买 mac 靠谱吗？比官网便宜 4k](https://www.v2ex.com/t/947541) `31条评论` `Apple`
+1. [在 pdd 买 mac 靠谱吗？比官网便宜 4k](https://www.v2ex.com/t/947541) `32条评论` `Apple`
 1. [招聘自然语言处理工程师，产品经理， Python 高级工程师](https://www.v2ex.com/t/947478) `30条评论` `酷工作`
 1. [eReader Kindle Kobo 我该买哪个？](https://www.v2ex.com/t/947482) `25条评论` `问与答`
 1. [大模型下优质中文语料匮乏问题](https://www.v2ex.com/t/947622) `22条评论` `程序员`
@@ -29,11 +29,11 @@
 1. [大菠萝 4 在 M1max 上运行好流畅](https://www.v2ex.com/t/947522) `16条评论` `macOS`
 1. [自动泡妞机有没有前途](https://www.v2ex.com/t/947473) `16条评论` `OpenAI`
 1. [有适合没事就开着播放的直播么？](https://www.v2ex.com/t/947619) `14条评论` `问与答`
-1. [如何制定旅行计划](https://www.v2ex.com/t/947607) `13条评论` `旅行`
+1. [如何制定旅行计划](https://www.v2ex.com/t/947607) `14条评论` `旅行`
 1. [Sonoma 都出了，现在这个时间点，在 Ventura 之前的系统上有什么能模拟 stage manager 的软件吗？](https://www.v2ex.com/t/947503) `12条评论` `macOS`
 1. [iOS 开发小白请教一下 iCloud 存储](https://www.v2ex.com/t/947479) `12条评论` `iCloud`
 
-数据更新于 2023-06-10 21:46:25
+数据更新于 2023-06-10 21:56:54
 
 <!-- TODAY END -->
 
