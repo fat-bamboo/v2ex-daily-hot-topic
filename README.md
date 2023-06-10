@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [离谱，昨天两个手机号同时被运营商封号](https://www.v2ex.com/t/947499) `75条评论` `问与答`
+1. [离谱，昨天两个手机号同时被运营商封号](https://www.v2ex.com/t/947499) `76条评论` `问与答`
 1. [对 Java 泛型的顶级理解](https://www.v2ex.com/t/947486) `54条评论` `程序员`
 1. [关于医院智能化的设想，有没有进来讨论一下的。](https://www.v2ex.com/t/947498) `52条评论` `分享发现`
 1. [关于机场的几个问题](https://www.v2ex.com/t/947477) `48条评论` `问与答`
 1. [“彪子减肥法”后续——改变方法，终于减重 20 斤](https://www.v2ex.com/t/947474) `41条评论` `生活`
-1. [去医院看病有什么技巧](https://www.v2ex.com/t/947509) `38条评论` `问与答`
+1. [去医院看病有什么技巧](https://www.v2ex.com/t/947509) `39条评论` `问与答`
+1. [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532) `34条评论` `Visual Studio Code`
 1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469) `33条评论` `分享发现`
-1. [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532) `32条评论` `Visual Studio Code`
 1. [招聘自然语言处理工程师，产品经理， Python 高级工程师](https://www.v2ex.com/t/947478) `29条评论` `酷工作`
 1. [Java 应届生要不要换行](https://www.v2ex.com/t/947515) `29条评论` `程序员`
 1. [eReader Kindle Kobo 我该买哪个？](https://www.v2ex.com/t/947482) `25条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [一个 web 能连接但 Python 不能访问的 websocket 链接，是什么原理？](https://www.v2ex.com/t/947518) `10条评论` `Python`
 1. [电视回音壁哪个价格便宜量又足？](https://www.v2ex.com/t/947506) `10条评论` `问与答`
 
-数据更新于 2023-06-10 14:36:32
+数据更新于 2023-06-10 14:47:07
 
 <!-- TODAY END -->
 
