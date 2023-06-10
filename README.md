@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [离谱，昨天两个手机号同时被运营商封号](https://www.v2ex.com/t/947499) `86条评论` `问与答`
+1. [离谱，昨天两个手机号同时被运营商封号](https://www.v2ex.com/t/947499) `87条评论` `问与答`
 1. [对 Java 泛型的顶级理解](https://www.v2ex.com/t/947486) `59条评论` `程序员`
 1. [关于医院智能化的设想，有没有进来讨论一下的。](https://www.v2ex.com/t/947498) `53条评论` `分享发现`
 1. [关于机场的几个问题](https://www.v2ex.com/t/947477) `52条评论` `问与答`
 1. [去医院看病有什么技巧](https://www.v2ex.com/t/947509) `43条评论` `问与答`
 1. [“彪子减肥法”后续——改变方法，终于减重 20 斤](https://www.v2ex.com/t/947474) `42条评论` `生活`
+1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469) `40条评论` `分享发现`
 1. [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532) `40条评论` `Visual Studio Code`
-1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469) `39条评论` `分享发现`
 1. [Java 应届生要不要换行](https://www.v2ex.com/t/947515) `34条评论` `程序员`
 1. [招聘自然语言处理工程师，产品经理， Python 高级工程师](https://www.v2ex.com/t/947478) `30条评论` `酷工作`
 1. [eReader Kindle Kobo 我该买哪个？](https://www.v2ex.com/t/947482) `25条评论` `问与答`
@@ -28,12 +28,12 @@
 1. [在 pdd 买 mac 靠谱吗？比官网便宜 4k](https://www.v2ex.com/t/947541) `16条评论` `Apple`
 1. [大菠萝 4 在 M1max 上运行好流畅](https://www.v2ex.com/t/947522) `16条评论` `macOS`
 1. [自动泡妞机有没有前途](https://www.v2ex.com/t/947473) `16条评论` `OpenAI`
+1. [如何制定旅行计划](https://www.v2ex.com/t/947607) `12条评论` `旅行`
 1. [Sonoma 都出了，现在这个时间点，在 Ventura 之前的系统上有什么能模拟 stage manager 的软件吗？](https://www.v2ex.com/t/947503) `12条评论` `macOS`
 1. [iOS 开发小白请教一下 iCloud 存储](https://www.v2ex.com/t/947479) `12条评论` `iCloud`
-1. [如何制定旅行计划](https://www.v2ex.com/t/947607) `11条评论` `旅行`
 1. [自己 DIY 装机的参考途径有哪些？](https://www.v2ex.com/t/947606) `11条评论` `云修电脑`
 
-数据更新于 2023-06-10 17:26:32
+数据更新于 2023-06-10 17:37:06
 
 <!-- TODAY END -->
 
