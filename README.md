@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [关于机场的几个问题](https://www.v2ex.com/t/947477) `26条评论` `问与答`
-1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469) `19条评论` `分享发现`
-1. [对 Java 泛型的顶级理解](https://www.v2ex.com/t/947486) `16条评论` `程序员`
+1. [关于机场的几个问题](https://www.v2ex.com/t/947477) `30条评论` `问与答`
+1. [对 Java 泛型的顶级理解](https://www.v2ex.com/t/947486) `21条评论` `程序员`
+1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469) `20条评论` `分享发现`
+1. [“彪子减肥法”后续——改变方法，终于减重 20 斤](https://www.v2ex.com/t/947474) `15条评论` `生活`
 1. [招聘自然语言处理工程师，产品经理， Python 高级工程师](https://www.v2ex.com/t/947478) `13条评论` `酷工作`
-1. [“彪子减肥法”后续——改变方法，终于减重 20 斤](https://www.v2ex.com/t/947474) `10条评论` `生活`
-1. [自动泡妞机有没有前途](https://www.v2ex.com/t/947473) `10条评论` `OpenAI`
-1. [eReader Kindle Kobo 我该买哪个？](https://www.v2ex.com/t/947482) `8条评论` `问与答`
-1. [iOS 开发小白请教一下 iCloud 存储](https://www.v2ex.com/t/947479) `7条评论` `iCloud`
+1. [自动泡妞机有没有前途](https://www.v2ex.com/t/947473) `12条评论` `OpenAI`
+1. [eReader Kindle Kobo 我该买哪个？](https://www.v2ex.com/t/947482) `9条评论` `问与答`
+1. [iOS 开发小白请教一下 iCloud 存储](https://www.v2ex.com/t/947479) `9条评论` `iCloud`
 1. [iPadOS 17 支持了 UVC， iPad 可以插采集卡当作游戏机或笔记本的显示器了](https://www.v2ex.com/t/947468) `6条评论` `iPad`
 
-数据更新于 2023-06-10 02:58:57
+数据更新于 2023-06-10 03:18:55
 
 <!-- TODAY END -->
 
