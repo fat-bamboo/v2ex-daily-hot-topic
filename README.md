@@ -17,11 +17,12 @@
 1. [请问上海电信/联通给的 ipv6 只能连电信联通自己的 fe80 开头的地址吗？](https://www.v2ex.com/t/947652) `9条评论` `宽带症候群`
 1. [一则诡异的微软账户登录异常提醒](https://www.v2ex.com/t/947662) `8条评论` `程序员`
 1. [京东微软自营店的 Office365 家庭版两年只要 379，六人可用](https://www.v2ex.com/t/947659) `8条评论` `优惠信息`
+1. [请教下 apple watch 需要买 apple care+吗？](https://www.v2ex.com/t/947688) `7条评论` ` WATCH`
 1. [做自己的个人项目的时候，真的会发现无限的需求要改，无限的 bug 要改](https://www.v2ex.com/t/947670) `7条评论` `随想`
 1. [HomePod Mini 连接 Apple TV 之后突然没办法通过 Siri 播放音乐了](https://www.v2ex.com/t/947682) `6条评论` `Apple`
 1. [mac 上如何彻底卸载 docker 啊，真牛逼怎么弄都可以查到 docker 版本](https://www.v2ex.com/t/947665) `6条评论` `Apple`
 
-数据更新于 2023-06-11 03:40:27
+数据更新于 2023-06-11 03:55:51
 
 <!-- TODAY END -->
 
