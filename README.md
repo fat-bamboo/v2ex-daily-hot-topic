@@ -14,8 +14,8 @@
 1. [有负责银行 ATM 技术的朋友吗？请教一个问题](https://www.v2ex.com/t/947655) `12条评论` `问与答`
 1. [Navicat 最新的 16.2.2 支持 Redis 了](https://www.v2ex.com/t/947661) `10条评论` `程序员`
 1. [debian12 - “Bookworm” 正式发布了](https://www.v2ex.com/t/947656) `10条评论` `操作系统`
+1. ["只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700) `9条评论` `OpenAI`
 1. [请问上海电信/联通给的 ipv6 只能连电信联通自己的 fe80 开头的地址吗？](https://www.v2ex.com/t/947652) `9条评论` `宽带症候群`
-1. ["只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700) `8条评论` `OpenAI`
 1. [一则诡异的微软账户登录异常提醒](https://www.v2ex.com/t/947662) `8条评论` `程序员`
 1. [京东微软自营店的 Office365 家庭版两年只要 379，六人可用](https://www.v2ex.com/t/947659) `8条评论` `优惠信息`
 1. [请教下 apple watch 需要买 apple care+吗？](https://www.v2ex.com/t/947688) `7条评论` ` WATCH`
@@ -24,7 +24,7 @@
 1. [HomePod Mini 连接 Apple TV 之后突然没办法通过 Siri 播放音乐了](https://www.v2ex.com/t/947682) `6条评论` `Apple`
 1. [mac 上如何彻底卸载 docker 啊，真牛逼怎么弄都可以查到 docker 版本](https://www.v2ex.com/t/947665) `6条评论` `Apple`
 
-数据更新于 2023-06-11 04:29:23
+数据更新于 2023-06-11 04:39:42
 
 <!-- TODAY END -->
 
