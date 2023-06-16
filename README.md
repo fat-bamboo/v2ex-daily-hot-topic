@@ -33,7 +33,7 @@
 1. [Mac mini 能长时间竖着放吗？](https://www.v2ex.com/t/949397) `18条评论` `MacBook Pro`
 1. [在 MacBook Pro 上用 vmware fusion 安装了 win11，再在虚拟机里面访问 qq.com，它怎么知道我的 QQ 号？](https://www.v2ex.com/t/949287) `18条评论` `问与答`
 
-数据更新于 2023-06-16 21:25:47
+数据更新于 2023-06-16 21:40:05
 
 <!-- TODAY END -->
 
