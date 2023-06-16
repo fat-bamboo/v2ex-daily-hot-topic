@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [分享一段我司前辈的代码，哈哈！](https://www.v2ex.com/t/949195) `298条评论` `程序员`
-1. [你弃用 Firefox 的原因是？](https://www.v2ex.com/t/949337) `159条评论` `Firefox`
-1. [你们平时没事的时候都学啥啊](https://www.v2ex.com/t/949193) `155条评论` `Python`
+1. [你弃用 Firefox 的原因是？](https://www.v2ex.com/t/949337) `160条评论` `Firefox`
+1. [你们平时没事的时候都学啥啊](https://www.v2ex.com/t/949193) `156条评论` `Python`
 1. [球迷冲进场内干扰比赛，这不就是饭圈脑残粉吗](https://www.v2ex.com/t/949172) `147条评论` `生活`
 1. [帮朋友问：何处安放早“xie”的人生？](https://www.v2ex.com/t/949240) `121条评论` `问与答`
 1. [5000 块以内的组装机都是垃圾，不服来辩](https://www.v2ex.com/t/949308) `91条评论` `程序员`
@@ -33,7 +33,7 @@
 1. [在 MacBook Pro 上用 vmware fusion 安装了 win11，再在虚拟机里面访问 qq.com，它怎么知道我的 QQ 号？](https://www.v2ex.com/t/949287) `18条评论` `问与答`
 1. [你们跑步是前掌着地还是全掌着地？](https://www.v2ex.com/t/949279) `18条评论` `跑步`
 
-数据更新于 2023-06-16 15:29:38
+数据更新于 2023-06-16 15:39:55
 
 <!-- TODAY END -->
 
