@@ -13,8 +13,8 @@
 1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `16条评论` `MacBook Pro`
 1. [openai 5 月的账单出来了，不足$1 不用付费了？](https://www.v2ex.com/t/949479) `12条评论` `OpenAI`
 1. [12v 5A 的 DC 电源有没有推荐的，想要弱电箱一拖五](https://www.v2ex.com/t/949466) `12条评论` `问与答`
+1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `11条评论` `问与答`
 1. [数据库分库分表之后，所有表在一起，两个字段怎么做组合唯一索引？](https://www.v2ex.com/t/949463) `11条评论` `Java`
-1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `10条评论` `问与答`
 1. [避雷垃圾公司 [杭州道科数字科技有限公司] [杭州科新捷讯信息技术有限公司]](https://www.v2ex.com/t/949473) `8条评论` `职场话题`
 1. [Youtube Premium 拼车](https://www.v2ex.com/t/949481) `8条评论` `Google`
 1. [请问现在激活 win7 最简单方便的方法是什么？](https://www.v2ex.com/t/949465) `8条评论` `问与答`
@@ -22,11 +22,12 @@
 1. [我新做的情侣聊天功能, 上线两天消息数突破一万条](https://www.v2ex.com/t/949497) `7条评论` `分享创造`
 1. [GTR7 内存选择](https://www.v2ex.com/t/949458) `7条评论` `问与答`
 1. [吐槽一下公司需求随时随意变动](https://www.v2ex.com/t/949502) `6条评论` `程序员`
+1. [网上买的 parallels desktop 永久授权才 100 块钱这样靠谱吗？](https://www.v2ex.com/t/949491) `6条评论` `问与答`
 1. [关于电信宽带的问题，升级后还能否有公网 IP？](https://www.v2ex.com/t/949464) `6条评论` `宽带症候群`
 1. [mac 13.4 电源管理的 bug 么？](https://www.v2ex.com/t/949461) `6条评论` `macOS`
 1. [epin 欠钱不还，我 100 里拉就当打水漂了](https://www.v2ex.com/t/949457) `6条评论` `Apple`
 
-数据更新于 2023-06-17 05:36:09
+数据更新于 2023-06-17 05:46:27
 
 <!-- TODAY END -->
 
