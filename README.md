@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `36条评论` `Windows`
-1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `23条评论` `问与答`
+1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `39条评论` `Windows`
+1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `25条评论` `问与答`
 1. [如何优雅地为 Clash 添加自定义代理规则？这是你要看的最后一篇教程](https://www.v2ex.com/t/949462) `16条评论` `分享创造`
 1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `16条评论` `MacBook Pro`
+1. [claude 不免费了，贴吧一片哀鸿](https://www.v2ex.com/t/949535) `14条评论` `程序员`
+1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `13条评论` `程序员`
 1. [openai 5 月的账单出来了，不足$1 不用付费了？](https://www.v2ex.com/t/949479) `13条评论` `OpenAI`
-1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `12条评论` `程序员`
 1. [吐槽一下公司需求随时随意变动](https://www.v2ex.com/t/949502) `12条评论` `程序员`
 1. [12v 5A 的 DC 电源有没有推荐的，想要弱电箱一拖五](https://www.v2ex.com/t/949466) `12条评论` `问与答`
-1. [claude 不免费了，贴吧一片哀鸿](https://www.v2ex.com/t/949535) `11条评论` `程序员`
 1. [数据库分库分表之后，所有表在一起，两个字段怎么做组合唯一索引？](https://www.v2ex.com/t/949463) `11条评论` `Java`
 1. [网上买的 parallels desktop 永久授权才 100 块钱这样靠谱吗？](https://www.v2ex.com/t/949491) `10条评论` `问与答`
 1. [我新做的情侣聊天功能, 上线两天消息数突破一万条](https://www.v2ex.com/t/949497) `9条评论` `分享创造`
@@ -33,7 +33,7 @@
 1. [想了解一下一款手游从开发到上线的流程,有业内大佬解惑吗](https://www.v2ex.com/t/949494) `6条评论` `问与答`
 1. [关于电信宽带的问题，升级后还能否有公网 IP？](https://www.v2ex.com/t/949464) `6条评论` `宽带症候群`
 
-数据更新于 2023-06-17 07:25:53
+数据更新于 2023-06-17 07:36:28
 
 <!-- TODAY END -->
 
