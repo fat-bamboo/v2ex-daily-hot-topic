@@ -8,10 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `6条评论` `MacBook Pro`
+1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `8条评论` `MacBook Pro`
+1. [GTR7 内存选择](https://www.v2ex.com/t/949458) `7条评论` `问与答`
+1. [请问现在激活 win7 最简单方便的方法是什么？](https://www.v2ex.com/t/949465) `6条评论` `问与答`
 1. [[Surge for Mac 5 ]寻队友 三人车 or 五人车](https://www.v2ex.com/t/949453) `6条评论` `Surge`
 
-数据更新于 2023-06-17 01:44:18
+数据更新于 2023-06-17 02:29:50
 
 <!-- TODAY END -->
 
