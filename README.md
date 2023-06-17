@@ -8,32 +8,32 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `52条评论` `Windows`
+1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `53条评论` `Windows`
 1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `51条评论` `问与答`
-1. [一些疑惑，为什么 rust 干不过 go 呢](https://www.v2ex.com/t/949560) `28条评论` `程序员`
+1. [一些疑惑，为什么 rust 干不过 go 呢](https://www.v2ex.com/t/949560) `30条评论` `程序员`
 1. [如何优雅地为 Clash 添加自定义代理规则？这是你要看的最后一篇教程](https://www.v2ex.com/t/949462) `25条评论` `分享创造`
 1. [claude 不免费了，贴吧一片哀鸿](https://www.v2ex.com/t/949535) `24条评论` `程序员`
 1. [youtu 好多徒手建木屋的视频](https://www.v2ex.com/t/949541) `24条评论` `生活`
 1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `22条评论` `程序员`
 1. [openai 5 月的账单出来了，不足$1 不用付费了？](https://www.v2ex.com/t/949479) `20条评论` `OpenAI`
+1. [腾讯云服务器 2 核、4G、3 年 一共 628 元](https://www.v2ex.com/t/949540) `19条评论` `程序员`
 1. [有没有不跑被的被子推荐](https://www.v2ex.com/t/949527) `16条评论` `问与答`
 1. [编程工作会越来越多吗？](https://www.v2ex.com/t/949522) `16条评论` `程序员`
 1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `16条评论` `MacBook Pro`
-1. [腾讯云服务器 2 核、4G、3 年 一共 628 元](https://www.v2ex.com/t/949540) `15条评论` `程序员`
+1. [有人用正义之怒学英语吗?](https://www.v2ex.com/t/949545) `12条评论` `问与答`
 1. [吐槽一下公司需求随时随意变动](https://www.v2ex.com/t/949502) `12条评论` `程序员`
 1. [12v 5A 的 DC 电源有没有推荐的，想要弱电箱一拖五](https://www.v2ex.com/t/949466) `12条评论` `问与答`
 1. [厦门互联网行业为什么发展不起来？](https://www.v2ex.com/t/949553) `11条评论` `程序员`
-1. [有人用正义之怒学英语吗?](https://www.v2ex.com/t/949545) `11条评论` `问与答`
 1. [升降桌选哪个？](https://www.v2ex.com/t/949542) `11条评论` `问与答`
 1. [新手买车， 10w 左右预算，求老哥推荐。](https://www.v2ex.com/t/949537) `11条评论` `汽车`
 1. [数据库分库分表之后，所有表在一起，两个字段怎么做组合唯一索引？](https://www.v2ex.com/t/949463) `11条评论` `Java`
 1. [明天 618 了, 求推荐个酷炫的电商平台大屏监控](https://www.v2ex.com/t/949526) `10条评论` `程序员`
 1. [我新做的情侣聊天功能, 上线两天消息数突破一万条](https://www.v2ex.com/t/949497) `10条评论` `分享创造`
 1. [网上买的 parallels desktop 永久授权才 100 块钱这样靠谱吗？](https://www.v2ex.com/t/949491) `10条评论` `问与答`
+1. [Macbook Air M2 是否支持 USB Wifi 网卡呢？](https://www.v2ex.com/t/949546) `9条评论` `MacBook Air`
 1. [手头的 mac studio 求帮估个价](https://www.v2ex.com/t/949532) `9条评论` `Apple`
-1. [[聊聊]假如新能源车厂商凉了且没有接盘，交付的车还能开吗？](https://www.v2ex.com/t/949492) `9条评论` `电动汽车`
 
-数据更新于 2023-06-17 11:00:12
+数据更新于 2023-06-17 11:15:47
 
 <!-- TODAY END -->
 
