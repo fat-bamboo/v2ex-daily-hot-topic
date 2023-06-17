@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `39条评论` `Windows`
-1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `25条评论` `问与答`
+1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `42条评论` `Windows`
+1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `26条评论` `问与答`
+1. [claude 不免费了，贴吧一片哀鸿](https://www.v2ex.com/t/949535) `16条评论` `程序员`
 1. [如何优雅地为 Clash 添加自定义代理规则？这是你要看的最后一篇教程](https://www.v2ex.com/t/949462) `16条评论` `分享创造`
 1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `16条评论` `MacBook Pro`
-1. [claude 不免费了，贴吧一片哀鸿](https://www.v2ex.com/t/949535) `14条评论` `程序员`
-1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `13条评论` `程序员`
+1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `14条评论` `程序员`
 1. [openai 5 月的账单出来了，不足$1 不用付费了？](https://www.v2ex.com/t/949479) `13条评论` `OpenAI`
 1. [吐槽一下公司需求随时随意变动](https://www.v2ex.com/t/949502) `12条评论` `程序员`
 1. [12v 5A 的 DC 电源有没有推荐的，想要弱电箱一拖五](https://www.v2ex.com/t/949466) `12条评论` `问与答`
@@ -21,19 +21,19 @@
 1. [网上买的 parallels desktop 永久授权才 100 块钱这样靠谱吗？](https://www.v2ex.com/t/949491) `10条评论` `问与答`
 1. [我新做的情侣聊天功能, 上线两天消息数突破一万条](https://www.v2ex.com/t/949497) `9条评论` `分享创造`
 1. [[聊聊]假如新能源车厂商凉了且没有接盘，交付的车还能开吗？](https://www.v2ex.com/t/949492) `9条评论` `电动汽车`
+1. [有没有不跑被的被子推荐](https://www.v2ex.com/t/949527) `8条评论` `问与答`
 1. [避雷垃圾公司 [杭州道科数字科技有限公司] [杭州科新捷讯信息技术有限公司]](https://www.v2ex.com/t/949473) `8条评论` `职场话题`
 1. [Youtube Premium 拼车](https://www.v2ex.com/t/949481) `8条评论` `Google`
 1. [请问现在激活 win7 最简单方便的方法是什么？](https://www.v2ex.com/t/949465) `8条评论` `问与答`
 1. [[Surge for Mac 5 ]寻队友 三人车 or 五人车](https://www.v2ex.com/t/949453) `8条评论` `Surge`
+1. [腾讯云服务器 2 核、4G、3 年 一共 628 元](https://www.v2ex.com/t/949540) `7条评论` `程序员`
 1. [江西工职院“6·1”食品安全事件调查处理情况通报](https://www.v2ex.com/t/949523) `7条评论` `分享发现`
 1. [GTR7 内存选择](https://www.v2ex.com/t/949458) `7条评论` `问与答`
-1. [有没有不跑被的被子推荐](https://www.v2ex.com/t/949527) `6条评论` `问与答`
+1. [编程工作会越来越多吗？](https://www.v2ex.com/t/949522) `6条评论` `程序员`
 1. [请问下当时日本泡沫破灭时为什么没有发生“都欠钱等于都不欠”的情况](https://www.v2ex.com/t/949514) `6条评论` `问与答`
 1. [有什么安卓录像的 App，支持长时间录制不发烫？](https://www.v2ex.com/t/949508) `6条评论` `Android`
-1. [想了解一下一款手游从开发到上线的流程,有业内大佬解惑吗](https://www.v2ex.com/t/949494) `6条评论` `问与答`
-1. [关于电信宽带的问题，升级后还能否有公网 IP？](https://www.v2ex.com/t/949464) `6条评论` `宽带症候群`
 
-数据更新于 2023-06-17 07:36:28
+数据更新于 2023-06-17 07:46:46
 
 <!-- TODAY END -->
 
