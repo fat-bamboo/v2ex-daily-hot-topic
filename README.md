@@ -8,16 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `46条评论` `Windows`
-1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `38条评论` `问与答`
+1. [Windows 上最好用的虚拟机是哪个？](https://www.v2ex.com/t/949474) `48条评论` `Windows`
+1. [学生要不要分期买二手 MacBook Air M2?](https://www.v2ex.com/t/949510) `40条评论` `问与答`
 1. [如何优雅地为 Clash 添加自定义代理规则？这是你要看的最后一篇教程](https://www.v2ex.com/t/949462) `25条评论` `分享创造`
-1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `20条评论` `程序员`
+1. [win11 下 explorer 有好的替代品吗](https://www.v2ex.com/t/949515) `21条评论` `程序员`
 1. [claude 不免费了，贴吧一片哀鸿](https://www.v2ex.com/t/949535) `20条评论` `程序员`
+1. [openai 5 月的账单出来了，不足$1 不用付费了？](https://www.v2ex.com/t/949479) `20条评论` `OpenAI`
+1. [youtu 好多徒手建木屋的视频](https://www.v2ex.com/t/949541) `16条评论` `生活`
 1. [求脱离 MacBook 触控板的方法](https://www.v2ex.com/t/949456) `16条评论` `MacBook Pro`
-1. [youtu 好多徒手建木屋的视频](https://www.v2ex.com/t/949541) `15条评论` `生活`
 1. [有没有不跑被的被子推荐](https://www.v2ex.com/t/949527) `15条评论` `问与答`
 1. [编程工作会越来越多吗？](https://www.v2ex.com/t/949522) `15条评论` `程序员`
-1. [openai 5 月的账单出来了，不足$1 不用付费了？](https://www.v2ex.com/t/949479) `13条评论` `OpenAI`
 1. [腾讯云服务器 2 核、4G、3 年 一共 628 元](https://www.v2ex.com/t/949540) `12条评论` `程序员`
 1. [吐槽一下公司需求随时随意变动](https://www.v2ex.com/t/949502) `12条评论` `程序员`
 1. [12v 5A 的 DC 电源有没有推荐的，想要弱电箱一拖五](https://www.v2ex.com/t/949466) `12条评论` `问与答`
@@ -33,7 +33,7 @@
 1. [请问现在激活 win7 最简单方便的方法是什么？](https://www.v2ex.com/t/949465) `8条评论` `问与答`
 1. [[Surge for Mac 5 ]寻队友 三人车 or 五人车](https://www.v2ex.com/t/949453) `8条评论` `Surge`
 
-数据更新于 2023-06-17 09:30:21
+数据更新于 2023-06-17 09:40:41
 
 <!-- TODAY END -->
 
