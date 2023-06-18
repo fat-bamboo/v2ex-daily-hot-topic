@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [10 秒钟让你赚钱](https://www.v2ex.com/t/949675) `50条评论` `分享发现`
+1. [10 秒钟让你赚钱](https://www.v2ex.com/t/949675) `51条评论` `分享发现`
 1. [研究生被毒打了之后选择愈发保守](https://www.v2ex.com/t/949652) `36条评论` `生活`
 1. [好消息， WG 之三体出预告片了。](https://www.v2ex.com/t/949690) `35条评论` `分享发现`
 1. [登录系统的『紧急口令』应该以什么原则选用为好？](https://www.v2ex.com/t/949658) `34条评论` `程序员`
@@ -30,10 +30,10 @@
 1. [还在纠结用 parallel 还是 cms 还是 G1，运维直接给个 64GB 内存的机器](https://www.v2ex.com/t/949708) `9条评论` `Java`
 1. [Clash 规则能否做到优先 Select，若失败自动按顺序使用某几个特定节点，如果还是失败进行 url-test。如果 Select 恢复，则回到 Select 节点](https://www.v2ex.com/t/949694) `9条评论` `互联网`
 1. [选 plus 还是 poe](https://www.v2ex.com/t/949653) `9条评论` `OpenAI`
+1. [Google photos 将不再支持 Takeout](https://www.v2ex.com/t/949721) `8条评论` `Google`
 1. [用 chatGPT 进行辩 [骂] 论 [人] 的研究， chatGPT 其实很会辩 [骂] 论 [人] 的](https://www.v2ex.com/t/949692) `8条评论` `OpenAI`
-1. [分享一个 MAC 原生载图使用的小技巧](https://www.v2ex.com/t/949677) `8条评论` `分享发现`
 
-数据更新于 2023-06-18 11:16:55
+数据更新于 2023-06-18 11:27:29
 
 <!-- TODAY END -->
 
