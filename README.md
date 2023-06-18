@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [10 秒钟让你赚钱](https://www.v2ex.com/t/949675) `51条评论` `分享发现`
+1. [10 秒钟让你赚钱](https://www.v2ex.com/t/949675) `53条评论` `分享发现`
 1. [研究生被毒打了之后选择愈发保守](https://www.v2ex.com/t/949652) `36条评论` `生活`
 1. [好消息， WG 之三体出预告片了。](https://www.v2ex.com/t/949690) `35条评论` `分享发现`
 1. [登录系统的『紧急口令』应该以什么原则选用为好？](https://www.v2ex.com/t/949658) `34条评论` `程序员`
 1. [闲置的 i7-7700 现在还能拿来干啥？](https://www.v2ex.com/t/949665) `31条评论` `硬件`
 1. [雅思，英语](https://www.v2ex.com/t/949685) `31条评论` `问与答`
-1. [深圳北站开车前 8 分钟停止“进站”是什么逻辑？](https://www.v2ex.com/t/949701) `30条评论` `问与答`
-1. [游戏行业，虽然工作体验很差，加班严重，但是大家都忍着](https://www.v2ex.com/t/949702) `20条评论` `程序员`
-1. [如何用 Alpine 一步一步搭建一个完整的 Linux 桌面系统](https://www.v2ex.com/t/949683) `18条评论` `Linux`
+1. [深圳北站开车前 8 分钟停止“进站”是什么逻辑？](https://www.v2ex.com/t/949701) `31条评论` `问与答`
+1. [如何用 Alpine 一步一步搭建一个完整的 Linux 桌面系统](https://www.v2ex.com/t/949683) `26条评论` `Linux`
+1. [游戏行业，虽然工作体验很差，加班严重，但是大家都忍着](https://www.v2ex.com/t/949702) `21条评论` `程序员`
 1. [有没有了解富士通电脑的大佬，想问下稳吗？](https://www.v2ex.com/t/949648) `18条评论` `问与答`
 1. [求推荐一个 NAS 机箱](https://www.v2ex.com/t/949656) `16条评论` `NAS`
 1. [今天干了件很解压的事情，清理 gmail 邮箱](https://www.v2ex.com/t/949655) `14条评论` `Google`
@@ -27,13 +27,13 @@
 1. [从 0 开始实现一个论坛要多久？](https://www.v2ex.com/t/949671) `12条评论` `问与答`
 1. [在拼多多长城储存官方旗舰店购买了 4TB 的 SSD，但是为什么商家主动联系我让我退款重新拍？](https://www.v2ex.com/t/949682) `10条评论` `硬件`
 1. [Python +django 开发的视频点播网站（求 star）](https://www.v2ex.com/t/949669) `10条评论` `Python`
+1. [Google photos 将不再支持 Takeout](https://www.v2ex.com/t/949721) `9条评论` `Google`
 1. [还在纠结用 parallel 还是 cms 还是 G1，运维直接给个 64GB 内存的机器](https://www.v2ex.com/t/949708) `9条评论` `Java`
 1. [Clash 规则能否做到优先 Select，若失败自动按顺序使用某几个特定节点，如果还是失败进行 url-test。如果 Select 恢复，则回到 Select 节点](https://www.v2ex.com/t/949694) `9条评论` `互联网`
 1. [选 plus 还是 poe](https://www.v2ex.com/t/949653) `9条评论` `OpenAI`
-1. [Google photos 将不再支持 Takeout](https://www.v2ex.com/t/949721) `8条评论` `Google`
-1. [用 chatGPT 进行辩 [骂] 论 [人] 的研究， chatGPT 其实很会辩 [骂] 论 [人] 的](https://www.v2ex.com/t/949692) `8条评论` `OpenAI`
+1. [现在市场上有没有什么优质的轻社交 RPG 啊？](https://www.v2ex.com/t/949727) `8条评论` `问与答`
 
-数据更新于 2023-06-18 11:27:29
+数据更新于 2023-06-18 11:38:02
 
 <!-- TODAY END -->
 
