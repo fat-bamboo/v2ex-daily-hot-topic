@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [10 秒钟让你赚钱](https://www.v2ex.com/t/949675) `63条评论` `分享发现`
+1. [10 秒钟让你赚钱](https://www.v2ex.com/t/949675) `67条评论` `分享发现`
+1. [好消息， WG 之三体出预告片了。](https://www.v2ex.com/t/949690) `41条评论` `分享发现`
 1. [研究生被毒打了之后选择愈发保守](https://www.v2ex.com/t/949652) `37条评论` `生活`
-1. [好消息， WG 之三体出预告片了。](https://www.v2ex.com/t/949690) `37条评论` `分享发现`
 1. [雅思，英语](https://www.v2ex.com/t/949685) `36条评论` `问与答`
 1. [登录系统的『紧急口令』应该以什么原则选用为好？](https://www.v2ex.com/t/949658) `34条评论` `程序员`
 1. [闲置的 i7-7700 现在还能拿来干啥？](https://www.v2ex.com/t/949665) `34条评论` `硬件`
@@ -26,14 +26,14 @@
 1. [从事 CS 和 EE 领域的工作，需要怎样的数学水平？](https://www.v2ex.com/t/949688) `12条评论` `问与答`
 1. [从 0 开始实现一个论坛要多久？](https://www.v2ex.com/t/949671) `12条评论` `问与答`
 1. [最近 Docker 加速是不是出什么问题了？频繁超时](https://www.v2ex.com/t/949738) `11条评论` `Docker`
+1. [2023 年，求推荐电动剃须刀](https://www.v2ex.com/t/949724) `11条评论` `生活`
+1. [Google photos 将不再支持 Takeout](https://www.v2ex.com/t/949721) `11条评论` `Google`
 1. [在拼多多长城储存官方旗舰店购买了 4TB 的 SSD，但是为什么商家主动联系我让我退款重新拍？](https://www.v2ex.com/t/949682) `10条评论` `硬件`
 1. [Python +django 开发的视频点播网站（求 star）](https://www.v2ex.com/t/949669) `10条评论` `Python`
-1. [Google photos 将不再支持 Takeout](https://www.v2ex.com/t/949721) `9条评论` `Google`
 1. [还在纠结用 parallel 还是 cms 还是 G1，运维直接给个 64GB 内存的机器](https://www.v2ex.com/t/949708) `9条评论` `Java`
 1. [Clash 规则能否做到优先 Select，若失败自动按顺序使用某几个特定节点，如果还是失败进行 url-test。如果 Select 恢复，则回到 Select 节点](https://www.v2ex.com/t/949694) `9条评论` `互联网`
-1. [选 plus 还是 poe](https://www.v2ex.com/t/949653) `9条评论` `OpenAI`
 
-数据更新于 2023-06-18 12:34:23
+数据更新于 2023-06-18 12:55:03
 
 <!-- TODAY END -->
 
