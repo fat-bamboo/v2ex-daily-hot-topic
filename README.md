@@ -20,13 +20,14 @@
 1. [Golang 的 Map 可不可以存大量的数据？比如说几个 GB 的数据](https://www.v2ex.com/t/950798) `13条评论` `Go 编程语言`
 1. [cloudflare warp 客户端的 proxy 模式无法上网](https://www.v2ex.com/t/950811) `11条评论` `Cloudflare`
 1. [如何搭建 jupyter notbook 上课环境？](https://www.v2ex.com/t/950800) `11条评论` `问与答`
+1. [[畅聊] 为什么越来越多的人并不认同气候暖化？](https://www.v2ex.com/t/950846) `10条评论` `随想`
 1. [[企业身份+软著限制] 个人项目是不是基本可以放弃国内上架安卓市场了？](https://www.v2ex.com/t/950797) `10条评论` `问与答`
 1. [应届生的 offer 选择，求大佬和前辈给点建议。](https://www.v2ex.com/t/950803) `8条评论` `职场话题`
 1. [长期把 MacBook 当充电器，会对电池有影响吗？](https://www.v2ex.com/t/950824) `7条评论` `Apple`
+1. [小火箭自动切换节点是啥情况？](https://www.v2ex.com/t/950810) `7条评论` `问与答`
 1. [能代替 wox 的、还在更新的快速检索软件有吗？](https://www.v2ex.com/t/950817) `6条评论` `Windows`
-1. [小火箭自动切换节点是啥情况？](https://www.v2ex.com/t/950810) `6条评论` `问与答`
 
-数据更新于 2023-06-22 06:36:50
+数据更新于 2023-06-22 06:47:09
 
 <!-- TODAY END -->
 
