@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你对 iPhone 15 有什么期待吗？](https://www.v2ex.com/t/954175) `153条评论` `iPhone`
+1. [你对 iPhone 15 有什么期待吗？](https://www.v2ex.com/t/954175) `155条评论` `iPhone`
 1. [不懂就问 大家说的 OP 是什么意思？](https://www.v2ex.com/t/954167) `88条评论` `问与答`
 1. [2023 年了，币圈的 offer 还能接吗？](https://www.v2ex.com/t/954213) `80条评论` `职场话题`
 1. [iPad Pro 2021 版续航尿崩，何解](https://www.v2ex.com/t/954169) `71条评论` `Apple`
@@ -25,15 +25,15 @@
 1. [大家的速度一般在多少呢？](https://www.v2ex.com/t/954254) `20条评论` `问与答`
 1. [跑完步有必要喝电解质水吗？](https://www.v2ex.com/t/954283) `19条评论` `跑步`
 1. [前端开发工具 vscode 对比 webstrom 哪个用的人多?](https://www.v2ex.com/t/954188) `19条评论` `前端开发`
+1. [打算从电报转移阵地了，有什么推荐吗？](https://www.v2ex.com/t/954345) `18条评论` `问与答`
 1. [感觉 iPhone 电池健康度有作假吧?停留在 88%好久好久了](https://www.v2ex.com/t/954334) `18条评论` `Apple`
-1. [2023 年，用 vscode 写 springboot 是否可行?](https://www.v2ex.com/t/954354) `16条评论` `Java`
-1. [打算从电报转移阵地了，有什么推荐吗？](https://www.v2ex.com/t/954345) `16条评论` `问与答`
-1. [对 OLED 敏感是心理作用还是现实](https://www.v2ex.com/t/954351) `15条评论` `Apple`
+1. [2023 年，用 vscode 写 springboot 是否可行?](https://www.v2ex.com/t/954354) `17条评论` `Java`
+1. [对 OLED 敏感是心理作用还是现实](https://www.v2ex.com/t/954351) `16条评论` `Apple`
+1. [关于联想电脑以方便“新手”用户而作的恶](https://www.v2ex.com/t/954335) `16条评论` `Windows`
 1. [买了土区 2TB 的 Google One，竟然....](https://www.v2ex.com/t/954251) `15条评论` `Google`
 1. [接了个私活页面不知道该怎么设计怎么办 ？](https://www.v2ex.com/t/954233) `15条评论` `程序员`
-1. [请教一个 IOS APP 付费方式](https://www.v2ex.com/t/954221) `15条评论` `程序员`
 
-数据更新于 2023-07-05 11:28:52
+数据更新于 2023-07-05 11:39:09
 
 <!-- TODAY END -->
 
