@@ -14,8 +14,8 @@
 1. [小红书 twitter 上的视频如何下载](https://www.v2ex.com/t/957096) `51条评论` `程序员`
 1. [[实在是高] redha 直接消灭了免费的二进制兼容的 rhel 发行版](https://www.v2ex.com/t/957139) `37条评论` `CentOS`
 1. [去海边玩，到底是玩啥啊？铺块塑料布晒太阳？？](https://www.v2ex.com/t/957129) `34条评论` `问与答`
+1. [大佬们， M2Max 的 Macbookpro 是否有容易踩坑的缺陷？](https://www.v2ex.com/t/957125) `32条评论` `MacBook Pro`
 1. [求推荐一些 Windows 上的优质软件, 什么方面的都可以](https://www.v2ex.com/t/957140) `32条评论` `Windows`
-1. [大佬们， M2Max 的 Macbookpro 是否有容易踩坑的缺陷？](https://www.v2ex.com/t/957125) `31条评论` `MacBook Pro`
 1. [在图书馆这类公共网络上网如何查询网络结构？](https://www.v2ex.com/t/957104) `25条评论` `宽带症候群`
 1. [Anker20 瓦快充头滋滋异响，是否正常？](https://www.v2ex.com/t/957084) `24条评论` `Apple`
 1. [有了解新生儿落户海外的操作方式？](https://www.v2ex.com/t/957176) `23条评论` `移民`
@@ -33,7 +33,7 @@
 1. [开启 PT 下载，宽带被限速](https://www.v2ex.com/t/957151) `11条评论` `宽带症候群`
 1. [coloros 无法通过 adb 卸载系统应用](https://www.v2ex.com/t/957108) `11条评论` `问与答`
 
-数据更新于 2023-07-16 17:17:43
+数据更新于 2023-07-16 17:29:27
 
 <!-- TODAY END -->
 
