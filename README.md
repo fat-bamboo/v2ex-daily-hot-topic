@@ -12,8 +12,8 @@
 1. [养老金已经交了 10w](https://www.v2ex.com/t/957087) `86条评论` `生活`
 1. [手机是否存在全天候监听？在这件事发生之前，我是存疑的，但是现在我信了。](https://www.v2ex.com/t/957177) `52条评论` `科技`
 1. [小红书 twitter 上的视频如何下载](https://www.v2ex.com/t/957096) `51条评论` `程序员`
+1. [[实在是高] redha 直接消灭了免费的二进制兼容的 rhel 发行版](https://www.v2ex.com/t/957139) `36条评论` `CentOS`
 1. [去海边玩，到底是玩啥啊？铺块塑料布晒太阳？？](https://www.v2ex.com/t/957129) `34条评论` `问与答`
-1. [[实在是高] redha 直接消灭了免费的二进制兼容的 rhel 发行版](https://www.v2ex.com/t/957139) `34条评论` `CentOS`
 1. [求推荐一些 Windows 上的优质软件, 什么方面的都可以](https://www.v2ex.com/t/957140) `32条评论` `Windows`
 1. [大佬们， M2Max 的 Macbookpro 是否有容易踩坑的缺陷？](https://www.v2ex.com/t/957125) `31条评论` `MacBook Pro`
 1. [Anker20 瓦快充头滋滋异响，是否正常？](https://www.v2ex.com/t/957084) `24条评论` `Apple`
@@ -33,7 +33,7 @@
 1. [开启 PT 下载，宽带被限速](https://www.v2ex.com/t/957151) `11条评论` `宽带症候群`
 1. [coloros 无法通过 adb 卸载系统应用](https://www.v2ex.com/t/957108) `11条评论` `问与答`
 
-数据更新于 2023-07-16 16:48:30
+数据更新于 2023-07-16 16:58:51
 
 <!-- TODAY END -->
 
