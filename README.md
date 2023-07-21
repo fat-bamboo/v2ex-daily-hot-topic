@@ -9,26 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [大家怎么看房地产市场未来的走势呢](https://www.v2ex.com/t/958478) `78条评论` `问与答`
+1. [大佬们帮忙出出主意，纠结 MacBookPro 还是 MacBook Air](https://www.v2ex.com/t/958494) `43条评论` `MacBook Pro`
 1. [3000 天签到成就达成](https://www.v2ex.com/t/958476) `35条评论` `V2EX`
-1. [大佬们帮忙出出主意，纠结 MacBookPro 还是 MacBook Air](https://www.v2ex.com/t/958494) `31条评论` `MacBook Pro`
-1. [十几年了 手里还有很多域名 就像房子一样趋势一直往下](https://www.v2ex.com/t/958502) `30条评论` `程序员`
-1. [mac 有没有好使的输入法](https://www.v2ex.com/t/958499) `26条评论` `问与答`
-1. [坏消息：长蛀牙了，好消息：长智齿上了。](https://www.v2ex.com/t/958503) `22条评论` `问与答`
-1. [分享一份防脱发指南](https://www.v2ex.com/t/958501) `17条评论` `问与答`
+1. [十几年了 手里还有很多域名 就像房子一样趋势一直往下](https://www.v2ex.com/t/958502) `31条评论` `程序员`
+1. [mac 有没有好使的输入法](https://www.v2ex.com/t/958499) `31条评论` `问与答`
+1. [坏消息：长蛀牙了，好消息：长智齿上了。](https://www.v2ex.com/t/958503) `23条评论` `问与答`
+1. [分享一份防脱发指南](https://www.v2ex.com/t/958501) `19条评论` `问与答`
+1. [NAS 耗电实测](https://www.v2ex.com/t/958488) `14条评论` `NAS`
 1. [Gmail 中如何完全退订狗皮膏药营销邮件？](https://www.v2ex.com/t/958475) `13条评论` `问与答`
-1. [NAS 耗电实测](https://www.v2ex.com/t/958488) `12条评论` `NAS`
+1. [搬家后求推荐软路由](https://www.v2ex.com/t/958497) `12条评论` `问与答`
+1. [三玄投资控股（广州）有限公司咋样？](https://www.v2ex.com/t/958521) `11条评论` `问与答`
 1. [谁有夜爬梧桐山的组队群拉我下](https://www.v2ex.com/t/958482) `11条评论` `深圳`
-1. [搬家后求推荐软路由](https://www.v2ex.com/t/958497) `10条评论` `问与答`
-1. [适合用 lcd 屏幕又不想用安卓怎么办](https://www.v2ex.com/t/958515) `9条评论` `iPhone`
+1. [适合用 lcd 屏幕又不想用安卓怎么办](https://www.v2ex.com/t/958515) `10条评论` `iPhone`
 1. [如何评价 2023 年上半年软考高项？](https://www.v2ex.com/t/958506) `9条评论` `问与答`
+1. [现在大多数医院的医生是不是都不查体了](https://www.v2ex.com/t/958526) `8条评论` `生活`
 1. [昨天因为临时需要，使用了 WSL2，发现这玩意很奇怪，现在使用 WSL2 的最佳实践有么？](https://www.v2ex.com/t/958484) `8条评论` `Windows`
+1. [家里的服务器是 ipv6，公司访问不了纯 ipv6 网站，怎么办](https://www.v2ex.com/t/958520) `7条评论` `NAS`
+1. [美团外卖超时了 3 个小时,恶心了我一天](https://www.v2ex.com/t/958510) `7条评论` `生活`
+1. [关于最近苹果广告 The Underdogs: Swiped Mac | Apple at Work 里功能的疑惑](https://www.v2ex.com/t/958498) `7条评论` `Apple`
 1. [IOS 端有没有工具可以文本转图片，自动排版成适合手机阅读的格式？](https://www.v2ex.com/t/958487) `7条评论` `问与答`
 1. [关于 apple mac mini 外接硬盘问题？](https://www.v2ex.com/t/958479) `7条评论` `Apple`
-1. [三玄投资控股（广州）有限公司咋样？](https://www.v2ex.com/t/958521) `6条评论` `问与答`
-1. [关于最近苹果广告 The Underdogs: Swiped Mac | Apple at Work 里功能的疑惑](https://www.v2ex.com/t/958498) `6条评论` `Apple`
 1. [海外有什么不错的信息聚合站点么](https://www.v2ex.com/t/958496) `6条评论` `问与答`
 
-数据更新于 2023-07-21 02:57:31
+数据更新于 2023-07-21 03:17:12
 
 <!-- TODAY END -->
 
