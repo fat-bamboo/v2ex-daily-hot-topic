@@ -18,19 +18,21 @@
 1. [关于公司交医保，能取出来吗？](https://www.v2ex.com/t/958784) `14条评论` `问与答`
 1. [冷知识：你可以 fork GitHub 上的项目](https://www.v2ex.com/t/958781) `14条评论` `程序员`
 1. [关于广州社保（养老保险）询问](https://www.v2ex.com/t/958779) `13条评论` `广州`
+1. [AMEX 信用卡积分换美区 Apple GC 出掉有风险么](https://www.v2ex.com/t/958793) `12条评论` `Apple`
 1. [买理财哪个产品好？](https://www.v2ex.com/t/958740) `12条评论` `问与答`
-1. [AMEX 信用卡积分换美区 Apple GC 出掉有风险么](https://www.v2ex.com/t/958793) `11条评论` `Apple`
+1. [大佬们怎么看书学习新东西的](https://www.v2ex.com/t/958786) `11条评论` `程序员`
 1. [UDP over TCP 如何控制丢包？](https://www.v2ex.com/t/958773) `11条评论` `问与答`
 1. [前端转后端应该怎么转?](https://www.v2ex.com/t/958745) `11条评论` `程序员`
 1. [论 miniflux 代替 freshrss 的可能性](https://www.v2ex.com/t/958756) `10条评论` `RSS`
-1. [大佬们怎么看书学习新东西的](https://www.v2ex.com/t/958786) `8条评论` `程序员`
 1. [求一个硬件设备，适合工业环境的 Android 环境](https://www.v2ex.com/t/958775) `7条评论` `问与答`
 1. [flutter 写个玩具 iOS 项目上传到 appstore（记录贴）](https://www.v2ex.com/t/958772) `7条评论` `分享创造`
 1. [公司搞了个工时系统,push 代码时还得关联这个系统,各位公司会这样吗?](https://www.v2ex.com/t/958767) `7条评论` `问与答`
 1. [分享 4 个 Memo AI 内测码](https://www.v2ex.com/t/958762) `7条评论` `程序员`
+1. [交接对方摆烂能解决吗？](https://www.v2ex.com/t/958811) `6条评论` `问与答`
+1. [关于有的人生下来就是“天才”的一点点想法](https://www.v2ex.com/t/958810) `6条评论` `随想`
 1. [青岛程序员年薪都多少？](https://www.v2ex.com/t/958746) `6条评论` `青岛`
 
-数据更新于 2023-07-22 08:28:18
+数据更新于 2023-07-22 08:38:42
 
 <!-- TODAY END -->
 
