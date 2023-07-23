@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [高中生这个水平可太顶了](https://www.v2ex.com/t/958933) `18条评论` `程序员`
+1. [高中生这个水平可太顶了](https://www.v2ex.com/t/958933) `19条评论` `程序员`
+1. [迷茫，未来十年计算机编程方向风口是什么？](https://www.v2ex.com/t/958923) `18条评论` `程序员`
 1. [研一想找实习，求各位锐评简历，感觉啥都干不了😩](https://www.v2ex.com/t/958948) `16条评论` `求职`
+1. [YouTube 有那些 up 主推荐呢](https://www.v2ex.com/t/958926) `16条评论` `问与答`
 1. [程序员，最近 2 家公司，都是被压迫，没啥正面工作体验](https://www.v2ex.com/t/958924) `16条评论` `程序员`
-1. [迷茫，未来十年计算机编程方向风口是什么？](https://www.v2ex.com/t/958923) `16条评论` `程序员`
 1. [阿里的 debian 镜像速度好慢啊，只有 30KB/s](https://www.v2ex.com/t/958931) `12条评论` `全球工单系统`
-1. [YouTube 有那些 up 主推荐呢](https://www.v2ex.com/t/958926) `12条评论` `问与答`
 1. [15 落地的紧凑 suv](https://www.v2ex.com/t/958922) `11条评论` `汽车`
-1. [[求助] MacOS 格式化西部数码 4T 机械盘为 APFS 耗时太久](https://www.v2ex.com/t/958952) `7条评论` `Apple`
-1. [Youtube 的自动翻译功能你们使用可正常？](https://www.v2ex.com/t/958944) `6条评论` `问与答`
-1. [Llama 2 可以在本地 Mac 运行了](https://www.v2ex.com/t/958929) `6条评论` `分享发现`
+1. [[求助] MacOS 格式化西部数码 4T 机械盘为 APFS 耗时太久](https://www.v2ex.com/t/958952) `9条评论` `Apple`
+1. [Youtube 的自动翻译功能你们使用可正常？](https://www.v2ex.com/t/958944) `7条评论` `问与答`
+1. [Llama 2 可以在本地 Mac 运行了](https://www.v2ex.com/t/958929) `7条评论` `分享发现`
 1. [国内哪里可以修 pixel6pro？](https://www.v2ex.com/t/958928) `6条评论` `Google`
 
-数据更新于 2023-07-23 05:23:09
+数据更新于 2023-07-23 05:35:43
 
 <!-- TODAY END -->
 
