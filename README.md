@@ -21,16 +21,17 @@
 1. [15 落地的紧凑 suv](https://www.v2ex.com/t/958922) `12条评论` `汽车`
 1. [Quit: 一键退出所有应用程序（macOS App）](https://www.v2ex.com/t/958958) `11条评论` `分享创造`
 1. [Youtube 的自动翻译功能你们使用可正常？](https://www.v2ex.com/t/958944) `11条评论` `问与答`
+1. [试用了 xray vision+reality，体验相当不错](https://www.v2ex.com/t/958967) `10条评论` `VPS`
 1. [高考港澳侨生读大陆还是读香港好？](https://www.v2ex.com/t/958961) `10条评论` `教育`
 1. [长期戴眼镜，鼻子有压痕，就没有解决办法了吗？](https://www.v2ex.com/t/958974) `8条评论` `分享发现`
-1. [试用了 xray vision+reality，体验相当不错](https://www.v2ex.com/t/958967) `8条评论` `VPS`
 1. [大家一般在哪里键政？](https://www.v2ex.com/t/958934) `8条评论` `问与答`
+1. [微信下拉小程序音乐和音频如何关闭？](https://www.v2ex.com/t/958969) `7条评论` `问与答`
 1. [Llama 2 可以在本地 Mac 运行了](https://www.v2ex.com/t/958929) `7条评论` `分享发现`
+1. [海外支付卡/账户 折腾一月半 成果和过程记录](https://www.v2ex.com/t/958993) `6条评论` `分享发现`
 1. [Base64.kr 网站源码开源了](https://www.v2ex.com/t/958978) `6条评论` `分享创造`
-1. [微信下拉小程序音乐和音频如何关闭？](https://www.v2ex.com/t/958969) `6条评论` `问与答`
 1. [国内哪里可以修 pixel6pro？](https://www.v2ex.com/t/958928) `6条评论` `Google`
 
-数据更新于 2023-07-23 09:18:55
+数据更新于 2023-07-23 09:29:19
 
 <!-- TODAY END -->
 
