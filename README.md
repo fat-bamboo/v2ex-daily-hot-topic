@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [刷到一个台湾程序员说：来大陆两年，不理解为什么跟大陆女生出去约会时默认男生买单？](https://www.v2ex.com/t/962567) `54条评论` `程序员`
+1. [刷到一个台湾程序员说：来大陆两年，不理解为什么跟大陆女生出去约会时默认男生买单？](https://www.v2ex.com/t/962567) `56条评论` `程序员`
 1. [有没有人喜欢看负能量视频，我看自媒体领域还没有做这一块的](https://www.v2ex.com/t/962575) `36条评论` `程序员`
 1. [《封神演义》中为何像申公豹这种作恶多端的也会被封神？](https://www.v2ex.com/t/962560) `32条评论` `问与答`
+1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591) `14条评论` `MacBook Pro`
 1. [端口 xx 被墙了 为什么 http://ip:xx 还能访问](https://www.v2ex.com/t/962585) `14条评论` `程序员`
-1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591) `13条评论` `MacBook Pro`
+1. [在一个页面内实现在新标签页打开链接有什么利弊？](https://www.v2ex.com/t/962566) `12条评论` `前端开发`
 1. [可以请帮看看这台台式机值多少钱吗？](https://www.v2ex.com/t/962574) `11条评论` `问与答`
 1. [吐槽一下公司](https://www.v2ex.com/t/962568) `11条评论` `职场话题`
 1. [同一台 Windows 电脑，在 Microsoft Edge 访问显示证书正常，用 Google Chrome 访问显示证书过期](https://www.v2ex.com/t/962581) `10条评论` `问与答`
-1. [在一个页面内实现在新标签页打开链接有什么利弊？](https://www.v2ex.com/t/962566) `10条评论` `前端开发`
 1. [聚合搜索并分栏显示工具](https://www.v2ex.com/t/962582) `9条评论` `问与答`
-1. [quantumult x 推出 tvOS 版了](https://www.v2ex.com/t/962573) `8条评论` `Apple`
+1. [quantumult x 推出 tvOS 版了](https://www.v2ex.com/t/962573) `9条评论` `Apple`
 1. [大家知道有什么好用的 Linux 监控用户操作的工具或方法么？](https://www.v2ex.com/t/962571) `8条评论` `问与答`
 1. [这个问题很复杂吗？ GPT-4 完全懵逼](https://www.v2ex.com/t/962561) `8条评论` `问与答`
 1. [iPhone 电池健康低于 80%会自动降频么？](https://www.v2ex.com/t/962557) `8条评论` `问与答`
@@ -29,7 +29,7 @@
 1. [tk mybatis 多还是 mybatis plus 多](https://www.v2ex.com/t/962564) `6条评论` `程序员`
 1. [请问大家有没有推荐的可以进行 AI 语音对话的网站或者 APP 推荐](https://www.v2ex.com/t/962563) `6条评论` `问与答`
 
-数据更新于 2023-08-05 04:49:54
+数据更新于 2023-08-05 05:00:17
 
 <!-- TODAY END -->
 
