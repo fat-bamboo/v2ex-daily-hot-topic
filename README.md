@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [终于上岸了](https://www.v2ex.com/t/962626) `121条评论` `程序员`
+1. [终于上岸了](https://www.v2ex.com/t/962626) `122条评论` `程序员`
 1. [刷到一个台湾程序员说：来大陆两年，不理解为什么跟大陆女生出去约会时默认男生买单？](https://www.v2ex.com/t/962567) `113条评论` `程序员`
 1. [学生目前想入台 MacAir，想寻求点宝贵建议](https://www.v2ex.com/t/962617) `68条评论` `程序员`
 1. [有没有人喜欢看负能量视频，我看自媒体领域还没有做这一块的](https://www.v2ex.com/t/962575) `64条评论` `程序员`
 1. [被裁员了~](https://www.v2ex.com/t/962616) `50条评论` `程序员`
 1. [《封神演义》中为何像申公豹这种作恶多端的也会被封神？](https://www.v2ex.com/t/962560) `47条评论` `问与答`
+1. [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692) `46条评论` `Vim`
 1. [为什么平台都喜欢 APP？](https://www.v2ex.com/t/962608) `37条评论` `程序员`
-1. [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692) `35条评论` `Vim`
 1. [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643) `28条评论` `问与答`
 1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591) `22条评论` `MacBook Pro`
 1. [端口 xx 被墙了 为什么 http://ip:xx 还能访问](https://www.v2ex.com/t/962585) `17条评论` `程序员`
@@ -24,17 +24,17 @@
 1. [最近新认识了一款 kasp 的 POW 代币，涨了百倍多](https://www.v2ex.com/t/962649) `14条评论` `问与答`
 1. [阿里云盘已经屏蔽 clash_for_windows](https://www.v2ex.com/t/962640) `14条评论` `分享发现`
 1. [Everything 正则实时求助](https://www.v2ex.com/t/962604) `14条评论` `程序员`
+1. [iphone14 掉水里了 现在慌的一批](https://www.v2ex.com/t/962666) `13条评论` `Apple`
 1. [同一台 Windows 电脑，在 Microsoft Edge 访问显示证书正常，用 Google Chrome 访问显示证书过期](https://www.v2ex.com/t/962581) `13条评论` `问与答`
 1. [在一个页面内实现在新标签页打开链接有什么利弊？](https://www.v2ex.com/t/962566) `13条评论` `前端开发`
 1. [使用 Python 在游戏切换到后台后将游戏进程挂起(暂停)会被视为作弊吗？目的是节省 cpu 资源](https://www.v2ex.com/t/962671) `12条评论` `Python`
-1. [iphone14 掉水里了 现在慌的一批](https://www.v2ex.com/t/962666) `12条评论` `Apple`
 1. [各位是怎么休息的？](https://www.v2ex.com/t/962642) `12条评论` `程序员`
 1. [坐标深圳，看房 1 年多了，每次都感觉看房效率很低，大佬们都怎么看房的？](https://www.v2ex.com/t/962625) `12条评论` `问与答`
 1. [不以求职为目的， 2023 年有什么值得学习的语言或框架？](https://www.v2ex.com/t/962590) `12条评论` `问与答`
+1. [家里出现了一个诡异的 Wi-Fi，会跟着我路由器的信道跑](https://www.v2ex.com/t/962698) `11条评论` `程序员`
 1. [练习 shell 脚本有啥好的视频 或者网站 或者工具吗？](https://www.v2ex.com/t/962664) `11条评论` `Linux`
-1. [聚合搜索并分栏显示工具](https://www.v2ex.com/t/962582) `11条评论` `问与答`
 
-数据更新于 2023-08-05 14:56:51
+数据更新于 2023-08-05 15:13:58
 
 <!-- TODAY END -->
 
