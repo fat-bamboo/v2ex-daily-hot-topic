@@ -34,7 +34,7 @@
 1. [给 .NET 实现了 Const Generics](https://www.v2ex.com/t/962851) `10条评论` `程序员`
 1. [购买了半年的 mbp 今天才发现被篡改了序列号](https://www.v2ex.com/t/962842) `10条评论` `MacBook Pro`
 
-数据更新于 2023-08-06 18:27:59
+数据更新于 2023-08-06 18:38:20
 
 <!-- TODAY END -->
 
