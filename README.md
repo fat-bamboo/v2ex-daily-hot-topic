@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [lg wing 这款机子不能看 missav 的视频怎么回事，其他手机都可以，](https://www.v2ex.com/t/962755) `26条评论` `Android`
+1. [lg wing 这款机子不能看 missav 的视频怎么回事，其他手机都可以，](https://www.v2ex.com/t/962755) `28条评论` `Android`
 1. [马一龙 X 的广告太多了，怎么忍？](https://www.v2ex.com/t/962736) `18条评论` `Twitter`
 1. [高效推送文本至电脑剪切板，柠檬 Push](https://www.v2ex.com/t/962744) `12条评论` `分享创造`
 1. [在一台 2000 年初的电脑上运行一个 2000 年初的经典游戏——Diablo 2](https://www.v2ex.com/t/962739) `11条评论` `怀旧游戏`
@@ -17,10 +17,11 @@
 1. [UniApp 打包 app 遇到了点问题，有偿请大佬帮忙看看](https://www.v2ex.com/t/962765) `8条评论` `问与答`
 1. [新买了个手机号，但是该手机号之前注册过 TG,导致我无法登录](https://www.v2ex.com/t/962763) `7条评论` `Telegram`
 1. [为什么 cdn 引入的 canvas 库无效](https://www.v2ex.com/t/962738) `7条评论` `JavaScript`
+1. [ubuntu 怎么设立定时任务执行 rm -rf /*](https://www.v2ex.com/t/962798) `6条评论` `问与答`
 1. [CheatSheet for Mac 没了](https://www.v2ex.com/t/962770) `6条评论` `Apple`
 1. [0757 联通宽带还有公网 IPV4 吗？](https://www.v2ex.com/t/962746) `6条评论` `宽带症候群`
 
-数据更新于 2023-08-06 07:13:22
+数据更新于 2023-08-06 07:26:00
 
 <!-- TODAY END -->
 
