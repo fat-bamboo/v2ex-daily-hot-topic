@@ -9,11 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [马一龙 X 的广告太多了，怎么忍？](https://www.v2ex.com/t/962736) `16条评论` `Twitter`
-1. [lg wing 这款机子不能看 missav 的视频怎么回事，其他手机都可以，](https://www.v2ex.com/t/962755) `10条评论` `Android`
+1. [lg wing 这款机子不能看 missav 的视频怎么回事，其他手机都可以，](https://www.v2ex.com/t/962755) `14条评论` `Android`
 1. [在一台 2000 年初的电脑上运行一个 2000 年初的经典游戏——Diablo 2](https://www.v2ex.com/t/962739) `9条评论` `怀旧游戏`
+1. [怎么才能用上 idea 内置的 ai 插件](https://www.v2ex.com/t/962752) `7条评论` `程序员`
 1. [为什么 cdn 引入的 canvas 库无效](https://www.v2ex.com/t/962738) `6条评论` `问与答`
 
-数据更新于 2023-08-06 03:38:36
+数据更新于 2023-08-06 03:49:02
 
 <!-- TODAY END -->
 
