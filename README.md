@@ -8,6 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
+1. [大家科学是用客户端，还是用 openwrt 直接科学？](https://www.v2ex.com/t/962900) `21条评论` `OpenWrt`
+1. [各位婚假 3 天合理吗](https://www.v2ex.com/t/962917) `10条评论` `问与答`
+1. [正则问题，来看看吧](https://www.v2ex.com/t/962911) `9条评论` `程序员`
+1. [007 一年多，裸辞自己做小游戏，分享收益](https://www.v2ex.com/t/962912) `6条评论` `分享发现`
+
+数据更新于 2023-08-07 01:23:45
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [中国人为什么这么卑劣？](https://www.v2ex.com/t/962849) `164条评论` `问与答`
 1. [各位 13 系的机主，请报数你们的电池指数....](https://www.v2ex.com/t/962829) `81条评论` `Apple`
 1. [有没有 V 友在高中是学神的？想请教下你们到底咋学习的？](https://www.v2ex.com/t/962830) `46条评论` `问与答`
@@ -33,40 +46,6 @@
 1. [请问上海有便宜点的车位出租吗，长期](https://www.v2ex.com/t/962813) `11条评论` `上海`
 1. [想和人拼 midjourney 的车，有点问题想请教一下各位大佬](https://www.v2ex.com/t/962808) `11条评论` `问与答`
 1. [一个创业点子：朋友圈私域变现，介绍朋友认识朋友](https://www.v2ex.com/t/962805) `11条评论` `奇思妙想`
-
-数据更新于 2023-08-06 23:57:39
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [终于上岸了](https://www.v2ex.com/t/962626) `135条评论` `程序员`
-1. [刷到一个台湾程序员说：来大陆两年，不理解为什么跟大陆女生出去约会时默认男生买单？](https://www.v2ex.com/t/962567) `114条评论` `程序员`
-1. [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692) `91条评论` `Vim`
-1. [学生目前想入台 MacAir，想寻求点宝贵建议](https://www.v2ex.com/t/962617) `74条评论` `程序员`
-1. [有没有人喜欢看负能量视频，我看自媒体领域还没有做这一块的](https://www.v2ex.com/t/962575) `65条评论` `程序员`
-1. [被裁员了~](https://www.v2ex.com/t/962616) `55条评论` `程序员`
-1. [《封神演义》中为何像申公豹这种作恶多端的也会被封神？](https://www.v2ex.com/t/962560) `47条评论` `问与答`
-1. [为什么平台都喜欢 APP？](https://www.v2ex.com/t/962608) `42条评论` `程序员`
-1. [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643) `36条评论` `问与答`
-1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591) `34条评论` `MacBook Pro`
-1. [iphone14 掉水里了 现在慌的一批](https://www.v2ex.com/t/962666) `22条评论` `Apple`
-1. [女生视角的《男生的下头行为》](https://www.v2ex.com/t/962705) `21条评论` `程序员`
-1. [家里出现了一个诡异的 Wi-Fi，会跟着我路由器的信道跑](https://www.v2ex.com/t/962698) `20条评论` `程序员`
-1. [使用 Python 在游戏切换到后台后将游戏进程挂起(暂停)会被视为作弊吗？目的是节省 cpu 资源](https://www.v2ex.com/t/962671) `17条评论` `Python`
-1. [端口 xx 被墙了 为什么 http://ip:xx 还能访问](https://www.v2ex.com/t/962585) `17条评论` `程序员`
-1. [quantumult x 推出 tvOS 版了](https://www.v2ex.com/t/962573) `16条评论` `Apple`
-1. [可以请帮看看这台台式机值多少钱吗？](https://www.v2ex.com/t/962574) `15条评论` `问与答`
-1. [最近新认识了一款 kasp 的 POW 代币，涨了百倍多](https://www.v2ex.com/t/962649) `14条评论` `问与答`
-1. [阿里云盘已经屏蔽 clash_for_windows](https://www.v2ex.com/t/962640) `14条评论` `分享发现`
-1. [Everything 正则实时求助](https://www.v2ex.com/t/962604) `14条评论` `程序员`
-1. [app 登录时，如果有 1.手机号+验证码登录和 2.微信登录，是不是所有人都会选择微信登录？](https://www.v2ex.com/t/962696) `13条评论` `问与答`
-1. [同一台 Windows 电脑，在 Microsoft Edge 访问显示证书正常，用 Google Chrome 访问显示证书过期](https://www.v2ex.com/t/962581) `13条评论` `问与答`
-1. [在一个页面内实现在新标签页打开链接有什么利弊？](https://www.v2ex.com/t/962566) `13条评论` `前端开发`
-1. [如何给国行 Mac 购买美版 Apple Care+](https://www.v2ex.com/t/962716) `12条评论` `Apple`
-1. [各位是怎么休息的？](https://www.v2ex.com/t/962642) `12条评论` `程序员`
 
 <!-- YESTERDAY END -->
 
