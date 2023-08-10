@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [冷战了，该怎么办？](https://www.v2ex.com/t/963959) `176条评论` `问与答`
-1. [关于 APP 备案，大家可以去国务院举报](https://www.v2ex.com/t/964007) `162条评论` `互联网`
-1. [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995) `149条评论` `Android`
+1. [关于 APP 备案，大家可以去国务院举报](https://www.v2ex.com/t/964007) `164条评论` `互联网`
+1. [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995) `151条评论` `Android`
 1. [撑过今年，明年应该会好起来](https://www.v2ex.com/t/963963) `134条评论` `分享发现`
 1. [长期睡眠不足影响到底有多大？](https://www.v2ex.com/t/963976) `116条评论` `程序员`
 1. [1.v2ex 可以私信吗 2.困惑很久的一个法律问题](https://www.v2ex.com/t/963939) `79条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [为什么打工永远赚不到大钱？](https://www.v2ex.com/t/964049) `22条评论` `问与答`
 1. [继续分享， ChatGPT Plus 随便用！](https://www.v2ex.com/t/964134) `21条评论` `分享发现`
 
-数据更新于 2023-08-10 14:00:25
+数据更新于 2023-08-10 14:20:47
 
 <!-- TODAY END -->
 
