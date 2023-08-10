@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [冷战了，该怎么办？](https://www.v2ex.com/t/963959) `171条评论` `问与答`
+1. [冷战了，该怎么办？](https://www.v2ex.com/t/963959) `172条评论` `问与答`
 1. [关于 APP 备案，大家可以去国务院举报](https://www.v2ex.com/t/964007) `156条评论` `互联网`
 1. [撑过今年，明年应该会好起来](https://www.v2ex.com/t/963963) `130条评论` `分享发现`
-1. [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995) `119条评论` `Android`
+1. [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995) `123条评论` `Android`
 1. [长期睡眠不足影响到底有多大？](https://www.v2ex.com/t/963976) `110条评论` `程序员`
 1. [1.v2ex 可以私信吗 2.困惑很久的一个法律问题](https://www.v2ex.com/t/963939) `75条评论` `问与答`
 1. [由《备案通知》所联想到的](https://www.v2ex.com/t/963938) `75条评论` `分享发现`
@@ -34,7 +34,7 @@
 1. [自建 NAS IOS 照片备份大家用什么呢](https://www.v2ex.com/t/964029) `21条评论` `NAS`
 1. [有在新加坡工作的程序员吗？请问怎么润出去的？](https://www.v2ex.com/t/963982) `21条评论` `程序员`
 
-数据更新于 2023-08-10 11:36:26
+数据更新于 2023-08-10 11:46:54
 
 <!-- TODAY END -->
 
