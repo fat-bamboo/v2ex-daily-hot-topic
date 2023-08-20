@@ -34,7 +34,7 @@
 1. [想请问一下各位， Wireguard IPv4 连接没问题，但是 IPv6 却遇到下面这样的情况怎么办？](https://www.v2ex.com/t/966797) `12条评论` `WireGuard`
 1. [挑战一下用丐中丐 M2 Mac mini 做主力机](https://www.v2ex.com/t/966895) `11条评论` `Apple`
 
-数据更新于 2023-08-20 20:56:49
+数据更新于 2023-08-20 21:11:49
 
 <!-- TODAY END -->
 
