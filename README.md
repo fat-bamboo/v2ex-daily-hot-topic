@@ -20,15 +20,16 @@
 1. [澳洲银行人民币存款利率很高？](https://www.v2ex.com/t/968600) `11条评论` `问与答`
 1. [挂一个令人恶心的 gpt 合租商，大家避雷](https://www.v2ex.com/t/968613) `10条评论` `OpenAI`
 1. [如果核污水十分有害，为什么驻日本大使馆没有组织在日华人撤侨呢？](https://www.v2ex.com/t/968617) `10条评论` `问与答`
+1. [有没有人深度体验过 JetBrains AI Assistant？](https://www.v2ex.com/t/968602) `9条评论` `问与答`
 1. [小白问一下甲骨文创建的实例为什么没有公共 IP](https://www.v2ex.com/t/968586) `9条评论` `问与答`
 1. [Mac mini 卡死除了重启还有解决方案吗](https://www.v2ex.com/t/968584) `9条评论` `Apple`
+1. [如何自动给看微信文章的人发一笔红包？](https://www.v2ex.com/t/968638) `8条评论` `程序员`
 1. [个人网站如何接入微信/支付宝支付？](https://www.v2ex.com/t/968604) `8条评论` `问与答`
-1. [有没有人深度体验过 JetBrains AI Assistant？](https://www.v2ex.com/t/968602) `7条评论` `问与答`
 1. [[20230827] cloudflare 疑似故障？](https://www.v2ex.com/t/968590) `7条评论` `程序员`
-1. [如何自动给看微信文章的人发一笔红包？](https://www.v2ex.com/t/968638) `6条评论` `程序员`
+1. [有付费的非官方的 chatgpt 的接口提供商建议吗？](https://www.v2ex.com/t/968629) `6条评论` `OpenAI`
 1. [奈飞 Netflix 拼车啦](https://www.v2ex.com/t/968588) `6条评论` `问与答`
 
-数据更新于 2023-08-27 07:36:15
+数据更新于 2023-08-27 07:46:27
 
 <!-- TODAY END -->
 
