@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `79条评论` `Apple`
-1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `78条评论` ` WATCH`
-1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `63条评论` `iPhone`
+1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `80条评论` ` WATCH`
+1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `80条评论` `Apple`
+1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `66条评论` `iPhone`
 1. [iPhone 15 512G 版本 仅售 8999 元，苹果怎么敢的？](https://www.v2ex.com/t/973284) `56条评论` `iPhone`
 1. [iPhone 15 系列让人失望之处👇](https://www.v2ex.com/t/973278) `42条评论` `iPhone`
 1. [有没有可能是苹果自己撤了热搜？](https://www.v2ex.com/t/973269) `34条评论` `Apple`
@@ -18,23 +18,23 @@
 1. [2023 年了， 6000 来块的手机还是 128g 起步，没有高刷和快充，苹果就这么容易收割？](https://www.v2ex.com/t/973254) `29条评论` `iPhone`
 1. [[ 2~3 折特价团购] 中秋团圆，少不了美酒相伴，盖楼赢奖品了伙伴们！](https://www.v2ex.com/t/973262) `27条评论` `推广`
 1. [12345 投诉吸烟被驳回, 原因是法律没有禁止写字楼吸烟.](https://www.v2ex.com/t/973263) `23条评论` `职场话题`
+1. [可能是 apple 被制裁 4 年](https://www.v2ex.com/t/973335) `22条评论` `iPhone`
 1. [探讨，人该如何面对无尽虚空中的孤独与恐惧](https://www.v2ex.com/t/973303) `22条评论` `随想`
-1. [可能是 apple 被制裁 4 年](https://www.v2ex.com/t/973335) `21条评论` `iPhone`
+1. [没有长焦的 15 为什么比 14 多了一个 2 倍光学变焦](https://www.v2ex.com/t/973332) `15条评论` `Apple`
 1. [有大佬么 请教一个 5G 问题](https://www.v2ex.com/t/973309) `14条评论` `宽带症候群`
 1. [苹果发布会是不是实在没啥可讲的了，自然之母都扯出来了](https://www.v2ex.com/t/973251) `13条评论` `Apple`
 1. [iPhone 15 发布了，毫无购买欲望。今年是环保元年，我继续用 12 mini 吧，这样更环保](https://www.v2ex.com/t/973249) `13条评论` `iPhone`
-1. [没有长焦的 15 为什么比 14 多了一个 2 倍光学变焦](https://www.v2ex.com/t/973332) `12条评论` `Apple`
+1. [刚看了一下，苹果发布会后，微博一条热搜都没有😹](https://www.v2ex.com/t/973351) `12条评论` `Apple`
 1. [虽然 15 Pro 给了 USB 3，但附带的线大概率只支持 USB 2](https://www.v2ex.com/t/973256) `12条评论` `iPhone`
 1. [碰掉了 2 个老 iPhone ，我这就是哑巴亏了嘛？](https://www.v2ex.com/t/973194) `12条评论` `Apple`
+1. [合作的客户到底想要什么？有些困惑，麻烦 V 友们给瞧瞧](https://www.v2ex.com/t/973343) `11条评论` `问与答`
+1. [默默的问一问，有人要试试我这个套壳 gpt 网站么···](https://www.v2ex.com/t/973323) `11条评论` `程序员`
+1. [定投基金这种事还值得做吗](https://www.v2ex.com/t/973320) `11条评论` `问与答`
 1. [iPhone 15 Pro Max 基带高通还是 intel，信号会不会好点](https://www.v2ex.com/t/973267) `11条评论` `Apple`
 1. [[30 枚 Shadowing English app 兑换码]](https://www.v2ex.com/t/973239) `10条评论` `Apple`
 1. [好奇一个问题，能否和我爸妈签借款协议](https://www.v2ex.com/t/973203) `10条评论` `问与答`
-1. [合作的客户到底想要什么？有些困惑，麻烦 V 友们给瞧瞧](https://www.v2ex.com/t/973343) `9条评论` `问与答`
-1. [买 Apple watch S8 还是 S9 ？](https://www.v2ex.com/t/973325) `8条评论` `Apple`
-1. [默默的问一问，有人要试试我这个套壳 gpt 网站么···](https://www.v2ex.com/t/973323) `8条评论` `程序员`
-1. [定投基金这种事还值得做吗](https://www.v2ex.com/t/973320) `8条评论` `问与答`
 
-数据更新于 2023-09-13 04:50:35
+数据更新于 2023-09-13 05:12:15
 
 <!-- TODAY END -->
 
