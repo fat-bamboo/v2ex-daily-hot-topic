@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `84条评论` `Apple`
-1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `82条评论` ` WATCH`
-1. [[ 2~3 折特价团购] 中秋团圆，少不了美酒相伴，盖楼赢奖品了伙伴们！](https://www.v2ex.com/t/973262) `69条评论` `推广`
-1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `67条评论` `iPhone`
+1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `89条评论` `Apple`
+1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `87条评论` ` WATCH`
+1. [[ 2~3 折特价团购] 中秋团圆，少不了美酒相伴，盖楼赢奖品了伙伴们！](https://www.v2ex.com/t/973262) `75条评论` `推广`
+1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `68条评论` `iPhone`
 1. [iPhone 15 512G 版本 仅售 8999 元，苹果怎么敢的？](https://www.v2ex.com/t/973284) `56条评论` `iPhone`
 1. [iPhone 15 系列让人失望之处👇](https://www.v2ex.com/t/973278) `42条评论` `iPhone`
-1. [可能是 apple 被制裁 4 年](https://www.v2ex.com/t/973335) `34条评论` `iPhone`
+1. [可能是 apple 被制裁 4 年](https://www.v2ex.com/t/973335) `38条评论` `iPhone`
 1. [有没有可能是苹果自己撤了热搜？](https://www.v2ex.com/t/973269) `34条评论` `Apple`
 1. [就连 Type-C 对老用户来说都不见得是升级啊...](https://www.v2ex.com/t/973294) `29条评论` `Apple`
 1. [2023 年了， 6000 来块的手机还是 128g 起步，没有高刷和快充，苹果就这么容易收割？](https://www.v2ex.com/t/973254) `29条评论` `iPhone`
@@ -34,7 +34,7 @@
 1. [[30 枚 Shadowing English app 兑换码]](https://www.v2ex.com/t/973239) `10条评论` `Apple`
 1. [好奇一个问题，能否和我爸妈签借款协议](https://www.v2ex.com/t/973203) `10条评论` `问与答`
 
-数据更新于 2023-09-13 05:48:33
+数据更新于 2023-09-13 05:58:51
 
 <!-- TODAY END -->
 
