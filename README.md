@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `58条评论` ` WATCH`
-1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `52条评论` `iPhone`
-1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `31条评论` `Apple`
+1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `65条评论` ` WATCH`
+1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `59条评论` `iPhone`
+1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `56条评论` `Apple`
+1. [有没有可能是苹果自己撤了热搜？](https://www.v2ex.com/t/973269) `31条评论` `Apple`
 1. [2023 年了， 6000 来块的手机还是 128g 起步，没有高刷和快充，苹果就这么容易收割？](https://www.v2ex.com/t/973254) `29条评论` `iPhone`
-1. [有没有可能是苹果自己撤了热搜？](https://www.v2ex.com/t/973269) `20条评论` `程序员`
-1. [12345 投诉吸烟被驳回, 原因是法律没有禁止写字楼吸烟.](https://www.v2ex.com/t/973263) `18条评论` `职场话题`
-1. [[ 2~3 折特价团购] 中秋团圆，少不了美酒相伴，盖楼赢奖品了伙伴们！](https://www.v2ex.com/t/973262) `14条评论` `推广`
-1. [iPhone 15 系列让人失望之处👇](https://www.v2ex.com/t/973278) `13条评论` `iPhone`
+1. [[ 2~3 折特价团购] 中秋团圆，少不了美酒相伴，盖楼赢奖品了伙伴们！](https://www.v2ex.com/t/973262) `27条评论` `推广`
+1. [12345 投诉吸烟被驳回, 原因是法律没有禁止写字楼吸烟.](https://www.v2ex.com/t/973263) `23条评论` `职场话题`
+1. [iPhone 15 512G 版本 仅售 8999 元，苹果怎么敢的？](https://www.v2ex.com/t/973284) `22条评论` `iPhone`
+1. [iPhone 15 系列让人失望之处👇](https://www.v2ex.com/t/973278) `22条评论` `iPhone`
 1. [苹果发布会是不是实在没啥可讲的了，自然之母都扯出来了](https://www.v2ex.com/t/973251) `13条评论` `Apple`
 1. [iPhone 15 发布了，毫无购买欲望。今年是环保元年，我继续用 12 mini 吧，这样更环保](https://www.v2ex.com/t/973249) `13条评论` `iPhone`
 1. [虽然 15 Pro 给了 USB 3，但附带的线大概率只支持 USB 2](https://www.v2ex.com/t/973256) `12条评论` `iPhone`
 1. [碰掉了 2 个老 iPhone ，我这就是哑巴亏了嘛？](https://www.v2ex.com/t/973194) `12条评论` `Apple`
-1. [iPhone 15 512G 版本 仅售 8999 元，苹果怎么敢的？](https://www.v2ex.com/t/973284) `11条评论` `iPhone`
-1. [iPhone 15 Pro Max 基带高通还是 intel，信号会不会好点](https://www.v2ex.com/t/973267) `10条评论` `Apple`
+1. [就连 Type-C 对老用户来说都不见得是升级啊...](https://www.v2ex.com/t/973294) `11条评论` `Apple`
+1. [iPhone 15 Pro Max 基带高通还是 intel，信号会不会好点](https://www.v2ex.com/t/973267) `11条评论` `Apple`
 1. [[30 枚 Shadowing English app 兑换码]](https://www.v2ex.com/t/973239) `10条评论` `Apple`
 1. [好奇一个问题，能否和我爸妈签借款协议](https://www.v2ex.com/t/973203) `10条评论` `问与答`
 1. [冷知识： UFS 4.0 没有 128GB 版本，所以 iPhone 的 128 版本是 UFS 3.1](https://www.v2ex.com/t/973291) `8条评论` `iPhone`
@@ -29,11 +30,11 @@
 1. [关于润去北欧](https://www.v2ex.com/t/973209) `8条评论` `问与答`
 1. [有没有好用的流量卡推荐](https://www.v2ex.com/t/973231) `7条评论` `NGINX`
 1. [iPhone 15 Pro/Max 依旧传统非常 6+6，最大的亮点居然是钛金属？](https://www.v2ex.com/t/973220) `7条评论` `iPhone`
+1. [探讨，人该如何面对无尽虚空中的孤独与恐惧](https://www.v2ex.com/t/973303) `6条评论` `随想`
 1. [推荐一部双卡双待的手机，并支持谷歌服务的手机？](https://www.v2ex.com/t/973222) `6条评论` `问与答`
 1. [澳洲生活成本？](https://www.v2ex.com/t/973201) `6条评论` `问与答`
-1. [关于 SpringBoot 并发处理的问题](https://www.v2ex.com/t/973197) `6条评论` `Java`
 
-数据更新于 2023-09-13 02:56:36
+数据更新于 2023-09-13 03:15:16
 
 <!-- TODAY END -->
 
