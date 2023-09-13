@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
+1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `71条评论` `Apple`
 1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214) `69条评论` ` WATCH`
-1. [为什么 iPhone 发布会从来不公布 ram？](https://www.v2ex.com/t/973242) `68条评论` `Apple`
 1. [关于 iPhone 15 Pro/Max，我只关心一点，运存是不是 8g](https://www.v2ex.com/t/973212) `61条评论` `iPhone`
-1. [iPhone 15 512G 版本 仅售 8999 元，苹果怎么敢的？](https://www.v2ex.com/t/973284) `45条评论` `iPhone`
+1. [iPhone 15 512G 版本 仅售 8999 元，苹果怎么敢的？](https://www.v2ex.com/t/973284) `56条评论` `iPhone`
 1. [iPhone 15 系列让人失望之处👇](https://www.v2ex.com/t/973278) `42条评论` `iPhone`
 1. [有没有可能是苹果自己撤了热搜？](https://www.v2ex.com/t/973269) `34条评论` `Apple`
 1. [2023 年了， 6000 来块的手机还是 128g 起步，没有高刷和快充，苹果就这么容易收割？](https://www.v2ex.com/t/973254) `29条评论` `iPhone`
 1. [[ 2~3 折特价团购] 中秋团圆，少不了美酒相伴，盖楼赢奖品了伙伴们！](https://www.v2ex.com/t/973262) `27条评论` `推广`
+1. [就连 Type-C 对老用户来说都不见得是升级啊...](https://www.v2ex.com/t/973294) `23条评论` `Apple`
 1. [12345 投诉吸烟被驳回, 原因是法律没有禁止写字楼吸烟.](https://www.v2ex.com/t/973263) `23条评论` `职场话题`
-1. [就连 Type-C 对老用户来说都不见得是升级啊...](https://www.v2ex.com/t/973294) `22条评论` `Apple`
-1. [探讨，人该如何面对无尽虚空中的孤独与恐惧](https://www.v2ex.com/t/973303) `19条评论` `随想`
+1. [探讨，人该如何面对无尽虚空中的孤独与恐惧](https://www.v2ex.com/t/973303) `21条评论` `随想`
 1. [苹果发布会是不是实在没啥可讲的了，自然之母都扯出来了](https://www.v2ex.com/t/973251) `13条评论` `Apple`
 1. [iPhone 15 发布了，毫无购买欲望。今年是环保元年，我继续用 12 mini 吧，这样更环保](https://www.v2ex.com/t/973249) `13条评论` `iPhone`
 1. [虽然 15 Pro 给了 USB 3，但附带的线大概率只支持 USB 2](https://www.v2ex.com/t/973256) `12条评论` `iPhone`
@@ -26,15 +26,15 @@
 1. [iPhone 15 Pro Max 基带高通还是 intel，信号会不会好点](https://www.v2ex.com/t/973267) `11条评论` `Apple`
 1. [[30 枚 Shadowing English app 兑换码]](https://www.v2ex.com/t/973239) `10条评论` `Apple`
 1. [好奇一个问题，能否和我爸妈签借款协议](https://www.v2ex.com/t/973203) `10条评论` `问与答`
+1. [有大佬么 请教一个 5G 问题](https://www.v2ex.com/t/973309) `9条评论` `宽带症候群`
 1. [冷知识： UFS 4.0 没有 128GB 版本，所以 iPhone 的 128 版本是 UFS 3.1](https://www.v2ex.com/t/973291) `8条评论` `iPhone`
 1. [港版比国行还贵…？](https://www.v2ex.com/t/973215) `8条评论` `Apple`
 1. [关于润去北欧](https://www.v2ex.com/t/973209) `8条评论` `问与答`
 1. [啥叫被害妄想证？](https://www.v2ex.com/t/973277) `7条评论` `Apple`
 1. [有没有好用的流量卡推荐](https://www.v2ex.com/t/973231) `7条评论` `NGINX`
 1. [iPhone 15 Pro/Max 依旧传统非常 6+6，最大的亮点居然是钛金属？](https://www.v2ex.com/t/973220) `7条评论` `iPhone`
-1. [升级到 macOS14，动态壁纸不动了...](https://www.v2ex.com/t/973298) `6条评论` `macOS`
 
-数据更新于 2023-09-13 03:36:08
+数据更新于 2023-09-13 03:46:27
 
 <!-- TODAY END -->
 
