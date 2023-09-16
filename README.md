@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `76条评论` `C++`
+1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `77条评论` `C++`
 1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `71条评论` `程序员`
-1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `69条评论` `分享创造`
-1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `56条评论` `职场话题`
+1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `71条评论` `分享创造`
+1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `58条评论` `职场话题`
 1. [有没有必要去马来西亚读个硕士？](https://www.v2ex.com/t/974389) `39条评论` `问与答`
 1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366) `35条评论` `程序员`
 1. [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405) `33条评论` `iPhone`
 1. [驾考还在北京没考完! 快要过期了 又是纠结](https://www.v2ex.com/t/974351) `30条评论` `北京`
-1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448) `23条评论` `问与答`
+1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448) `25条评论` `问与答`
 1. [请问下大家是继续留在北京还是回杭州](https://www.v2ex.com/t/974342) `23条评论` `职场话题`
 1. [适量饮用葡萄酒对身体究竟是利大于弊还是弊大于利](https://www.v2ex.com/t/974392) `21条评论` `问与答`
 1. [iPhone 15 发布了， iPhone 11 pro 还可以用几年呢？](https://www.v2ex.com/t/974418) `20条评论` `iPhone`
@@ -27,14 +27,14 @@
 1. [之前两个 offer 都是卡在了入职体检上， 5 年前端专科再来看看有没有坑位....](https://www.v2ex.com/t/974373) `14条评论` `职场话题`
 1. [看到某宽带回访未好评竟被泄露个人信息，想知道美团外卖匿名评价会不会泄露给店家](https://www.v2ex.com/t/974356) `14条评论` `互联网`
 1. [为啥腾讯云阿里云的带宽都这么小的？](https://www.v2ex.com/t/974332) `14条评论` `VPS`
+1. [域名邮箱问题](https://www.v2ex.com/t/974455) `13条评论` `问与答`
 1. [外区 Apple ID 踩坑 iCloud，给大家避避坑吧](https://www.v2ex.com/t/974399) `13条评论` `Apple`
 1. [更新 macOS Sonoma RC 后 iCloud 无法使用](https://www.v2ex.com/t/974386) `13条评论` `iCloud`
 1. [用了半年的 mac magsafe 充电器就接触不良了](https://www.v2ex.com/t/974371) `13条评论` `MacBook Pro`
-1. [域名邮箱问题](https://www.v2ex.com/t/974455) `12条评论` `问与答`
 1. [Java 大四上，不知道下一步该干啥了，简历如下](https://www.v2ex.com/t/974417) `12条评论` `求职`
 1. [下周打算去上海和杭州玩一圈，大家有啥推荐的地方？](https://www.v2ex.com/t/974379) `12条评论` `问与答`
 
-数据更新于 2023-09-16 14:56:51
+数据更新于 2023-09-16 15:13:44
 
 <!-- TODAY END -->
 
