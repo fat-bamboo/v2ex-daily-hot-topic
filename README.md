@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `84条评论` `C++`
-1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `82条评论` `分享创造`
+1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `83条评论` `分享创造`
 1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `75条评论` `程序员`
 1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `58条评论` `职场话题`
 1. [有没有必要去马来西亚读个硕士？](https://www.v2ex.com/t/974389) `43条评论` `问与答`
+1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448) `38条评论` `问与答`
 1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366) `37条评论` `程序员`
-1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448) `36条评论` `问与答`
 1. [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405) `34条评论` `iPhone`
 1. [驾考还在北京没考完! 快要过期了 又是纠结](https://www.v2ex.com/t/974351) `30条评论` `北京`
 1. [请问下大家是继续留在北京还是回杭州](https://www.v2ex.com/t/974342) `23条评论` `职场话题`
@@ -34,7 +34,7 @@
 1. [用了半年的 mac magsafe 充电器就接触不良了](https://www.v2ex.com/t/974371) `13条评论` `MacBook Pro`
 1. [一件事再次让我对身边亲近的人感到无奈](https://www.v2ex.com/t/974487) `12条评论` `问与答`
 
-数据更新于 2023-09-16 18:38:40
+数据更新于 2023-09-16 18:49:00
 
 <!-- TODAY END -->
 
