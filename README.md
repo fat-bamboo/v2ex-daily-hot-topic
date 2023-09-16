@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `73条评论` `C++`
+1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `74条评论` `C++`
 1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `67条评论` `程序员`
+1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `57条评论` `分享创造`
 1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `56条评论` `职场话题`
-1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `56条评论` `分享创造`
 1. [有没有必要去马来西亚读个硕士？](https://www.v2ex.com/t/974389) `32条评论` `问与答`
 1. [驾考还在北京没考完! 快要过期了 又是纠结](https://www.v2ex.com/t/974351) `30条评论` `北京`
 1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366) `26条评论` `程序员`
@@ -34,7 +34,7 @@
 1. [一个简易的不额外联网的图片打水印工具，可以给身份证等全局加水印](https://www.v2ex.com/t/974327) `12条评论` `程序员`
 1. [Java 大四上，不知道下一步该干啥了，简历如下](https://www.v2ex.com/t/974417) `11条评论` `求职`
 
-数据更新于 2023-09-16 12:46:47
+数据更新于 2023-09-16 12:58:34
 
 <!-- TODAY END -->
 
