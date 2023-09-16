@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `85条评论` `C++`
-1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `83条评论` `分享创造`
-1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `77条评论` `程序员`
+1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `84条评论` `分享创造`
+1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `79条评论` `程序员`
 1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `58条评论` `职场话题`
 1. [有没有必要去马来西亚读个硕士？](https://www.v2ex.com/t/974389) `46条评论` `问与答`
 1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366) `39条评论` `程序员`
@@ -34,7 +34,7 @@
 1. [外区 Apple ID 踩坑 iCloud，给大家避避坑吧](https://www.v2ex.com/t/974399) `13条评论` `Apple`
 1. [更新 macOS Sonoma RC 后 iCloud 无法使用](https://www.v2ex.com/t/974386) `13条评论` `iCloud`
 
-数据更新于 2023-09-16 22:27:53
+数据更新于 2023-09-16 22:38:22
 
 <!-- TODAY END -->
 
