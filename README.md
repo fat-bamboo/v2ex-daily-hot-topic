@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `50条评论` `程序员`
-1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `34条评论` `职场话题`
+1. [请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361) `51条评论` `程序员`
+1. [我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340) `35条评论` `职场话题`
 1. [fsantinize 弱智](https://www.v2ex.com/t/974343) `25条评论` `C++`
+1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366) `24条评论` `程序员`
 1. [驾考还在北京没考完! 快要过期了 又是纠结](https://www.v2ex.com/t/974351) `24条评论` `北京`
-1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366) `23条评论` `程序员`
 1. [请问下大家是继续留在北京还是回杭州](https://www.v2ex.com/t/974342) `23条评论` `职场话题`
 1. [为啥沸羊羊那么多？](https://www.v2ex.com/t/974362) `20条评论` `然而并没有`
 1. [198.18.0.2 是什么？](https://www.v2ex.com/t/974350) `20条评论` `程序员`
@@ -22,19 +22,19 @@
 1. [之前两个 offer 都是卡在了入职体检上， 5 年前端专科再来看看有没有坑位....](https://www.v2ex.com/t/974373) `14条评论` `职场话题`
 1. [看到某宽带回访未好评竟被泄露个人信息，想知道美团外卖匿名评价会不会泄露给店家](https://www.v2ex.com/t/974356) `14条评论` `互联网`
 1. [为啥腾讯云阿里云的带宽都这么小的？](https://www.v2ex.com/t/974332) `14条评论` `VPS`
-1. [更新 macOS Sonoma RC 后 iCloud 无法使用](https://www.v2ex.com/t/974386) `12条评论` `iCloud`
+1. [更新 macOS Sonoma RC 后 iCloud 无法使用](https://www.v2ex.com/t/974386) `13条评论` `iCloud`
+1. [适量饮用葡萄酒对身体究竟是利大于弊还是弊大于利](https://www.v2ex.com/t/974392) `12条评论` `问与答`
 1. [一个简易的不额外联网的图片打水印工具，可以给身份证等全局加水印](https://www.v2ex.com/t/974327) `12条评论` `程序员`
-1. [适量饮用葡萄酒对身体究竟是利大于弊还是弊大于利](https://www.v2ex.com/t/974392) `11条评论` `问与答`
 1. [用了半年的 mac magsafe 充电器就接触不良了](https://www.v2ex.com/t/974371) `11条评论` `MacBook Pro`
 1. [经常误触 iPhone 锁屏界面手电筒和相机](https://www.v2ex.com/t/974363) `11条评论` `iPhone`
 1. [下周打算去上海和杭州玩一圈，大家有啥推荐的地方？](https://www.v2ex.com/t/974379) `10条评论` `问与答`
 1. [腱鞘炎 鼠标手 程序员职业病 求推荐一款加热手套](https://www.v2ex.com/t/974376) `10条评论` `程序员`
 1. [macOS 上能够绿色安装 postgresql 吗？](https://www.v2ex.com/t/974349) `10条评论` `PostgreSQL`
 1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403) `9条评论` `分享创造`
+1. [Mac 新手入门](https://www.v2ex.com/t/974370) `8条评论` `macOS`
 1. [iPhone 15 系列 USB-C 充电线，还有认证吗？](https://www.v2ex.com/t/974368) `8条评论` `iPhone`
-1. [Mac 新手入门](https://www.v2ex.com/t/974370) `7条评论` `macOS`
 
-数据更新于 2023-09-16 08:28:00
+数据更新于 2023-09-16 08:38:32
 
 <!-- TODAY END -->
 
