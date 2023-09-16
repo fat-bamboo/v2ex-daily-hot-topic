@@ -34,7 +34,7 @@
 1. [更新 macOS Sonoma RC 后 iCloud 无法使用](https://www.v2ex.com/t/974386) `13条评论` `iCloud`
 1. [用了半年的 mac magsafe 充电器就接触不良了](https://www.v2ex.com/t/974371) `13条评论` `MacBook Pro`
 
-数据更新于 2023-09-16 19:25:43
+数据更新于 2023-09-16 19:36:13
 
 <!-- TODAY END -->
 
