@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [各位，如果让你推荐 3 本书，你会推荐哪 3 本啊](https://www.v2ex.com/t/974506) `26条评论` `分享发现`
+1. [我用以下方法证明了 如果用 homebrew 装软件，就卸载不干净了？](https://www.v2ex.com/t/974517) `11条评论` `程序员`
 1. [求问 infuse 动漫命名](https://www.v2ex.com/t/974507) `10条评论` `Apple`
-1. [我用以下方法证明了 如果用 homebrew 装软件，就卸载不干净了？](https://www.v2ex.com/t/974517) `9条评论` `程序员`
-1. [iPhone 15 买什么壳，介绍一下买壳经验](https://www.v2ex.com/t/974514) `7条评论` `iPhone`
+1. [iPhone 15 买什么壳，介绍一下买壳经验](https://www.v2ex.com/t/974514) `8条评论` `iPhone`
 1. [你们收到了国区 iCloud 条款推送了吗？](https://www.v2ex.com/t/974512) `6条评论` `iCloud`
 
-数据更新于 2023-09-17 02:26:30
+数据更新于 2023-09-17 02:36:49
 
 <!-- TODAY END -->
 
