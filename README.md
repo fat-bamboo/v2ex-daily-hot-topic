@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [做程序员好多年了，一直有个疑问，几乎没有一个程序或者功能是完全一次性写完不修 bug 的](https://www.v2ex.com/t/975722) `84条评论` `程序员`
-1. [深圳 3000 额度的银行卡？ 金融管控已经开始把手探到招行了吗？](https://www.v2ex.com/t/975758) `57条评论` `分享发现`
+1. [深圳 3000 额度的银行卡？ 金融管控已经开始把手探到招行了吗？](https://www.v2ex.com/t/975758) `60条评论` `分享发现`
 1. [请教怎么避免让老人家看直播](https://www.v2ex.com/t/975750) `33条评论` `问与答`
+1. [求 postman 的替代品， Windows 系统](https://www.v2ex.com/t/975795) `31条评论` `程序员`
 1. [屠龙者最终成为龙！](https://www.v2ex.com/t/975766) `31条评论` `分享发现`
-1. [求 postman 的替代品， Windows 系统](https://www.v2ex.com/t/975795) `30条评论` `程序员`
 1. [没人喜欢 15pm 的蓝色吗](https://www.v2ex.com/t/975783) `26条评论` `Apple`
 1. [如果拿到了一线城市的户口，你还会离开这个城市么？](https://www.v2ex.com/t/975808) `25条评论` `生活`
 1. [[iOS] [自制][免费] CamX - 让 iPad 变成多功能便携屏](https://www.v2ex.com/t/975726) `24条评论` `Apple`
@@ -21,7 +21,7 @@
 1. [大量操作 dict 内元素时有什么能省略 dict 名字的语法糖？](https://www.v2ex.com/t/975773) `18条评论` `Python`
 1. [请教当前环境下能否在深圳购买人才房?](https://www.v2ex.com/t/975775) `17条评论` `问与答`
 1. [截屏工具一直在用 snipaste 有没有更好用的？](https://www.v2ex.com/t/975745) `17条评论` `问与答`
-1. [Bartender5 上架了，非免费升级](https://www.v2ex.com/t/975799) `15条评论` `macOS`
+1. [Bartender5 上架了，非免费升级](https://www.v2ex.com/t/975799) `16条评论` `macOS`
 1. [360 安全卫士已经开始封锁 V 站了](https://www.v2ex.com/t/975771) `13条评论` `分享发现`
 1. [新能源车的刹车灯到底是制动的信号灯还是刹车踏板的信号灯](https://www.v2ex.com/t/975731) `13条评论` `汽车`
 1. [就最近新闻网易员工事件，我们打工人如何防止职场 PUA](https://www.v2ex.com/t/975776) `12条评论` `程序员`
@@ -30,11 +30,11 @@
 1. [iphone14Pro 更新 iOS17 后掉电巨快](https://www.v2ex.com/t/975792) `10条评论` `iPhone`
 1. [会折腾安卓的能不能鄙视下只能用苹果的](https://www.v2ex.com/t/975800) `10条评论` `问与答`
 1. [Edge 突然变模糊，不可用](https://www.v2ex.com/t/975742) `10条评论` `Windows`
+1. [infuse 怎么不能匹配大明王朝 1566](https://www.v2ex.com/t/975819) `9条评论` `Apple TV`
 1. [自建 headscale 的一些问题](https://www.v2ex.com/t/975765) `8条评论` `宽带症候群`
 1. [社交平台上发布脱单贴前的一些疑问求解](https://www.v2ex.com/t/975762) `8条评论` `问与答`
-1. [iphone14pro 快一年了，打王者还是不能稳定帧率？](https://www.v2ex.com/t/975739) `8条评论` `Apple`
 
-数据更新于 2023-09-21 04:29:54
+数据更新于 2023-09-21 04:40:29
 
 <!-- TODAY END -->
 
