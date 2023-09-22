@@ -13,7 +13,7 @@
 1. [老婆法考通过，恰逢纪念日，送智能手表 V 友有推荐不？](https://www.v2ex.com/t/976067) `86条评论` `问与答`
 1. [[送码 永久会员] 开发了一个 Todo List，看看是不是你想要的吧。](https://www.v2ex.com/t/976150) `83条评论` `分享创造`
 1. [已经下定特斯拉 Y，但看到问界新 M5 的智能驾驶，我被震惊了](https://www.v2ex.com/t/976164) `83条评论` `电动汽车`
-1. [Redmi k40(Poco F3),一代神機](https://www.v2ex.com/t/976074) `79条评论` `Android`
+1. [Redmi k40(Poco F3),一代神機](https://www.v2ex.com/t/976074) `81条评论` `Android`
 1. [你们咋那么喜欢阿三的 iPhone 呢？](https://www.v2ex.com/t/976106) `47条评论` `Apple`
 1. [iPhone 15 pro Type-C 问题记录](https://www.v2ex.com/t/976233) `31条评论` `Apple`
 1. [第一次当黄牛，别喷我。](https://www.v2ex.com/t/976124) `31条评论` `iPhone`
@@ -34,7 +34,7 @@
 1. [弟弟今年上大学，准备送他一台笔记本电脑，求推荐](https://www.v2ex.com/t/976199) `18条评论` `问与答`
 1. [相约十年， 2023 大闸蟹已上市，欢迎新老 V 友尝鲜](https://www.v2ex.com/t/976071) `18条评论` `推广`
 
-数据更新于 2023-09-22 10:45:41
+数据更新于 2023-09-22 10:55:59
 
 <!-- TODAY END -->
 
