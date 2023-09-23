@@ -12,8 +12,8 @@
 1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `62条评论` `深圳`
 1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `59条评论` `微信`
 1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `57条评论` `Linux`
-1. [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496) `55条评论` `分享创造`
-1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `51条评论` `Apple`
+1. [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496) `57条评论` `分享创造`
+1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `52条评论` `Apple`
 1. [想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415) `44条评论` `程序员`
 1. [准备换安卓，请问有没有类似苹果 find 的功能](https://www.v2ex.com/t/976422) `44条评论` `Android`
 1. [招行银行卡储蓄卡被限额 3000 后续：柜台办理卡恢复 2 万额度](https://www.v2ex.com/t/976399) `38条评论` `分享发现`
@@ -34,7 +34,7 @@
 1. [从 Play Store 安装的 Dingtalk 无法登录中国钉钉账号](https://www.v2ex.com/t/976409) `13条评论` `App Store`
 1. [除了套 cf，还有别的加速网站速度的办法吗？](https://www.v2ex.com/t/976548) `12条评论` `程序员`
 
-数据更新于 2023-09-23 19:56:56
+数据更新于 2023-09-23 20:14:18
 
 <!-- TODAY END -->
 
