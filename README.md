@@ -11,7 +11,7 @@
 1. [这次 iPhone 新手机是真劝退，已经打算退货了](https://www.v2ex.com/t/976388) `89条评论` `Apple`
 1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `65条评论` `深圳`
 1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `59条评论` `微信`
-1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `58条评论` `Linux`
+1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `59条评论` `Linux`
 1. [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496) `57条评论` `分享创造`
 1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `52条评论` `Apple`
 1. [想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415) `44条评论` `程序员`
@@ -26,15 +26,15 @@
 1. [百元价位在意隐私 NAS 有什么选择](https://www.v2ex.com/t/976521) `17条评论` `NAS`
 1. [妈妈被网络毒瘤洗脑了。。劝不动，怎么办。。。](https://www.v2ex.com/t/976511) `17条评论` `问与答`
 1. [有没有快捷指令能够实现返回到上层的功能， 15pro 对我来说太大了](https://www.v2ex.com/t/976381) `16条评论` `Apple`
+1. [rm -rf * 前一定一定要看清当前目录](https://www.v2ex.com/t/976554) `15条评论` `Linux`
 1. [有没有什么软件能监控软件安装时所有文件的去向？](https://www.v2ex.com/t/976531) `15条评论` `问与答`
-1. [rm -rf * 前一定一定要看清当前目录](https://www.v2ex.com/t/976554) `14条评论` `Linux`
 1. [在校大学生求 Java 后端以后学习路线](https://www.v2ex.com/t/976519) `14条评论` `问与答`
 1. [今天周六公司年会，发了个 1.6g 的足金小饰品](https://www.v2ex.com/t/976418) `14条评论` `职场话题`
 1. [微信后台截图上传事件求验证](https://www.v2ex.com/t/976413) `13条评论` `iOS`
 1. [从 Play Store 安装的 Dingtalk 无法登录中国钉钉账号](https://www.v2ex.com/t/976409) `13条评论` `App Store`
 1. [除了套 cf，还有别的加速网站速度的办法吗？](https://www.v2ex.com/t/976548) `12条评论` `程序员`
 
-数据更新于 2023-09-23 22:57:48
+数据更新于 2023-09-23 23:15:28
 
 <!-- TODAY END -->
 
