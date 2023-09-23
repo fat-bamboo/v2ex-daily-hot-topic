@@ -10,14 +10,14 @@
 
 1. [这次 iPhone 新手机是真劝退，已经打算退货了](https://www.v2ex.com/t/976388) `89条评论` `Apple`
 1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `60条评论` `深圳`
-1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `57条评论` `微信`
+1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `58条评论` `微信`
 1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `56条评论` `Linux`
 1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `48条评论` `Apple`
-1. [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496) `46条评论` `分享创造`
+1. [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496) `47条评论` `分享创造`
 1. [想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415) `44条评论` `程序员`
 1. [准备换安卓，请问有没有类似苹果 find 的功能](https://www.v2ex.com/t/976422) `43条评论` `Android`
 1. [招行银行卡储蓄卡被限额 3000 后续：柜台办理卡恢复 2 万额度](https://www.v2ex.com/t/976399) `38条评论` `分享发现`
-1. [给迁移 iOS 备份到新手机的网友的一些建议](https://www.v2ex.com/t/976408) `36条评论` `Apple`
+1. [给迁移 iOS 备份到新手机的网友的一些建议](https://www.v2ex.com/t/976408) `37条评论` `Apple`
 1. [iPhone15pro 好像给严重晕 3d 的人一条玩 3a 的活路](https://www.v2ex.com/t/976460) `24条评论` `Apple`
 1. [在 MacOS 上，都用过哪些网络代理（翻墙）软件？目前在用哪个？ ClashX, Clash For Windows, Surge, QuanX, Shodowrocket, 软路由......](https://www.v2ex.com/t/976481) `22条评论` `macOS`
 1. [今天去苹果直营店摸了一下 iPhone 15 系列，苹果的质感今年拉爆了](https://www.v2ex.com/t/976539) `19条评论` `Apple`
@@ -34,7 +34,7 @@
 1. [请求关于下载机的建议](https://www.v2ex.com/t/976500) `12条评论` `硬件`
 1. [腾讯云轻量服务器三周年活动直播，新老用户折扣、周边](https://www.v2ex.com/t/976487) `12条评论` `云计算`
 
-数据更新于 2023-09-23 17:36:20
+数据更新于 2023-09-23 17:46:35
 
 <!-- TODAY END -->
 
