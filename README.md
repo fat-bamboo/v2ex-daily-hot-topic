@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [这次 iPhone 新手机是真劝退，已经打算退货了](https://www.v2ex.com/t/976388) `89条评论` `Apple`
-1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `48条评论` `微信`
+1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `49条评论` `微信`
 1. [准备换安卓，请问有没有类似苹果 find 的功能](https://www.v2ex.com/t/976422) `38条评论` `Android`
-1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `31条评论` `Apple`
+1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `32条评论` `Apple`
 1. [想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415) `30条评论` `程序员`
 1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `22条评论` `Linux`
+1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `20条评论` `深圳`
 1. [给迁移 iOS 备份到新手机的网友的一些建议](https://www.v2ex.com/t/976408) `20条评论` `Apple`
-1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `19条评论` `深圳`
 1. [为什么一些厂商做不到付款排队发货，而是一定要搞抢购？](https://www.v2ex.com/t/976444) `19条评论` `iPhone`
 1. [iPhone15pro 好像给严重晕 3d 的人一条玩 3a 的活路](https://www.v2ex.com/t/976460) `17条评论` `Apple`
 1. [有没有快捷指令能够实现返回到上层的功能， 15pro 对我来说太大了](https://www.v2ex.com/t/976381) `16条评论` `Apple`
@@ -34,7 +34,7 @@
 1. [在 MacOS 上，都用过哪些网络代理（翻墙）软件？目前在用哪个？ ClashX, Clash For Windows, Surge, QuanX, Shodowrocket, 软路由......](https://www.v2ex.com/t/976481) `6条评论` `macOS`
 1. [发现这个 USB-C 3.0 还真有点用不起， iPhone15Pro 支持雷雳 3 雷雳 4 吗？](https://www.v2ex.com/t/976425) `6条评论` `问与答`
 
-数据更新于 2023-09-23 09:15:49
+数据更新于 2023-09-23 09:26:02
 
 <!-- TODAY END -->
 
