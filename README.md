@@ -8,24 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [这次 iPhone 新手机是真劝退，已经打算退货了](https://www.v2ex.com/t/976388) `88条评论` `Apple`
-1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `44条评论` `微信`
+1. [这次 iPhone 新手机是真劝退，已经打算退货了](https://www.v2ex.com/t/976388) `89条评论` `Apple`
+1. [iOS 版本的微信会在后台自动截图的事儿没人关心？](https://www.v2ex.com/t/976391) `45条评论` `微信`
 1. [准备换安卓，请问有没有类似苹果 find 的功能](https://www.v2ex.com/t/976422) `37条评论` `Android`
-1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `27条评论` `Apple`
+1. [为啥买 iPhone15 pro 的要远高于 iphone15 的？](https://www.v2ex.com/t/976453) `28条评论` `Apple`
 1. [想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415) `24条评论` `程序员`
 1. [给迁移 iOS 备份到新手机的网友的一些建议](https://www.v2ex.com/t/976408) `20条评论` `Apple`
-1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `17条评论` `深圳`
-1. [为什么一些厂商做不到付款排队发货，而是一定要搞抢购？](https://www.v2ex.com/t/976444) `16条评论` `iPhone`
+1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `18条评论` `深圳`
+1. [为什么一些厂商做不到付款排队发货，而是一定要搞抢购？](https://www.v2ex.com/t/976444) `17条评论` `iPhone`
 1. [有没有快捷指令能够实现返回到上层的功能， 15pro 对我来说太大了](https://www.v2ex.com/t/976381) `16条评论` `Apple`
 1. [今天周六公司年会，发了个 1.6g 的足金小饰品](https://www.v2ex.com/t/976418) `14条评论` `职场话题`
 1. [微信后台截图上传事件求验证](https://www.v2ex.com/t/976413) `13条评论` `iOS`
 1. [从 Play Store 安装的 Dingtalk 无法登录中国钉钉账号](https://www.v2ex.com/t/976409) `13条评论` `App Store`
+1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `12条评论` `Linux`
 1. [招行银行卡储蓄卡被限额 3000 后续：柜台办理卡恢复 2 万额度](https://www.v2ex.com/t/976399) `12条评论` `分享发现`
-1. [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473) `11条评论` `Linux`
-1. [帮忙看看为啥桥接降速](https://www.v2ex.com/t/976461) `10条评论` `宽带症候群`
+1. [帮忙看看为啥桥接降速](https://www.v2ex.com/t/976461) `11条评论` `宽带症候群`
+1. [交换机的 hw-offloading 和 NAT hw-offloading 重要吗](https://www.v2ex.com/t/976438) `10条评论` `宽带症候群`
 1. [用什么软件可以把本地文件夹和一个移动硬盘文件夹同步，且一旦同步，在双方都保留历史版本记录？](https://www.v2ex.com/t/976429) `10条评论` `程序员`
 1. [iPhone15pro 好像给严重晕 3d 的人一条玩 3a 的活路](https://www.v2ex.com/t/976460) `9条评论` `Apple`
-1. [交换机的 hw-offloading 和 NAT hw-offloading 重要吗](https://www.v2ex.com/t/976438) `9条评论` `宽带症候群`
 1. [旧手机迁移 15pro 一直在匹配中](https://www.v2ex.com/t/976468) `8条评论` `Apple`
 1. [一年两度的 App Store 微信九?折活动开了](https://www.v2ex.com/t/976433) `8条评论` `优惠信息`
 1. [如何评价 Cocos 开发者王哲称「Godot 买水军在 GitHub 刷 star」？](https://www.v2ex.com/t/976405) `8条评论` `cocos2d`
@@ -34,7 +34,7 @@
 1. [发现这个 USB-C 3.0 还真有点用不起， iPhone15Pro 支持雷雳 3 雷雳 4 吗？](https://www.v2ex.com/t/976425) `6条评论` `问与答`
 1. [AirPods 调到极低音量时没有声音](https://www.v2ex.com/t/976410) `6条评论` `iPhone`
 
-数据更新于 2023-09-23 08:17:24
+数据更新于 2023-09-23 08:27:40
 
 <!-- TODAY END -->
 
