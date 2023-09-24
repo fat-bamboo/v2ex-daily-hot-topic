@@ -34,7 +34,7 @@
 1. [现在买 iPad mini 6？](https://www.v2ex.com/t/976671) `14条评论` `Apple`
 1. [iPhone 15 Pro Max vs 14 Pro Max / 13 Pro Max 续航测试](https://www.v2ex.com/t/976640) `14条评论` `Apple`
 
-数据更新于 2023-09-24 19:26:00
+数据更新于 2023-09-24 19:36:17
 
 <!-- TODAY END -->
 
