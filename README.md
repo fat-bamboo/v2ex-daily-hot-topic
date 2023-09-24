@@ -22,7 +22,7 @@
 1. [这 action button 为啥不放到音量键下面](https://www.v2ex.com/t/976607) `15条评论` `Apple`
 1. [现在买 iPad mini 6？](https://www.v2ex.com/t/976671) `14条评论` `Apple`
 1. [iPhone 15 Pro Max vs 14 Pro Max / 13 Pro Max 续航测试](https://www.v2ex.com/t/976640) `14条评论` `Apple`
-1. [坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691) `12条评论` `程序员`
+1. [坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691) `13条评论` `程序员`
 1. [拜师！](https://www.v2ex.com/t/976685) `12条评论` `程序员`
 1. [65W 氮化镓头子能充小容量设备吗?](https://www.v2ex.com/t/976646) `11条评论` `问与答`
 1. [已关闭充电优化， iPhone 15 pro 充电只能到 80％+](https://www.v2ex.com/t/976631) `11条评论` `iPhone`
@@ -34,7 +34,7 @@
 1. [帮朋友买的 iPhone 15 Pro 屏幕出现条纹带](https://www.v2ex.com/t/976610) `9条评论` `Apple`
 1. [大量的双向引用会不会有问题, 有没有什么办法可以解耦双向引用?](https://www.v2ex.com/t/976683) `8条评论` `程序员`
 
-数据更新于 2023-09-24 10:48:37
+数据更新于 2023-09-24 10:58:54
 
 <!-- TODAY END -->
 
