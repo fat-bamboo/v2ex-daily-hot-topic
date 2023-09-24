@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [未获得原作者许可，翻译了国外软件的文档，是否可以用“版权”阻止他人“盗用”已翻译的文档？](https://www.v2ex.com/t/976625) `53条评论` `问与答`
-1. [翻墙访问国际互联网打工被处罚百万](https://www.v2ex.com/t/976670) `52条评论` `问与答`
+1. [翻墙访问国际互联网打工被处罚百万](https://www.v2ex.com/t/976670) `56条评论` `问与答`
+1. [未获得原作者许可，翻译了国外软件的文档，是否可以用“版权”阻止他人“盗用”已翻译的文档？](https://www.v2ex.com/t/976625) `54条评论` `问与答`
 1. [大家如何看待研究生自杀？是自杀者自身问题还是外界因素占多？](https://www.v2ex.com/t/976632) `43条评论` `问与答`
 1. [语言表达能力退化严重，大家伙有这种症状吗？](https://www.v2ex.com/t/976621) `33条评论` `职场话题`
 1. [iPhone 12 缝缝补补又一年，求推荐一款充电宝](https://www.v2ex.com/t/976599) `20条评论` `Apple`
@@ -22,9 +22,9 @@
 1. [iPhone 15 Pro Max vs 14 Pro Max / 13 Pro Max 续航测试](https://www.v2ex.com/t/976640) `14条评论` `Apple`
 1. [65W 氮化镓头子能充小容量设备吗?](https://www.v2ex.com/t/976646) `11条评论` `问与答`
 1. [已关闭充电优化， iPhone 15 pro 充电只能到 80％+](https://www.v2ex.com/t/976631) `11条评论` `iPhone`
+1. [iPhone 15 Pro/Pro Max 用户来分享一下 action button 的用法吧](https://www.v2ex.com/t/976669) `10条评论` `iPhone`
 1. [家装 AC+AP，怎样优雅地使用 UU 加速器？](https://www.v2ex.com/t/976617) `10条评论` `宽带症候群`
 1. [帮朋友买的 iPhone 15 Pro 屏幕出现条纹带](https://www.v2ex.com/t/976610) `9条评论` `Apple`
-1. [iPhone 15 Pro/Pro Max 用户来分享一下 action button 的用法吧](https://www.v2ex.com/t/976669) `8条评论` `iPhone`
 1. [玩瓦的兄弟们，推荐个美服加速器呗](https://www.v2ex.com/t/976645) `8条评论` `问与答`
 1. [IOS 17 提醒事项失效，不弹窗](https://www.v2ex.com/t/976604) `8条评论` `iOS`
 1. [128g 的 15pro 支持 4k 60 ProRes 吗（外接硬盘）](https://www.v2ex.com/t/976600) `8条评论` `Apple`
@@ -34,7 +34,7 @@
 1. [拜师！](https://www.v2ex.com/t/976685) `6条评论` `程序员`
 1. [过时的老旧 iPhone 出故障现在要如何维修？](https://www.v2ex.com/t/976665) `6条评论` `iPhone`
 
-数据更新于 2023-09-24 08:17:38
+数据更新于 2023-09-24 08:28:11
 
 <!-- TODAY END -->
 
