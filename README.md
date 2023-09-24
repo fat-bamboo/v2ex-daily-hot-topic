@@ -11,9 +11,9 @@
 1. [翻墙访问国际互联网打工被处罚百万](https://www.v2ex.com/t/976670) `65条评论` `问与答`
 1. [语言表达能力退化严重，大家伙有这种症状吗？](https://www.v2ex.com/t/976621) `56条评论` `职场话题`
 1. [未获得原作者许可，翻译了国外软件的文档，是否可以用“版权”阻止他人“盗用”已翻译的文档？](https://www.v2ex.com/t/976625) `54条评论` `问与答`
+1. [能合法上外网的专线是什么样的？](https://www.v2ex.com/t/976763) `47条评论` `宽带症候群`
 1. [除了 rm 之外就没有其他更安全的删除文件的方法吗？比如遇到删除系统核心的目录直接报错，或者提示没有权限，或者给强提醒，或者给个后悔药啥的。](https://www.v2ex.com/t/976664) `46条评论` `程序员`
 1. [惊呼！不能再匿名发帖](https://www.v2ex.com/t/976653) `46条评论` `知乎`
-1. [能合法上外网的专线是什么样的？](https://www.v2ex.com/t/976763) `45条评论` `宽带症候群`
 1. [大家如何看待研究生自杀？是自杀者自身问题还是外界因素占多？](https://www.v2ex.com/t/976632) `43条评论` `问与答`
 1. [坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691) `38条评论` `程序员`
 1. [已经确认淘宝正在刻意访问用户全部图库](https://www.v2ex.com/t/976743) `38条评论` `Android`
@@ -26,7 +26,7 @@
 1. [问一下，苹果官方支持仅回收而不买东西吗](https://www.v2ex.com/t/976709) `18条评论` `Apple`
 1. [设备局域网内访问问题，熬夜五天依旧无解，求解惑](https://www.v2ex.com/t/976697) `17条评论` `程序员`
 1. [奋斗与卷为啥变味了呢？](https://www.v2ex.com/t/976649) `17条评论` `问与答`
-1. [国行 iPhone 15 Pro Max 购买美区 AppleCare+失败](https://www.v2ex.com/t/976760) `15条评论` `Apple`
+1. [国行 iPhone 15 Pro Max 购买美区 AppleCare+失败](https://www.v2ex.com/t/976760) `16条评论` `Apple`
 1. [iPhone 15 Pro/Pro Max 用户来分享一下 action button 的用法吧](https://www.v2ex.com/t/976669) `15条评论` `iPhone`
 1. [出海赚钱翻译是第一步， I18n Studio 发布了](https://www.v2ex.com/t/976619) `15条评论` `分享创造`
 1. [这 action button 为啥不放到音量键下面](https://www.v2ex.com/t/976607) `15条评论` `Apple`
@@ -34,7 +34,7 @@
 1. [现在买 iPad mini 6？](https://www.v2ex.com/t/976671) `14条评论` `Apple`
 1. [iPhone 15 Pro Max vs 14 Pro Max / 13 Pro Max 续航测试](https://www.v2ex.com/t/976640) `14条评论` `Apple`
 
-数据更新于 2023-09-24 18:38:48
+数据更新于 2023-09-24 18:49:03
 
 <!-- TODAY END -->
 
