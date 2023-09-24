@@ -9,8 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [iPhone 12 缝缝补补又一年，求推荐一款充电宝](https://www.v2ex.com/t/976599) `16条评论` `Apple`
+1. [IOS 17 提醒事项失效，不弹窗](https://www.v2ex.com/t/976604) `7条评论` `iOS`
+1. [128g 的 15pro 支持 4k 60 ProRes 吗（外接硬盘）](https://www.v2ex.com/t/976600) `6条评论` `Apple`
 
-数据更新于 2023-09-24 02:47:05
+数据更新于 2023-09-24 02:57:22
 
 <!-- TODAY END -->
 
