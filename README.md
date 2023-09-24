@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+空空如也
+
+数据更新于 2023-09-24 01:12:16
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [这次 iPhone 新手机是真劝退，已经打算退货了](https://www.v2ex.com/t/976388) `89条评论` `Apple`
 1. [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456) `66条评论` `深圳`
 1. [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496) `60条评论` `分享创造`
@@ -33,40 +43,6 @@
 1. [微信后台截图上传事件求验证](https://www.v2ex.com/t/976413) `13条评论` `iOS`
 1. [从 Play Store 安装的 Dingtalk 无法登录中国钉钉账号](https://www.v2ex.com/t/976409) `13条评论` `App Store`
 1. [除了套 cf，还有别的加速网站速度的办法吗？](https://www.v2ex.com/t/976548) `12条评论` `程序员`
-
-数据更新于 2023-09-23 23:56:50
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [Redmi k40(Poco F3),一代神機](https://www.v2ex.com/t/976074) `107条评论` `Android`
-1. [纠结买不买电视](https://www.v2ex.com/t/976133) `100条评论` `装修`
-1. [[送码 永久会员] 开发了一个 Todo List，看看是不是你想要的吧。](https://www.v2ex.com/t/976150) `89条评论` `分享创造`
-1. [老婆法考通过，恰逢纪念日，送智能手表 V 友有推荐不？](https://www.v2ex.com/t/976067) `89条评论` `问与答`
-1. [如何一句话证明你在公司最底层?](https://www.v2ex.com/t/976183) `87条评论` `程序员`
-1. [一个外包同事，插入 200 条数据，调用了四万次人员查询接口](https://www.v2ex.com/t/976149) `83条评论` `程序员`
-1. [已经下定特斯拉 Y，但看到问界新 M5 的智能驾驶，我被震惊了](https://www.v2ex.com/t/976164) `83条评论` `电动汽车`
-1. [Mac 上的 Clash for Windows 日常占用内存四五百 MB，这正常吗？](https://www.v2ex.com/t/976075) `72条评论` `macOS`
-1. [发工资了， 3000 以下的手机，要求有 Google 框架，其他没什么要求，求推荐，硬性标准就 3000，超一点都不行](https://www.v2ex.com/t/976063) `70条评论` `问与答`
-1. [你们咋那么喜欢阿三的 iPhone 呢？](https://www.v2ex.com/t/976106) `47条评论` `Apple`
-1. [苹果直营店好多导数据等了 10 小时都没成功，才 700GB 数据不停地失败，预估时间 8 小时，关门都导不成功](https://www.v2ex.com/t/976305) `41条评论` `Apple`
-1. [发现苹果直营店员工故意不穿制服加价 1500 卖给黄牛，写电子邮件给库克举报美国总部了](https://www.v2ex.com/t/976310) `31条评论` `Apple`
-1. [iPhone 15 pro Type-C 问题记录](https://www.v2ex.com/t/976233) `31条评论` `Apple`
-1. [第一次当黄牛，别喷我。](https://www.v2ex.com/t/976124) `31条评论` `iPhone`
-1. [nike, 阿迪达斯 等品牌是否存在任何技术上的壁垒？](https://www.v2ex.com/t/976057) `31条评论` `问与答`
-1. [苹果 15 摄像头有灰尘](https://www.v2ex.com/t/976326) `29条评论` `Apple`
-1. [iPhone 15pro 到手体验](https://www.v2ex.com/t/976205) `29条评论` `Apple`
-1. [坏了， flutter 可能白学了。早知道不听 V 友们劝了](https://www.v2ex.com/t/976134) `27条评论` `程序员`
-1. [支付宝，彻底爆了！](https://www.v2ex.com/t/976252) `25条评论` `分享发现`
-1. [部门老大和人事处谁的话语权大？](https://www.v2ex.com/t/976039) `25条评论` `职场话题`
-1. [我服了，直接从旧 iPhone 转移数据和 icloud 恢复备份都失败了](https://www.v2ex.com/t/976300) `24条评论` `iCloud`
-1. [更新了 17.0.1， iphone13 居然不卡了](https://www.v2ex.com/t/976073) `24条评论` `iPhone`
-1. [求推荐：续航可以半年到一年的无限鼠标键盘套装](https://www.v2ex.com/t/976066) `22条评论` `问与答`
-1. [是买 15 Pro 还是 15 Pro Max 好](https://www.v2ex.com/t/976277) `21条评论` `Apple`
-1. [被人借了 5200，怎么取回？](https://www.v2ex.com/t/976207) `21条评论` `问与答`
 
 <!-- YESTERDAY END -->
 
