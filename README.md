@@ -8,15 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+1. [未获得原作者许可，翻译了国外软件的文档，是否可以用“版权”阻止他人“盗用”已翻译的文档？](https://www.v2ex.com/t/976625) `22条评论` `问与答`
 1. [iPhone 12 缝缝补补又一年，求推荐一款充电宝](https://www.v2ex.com/t/976599) `19条评论` `Apple`
-1. [未获得原作者许可，翻译了国外软件的文档，是否可以用“版权”阻止他人“盗用”已翻译的文档？](https://www.v2ex.com/t/976625) `16条评论` `问与答`
-1. [语言表达能力退化严重，大家伙有这种症状吗？](https://www.v2ex.com/t/976621) `11条评论` `程序员`
-1. [这 action button 为啥不放到音量键下面](https://www.v2ex.com/t/976607) `9条评论` `Apple`
+1. [语言表达能力退化严重，大家伙有这种症状吗？](https://www.v2ex.com/t/976621) `14条评论` `程序员`
+1. [这 action button 为啥不放到音量键下面](https://www.v2ex.com/t/976607) `11条评论` `Apple`
+1. [出海赚钱翻译是第一步， I18n Studio 发布了](https://www.v2ex.com/t/976619) `9条评论` `分享创造`
 1. [IOS 17 提醒事项失效，不弹窗](https://www.v2ex.com/t/976604) `8条评论` `iOS`
-1. [出海赚钱翻译是第一步， I18n Studio 发布了](https://www.v2ex.com/t/976619) `7条评论` `分享创造`
-1. [128g 的 15pro 支持 4k 60 ProRes 吗（外接硬盘）](https://www.v2ex.com/t/976600) `6条评论` `Apple`
+1. [128g 的 15pro 支持 4k 60 ProRes 吗（外接硬盘）](https://www.v2ex.com/t/976600) `7条评论` `Apple`
+1. [帮朋友买的 iPhone 15 Pro 屏幕出现条纹带](https://www.v2ex.com/t/976610) `6条评论` `Apple`
 
-数据更新于 2023-09-24 03:47:34
+数据更新于 2023-09-24 03:57:45
 
 <!-- TODAY END -->
 
