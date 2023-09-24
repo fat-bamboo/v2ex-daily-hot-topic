@@ -19,7 +19,7 @@
 1. [坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691) `38条评论` `程序员`
 1. [教程: 在 macOS 中移除 command line tools 并继续使用 git](https://www.v2ex.com/t/976656) `31条评论` `macOS`
 1. [iPhone 12 缝缝补补又一年，求推荐一款充电宝](https://www.v2ex.com/t/976599) `29条评论` `Apple`
-1. [如何正确投诉天才吧工作人员？](https://www.v2ex.com/t/976738) `24条评论` `Apple`
+1. [如何正确投诉天才吧工作人员？](https://www.v2ex.com/t/976738) `25条评论` `Apple`
 1. [国庆看剧，开什么会员比较好?](https://www.v2ex.com/t/976751) `21条评论` `程序员`
 1. [还有多少人在使用 MacOS Monterey 的？](https://www.v2ex.com/t/976726) `21条评论` `Apple`
 1. [翻墙打工， 19 年-22 年，翻墙罚款 200 ，没收违法所得 1058000](https://www.v2ex.com/t/976741) `19条评论` `分享发现`
@@ -34,7 +34,7 @@
 1. [现在买 iPad mini 6？](https://www.v2ex.com/t/976671) `14条评论` `Apple`
 1. [iPhone 15 Pro Max vs 14 Pro Max / 13 Pro Max 续航测试](https://www.v2ex.com/t/976640) `14条评论` `Apple`
 
-数据更新于 2023-09-24 21:25:50
+数据更新于 2023-09-24 21:36:14
 
 <!-- TODAY END -->
 
