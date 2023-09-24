@@ -24,17 +24,17 @@
 1. [65W 氮化镓头子能充小容量设备吗?](https://www.v2ex.com/t/976646) `11条评论` `问与答`
 1. [已关闭充电优化， iPhone 15 pro 充电只能到 80％+](https://www.v2ex.com/t/976631) `11条评论` `iPhone`
 1. [坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691) `10条评论` `程序员`
+1. [拜师！](https://www.v2ex.com/t/976685) `10条评论` `程序员`
 1. [家装 AC+AP，怎样优雅地使用 UU 加速器？](https://www.v2ex.com/t/976617) `10条评论` `宽带症候群`
-1. [拜师！](https://www.v2ex.com/t/976685) `9条评论` `程序员`
 1. [帮朋友买的 iPhone 15 Pro 屏幕出现条纹带](https://www.v2ex.com/t/976610) `9条评论` `Apple`
 1. [求推荐一个可以管理多个 Linux 系统的平台](https://www.v2ex.com/t/976663) `8条评论` `DevOps`
 1. [玩瓦的兄弟们，推荐个美服加速器呗](https://www.v2ex.com/t/976645) `8条评论` `问与答`
 1. [IOS 17 提醒事项失效，不弹窗](https://www.v2ex.com/t/976604) `8条评论` `iOS`
 1. [128g 的 15pro 支持 4k 60 ProRes 吗（外接硬盘）](https://www.v2ex.com/t/976600) `8条评论` `Apple`
-1. [蜂窝信号消失会导致 WiFi 密码错误](https://www.v2ex.com/t/976652) `7条评论` `iPhone`
-1. [请问这种 typec 线就是不能给 iPad 充电??](https://www.v2ex.com/t/976636) `7条评论` `Apple`
+1. [大量的双向引用会不会有问题, 有没有什么办法可以解耦双向引用?](https://www.v2ex.com/t/976683) `7条评论` `程序员`
+1. [现在买 iPad mini 6？](https://www.v2ex.com/t/976671) `7条评论` `Apple`
 
-数据更新于 2023-09-24 09:26:00
+数据更新于 2023-09-24 09:36:19
 
 <!-- TODAY END -->
 
