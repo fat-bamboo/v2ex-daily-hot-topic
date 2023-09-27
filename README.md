@@ -8,33 +8,33 @@
 
 <!-- TODAY BEGIN -->
 
-1. [吐槽一下：国庆见家长，该不该一起回？](https://www.v2ex.com/t/977451) `109条评论` `问与答`
-1. [说不开口的事情，看内容](https://www.v2ex.com/t/977464) `100条评论` `生活`
+1. [说不开口的事情，看内容](https://www.v2ex.com/t/977464) `112条评论` `生活`
+1. [吐槽一下：国庆见家长，该不该一起回？](https://www.v2ex.com/t/977451) `111条评论` `问与答`
 1. [用了和站长一样的头像账号被 ban 了](https://www.v2ex.com/t/977465) `52条评论` `反馈`
+1. [对标高端的华为系统为什么这么多广告](https://www.v2ex.com/t/977473) `51条评论` `问与答`
 1. [谷歌播客 app 即将停止服务，有什么推荐的 app 吗](https://www.v2ex.com/t/977447) `37条评论` `Podcast`
-1. [对标高端的华为系统为什么这么多广告](https://www.v2ex.com/t/977473) `34条评论` `问与答`
+1. [Win11 史诗级更新，状态栏窗口不再合并](https://www.v2ex.com/t/977487) `28条评论` `Windows`
 1. [双肩包总是被安检机卡住,放点什么东西配重比较好?最好有点卵用的.](https://www.v2ex.com/t/977481) `26条评论` `问与答`
-1. [Win11 史诗级更新，状态栏窗口不再合并](https://www.v2ex.com/t/977487) `25条评论` `Windows`
 1. [为大姨子写了一个 csv 文件在线处理工具](https://www.v2ex.com/t/977438) `25条评论` `分享创造`
 1. [30 年房贷，已经还了 7 年，再去缩短贷款年限是否已经不划算？](https://www.v2ex.com/t/977439) `21条评论` `问与答`
 1. [房租的 百分之 35 用来租房是否是正常水平 坐标长沙](https://www.v2ex.com/t/977486) `20条评论` `长沙`
+1. [跟个风，大家买的车一般占年薪的比例是多少](https://www.v2ex.com/t/977503) `18条评论` `问与答`
 1. [决赛圈了，各位老哥进来帮忙挑挑](https://www.v2ex.com/t/977462) `18条评论` `MacBook Pro`
-1. [跟个风，大家买的车一般占年薪的比例是多少](https://www.v2ex.com/t/977503) `17条评论` `问与答`
 1. [遇到一个不好解决的事情，就一直合计，睡觉都在想，大家有什么办法改掉这个毛病？](https://www.v2ex.com/t/977471) `17条评论` `问与答`
+1. [广州 5 天玩啥](https://www.v2ex.com/t/977513) `16条评论` `广州`
 1. [为什么 v 站的很多人发的图都是 imgur 的](https://www.v2ex.com/t/977480) `15条评论` `问与答`
 1. [和大伙儿讨论假期心态变化](https://www.v2ex.com/t/977468) `14条评论` `问与答`
 1. [义乌三天玩啥？](https://www.v2ex.com/t/977443) `14条评论` `杭州`
 1. [请推荐一款下载 YouTube 到本地的安卓应用。](https://www.v2ex.com/t/977458) `13条评论` `Android`
-1. [广州 5 天玩啥](https://www.v2ex.com/t/977513) `12条评论` `广州`
+1. [抄 App 可以，能换个名字吗？](https://www.v2ex.com/t/977510) `11条评论` `分享创造`
+1. [关于回收 MacBook](https://www.v2ex.com/t/977500) `10条评论` `MacBook Pro`
 1. [如何入金香港银行卡](https://www.v2ex.com/t/977482) `10条评论` `投资`
-1. [关于回收 MacBook](https://www.v2ex.com/t/977500) `9条评论` `MacBook Pro`
+1. [AOSP 替代原厂 ROM， crDroid / SparkOS / Evolution-X / PixelOS 选哪个好？](https://www.v2ex.com/t/977493) `9条评论` `Android`
 1. [gpt 理解不了 QQ 音乐的评论区](https://www.v2ex.com/t/977448) `9条评论` `分享发现`
 1. [安卓商店的应用排名逻辑是什么谜？](https://www.v2ex.com/t/977440) `9条评论` `问与答`
 1. [macos Sonoma 壁纸问题](https://www.v2ex.com/t/977491) `7条评论` `macOS`
-1. [2023 了买富士 xt30 值得么？](https://www.v2ex.com/t/977484) `7条评论` `摄影`
-1. [想买一个二手 MacBook pro 20 款定制机，怎么能判断是厂家定制还是二手商改版](https://www.v2ex.com/t/977476) `7条评论` `MacBook Pro`
 
-数据更新于 2023-09-27 03:57:08
+数据更新于 2023-09-27 04:19:33
 
 <!-- TODAY END -->
 
