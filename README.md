@@ -27,14 +27,14 @@
 1. [也许可以通过选配来满足一些小众的手机需求？比如不凸起摄像头，更轻便机身等。](https://www.v2ex.com/t/978149) `14条评论` `奇思妙想`
 1. [谈一下 Type-C 口的数据和充电](https://www.v2ex.com/t/978132) `14条评论` `iPhone`
 1. [2090 年之前免费使用 Google One 30TB 存储](https://www.v2ex.com/t/978125) `14条评论` `分享发现`
+1. [MJJ 欠 AWS 2300 刀账单，被 AWS 起诉](https://www.v2ex.com/t/978213) `13条评论` `Amazon Web Services`
 1. [铁路 12306 的乘车码能否用于进站口](https://www.v2ex.com/t/978167) `12条评论` `问与答`
 1. [被墙的崩溃了，请问各位有内衣，泳装图片站，备案成功的么？](https://www.v2ex.com/t/978143) `12条评论` `站长`
 1. [大量用 github 当评论回复的系统，我点开了下发现要仓库的权限，想出用这个当评论的是不是 too young](https://www.v2ex.com/t/978099) `12条评论` `GitHub`
-1. [MJJ 欠 AWS 2300 刀账单，被 AWS 起诉](https://www.v2ex.com/t/978213) `11条评论` `Amazon Web Services`
 1. [据说这些都是独立开发者](https://www.v2ex.com/t/978151) `11条评论` `程序员`
 1. [现在 iOS 和 Android 的剪贴板权限管理分别到什么进度了？](https://www.v2ex.com/t/978146) `11条评论` `iOS`
 
-数据更新于 2023-09-29 18:36:42
+数据更新于 2023-09-29 18:47:04
 
 <!-- TODAY END -->
 
