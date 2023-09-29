@@ -34,7 +34,7 @@
 1. [现在 iOS 和 Android 的剪贴板权限管理分别到什么进度了？](https://www.v2ex.com/t/978146) `11条评论` `iOS`
 1. [Apple Watch 装逼姿势](https://www.v2ex.com/t/978190) `10条评论` `Apple`
 
-数据更新于 2023-09-29 17:38:50
+数据更新于 2023-09-29 17:49:00
 
 <!-- TODAY END -->
 
