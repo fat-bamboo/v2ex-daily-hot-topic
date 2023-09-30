@@ -21,8 +21,8 @@
 1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306) `18条评论` `Cloudflare`
 1. [请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305) `18条评论` `程序员`
 1. [大家在 Sonoma 上能看到这个字吗？𫙠](https://www.v2ex.com/t/978354) `16条评论` `Apple`
+1. [tvOS 17 beta 升级到 17.1 正式版后，旁路由 APP 集体失灵](https://www.v2ex.com/t/978343) `16条评论` `Apple TV`
 1. [今年朋友圈好像很少国庆头像了](https://www.v2ex.com/t/978282) `15条评论` `微信`
-1. [tvOS 17 beta 升级到 17.1 正式版后，旁路由 APP 集体失灵](https://www.v2ex.com/t/978343) `14条评论` `Apple TV`
 1. [有没有一种 iPhone Pro 类似电池保护壳通过 C 口扩展 SSD 硬盘盒](https://www.v2ex.com/t/978324) `14条评论` `iPhone`
 1. [Android 14 什么时候发布呢？](https://www.v2ex.com/t/978258) `14条评论` `Android`
 1. [关于安全漏洞的一些问题](https://www.v2ex.com/t/978257) `14条评论` `信息安全`
@@ -34,7 +34,7 @@
 1. [安全仔秋招大失败，该转什么方向呢](https://www.v2ex.com/t/978298) `11条评论` `程序员`
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `11条评论` `Telegram`
 
-数据更新于 2023-09-30 18:28:51
+数据更新于 2023-09-30 18:39:09
 
 <!-- TODAY END -->
 
