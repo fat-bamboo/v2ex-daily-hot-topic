@@ -13,8 +13,8 @@
 1. [大家平时通勤时候听什么](https://www.v2ex.com/t/978232) `32条评论` `问与答`
 1. [磁吸才是苹果充电的正确打开方式啊](https://www.v2ex.com/t/978268) `32条评论` `Apple`
 1. [这个反人类验证是存心不给过么？到底怎么可以通过](https://www.v2ex.com/t/978251) `31条评论` `问与答`
+1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `31条评论` `Android`
 1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290) `31条评论` `iPhone`
-1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `30条评论` `Android`
 1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301) `30条评论` ` WATCH`
 1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `27条评论` `Telegram`
 1. [google one 30T 都撸了吗](https://www.v2ex.com/t/978341) `21条评论` `Google`
@@ -26,15 +26,15 @@
 1. [Android 14 什么时候发布呢？](https://www.v2ex.com/t/978258) `14条评论` `Android`
 1. [关于安全漏洞的一些问题](https://www.v2ex.com/t/978257) `14条评论` `信息安全`
 1. [想法：让 AI 帮我们过滤信息](https://www.v2ex.com/t/978357) `13条评论` `奇思妙想`
+1. [tvOS 17 beta 升级到 17.1 正式版后，旁路由 APP 集体失灵](https://www.v2ex.com/t/978343) `13条评论` `Apple TV`
 1. [Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280) `13条评论` `Linux`
 1. [想去参加罗太君的电商培训课了。做啥产品好？](https://www.v2ex.com/t/978265) `13条评论` `商业模式`
 1. [如果有一天 iPhone 不能再登陆外区 App Store， Apple 设备用户该何去何从？](https://www.v2ex.com/t/978319) `12条评论` `iPhone`
 1. [有人知道这个前端效果怎么实现的吗](https://www.v2ex.com/t/978326) `11条评论` `前端开发`
 1. [安全仔秋招大失败，该转什么方向呢](https://www.v2ex.com/t/978298) `11条评论` `程序员`
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `11条评论` `Telegram`
-1. [群暉 218+升級內存安裝 git 倉庫問題求教](https://www.v2ex.com/t/978279) `10条评论` `程序员`
 
-数据更新于 2023-09-30 17:56:54
+数据更新于 2023-09-30 18:18:37
 
 <!-- TODAY END -->
 
