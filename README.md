@@ -28,13 +28,13 @@
 1. [app store 的开发者可以看到购买者的那些信息？](https://www.v2ex.com/t/978248) `10条评论` `iDev`
 1. [求 NFC 模拟实体卡 APP](https://www.v2ex.com/t/978247) `9条评论` `Android`
 1. [中秋国庆假期， Pixl OLED 锂电池（180mAh）长续航版赠 50 元优惠券！前 100 位购买者送 iNFC Pro 兑换码！](https://www.v2ex.com/t/978230) `9条评论` `推广`
+1. [红米 12T vs 红米 13Pro+ 不打游戏 选哪个？](https://www.v2ex.com/t/978274) `8条评论` `问与答`
 1. [离大陆苹果硬件禁止登录海外 appleid 预计还有多久？](https://www.v2ex.com/t/978234) `8条评论` `Apple`
 1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301) `7条评论` ` WATCH`
-1. [红米 12T vs 红米 13Pro+ 不打游戏 选哪个？](https://www.v2ex.com/t/978274) `7条评论` `问与答`
 1. [Google play 商店里怎么删除我的设备，找不到选项啊](https://www.v2ex.com/t/978267) `7条评论` `Google Play`
 1. [做了个 V8 虚拟机注入器， V8 Killer](https://www.v2ex.com/t/978250) `7条评论` `分享创造`
 
-数据更新于 2023-09-30 09:36:14
+数据更新于 2023-09-30 09:46:36
 
 <!-- TODAY END -->
 
