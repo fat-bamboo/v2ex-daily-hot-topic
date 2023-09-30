@@ -14,10 +14,10 @@
 1. [大家平时通勤时候听什么](https://www.v2ex.com/t/978232) `31条评论` `问与答`
 1. [这个反人类验证是存心不给过么？到底怎么可以通过](https://www.v2ex.com/t/978251) `31条评论` `问与答`
 1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `30条评论` `Android`
-1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290) `29条评论` `iPhone`
+1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290) `30条评论` `iPhone`
 1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301) `29条评论` ` WATCH`
 1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `27条评论` `Telegram`
-1. [google one 30T 都撸了吗](https://www.v2ex.com/t/978341) `19条评论` `Google`
+1. [google one 30T 都撸了吗](https://www.v2ex.com/t/978341) `21条评论` `Google`
 1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306) `18条评论` `Cloudflare`
 1. [请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305) `18条评论` `程序员`
 1. [大家在 Sonoma 上能看到这个字吗？𫙠](https://www.v2ex.com/t/978354) `16条评论` `Apple`
@@ -34,7 +34,7 @@
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `11条评论` `Telegram`
 1. [群暉 218+升級內存安裝 git 倉庫問題求教](https://www.v2ex.com/t/978279) `10条评论` `程序员`
 
-数据更新于 2023-09-30 16:56:00
+数据更新于 2023-09-30 17:11:06
 
 <!-- TODAY END -->
 
