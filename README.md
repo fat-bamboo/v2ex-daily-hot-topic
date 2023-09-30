@@ -18,7 +18,7 @@
 1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `31条评论` `Android`
 1. [请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305) `28条评论` `程序员`
 1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `27条评论` `Telegram`
-1. [google one 30T 都撸了吗](https://www.v2ex.com/t/978341) `23条评论` `Google`
+1. [google one 30T 都撸了吗](https://www.v2ex.com/t/978341) `24条评论` `Google`
 1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306) `18条评论` `Cloudflare`
 1. [大家在 Sonoma 上能看到这个字吗？𫙠](https://www.v2ex.com/t/978354) `17条评论` `Apple`
 1. [tvOS 17 beta 升级到 17.1 正式版后，旁路由 APP 集体失灵](https://www.v2ex.com/t/978343) `16条评论` `Apple TV`
@@ -34,7 +34,7 @@
 1. [安全仔秋招大失败，该转什么方向呢](https://www.v2ex.com/t/978298) `11条评论` `程序员`
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `11条评论` `Telegram`
 
-数据更新于 2023-09-30 23:47:16
+数据更新于 2023-09-30 23:57:35
 
 <!-- TODAY END -->
 
