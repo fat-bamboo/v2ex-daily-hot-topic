@@ -16,9 +16,9 @@
 1. [大家平时通勤时候听什么](https://www.v2ex.com/t/978232) `19条评论` `问与答`
 1. [Android 14 什么时候发布呢？](https://www.v2ex.com/t/978258) `14条评论` `Android`
 1. [关于安全漏洞的一些问题](https://www.v2ex.com/t/978257) `14条评论` `信息安全`
-1. [想去参加罗太君的电商培训课了。做啥产品好？](https://www.v2ex.com/t/978265) `12条评论` `商业模式`
+1. [想去参加罗太君的电商培训课了。做啥产品好？](https://www.v2ex.com/t/978265) `13条评论` `商业模式`
+1. [今年朋友圈好像很少国庆头像了](https://www.v2ex.com/t/978282) `12条评论` `微信`
 1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `12条评论` `问与答`
-1. [今年朋友圈好像很少国庆头像了](https://www.v2ex.com/t/978282) `11条评论` `微信`
 1. [Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280) `11条评论` `Linux`
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `11条评论` `Telegram`
 1. [永远不要找只对你好的人,而是要找本来就很好的人](https://www.v2ex.com/t/978253) `10条评论` `生活`
@@ -26,15 +26,15 @@
 1. [求 NFC 模拟实体卡 APP](https://www.v2ex.com/t/978247) `9条评论` `Android`
 1. [中秋国庆假期， Pixl OLED 锂电池（180mAh）长续航版赠 50 元优惠券！前 100 位购买者送 iNFC Pro 兑换码！](https://www.v2ex.com/t/978230) `9条评论` `推广`
 1. [安全仔秋招大失败，该转什么方向呢](https://www.v2ex.com/t/978298) `8条评论` `程序员`
+1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290) `8条评论` `iPhone`
 1. [离大陆苹果硬件禁止登录海外 appleid 预计还有多久？](https://www.v2ex.com/t/978234) `8条评论` `Apple`
-1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290) `7条评论` `iPhone`
 1. [Google play 商店里怎么删除我的设备，找不到选项啊](https://www.v2ex.com/t/978267) `7条评论` `Google Play`
 1. [做了个 V8 虚拟机注入器， V8 Killer](https://www.v2ex.com/t/978250) `7条评论` `分享创造`
 1. [群暉 218+升級內存安裝 git 倉庫問題求教](https://www.v2ex.com/t/978279) `6条评论` `程序员`
 1. [想去日本旅行，求攻略](https://www.v2ex.com/t/978277) `6条评论` `问与答`
 1. [红米 12T vs 红米 13Pro+ 不打游戏 选哪个？](https://www.v2ex.com/t/978274) `6条评论` `问与答`
 
-数据更新于 2023-09-30 08:46:02
+数据更新于 2023-09-30 08:56:22
 
 <!-- TODAY END -->
 
