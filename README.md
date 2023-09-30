@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244) `66条评论` `Android`
+1. [大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244) `68条评论` `Android`
 1. [白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262) `36条评论` `宽带症候群`
 1. [磁吸才是苹果充电的正确打开方式啊](https://www.v2ex.com/t/978268) `28条评论` `Apple`
 1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `27条评论` `Android`
@@ -19,22 +19,22 @@
 1. [关于安全漏洞的一些问题](https://www.v2ex.com/t/978257) `14条评论` `信息安全`
 1. [Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280) `13条评论` `Linux`
 1. [想去参加罗太君的电商培训课了。做啥产品好？](https://www.v2ex.com/t/978265) `13条评论` `商业模式`
+1. [如果有一天 iPhone 不能再登陆外区 App Store， Apple 设备用户该何去何从？](https://www.v2ex.com/t/978319) `12条评论` `iPhone`
 1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `12条评论` `问与答`
 1. [安全仔秋招大失败，该转什么方向呢](https://www.v2ex.com/t/978298) `11条评论` `程序员`
 1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290) `11条评论` `iPhone`
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `11条评论` `Telegram`
-1. [如果有一天 iPhone 不能再登陆外区 App Store， Apple 设备用户该何去何从？](https://www.v2ex.com/t/978319) `10条评论` `iPhone`
+1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301) `10条评论` ` WATCH`
 1. [群暉 218+升級內存安裝 git 倉庫問題求教](https://www.v2ex.com/t/978279) `10条评论` `程序员`
 1. [永远不要找只对你好的人,而是要找本来就很好的人](https://www.v2ex.com/t/978253) `10条评论` `生活`
 1. [app store 的开发者可以看到购买者的那些信息？](https://www.v2ex.com/t/978248) `10条评论` `iDev`
-1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301) `9条评论` ` WATCH`
+1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306) `9条评论` `Cloudflare`
 1. [想去日本旅行，求攻略](https://www.v2ex.com/t/978277) `9条评论` `问与答`
 1. [红米 12T vs 红米 13Pro+ 不打游戏 选哪个？](https://www.v2ex.com/t/978274) `9条评论` `问与答`
 1. [求 NFC 模拟实体卡 APP](https://www.v2ex.com/t/978247) `9条评论` `Android`
 1. [中秋国庆假期， Pixl OLED 锂电池（180mAh）长续航版赠 50 元优惠券！前 100 位购买者送 iNFC Pro 兑换码！](https://www.v2ex.com/t/978230) `9条评论` `推广`
-1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306) `8条评论` `Cloudflare`
 
-数据更新于 2023-09-30 10:49:03
+数据更新于 2023-09-30 10:59:18
 
 <!-- TODAY END -->
 
