@@ -8,26 +8,26 @@
 
 <!-- TODAY BEGIN -->
 
-1. [大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244) `39条评论` `Android`
-1. [白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262) `25条评论` `程序员`
+1. [大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244) `41条评论` `Android`
+1. [白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262) `27条评论` `程序员`
+1. [这个反人类验证是存心不给过么？到底怎么可以通过](https://www.v2ex.com/t/978251) `19条评论` `问与答`
 1. [大家平时通勤时候听什么](https://www.v2ex.com/t/978232) `19条评论` `问与答`
-1. [这个反人类验证是存心不给过么？到底怎么可以通过](https://www.v2ex.com/t/978251) `18条评论` `问与答`
-1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `17条评论` `Android`
+1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266) `18条评论` `Android`
 1. [关于安全漏洞的一些问题](https://www.v2ex.com/t/978257) `13条评论` `信息安全`
 1. [磁吸才是苹果充电的正确打开方式啊](https://www.v2ex.com/t/978268) `11条评论` `Apple`
+1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `11条评论` `问与答`
 1. [谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245) `10条评论` `Telegram`
+1. [Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280) `9条评论` `Linux`
 1. [Android 14 什么时候发布呢？](https://www.v2ex.com/t/978258) `9条评论` `Android`
 1. [永远不要找只对你好的人,而是要找本来就很好的人](https://www.v2ex.com/t/978253) `9条评论` `生活`
+1. [app store 的开发者可以看到购买者的那些信息？](https://www.v2ex.com/t/978248) `9条评论` `iDev`
 1. [中秋国庆假期， Pixl OLED 锂电池（180mAh）长续航版赠 50 元优惠券！前 100 位购买者送 iNFC Pro 兑换码！](https://www.v2ex.com/t/978230) `9条评论` `推广`
 1. [想去参加罗太君的电商培训课了。做啥产品好？](https://www.v2ex.com/t/978265) `8条评论` `奇思妙想`
-1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259) `8条评论` `问与答`
-1. [app store 的开发者可以看到购买者的那些信息？](https://www.v2ex.com/t/978248) `8条评论` `iDev`
 1. [求 NFC 模拟实体卡 APP](https://www.v2ex.com/t/978247) `8条评论` `Android`
 1. [离大陆苹果硬件禁止登录海外 appleid 预计还有多久？](https://www.v2ex.com/t/978234) `8条评论` `Apple`
 1. [做了个 V8 虚拟机注入器， V8 Killer](https://www.v2ex.com/t/978250) `7条评论` `分享创造`
-1. [Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280) `6条评论` `Linux`
 
-数据更新于 2023-09-30 06:17:57
+数据更新于 2023-09-30 06:29:43
 
 <!-- TODAY END -->
 
