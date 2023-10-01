@@ -16,6 +16,7 @@
 1. [运营商级 骚扰短信 拦截关键词分享。](https://www.v2ex.com/t/978414) `22条评论` `分享发现`
 1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399) `21条评论` `商业模式`
 1. [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482) `20条评论` `VPS`
+1. [各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407) `20条评论` `Apple`
 1. [早生孩子好？还是晚生孩子好？](https://www.v2ex.com/t/978479) `18条评论` `问与答`
 1. [阿里云王坚 科研能力怎么样](https://www.v2ex.com/t/978478) `17条评论` `问与答`
 1. [我在全职开发新编程语言，寻找对语言设计有想法的同学](https://www.v2ex.com/t/978493) `16条评论` `程序员`
@@ -25,7 +26,6 @@
 1. [国内大厂的“数据下载”功能就是摆设](https://www.v2ex.com/t/978430) `12条评论` `程序员`
 1. [求教 V 友， AC➕马上到期，电池 82%，怎么搞？](https://www.v2ex.com/t/978429) `12条评论` `Apple`
 1. [ThreadPoolExecutor 问题：线程数大于核心线程书，线程池中队列没有任务后，在等待 poll(keepAlive)后应当非核心线程会被销毁，但我的疑惑是他怎么判断是否是非核心线程，如果是核心线程的话应当不会销毁。](https://www.v2ex.com/t/978474) `11条评论` `Java`
-1. [各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407) `10条评论` `Apple`
 1. [chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404) `10条评论` `OpenAI`
 1. [ssh 到 Ubuntu 显示的温度到底是什么](https://www.v2ex.com/t/978402) `9条评论` `Ubuntu`
 1. [有没有好的公众平台，用于分享有关科技的不成熟的想法和资料？](https://www.v2ex.com/t/978460) `8条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [从 iPhone13 升级到 iPhone15 Pro 的体验](https://www.v2ex.com/t/978406) `7条评论` `Apple`
 1. [vscode 也？](https://www.v2ex.com/t/978431) `7条评论` `程序员`
 
-数据更新于 2023-10-01 14:26:07
+数据更新于 2023-10-01 14:36:34
 
 <!-- TODAY END -->
 
