@@ -11,7 +11,7 @@
 1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401) `55条评论` `Apple`
 1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422) `45条评论` `问与答`
 1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396) `43条评论` `iPhone`
-1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395) `28条评论` `程序员`
+1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395) `30条评论` `程序员`
 1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399) `20条评论` `商业模式`
 1. [运营商级 骚扰短信 拦截关键词分享。](https://www.v2ex.com/t/978414) `16条评论` `分享发现`
 1. [用了 5G CPE 一个月，感觉还可以](https://www.v2ex.com/t/978410) `15条评论` `广州`
@@ -21,13 +21,14 @@
 1. [chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404) `10条评论` `OpenAI`
 1. [ssh 到 Ubuntu 显示的温度到底是什么](https://www.v2ex.com/t/978402) `9条评论` `Ubuntu`
 1. [听说 Gooogle Podcast 要下线了，推荐一下我的 Moon FM，送个福利 - ProductHunt 投票评论送激活码](https://www.v2ex.com/t/978456) `8条评论` `分享创造`
+1. [程序员装备向： 9999， M2 air， 16+256 或者买个 32g+1T 的游戏本](https://www.v2ex.com/t/978470) `7条评论` `程序员`
 1. [从 iPhone13 升级到 iPhone15 Pro 的体验](https://www.v2ex.com/t/978406) `7条评论` `Apple`
 1. [vscode 也？](https://www.v2ex.com/t/978431) `7条评论` `程序员`
 1. [PhotoShop 是否支持一定的编程或脚本自动化能力?](https://www.v2ex.com/t/978435) `6条评论` `问与答`
 1. [iPhone 15 Pro max 的相册 bug？](https://www.v2ex.com/t/978423) `6条评论` `iPhone`
 1. [想搞上下行分离，不知哪里的线路可以支持？](https://www.v2ex.com/t/978416) `6条评论` `宽带症候群`
 
-数据更新于 2023-10-01 09:26:41
+数据更新于 2023-10-01 09:37:09
 
 <!-- TODAY END -->
 
