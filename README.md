@@ -8,31 +8,33 @@
 
 <!-- TODAY BEGIN -->
 
-1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422) `64条评论` `问与答`
-1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401) `61条评论` `Apple`
+1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422) `65条评论` `问与答`
+1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401) `62条评论` `Apple`
 1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396) `44条评论` `iPhone`
 1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395) `33条评论` `程序员`
-1. [程序员装备向： 9999， M2 air， 16+256 或者买个 32g+1T 的游戏本](https://www.v2ex.com/t/978470) `23条评论` `程序员`
+1. [程序员装备向： 9999， M2 air， 16+256 或者买个 32g+1T 的游戏本](https://www.v2ex.com/t/978470) `24条评论` `程序员`
 1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399) `21条评论` `商业模式`
-1. [运营商级 骚扰短信 拦截关键词分享。](https://www.v2ex.com/t/978414) `16条评论` `分享发现`
+1. [运营商级 骚扰短信 拦截关键词分享。](https://www.v2ex.com/t/978414) `21条评论` `分享发现`
+1. [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482) `15条评论` `VPS`
 1. [用了 5G CPE 一个月，感觉还可以](https://www.v2ex.com/t/978410) `15条评论` `广州`
 1. [在香港，买什么手机卡回内地还能直连 Google？太爽了](https://www.v2ex.com/t/978464) `14条评论` `问与答`
-1. [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482) `13条评论` `VPS`
+1. [早生孩子好？还是晚生孩子好？](https://www.v2ex.com/t/978479) `12条评论` `问与答`
 1. [听说 Gooogle Podcast 要下线了，推荐一下我的 Moon FM，送个福利 - ProductHunt 投票评论送激活码](https://www.v2ex.com/t/978456) `12条评论` `分享创造`
 1. [国内大厂的“数据下载”功能就是摆设](https://www.v2ex.com/t/978430) `12条评论` `程序员`
 1. [求教 V 友， AC➕马上到期，电池 82%，怎么搞？](https://www.v2ex.com/t/978429) `12条评论` `Apple`
 1. [各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407) `10条评论` `Apple`
 1. [chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404) `10条评论` `OpenAI`
 1. [ssh 到 Ubuntu 显示的温度到底是什么](https://www.v2ex.com/t/978402) `9条评论` `Ubuntu`
+1. [有没有好的公众平台，用于分享有关科技的不成熟的想法和资料？](https://www.v2ex.com/t/978460) `7条评论` `问与答`
 1. [从 iPhone13 升级到 iPhone15 Pro 的体验](https://www.v2ex.com/t/978406) `7条评论` `Apple`
 1. [vscode 也？](https://www.v2ex.com/t/978431) `7条评论` `程序员`
-1. [早生孩子好？还是晚生孩子好？](https://www.v2ex.com/t/978479) `6条评论` `问与答`
-1. [有没有好的公众平台，用于分享有关科技的不成熟的想法和资料？](https://www.v2ex.com/t/978460) `6条评论` `问与答`
+1. [ThreadPoolExecutor 问题：线程数大于核心线程书，线程池中队列没有任务后，在等待 poll(keepAlive)后应当非核心线程会被销毁，但我的疑惑是他怎么判断是否是非核心线程，如果是核心线程的话应当不会销毁。](https://www.v2ex.com/t/978474) `6条评论` `Java`
+1. [macOS 14 Sonoma 使用体验](https://www.v2ex.com/t/978445) `6条评论` `macOS`
 1. [PhotoShop 是否支持一定的编程或脚本自动化能力?](https://www.v2ex.com/t/978435) `6条评论` `问与答`
 1. [iPhone 15 Pro max 的相册 bug？](https://www.v2ex.com/t/978423) `6条评论` `iPhone`
 1. [想搞上下行分离，不知哪里的线路可以支持？](https://www.v2ex.com/t/978416) `6条评论` `宽带症候群`
 
-数据更新于 2023-10-01 12:27:58
+数据更新于 2023-10-01 12:48:29
 
 <!-- TODAY END -->
 
