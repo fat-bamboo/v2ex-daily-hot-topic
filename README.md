@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401) `40条评论` `Apple`
+1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401) `47条评论` `Apple`
 1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395) `22条评论` `程序员`
+1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422) `21条评论` `问与答`
+1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396) `20条评论` `iPhone`
 1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399) `19条评论` `商业模式`
-1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396) `19条评论` `iPhone`
-1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422) `16条评论` `问与答`
-1. [运营商级 骚扰短信 拦截关键词分享。](https://www.v2ex.com/t/978414) `9条评论` `分享发现`
+1. [运营商级 骚扰短信 拦截关键词分享。](https://www.v2ex.com/t/978414) `10条评论` `分享发现`
 1. [各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407) `9条评论` `Apple`
 1. [chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404) `9条评论` `OpenAI`
 1. [ssh 到 Ubuntu 显示的温度到底是什么](https://www.v2ex.com/t/978402) `8条评论` `Ubuntu`
 1. [iPhone 15 Pro max 的相册 bug？](https://www.v2ex.com/t/978423) `6条评论` `iPhone`
 1. [用了 5G CPE 一个月，感觉还可以](https://www.v2ex.com/t/978410) `6条评论` `广州`
 
-数据更新于 2023-10-01 05:00:32
+数据更新于 2023-10-01 05:22:45
 
 <!-- TODAY END -->
 
