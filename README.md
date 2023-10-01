@@ -10,11 +10,13 @@
 
 1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401) `35条评论` `Apple`
 1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395) `19条评论` `程序员`
-1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399) `16条评论` `商业模式`
+1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399) `17条评论` `商业模式`
 1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396) `12条评论` `iPhone`
-1. [chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404) `8条评论` `OpenAI`
+1. [chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404) `9条评论` `OpenAI`
+1. [ssh 到 Ubuntu 显示的温度到底是什么](https://www.v2ex.com/t/978402) `7条评论` `Ubuntu`
+1. [用了 5G CPE 一个月，感觉还可以](https://www.v2ex.com/t/978410) `6条评论` `广州`
 
-数据更新于 2023-10-01 03:25:45
+数据更新于 2023-10-01 03:36:15
 
 <!-- TODAY END -->
 
