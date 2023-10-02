@@ -14,7 +14,7 @@
 1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574) `28条评论` `Vercel`
 1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `26条评论` `iPhone`
 1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553) `25条评论` `NAS`
-1. [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600) `23条评论` `Apple`
+1. [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600) `24条评论` `Apple`
 1. [大家用了两年的键盘现在都是啥样了？](https://www.v2ex.com/t/978550) `22条评论` `机械键盘`
 1. [首发买的 14Pro Max 电池健康已经 86 了](https://www.v2ex.com/t/978552) `21条评论` `iPhone`
 1. [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599) `20条评论` `数据库`
@@ -34,7 +34,7 @@
 1. [空调伴侣功率超了要怎么办啊？](https://www.v2ex.com/t/978622) `9条评论` `智能家电`
 1. [Mate 60 真的有货吗？](https://www.v2ex.com/t/978602) `9条评论` `问与答`
 
-数据更新于 2023-10-02 15:58:09
+数据更新于 2023-10-02 16:22:56
 
 <!-- TODAY END -->
 
