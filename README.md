@@ -11,10 +11,10 @@
 1. [各位 CSGO 玩家，评价一下 CS2](https://www.v2ex.com/t/978558) `53条评论` `游戏`
 1. [手里有 1 亿 6 千万篇裁判文书和 3 亿条工商信息数据，从程序员的角度如何最大化利用](https://www.v2ex.com/t/978544) `47条评论` `程序员`
 1. [你能接受你女朋友曾经和前任联系过吗？](https://www.v2ex.com/t/978595) `35条评论` `问与答`
-1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574) `32条评论` `Vercel`
-1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `29条评论` `iPhone`
+1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574) `33条评论` `Vercel`
+1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `30条评论` `iPhone`
 1. [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600) `27条评论` `Apple`
-1. [首发买的 14Pro Max 电池健康已经 86 了](https://www.v2ex.com/t/978552) `25条评论` `iPhone`
+1. [首发买的 14Pro Max 电池健康已经 86 了](https://www.v2ex.com/t/978552) `26条评论` `iPhone`
 1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553) `25条评论` `NAS`
 1. [大家用了两年的键盘现在都是啥样了？](https://www.v2ex.com/t/978550) `24条评论` `机械键盘`
 1. [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599) `20条评论` `数据库`
@@ -29,12 +29,12 @@
 1. [广州哪里有按次数购买的健身房？](https://www.v2ex.com/t/978578) `12条评论` `广州`
 1. [一加手机消息推送有延迟或收不到](https://www.v2ex.com/t/978580) `11条评论` `问与答`
 1. [入手 32 寸 4K 显示器感受](https://www.v2ex.com/t/978560) `11条评论` `分享发现`
+1. [你身边有哪些陪伴超过十年的数码产品？](https://www.v2ex.com/t/978640) `10条评论` `分享发现`
 1. [空调伴侣功率超了要怎么办啊？](https://www.v2ex.com/t/978622) `10条评论` `智能家电`
 1. [卡在旧 Apple Watch 里的公交卡……](https://www.v2ex.com/t/978588) `10条评论` `Apple`
 1. [乌有网记](https://www.v2ex.com/t/978531) `10条评论` `文学`
-1. [机械专业毕业的专科生现在找什么工作？](https://www.v2ex.com/t/978614) `9条评论` `求职`
 
-数据更新于 2023-10-02 18:24:20
+数据更新于 2023-10-02 18:37:09
 
 <!-- TODAY END -->
 
