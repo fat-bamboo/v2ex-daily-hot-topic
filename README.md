@@ -9,32 +9,32 @@
 <!-- TODAY BEGIN -->
 
 1. [手里有 1 亿 6 千万篇裁判文书和 3 亿条工商信息数据，从程序员的角度如何最大化利用](https://www.v2ex.com/t/978544) `47条评论` `程序员`
-1. [各位 CSGO 玩家，评价一下 CS2](https://www.v2ex.com/t/978558) `39条评论` `游戏`
+1. [各位 CSGO 玩家，评价一下 CS2](https://www.v2ex.com/t/978558) `42条评论` `游戏`
 1. [你能接受你女朋友曾经和前任联系过吗？](https://www.v2ex.com/t/978595) `35条评论` `问与答`
 1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574) `28条评论` `问与答`
+1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `26条评论` `iPhone`
 1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553) `25条评论` `NAS`
-1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `23条评论` `iPhone`
 1. [首发买的 14Pro Max 电池健康已经 86 了](https://www.v2ex.com/t/978552) `19条评论` `iPhone`
+1. [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599) `19条评论` `数据库`
 1. [大家用了两年的键盘现在都是啥样了？](https://www.v2ex.com/t/978550) `18条评论` `程序员`
-1. [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599) `18条评论` `数据库`
 1. [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600) `16条评论` `Apple`
 1. [1.1.1.1 warp+ 有办法可以控制部分 app 和流量不经过其中转么？](https://www.v2ex.com/t/978559) `15条评论` `互联网`
 1. [关于相机拍照设置比例的问题](https://www.v2ex.com/t/978546) `14条评论` `iPhone`
 1. [芯片制程是不是到 1nm 就到头了？](https://www.v2ex.com/t/978587) `13条评论` `问与答`
-1. [行吧， MacOS Sonoma 的输入法还是会卡死](https://www.v2ex.com/t/978584) `12条评论` `macOS`
+1. [行吧， MacOS Sonoma 的输入法还是会卡死](https://www.v2ex.com/t/978584) `13条评论` `macOS`
+1. [那位被罚款的老哥今天又 commit 了不少](https://www.v2ex.com/t/978623) `12条评论` `分享发现`
 1. [广州哪里有按次数购买的健身房？](https://www.v2ex.com/t/978578) `12条评论` `广州`
-1. [那位被罚款的老哥今天又 commit 了不少](https://www.v2ex.com/t/978623) `11条评论` `分享发现`
+1. [iPhone 与安卓手机双持有什么打通的方案吗](https://www.v2ex.com/t/978624) `11条评论` `问与答`
 1. [国内体验谷歌生态综合最好的是 iPhone](https://www.v2ex.com/t/978610) `11条评论` `分享发现`
+1. [为什么是 11v 快充电压？](https://www.v2ex.com/t/978608) `11条评论` `硬件`
 1. [一加手机消息推送有延迟或收不到](https://www.v2ex.com/t/978580) `11条评论` `问与答`
 1. [入手 32 寸 4K 显示器感受](https://www.v2ex.com/t/978560) `11条评论` `分享发现`
 1. [卡在旧 Apple Watch 里的公交卡……](https://www.v2ex.com/t/978588) `10条评论` `Apple`
 1. [乌有网记](https://www.v2ex.com/t/978531) `10条评论` `文学`
-1. [为什么是 11v 快充电压？](https://www.v2ex.com/t/978608) `9条评论` `硬件`
 1. [快点天气上线啦！](https://www.v2ex.com/t/978577) `9条评论` `分享创造`
-1. [iPhone 与安卓手机双持有什么打通的方案吗](https://www.v2ex.com/t/978624) `8条评论` `问与答`
-1. [10 月办上海联通宽带，有啥活动吗？](https://www.v2ex.com/t/978542) `8条评论` `宽带症候群`
+1. [苹果中国 App Store 将不允许未备案应用上架](https://www.v2ex.com/t/978615) `8条评论` `Apple`
 
-数据更新于 2023-10-02 14:00:13
+数据更新于 2023-10-02 14:19:48
 
 <!-- TODAY END -->
 
