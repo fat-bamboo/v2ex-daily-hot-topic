@@ -12,7 +12,7 @@
 1. [手里有 1 亿 6 千万篇裁判文书和 3 亿条工商信息数据，从程序员的角度如何最大化利用](https://www.v2ex.com/t/978544) `47条评论` `程序员`
 1. [你能接受你女朋友曾经和前任联系过吗？](https://www.v2ex.com/t/978595) `35条评论` `问与答`
 1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574) `33条评论` `Vercel`
-1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `30条评论` `iPhone`
+1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532) `31条评论` `iPhone`
 1. [首发买的 14Pro Max 电池健康已经 86 了](https://www.v2ex.com/t/978552) `27条评论` `iPhone`
 1. [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600) `27条评论` `Apple`
 1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553) `25条评论` `NAS`
@@ -34,7 +34,7 @@
 1. [机械专业毕业的专科生现在找什么工作？](https://www.v2ex.com/t/978614) `10条评论` `求职`
 1. [卡在旧 Apple Watch 里的公交卡……](https://www.v2ex.com/t/978588) `10条评论` `Apple`
 
-数据更新于 2023-10-02 21:36:03
+数据更新于 2023-10-02 21:46:20
 
 <!-- TODAY END -->
 
