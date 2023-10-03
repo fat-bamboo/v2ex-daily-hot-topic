@@ -15,26 +15,26 @@
 1. [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710) `34条评论` `分享创造`
 1. [军工级别防摔手机壳, 有哪些推荐?](https://www.v2ex.com/t/978696) `32条评论` `Apple`
 1. [想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676) `29条评论` `程序员`
-1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748) `27条评论` `Android`
+1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748) `28条评论` `Android`
+1. [请教下这两个故事的真实性](https://www.v2ex.com/t/978743) `26条评论` `职场话题`
 1. [目前兼顾编程与娱乐的显示器 5120x2160 的 LG 屏是不是个好的选择](https://www.v2ex.com/t/978675) `26条评论` `程序员`
-1. [请教下这两个故事的真实性](https://www.v2ex.com/t/978743) `25条评论` `职场话题`
+1. [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753) `25条评论` `宽带症候群`
 1. [你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714) `24条评论` `MacBook`
-1. [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753) `23条评论` `宽带症候群`
 1. [bitwarden 的安卓客户端可以正常使用吗](https://www.v2ex.com/t/978764) `17条评论` `问与答`
 1. [Youtube 禁止使用 Adblock 了](https://www.v2ex.com/t/978733) `17条评论` `YouTube`
 1. [求推荐一个 windows 终端](https://www.v2ex.com/t/978719) `13条评论` `Windows`
 1. [Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716) `13条评论` `Python`
 1. [我看很多人发的 chatgpt 都可以输入语音/图片了，这些功能是在向部分用户测试么？](https://www.v2ex.com/t/978677) `12条评论` `OpenAI`
+1. [肺结节是真让人焦虑，各位可有什么解忧良方？](https://www.v2ex.com/t/978750) `11条评论` `生活`
 1. [macOS Sonoma 的新功能：高性能的屏幕共享（远程控制）](https://www.v2ex.com/t/978735) `11条评论` `macOS`
 1. [最近发现苹果自带的邮箱软件 (ios 手机端), 巨好用](https://www.v2ex.com/t/978752) `10条评论` `iPhone`
-1. [肺结节是真让人焦虑，各位可有什么解忧良方？](https://www.v2ex.com/t/978750) `10条评论` `生活`
 1. [咸鱼上那些 Apple Watch 官方原装“散装”表带可信不？](https://www.v2ex.com/t/978731) `10条评论` ` WATCH`
 1. [有没有老家自建房用预制钢构房的？](https://www.v2ex.com/t/978711) `10条评论` `生活`
 1. [求推荐 2000-3000 价位手机](https://www.v2ex.com/t/978767) `9条评论` `问与答`
 1. [请问一下有没有这样的浏览器可以推荐一下？](https://www.v2ex.com/t/978741) `9条评论` `浏览器`
 1. [为什么海外的软件公司都选择前端使用 wordpress?](https://www.v2ex.com/t/978707) `9条评论` `问与答`
 
-数据更新于 2023-10-03 15:15:48
+数据更新于 2023-10-03 15:27:44
 
 <!-- TODAY END -->
 
