@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `36条评论` `游戏`
-1. [退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678) `22条评论` `酷工作`
-1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `12条评论` `Linux`
+1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `38条评论` `游戏`
+1. [退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678) `26条评论` `深圳`
+1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `13条评论` `Linux`
 
-数据更新于 2023-10-03 02:24:23
+数据更新于 2023-10-03 02:36:04
 
 <!-- TODAY END -->
 
