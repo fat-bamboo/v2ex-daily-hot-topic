@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `22条评论` `游戏`
-1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `8条评论` `Linux`
+1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `34条评论` `游戏`
+1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `11条评论` `Linux`
 
-数据更新于 2023-10-03 01:19:00
+数据更新于 2023-10-03 02:00:12
 
 <!-- TODAY END -->
 
