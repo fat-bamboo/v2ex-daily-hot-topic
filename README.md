@@ -10,22 +10,24 @@
 
 1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `81条评论` `游戏`
 1. [退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678) `51条评论` `深圳`
+1. [今年十一长假你快乐么](https://www.v2ex.com/t/978680) `38条评论` `生活`
 1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `36条评论` `Linux`
-1. [今年十一长假你快乐么](https://www.v2ex.com/t/978680) `36条评论` `生活`
-1. [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710) `29条评论` `分享创造`
+1. [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710) `30条评论` `分享创造`
 1. [军工级别防摔手机壳, 有哪些推荐?](https://www.v2ex.com/t/978696) `19条评论` `Apple`
 1. [目前兼顾编程与娱乐的显示器 5120x2160 的 LG 屏是不是个好的选择](https://www.v2ex.com/t/978675) `17条评论` `程序员`
 1. [想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676) `14条评论` `程序员`
 1. [你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714) `13条评论` `Apple`
 1. [我看很多人发的 chatgpt 都可以输入语音/图片了，这些功能是在向部分用户测试么？](https://www.v2ex.com/t/978677) `12条评论` `OpenAI`
+1. [Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716) `10条评论` `Python`
 1. [[回忆]-去年在路边捡到一根废弃的雪茄](https://www.v2ex.com/t/978669) `9条评论` `生活`
-1. [Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716) `7条评论` `Python`
 1. [太离谱了，饿了么的红包领完之后金额还能变](https://www.v2ex.com/t/978668) `7条评论` `问与答`
+1. [Youtube 禁止使用 Adblock 了](https://www.v2ex.com/t/978733) `6条评论` `YouTube`
 1. [为什么海外的软件公司都选择前端使用 wordpress?](https://www.v2ex.com/t/978707) `6条评论` `问与答`
 1. [新用户怎么买腾讯的云服务器最划算？](https://www.v2ex.com/t/978701) `6条评论` `问与答`
+1. [求一个来电模拟软件。最好能熄屏来电的](https://www.v2ex.com/t/978697) `6条评论` `Android`
 1. [怎么理解 Bartender 4 is capturing your screen ？](https://www.v2ex.com/t/978688) `6条评论` `macOS`
 
-数据更新于 2023-10-03 08:57:19
+数据更新于 2023-10-03 09:16:55
 
 <!-- TODAY END -->
 
