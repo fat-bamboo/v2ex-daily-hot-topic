@@ -11,7 +11,7 @@
 1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `105条评论` `游戏`
 1. [今年十一长假你快乐么](https://www.v2ex.com/t/978680) `61条评论` `生活`
 1. [退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678) `59条评论` `深圳`
-1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `52条评论` `Linux`
+1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `53条评论` `Linux`
 1. [军工级别防摔手机壳, 有哪些推荐?](https://www.v2ex.com/t/978696) `36条评论` `Apple`
 1. [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710) `36条评论` `分享创造`
 1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748) `30条评论` `Android`
@@ -22,7 +22,7 @@
 1. [你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714) `24条评论` `MacBook`
 1. [bitwarden 的安卓客户端可以正常使用吗](https://www.v2ex.com/t/978764) `18条评论` `问与答`
 1. [Youtube 禁止使用 Adblock 了](https://www.v2ex.com/t/978733) `17条评论` `YouTube`
-1. [“蒸发型加湿器”有可能是智商税吗？](https://www.v2ex.com/t/978788) `15条评论` `问与答`
+1. [“蒸发型加湿器”有可能是智商税吗？](https://www.v2ex.com/t/978788) `16条评论` `问与答`
 1. [求推荐一个 windows 终端](https://www.v2ex.com/t/978719) `13条评论` `Windows`
 1. [Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716) `13条评论` `Python`
 1. [校招求救](https://www.v2ex.com/t/978791) `12条评论` `求职`
@@ -34,7 +34,7 @@
 1. [咸鱼上那些 Apple Watch 官方原装“散装”表带可信不？](https://www.v2ex.com/t/978731) `10条评论` ` WATCH`
 1. [有没有老家自建房用预制钢构房的？](https://www.v2ex.com/t/978711) `10条评论` `生活`
 
-数据更新于 2023-10-03 17:17:37
+数据更新于 2023-10-03 17:27:57
 
 <!-- TODAY END -->
 
