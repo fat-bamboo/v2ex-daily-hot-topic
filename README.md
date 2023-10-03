@@ -10,16 +10,16 @@
 
 1. [你用过的第一个手柄是？](https://www.v2ex.com/t/978665) `95条评论` `游戏`
 1. [退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678) `58条评论` `深圳`
-1. [今年十一长假你快乐么](https://www.v2ex.com/t/978680) `57条评论` `生活`
+1. [今年十一长假你快乐么](https://www.v2ex.com/t/978680) `58条评论` `生活`
 1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670) `46条评论` `Linux`
 1. [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710) `33条评论` `分享创造`
 1. [军工级别防摔手机壳, 有哪些推荐?](https://www.v2ex.com/t/978696) `32条评论` `Apple`
 1. [想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676) `28条评论` `程序员`
-1. [目前兼顾编程与娱乐的显示器 5120x2160 的 LG 屏是不是个好的选择](https://www.v2ex.com/t/978675) `25条评论` `程序员`
+1. [目前兼顾编程与娱乐的显示器 5120x2160 的 LG 屏是不是个好的选择](https://www.v2ex.com/t/978675) `26条评论` `程序员`
 1. [你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714) `24条评论` `MacBook`
 1. [请教下这两个故事的真实性](https://www.v2ex.com/t/978743) `24条评论` `职场话题`
-1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748) `20条评论` `Android`
-1. [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753) `19条评论` `宽带症候群`
+1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748) `23条评论` `Android`
+1. [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753) `21条评论` `宽带症候群`
 1. [Youtube 禁止使用 Adblock 了](https://www.v2ex.com/t/978733) `17条评论` `YouTube`
 1. [求推荐一个 windows 终端](https://www.v2ex.com/t/978719) `13条评论` `Windows`
 1. [Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716) `13条评论` `Python`
@@ -27,14 +27,14 @@
 1. [macOS Sonoma 的新功能：高性能的屏幕共享（远程控制）](https://www.v2ex.com/t/978735) `11条评论` `macOS`
 1. [咸鱼上那些 Apple Watch 官方原装“散装”表带可信不？](https://www.v2ex.com/t/978731) `10条评论` ` WATCH`
 1. [有没有老家自建房用预制钢构房的？](https://www.v2ex.com/t/978711) `10条评论` `生活`
+1. [求推荐 2000-3000 价位手机](https://www.v2ex.com/t/978767) `9条评论` `问与答`
+1. [bitwarden 的安卓客户端可以正常使用吗](https://www.v2ex.com/t/978764) `9条评论` `问与答`
 1. [最近发现苹果自带的邮箱软件 (ios 手机端), 巨好用](https://www.v2ex.com/t/978752) `9条评论` `iPhone`
 1. [请问一下有没有这样的浏览器可以推荐一下？](https://www.v2ex.com/t/978741) `9条评论` `浏览器`
 1. [为什么海外的软件公司都选择前端使用 wordpress?](https://www.v2ex.com/t/978707) `9条评论` `问与答`
 1. [[回忆]-去年在路边捡到一根废弃的雪茄](https://www.v2ex.com/t/978669) `9条评论` `生活`
-1. [bitwarden 的安卓客户端可以正常使用吗](https://www.v2ex.com/t/978764) `8条评论` `问与答`
-1. [求推荐 2000-3000 价位手机](https://www.v2ex.com/t/978767) `7条评论` `问与答`
 
-数据更新于 2023-10-03 14:12:54
+数据更新于 2023-10-03 14:30:48
 
 <!-- TODAY END -->
 
