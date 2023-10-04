@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `21条评论` `Twitter`
+1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `22条评论` `Twitter`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `18条评论` `iPhone`
 1. [国际免费视频通话最佳解决方案是什么？](https://www.v2ex.com/t/978818) `16条评论` `问与答`
-1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `13条评论` `Apple`
+1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `15条评论` `Apple`
 1. [安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836) `12条评论` `Android`
 1. [微信视频呼叫等待时音量过大](https://www.v2ex.com/t/978824) `12条评论` `问与答`
 1. [红米手机的处理器和存储芯片有相互加密吗？](https://www.v2ex.com/t/978825) `11条评论` `程序员`
@@ -19,9 +19,10 @@
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
 1. [为什么最近好多公司老板都跑路了](https://www.v2ex.com/t/978839) `8条评论` `问与答`
 1. [决赛圈了兄弟萌](https://www.v2ex.com/t/978827) `8条评论` `NAS`
+1. [有没有 C++的大佬，远程帮忙看一个 windows 编译的问题，付费可谈](https://www.v2ex.com/t/978854) `7条评论` `C++`
 1. [Ultra2 和 S9 的双指互点 double tap 可以使用了](https://www.v2ex.com/t/978850) `6条评论` ` WATCH`
 
-数据更新于 2023-10-04 05:28:01
+数据更新于 2023-10-04 05:38:20
 
 <!-- TODAY END -->
 
