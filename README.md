@@ -8,12 +8,12 @@
 
 <!-- TODAY BEGIN -->
 
-1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `16条评论` `Twitter`
+1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `18条评论` `Twitter`
 1. [国际免费视频通话最佳解决方案是什么？](https://www.v2ex.com/t/978818) `16条评论` `问与答`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `10条评论` `iPhone`
-1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `7条评论` `macOS`
+1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `8条评论` `macOS`
 
-数据更新于 2023-10-04 03:18:50
+数据更新于 2023-10-04 03:29:05
 
 <!-- TODAY END -->
 
