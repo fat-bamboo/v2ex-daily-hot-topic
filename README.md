@@ -11,7 +11,7 @@
 1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `50条评论` `Apple`
 1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `48条评论` `Twitter`
 1. [实在是不知道选哪个了。](https://www.v2ex.com/t/978880) `39条评论` `汽车`
-1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `34条评论` `程序员`
+1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `35条评论` `程序员`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `33条评论` `iPhone`
 1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `31条评论` `Apple`
 1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875) `25条评论` `Python`
@@ -20,8 +20,8 @@
 1. [5 座小车，乘客是两对情侣且都不愿意分开坐，怎么安排？会有什么样的结果？](https://www.v2ex.com/t/978932) `16条评论` `问与答`
 1. [有个朋友想帮问一下， 36 岁差不多要被优化的人，是 PHP 自己写项目企业，还是学习 Python 找上班呢？](https://www.v2ex.com/t/978905) `16条评论` `职场话题`
 1. [国际免费视频通话最佳解决方案是什么？](https://www.v2ex.com/t/978818) `16条评论` `问与答`
+1. [iPhone 15 防摔壳推荐](https://www.v2ex.com/t/978903) `15条评论` `iPhone`
 1. [[拼多多] 海外 temu 招后端](https://www.v2ex.com/t/978899) `15条评论` `酷工作`
-1. [iPhone 15 防摔壳推荐](https://www.v2ex.com/t/978903) `14条评论` `iPhone`
 1. [红米手机的处理器和存储芯片有相互加密吗？](https://www.v2ex.com/t/978825) `14条评论` `程序员`
 1. [为什么最近好多公司老板都跑路了](https://www.v2ex.com/t/978839) `13条评论` `问与答`
 1. [安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836) `13条评论` `Android`
@@ -34,7 +34,7 @@
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
 1. [Quora 的 Poe 从 2023 年 10 月 1 日开始标准机器人只有 10 条免费](https://www.v2ex.com/t/978890) `9条评论` `问与答`
 
-数据更新于 2023-10-04 15:36:15
+数据更新于 2023-10-04 15:46:34
 
 <!-- TODAY END -->
 
