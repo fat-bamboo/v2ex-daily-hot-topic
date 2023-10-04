@@ -20,10 +20,10 @@
 1. [Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855) `10条评论` `macOS`
 1. [Ultra2 和 S9 的双指互点 double tap 可以使用了](https://www.v2ex.com/t/978850) `10条评论` ` WATCH`
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
-1. [有没有 C++的大佬，远程帮忙看一个 windows 编译的问题，付费可谈](https://www.v2ex.com/t/978854) `8条评论` `C++`
+1. [有没有 C++的大佬，远程帮忙看一个 windows 编译的问题，付费可谈](https://www.v2ex.com/t/978854) `9条评论` `C++`
 1. [群晖双系统，还差亿点点。。。求助各位](https://www.v2ex.com/t/978856) `6条评论` `NAS`
 
-数据更新于 2023-10-04 06:47:35
+数据更新于 2023-10-04 06:57:50
 
 <!-- TODAY END -->
 
