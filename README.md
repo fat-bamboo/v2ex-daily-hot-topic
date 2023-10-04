@@ -13,7 +13,7 @@
 1. [实在是不知道选哪个了。](https://www.v2ex.com/t/978880) `41条评论` `汽车`
 1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `38条评论` `程序员`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `34条评论` `iPhone`
-1. [是回国呢？还是继续坚持一下？](https://www.v2ex.com/t/978953) `32条评论` `问与答`
+1. [是回国呢？还是继续坚持一下？](https://www.v2ex.com/t/978953) `33条评论` `问与答`
 1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `31条评论` `Apple`
 1. [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943) `29条评论` `iPhone`
 1. [安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836) `27条评论` `Android`
@@ -34,7 +34,7 @@
 1. [Ultra2 和 S9 的双指互点 double tap 可以使用了](https://www.v2ex.com/t/978850) `11条评论` ` WATCH`
 1. [决赛圈了兄弟萌](https://www.v2ex.com/t/978827) `11条评论` `NAS`
 
-数据更新于 2023-10-04 23:30:53
+数据更新于 2023-10-04 23:45:49
 
 <!-- TODAY END -->
 
