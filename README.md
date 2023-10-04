@@ -11,13 +11,13 @@
 1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `52条评论` `Apple`
 1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `51条评论` `Twitter`
 1. [实在是不知道选哪个了。](https://www.v2ex.com/t/978880) `41条评论` `汽车`
-1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `36条评论` `程序员`
+1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `37条评论` `程序员`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `34条评论` `iPhone`
 1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `31条评论` `Apple`
 1. [安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836) `27条评论` `Android`
 1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875) `25条评论` `Python`
+1. [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943) `23条评论` `iPhone`
 1. [微信视频呼叫等待时音量过大](https://www.v2ex.com/t/978824) `23条评论` `微信`
-1. [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943) `22条评论` `iPhone`
 1. [上次有个兄弟要去南阳买房子的要三思了，南阳迷笛音乐节大量财物被盗，失主：上厕所回来发现帐篷消失，连衣服和内裤也没了](https://www.v2ex.com/t/978869) `20条评论` `郑州`
 1. [有个朋友想帮问一下， 36 岁差不多要被优化的人，是 PHP 自己写项目企业，还是学习 Python 找上班呢？](https://www.v2ex.com/t/978905) `18条评论` `职场话题`
 1. [5 座小车，乘客是两对情侣且都不愿意分开坐，怎么安排？会有什么样的结果？](https://www.v2ex.com/t/978932) `16条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855) `10条评论` `macOS`
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
 
-数据更新于 2023-10-04 18:37:48
+数据更新于 2023-10-04 18:47:47
 
 <!-- TODAY END -->
 
