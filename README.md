@@ -31,10 +31,10 @@
 1. [无限群 Web 端与 Mac 桌面端功能演示视频](https://www.v2ex.com/t/978923) `11条评论` `程序员`
 1. [Ultra2 和 S9 的双指互点 double tap 可以使用了](https://www.v2ex.com/t/978850) `11条评论` ` WATCH`
 1. [决赛圈了兄弟萌](https://www.v2ex.com/t/978827) `11条评论` `NAS`
+1. [内置反诈，是法律规定还是厂家主动的？](https://www.v2ex.com/t/978952) `10条评论` `Android`
 1. [Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855) `10条评论` `macOS`
-1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
 
-数据更新于 2023-10-04 18:47:47
+数据更新于 2023-10-04 18:58:04
 
 <!-- TODAY END -->
 
