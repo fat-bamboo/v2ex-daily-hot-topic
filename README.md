@@ -34,7 +34,7 @@
 1. [Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855) `10条评论` `macOS`
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
 
-数据更新于 2023-10-04 17:59:43
+数据更新于 2023-10-04 18:25:09
 
 <!-- TODAY END -->
 
