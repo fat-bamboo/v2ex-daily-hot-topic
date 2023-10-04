@@ -8,8 +8,8 @@
 
 <!-- TODAY BEGIN -->
 
-1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `51条评论` `Apple`
-1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `50条评论` `Twitter`
+1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `52条评论` `Apple`
+1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `51条评论` `Twitter`
 1. [实在是不知道选哪个了。](https://www.v2ex.com/t/978880) `41条评论` `汽车`
 1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `36条评论` `程序员`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `33条评论` `iPhone`
@@ -34,7 +34,7 @@
 1. [Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855) `10条评论` `macOS`
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
 
-数据更新于 2023-10-04 17:17:48
+数据更新于 2023-10-04 17:28:52
 
 <!-- TODAY END -->
 
