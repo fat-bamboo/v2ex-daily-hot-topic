@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `30条评论` `Twitter`
-1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `26条评论` `Apple`
+1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `29条评论` `Apple`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `25条评论` `iPhone`
 1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `24条评论` `Apple`
 1. [上次有个兄弟要去南阳买房子的要三思了，南阳迷笛音乐节大量财物被盗，失主：上厕所回来发现帐篷消失，连衣服和内裤也没了](https://www.v2ex.com/t/978869) `20条评论` `郑州`
@@ -30,7 +30,7 @@
 1. [升级 Sonoma 之后， Netflix DRM 居然失效了，可以直接截图了](https://www.v2ex.com/t/978873) `6条评论` `macOS`
 1. [做了个从关键词生成 App Icon 和主题的网站，有兴趣的小伙伴来共建哇](https://www.v2ex.com/t/978864) `6条评论` `程序员`
 
-数据更新于 2023-10-04 08:47:17
+数据更新于 2023-10-04 08:57:30
 
 <!-- TODAY END -->
 
