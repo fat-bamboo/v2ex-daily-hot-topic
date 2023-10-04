@@ -12,8 +12,10 @@
 1. [国际免费视频通话最佳解决方案是什么？](https://www.v2ex.com/t/978818) `16条评论` `问与答`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `10条评论` `iPhone`
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `8条评论` `macOS`
+1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `6条评论` `Apple`
+1. [微信视频呼叫等待时音量过大](https://www.v2ex.com/t/978824) `6条评论` `问与答`
 
-数据更新于 2023-10-04 03:29:05
+数据更新于 2023-10-04 03:39:21
 
 <!-- TODAY END -->
 
