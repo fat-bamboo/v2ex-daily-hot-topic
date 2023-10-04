@@ -8,10 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `28条评论` `Twitter`
+1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821) `30条评论` `Twitter`
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819) `24条评论` `iPhone`
-1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `17条评论` `Apple`
+1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877) `24条评论` `Apple`
 1. [国际免费视频通话最佳解决方案是什么？](https://www.v2ex.com/t/978818) `16条评论` `问与答`
+1. [上次有个兄弟要去南阳买房子的要三思了，南阳迷笛音乐节大量财物被盗，失主：上厕所回来发现帐篷消失，连衣服和内裤也没了](https://www.v2ex.com/t/978869) `15条评论` `郑州`
 1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834) `15条评论` `Apple`
 1. [红米手机的处理器和存储芯片有相互加密吗？](https://www.v2ex.com/t/978825) `14条评论` `程序员`
 1. [为什么最近好多公司老板都跑路了](https://www.v2ex.com/t/978839) `13条评论` `问与答`
@@ -20,16 +21,15 @@
 1. [Ultra2 和 S9 的双指互点 double tap 可以使用了](https://www.v2ex.com/t/978850) `11条评论` ` WATCH`
 1. [决赛圈了兄弟萌](https://www.v2ex.com/t/978827) `11条评论` `NAS`
 1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875) `10条评论` `Python`
-1. [上次有个兄弟要去南阳买房子的要三思了，南阳迷笛音乐节大量财物被盗，失主：上厕所回来发现帐篷消失，连衣服和内裤也没了](https://www.v2ex.com/t/978869) `10条评论` `郑州`
 1. [Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855) `10条评论` `macOS`
 1. [Arc Browser 发布浏览器五大内置 AI 功能](https://www.v2ex.com/t/978817) `10条评论` `macOS`
+1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `9条评论` `程序员`
 1. [有没有 C++的大佬，远程帮忙看一个 windows 编译的问题，付费可谈](https://www.v2ex.com/t/978854) `9条评论` `C++`
-1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888) `8条评论` `程序员`
 1. [实在是不知道选哪个了。](https://www.v2ex.com/t/978880) `7条评论` `汽车`
 1. [群晖双系统，还差亿点点。。。求助各位](https://www.v2ex.com/t/978856) `7条评论` `NAS`
 1. [做了个从关键词生成 App Icon 和主题的网站，有兴趣的小伙伴来共建哇](https://www.v2ex.com/t/978864) `6条评论` `程序员`
 
-数据更新于 2023-10-04 08:20:55
+数据更新于 2023-10-04 08:37:11
 
 <!-- TODAY END -->
 
