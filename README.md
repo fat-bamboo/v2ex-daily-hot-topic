@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `74条评论` `Android`
+1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `75条评论` `Android`
 1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `63条评论` `Apple TV`
 1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `50条评论` `Android`
 1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `49条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969) `13条评论` `Apple`
 1. [请问币安 C2C 交易人民币和 USDT 的汇率为什么那么高](https://www.v2ex.com/t/979075) `12条评论` `问与答`
 
-数据更新于 2023-10-05 18:37:10
+数据更新于 2023-10-05 18:47:25
 
 <!-- TODAY END -->
 
