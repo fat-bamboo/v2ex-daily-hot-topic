@@ -24,17 +24,17 @@
 1. [Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042) `19条评论` `Windows`
 1. [升级到 iOS17.0.3 以后，指南针不显示经纬度坐标和海拔高度了，有人遇到和我一样的问题吗？](https://www.v2ex.com/t/978998) `19条评论` `Apple`
 1. [关于'高可用'的问题](https://www.v2ex.com/t/979027) `16条评论` `程序员`
+1. [windows 为什么没有妙控板这样的外设](https://www.v2ex.com/t/979129) `14条评论` `macOS`
 1. [毕业 4 年， 27 岁一事无成无一技傍身，转行学编程怎么样？](https://www.v2ex.com/t/979109) `14条评论` `问与答`
 1. [请教一下美区 iCloud 线路问题](https://www.v2ex.com/t/978974) `14条评论` `iCloud`
 1. [写了一个动物派对的挂机脚本](https://www.v2ex.com/t/978965) `14条评论` `分享创造`
-1. [windows 为什么没有妙控板这样的外设](https://www.v2ex.com/t/979129) `13条评论` `macOS`
 1. [自来水有盐状结晶正常吗？](https://www.v2ex.com/t/979101) `13条评论` `深圳`
 1. [我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049) `13条评论` `Android`
 1. [我建了个车友群，喜欢开车的快来加吧](https://www.v2ex.com/t/978992) `13条评论` `汽车`
 1. [新手假期上高速练车，看来是比较好的选择](https://www.v2ex.com/t/978986) `13条评论` `汽车`
 1. [如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969) `13条评论` `Apple`
 
-数据更新于 2023-10-05 21:36:03
+数据更新于 2023-10-05 21:46:17
 
 <!-- TODAY END -->
 
