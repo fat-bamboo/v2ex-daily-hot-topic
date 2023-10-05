@@ -10,31 +10,31 @@
 
 1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `50条评论` `Android`
 1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `38条评论` `问与答`
+1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `29条评论` `Android`
 1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `29条评论` `问与答`
-1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `28条评论` `Android`
 1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `21条评论` `Apple TV`
 1. [有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011) `21条评论` `NAS`
 1. [Aqara 这种智能家居是否存在隐私隐患？](https://www.v2ex.com/t/979003) `20条评论` `HomeKit`
 1. [升级到 iOS17.0.3 以后，指南针不显示经纬度坐标和海拔高度了，有人遇到和我一样的问题吗？](https://www.v2ex.com/t/978998) `19条评论` `Apple`
 1. [关于'高可用'的问题](https://www.v2ex.com/t/979027) `15条评论` `程序员`
+1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019) `15条评论` `问与答`
 1. [星际旅行有什么意义？](https://www.v2ex.com/t/979012) `15条评论` `奇思妙想`
 1. [请教一下美区 iCloud 线路问题](https://www.v2ex.com/t/978974) `14条评论` `iCloud`
 1. [写了一个动物派对的挂机脚本](https://www.v2ex.com/t/978965) `14条评论` `分享创造`
-1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019) `13条评论` `问与答`
 1. [寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997) `13条评论` `Android`
 1. [我建了个车友群，喜欢开车的快来加吧](https://www.v2ex.com/t/978992) `13条评论` `汽车`
 1. [新手假期上高速练车，看来是比较好的选择](https://www.v2ex.com/t/978986) `13条评论` `汽车`
 1. [如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969) `13条评论` `Apple`
+1. [吐槽一下现在的国产 app 对中老年人的毒害](https://www.v2ex.com/t/979050) `12条评论` `分享发现`
 1. [新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980) `12条评论` `装修`
 1. [微软拼音又开始折磨用户了](https://www.v2ex.com/t/979025) `11条评论` `Windows`
 1. [35 了 没啥方向](https://www.v2ex.com/t/979001) `11条评论` `职场话题`
-1. [吐槽一下现在的国产 app 对中老年人的毒害](https://www.v2ex.com/t/979050) `10条评论` `分享发现`
-1. [Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042) `7条评论` `Windows`
+1. [Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042) `9条评论` `Windows`
 1. [强烈建议 15pro 系列更新到 ios 17.0.3/17.1beta2](https://www.v2ex.com/t/979010) `7条评论` `iPhone`
 1. [Postgres 中的 upsert 方法为什么在冲突 DO NOTHING 的话就不返回 row?](https://www.v2ex.com/t/978985) `7条评论` `PostgreSQL`
-1. [livi Bank 申请后审核通知需要打电话确认](https://www.v2ex.com/t/979015) `6条评论` `香港`
+1. [mac 上出现这个怎么去掉](https://www.v2ex.com/t/979038) `6条评论` `macOS`
 
-数据更新于 2023-10-05 09:28:12
+数据更新于 2023-10-05 09:38:27
 
 <!-- TODAY END -->
 
