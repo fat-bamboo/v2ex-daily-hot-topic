@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `46条评论` `Android`
+1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `47条评论` `Android`
 1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `28条评论` `问与答`
 1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `24条评论` `Android`
 1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `22条评论` `问与答`
@@ -23,13 +23,13 @@
 1. [星际旅行有什么意义？](https://www.v2ex.com/t/979012) `12条评论` `奇思妙想`
 1. [新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980) `12条评论` `装修`
 1. [寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997) `11条评论` `Android`
-1. [关于'高可用'的问题](https://www.v2ex.com/t/979027) `7条评论` `程序员`
+1. [关于'高可用'的问题](https://www.v2ex.com/t/979027) `8条评论` `程序员`
+1. [35 了 没啥方向](https://www.v2ex.com/t/979001) `7条评论` `职场话题`
 1. [Postgres 中的 upsert 方法为什么在冲突 DO NOTHING 的话就不返回 row?](https://www.v2ex.com/t/978985) `7条评论` `PostgreSQL`
 1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019) `6条评论` `问与答`
-1. [35 了 没啥方向](https://www.v2ex.com/t/979001) `6条评论` `职场话题`
 1. [升级 macOS 14.0 后状态栏一直是浅色](https://www.v2ex.com/t/978968) `6条评论` `Apple`
 
-数据更新于 2023-10-05 07:46:38
+数据更新于 2023-10-05 07:57:08
 
 <!-- TODAY END -->
 
