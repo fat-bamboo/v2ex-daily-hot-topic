@@ -8,19 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `51条评论` `Android`
+1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `52条评论` `Android`
 1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `39条评论` `问与答`
-1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `30条评论` `Android`
-1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `30条评论` `问与答`
-1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `24条评论` `Apple TV`
+1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `33条评论` `Apple TV`
+1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `32条评论` `Android`
+1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `31条评论` `问与答`
 1. [有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011) `21条评论` `NAS`
+1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019) `20条评论` `问与答`
 1. [Aqara 这种智能家居是否存在隐私隐患？](https://www.v2ex.com/t/979003) `20条评论` `HomeKit`
 1. [升级到 iOS17.0.3 以后，指南针不显示经纬度坐标和海拔高度了，有人遇到和我一样的问题吗？](https://www.v2ex.com/t/978998) `19条评论` `Apple`
-1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019) `18条评论` `问与答`
-1. [Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042) `16条评论` `Windows`
-1. [关于'高可用'的问题](https://www.v2ex.com/t/979027) `15条评论` `程序员`
+1. [Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042) `18条评论` `Windows`
+1. [关于'高可用'的问题](https://www.v2ex.com/t/979027) `16条评论` `程序员`
+1. [吐槽一下现在的国产 app 对中老年人的毒害](https://www.v2ex.com/t/979050) `15条评论` `分享发现`
 1. [星际旅行有什么意义？](https://www.v2ex.com/t/979012) `15条评论` `奇思妙想`
-1. [吐槽一下现在的国产 app 对中老年人的毒害](https://www.v2ex.com/t/979050) `14条评论` `分享发现`
 1. [请教一下美区 iCloud 线路问题](https://www.v2ex.com/t/978974) `14条评论` `iCloud`
 1. [写了一个动物派对的挂机脚本](https://www.v2ex.com/t/978965) `14条评论` `分享创造`
 1. [寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997) `13条评论` `Android`
@@ -30,11 +30,11 @@
 1. [新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980) `12条评论` `装修`
 1. [微软拼音又开始折磨用户了](https://www.v2ex.com/t/979025) `11条评论` `Windows`
 1. [35 了 没啥方向](https://www.v2ex.com/t/979001) `11条评论` `职场话题`
-1. [有无好用的 RSS 全平台服务/客户端](https://www.v2ex.com/t/979047) `7条评论` `问与答`
+1. [有无好用的 RSS 全平台服务/客户端](https://www.v2ex.com/t/979047) `8条评论` `问与答`
+1. [我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049) `7条评论` `Android`
 1. [mac 上出现这个怎么去掉](https://www.v2ex.com/t/979038) `7条评论` `macOS`
-1. [livi Bank 申请后审核通知需要打电话确认](https://www.v2ex.com/t/979015) `7条评论` `香港`
 
-数据更新于 2023-10-05 09:59:01
+数据更新于 2023-10-05 10:21:28
 
 <!-- TODAY END -->
 
