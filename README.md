@@ -8,17 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `29条评论` `Android`
-1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `13条评论` `问与答`
+1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `33条评论` `Android`
+1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `15条评论` `问与答`
+1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `14条评论` `Android`
 1. [如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969) `13条评论` `Apple`
 1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `12条评论` `问与答`
-1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `11条评论` `Android`
+1. [请教一下美区 iCloud 线路问题](https://www.v2ex.com/t/978974) `11条评论` `iCloud`
 1. [写了一个动物派对的挂机脚本](https://www.v2ex.com/t/978965) `11条评论` `分享创造`
 1. [新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980) `9条评论` `装修`
-1. [请教一下美区 iCloud 线路问题](https://www.v2ex.com/t/978974) `8条评论` `iCloud`
 1. [升级 macOS 14.0 后状态栏一直是浅色](https://www.v2ex.com/t/978968) `6条评论` `Apple`
 
-数据更新于 2023-10-05 04:22:21
+数据更新于 2023-10-05 04:36:30
 
 <!-- TODAY END -->
 
