@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `56条评论` `Android`
-1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `47条评论` `Apple TV`
+1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `60条评论` `Android`
+1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `49条评论` `Apple TV`
+1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `44条评论` `问与答`
 1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `40条评论` `问与答`
-1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `38条评论` `问与答`
-1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `36条评论` `Android`
+1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976) `39条评论` `Android`
 1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019) `22条评论` `问与答`
 1. [有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011) `21条评论` `NAS`
 1. [Aqara 这种智能家居是否存在隐私隐患？](https://www.v2ex.com/t/979003) `20条评论` `HomeKit`
@@ -27,14 +27,14 @@
 1. [我建了个车友群，喜欢开车的快来加吧](https://www.v2ex.com/t/978992) `13条评论` `汽车`
 1. [新手假期上高速练车，看来是比较好的选择](https://www.v2ex.com/t/978986) `13条评论` `汽车`
 1. [如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969) `13条评论` `Apple`
+1. [我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049) `12条评论` `Android`
 1. [新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980) `12条评论` `装修`
 1. [微软拼音又开始折磨用户了](https://www.v2ex.com/t/979025) `11条评论` `Windows`
 1. [35 了 没啥方向](https://www.v2ex.com/t/979001) `11条评论` `职场话题`
-1. [我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049) `10条评论` `Android`
 1. [有无好用的 RSS 全平台服务/客户端](https://www.v2ex.com/t/979047) `10条评论` `问与答`
-1. [家庭共享漏洞？](https://www.v2ex.com/t/979056) `9条评论` `Apple`
+1. [请问币安 C2C 交易人民币和 USDT 的汇率为什么那么高](https://www.v2ex.com/t/979075) `9条评论` `问与答`
 
-数据更新于 2023-10-05 11:56:46
+数据更新于 2023-10-05 12:32:25
 
 <!-- TODAY END -->
 
