@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `54条评论` `Android`
+1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971) `55条评论` `Android`
 1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970) `40条评论` `问与答`
 1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034) `36条评论` `Apple TV`
 1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984) `34条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049) `7条评论` `Android`
 1. [mac 上出现这个怎么去掉](https://www.v2ex.com/t/979038) `7条评论` `macOS`
 
-数据更新于 2023-10-05 10:36:57
+数据更新于 2023-10-05 10:47:20
 
 <!-- TODAY END -->
 
