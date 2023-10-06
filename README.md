@@ -8,14 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `59条评论` `生活`
+1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `62条评论` `生活`
 1. [真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199) `57条评论` `问与答`
 1. [田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141) `57条评论` `业界八卦`
 1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `49条评论` `机械键盘`
-1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `46条评论` `Google`
+1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `47条评论` `Google`
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `39条评论` `分享创造`
 1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `37条评论` `iCloud`
 1. [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226) `28条评论` `分享发现`
+1. [如何看待西安外国语大学丁某出轨事件？还能相信人类女性吗？](https://www.v2ex.com/t/979305) `19条评论` `问与答`
 1. [Mac 前几天开始梯子出现问题，国内网站无法访问，不知道什么原因，请教大家！](https://www.v2ex.com/t/979266) `19条评论` `macOS`
 1. [目前香港号码最优解是不是就是 hahasim 了？](https://www.v2ex.com/t/979287) `17条评论` `问与答`
 1. [apple news 怎么检测到我人不在美国从而不提供服务的啊](https://www.v2ex.com/t/979264) `17条评论` `Apple`
@@ -32,9 +33,8 @@
 1. [想做一款 RSS 阅读器提升体验，现在还有人用吗？](https://www.v2ex.com/t/979196) `10条评论` `RSS`
 1. [婚恋机构可以查询公民的婚否情况么？讨论公民数据安全问题](https://www.v2ex.com/t/979184) `10条评论` `程序员`
 1. [利用 VPS（儲存空間小）下載 torrent？](https://www.v2ex.com/t/979252) `9条评论` `VPS`
-1. [大家见过电池健康度最低极限是多少？](https://www.v2ex.com/t/979239) `9条评论` `iPhone`
 
-数据更新于 2023-10-06 14:56:55
+数据更新于 2023-10-06 15:16:56
 
 <!-- TODAY END -->
 
