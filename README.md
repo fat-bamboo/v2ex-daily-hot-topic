@@ -10,22 +10,22 @@
 
 1. [田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141) `44条评论` `业界八卦`
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `23条评论` `分享创造`
-1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `18条评论` `Google`
+1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `21条评论` `Google`
 1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `18条评论` `iCloud`
 1. [求一款远程控制的软件](https://www.v2ex.com/t/979154) `15条评论` `程序员`
 1. [Mac 跑 Stable Diffusion，预算有限是上 38 核 GPU，还是上 64 GB 内存？](https://www.v2ex.com/t/979171) `12条评论` `问与答`
 1. [想开个 AI 软件创业公司，武汉还是深圳？](https://www.v2ex.com/t/979157) `12条评论` `程序员`
+1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `11条评论` `macOS`
 1. [win 平台，有没有可以在局域网内台式机上显示并控制操作安卓手机的应用？](https://www.v2ex.com/t/979172) `9条评论` `程序员`
 1. [有没有比较好用的开源 2FA 工具？](https://www.v2ex.com/t/979165) `9条评论` `问与答`
 1. [请教下 985 研究生佬们](https://www.v2ex.com/t/979162) `9条评论` `职场话题`
-1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `7条评论` `macOS`
+1. [请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186) `7条评论` `程序员`
 1. [研究生未来方向](https://www.v2ex.com/t/979161) `7条评论` `职场话题`
 1. [你们的 win11 任务管理器有网卡速度项目么？](https://www.v2ex.com/t/979148) `7条评论` `云修电脑`
-1. [请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186) `6条评论` `程序员`
 1. [建议新增西安的城市节点](https://www.v2ex.com/t/979169) `6条评论` `反馈`
 1. [关于笔记本外接屏幕时内置显示器黑屏一秒的问题](https://www.v2ex.com/t/979149) `6条评论` `云修电脑`
 
-数据更新于 2023-10-06 05:48:19
+数据更新于 2023-10-06 05:58:35
 
 <!-- TODAY END -->
 
