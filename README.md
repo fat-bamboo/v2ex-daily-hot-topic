@@ -26,15 +26,15 @@
 1. [Mac 跑 Stable Diffusion，预算有限是上 38 核 GPU，还是上 64 GB 内存？](https://www.v2ex.com/t/979171) `16条评论` `iMac`
 1. [iPhone 如何屏蔽某个电话号码](https://www.v2ex.com/t/979189) `15条评论` `iPhone`
 1. [求一款远程控制的软件](https://www.v2ex.com/t/979154) `15条评论` `程序员`
+1. [go exec cmd /c 处理空格和双引号问题，大家有什么好办法吗？](https://www.v2ex.com/t/979299) `14条评论` `程序员`
 1. [请教下 985 研究生佬们](https://www.v2ex.com/t/979162) `14条评论` `职场话题`
-1. [go exec cmd /c 处理空格和双引号问题，大家有什么好办法吗？](https://www.v2ex.com/t/979299) `13条评论` `程序员`
 1. [iPhone 15 pro 外挂 SSD 文件系统](https://www.v2ex.com/t/979209) `13条评论` `iPhone`
 1. [win 平台，有没有可以在局域网内台式机上显示并控制操作安卓手机的应用？](https://www.v2ex.com/t/979172) `12条评论` `程序员`
 1. [想开个 AI 软件创业公司，武汉还是深圳？](https://www.v2ex.com/t/979157) `12条评论` `程序员`
+1. [除了刷信仰，马原毛概对生活有啥用？](https://www.v2ex.com/t/979325) `11条评论` `问与答`
 1. [Apple care + 体验很好](https://www.v2ex.com/t/979195) `11条评论` `Apple`
-1. [请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186) `11条评论` `程序员`
 
-数据更新于 2023-10-06 17:28:17
+数据更新于 2023-10-06 17:38:41
 
 <!-- TODAY END -->
 
