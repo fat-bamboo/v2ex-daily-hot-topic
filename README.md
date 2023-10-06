@@ -13,7 +13,7 @@
 1. [田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141) `57条评论` `业界八卦`
 1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `49条评论` `机械键盘`
 1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `48条评论` `Google`
-1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `44条评论` `分享创造`
+1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `45条评论` `分享创造`
 1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `40条评论` `iCloud`
 1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `34条评论` `macOS`
 1. [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226) `29条评论` `分享发现`
@@ -34,7 +34,7 @@
 1. [想开个 AI 软件创业公司，武汉还是深圳？](https://www.v2ex.com/t/979157) `12条评论` `程序员`
 1. [很好奇，公司为何不让通过 EasyConnect 长时间挂着，然后访问公司内部资源！](https://www.v2ex.com/t/979318) `11条评论` `宽带症候群`
 
-数据更新于 2023-10-06 20:15:36
+数据更新于 2023-10-06 20:25:49
 
 <!-- TODAY END -->
 
