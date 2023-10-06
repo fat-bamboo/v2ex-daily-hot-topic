@@ -9,13 +9,13 @@
 <!-- TODAY BEGIN -->
 
 1. [田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141) `57条评论` `业界八卦`
+1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `43条评论` `生活`
 1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `43条评论` `机械键盘`
-1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `40条评论` `生活`
-1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `38条评论` `Google`
-1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `35条评论` `iCloud`
-1. [真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199) `35条评论` `问与答`
+1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `39条评论` `Google`
+1. [真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199) `39条评论` `问与答`
+1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `36条评论` `iCloud`
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `32条评论` `分享创造`
-1. [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226) `18条评论` `分享发现`
+1. [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226) `28条评论` `分享发现`
 1. [Mac 跑 Stable Diffusion，预算有限是上 38 核 GPU，还是上 64 GB 内存？](https://www.v2ex.com/t/979171) `16条评论` `iMac`
 1. [iPhone 如何屏蔽某个电话号码](https://www.v2ex.com/t/979189) `15条评论` `iPhone`
 1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `15条评论` `macOS`
@@ -28,13 +28,13 @@
 1. [请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186) `11条评论` `程序员`
 1. [想做一款 RSS 阅读器提升体验，现在还有人用吗？](https://www.v2ex.com/t/979196) `10条评论` `RSS`
 1. [婚恋机构可以查询公民的婚否情况么？讨论公民数据安全问题](https://www.v2ex.com/t/979184) `10条评论` `程序员`
+1. [利用 VPS（儲存空間小）下載 torrent？](https://www.v2ex.com/t/979252) `9条评论` `VPS`
+1. [关于 iPhone 15 Pro 背部边框不平齐的问题](https://www.v2ex.com/t/979233) `9条评论` `iPhone`
+1. [有没有可以平替 iPad mini 的安卓平板](https://www.v2ex.com/t/979227) `9条评论` `问与答`
 1. [妙控板真的好用吗？](https://www.v2ex.com/t/979194) `9条评论` `Apple`
 1. [求问：现在成都电信星卡，但是送的流量是成都市内流量，想改成全国流量咋去给运营商拉扯](https://www.v2ex.com/t/979192) `9条评论` `宽带症候群`
-1. [有没有比较好用的开源 2FA 工具？](https://www.v2ex.com/t/979165) `9条评论` `问与答`
-1. [利用 VPS（儲存空間小）下載 torrent？](https://www.v2ex.com/t/979252) `8条评论` `VPS`
-1. [大家见过电池健康度最低极限是多少？](https://www.v2ex.com/t/979239) `8条评论` `iPhone`
 
-数据更新于 2023-10-06 11:56:59
+数据更新于 2023-10-06 12:32:08
 
 <!-- TODAY END -->
 
