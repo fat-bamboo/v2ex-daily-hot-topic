@@ -14,12 +14,12 @@
 1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `49条评论` `机械键盘`
 1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `48条评论` `Google`
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `44条评论` `分享创造`
-1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `37条评论` `iCloud`
-1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `32条评论` `macOS`
+1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `38条评论` `iCloud`
+1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `33条评论` `macOS`
 1. [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226) `29条评论` `分享发现`
 1. [如何看待西安外国语大学丁某出轨事件？还能相信人类女性吗？](https://www.v2ex.com/t/979305) `25条评论` `问与答`
+1. [大家都在用什么 app 看国内新闻呀](https://www.v2ex.com/t/979307) `22条评论` `问与答`
 1. [目前香港号码最优解是不是就是 hahasim 了？](https://www.v2ex.com/t/979287) `21条评论` `问与答`
-1. [大家都在用什么 app 看国内新闻呀](https://www.v2ex.com/t/979307) `19条评论` `问与答`
 1. [Mac 前几天开始梯子出现问题，国内网站无法访问，不知道什么原因，请教大家！](https://www.v2ex.com/t/979266) `19条评论` `macOS`
 1. [进来试试你的设备支不支持真*HDR 图片](https://www.v2ex.com/t/979304) `17条评论` `Android`
 1. [apple news 怎么检测到我人不在美国从而不提供服务的啊](https://www.v2ex.com/t/979264) `17条评论` `Apple`
@@ -34,7 +34,7 @@
 1. [Apple care + 体验很好](https://www.v2ex.com/t/979195) `11条评论` `Apple`
 1. [请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186) `11条评论` `程序员`
 
-数据更新于 2023-10-06 16:59:35
+数据更新于 2023-10-06 17:17:34
 
 <!-- TODAY END -->
 
