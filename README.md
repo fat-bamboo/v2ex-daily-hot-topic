@@ -9,11 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141) `57条评论` `业界八卦`
-1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `28条评论` `iCloud`
-1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `28条评论` `分享创造`
+1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `30条评论` `iCloud`
+1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `30条评论` `分享创造`
 1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `25条评论` `Google`
-1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `24条评论` `机械键盘`
+1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `25条评论` `机械键盘`
 1. [真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199) `20条评论` `问与答`
+1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `18条评论` `生活`
 1. [Mac 跑 Stable Diffusion，预算有限是上 38 核 GPU，还是上 64 GB 内存？](https://www.v2ex.com/t/979171) `16条评论` `iMac`
 1. [iPhone 如何屏蔽某个电话号码](https://www.v2ex.com/t/979189) `15条评论` `iPhone`
 1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `15条评论` `macOS`
@@ -23,18 +24,17 @@
 1. [想开个 AI 软件创业公司，武汉还是深圳？](https://www.v2ex.com/t/979157) `12条评论` `程序员`
 1. [Apple care + 体验很好](https://www.v2ex.com/t/979195) `11条评论` `Apple`
 1. [请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186) `11条评论` `程序员`
-1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `10条评论` `生活`
 1. [iPhone 15 pro 外挂 SSD 文件系统](https://www.v2ex.com/t/979209) `10条评论` `iPhone`
 1. [婚恋机构可以查询公民的婚否情况么？讨论公民数据安全问题](https://www.v2ex.com/t/979184) `10条评论` `程序员`
+1. [想做一款 RSS 阅读器提升体验，现在还有人用吗？](https://www.v2ex.com/t/979196) `9条评论` `分享创造`
 1. [妙控板真的好用吗？](https://www.v2ex.com/t/979194) `9条评论` `Apple`
 1. [求问：现在成都电信星卡，但是送的流量是成都市内流量，想改成全国流量咋去给运营商拉扯](https://www.v2ex.com/t/979192) `9条评论` `宽带症候群`
 1. [有没有比较好用的开源 2FA 工具？](https://www.v2ex.com/t/979165) `9条评论` `问与答`
-1. [想做一款 RSS 阅读器提升体验，现在还有人用吗？](https://www.v2ex.com/t/979196) `8条评论` `分享创造`
+1. [哪里现在能买 google voice 号](https://www.v2ex.com/t/979223) `8条评论` `问与答`
 1. [研究生未来方向](https://www.v2ex.com/t/979161) `8条评论` `职场话题`
-1. [哪里现在能买 google voice 号](https://www.v2ex.com/t/979223) `7条评论` `问与答`
 1. [iPhone15 外接设备小技巧，当设备不识别时，串一个 typec HUB、扩展坞试试](https://www.v2ex.com/t/979187) `7条评论` `Apple`
 
-数据更新于 2023-10-06 08:56:01
+数据更新于 2023-10-06 09:14:15
 
 <!-- TODAY END -->
 
