@@ -15,7 +15,7 @@
 1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `48条评论` `Google`
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `45条评论` `分享创造`
 1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `40条评论` `iCloud`
-1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `34条评论` `macOS`
+1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167) `35条评论` `macOS`
 1. [想开个 AI 软件创业公司，武汉还是深圳？](https://www.v2ex.com/t/979157) `30条评论` `程序员`
 1. [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226) `29条评论` `分享发现`
 1. [进来试试你的设备支不支持真*HDR 图片](https://www.v2ex.com/t/979304) `25条评论` `Android`
@@ -34,7 +34,7 @@
 1. [win 平台，有没有可以在局域网内台式机上显示并控制操作安卓手机的应用？](https://www.v2ex.com/t/979172) `12条评论` `程序员`
 1. [很好奇，公司为何不让通过 EasyConnect 长时间挂着，然后访问公司内部资源！](https://www.v2ex.com/t/979318) `11条评论` `宽带症候群`
 
-数据更新于 2023-10-06 22:27:53
+数据更新于 2023-10-06 22:38:18
 
 <!-- TODAY END -->
 
