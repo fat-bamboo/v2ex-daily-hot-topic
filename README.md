@@ -9,9 +9,9 @@
 <!-- TODAY BEGIN -->
 
 1. [田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141) `57条评论` `业界八卦`
-1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `41条评论` `机械键盘`
-1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `37条评论` `生活`
-1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `36条评论` `Google`
+1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193) `42条评论` `机械键盘`
+1. [戒色打卡交流群](https://www.v2ex.com/t/979221) `40条评论` `生活`
+1. [Google voice 保号方案](https://www.v2ex.com/t/979173) `38条评论` `Google`
 1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146) `35条评论` `iCloud`
 1. [真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199) `34条评论` `问与答`
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164) `32条评论` `分享创造`
@@ -34,7 +34,7 @@
 1. [哪里现在能买 google voice 号](https://www.v2ex.com/t/979223) `8条评论` `问与答`
 1. [研究生未来方向](https://www.v2ex.com/t/979161) `8条评论` `职场话题`
 
-数据更新于 2023-10-06 11:36:19
+数据更新于 2023-10-06 11:46:39
 
 <!-- TODAY END -->
 
