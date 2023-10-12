@@ -9,23 +9,26 @@
 <!-- TODAY BEGIN -->
 
 1. [公司饮水有异味，个人解决方案是否可行？](https://www.v2ex.com/t/981173) `31条评论` `职场话题`
+1. [公司给安排了员工改进计划，让我签字，我不想签](https://www.v2ex.com/t/981210) `24条评论` `程序员`
+1. [iPad （尤其是 mini）看漫画推荐用什么 App？](https://www.v2ex.com/t/981185) `23条评论` `iPad`
 1. [目前 iOS 的国区 Store APP 备案政策是所有 APP 要备案还是需要联网的才要备案？](https://www.v2ex.com/t/981180) `23条评论` `iOS`
-1. [领导的风格是：冲！冲！冲！](https://www.v2ex.com/t/981189) `20条评论` `职场话题`
-1. [iPad （尤其是 mini）看漫画推荐用什么 App？](https://www.v2ex.com/t/981185) `20条评论` `iPad`
+1. [领导的风格是：冲！冲！冲！](https://www.v2ex.com/t/981189) `21条评论` `职场话题`
 1. [早起噩耗收到应用被下架的通知 🥹 劝大家还是做正经 app](https://www.v2ex.com/t/981183) `19条评论` `App Store`
+1. [请教脑梗的问题](https://www.v2ex.com/t/981198) `18条评论` `问与答`
 1. [windows 重装后原来的软件必须重装才能用吗](https://www.v2ex.com/t/981178) `18条评论` `Windows`
-1. [公司给安排了员工改进计划，让我签字，我不想签](https://www.v2ex.com/t/981210) `14条评论` `程序员`
-1. [请教脑梗的问题](https://www.v2ex.com/t/981198) `13条评论` `问与答`
-1. [求推荐兼容 iPhone 15 的 USB-C 转 USB-A 线](https://www.v2ex.com/t/981196) `12条评论` `Apple`
+1. [求推荐兼容 iPhone 15 的 USB-C 转 USB-A 线](https://www.v2ex.com/t/981196) `14条评论` `Apple`
+1. [程序员运动锻炼打卡群--金刚功方向](https://www.v2ex.com/t/981214) `12条评论` `程序员`
+1. [京东抢茅台软件是否靠谱， github 有人出售相关软件](https://www.v2ex.com/t/981211) `12条评论` `问与答`
+1. [iphone15pro 半夜偷偷重启](https://www.v2ex.com/t/981223) `11条评论` `iPhone`
 1. [vr 设备为什么不把计算部分和电池一起外置](https://www.v2ex.com/t/981192) `11条评论` `问与答`
 1. [针对这种情况，请问有什么低成本的回击方式？](https://www.v2ex.com/t/981184) `11条评论` `问与答`
 1. [C# 桌面客户端内置 http 服务器](https://www.v2ex.com/t/981174) `10条评论` `前端开发`
+1. [索尼 Sony α6700 相机购买渠道](https://www.v2ex.com/t/981195) `9条评论` `问与答`
 1. [求教下 MariaDB 数据库使用](https://www.v2ex.com/t/981190) `8条评论` `数据库`
-1. [京东抢茅台软件是否靠谱， github 有人出售相关软件](https://www.v2ex.com/t/981211) `7条评论` `问与答`
+1. [有没有开启限制只充电 80%老哥说说长期使用真的能延长电池寿命么？](https://www.v2ex.com/t/981203) `7条评论` `Apple`
 1. [爬虫怎么破解滑块验证码？](https://www.v2ex.com/t/981177) `7条评论` `程序员`
-1. [程序员运动锻炼打卡群--金刚功方向](https://www.v2ex.com/t/981214) `6条评论` `程序员`
 
-数据更新于 2023-10-12 02:21:45
+数据更新于 2023-10-12 02:36:12
 
 <!-- TODAY END -->
 
