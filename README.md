@@ -10,8 +10,8 @@
 
 1. [公司不让用苹果手机了，求安卓机推荐](https://www.v2ex.com/t/981906) `70条评论` `Android`
 1. [楼上小孩 11 点跳绳，能否用分贝仪测出？以及后续应对方案。](https://www.v2ex.com/t/981920) `42条评论` `生活`
-1. [曝光一个无良商家，希望大家引以为戒把](https://www.v2ex.com/t/981886) `33条评论` `MacBook Pro`
-1. [房子&女友&人&利益](https://www.v2ex.com/t/981950) `27条评论` `问与答`
+1. [曝光一个无良商家，希望大家引以为戒把](https://www.v2ex.com/t/981886) `34条评论` `MacBook Pro`
+1. [房子&女友&人&利益](https://www.v2ex.com/t/981950) `29条评论` `问与答`
 1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942) `26条评论` `问与答`
 1. [老乡介绍的光伏发电的合同太坑了，他们可以挣多少呢](https://www.v2ex.com/t/981926) `25条评论` `问与答`
 1. [使用 dfu 给 mac mini m1 升级到 Sonoma 后，还能降级到 Venturam 吗?](https://www.v2ex.com/t/981936) `21条评论` `macOS`
@@ -29,12 +29,12 @@
 1. [azure 的 openai 的 gpt4 模型其实是 gpt3 吗？](https://www.v2ex.com/t/981914) `9条评论` `问与答`
 1. [买车求助（我爸和我开...）](https://www.v2ex.com/t/981888) `9条评论` `汽车`
 1. [求推荐类似自带的“播客”的 APP](https://www.v2ex.com/t/981885) `9条评论` `iPhone`
+1. [Apple TV 当软路由，没必要吧！](https://www.v2ex.com/t/981964) `8条评论` `Apple`
 1. [蓝牙耳机底噪太大了，还是有线耳机好](https://www.v2ex.com/t/981908) `8条评论` `耳机`
-1. [Apple TV 当软路由，没必要吧！](https://www.v2ex.com/t/981964) `7条评论` `Apple`
-1. [多大数据量的表联表查询会很慢呢？](https://www.v2ex.com/t/981922) `7条评论` `PostgreSQL`
-1. [暂时没有机会用 React 写项目，用 React Native 是否也能提高 React 能力？](https://www.v2ex.com/t/981892) `7条评论` `React`
+1. [Java 转 c++，感觉很吃力，有什么好的办法吗？](https://www.v2ex.com/t/981954) `7条评论` `职场话题`
+1. [为什么 V2EX 没有 相亲/交友 的节点](https://www.v2ex.com/t/981949) `7条评论` `问与答`
 
-数据更新于 2023-10-14 08:59:18
+数据更新于 2023-10-14 09:15:58
 
 <!-- TODAY END -->
 
