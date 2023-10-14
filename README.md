@@ -11,8 +11,8 @@
 1. [公司不让用苹果手机了，求安卓机推荐](https://www.v2ex.com/t/981906) `58条评论` `Android`
 1. [楼上小孩 11 点跳绳，能否用分贝仪测出？以及后续应对方案。](https://www.v2ex.com/t/981920) `31条评论` `生活`
 1. [曝光一个无良商家，希望大家引以为戒把](https://www.v2ex.com/t/981886) `25条评论` `MacBook Pro`
-1. [使用 dfu 给 mac mini m1 升级到 Sonoma 后，还能降级到 Venturam 吗?](https://www.v2ex.com/t/981936) `19条评论` `macOS`
-1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942) `16条评论` `问与答`
+1. [使用 dfu 给 mac mini m1 升级到 Sonoma 后，还能降级到 Venturam 吗?](https://www.v2ex.com/t/981936) `20条评论` `macOS`
+1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942) `17条评论` `问与答`
 1. [老乡介绍的光伏发电的合同太坑了，他们可以挣多少呢](https://www.v2ex.com/t/981926) `15条评论` `问与答`
 1. [iPhone 12 现在是 ios15.7, 有必要升级到 16.7.1 吗？现在电池健康度 86%, 怕升了后又跌](https://www.v2ex.com/t/981894) `15条评论` `iPhone`
 1. [失业 8 个月，各种探索开发 APP，几乎 0 收入，最近又折腾了一个设计走查工具，大家给给建议](https://www.v2ex.com/t/981893) `15条评论` `分享创造`
@@ -28,7 +28,7 @@
 1. [azure 的 openai 的 gpt4 模型其实是 gpt3 吗？](https://www.v2ex.com/t/981914) `7条评论` `问与答`
 1. [暂时没有机会用 React 写项目，用 React Native 是否也能提高 React 能力？](https://www.v2ex.com/t/981892) `7条评论` `React`
 
-数据更新于 2023-10-14 06:35:54
+数据更新于 2023-10-14 06:46:22
 
 <!-- TODAY END -->
 
