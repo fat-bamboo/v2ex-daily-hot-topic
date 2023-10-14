@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [公司不让用苹果手机了，求安卓机推荐](https://www.v2ex.com/t/981906) `70条评论` `Android`
-1. [楼上小孩 11 点跳绳，能否用分贝仪测出？以及后续应对方案。](https://www.v2ex.com/t/981920) `41条评论` `生活`
+1. [楼上小孩 11 点跳绳，能否用分贝仪测出？以及后续应对方案。](https://www.v2ex.com/t/981920) `42条评论` `生活`
 1. [曝光一个无良商家，希望大家引以为戒把](https://www.v2ex.com/t/981886) `33条评论` `MacBook Pro`
-1. [房子&女友&人&利益](https://www.v2ex.com/t/981950) `26条评论` `问与答`
+1. [房子&女友&人&利益](https://www.v2ex.com/t/981950) `27条评论` `问与答`
 1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942) `26条评论` `问与答`
-1. [老乡介绍的光伏发电的合同太坑了，他们可以挣多少呢](https://www.v2ex.com/t/981926) `23条评论` `问与答`
+1. [老乡介绍的光伏发电的合同太坑了，他们可以挣多少呢](https://www.v2ex.com/t/981926) `25条评论` `问与答`
 1. [使用 dfu 给 mac mini m1 升级到 Sonoma 后，还能降级到 Venturam 吗?](https://www.v2ex.com/t/981936) `21条评论` `macOS`
 1. [69 元到手腾讯 VIP 年卡+8 个会员 超级简单！](https://www.v2ex.com/t/981919) `16条评论` `优惠信息`
 1. [iPhone 12 现在是 ios15.7, 有必要升级到 16.7.1 吗？现在电池健康度 86%, 怕升了后又跌](https://www.v2ex.com/t/981894) `15条评论` `iPhone`
@@ -24,17 +24,17 @@
 1. [深圳去香港：深圳北高铁出发好还是福田口岸出发好？](https://www.v2ex.com/t/981900) `12条评论` `问与答`
 1. [升降桌升高会晃动吗？](https://www.v2ex.com/t/981896) `12条评论` `问与答`
 1. [LCD 会烧屏吗？这是不是烧屏？ ROG Swift PG27AQ](https://www.v2ex.com/t/981948) `11条评论` `Apple`
-1. [Openwrt 开启 adguard home 后打开网页加载变慢](https://www.v2ex.com/t/981930) `9条评论` `OpenWrt`
+1. [Openwrt 开启 adguard home 后打开网页加载变慢](https://www.v2ex.com/t/981930) `10条评论` `OpenWrt`
+1. [想要更深入学习 MySql 使用，有什么好的资料推荐](https://www.v2ex.com/t/981941) `9条评论` `数据库`
 1. [azure 的 openai 的 gpt4 模型其实是 gpt3 吗？](https://www.v2ex.com/t/981914) `9条评论` `问与答`
 1. [买车求助（我爸和我开...）](https://www.v2ex.com/t/981888) `9条评论` `汽车`
 1. [求推荐类似自带的“播客”的 APP](https://www.v2ex.com/t/981885) `9条评论` `iPhone`
-1. [想要更深入学习 MySql 使用，有什么好的资料推荐](https://www.v2ex.com/t/981941) `8条评论` `数据库`
 1. [蓝牙耳机底噪太大了，还是有线耳机好](https://www.v2ex.com/t/981908) `8条评论` `耳机`
+1. [Apple TV 当软路由，没必要吧！](https://www.v2ex.com/t/981964) `7条评论` `Apple`
+1. [多大数据量的表联表查询会很慢呢？](https://www.v2ex.com/t/981922) `7条评论` `PostgreSQL`
 1. [暂时没有机会用 React 写项目，用 React Native 是否也能提高 React 能力？](https://www.v2ex.com/t/981892) `7条评论` `React`
-1. [请教各位一个 nginx 的配置](https://www.v2ex.com/t/981953) `6条评论` `问与答`
-1. [多大数据量的表联表查询会很慢呢？](https://www.v2ex.com/t/981922) `6条评论` `PostgreSQL`
 
-数据更新于 2023-10-14 08:48:54
+数据更新于 2023-10-14 08:59:18
 
 <!-- TODAY END -->
 
