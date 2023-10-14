@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [公司不让用苹果手机了，求安卓机推荐](https://www.v2ex.com/t/981906) `74条评论` `Android`
+1. [公司不让用苹果手机了，求安卓机推荐](https://www.v2ex.com/t/981906) `79条评论` `Android`
+1. [房子&女友&人&利益](https://www.v2ex.com/t/981950) `44条评论` `问与答`
 1. [楼上小孩 11 点跳绳，能否用分贝仪测出？以及后续应对方案。](https://www.v2ex.com/t/981920) `42条评论` `生活`
-1. [房子&女友&人&利益](https://www.v2ex.com/t/981950) `42条评论` `问与答`
 1. [曝光一个无良商家，希望大家引以为戒把](https://www.v2ex.com/t/981886) `35条评论` `MacBook Pro`
 1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942) `27条评论` `问与答`
 1. [用上了 appletv 当软路由，感觉很舒服](https://www.v2ex.com/t/981895) `26条评论` `Apple TV`
@@ -24,17 +24,17 @@
 1. [深圳去香港：深圳北高铁出发好还是福田口岸出发好？](https://www.v2ex.com/t/981900) `12条评论` `问与答`
 1. [升降桌升高会晃动吗？](https://www.v2ex.com/t/981896) `12条评论` `问与答`
 1. [LCD 会烧屏吗？这是不是烧屏？ ROG Swift PG27AQ](https://www.v2ex.com/t/981948) `11条评论` `Apple`
-1. [Apple TV 当软路由，没必要吧！](https://www.v2ex.com/t/981964) `10条评论` `Apple`
-1. [为什么 V2EX 没有 相亲/交友 的节点](https://www.v2ex.com/t/981949) `10条评论` `问与答`
+1. [Apple TV 当软路由，没必要吧！](https://www.v2ex.com/t/981964) `10条评论` `Apple TV`
+1. [为什么 V2EX 没有 相亲/交友 的节点](https://www.v2ex.com/t/981949) `10条评论` `V2EX`
 1. [Openwrt 开启 adguard home 后打开网页加载变慢](https://www.v2ex.com/t/981930) `10条评论` `OpenWrt`
 1. [想要更深入学习 MySql 使用，有什么好的资料推荐](https://www.v2ex.com/t/981941) `9条评论` `数据库`
 1. [azure 的 openai 的 gpt4 模型其实是 gpt3 吗？](https://www.v2ex.com/t/981914) `9条评论` `问与答`
 1. [买车求助（我爸和我开...）](https://www.v2ex.com/t/981888) `9条评论` `汽车`
 1. [求推荐类似自带的“播客”的 APP](https://www.v2ex.com/t/981885) `9条评论` `iPhone`
+1. [国外公司上班要打卡吗？](https://www.v2ex.com/t/981970) `8条评论` `职场话题`
 1. [Java 转 c++，感觉很吃力，有什么好的办法吗？](https://www.v2ex.com/t/981954) `8条评论` `职场话题`
-1. [shadowrocket 的规则老是代理 App Store 商店应用更新](https://www.v2ex.com/t/981945) `8条评论` `iOS`
 
-数据更新于 2023-10-14 10:28:19
+数据更新于 2023-10-14 10:39:00
 
 <!-- TODAY END -->
 
