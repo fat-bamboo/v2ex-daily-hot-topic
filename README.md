@@ -22,19 +22,19 @@
 1. [iPhone 15 Pro 连接 Apple Silicon Mac 只能以 USB2.0 协议传输吗？](https://www.v2ex.com/t/982226) `18条评论` `Apple`
 1. [Ask V2EX: 大家编程的时候都在听些什么？](https://www.v2ex.com/t/982136) `18条评论` `问与答`
 1. [求推荐：电视盒子、带到国外给老人用](https://www.v2ex.com/t/982120) `18条评论` `硬件`
+1. [10 月 14 日演唱会看完 15PM 5x 镜头紫斑了](https://www.v2ex.com/t/982242) `16条评论` `Apple`
 1. [七年 1password 用户，还是转入了 bitwarden](https://www.v2ex.com/t/982183) `16条评论` `软件`
-1. [10 月 14 日演唱会看完 15PM 5x 镜头紫斑了](https://www.v2ex.com/t/982242) `15条评论` `Apple`
 1. [现在的诈骗都这么牛吗](https://www.v2ex.com/t/982119) `15条评论` `信息安全`
 1. [ChatGPT 银联卡被拒付了，有没有其他付款途径](https://www.v2ex.com/t/982070) `14条评论` `问与答`
 1. [买了芝杜盒子，是不是就不用折腾 plex/emby， TMM 这些了？](https://www.v2ex.com/t/982170) `13条评论` `NAS`
 1. [听说 apple watch s9 续航炸天，充满睡一夜醒来只掉了 5%](https://www.v2ex.com/t/982138) `13条评论` ` WATCH`
 1. [有没有广东电信用户突然变成城域网的](https://www.v2ex.com/t/982084) `13条评论` `宽带症候群`
+1. [有必要把自己的数字信息交代给父母吗](https://www.v2ex.com/t/982249) `11条评论` `问与答`
 1. [所以云服务的备案码是哪个规定出来的？](https://www.v2ex.com/t/982171) `11条评论` `服务器`
 1. [意想不到的 iPhone13 Pro Max 512G 黑色在苹果可以抵扣 5100](https://www.v2ex.com/t/982154) `11条评论` `iPhone`
 1. [群晖 DS3622xs+ 12 盘 18thc550 组 raid6，写入只有 200MB/s..求大神帮忙看下](https://www.v2ex.com/t/982128) `11条评论` `NAS`
-1. [有必要把自己的数字信息交代给父母吗](https://www.v2ex.com/t/982249) `10条评论` `问与答`
 
-数据更新于 2023-10-15 18:45:40
+数据更新于 2023-10-15 18:56:04
 
 <!-- TODAY END -->
 
