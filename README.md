@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [GoDaddy lol 域名 14 块 10 年](https://www.v2ex.com/t/982215) `54条评论` `分享发现`
+1. [GoDaddy lol 域名 14 块 10 年](https://www.v2ex.com/t/982215) `55条评论` `分享发现`
 1. [这种插座火线怎么接](https://www.v2ex.com/t/982125) `52条评论` `问与答`
 1. [也分享一下自己的博客](https://www.v2ex.com/t/982101) `47条评论` `程序员`
 1. [CPU（比如 13700）不超频可以不配散热吗……](https://www.v2ex.com/t/982126) `46条评论` `硬件`
@@ -23,9 +23,9 @@
 1. [求推荐：电视盒子、带到国外给老人用](https://www.v2ex.com/t/982120) `18条评论` `硬件`
 1. [七年 1password 用户，还是转入了 bitwarden](https://www.v2ex.com/t/982183) `16条评论` `软件`
 1. [现在的诈骗都这么牛吗](https://www.v2ex.com/t/982119) `15条评论` `信息安全`
+1. [10 月 14 日演唱会看完 15PM 5x 镜头紫斑了](https://www.v2ex.com/t/982242) `14条评论` `Apple`
 1. [iPhone 15 Pro 连接 Apple Silicon Mac 只能以 USB2.0 协议传输吗？](https://www.v2ex.com/t/982226) `14条评论` `Apple`
 1. [ChatGPT 银联卡被拒付了，有没有其他付款途径](https://www.v2ex.com/t/982070) `14条评论` `问与答`
-1. [10 月 14 日演唱会看完 15PM 5x 镜头紫斑了](https://www.v2ex.com/t/982242) `13条评论` `Apple`
 1. [买了芝杜盒子，是不是就不用折腾 plex/emby， TMM 这些了？](https://www.v2ex.com/t/982170) `13条评论` `NAS`
 1. [听说 apple watch s9 续航炸天，充满睡一夜醒来只掉了 5%](https://www.v2ex.com/t/982138) `13条评论` ` WATCH`
 1. [有没有广东电信用户突然变成城域网的](https://www.v2ex.com/t/982084) `13条评论` `宽带症候群`
@@ -34,7 +34,7 @@
 1. [群晖 DS3622xs+ 12 盘 18thc550 组 raid6，写入只有 200MB/s..求大神帮忙看下](https://www.v2ex.com/t/982128) `11条评论` `NAS`
 1. [双 11 想换个笔记本, 是惠普战 99 还是小新 pro16?](https://www.v2ex.com/t/982196) `10条评论` `问与答`
 
-数据更新于 2023-10-15 17:26:34
+数据更新于 2023-10-15 17:37:01
 
 <!-- TODAY END -->
 
