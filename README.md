@@ -8,20 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [决赛圈了，小鹏 G92024 702 Max 和理想 L7 Pro,怎么选](https://www.v2ex.com/t/982276) `53条评论` `汽车`
+1. [决赛圈了，小鹏 G92024 702 Max 和理想 L7 Pro,怎么选](https://www.v2ex.com/t/982276) `60条评论` `汽车`
 1. [为什么有些人喜欢听“得到”，而有些人喜欢听“樊登”？ 不同 APP 的用户有什么特点？](https://www.v2ex.com/t/982275) `21条评论` `问与答`
+1. [Macmini M2 显示器 2000 预算推荐](https://www.v2ex.com/t/982281) `18条评论` `硬件`
 1. [macos 的稳定性感觉越来越差了](https://www.v2ex.com/t/982268) `18条评论` `macOS`
-1. [Macmini M2 显示器 2000 预算推荐](https://www.v2ex.com/t/982281) `16条评论` `硬件`
-1. [想买个车，是比亚迪秦 plus 还是元 plus 呢？广汽埃安 Y 还是 s？](https://www.v2ex.com/t/982282) `13条评论` `问与答`
+1. [M1 真是快](https://www.v2ex.com/t/982310) `17条评论` `程序员`
+1. [想买个车，是比亚迪秦 plus 还是元 plus 呢？广汽埃安 Y 还是 s？](https://www.v2ex.com/t/982282) `17条评论` `问与答`
 1. [求一个 华硕 ac86u 正确解锁 Netflix 姿势](https://www.v2ex.com/t/982278) `12条评论` `路由器`
-1. [M1 真是快](https://www.v2ex.com/t/982310) `10条评论` `程序员`
+1. [15pro Max 到手前一天查 N 次快递, 激活后索然无味](https://www.v2ex.com/t/982312) `11条评论` `iPhone`
 1. [刚发现，屏息憋气时心率会下降很多，确实可以用这个方法助眠](https://www.v2ex.com/t/982279) `10条评论` `分享发现`
+1. [clash 的代理端口 7890 如何准换成 HTTPS?](https://www.v2ex.com/t/982283) `9条评论` `互联网`
 1. [部门有个 nas 想挂载到我的笔记本电脑上](https://www.v2ex.com/t/982260) `9条评论` `NAS`
 1. [Win10 无线网卡被软件自动禁用破解](https://www.v2ex.com/t/982292) `7条评论` `问与答`
-1. [clash 的代理端口 7890 如何准换成 HTTPS?](https://www.v2ex.com/t/982283) `6条评论` `互联网`
 1. [iPad 有类似于沉浸式翻译的 pdf 阅读器么？](https://www.v2ex.com/t/982265) `6条评论` `iOS`
 
-数据更新于 2023-10-16 02:39:30
+数据更新于 2023-10-16 02:49:49
 
 <!-- TODAY END -->
 
