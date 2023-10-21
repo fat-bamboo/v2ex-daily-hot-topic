@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [空闲时间写了一个 Apple TV 的聚合直播，欢迎下载](https://www.v2ex.com/t/984001) `52条评论` `Apple TV`
+1. [空闲时间写了一个 Apple TV 的聚合直播，欢迎下载](https://www.v2ex.com/t/984001) `54条评论` `Apple TV`
 1. [[安卓] 装了太多应用找不到？让我帮你一秒开启应用](https://www.v2ex.com/t/983972) `45条评论` `分享创造`
 1. [急问， mini 7 没出，决定买 6 了，容量选多大？](https://www.v2ex.com/t/983973) `37条评论` `iPad`
 1. [新写的一个方便大家发邀请码的网站 https://invitecode.cc/](https://www.v2ex.com/t/984006) `27条评论` `分享创造`
-1. [大家都是怎么用台前调度的](https://www.v2ex.com/t/984025) `22条评论` `Apple`
+1. [大家都是怎么用台前调度的](https://www.v2ex.com/t/984025) `23条评论` `Apple`
 1. [有没有用过睡眠耳机的](https://www.v2ex.com/t/983996) `21条评论` `耳机`
 1. [nas 加装 ssd 使用问题](https://www.v2ex.com/t/983977) `18条评论` `NAS`
 1. [我的 SMB 传输速度为什么这么慢？](https://www.v2ex.com/t/983981) `17条评论` `宽带症候群`
@@ -23,18 +23,18 @@
 1. [如何控制 Windows 窗口程序 和 获取对应数据? (没有接口, 也没有继续开发的情况下)](https://www.v2ex.com/t/984002) `12条评论` `问与答`
 1. [第一次当“面试官”的感受](https://www.v2ex.com/t/983978) `12条评论` `职场话题`
 1. [请问大佬们这套值几个钱](https://www.v2ex.com/t/983993) `11条评论` `问与答`
+1. [有极氪 001 的车主么？](https://www.v2ex.com/t/984040) `10条评论` `问与答`
 1. [谈谈目前失业两个月后状态，顺带求个职，武汉 or 深圳，五年 Java 经验](https://www.v2ex.com/t/983975) `10条评论` `求职`
 1. [锐捷 X32Pro 3200 、新华三 NX5400 、TP 飞流系列 AX5400 选哪个？](https://www.v2ex.com/t/984044) `9条评论` `宽带症候群`
-1. [有极氪 001 的车主么？](https://www.v2ex.com/t/984040) `9条评论` `问与答`
 1. [港卡理财？](https://www.v2ex.com/t/984027) `9条评论` `投资`
 1. [感觉 15PM 散热还不如 15Pro](https://www.v2ex.com/t/984032) `8条评论` `Apple`
+1. [分享一个切换蜂窝数据的快捷指令（shortcut）](https://www.v2ex.com/t/984023) `8条评论` `iOS`
 1. [ios 有什么规则可以屏蔽 twitter 上的广告吗？](https://www.v2ex.com/t/984022) `8条评论` `iOS`
 1. [家里有款 09 年 iMac ，请问能自己手动 diy 升级下配置么](https://www.v2ex.com/t/984013) `8条评论` `Apple`
 1. [开源项目推广有什么好的渠道吗？](https://www.v2ex.com/t/984005) `8条评论` `问与答`
 1. [Thinkbook 2023 14+ 能升级 64G 内存么？](https://www.v2ex.com/t/983989) `8条评论` `问与答`
-1. [来了，新版 Escrcpy@v1.8.11 发布，全平台支持与高级定制功能，不一样的体验；使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。](https://www.v2ex.com/t/983979) `8条评论` `分享创造`
 
-数据更新于 2023-10-21 08:28:13
+数据更新于 2023-10-21 08:39:01
 
 <!-- TODAY END -->
 
