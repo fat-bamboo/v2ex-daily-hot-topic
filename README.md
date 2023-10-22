@@ -16,7 +16,7 @@
 1. [秋招至今 0offer，心态有点崩](https://www.v2ex.com/t/984226) `40条评论` `职场话题`
 1. [Apple 直营店的开店条件是什么？](https://www.v2ex.com/t/984222) `38条评论` `Apple`
 1. [你的 100 万- 1000 万，是如何赚到的？](https://www.v2ex.com/t/984254) `26条评论` `问与答`
-1. [SSD 2T 购买咨询大家](https://www.v2ex.com/t/984247) `24条评论` `SSD`
+1. [SSD 2T 购买咨询大家](https://www.v2ex.com/t/984247) `25条评论` `SSD`
 1. [学 Rust 很难吗？为什么我看了半小时教程感觉已经会了,想了解下哪方面是难点](https://www.v2ex.com/t/984227) `23条评论` `程序员`
 1. [go run 如何走代理?](https://www.v2ex.com/t/984190) `15条评论` `Go 编程语言`
 1. [如何降低电池健康度](https://www.v2ex.com/t/984289) `14条评论` `MacBook Pro`
@@ -34,7 +34,7 @@
 1. [iPhone 14 PM 屏幕碎了个角](https://www.v2ex.com/t/984302) `9条评论` `iPhone`
 1. [有没有字幕翻译开源程序？](https://www.v2ex.com/t/984301) `9条评论` `问与答`
 
-数据更新于 2023-10-22 20:56:46
+数据更新于 2023-10-22 21:12:33
 
 <!-- TODAY END -->
 
