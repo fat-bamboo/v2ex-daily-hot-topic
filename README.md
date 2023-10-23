@@ -8,9 +8,19 @@
 
 <!-- TODAY BEGIN -->
 
-1. [目前为止，你有多少负债](https://www.v2ex.com/t/984353) `21条评论` `问与答`
+1. [目前为止，你有多少负债](https://www.v2ex.com/t/984353) `59条评论` `问与答`
+1. [想在家弄一个机房式服务器，兄弟们有推荐的吗](https://www.v2ex.com/t/984360) `27条评论` `站长`
+1. [利益最大化？故意制造 Bug 从而让消费者转战线下定制化智能家居？](https://www.v2ex.com/t/984357) `12条评论` `生活`
+1. [友友们,现在买 macbook，应该选 m1 pro 还是 m2 呢？](https://www.v2ex.com/t/984367) `10条评论` `Apple`
+1. [洛雪音乐助手，凉凉](https://www.v2ex.com/t/984384) `9条评论` `问与答`
+1. [水獭输入工具 app store 上架啦，可以自定义 javascript 脚本的 iOS 输入法工具](https://www.v2ex.com/t/984361) `9条评论` `分享创造`
+1. [地下铁](https://www.v2ex.com/t/984350) `9条评论` `随想`
+1. [git 如何不显示 merge branch xx into xx 的记录](https://www.v2ex.com/t/984385) `7条评论` `git`
+1. [关于穿衣服这件事， V 友怎么看？](https://www.v2ex.com/t/984376) `6条评论` `生活`
+1. [全栈工程师想找份远程工作](https://www.v2ex.com/t/984366) `6条评论` `求职`
+1. [哪里港版 iphone15pro 正规渠道](https://www.v2ex.com/t/984365) `6条评论` `iPhone`
 
-数据更新于 2023-10-23 01:17:48
+数据更新于 2023-10-23 02:00:41
 
 <!-- TODAY END -->
 
