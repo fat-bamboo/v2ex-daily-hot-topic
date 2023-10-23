@@ -8,28 +8,29 @@
 
 <!-- TODAY BEGIN -->
 
-1. [目前为止，你有多少负债](https://www.v2ex.com/t/984353) `82条评论` `问与答`
-1. [想在家弄一个机房式服务器，兄弟们有推荐的吗](https://www.v2ex.com/t/984360) `33条评论` `站长`
-1. [关于穿衣服这件事， V 友怎么看？](https://www.v2ex.com/t/984376) `25条评论` `生活`
-1. [洛雪音乐助手，凉凉](https://www.v2ex.com/t/984384) `15条评论` `问与答`
-1. [友友们,现在买 macbook，应该选 m1 pro 还是 m2 呢？](https://www.v2ex.com/t/984367) `15条评论` `Apple`
-1. [全栈工程师想找份远程工作](https://www.v2ex.com/t/984366) `13条评论` `求职`
+1. [目前为止，你有多少负债](https://www.v2ex.com/t/984353) `88条评论` `问与答`
+1. [想在家弄一个机房式服务器，兄弟们有推荐的吗](https://www.v2ex.com/t/984360) `36条评论` `站长`
+1. [关于穿衣服这件事， V 友怎么看？](https://www.v2ex.com/t/984376) `30条评论` `生活`
+1. [洛雪音乐助手，凉凉](https://www.v2ex.com/t/984384) `17条评论` `问与答`
+1. [友友们,现在买 macbook，应该选 m1 pro 还是 m2 呢？](https://www.v2ex.com/t/984367) `16条评论` `Apple`
+1. [全栈工程师想找份远程工作](https://www.v2ex.com/t/984366) `15条评论` `求职`
+1. [请问有没有一款能记录家里药的 app 啊](https://www.v2ex.com/t/984375) `12条评论` `问与答`
 1. [水獭输入工具 app store 上架啦，可以自定义 javascript 脚本的 iOS 输入法工具](https://www.v2ex.com/t/984361) `12条评论` `分享创造`
 1. [利益最大化？故意制造 Bug 从而让消费者转战线下定制化智能家居？](https://www.v2ex.com/t/984357) `12条评论` `生活`
+1. [700 元以下的冲锋衣推荐哪款？](https://www.v2ex.com/t/984369) `11条评论` `生活`
+1. [哪里港版 iphone15pro 正规渠道](https://www.v2ex.com/t/984365) `11条评论` `iPhone`
 1. [目前只打算用 Homekit，智能门锁直接买 Aqara 还是买其他牌子通过 HA 接入到 Homekit](https://www.v2ex.com/t/984386) `10条评论` `生活`
-1. [请问有没有一款能记录家里药的 app 啊](https://www.v2ex.com/t/984375) `10条评论` `问与答`
+1. [mac 怎么卸载飞连](https://www.v2ex.com/t/984370) `10条评论` `macOS`
 1. [git 如何不显示 merge branch xx into xx 的记录](https://www.v2ex.com/t/984385) `9条评论` `git`
-1. [mac 怎么卸载飞连](https://www.v2ex.com/t/984370) `9条评论` `macOS`
 1. [地下铁](https://www.v2ex.com/t/984350) `9条评论` `随想`
-1. [700 元以下的冲锋衣推荐哪款？](https://www.v2ex.com/t/984369) `8条评论` `生活`
-1. [哪里港版 iphone15pro 正规渠道](https://www.v2ex.com/t/984365) `8条评论` `iPhone`
-1. [kindle 拯救计划 ？上个帖子看出来，很多 V 友的 kindle 和我一样，处于吃灰或者半吃灰状态。 这个帖子看下大家有没有什么好的 kindle 拯救计划，主要目的是增加 kindle 屏幕使用时长，减少手机和电脑屏幕使用时长。](https://www.v2ex.com/t/984380) `7条评论` `问与答`
+1. [[202310]求推荐科学上网快一些的搭建方案](https://www.v2ex.com/t/984402) `8条评论` `VPS`
+1. [kindle 拯救计划 ？上个帖子看出来，很多 V 友的 kindle 和我一样，处于吃灰或者半吃灰状态。 这个帖子看下大家有没有什么好的 kindle 拯救计划，主要目的是增加 kindle 屏幕使用时长，减少手机和电脑屏幕使用时长。](https://www.v2ex.com/t/984380) `8条评论` `问与答`
+1. [降费提速，上海手机卡套餐求推荐](https://www.v2ex.com/t/984394) `7条评论` `问与答`
+1. [Safari 要如何折腾得才好用？](https://www.v2ex.com/t/984381) `7条评论` `macOS`
 1. [一到秋天，指纹锁就很难开锁](https://www.v2ex.com/t/984377) `7条评论` `生活`
 1. [为什么 YouTube 可以突破 Firefox 默认禁用音频的限制？](https://www.v2ex.com/t/984368) `7条评论` `问与答`
-1. [[202310]求推荐科学上网快一些的搭建方案](https://www.v2ex.com/t/984402) `6条评论` `VPS`
-1. [Safari 要如何折腾得才好用？](https://www.v2ex.com/t/984381) `6条评论` `macOS`
 
-数据更新于 2023-10-23 02:28:25
+数据更新于 2023-10-23 02:39:11
 
 <!-- TODAY END -->
 
