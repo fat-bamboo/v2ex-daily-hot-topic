@@ -22,10 +22,11 @@
 1. [组装台式机哪个平台比较好](https://www.v2ex.com/t/986374) `9条评论` `问与答`
 1. [在 Chrome 地址栏输入 gov.cn，回车，不会进入 www.gov.cn，而只会谷歌搜索「gov.cn」，这是怎样的设计？](https://www.v2ex.com/t/986424) `8条评论` `Chrome`
 1. [大家看看这个网页对 SEO 友好吗？](https://www.v2ex.com/t/986382) `8条评论` `程序员`
+1. [hhkb 和 magic keyboard 选择哪个](https://www.v2ex.com/t/986432) `7条评论` `Apple`
 1. [为啥 v 站很多用多邻国的，多邻国的课程很深入吗？](https://www.v2ex.com/t/986414) `6条评论` `Duolingo`
 1. [iPhone 跳广告方法](https://www.v2ex.com/t/986404) `6条评论` `iPhone`
 
-数据更新于 2023-10-29 07:36:09
+数据更新于 2023-10-29 07:46:26
 
 <!-- TODAY END -->
 
