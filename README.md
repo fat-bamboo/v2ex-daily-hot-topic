@@ -26,15 +26,15 @@
 1. [马上又是双 11 了，有些哪些值得买的软件会员，大家有推荐的吗](https://www.v2ex.com/t/986418) `16条评论` `程序员`
 1. [双十一圈 x 去广告失效](https://www.v2ex.com/t/986463) `15条评论` `Apple`
 1. [hhkb 和 magic keyboard 选择哪个](https://www.v2ex.com/t/986432) `15条评论` `Apple`
+1. [大乌龙事件，有 apple care 却无法付费维修](https://www.v2ex.com/t/986546) `14条评论` `MacBook Pro`
 1. [有什么略微平价的 airtag 替代品吗？求推荐一下](https://www.v2ex.com/t/986358) `14条评论` `配件`
-1. [大乌龙事件，有 apple care 却无法付费维修](https://www.v2ex.com/t/986546) `13条评论` `MacBook Pro`
 1. [各位有做过梦然后现实里某个时间点突然感觉自己梦到过呢？](https://www.v2ex.com/t/986427) `12条评论` `问与答`
 1. [在 Chrome 地址栏输入 gov.cn，回车，不会进入 www.gov.cn，而只会谷歌搜索「gov.cn」，这是怎样的设计？](https://www.v2ex.com/t/986424) `12条评论` `Chrome`
 1. [求教： thinkbook 14+ 7840H 风扇策略](https://www.v2ex.com/t/986360) `12条评论` `问与答`
 1. [目前比较省心的多平台 F2A 解决方案是什么呢](https://www.v2ex.com/t/986518) `11条评论` `程序员`
 1. [跟风分享 2023 年个人订阅账单，附省钱小妙招](https://www.v2ex.com/t/986501) `11条评论` `分享发现`
 
-数据更新于 2023-10-29 22:27:13
+数据更新于 2023-10-29 22:37:29
 
 <!-- TODAY END -->
 
