@@ -9,29 +9,29 @@
 <!-- TODAY BEGIN -->
 
 1. [为什么我点击广告之后自动就给我装上了拼多多？](https://www.v2ex.com/t/986359) `61条评论` `Android`
-1. [国产内存条值得信赖吗？](https://www.v2ex.com/t/986365) `40条评论` `硬件`
-1. [记录在网上配了一副眼镜的过程](https://www.v2ex.com/t/986377) `33条评论` `生活`
-1. [有签竞业限制协议的吗？](https://www.v2ex.com/t/986368) `26条评论` `职场话题`
-1. [女生 30 岁，想转前端但非常迷茫，求指导建议](https://www.v2ex.com/t/986442) `23条评论` `职场话题`
+1. [国产内存条值得信赖吗？](https://www.v2ex.com/t/986365) `41条评论` `硬件`
+1. [记录在网上配了一副眼镜的过程](https://www.v2ex.com/t/986377) `36条评论` `生活`
+1. [有签竞业限制协议的吗？](https://www.v2ex.com/t/986368) `27条评论` `职场话题`
+1. [女生 30 岁，想转前端但非常迷茫，求指导建议](https://www.v2ex.com/t/986442) `25条评论` `职场话题`
 1. [油管对广告重拳出击，兄弟萌有什么能用的插件吗？](https://www.v2ex.com/t/986371) `22条评论` `YouTube`
 1. [想卖电脑，如何破局？求指点](https://www.v2ex.com/t/986398) `17条评论` `问与答`
 1. [有好用的枕头推荐吗](https://www.v2ex.com/t/986376) `17条评论` `生活`
 1. [马上又是双 11 了，有些哪些值得买的软件会员，大家有推荐的吗](https://www.v2ex.com/t/986418) `14条评论` `程序员`
 1. [有什么略微平价的 airtag 替代品吗？求推荐一下](https://www.v2ex.com/t/986358) `14条评论` `配件`
 1. [小区养狗的人素质很低，有什么好办法呢](https://www.v2ex.com/t/986437) `13条评论` `问与答`
-1. [hhkb 和 magic keyboard 选择哪个](https://www.v2ex.com/t/986432) `12条评论` `Apple`
+1. [hhkb 和 magic keyboard 选择哪个](https://www.v2ex.com/t/986432) `13条评论` `Apple`
 1. [mysql 这个查询速度正常吗，怎么优化？](https://www.v2ex.com/t/986389) `12条评论` `MySQL`
 1. [求教： thinkbook 14+ 7840H 风扇策略](https://www.v2ex.com/t/986360) `12条评论` `问与答`
+1. [在 Chrome 地址栏输入 gov.cn，回车，不会进入 www.gov.cn，而只会谷歌搜索「gov.cn」，这是怎样的设计？](https://www.v2ex.com/t/986424) `11条评论` `Chrome`
+1. [为啥 v 站很多用多邻国的，多邻国的课程很深入吗？](https://www.v2ex.com/t/986414) `11条评论` `Duolingo`
 1. [macOS 上 Mail 长期后台运行无法连接服务器，有遇到的朋友吗？](https://www.v2ex.com/t/986403) `11条评论` `macOS`
-1. [在 Chrome 地址栏输入 gov.cn，回车，不会进入 www.gov.cn，而只会谷歌搜索「gov.cn」，这是怎样的设计？](https://www.v2ex.com/t/986424) `10条评论` `Chrome`
-1. [为啥 v 站很多用多邻国的，多邻国的课程很深入吗？](https://www.v2ex.com/t/986414) `10条评论` `Duolingo`
 1. [求推荐本地文件夹同步工具](https://www.v2ex.com/t/986416) `9条评论` `程序员`
 1. [组装台式机哪个平台比较好](https://www.v2ex.com/t/986374) `9条评论` `问与答`
+1. [各位有做过梦然后现实里某个时间点突然感觉自己梦到过呢？](https://www.v2ex.com/t/986427) `8条评论` `问与答`
 1. [大家看看这个网页对 SEO 友好吗？](https://www.v2ex.com/t/986382) `8条评论` `程序员`
-1. [各位有做过梦然后现实里某个时间点突然感觉自己梦到过呢？](https://www.v2ex.com/t/986427) `7条评论` `问与答`
 1. [iPhone 跳广告方法](https://www.v2ex.com/t/986404) `6条评论` `iPhone`
 
-数据更新于 2023-10-29 09:26:11
+数据更新于 2023-10-29 09:36:42
 
 <!-- TODAY END -->
 
