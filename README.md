@@ -8,33 +8,33 @@
 
 <!-- TODAY BEGIN -->
 
-1. [又是一年的牙膏，除了 CPU 迭代一下，基本啥都没变，没有 Face ID，没有额外的显示器支持， 8G 内存起售，居然拿 Intel MBP 出来鞭尸...](https://www.v2ex.com/t/986922) `125条评论` `MacBook Pro`
-1. [理性讨论：苹果是否属于奢侈品](https://www.v2ex.com/t/986990) `113条评论` `Apple`
+1. [又是一年的牙膏，除了 CPU 迭代一下，基本啥都没变，没有 Face ID，没有额外的显示器支持， 8G 内存起售，居然拿 Intel MBP 出来鞭尸...](https://www.v2ex.com/t/986922) `128条评论` `MacBook Pro`
+1. [理性讨论：苹果是否属于奢侈品](https://www.v2ex.com/t/986990) `116条评论` `Apple`
 1. [新 MacBook pro14 大降价！](https://www.v2ex.com/t/986919) `85条评论` `Apple`
 1. [问问 i 人应该发什么朋友圈](https://www.v2ex.com/t/986952) `83条评论` `问与答`
-1. [如何提醒老人家出门记得关燃气灶](https://www.v2ex.com/t/986963) `71条评论` `问与答`
-1. [北京月付 206 的联通 1000M 宽带套餐来了](https://www.v2ex.com/t/986961) `68条评论` `宽带症候群`
-1. [Mac 发布会毫无惊喜，越来越无趣](https://www.v2ex.com/t/986930) `59条评论` `Apple`
+1. [如何提醒老人家出门记得关燃气灶](https://www.v2ex.com/t/986963) `74条评论` `问与答`
+1. [北京月付 206 的联通 1000M 宽带套餐来了](https://www.v2ex.com/t/986961) `70条评论` `宽带症候群`
+1. [Mac 发布会毫无惊喜，越来越无趣](https://www.v2ex.com/t/986930) `60条评论` `Apple`
 1. [同事脚臭，怎么友好的提示？](https://www.v2ex.com/t/986938) `56条评论` `职场话题`
 1. [golang 后端开发， m1 air 16 + 512 够用吗](https://www.v2ex.com/t/986980) `25条评论` `程序员`
 1. [假使一个人被(很多)人盼望着早点死，他活着还有意思吗？](https://www.v2ex.com/t/986984) `25条评论` `问与答`
 1. [刚买没半年的 M2 Max 的 Mac Studio 感觉到了背刺](https://www.v2ex.com/t/986921) `25条评论` `Apple`
 1. [浏览器非常不安全！](https://www.v2ex.com/t/987029) `23条评论` `程序员`
+1. [再也不点外卖了!就是别人吃剩的](https://www.v2ex.com/t/987074) `22条评论` `生活`
 1. [[送码] Pho - 通过 smb,webdav,nfs 同步和浏览照片(上架 Google Play 啦)](https://www.v2ex.com/t/986994) `22条评论` `分享创造`
 1. [每次发布会都有人认为没新意，过去十年有哪些苹果产品让你觉得「有新意」？](https://www.v2ex.com/t/986943) `22条评论` `Apple`
 1. [理性讨论：华为算不算奢侈品？](https://www.v2ex.com/t/987042) `21条评论` `问与答`
+1. [Rust 在国内 3d 、游戏行业是否拥有更大的机会](https://www.v2ex.com/t/987058) `20条评论` `程序员`
 1. [让我看看你的桌宠](https://www.v2ex.com/t/987051) `20条评论` `程序员`
 1. [怎样推广开源项目？](https://www.v2ex.com/t/986988) `20条评论` `开源软件`
 1. [10 年签到成就达成](https://www.v2ex.com/t/986973) `20条评论` `V2EX`
-1. [Rust 在国内 3d 、游戏行业是否拥有更大的机会](https://www.v2ex.com/t/987058) `19条评论` `程序员`
 1. [是因为 M1 系列牙膏挤爆了，后面挤不动了吗](https://www.v2ex.com/t/986931) `19条评论` `Apple`
 1. [求教各位好哥哥，计算机硕士在小城市如何找到发展方向并提升自己？](https://www.v2ex.com/t/986937) `18条评论` `职场话题`
 1. [什么情况下，才考虑把项目文件以 GBK 编码格式保存？](https://www.v2ex.com/t/986999) `17条评论` `程序员`
 1. [win on arm 会迎来转机？](https://www.v2ex.com/t/986960) `17条评论` `分享发现`
 1. [刚买 8 个月 21 天的 M2Max16 寸 MacBookPro 96GB RAM 2TB SSD 不检测教育优惠的 9 折教育优惠感觉到被 M3Max 128GBRAM 背刺](https://www.v2ex.com/t/986924) `17条评论` `MacBook Pro`
-1. [更新了 M3 M3PRO M3MAX](https://www.v2ex.com/t/986920) `17条评论` `Apple`
 
-数据更新于 2023-10-31 06:36:40
+数据更新于 2023-10-31 06:46:53
 
 <!-- TODAY END -->
 
