@@ -8,25 +8,33 @@
 
 <!-- TODAY BEGIN -->
 
-1. [新 MacBook pro14 大降价！](https://www.v2ex.com/t/986919) `63条评论` `Apple`
-1. [又是一年的牙膏，除了 CPU 迭代一下，基本啥都没变，没有 Face ID，没有额外的显示器支持， 8G 内存起售，居然拿 Intel MBP 出来鞭尸...](https://www.v2ex.com/t/986922) `54条评论` `MacBook Pro`
-1. [同事脚臭，怎么友好的提示？](https://www.v2ex.com/t/986938) `25条评论` `职场话题`
+1. [新 MacBook pro14 大降价！](https://www.v2ex.com/t/986919) `72条评论` `Apple`
+1. [又是一年的牙膏，除了 CPU 迭代一下，基本啥都没变，没有 Face ID，没有额外的显示器支持， 8G 内存起售，居然拿 Intel MBP 出来鞭尸...](https://www.v2ex.com/t/986922) `67条评论` `MacBook Pro`
+1. [同事脚臭，怎么友好的提示？](https://www.v2ex.com/t/986938) `28条评论` `职场话题`
+1. [问问 i 人应该发什么朋友圈](https://www.v2ex.com/t/986952) `27条评论` `问与答`
+1. [如何提醒老人家出门记得关燃气灶](https://www.v2ex.com/t/986963) `25条评论` `问与答`
 1. [刚买没半年的 M2 Max 的 Mac Studio 感觉到了背刺](https://www.v2ex.com/t/986921) `25条评论` `Apple`
+1. [每次发布会都有人认为没新意，过去十年有哪些苹果产品让你觉得「有新意」？](https://www.v2ex.com/t/986943) `20条评论` `Apple`
 1. [是因为 M1 系列牙膏挤爆了，后面挤不动了吗](https://www.v2ex.com/t/986931) `19条评论` `Apple`
 1. [Mac 发布会毫无惊喜，越来越无趣](https://www.v2ex.com/t/986930) `19条评论` `Apple`
+1. [求教各位好哥哥，计算机硕士在小城市如何找到发展方向并提升自己？](https://www.v2ex.com/t/986937) `18条评论` `职场话题`
 1. [刚买 8 个月 21 天的 M2Max16 寸 MacBookPro 96GB RAM 2TB SSD 不检测教育优惠的 9 折教育优惠感觉到被 M3Max 128GBRAM 背刺](https://www.v2ex.com/t/986924) `17条评论` `MacBook Pro`
 1. [更新了 M3 M3PRO M3MAX](https://www.v2ex.com/t/986920) `17条评论` `Apple`
-1. [问问 i 人应该发什么朋友圈](https://www.v2ex.com/t/986952) `16条评论` `问与答`
-1. [每次发布会都有人认为没新意，过去十年有哪些苹果产品让你觉得「有新意」？](https://www.v2ex.com/t/986943) `13条评论` `Apple`
+1. [北京月付 206 的联通 1000M 宽带套餐来了](https://www.v2ex.com/t/986961) `15条评论` `宽带症候群`
+1. [一亩三分地为什么给我一种强烈的不适感？](https://www.v2ex.com/t/986934) `15条评论` `问与答`
+1. [win on arm 会迎来转机？](https://www.v2ex.com/t/986960) `14条评论` `分享发现`
+1. [10 年签到成就达成](https://www.v2ex.com/t/986973) `13条评论` `V2EX`
 1. [弱弱的说一句，有一些基础款还是 8+256 起步。。。](https://www.v2ex.com/t/986929) `13条评论` `Apple`
+1. [求电子书阅读软件推荐](https://www.v2ex.com/t/986944) `12条评论` `问与答`
 1. [Air 不上 M3 是因为散热不够了吗？](https://www.v2ex.com/t/986939) `12条评论` `Apple`
-1. [求教各位好哥哥，计算机硕士在小城市如何找到发展方向并提升自己？](https://www.v2ex.com/t/986937) `12条评论` `职场话题`
-1. [一亩三分地为什么给我一种强烈的不适感？](https://www.v2ex.com/t/986934) `12条评论` `问与答`
+1. [M1/M2 觉得被背刺的，看了这个也许能让你释怀](https://www.v2ex.com/t/986967) `11条评论` `Apple`
+1. [看苹果的跑分， M3 较 M1 提升 50%， M3 Pro 较 M1 Pro 提升 70%，买 Mac 可以隔三代更新看来是没问题。](https://www.v2ex.com/t/986975) `10条评论` `MacBook Pro`
 1. [明年想买个 MacBook Pro](https://www.v2ex.com/t/986927) `10条评论` `MacBook Pro`
-1. [求电子书阅读软件推荐](https://www.v2ex.com/t/986944) `7条评论` `问与答`
+1. [准备换机，就想问下 m3 实际到底如何？性能和功耗。](https://www.v2ex.com/t/986946) `8条评论` `Apple`
+1. [[日本] [ Java 后端 7 人][前端开发 2 人] [unity 游戏开发 5 人]](https://www.v2ex.com/t/986951) `6条评论` `酷工作`
 1. [问一个数据库对业务数据存储的问题](https://www.v2ex.com/t/986928) `6条评论` `数据库`
 
-数据更新于 2023-10-31 02:00:41
+数据更新于 2023-10-31 02:27:53
 
 <!-- TODAY END -->
 
