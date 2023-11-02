@@ -29,12 +29,12 @@
 1. [重度使用 ios 的 safari 一周，才发现之前使用 chrome 的都是什么苦日子](https://www.v2ex.com/t/987933) `17条评论` `Safari`
 1. [何同学两日体验卡！](https://www.v2ex.com/t/988004) `16条评论` `求职`
 1. [Android 省电策略 杀服务怎么办？](https://www.v2ex.com/t/987828) `16条评论` `Android`
+1. [现在的 AppleCare+竟然涨价那么多](https://www.v2ex.com/t/988060) `15条评论` `MacBook Pro`
 1. [真的恶心，一张违规照片把整个存储桶封了](https://www.v2ex.com/t/987928) `15条评论` `分享发现`
 1. [求各种片源，小姐姐下载方式~~~~](https://www.v2ex.com/t/987903) `15条评论` `程序员`
 1. [如何正确引导孩子玩游戏？](https://www.v2ex.com/t/987824) `15条评论` `问与答`
-1. [现在的 AppleCare+竟然涨价那么多](https://www.v2ex.com/t/988060) `14条评论` `MacBook Pro`
 
-数据更新于 2023-11-02 23:48:44
+数据更新于 2023-11-02 23:59:01
 
 <!-- TODAY END -->
 
