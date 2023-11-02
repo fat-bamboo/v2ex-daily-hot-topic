@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [海投一个月都没有一个面试，简历有什么问题吗？](https://www.v2ex.com/t/987692) `180条评论` `职场话题`
-1. [现在听歌软件 QQ 音乐一家独大了吧？](https://www.v2ex.com/t/987721) `170条评论` `音乐`
-1. [clash_for_windows 好像删库了](https://www.v2ex.com/t/987884) `141条评论` `程序员`
+1. [现在听歌软件 QQ 音乐一家独大了吧？](https://www.v2ex.com/t/987721) `171条评论` `音乐`
+1. [clash_for_windows 好像删库了](https://www.v2ex.com/t/987884) `142条评论` `程序员`
 1. [舌尖有一个溃疡，说话都疼，有没有什么快速缓解办法？](https://www.v2ex.com/t/987754) `127条评论` `健康`
-1. [如果不做程序员了](https://www.v2ex.com/t/987785) `105条评论` `程序员`
-1. [[DLPlay 半价+抽奖活动]双十一 DLPlay 钜惠](https://www.v2ex.com/t/987699) `87条评论` `Apple TV`
-1. [市场需要竞争， Apple 也需要教育](https://www.v2ex.com/t/987737) `83条评论` `Apple`
+1. [如果不做程序员了](https://www.v2ex.com/t/987785) `106条评论` `程序员`
+1. [[DLPlay 半价+抽奖活动]双十一 DLPlay 钜惠](https://www.v2ex.com/t/987699) `89条评论` `Apple TV`
+1. [市场需要竞争， Apple 也需要教育](https://www.v2ex.com/t/987737) `84条评论` `Apple`
 1. [以后一个 App 是不是要重复开发 10 遍](https://www.v2ex.com/t/987761) `70条评论` `操作系统`
 1. [年近 30，配置了人生第一份保险，和大家分享一些购买心得。](https://www.v2ex.com/t/987917) `37条评论` `分享发现`
 1. [结婚对戒材质选择](https://www.v2ex.com/t/987881) `35条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [感觉 Java 后端太卷了，想转 Android,不知道怎么样](https://www.v2ex.com/t/987934) `14条评论` `酷工作`
 1. [双 11，消费不动了。](https://www.v2ex.com/t/987908) `14条评论` `问与答`
 
-数据更新于 2023-11-02 12:29:42
+数据更新于 2023-11-02 12:52:19
 
 <!-- TODAY END -->
 
