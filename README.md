@@ -13,7 +13,7 @@
 1. [clash_for_windows 好像删库了](https://www.v2ex.com/t/987884) `148条评论` `程序员`
 1. [舌尖有一个溃疡，说话都疼，有没有什么快速缓解办法？](https://www.v2ex.com/t/987754) `130条评论` `健康`
 1. [如果不做程序员了](https://www.v2ex.com/t/987785) `111条评论` `程序员`
-1. [[DLPlay 半价+抽奖活动]双十一 DLPlay 钜惠](https://www.v2ex.com/t/987699) `91条评论` `Apple TV`
+1. [[DLPlay 半价+抽奖活动]双十一 DLPlay 钜惠](https://www.v2ex.com/t/987699) `92条评论` `Apple TV`
 1. [市场需要竞争， Apple 也需要教育](https://www.v2ex.com/t/987737) `88条评论` `Apple`
 1. [看到有人吐槽合租的室友，我也来让你们开开眼吧...](https://www.v2ex.com/t/987867) `73条评论` `生活`
 1. [以后一个 App 是不是要重复开发 10 遍](https://www.v2ex.com/t/987761) `72条评论` `操作系统`
@@ -32,9 +32,9 @@
 1. [求各种片源，小姐姐下载方式~~~~](https://www.v2ex.com/t/987903) `15条评论` `程序员`
 1. [如何正确引导孩子玩游戏？](https://www.v2ex.com/t/987824) `15条评论` `问与答`
 1. [Cloudflare 挂了](https://www.v2ex.com/t/988032) `14条评论` `Cloudflare`
-1. [我好奇问一下（本人不是程序员](https://www.v2ex.com/t/987953) `14条评论` `问与答`
+1. [1password 可耻卑鄙，寻求 1Password 公司结束对经典浏览器扩展支持后的解决办法](https://www.v2ex.com/t/988020) `14条评论` `程序员`
 
-数据更新于 2023-11-02 15:49:14
+数据更新于 2023-11-02 15:59:32
 
 <!-- TODAY END -->
 
