@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [华为已经启动对中国草民手机信息的全面监控了](https://www.v2ex.com/t/988525) `98条评论` `程序员`
-1. [Apple TV 上去如何看 A 片](https://www.v2ex.com/t/988556) `35条评论` `Apple TV`
+1. [Apple TV 上去如何看 A 片](https://www.v2ex.com/t/988556) `37条评论` `Apple TV`
 1. [关于开源软件作者的激励问题](https://www.v2ex.com/t/988513) `26条评论` `程序员`
 1. [希望解答我几个关于男同性恋的问题](https://www.v2ex.com/t/988532) `24条评论` `问与答`
 1. [经过那事 被房东盯上了!](https://www.v2ex.com/t/988515) `24条评论` `生活`
@@ -29,10 +29,12 @@
 1. [升级 macOS 14 后， Finder 加载慢，文件预览也超慢，大家有遇到过吗？](https://www.v2ex.com/t/988535) `8条评论` `macOS`
 1. [数据库 race condition](https://www.v2ex.com/t/988533) `8条评论` `程序员`
 1. [就是干个打螺丝的活,hr 不满意我简历平淡,还发我份示例,现在人都这么卷吗?](https://www.v2ex.com/t/988507) `8条评论` `职场话题`
+1. [个人微信消息监听](https://www.v2ex.com/t/988587) `6条评论` `程序员`
+1. [不懂就问，为什么淘宝的硬盘比 jd 便宜一半](https://www.v2ex.com/t/988582) `6条评论` `分享发现`
 1. [Zotero 使用 Onedrive 实现云同步](https://www.v2ex.com/t/988539) `6条评论` `问与答`
 1. [vue 脚手架页面文件列表读取](https://www.v2ex.com/t/988503) `6条评论` `Vue.js`
 
-数据更新于 2023-11-04 07:46:46
+数据更新于 2023-11-04 07:56:59
 
 <!-- TODAY END -->
 
