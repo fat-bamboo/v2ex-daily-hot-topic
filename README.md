@@ -9,8 +9,8 @@
 <!-- TODAY BEGIN -->
 
 1. [华为已经启动对中国草民手机信息的全面监控了](https://www.v2ex.com/t/988525) `98条评论` `程序员`
-1. [Apple TV 上去如何看 A 片](https://www.v2ex.com/t/988556) `57条评论` `Apple TV`
-1. [关于开源软件作者的激励问题](https://www.v2ex.com/t/988513) `37条评论` `程序员`
+1. [Apple TV 上去如何看 A 片](https://www.v2ex.com/t/988556) `58条评论` `Apple TV`
+1. [关于开源软件作者的激励问题](https://www.v2ex.com/t/988513) `39条评论` `程序员`
 1. [希望解答我几个关于男同性恋的问题](https://www.v2ex.com/t/988532) `24条评论` `问与答`
 1. [经过那事 被房东盯上了!](https://www.v2ex.com/t/988515) `24条评论` `生活`
 1. [赚快钱的心态(心瘾)如何修复？](https://www.v2ex.com/t/988543) `18条评论` `生活`
@@ -27,14 +27,14 @@
 1. [求合租云服务器](https://www.v2ex.com/t/988530) `11条评论` `服务器`
 1. [程序员转行灵活就业做电商，怎么申报个税？](https://www.v2ex.com/t/988519) `11条评论` `程序员`
 1. [请问 Gboard 能设定中文输入法输入英文标点吗](https://www.v2ex.com/t/988552) `10条评论` `Google`
+1. [有用 debian12 的吗，最近实体机直接装了 debian12，系统启动没有网络，需要手动 dhclient 命令](https://www.v2ex.com/t/988585) `9条评论` `Linux`
 1. [不懂就问，为什么淘宝的硬盘比 jd 便宜一半](https://www.v2ex.com/t/988582) `9条评论` `分享发现`
 1. [上海 9929 又咋滴了。。。](https://www.v2ex.com/t/988566) `9条评论` `宽带症候群`
 1. [大道至简](https://www.v2ex.com/t/988534) `9条评论` `问与答`
-1. [有用 debian12 的吗，最近实体机直接装了 debian12，系统启动没有网络，需要手动 dhclient 命令](https://www.v2ex.com/t/988585) `8条评论` `Linux`
+1. [关于经常流鼻血](https://www.v2ex.com/t/988601) `8条评论` `问与答`
 1. [升级 macOS 14 后， Finder 加载慢，文件预览也超慢，大家有遇到过吗？](https://www.v2ex.com/t/988535) `8条评论` `macOS`
-1. [数据库 race condition](https://www.v2ex.com/t/988533) `8条评论` `程序员`
 
-数据更新于 2023-11-04 09:26:31
+数据更新于 2023-11-04 09:36:57
 
 <!-- TODAY END -->
 
