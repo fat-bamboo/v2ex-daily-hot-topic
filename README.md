@@ -10,7 +10,7 @@
 
 1. [跟在酒吧认识的女生谈恋爱有结果么](https://www.v2ex.com/t/989062) `177条评论` `问与答`
 1. [腾讯大王卡，老用户不如狗](https://www.v2ex.com/t/988953) `172条评论` `宽带症候群`
-1. [牙齿矫正的花费超乎想象](https://www.v2ex.com/t/988911) `162条评论` `分享发现`
+1. [牙齿矫正的花费超乎想象](https://www.v2ex.com/t/988911) `163条评论` `分享发现`
 1. [大家多久没用 QQ 了？](https://www.v2ex.com/t/988914) `112条评论` `问与答`
 1. [苹果手机还有安全这个概念吗？](https://www.v2ex.com/t/989176) `98条评论` `iPhone`
 1. [手机 照片 NAS 备份终极方案](https://www.v2ex.com/t/988912) `92条评论` `NAS`
@@ -20,7 +20,7 @@
 1. [好奇问下日本生活的朋友，日本人每餐吃那么少吗？](https://www.v2ex.com/t/988915) `82条评论` `日本`
 1. [写了一个小故事](https://www.v2ex.com/t/988903) `70条评论` `分享创造`
 1. [多多买菜退款被 pdd 驳回了！](https://www.v2ex.com/t/988922) `62条评论` `分享发现`
-1. [被 Microsoft Authenticator 坑惨了，所有 2FA 全丢了](https://www.v2ex.com/t/989278) `39条评论` `程序员`
+1. [被 Microsoft Authenticator 坑惨了，所有 2FA 全丢了](https://www.v2ex.com/t/989278) `40条评论` `程序员`
 1. [[送码] InfyniDock ，全新 MacOS Dock 替代品，提高窗口切换的效率](https://www.v2ex.com/t/989225) `35条评论` `分享创造`
 1. [mac 啥时候进军游戏啊, m3max 都相当于 4070 了吧](https://www.v2ex.com/t/989234) `33条评论` `Apple`
 1. [不在家时如知道到家里的动态公网 ip 是多少？](https://www.v2ex.com/t/989169) `26条评论` `宽带症候群`
@@ -34,7 +34,7 @@
 1. [指点迷津](https://www.v2ex.com/t/989177) `19条评论` `心理学`
 1. [白群晖 DDNS 无法通过 IPv6 连上家里的 NAS](https://www.v2ex.com/t/989030) `19条评论` `NAS`
 
-数据更新于 2023-11-06 16:55:44
+数据更新于 2023-11-06 17:12:26
 
 <!-- TODAY END -->
 
