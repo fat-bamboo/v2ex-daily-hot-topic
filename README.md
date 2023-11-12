@@ -8,20 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [阿里云 OSS 挂了？](https://www.v2ex.com/t/991209) `61条评论` `程序员`
+1. [阿里云 OSS 挂了？](https://www.v2ex.com/t/991209) `67条评论` `程序员`
 1. [阿里云崩了？](https://www.v2ex.com/t/991212) `43条评论` `程序员`
-1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `39条评论` `分享创造`
+1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `40条评论` `分享创造`
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091) `32条评论` `程序员`
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `28条评论` `职场话题`
+1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224) `21条评论` `macOS`
 1. [道家、儒家、fo 家、jidu、musilin，它们有哪些共通和不同之处？](https://www.v2ex.com/t/991093) `21条评论` `问与答`
 1. [iPhone 怎么方便的解锁 Windows 电脑呢](https://www.v2ex.com/t/991181) `20条评论` `Windows`
+1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208) `19条评论` `Windows`
 1. [平时微信和 qq 的私聊消息,会不会把检测到敏感的内容自动传给人工审查？](https://www.v2ex.com/t/991128) `19条评论` `问与答`
-1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224) `17条评论` `macOS`
 1. [小程序 300 块现在看样子是强制咯](https://www.v2ex.com/t/991096) `17条评论` `微信`
-1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208) `15条评论` `Windows`
+1. [纯好奇小调查，你们有在网上买过药吗？](https://www.v2ex.com/t/991234) `14条评论` `问与答`
 1. [怎么让唱歌变好听](https://www.v2ex.com/t/991125) `14条评论` `问与答`
 1. [肉身去国外有啥可以做的](https://www.v2ex.com/t/991112) `13条评论` `问与答`
-1. [纯好奇小调查，你们有在网上买过药吗？](https://www.v2ex.com/t/991234) `11条评论` `问与答`
 1. [语雀好像又崩了？](https://www.v2ex.com/t/991213) `11条评论` `全球工单系统`
 1. [GPT 是程序员卖给资本家的绞索](https://www.v2ex.com/t/991204) `11条评论` `OpenAI`
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `11条评论` `OpenAI`
@@ -34,7 +34,7 @@
 1. [有没有那种学习英语口语发声的 app，类似于跟读的 app， app 读一句话，你可以有一个时间停顿也跟着读一句话，这样练习发声比较方便](https://www.v2ex.com/t/991094) `10条评论` `English`
 1. [阿里云盘挂了，无法登录](https://www.v2ex.com/t/991206) `9条评论` `全球工单系统`
 
-数据更新于 2023-11-12 12:53:18
+数据更新于 2023-11-12 13:14:29
 
 <!-- TODAY END -->
 
