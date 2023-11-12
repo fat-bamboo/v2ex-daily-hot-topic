@@ -11,7 +11,7 @@
 1. [阿里云 OSS 挂了？](https://www.v2ex.com/t/991209) `72条评论` `程序员`
 1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `58条评论` `分享创造`
 1. [阿里云崩了？](https://www.v2ex.com/t/991212) `48条评论` `程序员`
-1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224) `41条评论` `macOS`
+1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224) `45条评论` `macOS`
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091) `36条评论` `程序员`
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `36条评论` `职场话题`
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `32条评论` `OpenAI`
@@ -21,20 +21,20 @@
 1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208) `19条评论` `Windows`
 1. [平时微信和 qq 的私聊消息,会不会把检测到敏感的内容自动传给人工审查？](https://www.v2ex.com/t/991128) `19条评论` `问与答`
 1. [小程序 300 块现在看样子是强制咯](https://www.v2ex.com/t/991096) `17条评论` `微信`
+1. [小米 13 国行刷了国际版 MIUI 居然可以用 esim](https://www.v2ex.com/t/991269) `16条评论` `Android`
 1. [美区账号如何绑定国内信用卡，好给交通卡用啊](https://www.v2ex.com/t/991258) `14条评论` `Apple`
 1. [怎么让唱歌变好听](https://www.v2ex.com/t/991125) `14条评论` `问与答`
-1. [小米 13 国行刷了国际版 MIUI 居然可以用 esim](https://www.v2ex.com/t/991269) `13条评论` `Android`
 1. [肉身去国外有啥可以做的](https://www.v2ex.com/t/991112) `13条评论` `问与答`
 1. [GPT 是程序员卖给资本家的绞索](https://www.v2ex.com/t/991204) `12条评论` `OpenAI`
 1. [能否结合阿里云 ECS 和群晖，实现快速访问和 4T 硬盘兼得](https://www.v2ex.com/t/991265) `11条评论` `NAS`
 1. [家宽 ddns 如何复用域名及申请 ssl 证书？](https://www.v2ex.com/t/991243) `11条评论` `宽带症候群`
 1. [语雀好像又崩了？](https://www.v2ex.com/t/991213) `11条评论` `全球工单系统`
 1. [Java 中一个保存了 1 万个整数的 ArrayList 占多少内存？](https://www.v2ex.com/t/991104) `11条评论` `Java`
+1. [请教一个关于中职生实习就业的问题](https://www.v2ex.com/t/991250) `10条评论` `职场话题`
 1. [Bilibili 视频和直播的 CDN 是不是太拉了？还是单纯的技术不行？](https://www.v2ex.com/t/991228) `10条评论` `哔哩哔哩`
 1. [分享一下 Quantumult X 启用链式代理](https://www.v2ex.com/t/991183) `10条评论` `分享创造`
-1. [如何查询 Magic Trackpad 保修状态](https://www.v2ex.com/t/991166) `10条评论` `Apple`
 
-数据更新于 2023-11-12 15:50:34
+数据更新于 2023-11-12 16:15:46
 
 <!-- TODAY END -->
 
