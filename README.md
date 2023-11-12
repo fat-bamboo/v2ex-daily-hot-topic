@@ -11,16 +11,16 @@
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091) `25条评论` `程序员`
 1. [道家、儒家、fo 家、jidu、musilin，它们有哪些共通和不同之处？](https://www.v2ex.com/t/991093) `21条评论` `问与答`
 1. [平时微信和 qq 的私聊消息,会不会把检测到敏感的内容自动传给人工审查？](https://www.v2ex.com/t/991128) `19条评论` `问与答`
-1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `17条评论` `职场话题`
+1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `18条评论` `职场话题`
 1. [小程序 300 块现在看样子是强制咯](https://www.v2ex.com/t/991096) `17条评论` `微信`
+1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `14条评论` `分享创造`
 1. [怎么让唱歌变好听](https://www.v2ex.com/t/991125) `14条评论` `问与答`
 1. [肉身去国外有啥可以做的](https://www.v2ex.com/t/991112) `13条评论` `问与答`
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `11条评论` `OpenAI`
 1. [Java 中一个保存了 1 万个整数的 ArrayList 占多少内存？](https://www.v2ex.com/t/991104) `11条评论` `Java`
-1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `10条评论` `分享创造`
+1. [OpenAI 关闭了，，，](https://www.v2ex.com/t/991151) `10条评论` `然而并没有`
 1. [农行任务中心完成任务抽奖， 50 元微信立减金，亲测秒到。](https://www.v2ex.com/t/991150) `10条评论` `优惠信息`
 1. [有没有那种学习英语口语发声的 app，类似于跟读的 app， app 读一句话，你可以有一个时间停顿也跟着读一句话，这样练习发声比较方便](https://www.v2ex.com/t/991094) `10条评论` `English`
-1. [OpenAI 关闭了，，，](https://www.v2ex.com/t/991151) `9条评论` `OpenAI`
 1. [iso 鏡像是怎麼製作的呢？](https://www.v2ex.com/t/991088) `9条评论` `问与答`
 1. [如何拯救 Android 糟糕的分享菜单？](https://www.v2ex.com/t/991084) `9条评论` `Android`
 1. [家里联通宽带部署服务 套 cloudflare 的 CDN 然后路由器防火墙里选择只能 cf 的 ip 入站 会不会安全些](https://www.v2ex.com/t/991153) `8条评论` `宽带症候群`
@@ -31,7 +31,7 @@
 1. [iPhone 怎么方便的解锁 Windows 电脑呢](https://www.v2ex.com/t/991181) `6条评论` `Windows`
 1. [有哪些应用/服务你觉得值得收费却是免费的？](https://www.v2ex.com/t/991137) `6条评论` `问与答`
 
-数据更新于 2023-11-12 08:49:24
+数据更新于 2023-11-12 08:59:35
 
 <!-- TODAY END -->
 
