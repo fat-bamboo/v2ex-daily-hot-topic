@@ -14,7 +14,7 @@
 1. [阿里云崩了？](https://www.v2ex.com/t/991212) `49条评论` `程序员`
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `37条评论` `职场话题`
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091) `36条评论` `程序员`
-1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `33条评论` `OpenAI`
+1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `34条评论` `OpenAI`
 1. [纯好奇小调查，你们有在网上买过药吗？](https://www.v2ex.com/t/991234) `32条评论` `问与答`
 1. [道家、儒家、fo 家、jidu、musilin，它们有哪些共通和不同之处？](https://www.v2ex.com/t/991093) `21条评论` `问与答`
 1. [iPhone 怎么方便的解锁 Windows 电脑呢](https://www.v2ex.com/t/991181) `20条评论` `Windows`
@@ -34,7 +34,7 @@
 1. [Bilibili 视频和直播的 CDN 是不是太拉了？还是单纯的技术不行？](https://www.v2ex.com/t/991228) `10条评论` `哔哩哔哩`
 1. [分享一下 Quantumult X 启用链式代理](https://www.v2ex.com/t/991183) `10条评论` `分享创造`
 
-数据更新于 2023-11-12 19:16:41
+数据更新于 2023-11-12 19:25:50
 
 <!-- TODAY END -->
 
