@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [阿里云 OSS 挂了？](https://www.v2ex.com/t/991209) `54条评论` `程序员`
+1. [阿里云 OSS 挂了？](https://www.v2ex.com/t/991209) `56条评论` `程序员`
 1. [阿里云崩了？](https://www.v2ex.com/t/991212) `36条评论` `程序员`
-1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `32条评论` `分享创造`
+1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `33条评论` `分享创造`
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091) `30条评论` `程序员`
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `28条评论` `职场话题`
 1. [道家、儒家、fo 家、jidu、musilin，它们有哪些共通和不同之处？](https://www.v2ex.com/t/991093) `21条评论` `问与答`
@@ -20,21 +20,21 @@
 1. [怎么让唱歌变好听](https://www.v2ex.com/t/991125) `14条评论` `问与答`
 1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208) `13条评论` `Windows`
 1. [肉身去国外有啥可以做的](https://www.v2ex.com/t/991112) `13条评论` `问与答`
+1. [语雀好像又崩了？](https://www.v2ex.com/t/991213) `11条评论` `问与答`
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `11条评论` `OpenAI`
 1. [Java 中一个保存了 1 万个整数的 ArrayList 占多少内存？](https://www.v2ex.com/t/991104) `11条评论` `Java`
-1. [语雀好像又崩了？](https://www.v2ex.com/t/991213) `10条评论` `问与答`
+1. [Bilibili 视频和直播的 CDN 是不是太拉了？还是单纯的技术不行？](https://www.v2ex.com/t/991228) `10条评论` `哔哩哔哩`
 1. [如何查询 Magic Trackpad 保修状态](https://www.v2ex.com/t/991166) `10条评论` `Apple`
 1. [OpenAI 关闭了，，，](https://www.v2ex.com/t/991151) `10条评论` `然而并没有`
 1. [农行任务中心完成任务抽奖， 50 元微信立减金，亲测秒到。](https://www.v2ex.com/t/991150) `10条评论` `优惠信息`
 1. [有没有那种学习英语口语发声的 app，类似于跟读的 app， app 读一句话，你可以有一个时间停顿也跟着读一句话，这样练习发声比较方便](https://www.v2ex.com/t/991094) `10条评论` `English`
-1. [Bilibili 视频和直播的 CDN 是不是太拉了？还是单纯的技术不行？](https://www.v2ex.com/t/991228) `9条评论` `哔哩哔哩`
 1. [阿里云盘挂了，无法登录](https://www.v2ex.com/t/991206) `9条评论` `全球工单系统`
+1. [GPT 是程序员卖给资本家的绞索](https://www.v2ex.com/t/991204) `9条评论` `OpenAI`
 1. [tp6 路由未加载](https://www.v2ex.com/t/991171) `9条评论` `PHP`
 1. [家里联通宽带部署服务 套 cloudflare 的 CDN 然后路由器防火墙里选择只能 cf 的 ip 入站 会不会安全些](https://www.v2ex.com/t/991153) `9条评论` `宽带症候群`
 1. [iso 鏡像是怎麼製作的呢？](https://www.v2ex.com/t/991088) `9条评论` `问与答`
-1. [如何拯救 Android 糟糕的分享菜单？](https://www.v2ex.com/t/991084) `9条评论` `Android`
 
-数据更新于 2023-11-12 11:37:44
+数据更新于 2023-11-12 11:47:54
 
 <!-- TODAY END -->
 
