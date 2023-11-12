@@ -10,8 +10,8 @@
 
 1. [阿里云 OSS 挂了？](https://www.v2ex.com/t/991209) `72条评论` `程序员`
 1. [「抽奖送码🎁」我的稍后阅读应用得到了小众软件的推荐（ios/mac）](https://www.v2ex.com/t/991178) `60条评论` `分享创造`
-1. [阿里云崩了？](https://www.v2ex.com/t/991212) `48条评论` `程序员`
-1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224) `47条评论` `macOS`
+1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224) `51条评论` `macOS`
+1. [阿里云崩了？](https://www.v2ex.com/t/991212) `49条评论` `程序员`
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `37条评论` `职场话题`
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091) `36条评论` `程序员`
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `33条评论` `OpenAI`
@@ -20,8 +20,8 @@
 1. [iPhone 怎么方便的解锁 Windows 电脑呢](https://www.v2ex.com/t/991181) `20条评论` `Windows`
 1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208) `19条评论` `Windows`
 1. [平时微信和 qq 的私聊消息,会不会把检测到敏感的内容自动传给人工审查？](https://www.v2ex.com/t/991128) `19条评论` `问与答`
+1. [小米 13 国行刷了国际版 MIUI 居然可以用 esim](https://www.v2ex.com/t/991269) `17条评论` `Android`
 1. [小程序 300 块现在看样子是强制咯](https://www.v2ex.com/t/991096) `17条评论` `微信`
-1. [小米 13 国行刷了国际版 MIUI 居然可以用 esim](https://www.v2ex.com/t/991269) `16条评论` `Android`
 1. [美区账号如何绑定国内信用卡，好给交通卡用啊](https://www.v2ex.com/t/991258) `14条评论` `Apple`
 1. [怎么让唱歌变好听](https://www.v2ex.com/t/991125) `14条评论` `问与答`
 1. [肉身去国外有啥可以做的](https://www.v2ex.com/t/991112) `13条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [Bilibili 视频和直播的 CDN 是不是太拉了？还是单纯的技术不行？](https://www.v2ex.com/t/991228) `10条评论` `哔哩哔哩`
 1. [分享一下 Quantumult X 启用链式代理](https://www.v2ex.com/t/991183) `10条评论` `分享创造`
 
-数据更新于 2023-11-12 16:45:45
+数据更新于 2023-11-12 16:55:56
 
 <!-- TODAY END -->
 
