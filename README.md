@@ -17,6 +17,7 @@
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122) `11条评论` `OpenAI`
 1. [Java 中一个保存了 1 万个整数的 ArrayList 占多少内存？](https://www.v2ex.com/t/991104) `11条评论` `Java`
 1. [有没有那种学习英语口语发声的 app，类似于跟读的 app， app 读一句话，你可以有一个时间停顿也跟着读一句话，这样练习发声比较方便](https://www.v2ex.com/t/991094) `10条评论` `English`
+1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169) `9条评论` `职场话题`
 1. [OpenAI 关闭了，，，](https://www.v2ex.com/t/991151) `9条评论` `OpenAI`
 1. [iso 鏡像是怎麼製作的呢？](https://www.v2ex.com/t/991088) `9条评论` `问与答`
 1. [如何拯救 Android 糟糕的分享菜单？](https://www.v2ex.com/t/991084) `9条评论` `Android`
@@ -28,7 +29,7 @@
 1. [家里联通宽带部署服务 套 cloudflare 的 CDN 然后路由器防火墙里选择只能 cf 的 ip 入站 会不会安全些](https://www.v2ex.com/t/991153) `6条评论` `宽带症候群`
 1. [有哪些应用/服务你觉得值得收费却是免费的？](https://www.v2ex.com/t/991137) `6条评论` `问与答`
 
-数据更新于 2023-11-12 07:36:00
+数据更新于 2023-11-12 07:46:32
 
 <!-- TODAY END -->
 
