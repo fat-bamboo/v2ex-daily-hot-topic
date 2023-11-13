@@ -8,15 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [和女生第一次约会，有哪些不需要说太多话又能促进感情升温的地方？](https://www.v2ex.com/t/991306) `19条评论` `问与答`
-1. [阿里云 99 元服务器新老用户续费到 2027 年 11 月，有图为证！](https://www.v2ex.com/t/991313) `13条评论` `优惠信息`
-1. [[送码] Mac 平台最强休息提醒工具，欢迎体验！](https://www.v2ex.com/t/991317) `11条评论` `分享创造`
-1. [搭建私人像册，最合适/经济的机型是什么？](https://www.v2ex.com/t/991318) `8条评论` `云计算`
-1. [Quantumult X 有啥好使的去广告 Config？](https://www.v2ex.com/t/991309) `7条评论` `Apple`
-1. [新款 iPhone SE 什么时候发布？](https://www.v2ex.com/t/991312) `6条评论` `iPhone`
-1. [灵动岛 vs 刘海哪个更好用？](https://www.v2ex.com/t/991310) `6条评论` `iPhone`
+1. [和女生第一次约会，有哪些不需要说太多话又能促进感情升温的地方？](https://www.v2ex.com/t/991306) `33条评论` `问与答`
+1. [阿里云 99 元服务器新老用户续费到 2027 年 11 月，有图为证！](https://www.v2ex.com/t/991313) `27条评论` `优惠信息`
+1. [搭建私人像册，最合适/经济的机型是什么？](https://www.v2ex.com/t/991318) `25条评论` `云计算`
+1. [[iOS 逆向与安全] 某茅台 App 抓包](https://www.v2ex.com/t/991314) `21条评论` `程序员`
+1. [[送码] Mac 平台最强休息提醒工具，欢迎体验！](https://www.v2ex.com/t/991317) `19条评论` `分享创造`
+1. [Quantumult X 有啥好使的去广告 Config？](https://www.v2ex.com/t/991309) `15条评论` `Apple`
+1. [用了几年 mac 了，还是不习惯。](https://www.v2ex.com/t/991332) `13条评论` `macOS`
+1. [新款 iPhone SE 什么时候发布？](https://www.v2ex.com/t/991312) `10条评论` `iPhone`
+1. [阿里云昨天全球爆炸没人讨论吗？](https://www.v2ex.com/t/991327) `9条评论` `全球工单系统`
+1. [灵动岛 vs 刘海哪个更好用？](https://www.v2ex.com/t/991310) `9条评论` `iPhone`
+1. [求教如何在 chatgpt 的交互中精确回退到某一对话](https://www.v2ex.com/t/991311) `7条评论` `OpenAI`
+1. [关于 mybatis 的疑惑](https://www.v2ex.com/t/991335) `6条评论` `Java`
+1. [微信小程序的手机号认证不便宜啊！](https://www.v2ex.com/t/991330) `6条评论` `微信`
+1. [AI 毕业设计生成器](https://www.v2ex.com/t/991319) `6条评论` `分享创造`
 
-数据更新于 2023-11-13 01:21:41
+数据更新于 2023-11-13 02:07:39
 
 <!-- TODAY END -->
 
