@@ -8,9 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
-1. [出生 2 个月的娃就上托儿所了！](https://www.v2ex.com/t/992301) `9条评论` `生活`
+1. [出生 2 个月的娃就上托儿所了！](https://www.v2ex.com/t/992301) `49条评论` `生活`
+1. [one key 替代品咨询](https://www.v2ex.com/t/992305) `16条评论` `程序员`
+1. [🎁 [赠码] 瓦尔登 iPad 适配版上线啦，诚邀各位来体验这个专注于个人日程管理的 App](https://www.v2ex.com/t/992303) `12条评论` `分享创造`
+1. [现在的安卓比 ios 好用](https://www.v2ex.com/t/992320) `9条评论` `问与答`
+1. [有没有使用 chatgpt 的家用智能音响？](https://www.v2ex.com/t/992307) `8条评论` `问与答`
+1. [oracle cloud 的免费 boot volume 到底能用几个呢](https://www.v2ex.com/t/992310) `7条评论` `VPS`
+1. [为什么硬盘盒这么贵呢](https://www.v2ex.com/t/992315) `6条评论` `NAS`
 
-数据更新于 2023-11-16 01:16:26
+数据更新于 2023-11-16 02:05:52
 
 <!-- TODAY END -->
 
