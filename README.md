@@ -31,10 +31,10 @@
 1. [手里有几块 500G 硬盘，能干点什么？](https://www.v2ex.com/t/992763) `22条评论` `奇思妙想`
 1. [如何缩短 dao 层命名,selectAllListIdAndUpdateHashAndStateByTaskIdAndUpdateGroupAndStateList](https://www.v2ex.com/t/992758) `19条评论` `程序员`
 1. [程序员拥有什么样的技术能力会让人有安全感？](https://www.v2ex.com/t/992673) `18条评论` `问与答`
+1. [SD 卡接口， 3.5mm 接口， HDMI 接口，你们真的用吗？](https://www.v2ex.com/t/992943) `17条评论` `macOS`
 1. [12 岁男孩生日礼物求推荐](https://www.v2ex.com/t/992717) `17条评论` `问与答`
-1. [时区缩写的问题：中国标准时间和美国中部标准时间都是 CST？](https://www.v2ex.com/t/992656) `17条评论` `程序员`
 
-数据更新于 2023-11-17 23:14:05
+数据更新于 2023-11-17 23:25:53
 
 <!-- TODAY END -->
 
