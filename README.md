@@ -8,30 +8,31 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2023.11 想入手 iPhone13 基础版, JD 价 3997, 有点心动,女生用](https://www.v2ex.com/t/992986) `45条评论` `iPhone`
+1. [2023.11 想入手 iPhone13 基础版, JD 价 3997, 有点心动,女生用](https://www.v2ex.com/t/992986) `48条评论` `iPhone`
+1. [你是如何看待家庭个体之间资源不平等的？](https://www.v2ex.com/t/992972) `36条评论` `生活`
 1. [[吐槽] 有些公司要求精通 Java +golang+带领团队，给 10k-12k，怎么想的？](https://www.v2ex.com/t/992979) `35条评论` `职场话题`
-1. [你是如何看待家庭个体之间资源不平等的？](https://www.v2ex.com/t/992972) `32条评论` `生活`
 1. [OpenAI 宣布领导层换届](https://www.v2ex.com/t/992983) `30条评论` `OpenAI`
 1. [Linux 部署 gitea。无法用 service 启动](https://www.v2ex.com/t/992990) `29条评论` `Linux`
 1. [我会不会死](https://www.v2ex.com/t/993006) `21条评论` `问与答`
 1. [京东上那些 19 块 100G 的流量卡靠谱吗？](https://www.v2ex.com/t/992998) `21条评论` `京东`
-1. [想上个黑苹果，麻烦看下目前配置理论上是否可行](https://www.v2ex.com/t/993015) `16条评论` `Apple`
+1. [想上个黑苹果，麻烦看下目前配置理论上是否可行](https://www.v2ex.com/t/993015) `17条评论` `Apple`
 1. [皮一下，周末愉快😁](https://www.v2ex.com/t/992974) `15条评论` `程序员`
-1. [老生常谈，在写这种代码给这些字段命名的时候是真的难受](https://www.v2ex.com/t/993051) `12条评论` `问与答`
+1. [老生常谈，在写这种代码给这些字段命名的时候是真的难受](https://www.v2ex.com/t/993051) `13条评论` `问与答`
 1. [ChatGPT Plus 偷渡订阅成功](https://www.v2ex.com/t/992980) `11条评论` `OpenAI`
 1. [由于域名被某司抢注了，于是我们做了一个艰难的决定，决定改为 LafTools，另外送礼品卡！](https://www.v2ex.com/t/993044) `10条评论` `分享创造`
 1. [HackerNews 每日 Top Stories 自动 AI 摘要，以及评论摘要](https://www.v2ex.com/t/992988) `10条评论` `分享创造`
+1. [windows 系统如何对整个硬盘进行克隆](https://www.v2ex.com/t/993014) `8条评论` `Windows`
 1. [广深多年漂，曲折安家路|广漂程序员刚需买房故事](https://www.v2ex.com/t/993008) `8条评论` `广州`
 1. [24 届双非嵌入式 Linux ， Offer？](https://www.v2ex.com/t/993003) `8条评论` `职场话题`
 1. [现在 Linux 有啥简单方便使用的 clash 客户端吗？](https://www.v2ex.com/t/992992) `8条评论` `Linux`
+1. [汽车轮胎只换一个，可以吗？不同品牌的，但规格一样](https://www.v2ex.com/t/993053) `7条评论` `汽车`
+1. [iphone14 可以开 2 个微信吗？](https://www.v2ex.com/t/993029) `7条评论` `iPhone`
+1. [我想请教一个关于家庭网络的问题](https://www.v2ex.com/t/993023) `7条评论` `宽带症候群`
 1. [求推荐好用的剃光头神器](https://www.v2ex.com/t/993022) `7条评论` `问与答`
 1. [求推荐 Windows 下的图片查看器](https://www.v2ex.com/t/993040) `6条评论` `Windows`
-1. [iphone14 可以开 2 个微信吗？](https://www.v2ex.com/t/993029) `6条评论` `iPhone`
-1. [我想请教一个关于家庭网络的问题](https://www.v2ex.com/t/993023) `6条评论` `宽带症候群`
-1. [windows 系统如何对整个硬盘进行克隆](https://www.v2ex.com/t/993014) `6条评论` `Windows`
 1. [为什么我的谷歌账户有这个提醒？](https://www.v2ex.com/t/992991) `6条评论` `Google`
 
-数据更新于 2023-11-18 07:13:27
+数据更新于 2023-11-18 07:25:39
 
 <!-- TODAY END -->
 
