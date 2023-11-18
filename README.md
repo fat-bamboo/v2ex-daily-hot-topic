@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2023.11 想入手 iPhone13 基础版, JD 价 3997, 有点心动,女生用](https://www.v2ex.com/t/992986) `54条评论` `iPhone`
-1. [你是如何看待家庭个体之间资源不平等的？](https://www.v2ex.com/t/992972) `36条评论` `生活`
+1. [2023.11 想入手 iPhone13 基础版, JD 价 3997, 有点心动,女生用](https://www.v2ex.com/t/992986) `55条评论` `iPhone`
+1. [你是如何看待家庭个体之间资源不平等的？](https://www.v2ex.com/t/992972) `37条评论` `生活`
 1. [[吐槽] 有些公司要求精通 Java +golang+带领团队，给 10k-12k，怎么想的？](https://www.v2ex.com/t/992979) `35条评论` `职场话题`
-1. [OpenAI 宣布领导层换届](https://www.v2ex.com/t/992983) `34条评论` `OpenAI`
+1. [OpenAI 宣布领导层换届](https://www.v2ex.com/t/992983) `35条评论` `OpenAI`
 1. [我会不会死](https://www.v2ex.com/t/993006) `30条评论` `问与答`
 1. [Linux 部署 gitea。无法用 service 启动](https://www.v2ex.com/t/992990) `29条评论` `Linux`
 1. [由于域名被某司抢注了，于是我们做了一个艰难的决定，决定改为 LafTools，另外送礼品卡！](https://www.v2ex.com/t/993044) `25条评论` `分享创造`
@@ -19,10 +19,11 @@
 1. [老生常谈，在写这种代码给这些字段命名的时候是真的难受](https://www.v2ex.com/t/993051) `18条评论` `问与答`
 1. [想上个黑苹果，麻烦看下目前配置理论上是否可行](https://www.v2ex.com/t/993015) `17条评论` `Apple`
 1. [皮一下，周末愉快😁](https://www.v2ex.com/t/992974) `15条评论` `程序员`
+1. [汽车轮胎只换一个，可以吗？不同品牌的，但规格一样](https://www.v2ex.com/t/993053) `12条评论` `汽车`
 1. [ChatGPT Plus 偷渡订阅成功](https://www.v2ex.com/t/992980) `11条评论` `OpenAI`
 1. [HackerNews 每日 Top Stories 自动 AI 摘要，以及评论摘要](https://www.v2ex.com/t/992988) `10条评论` `分享创造`
-1. [汽车轮胎只换一个，可以吗？不同品牌的，但规格一样](https://www.v2ex.com/t/993053) `9条评论` `汽车`
-1. [求推荐 Windows 下的图片查看器](https://www.v2ex.com/t/993040) `8条评论` `Windows`
+1. [求推荐 Windows 下的图片查看器](https://www.v2ex.com/t/993040) `9条评论` `Windows`
+1. [领导说业余时间多学一下技术，我很想反驳，领导这是 pua 吗？如果不是的话该有怎么样的反应比较好，另外如果手头上有多个项目的话，该怎么处理呢？](https://www.v2ex.com/t/993073) `8条评论` `问与答`
 1. [iphone14 可以开 2 个微信吗？](https://www.v2ex.com/t/993029) `8条评论` `iPhone`
 1. [windows 系统如何对整个硬盘进行克隆](https://www.v2ex.com/t/993014) `8条评论` `Windows`
 1. [广深多年漂，曲折安家路|广漂程序员刚需买房故事](https://www.v2ex.com/t/993008) `8条评论` `广州`
@@ -30,11 +31,10 @@
 1. [现在 Linux 有啥简单方便使用的 clash 客户端吗？](https://www.v2ex.com/t/992992) `8条评论` `Linux`
 1. [我想请教一个关于家庭网络的问题](https://www.v2ex.com/t/993023) `7条评论` `宽带症候群`
 1. [求推荐好用的剃光头神器](https://www.v2ex.com/t/993022) `7条评论` `问与答`
+1. [原神 osasiadispatch 域名被墙了？](https://www.v2ex.com/t/993059) `6条评论` `宽带症候群`
 1. [公司悄咪咪的开始实行按加班时间排名扣工资，老哥们有没有什么应对之法？](https://www.v2ex.com/t/993047) `6条评论` `职场话题`
-1. [Offer 抉择，北京飞猪，还是上海携程酒店部门](https://www.v2ex.com/t/993043) `6条评论` `职场话题`
-1. [你们有没有尝试从 iCloud photo 将照片下载到本地 pc 上，它每次限制下载量，而且下载到一半还出现断开连接，这是咋回事啊？保好意思，暂时发布了图片，对于万张照片来说想下载下来，太麻烦了吧](https://www.v2ex.com/t/993027) `6条评论` `iCloud`
 
-数据更新于 2023-11-18 08:29:37
+数据更新于 2023-11-18 08:39:58
 
 <!-- TODAY END -->
 
