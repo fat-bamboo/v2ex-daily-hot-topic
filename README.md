@@ -8,15 +8,15 @@
 
 <!-- TODAY BEGIN -->
 
+1. [2023.11 想入手 iPhone13 基础版, JD 价 3997, 有点心动,女生用](https://www.v2ex.com/t/992986) `19条评论` `iPhone`
 1. [你是如何看待家庭个体之间资源不平等的？](https://www.v2ex.com/t/992972) `19条评论` `生活`
+1. [OpenAI 宣布领导层换届](https://www.v2ex.com/t/992983) `18条评论` `OpenAI`
 1. [皮一下，周末愉快😁](https://www.v2ex.com/t/992974) `15条评论` `程序员`
-1. [OpenAI 宣布领导层换届](https://www.v2ex.com/t/992983) `14条评论` `OpenAI`
-1. [2023.11 想入手 iPhone13 基础版, JD 价 3997, 有点心动,女生用](https://www.v2ex.com/t/992986) `13条评论` `iPhone`
-1. [Linux 部署 gitea。无法用 service 启动](https://www.v2ex.com/t/992990) `11条评论` `Linux`
-1. [[吐槽] 有些公司要求精通 Java +golang+带领团队，给 10k-12k，怎么想的？](https://www.v2ex.com/t/992979) `10条评论` `职场话题`
-1. [ChatGPT Plus 偷渡订阅成功](https://www.v2ex.com/t/992980) `7条评论` `OpenAI`
+1. [Linux 部署 gitea。无法用 service 启动](https://www.v2ex.com/t/992990) `14条评论` `Linux`
+1. [[吐槽] 有些公司要求精通 Java +golang+带领团队，给 10k-12k，怎么想的？](https://www.v2ex.com/t/992979) `11条评论` `职场话题`
+1. [ChatGPT Plus 偷渡订阅成功](https://www.v2ex.com/t/992980) `9条评论` `OpenAI`
 
-数据更新于 2023-11-18 02:55:39
+数据更新于 2023-11-18 03:14:17
 
 <!-- TODAY END -->
 
