@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [iCloud or OneDrive?](https://www.v2ex.com/t/993158) `20条评论` `问与答`
-1. [如何看待苹果预计 2025 年更换具有突破性的内部电池](https://www.v2ex.com/t/993173) `12条评论` `Apple`
+1. [如何看待苹果预计 2025 年更换具有突破性的内部电池](https://www.v2ex.com/t/993173) `13条评论` `Apple`
 1. [小泽 AI 全新升级了全能模式， 13000+GPTs， 32K 大模型， Dalle 作图模式，双十一优惠继续~~](https://www.v2ex.com/t/993172) `10条评论` `推广`
 1. [GPT4 昨天开始能力下降](https://www.v2ex.com/t/993163) `10条评论` `OpenAI`
 1. [Windows10 已经成为了最好的 Linux 发行版](https://www.v2ex.com/t/993189) `9条评论` `程序员`
@@ -19,7 +19,7 @@
 1. [chatgpt 的语音有时候会说傻话](https://www.v2ex.com/t/993171) `6条评论` `OpenAI`
 1. [没有类似两步路，对爬山路线上的同一个点可以看到不同人，不同季节发的照片吗](https://www.v2ex.com/t/993162) `6条评论` `问与答`
 
-数据更新于 2023-11-19 04:46:09
+数据更新于 2023-11-19 04:56:25
 
 <!-- TODAY END -->
 
