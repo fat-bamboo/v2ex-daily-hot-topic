@@ -34,7 +34,7 @@
 1. [tronjan 和 outline 哪个相对稳定和安全](https://www.v2ex.com/t/993458) `14条评论` `程序员`
 1. [拿 chromebook 玩 Linux 会是一个好选择吗](https://www.v2ex.com/t/993547) `13条评论` `Linux`
 
-数据更新于 2023-11-20 23:14:59
+数据更新于 2023-11-20 23:26:16
 
 <!-- TODAY END -->
 
