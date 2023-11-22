@@ -8,21 +8,22 @@
 
 <!-- TODAY BEGIN -->
 
-1. [看了最新一期的马督工，有感](https://www.v2ex.com/t/994017) `83条评论` `生活`
-1. [之前分享的一次性邮箱，关闭了发信功能，部分人素质太低](https://www.v2ex.com/t/994021) `44条评论` `分享发现`
-1. [微软这操作太秀了，这么玩不会被处罚？](https://www.v2ex.com/t/994031) `42条评论` `OpenAI`
-1. [大家早晨起床后会听一些什么？](https://www.v2ex.com/t/994010) `38条评论` `问与答`
-1. [大家都在听什么播客?](https://www.v2ex.com/t/994034) `22条评论` `问与答`
+1. [看了最新一期的马督工，有感](https://www.v2ex.com/t/994017) `115条评论` `生活`
+1. [之前分享的一次性邮箱，关闭了发信功能，部分人素质太低](https://www.v2ex.com/t/994021) `56条评论` `分享发现`
+1. [微软这操作太秀了，这么玩不会被处罚？](https://www.v2ex.com/t/994031) `50条评论` `OpenAI`
+1. [大家早晨起床后会听一些什么？](https://www.v2ex.com/t/994010) `40条评论` `问与答`
+1. [大家都在听什么播客?](https://www.v2ex.com/t/994034) `27条评论` `问与答`
 1. [小米智能锁该怎么选？求助](https://www.v2ex.com/t/994013) `22条评论` `小米`
 1. [GPT 又挂了？](https://www.v2ex.com/t/994007) `19条评论` `OpenAI`
+1. [ChatGPT Voice 免费开放了](https://www.v2ex.com/t/994036) `15条评论` `OpenAI`
+1. [苹果生态好像有种聚光灯效应，无法被超越。](https://www.v2ex.com/t/994045) `13条评论` `Apple`
 1. [坐标三线城市，这个月工资停发了，难受，哪里能赚外快呢](https://www.v2ex.com/t/994015) `13条评论` `职场话题`
-1. [苹果生态好像有种聚光灯效应，无法被超越。](https://www.v2ex.com/t/994045) `8条评论` `Apple`
 1. [为什么.cf、.tk 的域名，在 cloudflare 不能套 cdn](https://www.v2ex.com/t/994022) `8条评论` `Cloudflare`
 1. [chatgpt 又挂了，我太需要它了](https://www.v2ex.com/t/994011) `7条评论` `OpenAI`
-1. [ChatGPT Voice 免费开放了](https://www.v2ex.com/t/994036) `6条评论` `OpenAI`
+1. [关于“真相”](https://www.v2ex.com/t/994052) `6条评论` `问与答`
 1. [V 友们，有没有医疗行业的，懂 DICOM 的？](https://www.v2ex.com/t/994024) `6条评论` `程序员`
 
-数据更新于 2023-11-22 02:11:09
+数据更新于 2023-11-22 02:39:20
 
 <!-- TODAY END -->
 
