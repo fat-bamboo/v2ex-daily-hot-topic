@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [毕业 3-5 年的兄弟们，你们现在咋样？](https://www.v2ex.com/t/995249) `57条评论` `问与答`
-1. [如何屏蔽推特的政治话题？](https://www.v2ex.com/t/995289) `51条评论` `Twitter`
+1. [如何屏蔽推特的政治话题？](https://www.v2ex.com/t/995289) `54条评论` `Twitter`
 1. [快 2024 了现在 M 系列 MacBook 外接显示器还有闪屏吗](https://www.v2ex.com/t/995278) `24条评论` `Apple`
 1. [保持手机常年运行的方法？](https://www.v2ex.com/t/995231) `22条评论` `硬件`
 1. [有什么手表能控制手机上的油管播放，比如后腿几秒](https://www.v2ex.com/t/995275) `21条评论` `Android`
@@ -20,13 +20,14 @@
 1. [求推荐对 APP 兼容性高一点的手机](https://www.v2ex.com/t/995272) `11条评论` `Android`
 1. [京东百亿补贴 MBPm1pro 14 寸 16+512](https://www.v2ex.com/t/995300) `10条评论` `Apple`
 1. [今天有兴趣做 nat 打洞， wireguard nat3+nat3 打洞失败](https://www.v2ex.com/t/995281) `9条评论` `宽带症候群`
+1. [外接显示器摆放姿势，日常姿势使用探讨](https://www.v2ex.com/t/995279) `9条评论` `Apple`
 1. [cloudflare 抗 ddos 真的很强吗？](https://www.v2ex.com/t/995236) `8条评论` `云计算`
-1. [外接显示器摆放姿势，日常姿势使用探讨](https://www.v2ex.com/t/995279) `7条评论` `Apple`
 1. [请问用 gpt 来学外语效果怎么样？可以用来代替外教吗？会不会经常出错？](https://www.v2ex.com/t/995244) `7条评论` `OpenAI`
+1. [谷歌浏览器居然是隐私做的最好的](https://www.v2ex.com/t/995301) `6条评论` `分享发现`
 1. [oracle 免费主机为啥 budget 要花钱](https://www.v2ex.com/t/995285) `6条评论` `程序员`
 1. [E5 要过期了怎么办](https://www.v2ex.com/t/995261) `6条评论` `问与答`
 
-数据更新于 2023-11-26 10:19:24
+数据更新于 2023-11-26 10:30:42
 
 <!-- TODAY END -->
 
