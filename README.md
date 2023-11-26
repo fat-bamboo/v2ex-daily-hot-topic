@@ -10,14 +10,16 @@
 
 1. [毕业 3-5 年的兄弟们，你们现在咋样？](https://www.v2ex.com/t/995249) `41条评论` `问与答`
 1. [保持手机常年运行的方法？](https://www.v2ex.com/t/995231) `19条评论` `硬件`
-1. [快 2024 了现在 M 系列 MacBook 外接显示器还有闪屏吗](https://www.v2ex.com/t/995278) `13条评论` `Apple`
+1. [快 2024 了现在 M 系列 MacBook 外接显示器还有闪屏吗](https://www.v2ex.com/t/995278) `15条评论` `Apple`
 1. [有什么比较简单的方式能训练图像识别模型么](https://www.v2ex.com/t/995240) `12条评论` `机器学习`
+1. [如果 AGI 甚至 ASI 真的被 OpenAI 或者其他美国公司制造出来，我们该怎么做？](https://www.v2ex.com/t/995283) `8条评论` `OpenAI`
+1. [请问支付宝买境外 vps 安全吗](https://www.v2ex.com/t/995262) `8条评论` `VPS`
 1. [cloudflare 抗 ddos 真的很强吗？](https://www.v2ex.com/t/995236) `8条评论` `云计算`
-1. [请问支付宝买境外 vps 安全吗](https://www.v2ex.com/t/995262) `6条评论` `VPS`
+1. [请问用 gpt 来学外语效果怎么样？可以用来代替外教吗？会不会经常出错？](https://www.v2ex.com/t/995244) `7条评论` `OpenAI`
+1. [请问现在 M2 的 MBP 还能坚持一下吗？](https://www.v2ex.com/t/995277) `6条评论` `Apple`
 1. [E5 要过期了怎么办](https://www.v2ex.com/t/995261) `6条评论` `问与答`
-1. [请问用 gpt 来学外语效果怎么样？可以用来代替外教吗？会不会经常出错？](https://www.v2ex.com/t/995244) `6条评论` `OpenAI`
 
-数据更新于 2023-11-26 07:36:05
+数据更新于 2023-11-26 07:46:26
 
 <!-- TODAY END -->
 
