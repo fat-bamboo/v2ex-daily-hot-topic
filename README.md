@@ -25,16 +25,16 @@
 1. [京东百亿补贴 MBPm1pro 14 寸 16+512](https://www.v2ex.com/t/995300) `14条评论` `Apple`
 1. [请问现在 M2 的 MBP 还能坚持一下吗？](https://www.v2ex.com/t/995277) `14条评论` `Apple`
 1. [有什么比较简单的方式能训练图像识别模型么](https://www.v2ex.com/t/995240) `12条评论` `机器学习`
+1. [我误会群晖了，原来 QC 这么快！](https://www.v2ex.com/t/995395) `11条评论` `NAS`
 1. [求一个 Linux 下性能表现好的虚机 win 方案](https://www.v2ex.com/t/995382) `11条评论` `Linux`
 1. [谷歌浏览器居然是隐私做的最好的](https://www.v2ex.com/t/995301) `11条评论` `分享发现`
 1. [今天有兴趣做 nat 打洞， wireguard nat3+nat3 打洞失败](https://www.v2ex.com/t/995281) `11条评论` `宽带症候群`
 1. [求推荐对 APP 兼容性高一点的手机](https://www.v2ex.com/t/995272) `11条评论` `Android`
-1. [我误会群晖了，原来 QC 这么快！](https://www.v2ex.com/t/995395) `10条评论` `NAS`
 1. [[工作相关] 领导给我安排的任务难度太大怎么办？](https://www.v2ex.com/t/995299) `10条评论` `问与答`
 1. [局域网设备能引起路由器拨号断连？](https://www.v2ex.com/t/995355) `9条评论` `宽带症候群`
 1. [求助同一 ip/wifi 下 windows 可以， mac 无法连接内网服务器？](https://www.v2ex.com/t/995344) `9条评论` `macOS`
 
-数据更新于 2023-11-26 23:48:39
+数据更新于 2023-11-26 23:58:56
 
 <!-- TODAY END -->
 
