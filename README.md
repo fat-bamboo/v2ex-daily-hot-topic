@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [为什么你应该使用安卓和 Windows？](https://www.v2ex.com/t/997060) `68条评论` `Windows`
+1. [为什么你应该使用安卓和 Windows？](https://www.v2ex.com/t/997060) `72条评论` `Windows`
 1. [普通人花多少钱能享受类似血槽姐的紧急医疗待遇？](https://www.v2ex.com/t/997047) `52条评论` `问与答`
 1. [捡了条狗 发现养狗真是需要有钱有闲](https://www.v2ex.com/t/997075) `47条评论` `生活`
-1. [老板带来的日常离职冲动](https://www.v2ex.com/t/997026) `44条评论` `职场话题`
+1. [老板带来的日常离职冲动](https://www.v2ex.com/t/997026) `45条评论` `职场话题`
 1. [昨天入了一个唢呐, 请问哪里有现代一点的简明教程](https://www.v2ex.com/t/997032) `42条评论` `音乐`
-1. [.ing 后缀正式开放了，有没有什么想法](https://www.v2ex.com/t/997053) `37条评论` `程序员`
+1. [.ing 后缀正式开放了，有没有什么想法](https://www.v2ex.com/t/997053) `40条评论` `程序员`
+1. [某鱼买到有锁硬盘以及小二用最小的权力给用户找最大的麻烦](https://www.v2ex.com/t/997141) `33条评论` `NAS`
 1. [各位写 C++有成就感吗](https://www.v2ex.com/t/997106) `33条评论` `程序员`
-1. [某鱼买到有锁硬盘以及小二用最小的权力给用户找最大的麻烦](https://www.v2ex.com/t/997141) `32条评论` `NAS`
 1. [既然有车载主动降噪的概念，房载主动降噪有没有搞头？](https://www.v2ex.com/t/997021) `30条评论` `奇思妙想`
 1. [你们 Java 在深圳多少 k 啊](https://www.v2ex.com/t/997044) `28条评论` `职场话题`
 1. [有个存在了很久的问题，我一般打游戏都没办法打通关，大部分人都这样子吗？](https://www.v2ex.com/t/997107) `22条评论` `PlayStation 5`
@@ -32,9 +32,9 @@
 1. [国内服务器如何调用国外 api](https://www.v2ex.com/t/997035) `11条评论` `分享创造`
 1. [iPhone 无法登陆 chatgpt 软件](https://www.v2ex.com/t/997082) `10条评论` `OpenAI`
 1. [请问 cloudflare warp+在本地安装之后为什么一部分流量好像还是直连？](https://www.v2ex.com/t/997078) `10条评论` `Cloudflare`
-1. [关于 Python 就业方向的疑问](https://www.v2ex.com/t/997088) `9条评论` `Python`
+1. [可能很多人不知道 hoppscotch 比 postman 更好用，这个 postman 要强制登录了](https://www.v2ex.com/t/997157) `9条评论` `程序员`
 
-数据更新于 2023-12-02 14:11:16
+数据更新于 2023-12-02 14:26:40
 
 <!-- TODAY END -->
 
