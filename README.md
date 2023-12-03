@@ -25,7 +25,7 @@
 1. [请教 Python 使用 pyinstaller 打包后 mac 运行很慢，怎么解决。。](https://www.v2ex.com/t/997218) `8条评论` `Python`
 1. [Windows 选择文件打开方式列表中出现大量 Qt 应用，如何清除？](https://www.v2ex.com/t/997246) `6条评论` `Windows`
 
-数据更新于 2023-12-03 08:29:18
+数据更新于 2023-12-03 08:39:42
 
 <!-- TODAY END -->
 
