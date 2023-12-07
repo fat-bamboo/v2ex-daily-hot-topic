@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [目前基本可以认为小米已经禁止 BL 解锁了](https://www.v2ex.com/t/998253) `123条评论` `Android`
-1. [犹豫着要不要告诉朋友他堂妹现在的男朋友家里的背景](https://www.v2ex.com/t/998257) `58条评论` `问与答`
-1. [各位久坐的程序员，你们都买哪个人体工学椅？](https://www.v2ex.com/t/998251) `52条评论` `程序员`
+1. [目前基本可以认为小米已经禁止 BL 解锁了](https://www.v2ex.com/t/998253) `137条评论` `Android`
+1. [犹豫着要不要告诉朋友他堂妹现在的男朋友家里的背景](https://www.v2ex.com/t/998257) `59条评论` `问与答`
+1. [各位久坐的程序员，你们都买哪个人体工学椅？](https://www.v2ex.com/t/998251) `55条评论` `程序员`
 1. [jetbrains 2023.3 发布了](https://www.v2ex.com/t/998240) `43条评论` `JetBrains`
 1. [MacOS 下最好用的快速备忘软件是？](https://www.v2ex.com/t/998230) `26条评论` `macOS`
 1. [马上 2024 年了， iPhone 用户买路由器还是要避开 MTK 和高通吗？](https://www.v2ex.com/t/998233) `21条评论` `路由器`
@@ -18,23 +18,23 @@
 1. [现在那种优惠 2 年的运营商的卡有没有坑啊？](https://www.v2ex.com/t/998261) `15条评论` `问与答`
 1. [[成都]帮公司招一个前端](https://www.v2ex.com/t/998249) `14条评论` `酷工作`
 1. [马上过年了，想给老家五层房子弄个网络](https://www.v2ex.com/t/998271) `13条评论` `路由器`
+1. [关于陀氏的作品的阅读](https://www.v2ex.com/t/998267) `13条评论` `问与答`
 1. [有什么 Mac 上能玩的或网页上的办公室联机摸鱼游戏](https://www.v2ex.com/t/998264) `13条评论` `程序员`
 1. [开源项目“ChatGPT Next Web”貌似已被收购](https://www.v2ex.com/t/998237) `13条评论` `分享发现`
-1. [关于陀氏的作品的阅读](https://www.v2ex.com/t/998267) `12条评论` `问与答`
 1. [请问，光猫路由一体机，可以桥接吗？](https://www.v2ex.com/t/998252) `12条评论` `宽带症候群`
+1. [好奇大家在公司电脑上是怎么管理私人账号的](https://www.v2ex.com/t/998269) `11条评论` `职场话题`
 1. [做了一个 Favicon 生成器 PWA](https://www.v2ex.com/t/998236) `11条评论` `分享创造`
 1. [目前江苏新装宽带，谁家能搞到公网 ip](https://www.v2ex.com/t/998270) `10条评论` `宽带症候群`
 1. [早起后如何快速让自己进去高效状态？](https://www.v2ex.com/t/998246) `10条评论` `生活`
 1. [Google Gemini 真的吊！这个 showcase 网站的 case 很炸](https://www.v2ex.com/t/998235) `10条评论` `分享创造`
-1. [好奇大家在公司电脑上是怎么管理私人账号的](https://www.v2ex.com/t/998269) `9条评论` `职场话题`
 1. [wx 小程序用户侧恶心的体验](https://www.v2ex.com/t/998245) `9条评论` `全球工单系统`
 1. [现在有什么 U 卡可以绑定国内应用，用于日常消费的？](https://www.v2ex.com/t/998229) `9条评论` `加密货币`
+1. [用 vim/nvim 写 Python 用什么插件？](https://www.v2ex.com/t/998262) `8条评论` `Vim`
 1. [为啥我的电脑的 Chrome 还是没有被切换到新版 UI](https://www.v2ex.com/t/998254) `8条评论` `问与答`
 1. [最近初学 rust 有个疑问](https://www.v2ex.com/t/998266) `7条评论` `Rust`
-1. [用 vim/nvim 写 Python 用什么插件？](https://www.v2ex.com/t/998262) `7条评论` `Vim`
 1. [docker swarm 部署服务需要等待很久的 preparing 是为什么呢？](https://www.v2ex.com/t/998260) `7条评论` `Docker`
 
-数据更新于 2023-12-07 03:15:36
+数据更新于 2023-12-07 03:26:32
 
 <!-- TODAY END -->
 
