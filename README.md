@@ -8,12 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [MacOS 下最好用的快速备忘软件是？](https://www.v2ex.com/t/998230) `13条评论` `macOS`
-1. [马上 2024 年了， iPhone 用户买路由器还是要避开 MTK 和高通吗？](https://www.v2ex.com/t/998233) `9条评论` `路由器`
-1. [做了一个 Favicon 生成器 PWA](https://www.v2ex.com/t/998236) `7条评论` `分享创造`
-1. [开源项目“ChatGPT Next Web”貌似已被收购](https://www.v2ex.com/t/998237) `6条评论` `分享发现`
+1. [目前基本可以认为小米已经禁止 BL 解锁了](https://www.v2ex.com/t/998253) `56条评论` `Android`
+1. [犹豫着要不要告诉朋友他堂妹现在的男朋友家里的背景](https://www.v2ex.com/t/998257) `32条评论` `问与答`
+1. [jetbrains 2023.3 发布了](https://www.v2ex.com/t/998240) `26条评论` `JetBrains`
+1. [各位久坐的程序员，你们都买哪个人体工学椅？](https://www.v2ex.com/t/998251) `22条评论` `程序员`
+1. [MacOS 下最好用的快速备忘软件是？](https://www.v2ex.com/t/998230) `22条评论` `macOS`
+1. [马上 2024 年了， iPhone 用户买路由器还是要避开 MTK 和高通吗？](https://www.v2ex.com/t/998233) `20条评论` `路由器`
+1. [朋友在咸鱼上买 homepod 美版 1700 被跑路](https://www.v2ex.com/t/998242) `14条评论` `分享发现`
+1. [开源项目“ChatGPT Next Web”貌似已被收购](https://www.v2ex.com/t/998237) `11条评论` `分享发现`
+1. [做了一个 Favicon 生成器 PWA](https://www.v2ex.com/t/998236) `9条评论` `分享创造`
+1. [wx 小程序用户侧恶心的体验](https://www.v2ex.com/t/998245) `8条评论` `全球工单系统`
+1. [Windows 下浏览 HEIC 图片最佳方案是什么?](https://www.v2ex.com/t/998248) `6条评论` `Windows`
+1. [现在有什么 U 卡可以绑定国内应用，用于日常消费的？](https://www.v2ex.com/t/998229) `6条评论` `加密货币`
 
-数据更新于 2023-12-07 01:18:46
+数据更新于 2023-12-07 02:06:22
 
 <!-- TODAY END -->
 
