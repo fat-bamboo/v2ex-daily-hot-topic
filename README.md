@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070) `44条评论` `Android`
-1. [什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095) `34条评论` `程序员`
+1. [什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095) `35条评论` `程序员`
 1. [clash 总是搞乱 dns](https://www.v2ex.com/t/999090) `33条评论` `macOS`
 1. [[吐槽] 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100) `27条评论` `程序员`
+1. [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137) `22条评论` ` WATCH`
 1. [想看奈飞视频，搞了个莫斯科服务器搭了 openVpX，深入学习了解令人绝望，求大佬指个路](https://www.v2ex.com/t/999126) `21条评论` `宽带症候群`
-1. [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137) `21条评论` ` WATCH`
 1. [2023 年快结束了，对于今年，你有什么想说的？](https://www.v2ex.com/t/999125) `20条评论` `问与答`
 1. [快被 IPV6 逼疯了](https://www.v2ex.com/t/999098) `19条评论` `程序员`
 1. [next.js ssr 好难， 各位是怎么学的？](https://www.v2ex.com/t/999133) `18条评论` `程序员`
@@ -34,7 +34,7 @@
 1. [该怎么样和以前的朋友们恢复联系呢？](https://www.v2ex.com/t/999149) `7条评论` `问与答`
 1. [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145) `7条评论` `iPhone`
 
-数据更新于 2023-12-10 11:36:02
+数据更新于 2023-12-10 11:46:20
 
 <!-- TODAY END -->
 
