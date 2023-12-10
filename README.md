@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070) `43条评论` `Android`
-1. [clash 总是搞乱 dns](https://www.v2ex.com/t/999090) `32条评论` `macOS`
-1. [什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095) `31条评论` `程序员`
+1. [小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070) `44条评论` `Android`
+1. [什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095) `34条评论` `程序员`
+1. [clash 总是搞乱 dns](https://www.v2ex.com/t/999090) `33条评论` `macOS`
 1. [[吐槽] 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100) `27条评论` `程序员`
 1. [想看奈飞视频，搞了个莫斯科服务器搭了 openVpX，深入学习了解令人绝望，求大佬指个路](https://www.v2ex.com/t/999126) `21条评论` `宽带症候群`
 1. [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137) `21条评论` ` WATCH`
@@ -30,11 +30,11 @@
 1. [流感后咳嗽不停怎么办](https://www.v2ex.com/t/999093) `10条评论` `健康`
 1. [刚学习 React 请教一个 useState 有关的问题](https://www.v2ex.com/t/999119) `9条评论` `React`
 1. [Studio Display 27'' 能挂啥屏幕挂灯？](https://www.v2ex.com/t/999112) `8条评论` `Apple`
+1. [写了一个 [排序只需要修改一个对象数据] 的模式](https://www.v2ex.com/t/999157) `7条评论` `程序员`
+1. [该怎么样和以前的朋友们恢复联系呢？](https://www.v2ex.com/t/999149) `7条评论` `问与答`
 1. [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145) `7条评论` `iPhone`
-1. [如何同时刷新多个标签页](https://www.v2ex.com/t/999111) `7条评论` `Safari`
-1. [Lenovo T460p 鼠标自己动咋回事](https://www.v2ex.com/t/999076) `7条评论` `云修电脑`
 
-数据更新于 2023-12-10 11:25:42
+数据更新于 2023-12-10 11:36:02
 
 <!-- TODAY END -->
 
