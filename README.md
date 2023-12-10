@@ -15,8 +15,8 @@
 1. [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137) `35条评论` ` WATCH`
 1. [广东电信 100M 单宽带 360 元包年](https://www.v2ex.com/t/999096) `30条评论` `宽带症候群`
 1. [现在还有免费的企业邮箱么？用来绑定自己的域名，谢谢](https://www.v2ex.com/t/999122) `29条评论` `互联网`
+1. [我发现 MagSafe 出来这么久了，也没啥有趣的配件啊，翻来覆去就是电池/支架/指环扣？](https://www.v2ex.com/t/999080) `28条评论` `Apple`
 1. [[吐槽] 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100) `28条评论` `程序员`
-1. [我发现 MagSafe 出来这么久了，也没啥有趣的配件啊，翻来覆去就是电池/支架/指环扣？](https://www.v2ex.com/t/999080) `27条评论` `Apple`
 1. [想看奈飞视频，搞了个莫斯科服务器搭了 openVpX，深入学习了解令人绝望，求大佬指个路](https://www.v2ex.com/t/999126) `24条评论` `宽带症候群`
 1. [快被 IPV6 逼疯了](https://www.v2ex.com/t/999098) `19条评论` `程序员`
 1. [Google play 商店无法下载淘宝 APP（安卓新手请教原生安卓下载 app 的姿势）](https://www.v2ex.com/t/999186) `18条评论` `Android`
@@ -24,17 +24,17 @@
 1. [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145) `17条评论` `iPhone`
 1. [Google pay 土耳其付款的问题。](https://www.v2ex.com/t/999102) `16条评论` `Google Play`
 1. [有适合读书交流想法的地方吗？](https://www.v2ex.com/t/999103) `15条评论` `阅读`
+1. [安卓上现在有什么好用的代理软件客户端吗？](https://www.v2ex.com/t/999178) `14条评论` `Android`
 1. [耗时三年开源的 H5 商城，强烈推荐](https://www.v2ex.com/t/999085) `14条评论` `程序员`
-1. [安卓上现在有什么好用的代理软件客户端吗？](https://www.v2ex.com/t/999178) `13条评论` `Android`
+1. [各位，最近查看光猫的 CPU 发现使用率很高，应当申请更换新光猫吗？](https://www.v2ex.com/t/999199) `13条评论` `宽带症候群`
 1. [宽带能像自来水或电一样，成为一个必存在的东西](https://www.v2ex.com/t/999160) `12条评论` `宽带症候群`
 1. [关于 chatgpt plus 封号的问题](https://www.v2ex.com/t/999144) `12条评论` `OpenAI`
 1. [个人网站遭受 ddos，报警有用吗](https://www.v2ex.com/t/999071) `12条评论` `站长`
-1. [各位，最近查看光猫的 CPU 发现使用率很高，应当申请更换新光猫吗？](https://www.v2ex.com/t/999199) `11条评论` `宽带症候群`
+1. [iOS 开始整治共享 id 下载的软件了](https://www.v2ex.com/t/999185) `10条评论` `iPhone`
 1. [2023 年为何我还在使用 RSS](https://www.v2ex.com/t/999116) `10条评论` `RSS`
 1. [用户在国内，使用 Cloudflare 做 CDN，源站放在哪个地区国内访问最快呢？](https://www.v2ex.com/t/999101) `10条评论` `Cloudflare`
-1. [流感后咳嗽不停怎么办](https://www.v2ex.com/t/999093) `10条评论` `健康`
 
-数据更新于 2023-12-10 15:17:28
+数据更新于 2023-12-10 15:27:40
 
 <!-- TODAY END -->
 
