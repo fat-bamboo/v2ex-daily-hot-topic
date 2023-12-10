@@ -9,11 +9,11 @@
 <!-- TODAY BEGIN -->
 
 1. [小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070) `44条评论` `Android`
-1. [什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095) `35条评论` `程序员`
-1. [clash 总是搞乱 dns](https://www.v2ex.com/t/999090) `33条评论` `macOS`
-1. [[吐槽] 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100) `27条评论` `程序员`
-1. [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137) `24条评论` ` WATCH`
-1. [想看奈飞视频，搞了个莫斯科服务器搭了 openVpX，深入学习了解令人绝望，求大佬指个路](https://www.v2ex.com/t/999126) `21条评论` `宽带症候群`
+1. [什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095) `36条评论` `程序员`
+1. [clash 总是搞乱 dns](https://www.v2ex.com/t/999090) `34条评论` `macOS`
+1. [[吐槽] 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100) `28条评论` `程序员`
+1. [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137) `25条评论` ` WATCH`
+1. [想看奈飞视频，搞了个莫斯科服务器搭了 openVpX，深入学习了解令人绝望，求大佬指个路](https://www.v2ex.com/t/999126) `24条评论` `宽带症候群`
 1. [2023 年快结束了，对于今年，你有什么想说的？](https://www.v2ex.com/t/999125) `20条评论` `问与答`
 1. [快被 IPV6 逼疯了](https://www.v2ex.com/t/999098) `19条评论` `程序员`
 1. [next.js ssr 好难， 各位是怎么学的？](https://www.v2ex.com/t/999133) `18条评论` `程序员`
@@ -24,17 +24,17 @@
 1. [耗时三年开源的 H5 商城，强烈推荐](https://www.v2ex.com/t/999085) `14条评论` `程序员`
 1. [个人网站遭受 ddos，报警有用吗](https://www.v2ex.com/t/999071) `12条评论` `站长`
 1. [我发现 MagSafe 出来这么久了，也没啥有趣的配件啊，翻来覆去就是电池/支架/指环扣？](https://www.v2ex.com/t/999080) `11条评论` `Apple`
+1. [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145) `10条评论` `iPhone`
 1. [关于 chatgpt plus 封号的问题](https://www.v2ex.com/t/999144) `10条评论` `OpenAI`
 1. [2023 年为何我还在使用 RSS](https://www.v2ex.com/t/999116) `10条评论` `RSS`
 1. [用户在国内，使用 Cloudflare 做 CDN，源站放在哪个地区国内访问最快呢？](https://www.v2ex.com/t/999101) `10条评论` `Cloudflare`
 1. [流感后咳嗽不停怎么办](https://www.v2ex.com/t/999093) `10条评论` `健康`
 1. [刚学习 React 请教一个 useState 有关的问题](https://www.v2ex.com/t/999119) `9条评论` `React`
+1. [宽带能像自来水或电一样，成为一个必存在的东西](https://www.v2ex.com/t/999160) `8条评论` `宽带症候群`
 1. [该怎么样和以前的朋友们恢复联系呢？](https://www.v2ex.com/t/999149) `8条评论` `问与答`
-1. [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145) `8条评论` `iPhone`
 1. [Studio Display 27'' 能挂啥屏幕挂灯？](https://www.v2ex.com/t/999112) `8条评论` `Apple`
-1. [宽带能像自来水或电一样，成为一个必存在的东西](https://www.v2ex.com/t/999160) `7条评论` `宽带症候群`
 
-数据更新于 2023-12-10 11:56:48
+数据更新于 2023-12-10 12:28:39
 
 <!-- TODAY END -->
 
