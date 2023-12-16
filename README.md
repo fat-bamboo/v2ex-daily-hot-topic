@@ -21,7 +21,7 @@
 1. [我又来了，还是 docker 的问题： docker 起的 nginx，老是提配置文件打不开。](https://www.v2ex.com/t/1000888) `20条评论` `问与答`
 1. [从来不使用 Edge，某次自动更新后几乎每天 msedge.exe 都有 60MB~100MB 异常流量，不知道在传输什么东西，出于隐私保护考虑打算禁用。直接给 msedge.exe 加一个 Everyone 禁止读取的权限有什么副作用吗？](https://www.v2ex.com/t/1000852) `19条评论` `Windows`
 1. [捡漏了一个 128M 内存的 vps，可以怎么利用起来？](https://www.v2ex.com/t/1000966) `17条评论` `问与答`
-1. [21 年 14 寸的 mbp，一直在家插着电是不是容易电池鼓包](https://www.v2ex.com/t/1000973) `15条评论` `MacBook Pro`
+1. [21 年 14 寸的 mbp，一直在家插着电是不是容易电池鼓包](https://www.v2ex.com/t/1000973) `16条评论` `MacBook Pro`
 1. [我是不是买到山寨无花果了](https://www.v2ex.com/t/1000944) `15条评论` `问与答`
 1. [iPhone 15 还是 iPhone 15 pro?](https://www.v2ex.com/t/1000856) `15条评论` `iPhone`
 1. [最新对 mac mini m2 有些心动，想问下各位 v 友，是否值得购买，哪个配置好呢 ？](https://www.v2ex.com/t/1000961) `14条评论` `问与答`
@@ -34,7 +34,7 @@
 1. [用了五年的希捷酷狼 4T 终于搞的存储池损毁了](https://www.v2ex.com/t/1000933) `11条评论` `NAS`
 1. [阿里云盘不限速？](https://www.v2ex.com/t/1000984) `10条评论` `分享发现`
 
-数据更新于 2023-12-16 18:35:56
+数据更新于 2023-12-16 18:46:02
 
 <!-- TODAY END -->
 
