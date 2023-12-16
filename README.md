@@ -26,15 +26,15 @@
 1. [iPhone 15 还是 iPhone 15 pro?](https://www.v2ex.com/t/1000856) `15条评论` `iPhone`
 1. [最新对 mac mini m2 有些心动，想问下各位 v 友，是否值得购买，哪个配置好呢 ？](https://www.v2ex.com/t/1000961) `14条评论` `问与答`
 1. [商汤科技董事长汤晓鸥睡梦中离世](https://www.v2ex.com/t/1000929) `13条评论` `业界八卦`
+1. [求对 N 卡最友好的发行版](https://www.v2ex.com/t/1000980) `12条评论` `Linux`
 1. [快 2024 了老调重弹，日本语言学校？](https://www.v2ex.com/t/1000938) `12条评论` `日本`
 1. [请问爬虫可以转什么方向？转岗所需要的工作经验如何获得？](https://www.v2ex.com/t/1000926) `12条评论` `程序员`
 1. [有没有在 Windows 和 Linux 支持都不错的分区类型](https://www.v2ex.com/t/1000881) `12条评论` `Linux`
-1. [求对 N 卡最友好的发行版](https://www.v2ex.com/t/1000980) `11条评论` `Linux`
 1. [谷歌 Gemini pro 部分中文训练语料可能来自百度](https://www.v2ex.com/t/1000963) `11条评论` `程序员`
 1. [如何设置 Shadowrocket 才能使用 ChatGPT？](https://www.v2ex.com/t/1000941) `11条评论` `OpenAI`
 1. [用了五年的希捷酷狼 4T 终于搞的存储池损毁了](https://www.v2ex.com/t/1000933) `11条评论` `NAS`
 
-数据更新于 2023-12-16 20:47:10
+数据更新于 2023-12-16 20:57:31
 
 <!-- TODAY END -->
 
