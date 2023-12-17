@@ -9,12 +9,12 @@
 <!-- TODAY BEGIN -->
 
 1. [提升幸福感必买小物：音响](https://www.v2ex.com/t/1001025) `16条评论` `分享发现`
-1. [我的情况有必要买车损险吗?](https://www.v2ex.com/t/1001035) `10条评论` `汽车`
-1. [搭建了一个在线 ChatGPT 功能,已试运行稳定](https://www.v2ex.com/t/1001039) `6条评论` `OpenAI`
-1. [求 2024 年能永久在华硕路由器上写 hosts 做屏蔽的方法](https://www.v2ex.com/t/1001032) `6条评论` `路由器`
-1. [1800 欧值得入手 Studio Display 吗？](https://www.v2ex.com/t/1001030) `6条评论` `Apple`
+1. [我的情况有必要买车损险吗?](https://www.v2ex.com/t/1001035) `12条评论` `汽车`
+1. [搭建了一个在线 ChatGPT 功能,已试运行稳定](https://www.v2ex.com/t/1001039) `8条评论` `OpenAI`
+1. [求 2024 年能永久在华硕路由器上写 hosts 做屏蔽的方法](https://www.v2ex.com/t/1001032) `7条评论` `路由器`
+1. [1800 欧值得入手 Studio Display 吗？](https://www.v2ex.com/t/1001030) `7条评论` `Apple`
 
-数据更新于 2023-12-17 03:19:37
+数据更新于 2023-12-17 03:30:00
 
 <!-- TODAY END -->
 
