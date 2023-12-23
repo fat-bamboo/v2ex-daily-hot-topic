@@ -9,7 +9,7 @@
 <!-- TODAY BEGIN -->
 
 1. [准大龄普通程序员出路，求指点](https://www.v2ex.com/t/1002833) `30条评论` `程序员`
-1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850) `26条评论` `分享创造`
+1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850) `29条评论` `分享创造`
 1. [每年到年底总结工作述职的时候感觉自己好像啥都没干](https://www.v2ex.com/t/1002803) `25条评论` `职场话题`
 1. [btc 交易 gas 太低卡住了](https://www.v2ex.com/t/1002849) `19条评论` `区块链`
 1. [感冒药和退烧药组合服用问题](https://www.v2ex.com/t/1002876) `16条评论` `健康`
@@ -34,7 +34,7 @@
 1. [感谢 v2 的大神： Vertical Tabs in Side Panel 作者](https://www.v2ex.com/t/1002801) `7条评论` `Chrome`
 1. [求问，域名邮箱和企业邮箱的区别是什么？](https://www.v2ex.com/t/1002807) `6条评论` `问与答`
 
-数据更新于 2023-12-23 11:25:39
+数据更新于 2023-12-23 11:36:01
 
 <!-- TODAY END -->
 
