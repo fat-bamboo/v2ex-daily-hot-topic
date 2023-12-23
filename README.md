@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [准大龄普通程序员出路，求指点](https://www.v2ex.com/t/1002833) `32条评论` `程序员`
+1. [准大龄普通程序员出路，求指点](https://www.v2ex.com/t/1002833) `33条评论` `程序员`
 1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850) `30条评论` `分享创造`
 1. [每年到年底总结工作述职的时候感觉自己好像啥都没干](https://www.v2ex.com/t/1002803) `25条评论` `职场话题`
 1. [btc 交易 gas 太低卡住了](https://www.v2ex.com/t/1002849) `19条评论` `区块链`
@@ -26,15 +26,15 @@
 1. [喜迎程序员出海的第一个收费用户来了](https://www.v2ex.com/t/1002825) `9条评论` `程序员`
 1. [[副业]聊一聊独立开发的产品、感悟、心得](https://www.v2ex.com/t/1002821) `9条评论` `程序员`
 1. [vscode 界面上是否有浏览的前进返回按钮](https://www.v2ex.com/t/1002806) `8条评论` `Visual Studio Code`
+1. [车方向盘上那些按钮都是用来干啥的](https://www.v2ex.com/t/1002892) `7条评论` `问与答`
 1. [搞了一个 AI 写真的小程序，但是一直没啥流量，求教怎么整啊，累了](https://www.v2ex.com/t/1002880) `7条评论` `推广`
 1. [现在表情包应用是不是烂大街了？](https://www.v2ex.com/t/1002834) `7条评论` `分享创造`
 1. [一对多时 Mybatis 的分页方案](https://www.v2ex.com/t/1002830) `7条评论` `问与答`
 1. [uu 们，套 cdn 究竟是啥意思，能够展开具体说说嘛，或者说哪里有教程推荐一下](https://www.v2ex.com/t/1002819) `7条评论` `程序员`
 1. [onekey 绑 openai 今天被封了](https://www.v2ex.com/t/1002816) `7条评论` `OpenAI`
 1. [感谢 v2 的大神： Vertical Tabs in Side Panel 作者](https://www.v2ex.com/t/1002801) `7条评论` `Chrome`
-1. [车方向盘上那些按钮都是用来干啥的](https://www.v2ex.com/t/1002892) `6条评论` `问与答`
 
-数据更新于 2023-12-23 11:46:18
+数据更新于 2023-12-23 11:56:33
 
 <!-- TODAY END -->
 
