@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850) `42条评论` `分享创造`
+1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850) `43条评论` `分享创造`
 1. [准大龄普通程序员出路，求指点](https://www.v2ex.com/t/1002833) `41条评论` `程序员`
 1. [[打折] 2023 年最后一周， App 打折啦🎉🎉](https://www.v2ex.com/t/1002884) `33条评论` `分享创造`
 1. [送码与抽奖👏 英语学习插件 EnglishXYZ 送年度或永久会员等](https://www.v2ex.com/t/1002901) `32条评论` `分享创造`
@@ -34,7 +34,7 @@
 1. [喜迎程序员出海的第一个收费用户来了](https://www.v2ex.com/t/1002825) `9条评论` `程序员`
 1. [[副业]聊一聊独立开发的产品、感悟、心得](https://www.v2ex.com/t/1002821) `9条评论` `程序员`
 
-数据更新于 2023-12-23 22:48:46
+数据更新于 2023-12-23 22:59:02
 
 <!-- TODAY END -->
 
