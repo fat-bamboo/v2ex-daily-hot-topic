@@ -26,15 +26,15 @@
 1. [阿里，腾讯定制的 Linux 系统安全性和稳定性咋样？](https://www.v2ex.com/t/1002953) `15条评论` `程序员`
 1. [想在家里弄个科学路由器能配置 vmess 或者 ss 的 有啥推荐方案吗？](https://www.v2ex.com/t/1003033) `14条评论` `问与答`
 1. [2023 年 12 月底了哪款显卡合适个人电脑做 AI 图文？](https://www.v2ex.com/t/1003059) `13条评论` `NVIDIA`
-1. [删除 Gmail 服务后不能再次注册 Gmail 账号？](https://www.v2ex.com/t/1003058) `12条评论` `Google`
+1. [删除 Gmail 服务后不能再次注册 Gmail 账号？](https://www.v2ex.com/t/1003058) `13条评论` `Google`
+1. [大佬求看这一套配置怎么样](https://www.v2ex.com/t/1003071) `12条评论` `NAS`
 1. [Windows 平台语音实时转文字解决方案？](https://www.v2ex.com/t/1003052) `12条评论` `问与答`
-1. [大佬求看这一套配置怎么样](https://www.v2ex.com/t/1003071) `11条评论` `NAS`
 1. [Python 新框架讨论](https://www.v2ex.com/t/1002948) `11条评论` `Python`
 1. [无公网 IP 家庭服务器如何通过 VPS 的公网提供服务？](https://www.v2ex.com/t/1002968) `10条评论` `VPS`
 1. [iPhone 播放 nas 上面的音乐， navidrome+amperfy 还是 evermusic、flacbox、everplay](https://www.v2ex.com/t/1003032) `9条评论` `问与答`
 1. [[送码] | 专注日常-番茄钟&笔记](https://www.v2ex.com/t/1003022) `9条评论` `分享创造`
 
-数据更新于 2023-12-24 17:37:18
+数据更新于 2023-12-24 17:47:31
 
 <!-- TODAY END -->
 
