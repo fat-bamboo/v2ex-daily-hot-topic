@@ -14,7 +14,7 @@
 1. [paypal 有 100 刀, 提取到银行卡太麻烦, 可以干点啥](https://www.v2ex.com/t/1002970) `39条评论` `PayPal`
 1. [2023 年 12 月 办理手机卡的正确姿势是什么呢](https://www.v2ex.com/t/1002952) `36条评论` `问与答`
 1. [家庭服务器、纯固态 nas 折腾分享](https://www.v2ex.com/t/1003004) `34条评论` `NAS`
-1. [罗技 M590 为啥停产，有无线静音四向滚轮的鼠标推荐吗？](https://www.v2ex.com/t/1002947) `28条评论` `硬件`
+1. [罗技 M590 为啥停产，有无线静音四向滚轮的鼠标推荐吗？](https://www.v2ex.com/t/1002947) `29条评论` `硬件`
 1. [大家的 iOS 设备都用什么 V2EX 客户端？求推荐](https://www.v2ex.com/t/1002963) `28条评论` `iPhone`
 1. [24 届应届生 OFFER 选择求建议 银行 or 互联网？](https://www.v2ex.com/t/1003010) `26条评论` `职场话题`
 1. [如何让一个位于海外的不了解技术朋友，简易地为我提供他家里的家宽网络？](https://www.v2ex.com/t/1003019) `26条评论` `程序员`
@@ -30,11 +30,11 @@
 1. [大佬求看这一套配置怎么样](https://www.v2ex.com/t/1003071) `12条评论` `NAS`
 1. [Windows 平台语音实时转文字解决方案？](https://www.v2ex.com/t/1003052) `12条评论` `问与答`
 1. [Python 新框架讨论](https://www.v2ex.com/t/1002948) `11条评论` `Python`
+1. [iPhone 播放 nas 上面的音乐， navidrome+amperfy 还是 evermusic、flacbox、everplay](https://www.v2ex.com/t/1003032) `10条评论` `问与答`
 1. [无公网 IP 家庭服务器如何通过 VPS 的公网提供服务？](https://www.v2ex.com/t/1002968) `10条评论` `VPS`
-1. [iPhone 播放 nas 上面的音乐， navidrome+amperfy 还是 evermusic、flacbox、everplay](https://www.v2ex.com/t/1003032) `9条评论` `问与答`
 1. [[送码] | 专注日常-番茄钟&笔记](https://www.v2ex.com/t/1003022) `9条评论` `分享创造`
 
-数据更新于 2023-12-24 18:20:32
+数据更新于 2023-12-24 18:35:52
 
 <!-- TODAY END -->
 
