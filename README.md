@@ -23,13 +23,13 @@
 1. [大佬们，关于开发的经历和感受](https://www.v2ex.com/t/1004750) `10条评论` `程序员`
 1. [整理了一波 Surge 模块合集，自认为赏心悦目（](https://www.v2ex.com/t/1004746) `9条评论` `Surge`
 1. [现在全新的 iPhone12Pro 大概多少钱？](https://www.v2ex.com/t/1004779) `8条评论` `iPhone`
+1. [2500 左右，买哪款安卓机好使](https://www.v2ex.com/t/1004768) `8条评论` `问与答`
 1. [Pixel7a + 移动 NFC-SIM 怎么才可以使用 NFC 刷公交，门禁](https://www.v2ex.com/t/1004801) `7条评论` `Android`
 1. [我这情况有必要上 32g 内存吗](https://www.v2ex.com/t/1004777) `7条评论` `MacBook`
 1. [刚完成的 Spring Boot 脚手架，拿来即用](https://www.v2ex.com/t/1004774) `7条评论` `程序员`
-1. [2500 左右，买哪款安卓机好使](https://www.v2ex.com/t/1004768) `7条评论` `问与答`
 1. [macOS 平板笔记本的可能性](https://www.v2ex.com/t/1004764) `6条评论` `Apple`
 
-数据更新于 2023-12-31 07:36:03
+数据更新于 2023-12-31 07:46:23
 
 <!-- TODAY END -->
 
