@@ -8,23 +8,23 @@
 
 <!-- TODAY BEGIN -->
 
-1. [2024 了，又长了一岁，大厂干不下去了，要润吗？](https://www.v2ex.com/t/1004896) `74条评论` `程序员`
+1. [2024 了，又长了一岁，大厂干不下去了，要润吗？](https://www.v2ex.com/t/1004896) `76条评论` `程序员`
 1. [如果在 vivo X100 Pro 和 OPPO 一加 12 之间进行选择，你会选择哪一款？](https://www.v2ex.com/t/1004916) `30条评论` `Android`
-1. [被 1Password 原价割了五年，新年第一天终于转到了土区订阅了](https://www.v2ex.com/t/1004913) `26条评论` `macOS`
+1. [被 1Password 原价割了五年，新年第一天终于转到了土区订阅了](https://www.v2ex.com/t/1004913) `27条评论` `macOS`
 1. [推荐一个白富美, 解决程序员单身问题](https://www.v2ex.com/t/1004892) `21条评论` `生活`
 1. [关于户外运动 [跑步为主] 提升方式，寻求咨询建议](https://www.v2ex.com/t/1004898) `12条评论` `跑步`
 1. [动态公网 IP，如何配置 openwrt 防火墙，仅放行指定设备？](https://www.v2ex.com/t/1004926) `10条评论` `程序员`
-1. [既然 Netflix 这么爱封 ip，有没有办法喂数据给它，让其把全球 ip 都封锁完？](https://www.v2ex.com/t/1004905) `10条评论` `奇思妙想`
+1. [既然 Netflix 这么爱封 ip，有没有办法喂数据给它，让其把全球 ip 都封锁完？](https://www.v2ex.com/t/1004905) `10条评论` `Netflix`
 1. [如何快速清除 OpenAI ChatGPT 上下文？](https://www.v2ex.com/t/1004921) `9条评论` `OpenAI`
 1. [最近站点经常很慢，偶尔还有 Cloudflare 错误页面](https://www.v2ex.com/t/1004909) `9条评论` `V2EX`
 1. [Safari 的油猴脚本管理器，求推荐](https://www.v2ex.com/t/1004914) `8条评论` `Safari`
+1. [这种攻击如何防御？](https://www.v2ex.com/t/1004949) `7条评论` `程序员`
 1. [Offer 决赛圈，各位 V 友能给个指点吗？](https://www.v2ex.com/t/1004946) `7条评论` `职场话题`
 1. [写了一个一个 YouTube 2023 年的年终总结](https://www.v2ex.com/t/1004929) `7条评论` `程序员`
 1. [为何深圳网约车只有滴滴特惠价格比较便宜](https://www.v2ex.com/t/1004927) `7条评论` `深圳`
 1. [拼多多上的 BenQ 屏幕挂灯 靠谱不](https://www.v2ex.com/t/1004895) `7条评论` `问与答`
-1. [这种攻击如何防御？](https://www.v2ex.com/t/1004949) `6条评论` `程序员`
 
-数据更新于 2024-01-01 09:27:41
+数据更新于 2024-01-01 09:38:10
 
 <!-- TODAY END -->
 
