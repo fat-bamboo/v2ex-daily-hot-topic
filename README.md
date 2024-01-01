@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [元旦 T 楼！ 送 Google One 2T + 京东 E 卡 300 元](https://www.v2ex.com/t/1004976) `308条评论` `推广`
+1. [元旦 T 楼！ 送 Google One 2T + 京东 E 卡 300 元](https://www.v2ex.com/t/1004976) `312条评论` `推广`
 1. [2024 了，又长了一岁，大厂干不下去了，要润吗？](https://www.v2ex.com/t/1004896) `117条评论` `程序员`
 1. [如果在 vivo X100 Pro 和 OPPO 一加 12 之间进行选择，你会选择哪一款？](https://www.v2ex.com/t/1004916) `52条评论` `Android`
 1. [被 1Password 原价割了五年，新年第一天终于转到了土区订阅了](https://www.v2ex.com/t/1004913) `28条评论` `macOS`
@@ -34,7 +34,7 @@
 1. [Safari 的油猴脚本管理器，求推荐](https://www.v2ex.com/t/1004914) `8条评论` `Safari`
 1. [写了一个一个 YouTube 2023 年的年终总结](https://www.v2ex.com/t/1004929) `7条评论` `程序员`
 
-数据更新于 2024-01-01 16:48:39
+数据更新于 2024-01-01 16:58:53
 
 <!-- TODAY END -->
 
