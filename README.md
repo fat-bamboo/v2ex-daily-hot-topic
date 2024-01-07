@@ -9,19 +9,20 @@
 <!-- TODAY BEGIN -->
 
 1. [NeuralRad Cloud：史上首个免费使用的器官和肿瘤分割云服务](https://www.v2ex.com/t/1006501) `24条评论` `分享创造`
-1. [各位平时喜欢逛什么有意思的地方](https://www.v2ex.com/t/1006532) `18条评论` `问与答`
-1. [Surge 将停止维护、停止更新并下架](https://www.v2ex.com/t/1006529) `15条评论` `Surge`
+1. [各位平时喜欢逛什么有意思的地方](https://www.v2ex.com/t/1006532) `21条评论` `问与答`
+1. [Surge 将停止维护、停止更新并下架](https://www.v2ex.com/t/1006529) `16条评论` `Surge`
 1. [求教 wifi 转有线的简单方法](https://www.v2ex.com/t/1006504) `14条评论` `路由器`
-1. [2024 了，返朴归 Catalina ？](https://www.v2ex.com/t/1006528) `12条评论` `macOS`
-1. [五年前端，失业快一年，对未来感到前所未有的迷茫，想问问大佬们建议](https://www.v2ex.com/t/1006524) `11条评论` `职场话题`
+1. [2024 了，返朴归 Catalina ？](https://www.v2ex.com/t/1006528) `13条评论` `macOS`
+1. [阿哦，一早起来发现江苏移动 ipv6 废了](https://www.v2ex.com/t/1006505) `13条评论` `宽带症候群`
+1. [五年前端，失业快一年，对未来感到前所未有的迷茫，想问问大佬们建议](https://www.v2ex.com/t/1006524) `12条评论` `职场话题`
+1. [苹果的照片流太坑了](https://www.v2ex.com/t/1006517) `12条评论` `iOS`
 1. [2024.1.7 chatgpt plus 开通](https://www.v2ex.com/t/1006514) `11条评论` `OpenAI`
-1. [阿哦，一早起来发现江苏移动 ipv6 废了](https://www.v2ex.com/t/1006505) `11条评论` `宽带症候群`
-1. [苹果的照片流太坑了](https://www.v2ex.com/t/1006517) `10条评论` `iOS`
-1. [月入 10k RMB 的独立开发的作品想出售应该如何定价呢？](https://www.v2ex.com/t/1006509) `9条评论` `问与答`
-1. [Copliot 帮你解决了什么问题？](https://www.v2ex.com/t/1006531) `6条评论` `OpenAI`
+1. [月入 10k RMB 的独立开发的作品想出售应该如何定价呢？](https://www.v2ex.com/t/1006509) `11条评论` `问与答`
+1. [Copliot 帮你解决了什么问题？](https://www.v2ex.com/t/1006531) `7条评论` `OpenAI`
+1. [如何拿到海外 VC 投资？](https://www.v2ex.com/t/1006533) `6条评论` `Rust`
 1. [分享一下 ast-grep，结构化代码搜索工具](https://www.v2ex.com/t/1006506) `6条评论` `分享创造`
 
-数据更新于 2024-01-07 06:00:19
+数据更新于 2024-01-07 06:24:00
 
 <!-- TODAY END -->
 
