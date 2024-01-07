@@ -8,9 +8,9 @@
 
 <!-- TODAY BEGIN -->
 
-1. [NeuralRad Cloud：史上首个免费使用的器官和肿瘤分割云服务](https://www.v2ex.com/t/1006501) `24条评论` `分享创造`
+1. [NeuralRad Cloud：史上首个免费使用的器官和肿瘤分割云服务](https://www.v2ex.com/t/1006501) `25条评论` `分享创造`
 1. [各位平时喜欢逛什么有意思的地方](https://www.v2ex.com/t/1006532) `22条评论` `问与答`
-1. [Surge 将停止维护、停止更新并下架](https://www.v2ex.com/t/1006529) `16条评论` `Surge`
+1. [Surge 将停止维护、停止更新并下架](https://www.v2ex.com/t/1006529) `18条评论` `Surge`
 1. [2024.1.7 chatgpt plus 开通](https://www.v2ex.com/t/1006514) `16条评论` `OpenAI`
 1. [求教 wifi 转有线的简单方法](https://www.v2ex.com/t/1006504) `14条评论` `路由器`
 1. [来说说你们认为信达雅的翻译吧](https://www.v2ex.com/t/1006550) `13条评论` `分享发现`
@@ -25,7 +25,7 @@
 1. [如何拿到海外 VC 投资？](https://www.v2ex.com/t/1006533) `6条评论` `Rust`
 1. [分享一下 ast-grep，结构化代码搜索工具](https://www.v2ex.com/t/1006506) `6条评论` `分享创造`
 
-数据更新于 2024-01-07 06:57:02
+数据更新于 2024-01-07 07:14:33
 
 <!-- TODAY END -->
 
