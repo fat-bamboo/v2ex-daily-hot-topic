@@ -9,10 +9,10 @@
 <!-- TODAY BEGIN -->
 
 1. [28 岁男性，感觉自己的肺功能有所下降，就我一人这样吗？](https://www.v2ex.com/t/1010367) `50条评论` `健康`
+1. [Telegram 防封禁这块大家有什么经验吗？](https://www.v2ex.com/t/1010381) `43条评论` `Telegram`
 1. [大学生应该怎样通过互联网实现经济独立?](https://www.v2ex.com/t/1010382) `43条评论` `问与答`
-1. [Telegram 防封禁这块大家有什么经验吗？](https://www.v2ex.com/t/1010381) `41条评论` `Telegram`
+1. [从 Mac 工作本转到 Window11，突然觉的竟然更丝滑了？](https://www.v2ex.com/t/1010377) `40条评论` `Windows`
 1. [面试一个月，拿了几个 offer，但都不太行。。。。。](https://www.v2ex.com/t/1010401) `40条评论` `职场话题`
-1. [从 Mac 工作本转到 Window11，突然觉的竟然更丝滑了？](https://www.v2ex.com/t/1010377) `39条评论` `Windows`
 1. [国内曾经风靡一时的巴西烤肉，现在都消失了](https://www.v2ex.com/t/1010396) `34条评论` `美酒与美食`
 1. [感情爆雷了，我是那个经常发帖的大怨种。](https://www.v2ex.com/t/1010459) `27条评论` `生活`
 1. [49 年加入了国军，买了 国行 iPad mini6](https://www.v2ex.com/t/1010376) `27条评论` `iPad`
@@ -23,6 +23,7 @@
 1. [请教大家使用 macbook 的姿势](https://www.v2ex.com/t/1010430) `13条评论` `Apple`
 1. [请问一下各位看完 JS 红宝书(第四版)第一遍后应该做什么？](https://www.v2ex.com/t/1010385) `12条评论` `JavaScript`
 1. [三星默认输入法 https 降级漏洞 SVE-2023-1908(CVE-2023-42579)](https://www.v2ex.com/t/1010368) `12条评论` `信息安全`
+1. [你们会用<手记>记日记么](https://www.v2ex.com/t/1010474) `11条评论` `Apple`
 1. [求助！找不到 Python 代码 bug](https://www.v2ex.com/t/1010467) `11条评论` `问与答`
 1. [因为烦躁，想买个木鱼，有推荐吗](https://www.v2ex.com/t/1010457) `11条评论` `生活`
 1. [苹果重复支付 ChatGPT Plus 退款失败，顺便给大家避几个坑](https://www.v2ex.com/t/1010435) `11条评论` `分享发现`
@@ -30,11 +31,10 @@
 1. [（求助）Oracle 的 arm vps 如何重置？](https://www.v2ex.com/t/1010413) `11条评论` `VPS`
 1. [哔哩哔哩追踪后续](https://www.v2ex.com/t/1010369) `11条评论` `信息安全`
 1. [发现了一个新的 GitHub 项目： Open 功夫王](https://www.v2ex.com/t/1010392) `11条评论` `程序员`
-1. [你们会用<手记>记日记么](https://www.v2ex.com/t/1010474) `10条评论` `Apple`
 1. [出 Alfred 5 永久 license](https://www.v2ex.com/t/1010440) `10条评论` `macOS`
 1. [有什么好的入耳式降噪耳机推荐？](https://www.v2ex.com/t/1010366) `9条评论` `问与答`
 
-数据更新于 2024-01-21 18:00:10
+数据更新于 2024-01-21 18:23:53
 
 <!-- TODAY END -->
 
