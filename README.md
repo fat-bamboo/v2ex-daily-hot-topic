@@ -21,9 +21,9 @@
 1. [如何只基于 Linux 内核模块，实现无公网 IP 的多个局域网之间互通](https://www.v2ex.com/t/1010442) `16条评论` `分享发现`
 1. [eizo 显示器是智商税吗？](https://www.v2ex.com/t/1010365) `15条评论` `问与答`
 1. [请教大家使用 macbook 的姿势](https://www.v2ex.com/t/1010430) `13条评论` `Apple`
+1. [你们会用<手记>记日记么](https://www.v2ex.com/t/1010474) `12条评论` `Apple`
 1. [请问一下各位看完 JS 红宝书(第四版)第一遍后应该做什么？](https://www.v2ex.com/t/1010385) `12条评论` `JavaScript`
 1. [三星默认输入法 https 降级漏洞 SVE-2023-1908(CVE-2023-42579)](https://www.v2ex.com/t/1010368) `12条评论` `信息安全`
-1. [你们会用<手记>记日记么](https://www.v2ex.com/t/1010474) `11条评论` `Apple`
 1. [求助！找不到 Python 代码 bug](https://www.v2ex.com/t/1010467) `11条评论` `问与答`
 1. [因为烦躁，想买个木鱼，有推荐吗](https://www.v2ex.com/t/1010457) `11条评论` `生活`
 1. [苹果重复支付 ChatGPT Plus 退款失败，顺便给大家避几个坑](https://www.v2ex.com/t/1010435) `11条评论` `分享发现`
@@ -34,7 +34,7 @@
 1. [出 Alfred 5 永久 license](https://www.v2ex.com/t/1010440) `10条评论` `macOS`
 1. [关于 NAS 上使用 NGINX 反向代理的一些问题](https://www.v2ex.com/t/1010494) `9条评论` `NAS`
 
-数据更新于 2024-01-21 23:14:18
+数据更新于 2024-01-21 23:26:05
 
 <!-- TODAY END -->
 
