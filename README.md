@@ -8,6 +8,16 @@
 
 <!-- TODAY BEGIN -->
 
+1. [网上便宜充了个会员，有没有人能给我讲讲这是啥套路？](https://www.v2ex.com/t/1010830) `6条评论` `问与答`
+
+数据更新于 2024-01-23 01:25:33
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [Tweetx for Twitter 全平台 Twitter 第三方客户端 功能上新 促销抽奖下](https://www.v2ex.com/t/1010570) `265条评论` `分享创造`
 1. [实锤了，输入法才是精准广告推送元凶](https://www.v2ex.com/t/1010518) `152条评论` `分享发现`
 1. [遇到这种事情的时候，你们会怎样去应对？](https://www.v2ex.com/t/1010720) `92条评论` `生活`
@@ -33,40 +43,6 @@
 1. [Apple Vision 被砍单了，求转运回国内的办法](https://www.v2ex.com/t/1010559) `16条评论` `Apple`
 1. [帮忙给做一个选择，用 win 还是 Linux 办公](https://www.v2ex.com/t/1010704) `15条评论` `计算机`
 1. [微信读书莫名被封号了，大家有什么推荐的替代品吗](https://www.v2ex.com/t/1010614) `15条评论` `微信`
-
-数据更新于 2024-01-22 23:57:48
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [28 岁男性，感觉自己的肺功能有所下降，就我一人这样吗？](https://www.v2ex.com/t/1010367) `50条评论` `健康`
-1. [Telegram 防封禁这块大家有什么经验吗？](https://www.v2ex.com/t/1010381) `46条评论` `Telegram`
-1. [从 Mac 工作本转到 Window11，突然觉的竟然更丝滑了？](https://www.v2ex.com/t/1010377) `43条评论` `Windows`
-1. [大学生应该怎样通过互联网实现经济独立?](https://www.v2ex.com/t/1010382) `43条评论` `问与答`
-1. [面试一个月，拿了几个 offer，但都不太行。。。。。](https://www.v2ex.com/t/1010401) `40条评论` `职场话题`
-1. [国内曾经风靡一时的巴西烤肉，现在都消失了](https://www.v2ex.com/t/1010396) `34条评论` `美酒与美食`
-1. [感觉网易云的音质要好于 Spotify？](https://www.v2ex.com/t/1010456) `29条评论` `分享发现`
-1. [感情爆雷了，我是那个经常发帖的大怨种。](https://www.v2ex.com/t/1010459) `29条评论` `生活`
-1. [49 年加入了国军，买了 国行 iPad mini6](https://www.v2ex.com/t/1010376) `27条评论` `iPad`
-1. [深圳高新园地铁站智能硬件公司 8-15k 求 2-5 年的 go/ Python /nodejs 后端两位](https://www.v2ex.com/t/1010452) `21条评论` `酷工作`
-1. [如何只基于 Linux 内核模块，实现无公网 IP 的多个局域网之间互通](https://www.v2ex.com/t/1010442) `16条评论` `分享发现`
-1. [eizo 显示器是智商税吗？](https://www.v2ex.com/t/1010365) `15条评论` `问与答`
-1. [请教大家使用 macbook 的姿势](https://www.v2ex.com/t/1010430) `13条评论` `Apple`
-1. [你们会用<手记>记日记么](https://www.v2ex.com/t/1010474) `12条评论` `Apple`
-1. [请问一下各位看完 JS 红宝书(第四版)第一遍后应该做什么？](https://www.v2ex.com/t/1010385) `12条评论` `JavaScript`
-1. [三星默认输入法 https 降级漏洞 SVE-2023-1908(CVE-2023-42579)](https://www.v2ex.com/t/1010368) `12条评论` `信息安全`
-1. [求助！找不到 Python 代码 bug](https://www.v2ex.com/t/1010467) `11条评论` `问与答`
-1. [因为烦躁，想买个木鱼，有推荐吗](https://www.v2ex.com/t/1010457) `11条评论` `生活`
-1. [苹果重复支付 ChatGPT Plus 退款失败，顺便给大家避几个坑](https://www.v2ex.com/t/1010435) `11条评论` `分享发现`
-1. [求助！关于自建直播平台，用手机看自家猫](https://www.v2ex.com/t/1010419) `11条评论` `程序员`
-1. [（求助）Oracle 的 arm vps 如何重置？](https://www.v2ex.com/t/1010413) `11条评论` `VPS`
-1. [哔哩哔哩追踪后续](https://www.v2ex.com/t/1010369) `11条评论` `信息安全`
-1. [发现了一个新的 GitHub 项目： Open 功夫王](https://www.v2ex.com/t/1010392) `11条评论` `程序员`
-1. [出 Alfred 5 永久 license](https://www.v2ex.com/t/1010440) `10条评论` `macOS`
-1. [关于 NAS 上使用 NGINX 反向代理的一些问题](https://www.v2ex.com/t/1010494) `9条评论` `NAS`
 
 <!-- YESTERDAY END -->
 
