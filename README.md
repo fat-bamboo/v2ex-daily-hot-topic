@@ -34,7 +34,7 @@
 1. [clash-for-windows 换成了 clash-verge-rev，体感变卡了](https://www.v2ex.com/t/1014630) `20条评论` `程序员`
 1. [kali 虚拟机为什么搜索不到 wifi 啊](https://www.v2ex.com/t/1014655) `19条评论` `程序员`
 
-数据更新于 2024-02-06 21:16:37
+数据更新于 2024-02-06 21:26:04
 
 <!-- TODAY END -->
 
