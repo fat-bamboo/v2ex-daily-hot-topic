@@ -8,16 +8,18 @@
 
 <!-- TODAY BEGIN -->
 
-1. [还在上班的举手🙋‍♂️](https://www.v2ex.com/t/1014798) `140条评论` `问与答`
-1. [为个人开发者赋能 免费赠送 6 至 12 个月的 OpenAI API 为学生提供一年的免费 ChatGPT4 Plus](https://www.v2ex.com/t/1014814) `24条评论` `程序员`
-1. [反馈微信团队的问题有下文了，但这甩锅的水平堪称一绝！](https://www.v2ex.com/t/1014806) `14条评论` `微信`
-1. [关于 redis 的 lua 脚本原子性问题](https://www.v2ex.com/t/1014813) `11条评论` `Java`
-1. [UniFi U7 Pro 上市](https://www.v2ex.com/t/1014795) `10条评论` `UBNT`
+1. [还在上班的举手🙋‍♂️](https://www.v2ex.com/t/1014798) `153条评论` `问与答`
+1. [为个人开发者赋能 免费赠送 6 至 12 个月的 OpenAI API 为学生提供一年的免费 ChatGPT4 Plus](https://www.v2ex.com/t/1014814) `34条评论` `程序员`
+1. [反馈微信团队的问题有下文了，但这甩锅的水平堪称一绝！](https://www.v2ex.com/t/1014806) `15条评论` `微信`
+1. [关于 redis 的 lua 脚本原子性问题](https://www.v2ex.com/t/1014813) `12条评论` `Java`
+1. [UniFi U7 Pro 上市](https://www.v2ex.com/t/1014795) `11条评论` `UBNT`
+1. [大额信用卡套现存在银行吃利息可行吗？](https://www.v2ex.com/t/1014818) `9条评论` `奇思妙想`
 1. [日本地区、自带的天气 App 昨天突然开始支持“未来一小时降水强度”](https://www.v2ex.com/t/1014797) `9条评论` `iPhone`
 1. [Safari for macOS KeePass 真是无解了吗？一年一度折腾密码管理器，放弃订阅版 1Password…转到 Strongbox（KeePass）](https://www.v2ex.com/t/1014816) `7条评论` `macOS`
+1. [突发奇想用 Java 给孩子写一个练习打字的工具](https://www.v2ex.com/t/1014807) `7条评论` `程序员`
 1. [如何解决 moonlight 鼠标不跟手的问题](https://www.v2ex.com/t/1014805) `7条评论` `问与答`
 
-数据更新于 2024-02-07 02:39:54
+数据更新于 2024-02-07 02:50:15
 
 <!-- TODAY END -->
 
