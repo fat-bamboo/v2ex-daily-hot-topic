@@ -8,11 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [还在上班的举手🙋‍♂️](https://www.v2ex.com/t/1014798) `87条评论` `问与答`
-1. [UniFi U7 Pro 上市](https://www.v2ex.com/t/1014795) `8条评论` `UBNT`
-1. [日本地区、自带的天气 App 昨天突然开始支持“未来一小时降水强度”](https://www.v2ex.com/t/1014797) `6条评论` `iPhone`
+1. [还在上班的举手🙋‍♂️](https://www.v2ex.com/t/1014798) `123条评论` `问与答`
+1. [为个人开发者赋能 免费赠送 6 至 12 个月的 OpenAI API 为学生提供一年的免费 ChatGPT4 Plus](https://www.v2ex.com/t/1014814) `14条评论` `程序员`
+1. [反馈微信团队的问题有下文了，但这甩锅的水平堪称一绝！](https://www.v2ex.com/t/1014806) `12条评论` `微信`
+1. [UniFi U7 Pro 上市](https://www.v2ex.com/t/1014795) `10条评论` `UBNT`
+1. [日本地区、自带的天气 App 昨天突然开始支持“未来一小时降水强度”](https://www.v2ex.com/t/1014797) `7条评论` `iPhone`
+1. [关于 redis 的 lua 脚本原子性问题](https://www.v2ex.com/t/1014813) `6条评论` `Java`
 
-数据更新于 2024-02-07 01:56:12
+数据更新于 2024-02-07 02:19:28
 
 <!-- TODAY END -->
 
