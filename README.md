@@ -8,13 +8,13 @@
 
 <!-- TODAY BEGIN -->
 
-1. [还在上班的举手🙋‍♂️](https://www.v2ex.com/t/1014798) `188条评论` `职场话题`
+1. [还在上班的举手🙋‍♂️](https://www.v2ex.com/t/1014798) `189条评论` `职场话题`
 1. [为个人开发者赋能 免费赠送 6 至 12 个月的 OpenAI API 为学生提供一年的免费 ChatGPT4 Plus](https://www.v2ex.com/t/1014814) `76条评论` `程序员`
 1. [无语！报警被诈骗，然后手机拿去做笔录，被发现装了外网软件，又被罚了 500。。。](https://www.v2ex.com/t/1014831) `47条评论` `问与答`
 1. [反馈微信团队的问题有下文了，但这甩锅的水平堪称一绝！](https://www.v2ex.com/t/1014806) `31条评论` `微信`
 1. [大额信用卡套现存在银行吃利息可行吗？](https://www.v2ex.com/t/1014818) `20条评论` `奇思妙想`
+1. [Safari for macOS KeePass 真是无解了吗？一年一度折腾密码管理器，放弃订阅版 1Password…转到 Strongbox（KeePass）](https://www.v2ex.com/t/1014816) `18条评论` `macOS`
 1. [关于 redis 的 lua 脚本原子性问题](https://www.v2ex.com/t/1014813) `17条评论` `Java`
-1. [Safari for macOS KeePass 真是无解了吗？一年一度折腾密码管理器，放弃订阅版 1Password…转到 Strongbox（KeePass）](https://www.v2ex.com/t/1014816) `15条评论` `macOS`
 1. [日本地区、自带的天气 App 昨天突然开始支持“未来一小时降水强度”](https://www.v2ex.com/t/1014797) `15条评论` `iPhone`
 1. [UniFi U7 Pro 上市](https://www.v2ex.com/t/1014795) `12条评论` `UBNT`
 1. [大佬们平时开发 golang 过程中有没有什么最佳实践或者经验之谈 让小弟学习学习](https://www.v2ex.com/t/1014810) `11条评论` `Go 编程语言`
@@ -22,12 +22,12 @@
 1. [今天还在上班的，工作量和往常一样吗](https://www.v2ex.com/t/1014832) `10条评论` `职场话题`
 1. [从十八线到新一线，最后谈薪被压了](https://www.v2ex.com/t/1014826) `9条评论` `职场话题`
 1. [初学前端有推荐的课程 or 书本吗](https://www.v2ex.com/t/1014820) `9条评论` `问与答`
+1. [外国人如何实名国内应用？](https://www.v2ex.com/t/1014827) `7条评论` `问与答`
 1. [freenom 注册的域名，使用的也是 freenom 的 DNS 服务今天域名解析全部失败，大家有这种情况吗？？](https://www.v2ex.com/t/1014812) `7条评论` `程序员`
 1. [如何解决 moonlight 鼠标不跟手的问题](https://www.v2ex.com/t/1014805) `7条评论` `问与答`
 1. [有手机阅读软件推荐吗，想要版面舒适又能云保存书籍标注](https://www.v2ex.com/t/1014796) `7条评论` `问与答`
-1. [外国人如何实名国内应用？](https://www.v2ex.com/t/1014827) `6条评论` `问与答`
 
-数据更新于 2024-02-07 04:20:17
+数据更新于 2024-02-07 04:30:33
 
 <!-- TODAY END -->
 
