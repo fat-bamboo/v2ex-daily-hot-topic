@@ -34,7 +34,7 @@
 1. [很多网友都说出了我对 Alfred 的心声](https://www.v2ex.com/t/1014975) `14条评论` `Alfred`
 1. [JetBrains Idea 的 SQLFormatter 格式化插件，比内置更好用（完爆），想你所见](https://www.v2ex.com/t/1015039) `13条评论` `程序员`
 
-数据更新于 2024-02-08 16:36:54
+数据更新于 2024-02-08 16:47:16
 
 <!-- TODAY END -->
 
