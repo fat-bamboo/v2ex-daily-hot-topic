@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [今天还有几个倒霉蛋还在上班？](https://www.v2ex.com/t/1014987) `107条评论` `问与答`
+1. [今天还有几个倒霉蛋还在上班？](https://www.v2ex.com/t/1014987) `108条评论` `问与答`
 1. [过年发现侄子成绩太差，用什么办法来拯救我的侄子？](https://www.v2ex.com/t/1014985) `77条评论` `问与答`
 1. [双休也能算福利？](https://www.v2ex.com/t/1014980) `67条评论` `程序员`
-1. [Mac 真的没有游戏能玩吗🥺](https://www.v2ex.com/t/1014981) `55条评论` `MacBook`
+1. [Mac 真的没有游戏能玩吗🥺](https://www.v2ex.com/t/1014981) `59条评论` `MacBook`
 1. [送龙年微信红包封面](https://www.v2ex.com/t/1014999) `42条评论` `分享创造`
 1. [上网上多了，感觉网上极端的言论是真多](https://www.v2ex.com/t/1014992) `39条评论` `随想`
 1. [今天还在上班的天选打工人举手看看🙋‍♂️](https://www.v2ex.com/t/1014998) `33条评论` `职场话题`
@@ -26,15 +26,15 @@
 1. [清华大学的智谱清言 chatGLM 很强啊](https://www.v2ex.com/t/1015004) `15条评论` `问与答`
 1. [很多网友都说出了我对 Alfred 的心声](https://www.v2ex.com/t/1014975) `14条评论` `Alfred`
 1. [为什么现在的手机大多数外接 hdmi 的功能都被阉割了？](https://www.v2ex.com/t/1015040) `13条评论` `Android`
+1. [Avalonia 现在还是灵车吗？连官网文档都能出这么多 bug](https://www.v2ex.com/t/1015029) `13条评论` `.NET`
 1. [ddns 真的有必要吗](https://www.v2ex.com/t/1015003) `13条评论` `宽带症候群`
 1. [JetBrains Idea 的 SQLFormatter 格式化插件，比内置更好用（完爆），想你所见](https://www.v2ex.com/t/1015039) `12条评论` `程序员`
-1. [Avalonia 现在还是灵车吗？连官网文档都能出这么多 bug](https://www.v2ex.com/t/1015029) `12条评论` `.NET`
 1. [求助：如何阻止 Powershell 生成 tmp 文件](https://www.v2ex.com/t/1014989) `12条评论` `PowerShell`
 1. [消停一会吧，快放假了。](https://www.v2ex.com/t/1014974) `12条评论` `随想`
 1. [遇到很诡异的事情](https://www.v2ex.com/t/1015054) `11条评论` `Android`
-1. [运行 LM Studio 的电脑硬件配置](https://www.v2ex.com/t/1014994) `9条评论` `硬件`
+1. [高铁无座票，车次在有二等座的情况下如何变成有座票（12306 购票，已改签一次）](https://www.v2ex.com/t/1015056) `9条评论` `问与答`
 
-数据更新于 2024-02-08 09:27:28
+数据更新于 2024-02-08 09:37:52
 
 <!-- TODAY END -->
 
