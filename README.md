@@ -12,18 +12,18 @@
 1. [问个支持 LTE/5G 的笔记本](https://www.v2ex.com/t/1015208) `21条评论` `硬件`
 1. [[餐刻 App] 解锁你的美食之旅：免费促销码等你领取！](https://www.v2ex.com/t/1015211) `16条评论` `分享发现`
 1. [美股几巨头真是涨的猛](https://www.v2ex.com/t/1015216) `16条评论` `投资`
-1. [关于 40 岁+的软件工作者的职业出路](https://www.v2ex.com/t/1015221) `14条评论` `职场话题`
+1. [关于 40 岁+的软件工作者的职业出路](https://www.v2ex.com/t/1015221) `15条评论` `职场话题`
 1. [有没有什么办法把 Windows 虚拟机里的应用图形界面暴露给主机](https://www.v2ex.com/t/1015213) `13条评论` `程序员`
 1. [homelab 怎么尽可能保证安全性呢](https://www.v2ex.com/t/1015220) `12条评论` `宽带症候群`
 1. [快速部署 wireguard 的最佳实践是？](https://www.v2ex.com/t/1015228) `10条评论` `WireGuard`
 1. [有哪些推送平台推荐的？ 类似于 Bark Pushdeer 之类的](https://www.v2ex.com/t/1015231) `7条评论` `程序员`
 1. [Skiff 已加入 Notion 团队，半年后关闭服务](https://www.v2ex.com/t/1015215) `7条评论` `分享发现`
+1. [给 V 友们拜年了](https://www.v2ex.com/t/1015214) `7条评论` `职场话题`
 1. [Windows 上哪个软件可以正确播放杜比视界的视频文件？](https://www.v2ex.com/t/1015244) `6条评论` `Windows`
 1. [django 快速开发明明 drf 更好，为啥还是很多人更推荐 fast.api 和忍者](https://www.v2ex.com/t/1015223) `6条评论` `Django`
 1. [灰常的 google seo 有办法系统层面的屏蔽么？](https://www.v2ex.com/t/1015222) `6条评论` `Google`
-1. [给 V 友们拜年了](https://www.v2ex.com/t/1015214) `6条评论` `职场话题`
 
-数据更新于 2024-02-10 11:00:37
+数据更新于 2024-02-10 11:15:57
 
 <!-- TODAY END -->
 
