@@ -27,14 +27,14 @@
 1. [搬瓦工洛杉矶 DC6 机房合租，包括我计划招 5 个人，年付 230。（CN2 GIA-E 线路， 2.5Gbps，共 1T 月流量）](https://www.v2ex.com/t/1015258) `9条评论` `VPS`
 1. [微软将为 Windows 系统添加开源的 Sudo 组件](https://www.v2ex.com/t/1015255) `9条评论` `Windows`
 1. [请教下网线水晶头线序该怎么接？](https://www.v2ex.com/t/1015283) `8条评论` `宽带症候群`
+1. [A 程序是在 rc.local 里以&方式运行起来，此时它的屏幕输出，默认是往 console 送，问题有三。。。](https://www.v2ex.com/t/1015271) `8条评论` `Linux`
 1. [IPV6 看电视源总断流，这是我网的问题还是直播源的问题](https://www.v2ex.com/t/1015267) `8条评论` `Apple TV`
 1. [win 平台 1password 只支持填充网页密码？](https://www.v2ex.com/t/1015236) `8条评论` `问与答`
 1. [有哪些推送平台推荐的？ 类似于 Bark Pushdeer 之类的](https://www.v2ex.com/t/1015231) `8条评论` `程序员`
 1. [给 V 友们拜年了](https://www.v2ex.com/t/1015214) `8条评论` `职场话题`
-1. [A 程序是在 rc.local 里以&方式运行起来，此时它的屏幕输出，默认是往 console 送，问题有三。。。](https://www.v2ex.com/t/1015271) `7条评论` `Linux`
 1. [求 10 寸电纸书推荐](https://www.v2ex.com/t/1015266) `7条评论` `问与答`
 
-数据更新于 2024-02-10 22:47:14
+数据更新于 2024-02-10 22:57:42
 
 <!-- TODAY END -->
 
