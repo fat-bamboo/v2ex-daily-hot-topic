@@ -25,8 +25,8 @@
 1. [求一款 macos 上支持 sftp 的 ssh 客户端](https://www.v2ex.com/t/1015480) `10条评论` `macOS`
 1. [分享自制的 JLPT（日语能力考试）N1～ N5 词汇 Anki 卡组](https://www.v2ex.com/t/1015472) `10条评论` `日本語`
 1. [各位手机应用商店里新年更新的第一个 app 是什么？](https://www.v2ex.com/t/1015470) `10条评论` `程序员`
+1. [chatGPT 正常使用被封号了，大家有遇到吗？](https://www.v2ex.com/t/1015522) `8条评论` `OpenAI`
 1. [招 Flutter VPN 客户端开发 (中级)](https://www.v2ex.com/t/1015532) `7条评论` `酷工作`
-1. [chatGPT 正常使用被封号了，大家有遇到吗？](https://www.v2ex.com/t/1015522) `7条评论` `OpenAI`
 1. [MBP m1Pro 和 m3Pro 二选一](https://www.v2ex.com/t/1015499) `7条评论` `MacBook Pro`
 1. [我等的 AirPods Max 2 在多远的未来......](https://www.v2ex.com/t/1015526) `6条评论` `Apple`
 1. [微信走代理的话，有概率会被 T 出，并重新登录嘛？](https://www.v2ex.com/t/1015503) `6条评论` `微信`
@@ -34,7 +34,7 @@
 1. [闲鱼出的 alfred 兑换码是否靠谱](https://www.v2ex.com/t/1015475) `6条评论` `Apple`
 1. [不同手机 ROM(数据源)的国内空气质量数据差距很大](https://www.v2ex.com/t/1015493) `6条评论` `问与答`
 
-数据更新于 2024-02-13 15:18:10
+数据更新于 2024-02-13 15:28:30
 
 <!-- TODAY END -->
 
