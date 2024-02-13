@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [老家买房抉择求助](https://www.v2ex.com/t/1015514) `40条评论` `生活`
+1. [老家买房抉择求助](https://www.v2ex.com/t/1015514) `42条评论` `生活`
 1. [国内哪个新闻平台的评论数量和质量比较高](https://www.v2ex.com/t/1015497) `31条评论` `问与答`
 1. [线下购买联想小新 16 被骗，该怎么维权？](https://www.v2ex.com/t/1015462) `30条评论` `问与答`
 1. [MySQL 两亿条数据的表用索引也要 1 秒才能查出结果，还有办法优化吗？](https://www.v2ex.com/t/1015507) `27条评论` `数据库`
@@ -22,19 +22,19 @@
 1. [招 Flutter VPN 客户端开发 (中级)](https://www.v2ex.com/t/1015532) `13条评论` `酷工作`
 1. [我等的 AirPods Max 2 在多远的未来......](https://www.v2ex.com/t/1015526) `11条评论` `Apple`
 1. [chatGPT 正常使用被封号了，大家有遇到吗？](https://www.v2ex.com/t/1015522) `11条评论` `OpenAI`
+1. [亲测可行：亚马逊 S3 挂到本地当私有网盘使用](https://www.v2ex.com/t/1015550) `10条评论` `Amazon Web Services`
 1. [友友们，求推荐一款智能手表！~](https://www.v2ex.com/t/1015523) `10条评论` `问与答`
 1. [最近打王者 一个月电池健康掉了 3% 呜呜🥹](https://www.v2ex.com/t/1015515) `10条评论` `iPhone`
 1. [Google Photo 怎么才能搜索相册中的文字？](https://www.v2ex.com/t/1015483) `10条评论` `问与答`
 1. [求一款 macos 上支持 sftp 的 ssh 客户端](https://www.v2ex.com/t/1015480) `10条评论` `macOS`
 1. [分享自制的 JLPT（日语能力考试）N1～ N5 词汇 Anki 卡组](https://www.v2ex.com/t/1015472) `10条评论` `日本語`
 1. [各位手机应用商店里新年更新的第一个 app 是什么？](https://www.v2ex.com/t/1015470) `10条评论` `程序员`
-1. [亲测可行：亚马逊 S3 挂到本地当私有网盘使用](https://www.v2ex.com/t/1015550) `9条评论` `Amazon Web Services`
 1. [MBP m1Pro 和 m3Pro 二选一](https://www.v2ex.com/t/1015499) `9条评论` `MacBook Pro`
 1. [室友是巨婴，麻了](https://www.v2ex.com/t/1015556) `7条评论` `生活`
 1. [电信光猫如何获取 ipv6 地址呢](https://www.v2ex.com/t/1015538) `6条评论` `宽带症候群`
 1. [配眼镜去医院验光然后网上配还是实体店配好？医院里面配眼镜可以吗贵吗？](https://www.v2ex.com/t/1015531) `6条评论` `问与答`
 
-数据更新于 2024-02-13 23:15:25
+数据更新于 2024-02-13 23:25:37
 
 <!-- TODAY END -->
 
