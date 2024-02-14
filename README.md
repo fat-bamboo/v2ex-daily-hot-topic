@@ -20,9 +20,9 @@
 1. [搜索污染已经遍及 youtube 了，还能让人好好上网么？](https://www.v2ex.com/t/1015630) `23条评论` `互联网`
 1. [有点不明白 iPhone 不开放电话录音的底层逻辑，谁能讲讲？](https://www.v2ex.com/t/1015625) `21条评论` `iPhone`
 1. [Infuse7.7 支持媒体库直连了](https://www.v2ex.com/t/1015558) `16条评论` `Apple`
+1. [用笔记本电脑的朋友，你们笔记本电脑的两个风扇转速一样吗？](https://www.v2ex.com/t/1015629) `12条评论` `问与答`
 1. [iPhone 或安卓如何实现电话自动录音？](https://www.v2ex.com/t/1015598) `12条评论` `问与答`
 1. [收到 authy desktop 终止的邮件了，不知道还有啥平替？](https://www.v2ex.com/t/1015565) `12条评论` `问与答`
-1. [用笔记本电脑的朋友，你们笔记本电脑的两个风扇转速一样吗？](https://www.v2ex.com/t/1015629) `11条评论` `问与答`
 1. [关于 WeChat 由微信换绑过来](https://www.v2ex.com/t/1015587) `11条评论` `问与答`
 1. [微软最终决定继续支持使用旧版本 glibc 的 Linux 发行版，到 2025 年 2 月](https://www.v2ex.com/t/1015617) `10条评论` `Visual Studio Code`
 1. [Cool Request 更新啦， IDEA 里面免费、实用的接口调试插件](https://www.v2ex.com/t/1015603) `8条评论` `Java`
@@ -34,7 +34,7 @@
 1. [Model Y 求推荐悬挂](https://www.v2ex.com/t/1015594) `6条评论` `Tesla`
 1. [技术问题， pve 下端口转发不生效](https://www.v2ex.com/t/1015574) `6条评论` `NAS`
 
-数据更新于 2024-02-14 16:37:34
+数据更新于 2024-02-14 16:47:46
 
 <!-- TODAY END -->
 
