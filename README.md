@@ -26,15 +26,15 @@
 1. [OpenAI 的文本生成视频 Sora 上线了，你做了什么没有](https://www.v2ex.com/t/1015842) `15条评论` `OpenAI`
 1. [家里办的电信宽带必须绑定手机号，而且不能包年，一个月 129 才 300m 有办法解决吗？](https://www.v2ex.com/t/1015840) `14条评论` `宽带症候群`
 1. [新人求助： Mac 读取 NTFS 格式软件购买推荐及答疑](https://www.v2ex.com/t/1015927) `13条评论` `Apple`
+1. [Galaxy S24 Ultra 和 HUAWEI Mate 60 该怎么选](https://www.v2ex.com/t/1015931) `12条评论` `Android`
 1. [装修有什么要注意的吗？](https://www.v2ex.com/t/1015844) `12条评论` `装修`
-1. [Galaxy S24 Ultra 和 HUAWEI Mate 60 该怎么选](https://www.v2ex.com/t/1015931) `10条评论` `Android`
 1. [你们那里也是过年涨一波价吗？](https://www.v2ex.com/t/1015907) `9条评论` `问与答`
 1. [请教各位，我自建的 Trojan 节点不停被封，如何才能维护一个可靠一点的、十几人共用的翻墙服务器？](https://www.v2ex.com/t/1015861) `9条评论` `问与答`
 1. [欢迎大家使用我的第一个海外工具站！](https://www.v2ex.com/t/1015810) `9条评论` `程序员`
 1. [慢性咽炎，有没有根治或者明显改善的方法？](https://www.v2ex.com/t/1015803) `9条评论` `健康`
 1. [Apple TV 用 Quantumult X 可以用规则去除 tvOS 版本的 YouTube 广告吗？](https://www.v2ex.com/t/1015899) `8条评论` `Apple TV`
 
-数据更新于 2024-02-16 20:57:55
+数据更新于 2024-02-16 21:14:33
 
 <!-- TODAY END -->
 
