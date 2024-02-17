@@ -8,23 +8,25 @@
 
 <!-- TODAY BEGIN -->
 
-1. [刚开工，就遇到了离谱的 “员工坟场“ 事件](https://www.v2ex.com/t/1015961) `18条评论` `职场话题`
+1. [刚开工，就遇到了离谱的 “员工坟场“ 事件](https://www.v2ex.com/t/1015961) `22条评论` `职场话题`
+1. [想给父母买个补充医疗保险](https://www.v2ex.com/t/1015959) `18条评论` `问与答`
 1. [今天你们都开工了吗？](https://www.v2ex.com/t/1015953) `17条评论` `职场话题`
 1. [Edge 浏览器的这个启动问题我该怎么回答？](https://www.v2ex.com/t/1015941) `16条评论` `Edge`
-1. [想给父母买个补充医疗保险](https://www.v2ex.com/t/1015959) `15条评论` `问与答`
 1. [3700 字， 80 张图，西藏游记终于写好了！](https://www.v2ex.com/t/1015942) `15条评论` `旅行`
+1. [耳机 能否像 wifi 一样中继？](https://www.v2ex.com/t/1015962) `13条评论` `耳机`
 1. [求职简历中期望薪水填面议还是具体的金额？如果有 gap 期要不要写明 gap 原因？](https://www.v2ex.com/t/1015951) `13条评论` `职场话题`
-1. [耳机 能否像 wifi 一样中继？](https://www.v2ex.com/t/1015962) `11条评论` `耳机`
-1. [分享一个最近发现的挺好用的「 剪贴板./文件互传 」互传项目吧](https://www.v2ex.com/t/1015956) `11条评论` `Android`
+1. [分享一个最近发现的挺好用的「 剪贴板./文件互传 」互传项目吧](https://www.v2ex.com/t/1015956) `12条评论` `Android`
 1. [删除了 Rosetta 重启后，又自动出来了....](https://www.v2ex.com/t/1015968) `10条评论` `macOS`
-1. [现在 apple music 有免费羊毛吗？](https://www.v2ex.com/t/1015964) `9条评论` `Apple`
+1. [现在 apple music 有免费羊毛吗？](https://www.v2ex.com/t/1015964) `10条评论` `Apple`
+1. [30 了，还要出去工作吗](https://www.v2ex.com/t/1015980) `8条评论` `职场话题`
+1. [什么时候我们能有静音/关机自由？](https://www.v2ex.com/t/1015967) `8条评论` `生活`
 1. [当下组全 ssd nas 最合适的 ssd 硬盘是什么](https://www.v2ex.com/t/1015949) `8条评论` `问与答`
 1. [时间/工作管理](https://www.v2ex.com/t/1015947) `8条评论` `职场话题`
-1. [30 了，还要出去工作吗](https://www.v2ex.com/t/1015980) `7条评论` `职场话题`
-1. [什么时候我们能有静音/关机自由？](https://www.v2ex.com/t/1015967) `7条评论` `生活`
-1. [A Love Letter to Fediverse](https://www.v2ex.com/t/1015948) `6条评论` `Mastodon`
+1. [A Love Letter to Fediverse](https://www.v2ex.com/t/1015948) `7条评论` `Mastodon`
+1. [广州到深圳来回，有没有快捷便宜的通行方案](https://www.v2ex.com/t/1015986) `6条评论` `广州`
+1. [有转过联通保号套餐的老铁么？](https://www.v2ex.com/t/1015976) `6条评论` `问与答`
 
-数据更新于 2024-02-17 05:58:14
+数据更新于 2024-02-17 06:21:52
 
 <!-- TODAY END -->
 
