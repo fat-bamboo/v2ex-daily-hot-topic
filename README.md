@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [父亲走了。我好难受。](https://www.v2ex.com/t/1020051) `138条评论` `生活`
+1. [父亲走了。我好难受。](https://www.v2ex.com/t/1020051) `139条评论` `生活`
 1. [手机再也不刷机折腾了，真想把手机扔了！](https://www.v2ex.com/t/1019996) `119条评论` `Android`
 1. [双拼打字真的比全拼快吗？](https://www.v2ex.com/t/1020030) `58条评论` `问与答`
 1. [Bob 严重被低估，应该 mac 上最好用的 AI 助手](https://www.v2ex.com/t/1019994) `56条评论` `macOS`
@@ -23,18 +23,18 @@
 1. [Linux 非阻塞 epoll 编程中，如何解决大量 ESTABLISHED 连接后占着茅坑不拉屎的行为？](https://www.v2ex.com/t/1020072) `15条评论` `程序员`
 1. [用 WireGuard 连回家经常断， OpenVPN 稳得一匹](https://www.v2ex.com/t/1020069) `15条评论` `宽带症候群`
 1. [要怎么对非程序员描述网页版的离线单机应用？突然发现大部分人依然认为 web=线上。](https://www.v2ex.com/t/1020006) `15条评论` `问与答`
+1. [clash for windows 无了之后，大家现在用什么](https://www.v2ex.com/t/1020119) `14条评论` `问与答`
 1. [2024 应届，私企 还是 银行？求教各位大佬](https://www.v2ex.com/t/1020104) `14条评论` `职场话题`
 1. [昨天去申请开了「香港渣打银行」账户，没想到 1 分钟不到就办好了。](https://www.v2ex.com/t/1019965) `14条评论` `香港`
 1. [对 ikbc poker 情有独钟，有线改三模来了！](https://www.v2ex.com/t/1020019) `13条评论` `程序员`
 1. [2024 年了，用什么语言写 iOS App 呢](https://www.v2ex.com/t/1019961) `13条评论` `iOS`
-1. [clash for windows 无了之后，大家现在用什么](https://www.v2ex.com/t/1020119) `12条评论` `问与答`
 1. [小米手机收不到 google 二次验证](https://www.v2ex.com/t/1020005) `12条评论` `Android`
 1. [微信支付和支付宝，你们选择哪个](https://www.v2ex.com/t/1019995) `12条评论` `Apple`
 1. [UOS 统信国产系统安装针式打印机的问题](https://www.v2ex.com/t/1019986) `12条评论` `问与答`
 1. [unraid U 盘选择](https://www.v2ex.com/t/1019974) `12条评论` `问与答`
 1. [有人同时借过两家银行信用贷吗，会有啥影响](https://www.v2ex.com/t/1019968) `12条评论` `招商银行`
 
-数据更新于 2024-03-02 16:56:40
+数据更新于 2024-03-02 17:12:24
 
 <!-- TODAY END -->
 
