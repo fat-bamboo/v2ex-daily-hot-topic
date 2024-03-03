@@ -12,8 +12,8 @@
 1. [@Livid 请你删除我的账户](https://www.v2ex.com/t/1020224) `83条评论` `程序员`
 1. [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170) `77条评论` `程序员`
 1. [各位都几年换一次手机](https://www.v2ex.com/t/1020214) `70条评论` `Android`
-1. [作为程序员，日常使用 window 工作本，你们都会安利哪些好用的工具，推荐一波](https://www.v2ex.com/t/1020166) `62条评论` `Windows`
-1. [mpb 卡了半年，才发现罪魁祸首是 Vivaldi，以及虽然 Edge 又烂又恶心，但确实强到无敌（对我来说）……](https://www.v2ex.com/t/1020218) `40条评论` `Vivaldi`
+1. [作为程序员，日常使用 window 工作本，你们都会安利哪些好用的工具，推荐一波](https://www.v2ex.com/t/1020166) `63条评论` `Windows`
+1. [mpb 卡了半年，才发现罪魁祸首是 Vivaldi，以及虽然 Edge 又烂又恶心，但确实强到无敌（对我来说）……](https://www.v2ex.com/t/1020218) `41条评论` `Vivaldi`
 1. [为什么我的快递每次都是送货上门的？](https://www.v2ex.com/t/1020200) `37条评论` `分享发现`
 1. [你们用 GitHub Copilot 吗 都是怎么买的？](https://www.v2ex.com/t/1020175) `36条评论` `GitHub Copilot`
 1. [不知有没一直在喝瑞 X 的大伙？](https://www.v2ex.com/t/1020199) `34条评论` `咖啡`
@@ -34,7 +34,7 @@
 1. [快递小程序和公众号为什么查不到物流信息？](https://www.v2ex.com/t/1020198) `11条评论` `问与答`
 1. [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190) `11条评论` `程序员`
 
-数据更新于 2024-03-03 15:49:46
+数据更新于 2024-03-03 16:00:06
 
 <!-- TODAY END -->
 
