@@ -8,11 +8,11 @@
 
 <!-- TODAY BEGIN -->
 
-1. [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170) `55条评论` `程序员`
+1. [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170) `56条评论` `程序员`
 1. [作为程序员，日常使用 window 工作本，你们都会安利哪些好用的工具，推荐一波](https://www.v2ex.com/t/1020166) `39条评论` `Windows`
-1. [esim 会最终代替实体卡吗](https://www.v2ex.com/t/1020161) `23条评论` `iPhone`
+1. [esim 会最终代替实体卡吗](https://www.v2ex.com/t/1020161) `24条评论` `iPhone`
 1. [3 月份快递出了新规，要求送货上门，快递公司和快递员的博弈现在成功转移到了消费者与快递员的身上](https://www.v2ex.com/t/1020176) `23条评论` `生活`
-1. [你们用 GitHub Copilot 吗 都是怎么买的？](https://www.v2ex.com/t/1020175) `18条评论` `GitHub Copilot`
+1. [你们用 GitHub Copilot 吗 都是怎么买的？](https://www.v2ex.com/t/1020175) `19条评论` `GitHub Copilot`
 1. [中國移動國際(AS58453)對使用自治 AS 的移動省份有 Qos](https://www.v2ex.com/t/1020186) `17条评论` `宽带症候群`
 1. [不知有没一直在喝瑞 X 的大伙？](https://www.v2ex.com/t/1020199) `15条评论` `问与答`
 1. [怎么让谷歌搜不到自己在 V2EX 上的内容？](https://www.v2ex.com/t/1020192) `13条评论` `问与答`
@@ -22,19 +22,19 @@
 1. [工作给的弹性时间是什么意思？](https://www.v2ex.com/t/1020154) `12条评论` `职场话题`
 1. [求推荐一台 5G 安卓手机](https://www.v2ex.com/t/1020194) `10条评论` `Android`
 1. [关于 homelab 选择 NUC 搭建集群是否可行？](https://www.v2ex.com/t/1020168) `10条评论` `问与答`
+1. [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190) `9条评论` `程序员`
 1. [Gmail 长期不使用账号已经无法登录](https://www.v2ex.com/t/1020169) `9条评论` `分享发现`
 1. [请问下 ESIM 大佬，最便宜的境外卡是不是 clubsim 呢？](https://www.v2ex.com/t/1020153) `9条评论` `问与答`
 1. [为什么我的快递每次都是送货上门的？](https://www.v2ex.com/t/1020200) `8条评论` `分享发现`
-1. [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190) `8条评论` `程序员`
+1. [[求拍醒] 38 岁大龄未婚女， 2024 年 6 月份合同到期之后转自由职业](https://www.v2ex.com/t/1020211) `7条评论` `职场话题`
 1. [有没有和 eagle 图片管理软件相似的图片主题，](https://www.v2ex.com/t/1020181) `7条评论` `问与答`
 1. [独立开发者， 100 个产品计划持续更新中（4/100）。本周上线：衣食住行之《吃什么智能助手》](https://www.v2ex.com/t/1020178) `7条评论` `分享创造`
 1. [纪念一下第一次上榜 GitHub Trending.](https://www.v2ex.com/t/1020173) `7条评论` `程序员`
 1. [刚刚发现移动这个奇葩，从局端禁止了国外 IPv6 入站。。](https://www.v2ex.com/t/1020195) `6条评论` `宽带症候群`
 1. [根据 apple 官方，“在香港和澳門，部分 iPhone 型號支援 eSIM 功能。”这是什么型号的 iPhone ？](https://www.v2ex.com/t/1020177) `6条评论` `iPhone`
 1. [CI 中怎么代码签名问题?](https://www.v2ex.com/t/1020160) `6条评论` `问与答`
-1. [怎么在谷歌搜索时屏蔽了个网站的结果？](https://www.v2ex.com/t/1020157) `6条评论` `问与答`
 
-数据更新于 2024-03-03 07:25:46
+数据更新于 2024-03-03 07:36:15
 
 <!-- TODAY END -->
 
