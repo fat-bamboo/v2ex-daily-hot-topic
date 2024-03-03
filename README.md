@@ -8,27 +8,30 @@
 
 <!-- TODAY BEGIN -->
 
-1. [作为程序员，日常使用 window 工作本，你们都会安利哪些好用的工具，推荐一波](https://www.v2ex.com/t/1020166) `38条评论` `Windows`
-1. [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170) `31条评论` `程序员`
-1. [esim 会最终代替实体卡吗](https://www.v2ex.com/t/1020161) `21条评论` `iPhone`
-1. [3 月份快递出了新规，要求送货上门，快递公司和快递员的博弈现在成功转移到了消费者与快递员的身上](https://www.v2ex.com/t/1020176) `20条评论` `生活`
-1. [你们用 GitHub Copilot 吗 都是怎么买的？](https://www.v2ex.com/t/1020175) `17条评论` `GitHub Copilot`
+1. [作为程序员，日常使用 window 工作本，你们都会安利哪些好用的工具，推荐一波](https://www.v2ex.com/t/1020166) `39条评论` `Windows`
+1. [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170) `38条评论` `程序员`
+1. [esim 会最终代替实体卡吗](https://www.v2ex.com/t/1020161) `23条评论` `iPhone`
+1. [3 月份快递出了新规，要求送货上门，快递公司和快递员的博弈现在成功转移到了消费者与快递员的身上](https://www.v2ex.com/t/1020176) `21条评论` `生活`
+1. [你们用 GitHub Copilot 吗 都是怎么买的？](https://www.v2ex.com/t/1020175) `18条评论` `GitHub Copilot`
+1. [中國移動國際(AS58453)對使用自治 AS 的移動省份有 Qos](https://www.v2ex.com/t/1020186) `13条评论` `宽带症候群`
 1. [采用 m3u8 切片策略的视频网站，是在用户点击播放的时候再去切片并返回，还是说视频上传到平台就已经完成了切片？](https://www.v2ex.com/t/1020163) `13条评论` `Java`
 1. [工作给的弹性时间是什么意思？](https://www.v2ex.com/t/1020154) `12条评论` `职场话题`
-1. [中國移動國際(AS58453)對使用自治 AS 的移動省份有 Qos](https://www.v2ex.com/t/1020186) `11条评论` `宽带症候群`
 1. [求推荐旅行背包](https://www.v2ex.com/t/1020159) `11条评论` `旅行`
+1. [一套替代 Google Photos/iCloud Photos 的开源解决方案](https://www.v2ex.com/t/1020164) `10条评论` `iCloud`
 1. [怎么让谷歌搜不到自己在 V2EX 上的内容？](https://www.v2ex.com/t/1020192) `9条评论` `问与答`
 1. [请问下 ESIM 大佬，最便宜的境外卡是不是 clubsim 呢？](https://www.v2ex.com/t/1020153) `9条评论` `问与答`
+1. [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190) `8条评论` `程序员`
 1. [Gmail 长期不使用账号已经无法登录](https://www.v2ex.com/t/1020169) `8条评论` `分享发现`
-1. [一套替代 Google Photos/iCloud Photos 的开源解决方案](https://www.v2ex.com/t/1020164) `8条评论` `iCloud`
-1. [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190) `7条评论` `程序员`
+1. [求推荐一台 5G 安卓手机](https://www.v2ex.com/t/1020194) `7条评论` `Android`
 1. [有没有和 eagle 图片管理软件相似的图片主题，](https://www.v2ex.com/t/1020181) `7条评论` `问与答`
+1. [关于 homelab 选择 NUC 搭建集群是否可行？](https://www.v2ex.com/t/1020168) `7条评论` `问与答`
 1. [独立开发者， 100 个产品计划持续更新中（4/100）。本周上线：衣食住行之《吃什么智能助手》](https://www.v2ex.com/t/1020178) `6条评论` `分享创造`
 1. [根据 apple 官方，“在香港和澳門，部分 iPhone 型號支援 eSIM 功能。”这是什么型号的 iPhone ？](https://www.v2ex.com/t/1020177) `6条评论` `iPhone`
+1. [纪念一下第一次上榜 GitHub Trending.](https://www.v2ex.com/t/1020173) `6条评论` `程序员`
 1. [CI 中怎么代码签名问题?](https://www.v2ex.com/t/1020160) `6条评论` `问与答`
 1. [怎么在谷歌搜索时屏蔽了个网站的结果？](https://www.v2ex.com/t/1020157) `6条评论` `问与答`
 
-数据更新于 2024-03-03 06:22:37
+数据更新于 2024-03-03 06:35:54
 
 <!-- TODAY END -->
 
