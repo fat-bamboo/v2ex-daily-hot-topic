@@ -19,10 +19,10 @@
 1. [[东莞包吃住]招聘一名初级前端 7k-9k](https://www.v2ex.com/t/1020325) `68条评论` `酷工作`
 1. [关于丧假，公司需要开出死亡证明、关系证明。这两需要本人去当地派出所才能开吗？](https://www.v2ex.com/t/1020455) `60条评论` `职场话题`
 1. [程序员真的挺有相亲市场的](https://www.v2ex.com/t/1020381) `51条评论` `程序员`
-1. [m3 的 MacBook Air 线上发布了，发布会都不开的吗](https://www.v2ex.com/t/1020580) `49条评论` `Apple`
+1. [m3 的 MacBook Air 线上发布了，发布会都不开的吗](https://www.v2ex.com/t/1020580) `50条评论` `Apple`
+1. [8g 内存的 macbook air 真香，喷 8g 的人我觉得你们逻辑清奇](https://www.v2ex.com/t/1020615) `28条评论` `Apple`
 1. [深圳行动计划，力争 2024 应用占全国的 10%](https://www.v2ex.com/t/1020330) `28条评论` `程序员`
-1. [现在买 8GB 运行内存的 MacBook 真能用吗？](https://www.v2ex.com/t/1020583) `25条评论` `MacBook Pro`
-1. [8g 内存的 macbook air 真香，喷 8g 的人我觉得你们逻辑清奇](https://www.v2ex.com/t/1020615) `24条评论` `Apple`
+1. [现在买 8GB 运行内存的 MacBook 真能用吗？](https://www.v2ex.com/t/1020583) `26条评论` `MacBook Pro`
 1. [家庭煮夫们来给点建议吧](https://www.v2ex.com/t/1020498) `23条评论` `问与答`
 1. [Apple Cash 竟然申请成功了](https://www.v2ex.com/t/1020307) `23条评论` `Apple`
 1. [新做了个小程序，放出来给大家玩玩](https://www.v2ex.com/t/1020497) `22条评论` `程序员`
@@ -34,7 +34,7 @@
 1. [深圳 30 多岁的男性平时在哪买衣服，鞋子](https://www.v2ex.com/t/1020478) `18条评论` `深圳`
 1. [鼠须管的词频到底要如何调整？](https://www.v2ex.com/t/1020469) `17条评论` `macOS`
 
-数据更新于 2024-03-04 23:18:50
+数据更新于 2024-03-04 23:29:17
 
 <!-- TODAY END -->
 
