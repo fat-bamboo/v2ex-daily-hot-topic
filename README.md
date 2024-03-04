@@ -8,6 +8,17 @@
 
 <!-- TODAY BEGIN -->
 
+1. [Apple Cash 竟然申请成功了](https://www.v2ex.com/t/1020307) `13条评论` `Apple`
+1. [离职脱产一年，去准备新工作是否可行？](https://www.v2ex.com/t/1020306) `11条评论` `职场话题`
+
+数据更新于 2024-03-04 01:17:39
+
+<!-- TODAY END -->
+
+### 昨日热议话题
+
+<!-- YESTERDAY BEGIN -->
+
 1. [[求拍醒] 38 岁大龄未婚女， 2024 年 6 月份合同到期之后转自由职业](https://www.v2ex.com/t/1020211) `109条评论` `职场话题`
 1. [@Livid 请你删除我的账户](https://www.v2ex.com/t/1020224) `83条评论` `程序员`
 1. [各位都几年换一次手机](https://www.v2ex.com/t/1020214) `82条评论` `Android`
@@ -33,40 +44,6 @@
 1. [typec 发展这么多年了，有没有纯 typec 的扩展坞？](https://www.v2ex.com/t/1020254) `12条评论` `问与答`
 1. [一套替代 Google Photos/iCloud Photos 的开源解决方案](https://www.v2ex.com/t/1020164) `12条评论` `iCloud`
 1. [求推荐旅行背包](https://www.v2ex.com/t/1020159) `12条评论` `旅行`
-
-数据更新于 2024-03-03 23:58:45
-
-<!-- TODAY END -->
-
-### 昨日热议话题
-
-<!-- YESTERDAY BEGIN -->
-
-1. [父亲走了。我好难受。](https://www.v2ex.com/t/1020051) `150条评论` `生活`
-1. [手机再也不刷机折腾了，真想把手机扔了！](https://www.v2ex.com/t/1019996) `122条评论` `Android`
-1. [Bob 严重被低估，应该 mac 上最好用的 AI 助手](https://www.v2ex.com/t/1019994) `64条评论` `macOS`
-1. [WASD 作为普遍游戏默认的上下左右按键，是个灾难](https://www.v2ex.com/t/1019987) `61条评论` `机械键盘`
-1. [双拼打字真的比全拼快吗？](https://www.v2ex.com/t/1020030) `60条评论` `问与答`
-1. [关于扫地机器人的几点疑虑](https://www.v2ex.com/t/1019971) `56条评论` `智能家电`
-1. [香椿炒蛋太好吃了](https://www.v2ex.com/t/1020001) `37条评论` `美酒与美食`
-1. [误删微信聊天记录，还有办法恢复吗](https://www.v2ex.com/t/1019969) `33条评论` `微信`
-1. [年加油约 1.5 万元，求推荐能褥羊毛的方法](https://www.v2ex.com/t/1020083) `33条评论` `优惠信息`
-1. [有个关于车险续保的问题想请教一下各位对这方面有了解的老哥](https://www.v2ex.com/t/1020020) `31条评论` `汽车`
-1. [需要 100G 的空间存放网站的图片,最便宜的方式是?](https://www.v2ex.com/t/1019979) `27条评论` `云计算`
-1. [USB A to C 充电疑问](https://www.v2ex.com/t/1020109) `26条评论` `Apple`
-1. [clash for windows 无了之后，大家现在用什么](https://www.v2ex.com/t/1020119) `20条评论` `问与答`
-1. [2024 应届，私企 还是 银行？求教各位大佬](https://www.v2ex.com/t/1020104) `16条评论` `职场话题`
-1. [Linux 非阻塞 epoll 编程中，如何解决大量 ESTABLISHED 连接后占着茅坑不拉屎的行为？](https://www.v2ex.com/t/1020072) `15条评论` `程序员`
-1. [用 WireGuard 连回家经常断， OpenVPN 稳得一匹](https://www.v2ex.com/t/1020069) `15条评论` `宽带症候群`
-1. [要怎么对非程序员描述网页版的离线单机应用？突然发现大部分人依然认为 web=线上。](https://www.v2ex.com/t/1020006) `15条评论` `问与答`
-1. [昨天去申请开了「香港渣打银行」账户，没想到 1 分钟不到就办好了。](https://www.v2ex.com/t/1019965) `14条评论` `香港`
-1. [对 ikbc poker 情有独钟，有线改三模来了！](https://www.v2ex.com/t/1020019) `13条评论` `程序员`
-1. [2024 年了，用什么语言写 iOS App 呢](https://www.v2ex.com/t/1019961) `13条评论` `iOS`
-1. [小米手机收不到 google 二次验证](https://www.v2ex.com/t/1020005) `12条评论` `Android`
-1. [微信支付和支付宝，你们选择哪个](https://www.v2ex.com/t/1019995) `12条评论` `Apple`
-1. [UOS 统信国产系统安装针式打印机的问题](https://www.v2ex.com/t/1019986) `12条评论` `问与答`
-1. [unraid U 盘选择](https://www.v2ex.com/t/1019974) `12条评论` `问与答`
-1. [有人同时借过两家银行信用贷吗，会有啥影响](https://www.v2ex.com/t/1019968) `12条评论` `招商银行`
 
 <!-- YESTERDAY END -->
 
