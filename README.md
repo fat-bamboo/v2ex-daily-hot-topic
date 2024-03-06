@@ -8,7 +8,7 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962) `278条评论` `Arc`
+1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962) `279条评论` `Arc`
 1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002) `130条评论` `杭州`
 1. [刚才用小米 12 pro 看了下片子，手机直接不能开机了，会不会被政府盯上了，被攻击了？](https://www.v2ex.com/t/1021086) `101条评论` `Android`
 1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955) `99条评论` `推广`
@@ -34,7 +34,7 @@
 1. [怎么杠京东价保？](https://www.v2ex.com/t/1021125) `17条评论` `问与答`
 1. [Windows 11 亮点之一的 Android app 支持这么快就凉凉了？？](https://www.v2ex.com/t/1021118) `17条评论` `Windows`
 
-数据更新于 2024-03-06 12:29:40
+数据更新于 2024-03-06 12:49:37
 
 <!-- TODAY END -->
 
