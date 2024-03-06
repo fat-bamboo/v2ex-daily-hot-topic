@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962) `148条评论` `分享发现`
+1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962) `152条评论` `分享发现`
 1. [发 10 个 Linux .do 站的邀请，三天有效](https://www.v2ex.com/t/1020970) `82条评论` `分享发现`
-1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955) `72条评论` `程序员`
-1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002) `70条评论` `杭州`
+1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955) `73条评论` `程序员`
+1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002) `72条评论` `杭州`
 1. [今年会是最差的一年吗](https://www.v2ex.com/t/1021023) `39条评论` `程序员`
 1. [如果你是 boss 直聘的产品经理，面对大量的已读不回所造成的很差的用户体验，你会怎么做？](https://www.v2ex.com/t/1020945) `38条评论` `问与答`
 1. [觉得大部分期刊和论文都是屎 是我的错觉吗](https://www.v2ex.com/t/1020950) `25条评论` `问与答`
@@ -30,11 +30,11 @@
 1. [关于外汇管制和跨境汇款政策](https://www.v2ex.com/t/1021020) `12条评论` `问与答`
 1. [一次 GO 项目重构的疑问](https://www.v2ex.com/t/1020966) `12条评论` `Go 编程语言`
 1. [求一款 iOS 上的支持脚本的抓包工具](https://www.v2ex.com/t/1020952) `11条评论` `问与答`
+1. [MacBook Air (M3) vs MacBook Pro (M3 Pro) 怎么选！](https://www.v2ex.com/t/1021043) `10条评论` `Apple`
 1. [请问 Arc 浏览器在 Windows 下要如何才能正常使用？](https://www.v2ex.com/t/1020971) `10条评论` `浏览器`
 1. [老朋友](https://www.v2ex.com/t/1020948) `10条评论` `生活`
-1. [喜提大礼包](https://www.v2ex.com/t/1020973) `9条评论` `问与答`
 
-数据更新于 2024-03-06 05:13:50
+数据更新于 2024-03-06 05:28:14
 
 <!-- TODAY END -->
 
