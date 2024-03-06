@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962) `240条评论` `分享发现`
-1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002) `114条评论` `杭州`
+1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962) `245条评论` `分享发现`
+1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002) `116条评论` `杭州`
 1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955) `95条评论` `推广`
-1. [刚才用小米 12 pro 看了下片子，手机直接不能开机了，会不会被政府盯上了，被攻击了？](https://www.v2ex.com/t/1021086) `86条评论` `Android`
+1. [刚才用小米 12 pro 看了下片子，手机直接不能开机了，会不会被政府盯上了，被攻击了？](https://www.v2ex.com/t/1021086) `93条评论` `Android`
 1. [发 10 个 Linux .do 站的邀请，三天有效](https://www.v2ex.com/t/1020970) `82条评论` `分享发现`
 1. [比特币昨晚涨到 69000 后大跌是什么逻辑，为啥不能突破。](https://www.v2ex.com/t/1020953) `65条评论` `Bitcoin`
 1. [意外险遭遇保险拒赔问题咨询](https://www.v2ex.com/t/1021082) `39条评论` `问与答`
@@ -24,17 +24,17 @@
 1. [Arc windows 测试版本邀请，需 Win11 版本](https://www.v2ex.com/t/1021034) `19条评论` `分享发现`
 1. [快递新规实施后，邮政 EMS 依旧将快递放菜鸟](https://www.v2ex.com/t/1021015) `19条评论` `生活`
 1. [外区 appleid 下 Apple Pay 能否绑定中国发行的 VISA/MC 卡？](https://www.v2ex.com/t/1020993) `19条评论` `Apple`
+1. [都云时代了，这些老技术观念是该时候转变下了](https://www.v2ex.com/t/1021131) `17条评论` `程序员`
 1. [怎么杠京东价保？](https://www.v2ex.com/t/1021125) `17条评论` `问与答`
-1. [Windows 11 亮点之一的 Android app 支持这么快就凉凉了？？](https://www.v2ex.com/t/1021118) `16条评论` `Windows`
+1. [Windows 11 亮点之一的 Android app 支持这么快就凉凉了？？](https://www.v2ex.com/t/1021118) `17条评论` `Windows`
 1. [3 月中旬北京旅游的影响](https://www.v2ex.com/t/1020949) `16条评论` `北京`
 1. [回南天主机挂了](https://www.v2ex.com/t/1021095) `15条评论` `深圳`
 1. [大佬们，推荐一个不断流的 WiFi6 路由器或者 ap](https://www.v2ex.com/t/1021093) `15条评论` `宽带症候群`
 1. [移动端免 Wi-Fi 代理进行抓包调试](https://www.v2ex.com/t/1021074) `15条评论` `程序员`
 1. [国际互联网昨晚地震了？](https://www.v2ex.com/t/1020951) `15条评论` `宽带症候群`
 1. [pdd 发力了， MBA M3 8+256,7499](https://www.v2ex.com/t/1021052) `14条评论` `Apple`
-1. [想给家里的 mbp 配个显示器，预算 2000 内， 4k 的是 27 寸的 还是 32 寸的？](https://www.v2ex.com/t/1021011) `14条评论` `MacBook Pro`
 
-数据更新于 2024-03-06 08:46:58
+数据更新于 2024-03-06 08:57:12
 
 <!-- TODAY END -->
 
