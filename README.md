@@ -8,10 +8,10 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682) `51条评论` `程序员`
+1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682) `56条评论` `程序员`
 1. [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687) `48条评论` `Windows`
+1. [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705) `27条评论` `程序员`
 1. [请问大家的 ChatGPT 现在可以用吗？](https://www.v2ex.com/t/1021675) `24条评论` `问与答`
-1. [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705) `23条评论` `程序员`
 1. [请教： Carplay 盒子无法使用“导航声道”的问题](https://www.v2ex.com/t/1021680) `23条评论` `Apple`
 1. [已婚已育的 92 年女生，求一份 web 前端工作](https://www.v2ex.com/t/1021662) `23条评论` `求职`
 1. [请教一个 opencv 算法，图片中检测圆形对象](https://www.v2ex.com/t/1021666) `17条评论` `OpenCV`
@@ -26,7 +26,7 @@
 1. [总感觉北京联通的 ipv6 线路质量很差，有同感的么？](https://www.v2ex.com/t/1021693) `6条评论` `宽带症候群`
 1. [有人折腾 terminal 么? 我在 windows 上用 git bash 安装了 zsh+ohmyzsh, 遇到问题](https://www.v2ex.com/t/1021674) `6条评论` `Terminal`
 
-数据更新于 2024-03-08 02:45:42
+数据更新于 2024-03-08 02:56:02
 
 <!-- TODAY END -->
 
