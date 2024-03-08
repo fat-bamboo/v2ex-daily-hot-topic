@@ -8,19 +8,20 @@
 
 <!-- TODAY BEGIN -->
 
-1. [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687) `62条评论` `Windows`
+1. [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687) `66条评论` `Windows`
 1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682) `60条评论` `微信`
 1. [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705) `36条评论` `分享创造`
 1. [请问大家的 ChatGPT 现在可以用吗？](https://www.v2ex.com/t/1021675) `24条评论` `问与答`
 1. [请教： Carplay 盒子无法使用“导航声道”的问题](https://www.v2ex.com/t/1021680) `23条评论` `Apple`
 1. [已婚已育的 92 年女生，求一份 web 前端工作](https://www.v2ex.com/t/1021662) `23条评论` `求职`
+1. [一年长 20 斤这个需求好实现吗？](https://www.v2ex.com/t/1021751) `20条评论` `生活`
+1. [预算 10w 左右启动资金，在老家县城做一个线上卖菜的小程序创业靠谱吗？](https://www.v2ex.com/t/1021759) `19条评论` `问与答`
 1. [请教一个 opencv 算法，图片中检测圆形对象](https://www.v2ex.com/t/1021666) `17条评论` `OpenCV`
 1. [claude 注册被秒封](https://www.v2ex.com/t/1021711) `16条评论` `OpenAI`
-1. [一年长 20 斤这个需求好实现吗？](https://www.v2ex.com/t/1021751) `15条评论` `生活`
 1. [现在的 ToDesk 怎么感觉越来越难用了](https://www.v2ex.com/t/1021743) `14条评论` `程序员`
-1. [预算 10w 左右启动资金，在老家县城做一个线上卖菜的小程序创业靠谱吗？](https://www.v2ex.com/t/1021759) `13条评论` `问与答`
 1. [妇女节 V 友送了什么礼物吗？](https://www.v2ex.com/t/1021717) `13条评论` `问与答`
 1. [今年和去年相比，行情变好了还是变差了？](https://www.v2ex.com/t/1021672) `11条评论` `职场话题`
+1. [可惜了，这么好的技术观点讨论帖在 v 站被 ban 了](https://www.v2ex.com/t/1021765) `10条评论` `程序员`
 1. [Tesla model 3 焕新版使用体验怎么样？](https://www.v2ex.com/t/1021667) `10条评论` `问与答`
 1. [非一线城市的上班文化普遍卷，那么……](https://www.v2ex.com/t/1021757) `9条评论` `程序员`
 1. [取暖补贴](https://www.v2ex.com/t/1021671) `9条评论` `北京`
@@ -28,11 +29,12 @@
 1. [[求推荐] 眼镜纸巾](https://www.v2ex.com/t/1021729) `8条评论` `问与答`
 1. [问下 nas 选哪种模式好 jbod， raid1-10， shr...](https://www.v2ex.com/t/1021684) `7条评论` `问与答`
 1. [求助，苹果 app 突然被国内下架的问题](https://www.v2ex.com/t/1021663) `7条评论` `问与答`
+1. [海底光纤遭到人为破坏？大家一起来整理挂掉的服务？以免他人苦苦调试 Bug？](https://www.v2ex.com/t/1021764) `6条评论` `程序员`
 1. [Gpt 是抽风了吗](https://www.v2ex.com/t/1021739) `6条评论` `OpenAI`
 1. [总感觉北京联通的 ipv6 线路质量很差，有同感的么？](https://www.v2ex.com/t/1021693) `6条评论` `宽带症候群`
 1. [有人折腾 terminal 么? 我在 windows 上用 git bash 安装了 zsh+ohmyzsh, 遇到问题](https://www.v2ex.com/t/1021674) `6条评论` `Terminal`
 
-数据更新于 2024-03-08 03:36:41
+数据更新于 2024-03-08 03:47:06
 
 <!-- TODAY END -->
 
