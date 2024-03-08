@@ -8,19 +8,21 @@
 
 <!-- TODAY BEGIN -->
 
-1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682) `24条评论` `程序员`
+1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682) `45条评论` `程序员`
+1. [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687) `41条评论` `Windows`
 1. [已婚已育的 92 年女生，求一份 web 前端工作](https://www.v2ex.com/t/1021662) `23条评论` `求职`
+1. [请问大家的 ChatGPT 现在可以用吗？](https://www.v2ex.com/t/1021675) `22条评论` `问与答`
+1. [请教： Carplay 盒子无法使用“导航声道”的问题](https://www.v2ex.com/t/1021680) `20条评论` `Apple`
 1. [请教一个 opencv 算法，图片中检测圆形对象](https://www.v2ex.com/t/1021666) `17条评论` `OpenCV`
-1. [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687) `14条评论` `Windows`
-1. [请问大家的 ChatGPT 现在可以用吗？](https://www.v2ex.com/t/1021675) `11条评论` `问与答`
+1. [今年和去年相比，行情变好了还是变差了？](https://www.v2ex.com/t/1021672) `11条评论` `职场话题`
 1. [Tesla model 3 焕新版使用体验怎么样？](https://www.v2ex.com/t/1021667) `10条评论` `问与答`
+1. [取暖补贴](https://www.v2ex.com/t/1021671) `9条评论` `北京`
 1. [mac mini 每天早上来都唤醒不了，怎么找原因](https://www.v2ex.com/t/1021664) `9条评论` `问与答`
-1. [请教： Carplay 盒子无法使用“导航声道”的问题](https://www.v2ex.com/t/1021680) `8条评论` `Apple`
-1. [今年和去年相比，行情变好了还是变差了？](https://www.v2ex.com/t/1021672) `8条评论` `职场话题`
-1. [取暖补贴](https://www.v2ex.com/t/1021671) `8条评论` `北京`
+1. [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705) `7条评论` `程序员`
 1. [求助，苹果 app 突然被国内下架的问题](https://www.v2ex.com/t/1021663) `7条评论` `问与答`
+1. [问下 nas 选哪种模式好 jbod， raid1-10， shr...](https://www.v2ex.com/t/1021684) `6条评论` `问与答`
 
-数据更新于 2024-03-08 01:55:10
+数据更新于 2024-03-08 02:20:06
 
 <!-- TODAY END -->
 
