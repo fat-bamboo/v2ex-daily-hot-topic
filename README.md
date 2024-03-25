@@ -34,7 +34,7 @@
 1. [开发 API 的时候 http method 应该使用 PUT、PATCH、DELETE 等协议还得直接用 GET、POST](https://www.v2ex.com/t/1026944) `19条评论` `程序员`
 1. [有什么是 AI 做不了的？](https://www.v2ex.com/t/1026773) `19条评论` `程序员`
 
-数据更新于 2024-03-25 16:18:20
+数据更新于 2024-03-25 16:32:57
 
 <!-- TODAY END -->
 
