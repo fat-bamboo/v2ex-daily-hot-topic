@@ -8,24 +8,24 @@
 
 <!-- TODAY BEGIN -->
 
-1. [怎么证明自己写的代码，是有价值的？](https://www.v2ex.com/t/1027644) `49条评论` `程序员`
+1. [贷款买比特币 etf](https://www.v2ex.com/t/1027626) `55条评论` `Bitcoin`
+1. [怎么证明自己写的代码，是有价值的？](https://www.v2ex.com/t/1027644) `52条评论` `程序员`
 1. [情侣间互相定位合适吗](https://www.v2ex.com/t/1027628) `45条评论` `问与答`
-1. [贷款买比特币 etf](https://www.v2ex.com/t/1027626) `45条评论` `Bitcoin`
 1. [求推荐落地 25w 左右的油车，坐标上海](https://www.v2ex.com/t/1027634) `36条评论` `汽车`
-1. [机场服务商是哪来那么多服务器的](https://www.v2ex.com/t/1027648) `30条评论` `程序员`
+1. [机场服务商是哪来那么多服务器的](https://www.v2ex.com/t/1027648) `31条评论` `程序员`
+1. [降薪第二天，公司好像没了生气](https://www.v2ex.com/t/1027658) `27条评论` `职场话题`
 1. [提问：最近学习网络层协议，一直不理解不同子网的机器如何通信，请大佬指教](https://www.v2ex.com/t/1027635) `26条评论` `Linux`
-1. [降薪第二天，公司好像没了生气](https://www.v2ex.com/t/1027658) `25条评论` `职场话题`
 1. [oracle 东京网络是不是出问题了？](https://www.v2ex.com/t/1027643) `19条评论` `云计算`
-1. [要写 win7+的桌面端单机软件，技术如何选型？](https://www.v2ex.com/t/1027637) `16条评论` `程序员`
+1. [要写 win7+的桌面端单机软件，技术如何选型？](https://www.v2ex.com/t/1027637) `19条评论` `程序员`
+1. [清明放假 3 天,公式怎么算的?](https://www.v2ex.com/t/1027672) `10条评论` `职场话题`
+1. [Say goodbay to evernote](https://www.v2ex.com/t/1027655) `10条评论` `Evernote`
 1. [mac 上好用的软件推荐](https://www.v2ex.com/t/1027649) `10条评论` `macOS`
-1. [清明放假 3 天,公式怎么算的?](https://www.v2ex.com/t/1027672) `9条评论` `职场话题`
-1. [Say goodbay to evernote](https://www.v2ex.com/t/1027655) `9条评论` `Evernote`
-1. [求助大佬，用 Fildder 进行手机 app 抓包](https://www.v2ex.com/t/1027645) `9条评论` `问与答`
+1. [求助大佬，用 Fildder 进行手机 app 抓包](https://www.v2ex.com/t/1027645) `10条评论` `问与答`
 1. [丑丑头像设计器小程序版](https://www.v2ex.com/t/1027646) `8条评论` `程序员`
 1. [eu.org 套 CF 不行了啊？](https://www.v2ex.com/t/1027631) `8条评论` `Cloudflare`
 1. [技术项目求助](https://www.v2ex.com/t/1027657) `7条评论` `程序员`
 
-数据更新于 2024-03-28 02:38:33
+数据更新于 2024-03-28 02:48:52
 
 <!-- TODAY END -->
 
