@@ -11,8 +11,9 @@
 1. [2024 年春招，帮孩子选个 offer 万得 vs 中体彩 民企/国企](https://www.v2ex.com/t/1028501) `21条评论` `职场话题`
 1. [国产大模型都是垃圾](https://www.v2ex.com/t/1028510) `19条评论` `Python`
 1. [为了眼睛，有什么软件可以口读公众号文章的？](https://www.v2ex.com/t/1028497) `15条评论` `问与答`
-1. [onedrive E5 已经不允许申请了，各位有什么替代品？适合用 alist 做下载盘的？](https://www.v2ex.com/t/1028513) `13条评论` `问与答`
+1. [onedrive E5 已经不允许申请了，各位有什么替代品？适合用 alist 做下载盘的？](https://www.v2ex.com/t/1028513) `14条评论` `问与答`
 1. [请问为什么 if 和 else 要匹配呀？](https://www.v2ex.com/t/1028518) `9条评论` `问与答`
+1. [旧版 android 是完全停止支持了吗？](https://www.v2ex.com/t/1028521) `8条评论` `Android`
 1. [potplayer 播放视频亮度对比度很奇怪](https://www.v2ex.com/t/1028515) `8条评论` `问与答`
 1. [上海电信公网又刷新了](https://www.v2ex.com/t/1028494) `8条评论` `宽带症候群`
 1. [Apple TV，索尼回音壁，海信 E8H 电视机怎么接](https://www.v2ex.com/t/1028496) `7条评论` `Apple TV`
@@ -21,7 +22,7 @@
 1. [为何修改了 Chrome 字体设置后，某些网站仍未显示更改的字体？](https://www.v2ex.com/t/1028511) `6条评论` `Chrome`
 1. [如何批量导出阿里云盘下载的文件](https://www.v2ex.com/t/1028492) `6条评论` `Apple`
 
-数据更新于 2024-03-31 05:27:27
+数据更新于 2024-03-31 05:37:55
 
 <!-- TODAY END -->
 
