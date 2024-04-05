@@ -32,9 +32,9 @@
 1. [Windows HDR 视频播放求解](https://www.v2ex.com/t/1029793) `12条评论` `Windows`
 1. [请教一个关于 sing-box Tun 模式路由的问题](https://www.v2ex.com/t/1029909) `11条评论` `Linux`
 1. [这两款千元出头的 27 寸 4k 显示器怎么选？](https://www.v2ex.com/t/1029844) `11条评论` `macOS`
-1. [请教 ocserv 的分组隧道配置问题.](https://www.v2ex.com/t/1029800) `10条评论` `宽带症候群`
+1. [tailscale 异地组网求助🙏](https://www.v2ex.com/t/1029911) `10条评论` `OpenWrt`
 
-数据更新于 2024-04-05 17:49:30
+数据更新于 2024-04-05 17:59:50
 
 <!-- TODAY END -->
 
