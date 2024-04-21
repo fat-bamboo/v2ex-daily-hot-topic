@@ -8,14 +8,14 @@
 
 <!-- TODAY BEGIN -->
 
-1. [差点挂了](https://www.v2ex.com/t/1034302) `22条评论` `健康`
+1. [差点挂了](https://www.v2ex.com/t/1034302) `23条评论` `健康`
 1. [我在北美无法注册新的 QQ 号，旧的也无法找回了，现在需要用 QQ，这里在国内的朋友帮我注册一个，或者卖我一个也行，拜托拜托，谢谢各位哥哥姐姐，弟弟妹妹们，帮帮孩子吧😭](https://www.v2ex.com/t/1034294) `20条评论` `分享发现`
 1. [阿里云 OSS 可以套一层 cloudflare 的 cdn 实现海外访问吗？](https://www.v2ex.com/t/1034301) `12条评论` `程序员`
+1. [最喜欢 obsidian 的这几个功能 2](https://www.v2ex.com/t/1034313) `7条评论` `软件`
 1. [大家有在网上配眼镜么，有什么店铺可以推荐？](https://www.v2ex.com/t/1034304) `7条评论` `互联网`
-1. [最喜欢 obsidian 的这几个功能 2](https://www.v2ex.com/t/1034313) `6条评论` `软件`
 1. [AlibabaCloud/Opencloud/centos8/Ubuntu/Debian 各自有什么优势](https://www.v2ex.com/t/1034311) `6条评论` `问与答`
 
-数据更新于 2024-04-21 03:48:14
+数据更新于 2024-04-21 03:58:28
 
 <!-- TODAY END -->
 
